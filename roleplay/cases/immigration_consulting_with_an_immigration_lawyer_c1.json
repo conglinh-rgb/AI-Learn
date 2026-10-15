@@ -1,0 +1,289 @@
+{
+  "id": "immigration_consulting_with_an_immigration_lawyer_c1",
+  "title": "Your First Consultation",
+  "title_translations": {
+    "en": "Your First Consultation",
+    "es": "Su primera consulta",
+    "fr": "Votre première consultation",
+    "de": "Ihre erste Beratung",
+    "it": "La tua prima consulenza",
+    "pl": "Twoja pierwsza konsultacja",
+    "pt": "Sua primeira consulta",
+    "nl": "Je eerste consult",
+    "hr": "Tvoje prvo savjetovanje",
+    "tr": "İlk Danışma Görüşmeniz",
+    "uk": "Перша консультація",
+    "ar": "استشارتك الأولى",
+    "hi": "आपकी पहली कंसल्टेशन",
+    "vi": "Buổi tư vấn đầu tiên",
+    "id": "Konsultasi Pertamamu",
+    "ms": "Konsultasi Pertama Anda",
+    "ko": "첫 상담"
+  },
+  "character": "fox",
+  "scenario": "You are meeting an immigration lawyer (AI) for the first time. They want to understand your situation.",
+  "scenario_translations": {
+    "en": "You are meeting an immigration lawyer (AI) for the first time. They want to understand your situation.",
+    "es": "Se reúne por primera vez con un abogado de inmigración (AI) que quiere entender su situación.",
+    "fr": "Vous rencontrez un avocat spécialisé en immigration (AI) pour la première fois. Il veut comprendre votre situation.",
+    "de": "Sie treffen zum ersten Mal eine Anwältin bzw. einen Anwalt für Einwanderungsrecht (AI), die bzw. der Ihre Situation verstehen möchte.",
+    "it": "Incontri per la prima volta un avvocato per l'immigrazione (AI), che vuole capire la tua situazione.",
+    "pl": "Spotykasz się po raz pierwszy z prawniczką imigracyjną (AI). Chce zrozumieć twoją sytuację.",
+    "pt": "Você vai se encontrar pela primeira vez com um advogado de imigração (AI). Ele quer entender a sua situação.",
+    "nl": "Je hebt voor het eerst een afspraak met een immigratieadvocaat (AI). Ze wil je situatie begrijpen.",
+    "hr": "Prvi put se sastaješ s imigracijskim odvjetnikom (AI). Želi razumjeti tvoju situaciju.",
+    "tr": "Bir göçmenlik avukatıyla (AI) ilk kez görüşüyorsunuz. Durumunuzu anlamak istiyor.",
+    "uk": "У тебе перша зустріч з імміграційним юристом (AI). Він хоче зрозуміти твою ситуацію.",
+    "ar": "تلتقي بمحامي هجرة (AI) لأول مرة. يريد أن يفهم وضعك.",
+    "hi": "आप पहली बार एक इमिग्रेशन वकील (AI) से मिल रहे हैं। वे आपकी स्थिति समझना चाहते हैं।",
+    "vi": "Bạn gặp luật sư di trú (AI) lần đầu tiên. Họ muốn hiểu rõ hoàn cảnh của bạn.",
+    "id": "Kamu bertemu dengan pengacara imigrasi (AI) untuk pertama kalinya. Dia ingin memahami situasimu.",
+    "ms": "Anda bertemu dengan peguam imigresen (AI) buat kali pertama. Mereka mahu memahami keadaan anda.",
+    "ko": "이민 변호사(AI)를 처음 만납니다. 변호사는 당신의 상황을 파악하고 싶어 합니다."
+  },
+  "mission": {
+    "native": "Explain your situation to the lawyer and ask what the next step is.",
+    "native_translations": {
+      "en": "Explain your situation to the lawyer and ask what the next step is.",
+      "es": "Explique su situación al abogado y pregunte cuál es el siguiente paso.",
+      "fr": "Expliquez votre situation à l'avocat et demandez quelle est la prochaine étape.",
+      "de": "Schildern Sie Ihre Situation und fragen Sie nach dem nächsten Schritt.",
+      "it": "Spiega la tua situazione all'avvocato e chiedi qual è il prossimo passo.",
+      "pl": "Przedstaw prawniczce swoją sytuację i zapytaj, jaki jest kolejny krok.",
+      "pt": "Explique sua situação ao advogado e pergunte qual é o próximo passo.",
+      "nl": "Leg je situatie uit aan de advocaat en vraag wat de volgende stap is.",
+      "hr": "Objasni odvjetniku svoju situaciju i pitaj koji je sljedeći korak.",
+      "tr": "Durumunuzu avukata açıklayın ve bir sonraki adımın ne olduğunu sorun.",
+      "uk": "Поясни юристові свою ситуацію й запитай, який наступний крок.",
+      "ar": "اشرح وضعك للمحامي واسأل عن الخطوة التالية.",
+      "hi": "वकील को अपनी स्थिति बताइए और पूछिए कि अगला क़दम क्या है।",
+      "vi": "Giải thích hoàn cảnh của bạn với luật sư và hỏi bước tiếp theo là gì.",
+      "id": "Jelaskan situasimu kepada pengacara dan tanyakan langkah selanjutnya.",
+      "ms": "Terangkan keadaan anda kepada peguam dan tanya apakah langkah seterusnya.",
+      "ko": "변호사에게 상황을 설명하고 다음 단계가 무엇인지 물어보세요."
+    },
+    "practice": "Explique su situación al abogado y pregunte cuál es el siguiente paso.",
+    "practice_translations": {
+      "en": "Explain your situation to the lawyer and ask what the next step is.",
+      "es": "Explique su situación al abogado y pregunte cuál es el siguiente paso.",
+      "ja": "弁護士に自分の状況を説明して、次のステップを聞いてください。",
+      "ko": "변호사에게 상황을 설명하고 다음 단계가 무엇인지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain why you came to the consultation",
+        "native_translations": {
+          "en": "Explain why you came to the consultation",
+          "es": "Explique por qué vino a la consulta",
+          "fr": "Expliquez pourquoi vous venez consulter",
+          "de": "Erklären Sie, warum Sie zur Beratung gekommen sind",
+          "it": "Spiega perché sei venuto alla consulenza",
+          "pl": "Wyjaśnij, dlaczego przyszedłeś na konsultację",
+          "pt": "Explique por que você veio à consulta",
+          "nl": "Leg uit waarom je voor het consult komt",
+          "hr": "Objasni razlog dolaska na savjetovanje",
+          "tr": "Danışmaya neden geldiğinizi açıklayın",
+          "uk": "Поясни, навіщо ти прийшов на консультацію",
+          "ar": "اشرح سبب حضورك للاستشارة",
+          "hi": "बताइए कि आप कंसल्टेशन के लिए क्यों आए हैं",
+          "vi": "Giải thích lý do bạn đến tư vấn",
+          "id": "Jelaskan kenapa kamu datang untuk konsultasi",
+          "ms": "Terangkan sebab anda datang untuk konsultasi",
+          "ko": "상담을 받으러 온 이유를 설명하세요"
+        },
+        "practice": "Explique por qué vino a la consulta",
+        "practice_translations": {
+          "en": "Explain why you came to the consultation",
+          "es": "Explique por qué vino a la consulta",
+          "ja": "相談に来た理由を説明してください",
+          "ko": "상담을 받으러 온 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say how long you have lived here",
+        "native_translations": {
+          "en": "Say how long you have lived here",
+          "es": "Diga cuánto tiempo lleva viviendo aquí",
+          "fr": "Dites depuis combien de temps vous vivez ici",
+          "de": "Sagen Sie, wie lange Sie schon hier leben",
+          "it": "Di' da quanto tempo vivi qui",
+          "pl": "Powiedz, jak długo tu mieszkasz",
+          "pt": "Diga há quanto tempo você mora aqui",
+          "nl": "Zeg hoe lang je hier al woont",
+          "hr": "Reci koliko dugo živiš ovdje",
+          "tr": "Ne kadar süredir burada yaşadığınızı söyleyin",
+          "uk": "Скажи, скільки часу ти тут живеш",
+          "ar": "قل منذ متى تعيش هنا",
+          "hi": "बताइए कि आप यहाँ कितने समय से रह रहे हैं",
+          "vi": "Nói bạn đã sống ở đây bao lâu",
+          "id": "Sebutkan sudah berapa lama kamu tinggal di sini",
+          "ms": "Katakan berapa lama anda telah tinggal di sini",
+          "ko": "이곳에서 얼마나 살았는지 말하세요"
+        },
+        "practice": "Diga cuánto tiempo lleva viviendo aquí",
+        "practice_translations": {
+          "en": "Say how long you have lived here",
+          "es": "Diga cuánto tiempo lleva viviendo aquí",
+          "ja": "ここに住んでどれくらいになるか伝えてください",
+          "ko": "이곳에서 얼마나 살았는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask what the next step is",
+        "native_translations": {
+          "en": "Ask what the next step is",
+          "es": "Pregunte cuál es el siguiente paso",
+          "fr": "Demandez quelle est la prochaine étape",
+          "de": "Fragen Sie nach dem nächsten Schritt",
+          "it": "Chiedi qual è il prossimo passo",
+          "pl": "Zapytaj, jaki jest kolejny krok",
+          "pt": "Pergunte qual é o próximo passo",
+          "nl": "Vraag wat de volgende stap is",
+          "hr": "Pitaj koji je sljedeći korak",
+          "tr": "Bir sonraki adımın ne olduğunu sorun",
+          "uk": "Запитай, який наступний крок",
+          "ar": "اسأل عن الخطوة التالية",
+          "hi": "पूछिए कि अगला क़दम क्या है",
+          "vi": "Hỏi bước tiếp theo là gì",
+          "id": "Tanyakan langkah selanjutnya",
+          "ms": "Tanya apakah langkah seterusnya",
+          "ko": "다음 단계가 무엇인지 물어보세요"
+        },
+        "practice": "Pregunte cuál es el siguiente paso",
+        "practice_translations": {
+          "en": "Ask what the next step is",
+          "es": "Pregunte cuál es el siguiente paso",
+          "ja": "次のステップを聞いてください",
+          "ko": "다음 단계가 무엇인지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for seeing me today.",
+      "native_translations": {
+        "en": "Thank you for seeing me today.",
+        "es": "Gracias por recibirme hoy.",
+        "fr": "Merci de me recevoir aujourd'hui.",
+        "de": "Vielen Dank, dass Sie sich heute Zeit für mich nehmen.",
+        "it": "Grazie per avermi ricevuto oggi.",
+        "pl": "Dziękuję, że pani mnie dziś przyjęła.",
+        "pt": "Obrigado por me receber hoje.",
+        "nl": "Dank u wel dat u me vandaag wilt ontvangen.",
+        "hr": "Hvala Vam što ste me danas primili.",
+        "tr": "Bugün benimle görüştüğünüz için teşekkür ederim.",
+        "uk": "Дякую, що прийняли мене сьогодні.",
+        "ar": "شكرًا لك على استقبالي اليوم.",
+        "hi": "आज मुझसे मिलने के लिए धन्यवाद।",
+        "vi": "Cảm ơn luật sư đã gặp tôi hôm nay.",
+        "id": "Terima kasih sudah menerima saya hari ini.",
+        "ms": "Terima kasih kerana sudi berjumpa dengan saya hari ini.",
+        "ko": "오늘 시간 내 주셔서 감사합니다."
+      },
+      "practice": "Gracias por recibirme hoy.",
+      "practice_translations": {
+        "en": "Thank you for seeing me today.",
+        "es": "Gracias por recibirme hoy.",
+        "ja": "本日はお時間をいただきありがとうございます。",
+        "ko": "오늘 시간 내 주셔서 감사합니다."
+      }
+    },
+    {
+      "native": "I'd like to know my options to stay in the country.",
+      "native_translations": {
+        "en": "I'd like to know my options to stay in the country.",
+        "es": "Me gustaría conocer mis opciones para quedarme en el país.",
+        "fr": "J'aimerais connaître mes options pour rester dans le pays.",
+        "de": "Ich möchte wissen, welche Möglichkeiten ich habe, im Land zu bleiben.",
+        "it": "Vorrei conoscere le mie possibilità per restare nel paese.",
+        "pl": "Chciałbym poznać moje możliwości pozostania w kraju.",
+        "pt": "Gostaria de saber quais são minhas opções para continuar no país.",
+        "nl": "Ik wil graag weten welke mogelijkheden ik heb om in het land te blijven.",
+        "hr": "Zanima me koje su mi mogućnosti da ostanem u zemlji.",
+        "tr": "Ülkede kalmak için hangi seçeneklerim olduğunu öğrenmek istiyorum.",
+        "uk": "Я хотів би дізнатися, які в мене є варіанти, щоб залишитися в країні.",
+        "ar": "أود أن أعرف الخيارات المتاحة لي للبقاء في البلد.",
+        "hi": "मैं जानना चाहता हूँ कि इस देश में रहने के लिए मेरे पास क्या विकल्प हैं।",
+        "vi": "Tôi muốn biết mình có những lựa chọn nào để ở lại đất nước này.",
+        "id": "Saya ingin tahu pilihan apa saja yang saya punya untuk tetap tinggal di negara ini.",
+        "ms": "Saya ingin tahu pilihan saya untuk terus tinggal di negara ini.",
+        "ko": "이 나라에 계속 머물 수 있는 방법을 알고 싶어요."
+      },
+      "practice": "Me gustaría conocer mis opciones para quedarme en el país.",
+      "practice_translations": {
+        "en": "I'd like to know my options to stay in the country.",
+        "es": "Me gustaría conocer mis opciones para quedarme en el país.",
+        "ja": "この国に残るための選択肢を知りたいのです。",
+        "ko": "이 나라에 계속 머물 수 있는 방법을 알고 싶어요."
+      }
+    },
+    {
+      "native": "I have lived here for three years.",
+      "native_translations": {
+        "en": "I have lived here for three years.",
+        "es": "Llevo tres años viviendo aquí.",
+        "fr": "Je vis ici depuis trois ans.",
+        "de": "Ich lebe seit drei Jahren hier.",
+        "it": "Vivo qui da tre anni.",
+        "pl": "Mieszkam tu od trzech lat.",
+        "pt": "Moro aqui há três anos.",
+        "nl": "Ik woon hier al drie jaar.",
+        "hr": "Ovdje živim već tri godine.",
+        "tr": "Üç yıldır burada yaşıyorum.",
+        "uk": "Я живу тут уже три роки.",
+        "ar": "أعيش هنا منذ ثلاث سنوات.",
+        "hi": "मैं यहाँ तीन साल से रह रहा हूँ।",
+        "vi": "Tôi đã sống ở đây được ba năm.",
+        "id": "Saya sudah tinggal di sini selama tiga tahun.",
+        "ms": "Saya telah tinggal di sini selama tiga tahun.",
+        "ko": "여기서 3년 동안 살았어요."
+      },
+      "practice": "Llevo tres años viviendo aquí.",
+      "practice_translations": {
+        "en": "I have lived here for three years.",
+        "es": "Llevo tres años viviendo aquí.",
+        "ja": "ここに住んで3年になります。",
+        "ko": "여기서 3년 동안 살았어요."
+      }
+    },
+    {
+      "native": "What should I do next?",
+      "native_translations": {
+        "en": "What should I do next?",
+        "es": "¿Qué debo hacer ahora?",
+        "fr": "Que dois-je faire maintenant ?",
+        "de": "Was sollte ich als Nächstes tun?",
+        "it": "Cosa dovrei fare adesso?",
+        "pl": "Co powinienem zrobić dalej?",
+        "pt": "O que eu devo fazer agora?",
+        "nl": "Wat moet ik nu doen?",
+        "hr": "Koji je moj sljedeći korak?",
+        "tr": "Bundan sonra ne yapmalıyım?",
+        "uk": "Що мені робити далі?",
+        "ar": "ماذا يجب أن أفعل بعد ذلك؟",
+        "hi": "मुझे आगे क्या करना चाहिए?",
+        "vi": "Tiếp theo tôi nên làm gì?",
+        "id": "Apa yang sebaiknya saya lakukan selanjutnya?",
+        "ms": "Apa yang patut saya lakukan seterusnya?",
+        "ko": "이제 뭘 해야 하나요?"
+      },
+      "practice": "¿Qué debo hacer ahora?",
+      "practice_translations": {
+        "en": "What should I do next?",
+        "es": "¿Qué debo hacer ahora?",
+        "ja": "次に何をすればよいでしょうか。",
+        "ko": "이제 뭘 해야 하나요?"
+      }
+    }
+  ]
+}

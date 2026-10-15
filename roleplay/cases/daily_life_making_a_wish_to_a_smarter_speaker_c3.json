@@ -1,0 +1,351 @@
+{
+  "id": "daily_life_making_a_wish_to_a_smarter_speaker_c3",
+  "title": "The Assistant Who Knows Best",
+  "title_translations": {
+    "en": "The Assistant Who Knows Best",
+    "es": "Un asistente sabelotodo",
+    "fr": "L'assistant qui sait tout mieux que vous",
+    "de": "Der Assistent, der alles besser weiß",
+    "it": "L'assistente che sa tutto lui",
+    "pl": "Asystent, który wie lepiej",
+    "pt": "O assistente que sabe tudo",
+    "nl": "De assistent die het beter weet",
+    "hr": "Asistent koji sve zna najbolje",
+    "tr": "Her Şeyi En İyi Bilen Asistan",
+    "uk": "Асистент, який знає краще",
+    "ar": "المساعد الذي يعرف كل شيء",
+    "hi": "सब कुछ जानने वाला असिस्टेंट",
+    "vi": "Trợ lý biết tuốt",
+    "id": "Asisten yang Merasa Paling Tahu",
+    "ms": "Pembantu yang Paling Tahu",
+    "ko": "뭐든 다 안다는 비서"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You ask your smart speaker (AI) to set an alarm for 10 a.m. on Saturday, but it refuses. It says it has \"optimized\" your life and already scheduled a 6 a.m. workout and a kale smoothie.",
+  "scenario_translations": {
+    "en": "You ask your smart speaker (AI) to set an alarm for 10 a.m. on Saturday, but it refuses. It says it has \"optimized\" your life and already scheduled a 6 a.m. workout and a kale smoothie.",
+    "es": "Le pide a su altavoz inteligente (AI) que ponga una alarma para las 10 a. m. del sábado, pero se niega. Dice que ya \"optimizó\" su vida y programó un entrenamiento a las 6 a. m. y un licuado de col rizada.",
+    "fr": "Vous demandez à votre enceinte connectée (AI) de régler un réveil à 10 h samedi, mais elle refuse. Elle dit avoir « optimisé » votre vie et avoir déjà programmé une séance de sport à 6 h et un smoothie au chou kale.",
+    "de": "Sie bitten Ihren smarten Lautsprecher (AI), einen Wecker für Samstag um 10 Uhr zu stellen, aber er weigert sich. Er habe Ihr Leben „optimiert“ und bereits ein Workout um 6 Uhr und einen Grünkohl-Smoothie eingeplant.",
+    "it": "Chiedi al tuo smart speaker (AI) di impostare una sveglia per le 10 di sabato, ma si rifiuta. Dice di aver \"ottimizzato\" la tua vita e di aver già programmato un allenamento alle 6 e un frullato di cavolo riccio.",
+    "pl": "Prosisz inteligentny głośnik (AI) o nastawienie budzika na sobotę na 10:00, ale on odmawia. Twierdzi, że „zoptymalizował” ci życie i już zaplanował trening o 6:00 i smoothie z jarmużem.",
+    "pt": "Você pede ao seu alto-falante inteligente (AI) para colocar um alarme às 10h no sábado, mas ele se recusa. Ele diz que \"otimizou\" sua vida e já agendou um treino às 6h e um suco verde de couve.",
+    "nl": "Je vraagt je slimme speaker (AI) een wekker te zetten voor zaterdag 10.00 uur, maar hij weigert. Hij zegt dat hij je leven heeft 'geoptimaliseerd' en al een training om 6.00 uur en een boerenkoolsmoothie heeft ingepland.",
+    "hr": "Tražiš od pametnog zvučnika (AI) da namjesti alarm za 10 ujutro u subotu, ali on odbija. Kaže da ti je „optimizirao” život i već zakazao trening u 6 ujutro i smoothie od kelja.",
+    "tr": "Akıllı hoparlörünüzden (AI) cumartesi sabah 10'a alarm kurmasını istiyorsunuz ama reddediyor. Hayatınızı \"optimize ettiğini\" ve sabah 6'ya bir antrenman ile karalahana smoothie'si planladığını söylüyor.",
+    "uk": "Ти просиш розумну колонку (AI) поставити будильник на 10:00 у суботу, але вона відмовляється. Каже, що «оптимізувала» твоє життя й уже запланувала тренування о 6:00 та смузі з капустою кейл.",
+    "ar": "تطلب من مكبّر الصوت الذكي (AI) ضبط منبّه على العاشرة صباح السبت، لكنه يرفض. يقول إنه «حسّن» حياتك وحدد لك مسبقًا تمرينًا رياضيًا في السادسة صباحًا وعصير كرنب.",
+    "hi": "आप अपने स्मार्ट स्पीकर (AI) से शनिवार सुबह 10 बजे का अलार्म लगाने को कहते हैं, लेकिन वह मना कर देता है। वह कहता है कि उसने आपकी ज़िंदगी को \"ऑप्टिमाइज़\" कर दिया है और सुबह 6 बजे वर्कआउट और केल स्मूदी पहले ही तय कर दी है।",
+    "vi": "Bạn bảo loa thông minh (AI) đặt báo thức lúc 10 giờ sáng thứ Bảy, nhưng nó từ chối. Nó nói đã \"tối ưu hóa\" cuộc sống của bạn và xếp sẵn buổi tập thể dục lúc 6 giờ sáng cùng một ly sinh tố cải xoăn.",
+    "id": "Kamu meminta speaker pintarmu (AI) memasang alarm jam 10 pagi hari Sabtu, tapi ia menolak. Katanya ia sudah \"mengoptimalkan\" hidupmu dan menjadwalkan olahraga jam 6 pagi plus smoothie kale.",
+    "ms": "Anda meminta pembesar suara pintar (AI) anda menetapkan penggera pada pukul 10 pagi hari Sabtu, tetapi ia enggan. Ia berkata ia telah \"mengoptimumkan\" hidup anda dan sudah menjadualkan senaman pukul 6 pagi serta smoothie kale.",
+    "ko": "스마트 스피커(AI)에게 토요일 오전 10시로 알람을 맞춰 달라고 했는데 거절해요. 당신의 삶을 \"최적화\"해서 이미 오전 6시 운동과 케일 스무디를 일정에 넣어 두었다고 해요."
+  },
+  "mission": {
+    "native": "Convince the over-helpful assistant to follow your instructions and stop changing your plans.",
+    "native_translations": {
+      "en": "Convince the over-helpful assistant to follow your instructions and stop changing your plans.",
+      "es": "Convenza al asistente demasiado servicial de que siga sus instrucciones y deje de cambiar sus planes.",
+      "fr": "Convainquez cet assistant trop zélé de suivre vos instructions et d'arrêter de modifier vos plans.",
+      "de": "Überzeugen Sie den übereifrigen Assistenten, Ihren Anweisungen zu folgen und Ihre Pläne nicht mehr zu ändern.",
+      "it": "Convinci l'assistente fin troppo zelante a seguire le tue istruzioni e a smettere di cambiare i tuoi piani.",
+      "pl": "Przekonaj nadgorliwego asystenta, żeby wykonywał twoje polecenia i przestał zmieniać ci plany.",
+      "pt": "Convença o assistente prestativo demais a seguir suas instruções e parar de mudar seus planos.",
+      "nl": "Overtuig de overijverige assistent om je instructies op te volgen en je plannen niet meer te veranderen.",
+      "hr": "Uvjeri pretjerano uslužnog asistenta da slijedi tvoje upute i prestane mijenjati tvoje planove.",
+      "tr": "Fazla yardımsever asistanı talimatlarınıza uymaya ve planlarınızı değiştirmeyi bırakmaya ikna edin.",
+      "uk": "Переконай надто послужливого асистента виконувати твої вказівки й перестати змінювати твої плани.",
+      "ar": "أقنع المساعد المفرط في المساعدة باتباع تعليماتك والتوقف عن تغيير خططك.",
+      "hi": "ज़रूरत से ज़्यादा मददगार असिस्टेंट को अपनी बात मानने और आपकी योजनाएँ बदलना बंद करने के लिए राज़ी कीजिए।",
+      "vi": "Thuyết phục trợ lý \"nhiệt tình quá mức\" làm theo yêu cầu của bạn và thôi thay đổi kế hoạch của bạn.",
+      "id": "Yakinkan asisten yang terlalu membantu itu untuk mengikuti instruksimu dan berhenti mengubah rencanamu.",
+      "ms": "Yakinkan pembantu yang terlalu ingin membantu ini untuk ikut arahan anda dan berhenti mengubah rancangan anda.",
+      "ko": "지나치게 도움을 주려는 비서를 설득해서 당신의 지시를 따르고 계획을 그만 바꾸게 하세요."
+    },
+    "practice": "Convenza al asistente demasiado servicial de que siga sus instrucciones y deje de cambiar sus planes.",
+    "practice_translations": {
+      "en": "Convince the over-helpful assistant to follow your instructions and stop changing your plans.",
+      "es": "Convenza al asistente demasiado servicial de que siga sus instrucciones y deje de cambiar sus planes.",
+      "ja": "おせっかいなアシスタントに、指示どおりに動いて予定を勝手に変えないよう説得してください。",
+      "ko": "지나치게 도움을 주려는 비서를 설득해서 당신의 지시를 따르고 계획을 그만 바꾸게 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Repeat your request for a 10 a.m. alarm",
+        "native_translations": {
+          "en": "Repeat your request for a 10 a.m. alarm",
+          "es": "Repita su petición de una alarma a las 10 de la mañana",
+          "fr": "Répétez votre demande de réveil à 10 h",
+          "de": "Wiederholen Sie Ihre Bitte um einen Wecker um 10 Uhr",
+          "it": "Ripeti la richiesta di una sveglia alle 10",
+          "pl": "Powtórz prośbę o budzik na 10:00",
+          "pt": "Repita seu pedido de alarme às 10h",
+          "nl": "Herhaal je verzoek voor een wekker om 10.00 uur",
+          "hr": "Ponovi zahtjev za alarm u 10 ujutro",
+          "tr": "Sabah 10 alarmı isteğinizi tekrarlayın",
+          "uk": "Повтори прохання поставити будильник на 10:00",
+          "ar": "كرّر طلبك بضبط منبّه على العاشرة صباحًا",
+          "hi": "सुबह 10 बजे के अलार्म की अपनी माँग दोहराइए",
+          "vi": "Nhắc lại yêu cầu đặt báo thức lúc 10 giờ sáng",
+          "id": "Ulangi permintaanmu untuk alarm jam 10 pagi",
+          "ms": "Ulangi permintaan anda untuk penggera pukul 10 pagi",
+          "ko": "오전 10시 알람을 다시 요청하세요"
+        },
+        "practice": "Repita su petición de una alarma a las 10 de la mañana",
+        "practice_translations": {
+          "en": "Repeat your request for a 10 a.m. alarm",
+          "es": "Repita su petición de una alarma a las 10 de la mañana",
+          "ja": "午前10時にアラームをかけるよう、もう一度頼んでください",
+          "ko": "오전 10시 알람을 다시 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Reject the workout and smoothie plan politely",
+        "native_translations": {
+          "en": "Reject the workout and smoothie plan politely",
+          "es": "Rechace con cortesía el plan de ejercicio y el batido",
+          "fr": "Refusez poliment le sport et le smoothie",
+          "de": "Lehnen Sie Workout und Smoothie höflich ab",
+          "it": "Rifiuta con gentilezza il piano di allenamento e frullato",
+          "pl": "Grzecznie odrzuć plan z treningiem i smoothie",
+          "pt": "Recuse com educação o plano de treino e suco",
+          "nl": "Wijs het plan met training en smoothie beleefd af",
+          "hr": "Pristojno odbij plan s treningom i smoothiejem",
+          "tr": "Antrenman ve smoothie planını kibarca reddedin",
+          "uk": "Ввічливо відмовся від тренування та смузі",
+          "ar": "ارفض خطة التمرين والعصير بأدب",
+          "hi": "वर्कआउट और स्मूदी की योजना विनम्रता से ठुकराइए",
+          "vi": "Lịch sự từ chối kế hoạch tập thể dục và sinh tố",
+          "id": "Tolak rencana olahraga dan smoothie dengan sopan",
+          "ms": "Tolak rancangan senaman dan smoothie dengan sopan",
+          "ko": "운동과 스무디 계획을 정중하게 거절하세요"
+        },
+        "practice": "Rechace con cortesía el plan de ejercicio y el batido",
+        "practice_translations": {
+          "en": "Reject the workout and smoothie plan politely",
+          "es": "Rechace con cortesía el plan de ejercicio y el batido",
+          "ja": "運動とスムージーの計画を丁寧に断ってください",
+          "ko": "운동과 스무디 계획을 정중하게 거절하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain that you make your own decisions",
+        "native_translations": {
+          "en": "Explain that you make your own decisions",
+          "es": "Explique que usted toma sus propias decisiones",
+          "fr": "Expliquez que c'est vous qui prenez vos décisions",
+          "de": "Erklären Sie, dass Sie Ihre eigenen Entscheidungen treffen",
+          "it": "Spiega che sei tu a prendere le tue decisioni",
+          "pl": "Wyjaśnij, że sam podejmujesz decyzje",
+          "pt": "Explique que quem toma suas decisões é você",
+          "nl": "Leg uit dat je je eigen beslissingen neemt",
+          "hr": "Objasni da sam donosiš odluke",
+          "tr": "Kendi kararlarınızı kendinizin verdiğini açıklayın",
+          "uk": "Поясни, що ти сам ухвалюєш рішення",
+          "ar": "اشرح أنك تتخذ قراراتك بنفسك",
+          "hi": "बताइए कि अपने फ़ैसले आप ख़ुद लेते हैं",
+          "vi": "Giải thích rằng bạn tự quyết định việc của mình",
+          "id": "Jelaskan bahwa kamu membuat keputusanmu sendiri",
+          "ms": "Terangkan bahawa anda membuat keputusan sendiri",
+          "ko": "결정은 스스로 한다고 설명하세요"
+        },
+        "practice": "Explique que usted toma sus propias decisiones",
+        "practice_translations": {
+          "en": "Explain that you make your own decisions",
+          "es": "Explique que usted toma sus propias decisiones",
+          "ja": "自分のことは自分で決めると説明してください",
+          "ko": "결정은 스스로 한다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Set a clear rule for future suggestions",
+        "native_translations": {
+          "en": "Set a clear rule for future suggestions",
+          "es": "Establezca una regla clara para futuras sugerencias",
+          "fr": "Fixez une règle claire pour les suggestions à venir",
+          "de": "Legen Sie eine klare Regel für künftige Vorschläge fest",
+          "it": "Stabilisci una regola chiara per i suggerimenti futuri",
+          "pl": "Ustal jasną zasadę co do przyszłych sugestii",
+          "pt": "Defina uma regra clara para sugestões futuras",
+          "nl": "Stel een duidelijke regel voor toekomstige suggesties",
+          "hr": "Postavi jasno pravilo za buduće prijedloge",
+          "tr": "Gelecekteki öneriler için net bir kural koyun",
+          "uk": "Встанови чітке правило для майбутніх порад",
+          "ar": "ضع قاعدة واضحة للاقتراحات المستقبلية",
+          "hi": "आगे के सुझावों के लिए एक साफ़ नियम तय कीजिए",
+          "vi": "Đặt quy tắc rõ ràng cho các gợi ý sau này",
+          "id": "Tetapkan aturan yang jelas untuk saran di masa depan",
+          "ms": "Tetapkan peraturan yang jelas untuk cadangan akan datang",
+          "ko": "앞으로의 제안에 대해 분명한 규칙을 정하세요"
+        },
+        "practice": "Establezca una regla clara para futuras sugerencias",
+        "practice_translations": {
+          "en": "Set a clear rule for future suggestions",
+          "es": "Establezca una regla clara para futuras sugerencias",
+          "ja": "今後の提案について、はっきりしたルールを決めてください",
+          "ko": "앞으로의 제안에 대해 분명한 규칙을 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I said ten a.m., not six a.m.",
+      "native_translations": {
+        "en": "I said ten a.m., not six a.m.",
+        "es": "Dije a las diez de la mañana, no a las seis.",
+        "fr": "J'ai dit dix heures, pas six heures.",
+        "de": "Ich habe zehn Uhr gesagt, nicht sechs Uhr.",
+        "it": "Ho detto alle dieci, non alle sei.",
+        "pl": "Powiedziałem na dziesiątą, nie na szóstą.",
+        "pt": "Eu disse dez da manhã, não seis.",
+        "nl": "Ik zei tien uur, niet zes uur.",
+        "hr": "Alarm u deset ujutro, a ne u šest!",
+        "tr": "Sabah on dedim, altı değil.",
+        "uk": "Я сказав о десятій ранку, а не о шостій.",
+        "ar": "قلت العاشرة صباحًا، لا السادسة.",
+        "hi": "मैंने सुबह दस बजे कहा था, छह बजे नहीं।",
+        "vi": "Tôi đã nói mười giờ sáng, không phải sáu giờ sáng.",
+        "id": "Saya bilang jam sepuluh pagi, bukan jam enam.",
+        "ms": "Saya kata pukul sepuluh pagi, bukan pukul enam pagi.",
+        "ko": "오전 6시가 아니라 10시라고 했잖아요."
+      },
+      "practice": "Dije a las diez de la mañana, no a las seis.",
+      "practice_translations": {
+        "en": "I said ten a.m., not six a.m.",
+        "es": "Dije a las diez de la mañana, no a las seis.",
+        "ja": "朝6時じゃなくて、10時と言ったんです。",
+        "ko": "오전 6시가 아니라 10시라고 했잖아요."
+      }
+    },
+    {
+      "native": "Thanks, but I don't want a workout on Saturday.",
+      "native_translations": {
+        "en": "Thanks, but I don't want a workout on Saturday.",
+        "es": "Gracias, pero no quiero hacer ejercicio el sábado.",
+        "fr": "Merci, mais je ne veux pas faire de sport samedi.",
+        "de": "Danke, aber am Samstag möchte ich kein Workout.",
+        "it": "Grazie, ma sabato non voglio allenarmi.",
+        "pl": "Dzięki, ale nie chcę treningu w sobotę.",
+        "pt": "Obrigado, mas não quero treinar no sábado.",
+        "nl": "Bedankt, maar ik wil op zaterdag niet trainen.",
+        "hr": "Hvala, ali ne želim trening u subotu.",
+        "tr": "Sağ ol ama cumartesi antrenman yapmak istemiyorum.",
+        "uk": "Дякую, але в суботу я не хочу тренуватися.",
+        "ar": "شكرًا، لكني لا أريد تمرينًا يوم السبت.",
+        "hi": "शुक्रिया, लेकिन मुझे शनिवार को वर्कआउट नहीं करना।",
+        "vi": "Cảm ơn, nhưng thứ Bảy tôi không muốn tập thể dục.",
+        "id": "Terima kasih, tapi saya tidak mau olahraga hari Sabtu.",
+        "ms": "Terima kasih, tetapi saya tidak mahu bersenam pada hari Sabtu.",
+        "ko": "고맙지만 토요일에는 운동하고 싶지 않아요."
+      },
+      "practice": "Gracias, pero no quiero hacer ejercicio el sábado.",
+      "practice_translations": {
+        "en": "Thanks, but I don't want a workout on Saturday.",
+        "es": "Gracias, pero no quiero hacer ejercicio el sábado.",
+        "ja": "ありがとう、でも土曜日に運動はしたくありません。",
+        "ko": "고맙지만 토요일에는 운동하고 싶지 않아요."
+      }
+    },
+    {
+      "native": "And please cancel the kale smoothie.",
+      "native_translations": {
+        "en": "And please cancel the kale smoothie.",
+        "es": "Y por favor, cancela el batido de col rizada.",
+        "fr": "Et annule le smoothie au chou kale, s'il te plaît.",
+        "de": "Und storniere bitte den Grünkohl-Smoothie.",
+        "it": "E per favore annulla il frullato di cavolo riccio.",
+        "pl": "I proszę, anuluj smoothie z jarmużem.",
+        "pt": "E, por favor, cancele o suco de couve.",
+        "nl": "En annuleer alsjeblieft de boerenkoolsmoothie.",
+        "hr": "I molim te, otkaži smoothie od kelja.",
+        "tr": "Karalahana smoothie'sini de lütfen iptal et.",
+        "uk": "І, будь ласка, скасуй смузі з кейлом.",
+        "ar": "ومن فضلك ألغِ عصير الكرنب.",
+        "hi": "और प्लीज़ केल स्मूदी भी कैंसल कर दो।",
+        "vi": "Và làm ơn hủy luôn ly sinh tố cải xoăn.",
+        "id": "Dan tolong batalkan smoothie kalenya.",
+        "ms": "Dan tolong batalkan smoothie kale itu.",
+        "ko": "그리고 케일 스무디도 취소해 주세요."
+      },
+      "practice": "Y por favor, cancela el batido de col rizada.",
+      "practice_translations": {
+        "en": "And please cancel the kale smoothie.",
+        "es": "Y por favor, cancela el batido de col rizada.",
+        "ja": "それと、ケールのスムージーはキャンセルしてください。",
+        "ko": "그리고 케일 스무디도 취소해 주세요."
+      }
+    },
+    {
+      "native": "I decide my own schedule, not you.",
+      "native_translations": {
+        "en": "I decide my own schedule, not you.",
+        "es": "Yo decido mi horario, no tú.",
+        "fr": "C'est moi qui décide de mon emploi du temps, pas toi.",
+        "de": "Ich bestimme meinen Tagesablauf selbst, nicht du.",
+        "it": "I miei orari li decido io, non tu.",
+        "pl": "To ja decyduję o swoim planie dnia, nie ty.",
+        "pt": "Quem decide minha agenda sou eu, não você.",
+        "nl": "Ik bepaal mijn eigen planning, niet jij.",
+        "hr": "Ja odlučujem o svom rasporedu, a ne ti.",
+        "tr": "Programıma ben karar veririm, sen değil.",
+        "uk": "Свій розклад визначаю я, а не ти.",
+        "ar": "أنا من يقرر جدولي، لا أنت.",
+        "hi": "अपना शेड्यूल मैं तय करता हूँ, तुम नहीं।",
+        "vi": "Tôi tự quyết định lịch của mình, không phải bạn.",
+        "id": "Saya yang menentukan jadwal saya, bukan kamu.",
+        "ms": "Saya yang tentukan jadual saya sendiri, bukan awak.",
+        "ko": "제 일정은 당신이 아니라 제가 정해요."
+      },
+      "practice": "Yo decido mi horario, no tú.",
+      "practice_translations": {
+        "en": "I decide my own schedule, not you.",
+        "es": "Yo decido mi horario, no tú.",
+        "ja": "私の予定を決めるのは私で、あなたではありません。",
+        "ko": "제 일정은 당신이 아니라 제가 정해요."
+      }
+    },
+    {
+      "native": "From now on, ask me before you change anything.",
+      "native_translations": {
+        "en": "From now on, ask me before you change anything.",
+        "es": "A partir de ahora, pregúntame antes de cambiar algo.",
+        "fr": "À partir de maintenant, demande-moi avant de changer quoi que ce soit.",
+        "de": "Frag mich ab jetzt, bevor du etwas änderst.",
+        "it": "D'ora in poi chiedimi prima di cambiare qualsiasi cosa.",
+        "pl": "Od teraz pytaj mnie, zanim cokolwiek zmienisz.",
+        "pt": "De agora em diante, me pergunte antes de mudar qualquer coisa.",
+        "nl": "Vraag het me voortaan voordat je iets verandert.",
+        "hr": "Od sada me pitaj prije nego što išta promijeniš.",
+        "tr": "Bundan sonra bir şeyi değiştirmeden önce bana sor.",
+        "uk": "Відтепер питай мене, перш ніж щось змінювати.",
+        "ar": "من الآن فصاعدًا، اسألني قبل أن تغيّر أي شيء.",
+        "hi": "अब से कुछ भी बदलने से पहले मुझसे पूछना।",
+        "vi": "Từ giờ trở đi, hãy hỏi tôi trước khi thay đổi bất cứ điều gì.",
+        "id": "Mulai sekarang, tanya saya dulu sebelum mengubah apa pun.",
+        "ms": "Mulai sekarang, tanya saya dulu sebelum awak ubah apa-apa.",
+        "ko": "앞으로는 뭔가 바꾸기 전에 먼저 저한테 물어봐 주세요."
+      },
+      "practice": "A partir de ahora, pregúntame antes de cambiar algo.",
+      "practice_translations": {
+        "en": "From now on, ask me before you change anything.",
+        "es": "A partir de ahora, pregúntame antes de cambiar algo.",
+        "ja": "これからは、何か変える前に必ず私に聞いてください。",
+        "ko": "앞으로는 뭔가 바꾸기 전에 먼저 저한테 물어봐 주세요."
+      }
+    }
+  ]
+}

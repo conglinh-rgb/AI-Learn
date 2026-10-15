@@ -1,0 +1,351 @@
+{
+  "id": "study_abroad_off_campus_career_prep_c3",
+  "title": "Negotiating Internship Hours",
+  "title_translations": {
+    "en": "Negotiating Internship Hours",
+    "es": "Negociar el horario de prácticas",
+    "fr": "Négocier ses heures de stage",
+    "de": "Praktikumsstunden verhandeln",
+    "it": "Negoziare le ore del tirocinio",
+    "pl": "Negocjowanie godzin stażu",
+    "pt": "Negociando as horas do estágio",
+    "nl": "Onderhandelen over stage-uren",
+    "hr": "Pregovori o satnici prakse",
+    "tr": "Staj Saatlerini Pazarlık Etmek",
+    "uk": "Домовляємося про години стажування",
+    "ar": "التفاوض على ساعات التدريب",
+    "hi": "इंटर्नशिप के घंटों पर बातचीत",
+    "vi": "Thương lượng giờ thực tập",
+    "id": "Menegosiasikan Jam Magang",
+    "ms": "Berunding Waktu Latihan Industri",
+    "ko": "인턴십 근무 시간 협상하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "A company offers you an internship, but the manager (AI) wants thirty hours a week. Your student visa only allows twenty.",
+  "scenario_translations": {
+    "en": "A company offers you an internship, but the manager (AI) wants thirty hours a week. Your student visa only allows twenty.",
+    "es": "Una empresa le ofrece unas prácticas, pero el gerente (AI) quiere que trabaje treinta horas por semana. Su visa de estudiante solo le permite veinte.",
+    "fr": "Une entreprise vous propose un stage, mais la responsable (AI) veut trente heures par semaine. Votre visa étudiant n'en autorise que vingt.",
+    "de": "Ein Unternehmen bietet Ihnen ein Praktikum an, aber die Managerin (AI) möchte dreißig Stunden pro Woche. Ihr Studentenvisum erlaubt nur zwanzig.",
+    "it": "Un'azienda ti offre un tirocinio, ma il responsabile (AI) vuole trenta ore a settimana. Il tuo visto per studenti ne permette solo venti.",
+    "pl": "Firma proponuje ci staż, ale kierowniczka (AI) chce trzydziestu godzin tygodniowo. Twoja wiza studencka pozwala tylko na dwadzieścia.",
+    "pt": "Uma empresa oferece um estágio a você, mas o gestor (AI) quer trinta horas por semana. Seu visto de estudante só permite vinte.",
+    "nl": "Een bedrijf biedt je een stage aan, maar de manager (AI) wil dertig uur per week. Je studentenvisum staat er maar twintig toe.",
+    "hr": "Tvrtka ti nudi praksu, ali voditelj (AI) želi trideset sati tjedno. Studentska viza dopušta ti samo dvadeset.",
+    "tr": "Bir şirket size staj teklif ediyor ama yönetici (AI) haftada otuz saat çalışmanızı istiyor. Öğrenci vizeniz yalnızca yirmi saate izin veriyor.",
+    "uk": "Компанія пропонує тобі стажування, але керівник (AI) хоче тридцять годин на тиждень. Твоя студентська віза дозволяє лише двадцять.",
+    "ar": "تعرض عليك شركة تدريبًا عمليًا، لكن المدير (AI) يريد ثلاثين ساعة أسبوعيًا، بينما تسمح لك تأشيرة الطالب بعشرين ساعة فقط.",
+    "hi": "एक कंपनी आपको इंटर्नशिप का ऑफ़र देती है, लेकिन मैनेजर (AI) हफ़्ते में तीस घंटे चाहते हैं। आपका स्टूडेंट वीज़ा सिर्फ़ बीस घंटे की अनुमति देता है।",
+    "vi": "Một công ty nhận bạn vào thực tập, nhưng quản lý (AI) muốn bạn làm ba mươi giờ mỗi tuần. Thị thực du học của bạn chỉ cho phép hai mươi giờ.",
+    "id": "Sebuah perusahaan menawarimu magang, tapi manajernya (AI) ingin tiga puluh jam seminggu. Visa pelajarmu hanya mengizinkan dua puluh jam.",
+    "ms": "Sebuah syarikat menawarkan anda latihan industri, tetapi pengurus (AI) mahu tiga puluh jam seminggu. Visa pelajar anda hanya membenarkan dua puluh jam.",
+    "ko": "한 회사에서 인턴십 제안을 받았지만, 매니저(AI)는 주 30시간을 원합니다. 학생 비자로는 주 20시간까지만 일할 수 있습니다."
+  },
+  "mission": {
+    "native": "Explain your visa limit and negotiate a schedule that works for both of you.",
+    "native_translations": {
+      "en": "Explain your visa limit and negotiate a schedule that works for both of you.",
+      "es": "Explique el límite de su visa y negocie un horario que les convenga a ambos.",
+      "fr": "Expliquez la limite imposée par votre visa et négociez un horaire qui convienne à tout le monde.",
+      "de": "Erklären Sie die Begrenzung Ihres Visums und handeln Sie einen Zeitplan aus, der für beide Seiten passt.",
+      "it": "Spiega il limite del tuo visto e negozia un orario che vada bene a entrambi.",
+      "pl": "Wyjaśnij limit wynikający z wizy i wynegocjuj grafik, który będzie pasował wam obojgu.",
+      "pt": "Explique o limite do seu visto e negocie um horário que funcione para os dois lados.",
+      "nl": "Leg de limiet van je visum uit en onderhandel over een rooster dat voor jullie allebei werkt.",
+      "hr": "Objasni ograničenje vize i dogovori raspored koji odgovara objema stranama.",
+      "tr": "Vize sınırınızı açıklayın ve ikiniz için de uygun bir program üzerinde pazarlık yapın.",
+      "uk": "Поясни обмеження візи й домовся про графік, який підходить обом.",
+      "ar": "اشرح حدود تأشيرتك وتفاوض على جدول يناسبكما معًا.",
+      "hi": "अपने वीज़ा की सीमा समझाइए और ऐसा शेड्यूल तय कीजिए जो दोनों के लिए ठीक हो।",
+      "vi": "Giải thích giới hạn của thị thực và thương lượng một lịch làm việc phù hợp với cả hai bên.",
+      "id": "Jelaskan batasan visamu dan negosiasikan jadwal yang cocok untuk kedua pihak.",
+      "ms": "Terangkan had visa anda dan runding jadual yang sesuai untuk kedua-dua pihak.",
+      "ko": "비자 제한을 설명하고 양쪽 모두에게 맞는 근무 일정을 협상하세요."
+    },
+    "practice": "Explique el límite de su visa y negocie un horario que les convenga a ambos.",
+    "practice_translations": {
+      "en": "Explain your visa limit and negotiate a schedule that works for both of you.",
+      "es": "Explique el límite de su visa y negocie un horario que les convenga a ambos.",
+      "ja": "ビザの制限を説明して、お互いに都合のいい勤務スケジュールを交渉してください。",
+      "ko": "비자 제한을 설명하고 양쪽 모두에게 맞는 근무 일정을 협상하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Thank the manager for the offer",
+        "native_translations": {
+          "en": "Thank the manager for the offer",
+          "es": "Agradezca la oferta al gerente",
+          "fr": "Remerciez la responsable pour l'offre",
+          "de": "Bedanken Sie sich bei der Managerin für das Angebot",
+          "it": "Ringrazia il responsabile per l'offerta",
+          "pl": "Podziękuj kierowniczce za ofertę",
+          "pt": "Agradeça ao gestor pela oferta",
+          "nl": "Bedank de manager voor het aanbod",
+          "hr": "Zahvali voditelju na ponudi",
+          "tr": "Teklif için yöneticiye teşekkür edin",
+          "uk": "Подякуй керівникові за пропозицію",
+          "ar": "اشكر المدير على العرض",
+          "hi": "ऑफ़र के लिए मैनेजर को धन्यवाद दीजिए",
+          "vi": "Cảm ơn quản lý vì lời đề nghị",
+          "id": "Ucapkan terima kasih kepada manajer atas tawarannya",
+          "ms": "Ucapkan terima kasih kepada pengurus atas tawaran itu",
+          "ko": "제안해 준 매니저에게 감사하다고 말하세요"
+        },
+        "practice": "Agradezca la oferta al gerente",
+        "practice_translations": {
+          "en": "Thank the manager for the offer",
+          "es": "Agradezca la oferta al gerente",
+          "ja": "マネージャーに採用のお礼を言ってください",
+          "ko": "제안해 준 매니저에게 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain your visa's work-hour limit",
+        "native_translations": {
+          "en": "Explain your visa's work-hour limit",
+          "es": "Explique el límite de horas de trabajo de su visa",
+          "fr": "Expliquez la limite d'heures de travail de votre visa",
+          "de": "Erklären Sie die Arbeitszeitbegrenzung Ihres Visums",
+          "it": "Spiega il limite di ore di lavoro del tuo visto",
+          "pl": "Wyjaśnij limit godzin pracy w twojej wizie",
+          "pt": "Explique o limite de horas de trabalho do seu visto",
+          "nl": "Leg de urenlimiet van je visum uit",
+          "hr": "Objasni ograničenje radnih sati prema vizi",
+          "tr": "Vizenizin çalışma saati sınırını açıklayın",
+          "uk": "Поясни ліміт робочих годин за візою",
+          "ar": "اشرح حدّ ساعات العمل في تأشيرتك",
+          "hi": "अपने वीज़ा में काम के घंटों की सीमा समझाइए",
+          "vi": "Giải thích giới hạn giờ làm của thị thực",
+          "id": "Jelaskan batas jam kerja di visamu",
+          "ms": "Terangkan had waktu kerja visa anda",
+          "ko": "비자의 근무 시간 제한을 설명하세요"
+        },
+        "practice": "Explique el límite de horas de trabajo de su visa",
+        "practice_translations": {
+          "en": "Explain your visa's work-hour limit",
+          "es": "Explique el límite de horas de trabajo de su visa",
+          "ja": "ビザの労働時間の制限を説明してください",
+          "ko": "비자의 근무 시간 제한을 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Propose a schedule within the limit",
+        "native_translations": {
+          "en": "Propose a schedule within the limit",
+          "es": "Proponga un horario dentro del límite",
+          "fr": "Proposez un horaire qui respecte cette limite",
+          "de": "Schlagen Sie einen Zeitplan innerhalb der Grenze vor",
+          "it": "Proponi un orario entro il limite",
+          "pl": "Zaproponuj grafik mieszczący się w limicie",
+          "pt": "Proponha um horário dentro do limite",
+          "nl": "Stel een rooster binnen de limiet voor",
+          "hr": "Predloži raspored unutar ograničenja",
+          "tr": "Sınır dahilinde bir program önerin",
+          "uk": "Запропонуй графік у межах ліміту",
+          "ar": "اقترح جدولًا ضمن الحدّ المسموح",
+          "hi": "सीमा के अंदर एक शेड्यूल सुझाइए",
+          "vi": "Đề xuất lịch làm trong giới hạn cho phép",
+          "id": "Usulkan jadwal yang sesuai batasan",
+          "ms": "Cadangkan jadual dalam had itu",
+          "ko": "제한 안에서 가능한 일정을 제안하세요"
+        },
+        "practice": "Proponga un horario dentro del límite",
+        "practice_translations": {
+          "en": "Propose a schedule within the limit",
+          "es": "Proponga un horario dentro del límite",
+          "ja": "制限内のスケジュールを提案してください",
+          "ko": "제한 안에서 가능한 일정을 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on the final schedule",
+        "native_translations": {
+          "en": "Agree on the final schedule",
+          "es": "Acuerden el horario final",
+          "fr": "Mettez-vous d'accord sur l'horaire définitif",
+          "de": "Einigen Sie sich auf den endgültigen Zeitplan",
+          "it": "Concordate l'orario definitivo",
+          "pl": "Ustalcie ostateczny grafik",
+          "pt": "Cheguem a um acordo sobre o horário final",
+          "nl": "Spreek het definitieve rooster af",
+          "hr": "Dogovori konačan raspored",
+          "tr": "Son program üzerinde anlaşın",
+          "uk": "Узгодь остаточний графік",
+          "ar": "اتفق على الجدول النهائي",
+          "hi": "अंतिम शेड्यूल पर सहमत होइए",
+          "vi": "Thống nhất lịch làm cuối cùng",
+          "id": "Sepakati jadwal akhirnya",
+          "ms": "Persetujui jadual akhir",
+          "ko": "최종 일정에 합의하세요"
+        },
+        "practice": "Acuerden el horario final",
+        "practice_translations": {
+          "en": "Agree on the final schedule",
+          "es": "Acuerden el horario final",
+          "ja": "最終的なスケジュールを決めてください",
+          "ko": "최종 일정에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you so much for the offer. I'm really excited about it.",
+      "native_translations": {
+        "en": "Thank you so much for the offer. I'm really excited about it.",
+        "es": "Muchas gracias por la oferta. Me entusiasma mucho.",
+        "fr": "Merci beaucoup pour cette offre. Elle m'enthousiasme vraiment.",
+        "de": "Vielen Dank für das Angebot. Ich freue mich wirklich sehr darüber.",
+        "it": "Grazie mille per l'offerta. Sono davvero entusiasta.",
+        "pl": "Bardzo dziękuję za ofertę. Naprawdę się cieszę.",
+        "pt": "Muito obrigado pela oferta. Estou muito animado com ela.",
+        "nl": "Heel erg bedankt voor het aanbod. Ik heb er echt zin in.",
+        "hr": "Puno Vam hvala na ponudi. Stvarno me veseli.",
+        "tr": "Teklifiniz için çok teşekkür ederim. Gerçekten çok heyecanlıyım.",
+        "uk": "Щиро дякую за пропозицію. Я дуже радий.",
+        "ar": "شكرًا جزيلًا على العرض. أنا متحمس له حقًا.",
+        "hi": "ऑफ़र के लिए बहुत-बहुत धन्यवाद। मैं इसे लेकर सच में उत्साहित हूँ।",
+        "vi": "Cảm ơn anh/chị rất nhiều vì lời đề nghị. Tôi thực sự rất háo hức.",
+        "id": "Terima kasih banyak atas tawarannya. Saya sangat antusias.",
+        "ms": "Terima kasih banyak atas tawaran ini. Saya sangat teruja.",
+        "ko": "제안해 주셔서 정말 감사합니다. 정말 기대돼요."
+      },
+      "practice": "Muchas gracias por la oferta. Me entusiasma mucho.",
+      "practice_translations": {
+        "en": "Thank you so much for the offer. I'm really excited about it.",
+        "es": "Muchas gracias por la oferta. Me entusiasma mucho.",
+        "ja": "ご採用いただき、本当にありがとうございます。とても楽しみにしています。",
+        "ko": "제안해 주셔서 정말 감사합니다. 정말 기대돼요."
+      }
+    },
+    {
+      "native": "Unfortunately, my student visa only allows twenty hours a week.",
+      "native_translations": {
+        "en": "Unfortunately, my student visa only allows twenty hours a week.",
+        "es": "Lamentablemente, mi visa de estudiante solo permite veinte horas a la semana.",
+        "fr": "Malheureusement, mon visa étudiant n'autorise que vingt heures par semaine.",
+        "de": "Leider erlaubt mein Studentenvisum nur zwanzig Stunden pro Woche.",
+        "it": "Purtroppo il mio visto per studenti permette solo venti ore a settimana.",
+        "pl": "Niestety moja wiza studencka pozwala tylko na dwadzieścia godzin tygodniowo.",
+        "pt": "Infelizmente, meu visto de estudante só permite vinte horas por semana.",
+        "nl": "Helaas staat mijn studentenvisum maar twintig uur per week toe.",
+        "hr": "Nažalost, studentska viza dopušta mi samo dvadeset sati tjedno.",
+        "tr": "Maalesef öğrenci vizem haftada yalnızca yirmi saate izin veriyor.",
+        "uk": "На жаль, моя студентська віза дозволяє лише двадцять годин на тиждень.",
+        "ar": "للأسف، تسمح لي تأشيرة الطالب بعشرين ساعة فقط في الأسبوع.",
+        "hi": "दुर्भाग्य से, मेरा स्टूडेंट वीज़ा हफ़्ते में सिर्फ़ बीस घंटे की अनुमति देता है।",
+        "vi": "Tiếc là thị thực du học của tôi chỉ cho phép làm hai mươi giờ một tuần.",
+        "id": "Sayangnya, visa pelajar saya hanya mengizinkan dua puluh jam seminggu.",
+        "ms": "Malangnya, visa pelajar saya hanya membenarkan dua puluh jam seminggu.",
+        "ko": "아쉽지만 제 학생 비자로는 주 20시간까지만 일할 수 있어요."
+      },
+      "practice": "Lamentablemente, mi visa de estudiante solo permite veinte horas a la semana.",
+      "practice_translations": {
+        "en": "Unfortunately, my student visa only allows twenty hours a week.",
+        "es": "Lamentablemente, mi visa de estudiante solo permite veinte horas a la semana.",
+        "ja": "あいにく、学生ビザでは週20時間までしか働けないんです。",
+        "ko": "아쉽지만 제 학생 비자로는 주 20시간까지만 일할 수 있어요."
+      }
+    },
+    {
+      "native": "I could work four days, five hours each.",
+      "native_translations": {
+        "en": "I could work four days, five hours each.",
+        "es": "Podría trabajar cuatro días, cinco horas cada uno.",
+        "fr": "Je pourrais travailler quatre jours, cinq heures par jour.",
+        "de": "Ich könnte vier Tage mit jeweils fünf Stunden arbeiten.",
+        "it": "Potrei lavorare quattro giorni, cinque ore al giorno.",
+        "pl": "Mógłbym pracować cztery dni po pięć godzin.",
+        "pt": "Eu poderia trabalhar quatro dias, cinco horas por dia.",
+        "nl": "Ik zou vier dagen van vijf uur kunnen werken.",
+        "hr": "Mogu raditi četiri dana po pet sati.",
+        "tr": "Haftada dört gün, günde beşer saat çalışabilirim.",
+        "uk": "Я міг би працювати чотири дні по п'ять годин.",
+        "ar": "يمكنني العمل أربعة أيام، خمس ساعات في كل يوم.",
+        "hi": "मैं चार दिन, हर दिन पाँच घंटे काम कर सकता हूँ।",
+        "vi": "Tôi có thể làm bốn ngày, mỗi ngày năm tiếng.",
+        "id": "Saya bisa bekerja empat hari, masing-masing lima jam.",
+        "ms": "Saya boleh bekerja empat hari, lima jam setiap hari.",
+        "ko": "주 4일, 하루 5시간씩 일할 수 있어요."
+      },
+      "practice": "Podría trabajar cuatro días, cinco horas cada uno.",
+      "practice_translations": {
+        "en": "I could work four days, five hours each.",
+        "es": "Podría trabajar cuatro días, cinco horas cada uno.",
+        "ja": "週4日、1日5時間なら働けます。",
+        "ko": "주 4일, 하루 5시간씩 일할 수 있어요."
+      }
+    },
+    {
+      "native": "During the holidays, I can work full-time.",
+      "native_translations": {
+        "en": "During the holidays, I can work full-time.",
+        "es": "Durante las vacaciones puedo trabajar a tiempo completo.",
+        "fr": "Pendant les vacances, je peux travailler à temps plein.",
+        "de": "In den Semesterferien kann ich Vollzeit arbeiten.",
+        "it": "Durante le vacanze posso lavorare a tempo pieno.",
+        "pl": "W czasie wakacji mogę pracować na pełen etat.",
+        "pt": "Nas férias, posso trabalhar em período integral.",
+        "nl": "In de vakanties kan ik fulltime werken.",
+        "hr": "Tijekom praznika mogu raditi puno radno vrijeme.",
+        "tr": "Tatillerde tam zamanlı çalışabilirim.",
+        "uk": "Під час канікул я можу працювати повний день.",
+        "ar": "خلال العطلات، يمكنني العمل بدوام كامل.",
+        "hi": "छुट्टियों में मैं फ़ुल-टाइम काम कर सकता हूँ।",
+        "vi": "Trong kỳ nghỉ, tôi có thể làm toàn thời gian.",
+        "id": "Saat liburan, saya bisa bekerja penuh waktu.",
+        "ms": "Semasa cuti, saya boleh bekerja sepenuh masa.",
+        "ko": "방학 동안에는 풀타임으로 일할 수 있어요."
+      },
+      "practice": "Durante las vacaciones puedo trabajar a tiempo completo.",
+      "practice_translations": {
+        "en": "During the holidays, I can work full-time.",
+        "es": "Durante las vacaciones puedo trabajar a tiempo completo.",
+        "ja": "長期休暇中はフルタイムで働けます。",
+        "ko": "방학 동안에는 풀타임으로 일할 수 있어요."
+      }
+    },
+    {
+      "native": "Would that schedule work for the team?",
+      "native_translations": {
+        "en": "Would that schedule work for the team?",
+        "es": "¿Le funcionaría ese horario al equipo?",
+        "fr": "Est-ce que cet horaire conviendrait à l'équipe ?",
+        "de": "Würde dieser Zeitplan für das Team passen?",
+        "it": "Questo orario andrebbe bene per il team?",
+        "pl": "Czy taki grafik pasowałby zespołowi?",
+        "pt": "Esse horário funcionaria para a equipe?",
+        "nl": "Zou dat rooster voor het team werken?",
+        "hr": "Bi li takav raspored odgovarao timu?",
+        "tr": "Bu program ekip için uygun olur mu?",
+        "uk": "Чи підійде такий графік команді?",
+        "ar": "هل يناسب هذا الجدول الفريق؟",
+        "hi": "क्या यह शेड्यूल टीम के लिए ठीक रहेगा?",
+        "vi": "Lịch đó có phù hợp với nhóm không ạ?",
+        "id": "Apakah jadwal itu cocok untuk tim?",
+        "ms": "Adakah jadual itu sesuai untuk pasukan?",
+        "ko": "이 일정이 팀에 괜찮을까요?"
+      },
+      "practice": "¿Le funcionaría ese horario al equipo?",
+      "practice_translations": {
+        "en": "Would that schedule work for the team?",
+        "es": "¿Le funcionaría ese horario al equipo?",
+        "ja": "そのスケジュールで、チームとして問題ないでしょうか。",
+        "ko": "이 일정이 팀에 괜찮을까요?"
+      }
+    }
+  ]
+}

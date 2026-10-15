@@ -1,0 +1,289 @@
+{
+  "id": "daily_life_ordering_at_a_hipster_cafe_c1",
+  "title": "Just a Regular Coffee, Please",
+  "title_translations": {
+    "en": "Just a Regular Coffee, Please",
+    "es": "Solo un café normal, por favor",
+    "fr": "Juste un café normal, s'il vous plaît",
+    "de": "Einfach einen normalen Kaffee, bitte",
+    "it": "Solo un caffè normale, per favore",
+    "pl": "Po prostu zwykłą kawę, proszę",
+    "pt": "Só um café normal, por favor",
+    "nl": "Gewoon een normale koffie, alsjeblieft",
+    "hr": "Samo obična kava, molim",
+    "tr": "Sadece Normal Bir Kahve, Lütfen",
+    "uk": "Просто звичайну каву, будь ласка",
+    "ar": "قهوة عادية فقط من فضلك",
+    "hi": "बस एक सादी कॉफ़ी, प्लीज़",
+    "vi": "Cho tôi ly cà phê bình thường thôi",
+    "id": "Kopi Biasa Saja, Ya",
+    "ms": "Kopi Biasa Saja, Terima Kasih",
+    "ko": "그냥 평범한 커피 주세요"
+  },
+  "character": "fox",
+  "scenario": "At a trendy cafe, the barista (AI) starts describing twelve kinds of artisanal beans, but you only want a normal coffee.",
+  "scenario_translations": {
+    "en": "At a trendy cafe, the barista (AI) starts describing twelve kinds of artisanal beans, but you only want a normal coffee.",
+    "es": "En una cafetería de moda, el barista (AI) empieza a describir doce tipos de granos artesanales, pero usted solo quiere un café normal.",
+    "fr": "Dans un café branché, le barista (AI) se lance dans la description de douze variétés de grains artisanaux, mais vous voulez juste un café normal.",
+    "de": "In einem angesagten Café beginnt die Barista bzw. der Barista (AI), zwölf Sorten handgerösteter Bohnen zu beschreiben, aber Sie möchten nur einen normalen Kaffee.",
+    "it": "In un caffè alla moda, il barista (AI) inizia a descrivere dodici tipi di chicchi artigianali, ma tu vuoi solo un caffè normale.",
+    "pl": "W modnej kawiarni barista (AI) zaczyna opisywać dwanaście rodzajów rzemieślniczych ziaren, a ty chcesz tylko zwykłą kawę.",
+    "pt": "Em um café da moda, o barista (AI) começa a descrever doze tipos de grãos artesanais, mas você só quer um café normal.",
+    "nl": "In een trendy café begint de barista (AI) twaalf soorten ambachtelijke bonen te beschrijven, maar jij wilt gewoon een normale koffie.",
+    "hr": "U pomodnom kafiću barista (AI) počinje opisivati dvanaest vrsta zanatske kave u zrnu, a ti želiš samo običnu kavu.",
+    "tr": "Popüler bir kafede barista (AI) on iki çeşit butik kahve çekirdeğini anlatmaya başlıyor, ama siz sadece normal bir kahve istiyorsunuz.",
+    "uk": "У модній кав'ярні бариста (AI) починає розповідати про дванадцять сортів крафтових зерен, а ти хочеш просто звичайну каву.",
+    "ar": "في مقهى عصري، يبدأ الباريستا (AI) بوصف اثني عشر نوعًا من البن الحِرفي، لكنك تريد قهوة عادية فقط.",
+    "hi": "एक ट्रेंडी कैफ़े में बरिस्ता (AI) बारह तरह की आर्टिज़न कॉफ़ी बीन्स के बारे में बताने लगता है, लेकिन आपको बस एक सामान्य कॉफ़ी चाहिए।",
+    "vi": "Tại một quán cà phê sành điệu, nhân viên pha chế (AI) bắt đầu giới thiệu mười hai loại hạt cà phê thủ công, nhưng bạn chỉ muốn một ly cà phê bình thường.",
+    "id": "Di sebuah kafe kekinian, barista (AI) mulai menjelaskan dua belas jenis biji kopi artisan, padahal kamu cuma mau kopi biasa.",
+    "ms": "Di sebuah kafe yang trendy, barista (AI) mula menerangkan dua belas jenis biji kopi artisan, tetapi anda hanya mahu kopi biasa.",
+    "ko": "트렌디한 카페에서 바리스타(AI)가 열두 가지 수제 원두를 설명하기 시작하지만, 당신은 그냥 평범한 커피를 원해요."
+  },
+  "mission": {
+    "native": "Order a simple coffee and find out how much it costs.",
+    "native_translations": {
+      "en": "Order a simple coffee and find out how much it costs.",
+      "es": "Pida un café sencillo y averigüe cuánto cuesta.",
+      "fr": "Commandez un café simple et demandez combien il coûte.",
+      "de": "Bestellen Sie einen einfachen Kaffee und finden Sie heraus, was er kostet.",
+      "it": "Ordina un caffè semplice e scopri quanto costa.",
+      "pl": "Zamów zwykłą kawę i dowiedz się, ile kosztuje.",
+      "pt": "Peça um café simples e descubra quanto custa.",
+      "nl": "Bestel een simpele koffie en vraag hoeveel die kost.",
+      "hr": "Naruči običnu kavu i saznaj koliko košta.",
+      "tr": "Basit bir kahve sipariş edin ve ne kadar tuttuğunu öğrenin.",
+      "uk": "Замов просту каву й дізнайся, скільки вона коштує.",
+      "ar": "اطلب قهوة بسيطة واعرف كم سعرها.",
+      "hi": "एक सादी कॉफ़ी ऑर्डर कीजिए और पता कीजिए कि उसकी क़ीमत कितनी है।",
+      "vi": "Gọi một ly cà phê đơn giản và hỏi giá.",
+      "id": "Pesan kopi sederhana dan cari tahu harganya.",
+      "ms": "Pesan kopi yang ringkas dan ketahui harganya.",
+      "ko": "간단한 커피를 주문하고 가격을 알아보세요."
+    },
+    "practice": "Pida un café sencillo y averigüe cuánto cuesta.",
+    "practice_translations": {
+      "en": "Order a simple coffee and find out how much it costs.",
+      "es": "Pida un café sencillo y averigüe cuánto cuesta.",
+      "ja": "シンプルなコーヒーを注文して、値段を聞いてください。",
+      "ko": "간단한 커피를 주문하고 가격을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask for a simple black coffee",
+        "native_translations": {
+          "en": "Ask for a simple black coffee",
+          "es": "Pida un café negro sencillo",
+          "fr": "Demandez un simple café noir",
+          "de": "Bestellen Sie einen einfachen schwarzen Kaffee",
+          "it": "Chiedi un semplice caffè nero",
+          "pl": "Poproś o zwykłą czarną kawę",
+          "pt": "Peça um café preto simples",
+          "nl": "Vraag om een gewone zwarte koffie",
+          "hr": "Zatraži običnu crnu kavu",
+          "tr": "Sade bir filtre kahve isteyin",
+          "uk": "Попроси просту чорну каву",
+          "ar": "اطلب قهوة سوداء بسيطة",
+          "hi": "एक सादी ब्लैक कॉफ़ी माँगिए",
+          "vi": "Gọi một ly cà phê đen đơn giản",
+          "id": "Minta kopi hitam biasa",
+          "ms": "Minta kopi hitam yang biasa",
+          "ko": "간단한 블랙커피를 달라고 하세요"
+        },
+        "practice": "Pida un café negro sencillo",
+        "practice_translations": {
+          "en": "Ask for a simple black coffee",
+          "es": "Pida un café negro sencillo",
+          "ja": "普通のブラックコーヒーを頼んでください",
+          "ko": "간단한 블랙커피를 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Choose a size for your drink",
+        "native_translations": {
+          "en": "Choose a size for your drink",
+          "es": "Elija el tamaño de su bebida",
+          "fr": "Choisissez la taille de votre boisson",
+          "de": "Wählen Sie eine Größe für Ihr Getränk",
+          "it": "Scegli la misura della bevanda",
+          "pl": "Wybierz rozmiar napoju",
+          "pt": "Escolha o tamanho da sua bebida",
+          "nl": "Kies een formaat voor je drankje",
+          "hr": "Odaberi veličinu pića",
+          "tr": "İçeceğiniz için bir boy seçin",
+          "uk": "Обери розмір напою",
+          "ar": "اختر حجم مشروبك",
+          "hi": "अपनी ड्रिंक का साइज़ चुनिए",
+          "vi": "Chọn cỡ ly cho đồ uống",
+          "id": "Pilih ukuran minumanmu",
+          "ms": "Pilih saiz minuman anda",
+          "ko": "음료 사이즈를 고르세요"
+        },
+        "practice": "Elija el tamaño de su bebida",
+        "practice_translations": {
+          "en": "Choose a size for your drink",
+          "es": "Elija el tamaño de su bebida",
+          "ja": "ドリンクのサイズを選んでください",
+          "ko": "음료 사이즈를 고르세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how much it costs",
+        "native_translations": {
+          "en": "Ask how much it costs",
+          "es": "Pregunte cuánto cuesta",
+          "fr": "Demandez combien ça coûte",
+          "de": "Fragen Sie, was es kostet",
+          "it": "Chiedi quanto costa",
+          "pl": "Zapytaj, ile to kosztuje",
+          "pt": "Pergunte quanto custa",
+          "nl": "Vraag hoeveel het kost",
+          "hr": "Pitaj koliko košta",
+          "tr": "Ne kadar tuttuğunu sorun",
+          "uk": "Запитай, скільки це коштує",
+          "ar": "اسأل عن السعر",
+          "hi": "पूछिए कि इसकी क़ीमत कितनी है",
+          "vi": "Hỏi giá bao nhiêu",
+          "id": "Tanyakan harganya",
+          "ms": "Tanya berapa harganya",
+          "ko": "가격이 얼마인지 물어보세요"
+        },
+        "practice": "Pregunte cuánto cuesta",
+        "practice_translations": {
+          "en": "Ask how much it costs",
+          "es": "Pregunte cuánto cuesta",
+          "ja": "値段を聞いてください",
+          "ko": "가격이 얼마인지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd just like a regular black coffee, please.",
+      "native_translations": {
+        "en": "I'd just like a regular black coffee, please.",
+        "es": "Solo quiero un café negro normal, por favor.",
+        "fr": "Je voudrais juste un café noir classique, s'il vous plaît.",
+        "de": "Ich hätte gern einfach einen normalen schwarzen Kaffee, bitte.",
+        "it": "Vorrei solo un normale caffè nero, per favore.",
+        "pl": "Poproszę po prostu zwykłą czarną kawę.",
+        "pt": "Eu só queria um café preto normal, por favor.",
+        "nl": "Ik wil graag gewoon een zwarte koffie.",
+        "hr": "Samo bih običnu crnu kavu, molim.",
+        "tr": "Sadece normal bir sade kahve istiyorum, lütfen.",
+        "uk": "Мені просто звичайну чорну каву, будь ласка.",
+        "ar": "أريد فقط قهوة سوداء عادية من فضلك.",
+        "hi": "मुझे बस एक सादी ब्लैक कॉफ़ी चाहिए, प्लीज़।",
+        "vi": "Cho tôi một ly cà phê đen bình thường thôi.",
+        "id": "Saya mau kopi hitam biasa saja, ya.",
+        "ms": "Saya cuma mahu kopi hitam biasa, terima kasih.",
+        "ko": "그냥 평범한 블랙커피 한 잔 주세요."
+      },
+      "practice": "Solo quiero un café negro normal, por favor.",
+      "practice_translations": {
+        "en": "I'd just like a regular black coffee, please.",
+        "es": "Solo quiero un café negro normal, por favor.",
+        "ja": "普通のブラックコーヒーをお願いします。",
+        "ko": "그냥 평범한 블랙커피 한 잔 주세요."
+      }
+    },
+    {
+      "native": "Any beans are fine, really.",
+      "native_translations": {
+        "en": "Any beans are fine, really.",
+        "es": "Cualquier grano está bien, de verdad.",
+        "fr": "N'importe quels grains, franchement, ça me va.",
+        "de": "Die Bohnen sind mir wirklich egal.",
+        "it": "Qualsiasi chicco va bene, davvero.",
+        "pl": "Naprawdę, mogą być dowolne ziarna.",
+        "pt": "Qualquer grão está bom, sério.",
+        "nl": "Welke bonen maakt echt niet uit.",
+        "hr": "Bilo koja kava je u redu, stvarno.",
+        "tr": "Hangi çekirdek olursa olsun, gerçekten fark etmez.",
+        "uk": "Будь-які зерна підійдуть, чесно.",
+        "ar": "أي نوع من البن مناسب، حقًا.",
+        "hi": "सच में, कोई भी बीन्स चलेंगी।",
+        "vi": "Hạt nào cũng được, thật đấy.",
+        "id": "Biji kopi apa saja boleh, sungguh.",
+        "ms": "Biji kopi apa-apa pun tak apa, betul.",
+        "ko": "원두는 아무거나 괜찮아요, 정말로요."
+      },
+      "practice": "Cualquier grano está bien, de verdad.",
+      "practice_translations": {
+        "en": "Any beans are fine, really.",
+        "es": "Cualquier grano está bien, de verdad.",
+        "ja": "豆は何でも大丈夫です。",
+        "ko": "원두는 아무거나 괜찮아요, 정말로요."
+      }
+    },
+    {
+      "native": "A medium, please.",
+      "native_translations": {
+        "en": "A medium, please.",
+        "es": "Uno mediano, por favor.",
+        "fr": "Un moyen, s'il vous plaît.",
+        "de": "Einen mittleren, bitte.",
+        "it": "Una media, per favore.",
+        "pl": "Średnią, poproszę.",
+        "pt": "Um médio, por favor.",
+        "nl": "Een medium, graag.",
+        "hr": "Srednju, molim.",
+        "tr": "Orta boy, lütfen.",
+        "uk": "Середню, будь ласка.",
+        "ar": "حجم متوسط من فضلك.",
+        "hi": "एक मीडियम, प्लीज़।",
+        "vi": "Cho tôi cỡ vừa.",
+        "id": "Yang sedang, ya.",
+        "ms": "Saiz sederhana, terima kasih.",
+        "ko": "미디엄으로 주세요."
+      },
+      "practice": "Uno mediano, por favor.",
+      "practice_translations": {
+        "en": "A medium, please.",
+        "es": "Uno mediano, por favor.",
+        "ja": "Mサイズでお願いします。",
+        "ko": "미디엄으로 주세요."
+      }
+    },
+    {
+      "native": "How much is that?",
+      "native_translations": {
+        "en": "How much is that?",
+        "es": "¿Cuánto es?",
+        "fr": "Combien je vous dois ?",
+        "de": "Was macht das?",
+        "it": "Quanto costa?",
+        "pl": "Ile płacę?",
+        "pt": "Quanto fica?",
+        "nl": "Hoeveel is dat?",
+        "hr": "Koliko je to?",
+        "tr": "Ne kadar tutuyor?",
+        "uk": "Скільки з мене?",
+        "ar": "كم سعرها؟",
+        "hi": "यह कितने की है?",
+        "vi": "Bao nhiêu tiền vậy?",
+        "id": "Berapa harganya?",
+        "ms": "Berapa harganya?",
+        "ko": "얼마예요?"
+      },
+      "practice": "¿Cuánto es?",
+      "practice_translations": {
+        "en": "How much is that?",
+        "es": "¿Cuánto es?",
+        "ja": "おいくらですか。",
+        "ko": "얼마예요?"
+      }
+    }
+  ]
+}

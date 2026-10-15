@@ -1,0 +1,351 @@
+{
+  "id": "daily_life_the_most_awkward_blind_date_ever_c3",
+  "title": "The Date Who Won't Stop Talking About Their Ex",
+  "title_translations": {
+    "en": "The Date Who Won't Stop Talking About Their Ex",
+    "es": "La cita que no deja de hablar de su ex",
+    "fr": "Le rendez-vous qui ne parle que de son ex",
+    "de": "Das Date, das nur über den Ex redet",
+    "it": "L'appuntamento che non smette di parlare dell'ex",
+    "pl": "Randka, która nie przestaje mówić o byłym",
+    "pt": "O par que não para de falar do ex",
+    "nl": "De date die maar over hun ex blijft praten",
+    "hr": "Spoj koji ne prestaje pričati o bivšima",
+    "tr": "Eski Sevgilisinden Bahsetmeyi Bırakmayan Randevu",
+    "uk": "Побачення, яке не замовкає про колишніх",
+    "ar": "شريك الموعد الذي لا يكف عن الحديث عن حبيبه السابق",
+    "hi": "एक्स की बातें बंद ही नहीं होतीं",
+    "vi": "Người hẹn hò cứ nói mãi về người yêu cũ",
+    "id": "Teman Kencan yang Terus Membahas Mantannya",
+    "ms": "Teman Janji Temu yang Asyik Bercerita Tentang Bekas Kekasih",
+    "ko": "전 애인 이야기만 하는 소개팅 상대"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your blind date (AI) can't stop talking about their ex, and they have just started comparing everything you say to them.",
+  "scenario_translations": {
+    "en": "Your blind date (AI) can't stop talking about their ex, and they have just started comparing everything you say to them.",
+    "es": "Su cita a ciegas (AI) no para de hablar de su ex y ahora empieza a comparar todo lo que usted dice con lo que decía su ex.",
+    "fr": "Votre rendez-vous à l'aveugle (AI) n'arrête pas de parler de son ex, et commence même à vous comparer à cette personne à chacune de vos phrases.",
+    "de": "Ihr Blind Date (AI) redet ununterbrochen über den Ex bzw. die Ex und vergleicht jetzt auch noch alles, was Sie sagen, mit dieser Person.",
+    "it": "Il tuo appuntamento al buio (AI) non smette di parlare della sua ex relazione e ha appena iniziato a confrontare con l'ex tutto quello che dici.",
+    "pl": "Twoja randka w ciemno (AI) nie może przestać mówić o swoim byłym partnerze i właśnie zaczęła porównywać do niego wszystko, co mówisz.",
+    "pt": "Seu par do encontro às cegas (AI) não para de falar do ex e acabou de começar a comparar tudo o que você diz com essa pessoa.",
+    "nl": "Je blind date (AI) kan niet ophouden over hun ex en is net begonnen alles wat je zegt met die ex te vergelijken.",
+    "hr": "Tvoj spoj naslijepo (AI) ne može prestati pričati o bivšem partneru i upravo je počeo sve što kažeš uspoređivati s njim.",
+    "tr": "Buluştuğunuz kişi (AI) eski sevgilisinden bahsetmeyi bırakamıyor ve söylediğiniz her şeyi onunla karşılaştırmaya başladı.",
+    "uk": "Твоя пара на побаченні наосліп (AI) без упину говорить про свого колишнього і вже почала порівнювати з ним усе, що ти кажеш.",
+    "ar": "شريك موعدك الأعمى (AI) لا يكف عن الحديث عن حبيبه السابق، وقد بدأ للتو يقارن كل ما تقوله به.",
+    "hi": "आपकी ब्लाइंड डेट (AI) अपने एक्स के बारे में बात करना बंद ही नहीं कर रही, और अब आपकी हर बात की तुलना उनसे करने लगी है।",
+    "vi": "Người hẹn hò giấu mặt (AI) cứ nói mãi về người yêu cũ, và giờ còn bắt đầu so sánh mọi điều bạn nói với người đó.",
+    "id": "Teman kencan butamu (AI) tidak berhenti membicarakan mantannya, dan sekarang dia mulai membandingkan semua ucapanmu dengan mantannya.",
+    "ms": "Pasangan janji temu buta anda (AI) tidak berhenti bercakap tentang bekas kekasihnya, dan dia baru mula membandingkan setiap kata-kata anda dengan bekas kekasihnya.",
+    "ko": "소개팅 상대(AI)가 전 애인 이야기를 멈추지 못하고, 이제는 당신이 하는 말마다 전 애인과 비교하기 시작했어요."
+  },
+  "mission": {
+    "native": "Tactfully change the subject, set a kind boundary, and decide how the evening ends.",
+    "native_translations": {
+      "en": "Tactfully change the subject, set a kind boundary, and decide how the evening ends.",
+      "es": "Cambie de tema con tacto, ponga un límite amable y decida cómo termina la noche.",
+      "fr": "Changez de sujet avec tact, posez gentiment une limite et décidez comment la soirée se termine.",
+      "de": "Wechseln Sie taktvoll das Thema, setzen Sie freundlich eine Grenze und entscheiden Sie, wie der Abend endet.",
+      "it": "Cambia argomento con tatto, poni un limite con gentilezza e decidi come finisce la serata.",
+      "pl": "Taktownie zmień temat, życzliwie postaw granicę i zdecyduj, jak skończy się wieczór.",
+      "pt": "Mude de assunto com tato, estabeleça um limite gentil e decida como a noite termina.",
+      "nl": "Verander tactvol van onderwerp, trek vriendelijk een grens en beslis hoe de avond eindigt.",
+      "hr": "Taktično promijeni temu, ljubazno postavi granicu i odluči kako će večer završiti.",
+      "tr": "Konuyu incelikle değiştirin, nazik bir sınır koyun ve akşamın nasıl biteceğine karar verin.",
+      "uk": "Тактовно зміни тему, м'яко окресли межі й виріши, чим закінчиться вечір.",
+      "ar": "غيّر الموضوع بلباقة وضع حدًا بلطف وقرّر كيف تنتهي الأمسية.",
+      "hi": "समझदारी से विषय बदलिए, प्यार से एक सीमा तय कीजिए और तय कीजिए कि शाम कैसे ख़त्म होगी।",
+      "vi": "Khéo léo đổi chủ đề, đặt ra giới hạn một cách tế nhị và quyết định buổi tối sẽ kết thúc thế nào.",
+      "id": "Alihkan topik dengan bijak, tetapkan batasan dengan ramah, dan putuskan bagaimana malam ini berakhir.",
+      "ms": "Tukar topik dengan bijak, tetapkan batasan dengan baik, dan tentukan bagaimana malam itu berakhir.",
+      "ko": "재치 있게 화제를 바꾸고, 부드럽게 선을 그은 뒤, 오늘 저녁을 어떻게 마무리할지 정하세요."
+    },
+    "practice": "Cambie de tema con tacto, ponga un límite amable y decida cómo termina la noche.",
+    "practice_translations": {
+      "en": "Tactfully change the subject, set a kind boundary, and decide how the evening ends.",
+      "es": "Cambie de tema con tacto, ponga un límite amable y decida cómo termina la noche.",
+      "ja": "うまく話題を変え、やさしく線を引いて、夜をどう終えるか決めてください。",
+      "ko": "재치 있게 화제를 바꾸고, 부드럽게 선을 그은 뒤, 오늘 저녁을 어떻게 마무리할지 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Politely change the subject away from the ex",
+        "native_translations": {
+          "en": "Politely change the subject away from the ex",
+          "es": "Cambie de tema con cortesía para dejar de hablar de la expareja",
+          "fr": "Détournez poliment la conversation de l'ex",
+          "de": "Lenken Sie das Gespräch höflich weg vom Ex",
+          "it": "Allontana con gentilezza il discorso dall'ex",
+          "pl": "Grzecznie odciągnij rozmowę od byłego",
+          "pt": "Mude de assunto com educação, deixando o ex de lado",
+          "nl": "Stuur het gesprek beleefd weg van de ex",
+          "hr": "Pristojno skreni razgovor s bivšeg partnera",
+          "tr": "Konuyu kibarca eski sevgiliden uzaklaştırın",
+          "uk": "Ввічливо зміни тему з колишнього на щось інше",
+          "ar": "غيّر الموضوع بأدب بعيدًا عن الحبيب السابق",
+          "hi": "विनम्रता से एक्स से हटकर विषय बदलिए",
+          "vi": "Lịch sự chuyển chủ đề khỏi người yêu cũ",
+          "id": "Alihkan topik dari sang mantan dengan sopan",
+          "ms": "Tukar topik daripada bekas kekasih dengan sopan",
+          "ko": "전 애인 이야기에서 정중하게 화제를 돌리세요"
+        },
+        "practice": "Cambie de tema con cortesía para dejar de hablar de la expareja",
+        "practice_translations": {
+          "en": "Politely change the subject away from the ex",
+          "es": "Cambie de tema con cortesía para dejar de hablar de la expareja",
+          "ja": "元恋人の話から丁寧に話題を変えてください",
+          "ko": "전 애인 이야기에서 정중하게 화제를 돌리세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say kindly that the comparisons make you uncomfortable",
+        "native_translations": {
+          "en": "Say kindly that the comparisons make you uncomfortable",
+          "es": "Diga con amabilidad que las comparaciones le incomodan",
+          "fr": "Dites gentiment que les comparaisons vous mettent mal à l'aise",
+          "de": "Sagen Sie freundlich, dass Ihnen die Vergleiche unangenehm sind",
+          "it": "Di' con gentilezza che i paragoni ti mettono a disagio",
+          "pl": "Życzliwie powiedz, że porównania sprawiają, że czujesz się niekomfortowo",
+          "pt": "Diga com gentileza que as comparações te incomodam",
+          "nl": "Zeg vriendelijk dat de vergelijkingen je ongemakkelijk maken",
+          "hr": "Ljubazno reci da ti je neugodno zbog usporedbi",
+          "tr": "Karşılaştırmaların sizi rahatsız ettiğini nazikçe söyleyin",
+          "uk": "М'яко скажи, що порівняння тобі неприємні",
+          "ar": "قل بلطف إن المقارنات تزعجك",
+          "hi": "प्यार से बताइए कि इन तुलनाओं से आपको असहज लगता है",
+          "vi": "Nhẹ nhàng nói rằng việc so sánh khiến bạn không thoải mái",
+          "id": "Katakan dengan ramah bahwa perbandingan itu membuatmu tidak nyaman",
+          "ms": "Katakan dengan baik bahawa perbandingan itu membuat anda tidak selesa",
+          "ko": "비교당하는 게 불편하다고 부드럽게 말하세요"
+        },
+        "practice": "Diga con amabilidad que las comparaciones le incomodan",
+        "practice_translations": {
+          "en": "Say kindly that the comparisons make you uncomfortable",
+          "es": "Diga con amabilidad que las comparaciones le incomodan",
+          "ja": "比べられると居心地が悪いとやさしく伝えてください",
+          "ko": "비교당하는 게 불편하다고 부드럽게 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Share something interesting about yourself",
+        "native_translations": {
+          "en": "Share something interesting about yourself",
+          "es": "Cuente algo interesante sobre usted",
+          "fr": "Partagez quelque chose d'intéressant sur vous",
+          "de": "Erzählen Sie etwas Interessantes über sich",
+          "it": "Racconta qualcosa di interessante su di te",
+          "pl": "Opowiedz o sobie coś ciekawego",
+          "pt": "Conte algo interessante sobre você",
+          "nl": "Vertel iets interessants over jezelf",
+          "hr": "Podijeli nešto zanimljivo o sebi",
+          "tr": "Kendinizle ilgili ilginç bir şey paylaşın",
+          "uk": "Розкажи щось цікаве про себе",
+          "ar": "شارك شيئًا مثيرًا للاهتمام عن نفسك",
+          "hi": "अपने बारे में कोई दिलचस्प बात बताइए",
+          "vi": "Chia sẻ một điều thú vị về bản thân",
+          "id": "Ceritakan hal menarik tentang dirimu",
+          "ms": "Kongsikan sesuatu yang menarik tentang diri anda",
+          "ko": "자신에 대한 흥미로운 이야기를 하나 하세요"
+        },
+        "practice": "Cuente algo interesante sobre usted",
+        "practice_translations": {
+          "en": "Share something interesting about yourself",
+          "es": "Cuente algo interesante sobre usted",
+          "ja": "自分について面白いことを話してください",
+          "ko": "자신에 대한 흥미로운 이야기를 하나 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "End the date politely or offer a second chance",
+        "native_translations": {
+          "en": "End the date politely or offer a second chance",
+          "es": "Termine la cita con cortesía u ofrezca otra oportunidad",
+          "fr": "Mettez fin poliment au rendez-vous ou offrez une seconde chance",
+          "de": "Beenden Sie das Date höflich oder geben Sie eine zweite Chance",
+          "it": "Chiudi l'appuntamento con garbo o concedi una seconda possibilità",
+          "pl": "Grzecznie zakończ randkę albo daj drugą szansę",
+          "pt": "Encerre o encontro com educação ou dê uma segunda chance",
+          "nl": "Beëindig de date beleefd of geef een tweede kans",
+          "hr": "Pristojno završi spoj ili ponudi drugu priliku",
+          "tr": "Buluşmayı kibarca bitirin veya ikinci bir şans verin",
+          "uk": "Ввічливо заверши побачення або дай другий шанс",
+          "ar": "أنهِ الموعد بأدب أو امنح فرصة ثانية",
+          "hi": "विनम्रता से डेट ख़त्म कीजिए या एक और मौक़ा दीजिए",
+          "vi": "Kết thúc buổi hẹn lịch sự hoặc cho thêm một cơ hội",
+          "id": "Akhiri kencan dengan sopan atau beri kesempatan kedua",
+          "ms": "Tamatkan janji temu dengan sopan atau beri peluang kedua",
+          "ko": "데이트를 정중하게 끝내거나 한 번 더 기회를 주세요"
+        },
+        "practice": "Termine la cita con cortesía u ofrezca otra oportunidad",
+        "practice_translations": {
+          "en": "End the date politely or offer a second chance",
+          "es": "Termine la cita con cortesía u ofrezca otra oportunidad",
+          "ja": "丁寧にデートを終えるか、もう一度チャンスをあげてください",
+          "ko": "데이트를 정중하게 끝내거나 한 번 더 기회를 주세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "That sounds like a lot. Can we talk about something else?",
+      "native_translations": {
+        "en": "That sounds like a lot. Can we talk about something else?",
+        "es": "Parece que fue mucho. ¿Podemos hablar de otra cosa?",
+        "fr": "Ça a l'air compliqué. On peut parler d'autre chose ?",
+        "de": "Das klingt nach ziemlich viel. Können wir über etwas anderes reden?",
+        "it": "Sembra una storia complicata. Possiamo parlare d'altro?",
+        "pl": "Brzmi, jakby dużo się działo. Możemy porozmawiać o czymś innym?",
+        "pt": "Parece que foi bastante coisa. Podemos falar de outra coisa?",
+        "nl": "Dat klinkt als heel wat. Kunnen we het over iets anders hebben?",
+        "hr": "To zvuči kao puno toga. Možemo li razgovarati o nečem drugom?",
+        "tr": "Epey yoğun bir şeymiş. Başka bir şeyden konuşabilir miyiz?",
+        "uk": "Схоже, це було непросто. Може, поговоримо про щось інше?",
+        "ar": "يبدو أن ذلك كان صعبًا. هل يمكننا التحدث عن شيء آخر؟",
+        "hi": "यह तो काफ़ी कुछ है। क्या हम किसी और चीज़ के बारे में बात कर सकते हैं?",
+        "vi": "Nghe có vẻ nhiều chuyện quá. Mình nói chuyện khác được không?",
+        "id": "Kedengarannya berat. Bisa kita bicara hal lain?",
+        "ms": "Nampaknya banyak yang awak lalui. Boleh kita cakap tentang benda lain?",
+        "ko": "많은 일이 있었네요. 우리 다른 얘기 할까요?"
+      },
+      "practice": "Parece que fue mucho. ¿Podemos hablar de otra cosa?",
+      "practice_translations": {
+        "en": "That sounds like a lot. Can we talk about something else?",
+        "es": "Parece que fue mucho. ¿Podemos hablar de otra cosa?",
+        "ja": "大変だったんですね。何か別の話をしませんか。",
+        "ko": "많은 일이 있었네요. 우리 다른 얘기 할까요?"
+      }
+    },
+    {
+      "native": "To be honest, the comparisons make me a little uncomfortable.",
+      "native_translations": {
+        "en": "To be honest, the comparisons make me a little uncomfortable.",
+        "es": "Para ser sincero, las comparaciones me incomodan un poco.",
+        "fr": "Pour être honnête, les comparaisons me mettent un peu mal à l'aise.",
+        "de": "Ehrlich gesagt sind mir die Vergleiche ein bisschen unangenehm.",
+        "it": "A dire il vero, i paragoni mi mettono un po' a disagio.",
+        "pl": "Szczerze mówiąc, te porównania są dla mnie trochę niezręczne.",
+        "pt": "Para ser sincero, as comparações me deixam um pouco desconfortável.",
+        "nl": "Eerlijk gezegd voel ik me een beetje ongemakkelijk bij die vergelijkingen.",
+        "hr": "Iskreno, zbog tih usporedbi osjećam se malo nelagodno.",
+        "tr": "Açıkçası bu karşılaştırmalar beni biraz rahatsız ediyor.",
+        "uk": "Чесно кажучи, ці порівняння мене трохи бентежать.",
+        "ar": "بصراحة، المقارنات تزعجني قليلًا.",
+        "hi": "सच कहूँ तो इन तुलनाओं से मुझे थोड़ा असहज लगता है।",
+        "vi": "Nói thật, việc so sánh làm mình hơi khó chịu.",
+        "id": "Jujur saja, perbandingan itu membuat saya agak tidak nyaman.",
+        "ms": "Terus terang, perbandingan itu buat saya rasa kurang selesa.",
+        "ko": "솔직히 말하면, 비교당하니까 좀 불편해요."
+      },
+      "practice": "Para ser sincero, las comparaciones me incomodan un poco.",
+      "practice_translations": {
+        "en": "To be honest, the comparisons make me a little uncomfortable.",
+        "es": "Para ser sincero, las comparaciones me incomodan un poco.",
+        "ja": "正直に言うと、比べられるのはちょっと居心地が悪いです。",
+        "ko": "솔직히 말하면, 비교당하니까 좀 불편해요."
+      }
+    },
+    {
+      "native": "I'd love to get to know you, not your ex.",
+      "native_translations": {
+        "en": "I'd love to get to know you, not your ex.",
+        "es": "Me encantaría conocerte a ti, no a tu ex.",
+        "fr": "J'aimerais apprendre à te connaître, toi, pas ton ex.",
+        "de": "Ich würde gern dich kennenlernen, nicht deinen Ex.",
+        "it": "Mi piacerebbe conoscere te, non il tuo ex.",
+        "pl": "Chętnie poznam ciebie, a nie twojego byłego.",
+        "pt": "Eu adoraria conhecer você, não o seu ex.",
+        "nl": "Ik wil graag jou leren kennen, niet je ex.",
+        "hr": "Zanimaš me ti, a ne tvoja bivša veza.",
+        "tr": "Eski sevgilini değil, seni tanımak isterim.",
+        "uk": "Я хочу пізнати тебе, а не твого колишнього.",
+        "ar": "أود أن أتعرف عليك أنت، لا على حبيبك السابق.",
+        "hi": "मैं आपको जानना चाहता हूँ, आपके एक्स को नहीं।",
+        "vi": "Mình muốn tìm hiểu bạn, chứ không phải người yêu cũ của bạn.",
+        "id": "Saya ingin mengenal kamu, bukan mantanmu.",
+        "ms": "Saya mahu mengenali awak, bukan bekas kekasih awak.",
+        "ko": "저는 전 애인 말고 당신을 알고 싶어요."
+      },
+      "practice": "Me encantaría conocerte a ti, no a tu ex.",
+      "practice_translations": {
+        "en": "I'd love to get to know you, not your ex.",
+        "es": "Me encantaría conocerte a ti, no a tu ex.",
+        "ja": "元恋人ではなく、あなたのことを知りたいんです。",
+        "ko": "저는 전 애인 말고 당신을 알고 싶어요."
+      }
+    },
+    {
+      "native": "Something fun about me is that I play the drums.",
+      "native_translations": {
+        "en": "Something fun about me is that I play the drums.",
+        "es": "Algo divertido de mí es que toco la batería.",
+        "fr": "Un truc sympa sur moi : je joue de la batterie.",
+        "de": "Etwas Lustiges über mich: Ich spiele Schlagzeug.",
+        "it": "Una cosa divertente su di me è che suono la batteria.",
+        "pl": "Zabawna rzecz o mnie: gram na perkusji.",
+        "pt": "Uma coisa divertida sobre mim é que eu toco bateria.",
+        "nl": "Iets leuks over mij: ik speel drums.",
+        "hr": "Zanimljivost o meni: sviram bubnjeve.",
+        "tr": "Benimle ilgili eğlenceli bir şey: davul çalıyorum.",
+        "uk": "Ось цікавий факт про мене: я граю на барабанах.",
+        "ar": "من الأشياء الممتعة عني أنني أعزف على الطبول.",
+        "hi": "मेरे बारे में एक मज़ेदार बात यह है कि मैं ड्रम बजाता हूँ।",
+        "vi": "Một điều thú vị về mình là mình chơi trống.",
+        "id": "Satu hal seru tentang saya: saya main drum.",
+        "ms": "Satu perkara menarik tentang saya ialah saya bermain dram.",
+        "ko": "저에 대한 재미있는 사실은 제가 드럼을 친다는 거예요."
+      },
+      "practice": "Algo divertido de mí es que toco la batería.",
+      "practice_translations": {
+        "en": "Something fun about me is that I play the drums.",
+        "es": "Algo divertido de mí es que toco la batería.",
+        "ja": "私のちょっと面白いところは、ドラムを叩くことです。",
+        "ko": "저에 대한 재미있는 사실은 제가 드럼을 친다는 거예요."
+      }
+    },
+    {
+      "native": "It was nice meeting you, but I think I'll head home.",
+      "native_translations": {
+        "en": "It was nice meeting you, but I think I'll head home.",
+        "es": "Fue un gusto conocerte, pero creo que me voy a casa.",
+        "fr": "J'ai été ravi de te rencontrer, mais je crois que je vais rentrer.",
+        "de": "Es war schön, dich kennenzulernen, aber ich glaube, ich gehe jetzt nach Hause.",
+        "it": "È stato un piacere conoscerti, ma credo che tornerò a casa.",
+        "pl": "Miło było cię poznać, ale chyba wrócę już do domu.",
+        "pt": "Foi um prazer te conhecer, mas acho que vou para casa.",
+        "nl": "Het was leuk je te ontmoeten, maar ik denk dat ik naar huis ga.",
+        "hr": "Bilo mi je drago upoznati te, ali mislim da ću krenuti kući.",
+        "tr": "Seninle tanışmak güzeldi ama sanırım eve gideceğim.",
+        "uk": "Було приємно познайомитися, але, мабуть, я вже піду додому.",
+        "ar": "سُررت بلقائك، لكني أظن أنني سأعود إلى المنزل.",
+        "hi": "आपसे मिलकर अच्छा लगा, लेकिन मुझे लगता है अब मैं घर जाऊँगा।",
+        "vi": "Rất vui được gặp bạn, nhưng chắc mình về trước đây.",
+        "id": "Senang bertemu denganmu, tapi sepertinya saya pulang saja.",
+        "ms": "Gembira dapat berjumpa awak, tetapi saya rasa saya nak balik dulu.",
+        "ko": "만나서 반가웠어요. 그런데 저는 이만 집에 가 볼게요."
+      },
+      "practice": "Fue un gusto conocerte, pero creo que me voy a casa.",
+      "practice_translations": {
+        "en": "It was nice meeting you, but I think I'll head home.",
+        "es": "Fue un gusto conocerte, pero creo que me voy a casa.",
+        "ja": "お会いできてよかったです。でも、そろそろ帰ろうと思います。",
+        "ko": "만나서 반가웠어요. 그런데 저는 이만 집에 가 볼게요."
+      }
+    }
+  ]
+}

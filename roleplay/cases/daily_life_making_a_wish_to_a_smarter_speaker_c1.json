@@ -1,0 +1,289 @@
+{
+  "id": "daily_life_making_a_wish_to_a_smarter_speaker_c1",
+  "title": "Play Some Music... Not That!",
+  "title_translations": {
+    "en": "Play Some Music... Not That!",
+    "es": "Pon música... ¡Esa no!",
+    "fr": "Mets de la musique… Pas celle-là !",
+    "de": "Spiel Musik ... aber nicht die!",
+    "it": "Metti un po' di musica... non quella!",
+    "pl": "Włącz muzykę... Nie tę!",
+    "pt": "Toque uma música... essa não!",
+    "nl": "Zet wat muziek op... Niet dat!",
+    "hr": "Pusti glazbu... ali ne tu!",
+    "tr": "Müzik Aç... O Değil!",
+    "uk": "Увімкни музику... Тільки не цю!",
+    "ar": "شغّل بعض الموسيقى... ليس هذه!",
+    "hi": "कुछ म्यूज़िक चलाओ... वह नहीं!",
+    "vi": "Mở nhạc đi... Không phải bài đó!",
+    "id": "Putar Musik... Bukan Itu!",
+    "ms": "Mainkan Muzik... Bukan Yang Itu!",
+    "ko": "음악 좀 틀어 줘... 그거 말고!"
+  },
+  "character": "fox",
+  "scenario": "You ask your smart speaker (AI) to play some relaxing music, but it starts blasting heavy metal at full volume.",
+  "scenario_translations": {
+    "en": "You ask your smart speaker (AI) to play some relaxing music, but it starts blasting heavy metal at full volume.",
+    "es": "Le pide a su altavoz inteligente (AI) que ponga música relajante, pero empieza a sonar heavy metal a todo volumen.",
+    "fr": "Vous demandez à votre enceinte connectée (AI) de mettre une musique relaxante, mais elle se met à diffuser du heavy metal à plein volume.",
+    "de": "Sie bitten Ihren smarten Lautsprecher (AI), entspannende Musik zu spielen, aber er dröhnt los mit Heavy Metal in voller Lautstärke.",
+    "it": "Chiedi al tuo smart speaker (AI) di mettere musica rilassante, ma lui inizia a sparare heavy metal a tutto volume.",
+    "pl": "Prosisz inteligentny głośnik (AI), żeby włączył relaksującą muzykę, a on zaczyna na cały regulator puszczać heavy metal.",
+    "pt": "Você pede ao seu alto-falante inteligente (AI) para tocar uma música relaxante, mas ele começa a tocar heavy metal no volume máximo.",
+    "nl": "Je vraagt je slimme speaker (AI) om ontspannende muziek te spelen, maar hij begint keihard heavy metal te blazen.",
+    "hr": "Tražiš od pametnog zvučnika (AI) da pusti opuštajuću glazbu, a on počne treštati heavy metal na najjače.",
+    "tr": "Akıllı hoparlörünüzden (AI) rahatlatıcı bir müzik açmasını istiyorsunuz, ama son ses heavy metal çalmaya başlıyor.",
+    "uk": "Ти просиш свою розумну колонку (AI) увімкнути спокійну музику, а вона на повну гучність вмикає хеві-метал.",
+    "ar": "تطلب من مكبّر الصوت الذكي (AI) تشغيل موسيقى هادئة، لكنه يبدأ بتشغيل موسيقى الهيفي ميتال بأعلى صوت.",
+    "hi": "आप अपने स्मार्ट स्पीकर (AI) से कुछ सुकून भरा संगीत चलाने को कहते हैं, लेकिन वह पूरी आवाज़ में हेवी मेटल बजाने लगता है।",
+    "vi": "Bạn bảo loa thông minh (AI) mở nhạc thư giãn, nhưng nó lại bật heavy metal hết cỡ.",
+    "id": "Kamu meminta speaker pintarmu (AI) memutar musik yang menenangkan, tapi ia malah memutar heavy metal dengan volume penuh.",
+    "ms": "Anda meminta pembesar suara pintar (AI) anda memainkan muzik yang menenangkan, tetapi ia mula memainkan muzik heavy metal pada volum maksimum.",
+    "ko": "스마트 스피커(AI)에게 편안한 음악을 틀어 달라고 했는데, 최대 볼륨으로 헤비메탈을 쾅쾅 틀기 시작해요."
+  },
+  "mission": {
+    "native": "Get the speaker to play the music you want at a normal volume.",
+    "native_translations": {
+      "en": "Get the speaker to play the music you want at a normal volume.",
+      "es": "Consiga que el altavoz ponga la música que quiere a un volumen normal.",
+      "fr": "Faites jouer à l'enceinte la musique que vous voulez, à un volume normal.",
+      "de": "Bringen Sie den Lautsprecher dazu, die gewünschte Musik in normaler Lautstärke zu spielen.",
+      "it": "Fai suonare allo speaker la musica che vuoi a un volume normale.",
+      "pl": "Spraw, żeby głośnik puścił muzykę, której chcesz, z normalną głośnością.",
+      "pt": "Faça o alto-falante tocar a música que você quer em um volume normal.",
+      "nl": "Zorg dat de speaker de muziek speelt die je wilt, op een normaal volume.",
+      "hr": "Natjeraj zvučnik da pusti glazbu koju želiš na normalnoj glasnoći.",
+      "tr": "Hoparlörün istediğiniz müziği normal ses seviyesinde çalmasını sağlayın.",
+      "uk": "Змуси колонку ввімкнути потрібну музику на нормальній гучності.",
+      "ar": "اجعل مكبّر الصوت يشغّل الموسيقى التي تريدها بصوت عادي.",
+      "hi": "स्पीकर से अपनी पसंद का संगीत सामान्य आवाज़ में चलवाइए।",
+      "vi": "Khiến chiếc loa phát đúng nhạc bạn muốn với âm lượng bình thường.",
+      "id": "Buat speaker memutar musik yang kamu mau dengan volume normal.",
+      "ms": "Buat pembesar suara memainkan muzik yang anda mahu pada volum biasa.",
+      "ko": "스피커가 원하는 음악을 적당한 볼륨으로 틀게 하세요."
+    },
+    "practice": "Consiga que el altavoz ponga la música que quiere a un volumen normal.",
+    "practice_translations": {
+      "en": "Get the speaker to play the music you want at a normal volume.",
+      "es": "Consiga que el altavoz ponga la música que quiere a un volumen normal.",
+      "ja": "スマートスピーカーに、聞きたい音楽を普通の音量でかけてもらってください。",
+      "ko": "스피커가 원하는 음악을 적당한 볼륨으로 틀게 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Tell the speaker to stop the music",
+        "native_translations": {
+          "en": "Tell the speaker to stop the music",
+          "es": "Diga al altavoz que pare la música",
+          "fr": "Dites à l'enceinte d'arrêter la musique",
+          "de": "Sagen Sie dem Lautsprecher, dass er die Musik stoppen soll",
+          "it": "Di' allo speaker di fermare la musica",
+          "pl": "Powiedz głośnikowi, żeby wyłączył muzykę",
+          "pt": "Mande o alto-falante parar a música",
+          "nl": "Zeg tegen de speaker dat hij moet stoppen met de muziek",
+          "hr": "Reci zvučniku da zaustavi glazbu",
+          "tr": "Hoparlöre müziği durdurmasını söyleyin",
+          "uk": "Скажи колонці вимкнути музику",
+          "ar": "اطلب من مكبّر الصوت إيقاف الموسيقى",
+          "hi": "स्पीकर से संगीत बंद करने को कहिए",
+          "vi": "Bảo loa dừng nhạc",
+          "id": "Suruh speaker menghentikan musiknya",
+          "ms": "Suruh pembesar suara hentikan muzik",
+          "ko": "스피커에게 음악을 끄라고 말하세요"
+        },
+        "practice": "Diga al altavoz que pare la música",
+        "practice_translations": {
+          "en": "Tell the speaker to stop the music",
+          "es": "Diga al altavoz que pare la música",
+          "ja": "スピーカーに音楽を止めるよう言ってください",
+          "ko": "스피커에게 음악을 끄라고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for relaxing music instead",
+        "native_translations": {
+          "en": "Ask for relaxing music instead",
+          "es": "Pida música relajante en su lugar",
+          "fr": "Demandez plutôt une musique relaxante",
+          "de": "Bitten Sie stattdessen um entspannende Musik",
+          "it": "Chiedi invece musica rilassante",
+          "pl": "Poproś zamiast tego o relaksującą muzykę",
+          "pt": "Peça uma música relaxante no lugar",
+          "nl": "Vraag in plaats daarvan om ontspannende muziek",
+          "hr": "Zatraži opuštajuću glazbu umjesto toga",
+          "tr": "Onun yerine rahatlatıcı müzik isteyin",
+          "uk": "Попроси натомість спокійну музику",
+          "ar": "اطلب موسيقى هادئة بدلًا منها",
+          "hi": "उसकी जगह सुकून भरा संगीत माँगिए",
+          "vi": "Yêu cầu mở nhạc thư giãn thay vào đó",
+          "id": "Minta musik yang menenangkan sebagai gantinya",
+          "ms": "Minta muzik yang menenangkan sebagai ganti",
+          "ko": "대신 편안한 음악을 틀어 달라고 하세요"
+        },
+        "practice": "Pida música relajante en su lugar",
+        "practice_translations": {
+          "en": "Ask for relaxing music instead",
+          "es": "Pida música relajante en su lugar",
+          "ja": "代わりにリラックスできる音楽を頼んでください",
+          "ko": "대신 편안한 음악을 틀어 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask it to turn the volume down",
+        "native_translations": {
+          "en": "Ask it to turn the volume down",
+          "es": "Pídale que baje el volumen",
+          "fr": "Demandez-lui de baisser le volume",
+          "de": "Bitten Sie ihn, leiser zu stellen",
+          "it": "Chiedigli di abbassare il volume",
+          "pl": "Poproś o ściszenie",
+          "pt": "Peça para ele abaixar o volume",
+          "nl": "Vraag hem het volume lager te zetten",
+          "hr": "Zamoli ga da utiša glasnoću",
+          "tr": "Sesi kısmasını isteyin",
+          "uk": "Попроси зменшити гучність",
+          "ar": "اطلب منه خفض الصوت",
+          "hi": "उससे आवाज़ कम करने को कहिए",
+          "vi": "Bảo loa giảm âm lượng",
+          "id": "Minta ia mengecilkan volume",
+          "ms": "Minta ia perlahankan volum",
+          "ko": "볼륨을 줄여 달라고 하세요"
+        },
+        "practice": "Pídale que baje el volumen",
+        "practice_translations": {
+          "en": "Ask it to turn the volume down",
+          "es": "Pídale que baje el volumen",
+          "ja": "音量を下げるよう頼んでください",
+          "ko": "볼륨을 줄여 달라고 하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Stop! Stop the music, please!",
+      "native_translations": {
+        "en": "Stop! Stop the music, please!",
+        "es": "¡Para! ¡Para la música, por favor!",
+        "fr": "Stop ! Arrête la musique, s'il te plaît !",
+        "de": "Stopp! Mach bitte die Musik aus!",
+        "it": "Stop! Ferma la musica, per favore!",
+        "pl": "Stop! Wyłącz muzykę, proszę!",
+        "pt": "Para! Para a música, por favor!",
+        "nl": "Stop! Zet de muziek uit, alsjeblieft!",
+        "hr": "Stani! Zaustavi glazbu, molim te!",
+        "tr": "Dur! Müziği durdur lütfen!",
+        "uk": "Стоп! Вимкни музику, будь ласка!",
+        "ar": "توقف! أوقف الموسيقى من فضلك!",
+        "hi": "रुको! म्यूज़िक बंद करो, प्लीज़!",
+        "vi": "Dừng lại! Tắt nhạc đi!",
+        "id": "Berhenti! Tolong hentikan musiknya!",
+        "ms": "Berhenti! Tolong hentikan muzik ini!",
+        "ko": "그만! 음악 좀 꺼 줘요!"
+      },
+      "practice": "¡Para! ¡Para la música, por favor!",
+      "practice_translations": {
+        "en": "Stop! Stop the music, please!",
+        "es": "¡Para! ¡Para la música, por favor!",
+        "ja": "止めて！音楽を止めてください！",
+        "ko": "그만! 음악 좀 꺼 줘요!"
+      }
+    },
+    {
+      "native": "That's not what I asked for.",
+      "native_translations": {
+        "en": "That's not what I asked for.",
+        "es": "Eso no es lo que pedí.",
+        "fr": "Ce n'est pas ce que j'ai demandé.",
+        "de": "Das habe ich nicht gewollt.",
+        "it": "Non è quello che ho chiesto.",
+        "pl": "Nie o to prosiłem.",
+        "pt": "Não foi isso que eu pedi.",
+        "nl": "Dat is niet waar ik om vroeg.",
+        "hr": "To nije ono što mi treba.",
+        "tr": "Benim istediğim bu değildi.",
+        "uk": "Я просив не це.",
+        "ar": "هذا ليس ما طلبته.",
+        "hi": "मैंने यह तो नहीं माँगा था।",
+        "vi": "Đó không phải thứ tôi yêu cầu.",
+        "id": "Bukan itu yang saya minta.",
+        "ms": "Itu bukan yang saya minta.",
+        "ko": "그건 제가 부탁한 게 아니에요."
+      },
+      "practice": "Eso no es lo que pedí.",
+      "practice_translations": {
+        "en": "That's not what I asked for.",
+        "es": "Eso no es lo que pedí.",
+        "ja": "それは頼んだものと違います。",
+        "ko": "그건 제가 부탁한 게 아니에요."
+      }
+    },
+    {
+      "native": "Play some calm piano music instead.",
+      "native_translations": {
+        "en": "Play some calm piano music instead.",
+        "es": "Mejor pon música tranquila de piano.",
+        "fr": "Mets plutôt un peu de piano calme.",
+        "de": "Spiel stattdessen ruhige Klaviermusik.",
+        "it": "Metti invece un po' di musica tranquilla al pianoforte.",
+        "pl": "Włącz zamiast tego spokojną muzykę fortepianową.",
+        "pt": "Toque uma música calma de piano no lugar.",
+        "nl": "Speel in plaats daarvan rustige pianomuziek.",
+        "hr": "Pusti umjesto toga neku mirnu glazbu za klavir.",
+        "tr": "Onun yerine sakin bir piyano müziği çal.",
+        "uk": "Увімкни натомість спокійну фортепіанну музику.",
+        "ar": "شغّل بعض موسيقى البيانو الهادئة بدلًا من ذلك.",
+        "hi": "इसकी जगह कोई शांत पियानो म्यूज़िक चलाओ।",
+        "vi": "Mở nhạc piano nhẹ nhàng đi.",
+        "id": "Putar musik piano yang tenang saja.",
+        "ms": "Mainkan muzik piano yang tenang sebagai ganti.",
+        "ko": "대신 잔잔한 피아노 음악을 틀어 줘요."
+      },
+      "practice": "Mejor pon música tranquila de piano.",
+      "practice_translations": {
+        "en": "Play some calm piano music instead.",
+        "es": "Mejor pon música tranquila de piano.",
+        "ja": "代わりに落ち着いたピアノ曲をかけてください。",
+        "ko": "대신 잔잔한 피아노 음악을 틀어 줘요."
+      }
+    },
+    {
+      "native": "Turn the volume down to three.",
+      "native_translations": {
+        "en": "Turn the volume down to three.",
+        "es": "Baja el volumen a tres.",
+        "fr": "Baisse le volume à trois.",
+        "de": "Stell die Lautstärke auf drei.",
+        "it": "Abbassa il volume a tre.",
+        "pl": "Ścisz do trzech.",
+        "pt": "Abaixe o volume para três.",
+        "nl": "Zet het volume op drie.",
+        "hr": "Smanji glasnoću na tri.",
+        "tr": "Sesi üçe kıs.",
+        "uk": "Зменш гучність до трьох.",
+        "ar": "اخفض مستوى الصوت إلى ثلاثة.",
+        "hi": "आवाज़ घटाकर तीन पर कर दो।",
+        "vi": "Giảm âm lượng xuống mức ba.",
+        "id": "Kecilkan volumenya ke tiga.",
+        "ms": "Perlahankan volum ke tiga.",
+        "ko": "볼륨을 3으로 줄여 줘요."
+      },
+      "practice": "Baja el volumen a tres.",
+      "practice_translations": {
+        "en": "Turn the volume down to three.",
+        "es": "Baja el volumen a tres.",
+        "ja": "音量を3に下げてください。",
+        "ko": "볼륨을 3으로 줄여 줘요."
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "family_handling_your_child_s_health_c2",
+  "title": "At the Pharmacy Counter",
+  "title_translations": {
+    "en": "At the Pharmacy Counter",
+    "es": "En el mostrador de la farmacia",
+    "fr": "Au comptoir de la pharmacie",
+    "de": "In der Apotheke",
+    "it": "Al banco della farmacia",
+    "pl": "Przy okienku w aptece",
+    "pt": "No balcão da farmácia",
+    "nl": "Aan de apotheekbalie",
+    "hr": "U ljekarni",
+    "tr": "Eczane Tezgâhında",
+    "uk": "Біля аптечного прилавка",
+    "ar": "عند منضدة الصيدلية",
+    "hi": "फ़ार्मेसी काउंटर पर",
+    "vi": "Tại quầy thuốc",
+    "id": "Di Konter Apotek",
+    "ms": "Di Kaunter Farmasi",
+    "ko": "약국 카운터에서"
+  },
+  "character": "fox",
+  "scenario": "The doctor gave your child a prescription, and now the pharmacist (AI) is explaining how to give the medicine.",
+  "scenario_translations": {
+    "en": "The doctor gave your child a prescription, and now the pharmacist (AI) is explaining how to give the medicine.",
+    "es": "El médico le recetó un medicamento a su hijo, y ahora el farmacéutico (AI) le explica cómo dárselo.",
+    "fr": "Le médecin a fait une ordonnance pour votre enfant, et le pharmacien (AI) vous explique maintenant comment donner le médicament.",
+    "de": "Die Ärztin hat Ihrem Kind ein Rezept ausgestellt, und nun erklärt die Apothekerin bzw. der Apotheker (AI), wie das Medikament gegeben wird.",
+    "it": "Il medico ha prescritto una ricetta a tuo figlio e ora il farmacista (AI) ti spiega come dargli il medicinale.",
+    "pl": "Lekarz wypisał twojemu dziecku receptę, a teraz farmaceutka (AI) wyjaśnia, jak podawać lek.",
+    "pt": "O médico receitou um remédio para seu filho, e agora o farmacêutico (AI) está explicando como dar o medicamento.",
+    "nl": "De dokter heeft je kind een recept gegeven, en nu legt de apotheker (AI) uit hoe je het medicijn moet geven.",
+    "hr": "Liječnik je tvom djetetu propisao lijek, a sada ti ljekarnik (AI) objašnjava kako ga davati.",
+    "tr": "Doktor çocuğunuza reçete yazdı ve şimdi eczacı (AI) ilacın nasıl verileceğini anlatıyor.",
+    "uk": "Лікар виписав твоїй дитині рецепт, і тепер фармацевт (AI) пояснює, як давати ліки.",
+    "ar": "أعطى الطبيب طفلك وصفة طبية، والآن يشرح لك الصيدلي (AI) كيفية إعطاء الدواء.",
+    "hi": "डॉक्टर ने आपके बच्चे के लिए दवा लिखी है, और अब फ़ार्मासिस्ट (AI) समझा रहे हैं कि दवा कैसे देनी है।",
+    "vi": "Bác sĩ đã kê đơn cho con bạn, và giờ dược sĩ (AI) đang hướng dẫn cách cho con uống thuốc.",
+    "id": "Dokter memberi resep untuk anakmu, dan sekarang apoteker (AI) menjelaskan cara memberikan obatnya.",
+    "ms": "Doktor telah memberikan preskripsi kepada anak anda, dan kini ahli farmasi (AI) sedang menerangkan cara memberikan ubat itu.",
+    "ko": "의사가 아이에게 처방전을 써 주었고, 이제 약사(AI)가 약 먹이는 방법을 설명하고 있어요."
+  },
+  "mission": {
+    "native": "Make sure you understand how and when to give your child the medicine.",
+    "native_translations": {
+      "en": "Make sure you understand how and when to give your child the medicine.",
+      "es": "Asegúrese de entender cómo y cuándo darle la medicina a su hijo.",
+      "fr": "Assurez-vous de bien comprendre comment et quand donner le médicament à votre enfant.",
+      "de": "Stellen Sie sicher, dass Sie verstehen, wie und wann Sie Ihrem Kind das Medikament geben.",
+      "it": "Assicurati di aver capito come e quando dare il medicinale a tuo figlio.",
+      "pl": "Upewnij się, że rozumiesz, jak i kiedy podawać dziecku lek.",
+      "pt": "Garanta que você entendeu como e quando dar o remédio ao seu filho.",
+      "nl": "Zorg dat je begrijpt hoe en wanneer je je kind het medicijn moet geven.",
+      "hr": "Provjeri je li ti jasno kako i kada davati djetetu lijek.",
+      "tr": "İlacı çocuğunuza nasıl ve ne zaman vereceğinizi anladığınızdan emin olun.",
+      "uk": "Переконайся, що розумієш, як і коли давати дитині ліки.",
+      "ar": "تأكد من أنك تفهم كيف ومتى تعطي طفلك الدواء.",
+      "hi": "पक्का कीजिए कि आप समझ गए हैं कि बच्चे को दवा कैसे और कब देनी है।",
+      "vi": "Đảm bảo bạn hiểu cách cho con uống thuốc và uống vào lúc nào.",
+      "id": "Pastikan kamu paham bagaimana dan kapan memberikan obat itu kepada anakmu.",
+      "ms": "Pastikan anda faham bagaimana dan bila untuk memberikan ubat kepada anak anda.",
+      "ko": "아이에게 약을 어떻게, 언제 먹여야 하는지 확실히 이해하세요."
+    },
+    "practice": "Asegúrese de entender cómo y cuándo darle la medicina a su hijo.",
+    "practice_translations": {
+      "en": "Make sure you understand how and when to give your child the medicine.",
+      "es": "Asegúrese de entender cómo y cuándo darle la medicina a su hijo.",
+      "ja": "子どもに薬をいつ、どのように飲ませるか、しっかり確認してください。",
+      "ko": "아이에게 약을 어떻게, 언제 먹여야 하는지 확실히 이해하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Hand in the prescription and give your child's age",
+        "native_translations": {
+          "en": "Hand in the prescription and give your child's age",
+          "es": "Entregue la receta y diga la edad de su hijo",
+          "fr": "Remettez l'ordonnance et indiquez l'âge de votre enfant",
+          "de": "Geben Sie das Rezept ab und nennen Sie das Alter Ihres Kindes",
+          "it": "Consegna la ricetta e indica l'età di tuo figlio",
+          "pl": "Podaj receptę i wiek dziecka",
+          "pt": "Entregue a receita e diga a idade do seu filho",
+          "nl": "Geef het recept af en noem de leeftijd van je kind",
+          "hr": "Predaj recept i reci koliko dijete ima godina",
+          "tr": "Reçeteyi verin ve çocuğunuzun yaşını söyleyin",
+          "uk": "Передай рецепт і назви вік дитини",
+          "ar": "سلّم الوصفة الطبية واذكر عمر طفلك",
+          "hi": "पर्चा दीजिए और अपने बच्चे की उम्र बताइए",
+          "vi": "Đưa đơn thuốc và cho biết tuổi của con",
+          "id": "Serahkan resep dan sebutkan umur anakmu",
+          "ms": "Serahkan preskripsi dan beritahu umur anak anda",
+          "ko": "처방전을 내고 아이의 나이를 말하세요"
+        },
+        "practice": "Entregue la receta y diga la edad de su hijo",
+        "practice_translations": {
+          "en": "Hand in the prescription and give your child's age",
+          "es": "Entregue la receta y diga la edad de su hijo",
+          "ja": "処方箋を渡して、子どもの年齢を伝えてください",
+          "ko": "처방전을 내고 아이의 나이를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how often to give the medicine",
+        "native_translations": {
+          "en": "Ask how often to give the medicine",
+          "es": "Pregunte cada cuánto tiempo debe darle la medicina",
+          "fr": "Demandez à quelle fréquence donner le médicament",
+          "de": "Fragen Sie, wie oft das Medikament gegeben wird",
+          "it": "Chiedi ogni quanto dare il medicinale",
+          "pl": "Zapytaj, jak często podawać lek",
+          "pt": "Pergunte de quanto em quanto tempo dar o remédio",
+          "nl": "Vraag hoe vaak je het medicijn moet geven",
+          "hr": "Pitaj koliko često treba davati lijek",
+          "tr": "İlacın ne sıklıkla verileceğini sorun",
+          "uk": "Запитай, як часто давати ліки",
+          "ar": "اسأل كم مرة يجب إعطاء الدواء",
+          "hi": "पूछिए कि दवा कितनी बार देनी है",
+          "vi": "Hỏi uống thuốc bao nhiêu lần",
+          "id": "Tanyakan seberapa sering obatnya diberikan",
+          "ms": "Tanya berapa kerap ubat perlu diberikan",
+          "ko": "약을 얼마나 자주 먹여야 하는지 물어보세요"
+        },
+        "practice": "Pregunte cada cuánto tiempo debe darle la medicina",
+        "practice_translations": {
+          "en": "Ask how often to give the medicine",
+          "es": "Pregunte cada cuánto tiempo debe darle la medicina",
+          "ja": "薬を飲ませる回数を聞いてください",
+          "ko": "약을 얼마나 자주 먹여야 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if it should be taken with food",
+        "native_translations": {
+          "en": "Ask if it should be taken with food",
+          "es": "Pregunte si debe tomarse con comida",
+          "fr": "Demandez s'il faut le prendre pendant les repas",
+          "de": "Fragen Sie, ob es zum Essen eingenommen werden soll",
+          "it": "Chiedi se va preso a stomaco pieno",
+          "pl": "Zapytaj, czy trzeba go przyjmować z jedzeniem",
+          "pt": "Pergunte se deve ser tomado com comida",
+          "nl": "Vraag of het met eten moet worden ingenomen",
+          "hr": "Pitaj uzima li se lijek uz hranu",
+          "tr": "Tok karnına alınması gerekip gerekmediğini sorun",
+          "uk": "Запитай, чи приймати їх під час їди",
+          "ar": "اسأل إن كان يجب تناوله مع الطعام",
+          "hi": "पूछिए कि क्या इसे खाने के साथ लेना है",
+          "vi": "Hỏi có cần uống thuốc cùng bữa ăn không",
+          "id": "Tanyakan apakah obatnya diminum bersama makanan",
+          "ms": "Tanya sama ada ubat perlu diambil bersama makanan",
+          "ko": "음식과 함께 먹여야 하는지 물어보세요"
+        },
+        "practice": "Pregunte si debe tomarse con comida",
+        "practice_translations": {
+          "en": "Ask if it should be taken with food",
+          "es": "Pregunte si debe tomarse con comida",
+          "ja": "食事と一緒に飲むべきか聞いてください",
+          "ko": "음식과 함께 먹여야 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask what to do if there are side effects",
+        "native_translations": {
+          "en": "Ask what to do if there are side effects",
+          "es": "Pregunte qué hacer si hay efectos secundarios",
+          "fr": "Demandez quoi faire en cas d'effets secondaires",
+          "de": "Fragen Sie, was bei Nebenwirkungen zu tun ist",
+          "it": "Chiedi cosa fare in caso di effetti collaterali",
+          "pl": "Zapytaj, co robić w razie skutków ubocznych",
+          "pt": "Pergunte o que fazer em caso de efeitos colaterais",
+          "nl": "Vraag wat je moet doen bij bijwerkingen",
+          "hr": "Pitaj što učiniti ako se pojave nuspojave",
+          "tr": "Yan etki olursa ne yapılacağını sorun",
+          "uk": "Запитай, що робити в разі побічних ефектів",
+          "ar": "اسأل ماذا تفعل في حال ظهور آثار جانبية",
+          "hi": "पूछिए कि साइड इफ़ेक्ट होने पर क्या करें",
+          "vi": "Hỏi phải làm gì nếu có tác dụng phụ",
+          "id": "Tanyakan apa yang harus dilakukan jika ada efek samping",
+          "ms": "Tanya apa yang perlu dilakukan jika ada kesan sampingan",
+          "ko": "부작용이 생기면 어떻게 해야 하는지 물어보세요"
+        },
+        "practice": "Pregunte qué hacer si hay efectos secundarios",
+        "practice_translations": {
+          "en": "Ask what to do if there are side effects",
+          "es": "Pregunte qué hacer si hay efectos secundarios",
+          "ja": "副作用が出たらどうすればいいか聞いてください",
+          "ko": "부작용이 생기면 어떻게 해야 하는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Here's the prescription. My son is six years old.",
+      "native_translations": {
+        "en": "Here's the prescription. My son is six years old.",
+        "es": "Aquí está la receta. Mi hijo tiene seis años.",
+        "fr": "Voici l'ordonnance. Mon fils a six ans.",
+        "de": "Hier ist das Rezept. Mein Sohn ist sechs Jahre alt.",
+        "it": "Ecco la ricetta. Mio figlio ha sei anni.",
+        "pl": "Oto recepta. Mój syn ma sześć lat.",
+        "pt": "Aqui está a receita. Meu filho tem seis anos.",
+        "nl": "Hier is het recept. Mijn zoon is zes jaar.",
+        "hr": "Izvolite recept. Moj sin ima šest godina.",
+        "tr": "Reçete burada. Oğlum altı yaşında.",
+        "uk": "Ось рецепт. Моєму синові шість років.",
+        "ar": "تفضل الوصفة الطبية. ابني عمره ست سنوات.",
+        "hi": "यह रहा पर्चा। मेरा बेटा छह साल का है।",
+        "vi": "Đơn thuốc đây ạ. Con trai tôi sáu tuổi.",
+        "id": "Ini resepnya. Anak saya berumur enam tahun.",
+        "ms": "Ini preskripsinya. Anak lelaki saya berumur enam tahun.",
+        "ko": "여기 처방전이요. 아들은 여섯 살이에요."
+      },
+      "practice": "Aquí está la receta. Mi hijo tiene seis años.",
+      "practice_translations": {
+        "en": "Here's the prescription. My son is six years old.",
+        "es": "Aquí está la receta. Mi hijo tiene seis años.",
+        "ja": "処方箋です。息子は6歳です。",
+        "ko": "여기 처방전이요. 아들은 여섯 살이에요."
+      }
+    },
+    {
+      "native": "How many times a day should he take it?",
+      "native_translations": {
+        "en": "How many times a day should he take it?",
+        "es": "¿Cuántas veces al día debe tomarla?",
+        "fr": "Combien de fois par jour doit-il le prendre ?",
+        "de": "Wie oft am Tag soll er es nehmen?",
+        "it": "Quante volte al giorno deve prenderlo?",
+        "pl": "Ile razy dziennie powinien go brać?",
+        "pt": "Quantas vezes por dia ele deve tomar?",
+        "nl": "Hoe vaak per dag moet hij het innemen?",
+        "hr": "Koliko puta na dan ga treba uzimati?",
+        "tr": "Günde kaç kez alması gerekiyor?",
+        "uk": "Скільки разів на день йому це приймати?",
+        "ar": "كم مرة في اليوم يجب أن يتناوله؟",
+        "hi": "उसे यह दिन में कितनी बार लेनी चाहिए?",
+        "vi": "Một ngày cháu nên uống mấy lần ạ?",
+        "id": "Berapa kali sehari dia harus meminumnya?",
+        "ms": "Berapa kali sehari dia perlu makan ubat ini?",
+        "ko": "하루에 몇 번 먹여야 하나요?"
+      },
+      "practice": "¿Cuántas veces al día debe tomarla?",
+      "practice_translations": {
+        "en": "How many times a day should he take it?",
+        "es": "¿Cuántas veces al día debe tomarla?",
+        "ja": "1日に何回飲ませればいいですか。",
+        "ko": "하루에 몇 번 먹여야 하나요?"
+      }
+    },
+    {
+      "native": "Should he take it before or after meals?",
+      "native_translations": {
+        "en": "Should he take it before or after meals?",
+        "es": "¿Debe tomarla antes o después de las comidas?",
+        "fr": "Doit-il le prendre avant ou après les repas ?",
+        "de": "Soll er es vor oder nach dem Essen nehmen?",
+        "it": "Deve prenderlo prima o dopo i pasti?",
+        "pl": "Czy powinien go brać przed jedzeniem, czy po?",
+        "pt": "Ele deve tomar antes ou depois das refeições?",
+        "nl": "Moet hij het voor of na het eten innemen?",
+        "hr": "Treba li ga uzimati prije ili poslije jela?",
+        "tr": "Yemekten önce mi, sonra mı almalı?",
+        "uk": "Приймати до їди чи після?",
+        "ar": "هل يتناوله قبل الوجبات أم بعدها؟",
+        "hi": "उसे यह खाने से पहले लेनी चाहिए या बाद में?",
+        "vi": "Cháu nên uống trước hay sau bữa ăn ạ?",
+        "id": "Diminum sebelum atau sesudah makan?",
+        "ms": "Perlu diambil sebelum atau selepas makan?",
+        "ko": "식전에 먹여야 하나요, 식후에 먹여야 하나요?"
+      },
+      "practice": "¿Debe tomarla antes o después de las comidas?",
+      "practice_translations": {
+        "en": "Should he take it before or after meals?",
+        "es": "¿Debe tomarla antes o después de las comidas?",
+        "ja": "食前と食後、どちらに飲ませればいいですか。",
+        "ko": "식전에 먹여야 하나요, 식후에 먹여야 하나요?"
+      }
+    },
+    {
+      "native": "What should I do if he feels sick after taking it?",
+      "native_translations": {
+        "en": "What should I do if he feels sick after taking it?",
+        "es": "¿Qué debo hacer si se siente mal después de tomarla?",
+        "fr": "Que dois-je faire s'il se sent mal après l'avoir pris ?",
+        "de": "Was soll ich tun, wenn ihm nach der Einnahme schlecht wird?",
+        "it": "Cosa devo fare se si sente male dopo averlo preso?",
+        "pl": "Co mam zrobić, jeśli po zażyciu źle się poczuje?",
+        "pt": "O que eu faço se ele passar mal depois de tomar?",
+        "nl": "Wat moet ik doen als hij zich na het innemen ziek voelt?",
+        "hr": "Što da radim ako mu nakon lijeka bude loše?",
+        "tr": "Aldıktan sonra kendini kötü hissederse ne yapmalıyım?",
+        "uk": "Що робити, якщо після прийому йому стане погано?",
+        "ar": "ماذا أفعل إذا شعر بتوعك بعد تناوله؟",
+        "hi": "अगर इसे लेने के बाद उसकी तबीयत ख़राब लगे तो मुझे क्या करना चाहिए?",
+        "vi": "Nếu cháu thấy khó chịu sau khi uống thì tôi nên làm gì?",
+        "id": "Apa yang harus saya lakukan kalau dia merasa tidak enak setelah meminumnya?",
+        "ms": "Apa yang perlu saya buat kalau dia rasa tidak sihat selepas makan ubat?",
+        "ko": "약을 먹고 아이가 속이 안 좋으면 어떻게 해야 하나요?"
+      },
+      "practice": "¿Qué debo hacer si se siente mal después de tomarla?",
+      "practice_translations": {
+        "en": "What should I do if he feels sick after taking it?",
+        "es": "¿Qué debo hacer si se siente mal después de tomarla?",
+        "ja": "飲んだ後に気分が悪くなったら、どうすればいいですか。",
+        "ko": "약을 먹고 아이가 속이 안 좋으면 어떻게 해야 하나요?"
+      }
+    },
+    {
+      "native": "Could you write that down for me, please?",
+      "native_translations": {
+        "en": "Could you write that down for me, please?",
+        "es": "¿Me lo podría escribir, por favor?",
+        "fr": "Pourriez-vous me l'écrire, s'il vous plaît ?",
+        "de": "Könnten Sie mir das bitte aufschreiben?",
+        "it": "Potrebbe scrivermelo, per favore?",
+        "pl": "Czy mogłaby mi pani to zapisać?",
+        "pt": "Você poderia anotar isso para mim, por favor?",
+        "nl": "Zou u dat voor me kunnen opschrijven?",
+        "hr": "Možete li mi to, molim Vas, zapisati?",
+        "tr": "Bunu benim için yazabilir misiniz, lütfen?",
+        "uk": "Не могли б ви мені це записати, будь ласка?",
+        "ar": "هل يمكنك أن تكتب لي ذلك من فضلك؟",
+        "hi": "क्या आप प्लीज़ यह मेरे लिए लिख देंगे?",
+        "vi": "Anh/chị ghi lại giúp tôi được không ạ?",
+        "id": "Bisa tolong dituliskan untuk saya?",
+        "ms": "Boleh tolong tuliskan untuk saya?",
+        "ko": "그거 좀 적어 주시겠어요?"
+      },
+      "practice": "¿Me lo podría escribir, por favor?",
+      "practice_translations": {
+        "en": "Could you write that down for me, please?",
+        "es": "¿Me lo podría escribir, por favor?",
+        "ja": "それを書いていただけますか。",
+        "ko": "그거 좀 적어 주시겠어요?"
+      }
+    }
+  ]
+}

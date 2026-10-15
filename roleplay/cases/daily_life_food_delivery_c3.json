@@ -1,0 +1,350 @@
+{
+  "id": "daily_life_food_delivery_c3",
+  "title": "Delivery Disaster: The Wrong Meal",
+  "title_translations": {
+    "en": "Delivery Disaster: The Wrong Meal",
+    "es": "Desastre de entrega: la comida equivocada",
+    "fr": "Livraison catastrophe : le mauvais plat",
+    "de": "Lieferchaos: Das falsche Essen",
+    "it": "Disastro a domicilio: il pasto sbagliato",
+    "pl": "Katastrofa z dostawą: nie ten posiłek",
+    "pt": "Desastre na entrega: a refeição errada",
+    "nl": "Bezorgramp: de verkeerde maaltijd",
+    "hr": "Katastrofa s dostavom: pogrešno jelo",
+    "tr": "Teslimat Felaketi: Yanlış Yemek",
+    "uk": "Катастрофа з доставкою: не та страва",
+    "ar": "كارثة توصيل: الوجبة الخطأ",
+    "hi": "डिलीवरी की मुसीबत: ग़लत खाना",
+    "vi": "Thảm họa giao hàng: Nhầm món",
+    "id": "Bencana Pengantaran: Makanan yang Salah",
+    "ms": "Bencana Penghantaran: Makanan yang Salah",
+    "ko": "배달 대참사: 잘못 온 음식"
+  },
+  "character": "fox",
+  "scenario": "You are allergic to nuts and ordered a nut-free curry. The driver (AI) brings a peanut curry and is in a big hurry.",
+  "scenario_translations": {
+    "en": "You are allergic to nuts and ordered a nut-free curry. The driver (AI) brings a peanut curry and is in a big hurry.",
+    "es": "Tiene alergia a los frutos secos y pidió un curry sin frutos secos. El repartidor (AI) trae un curry de cacahuate y tiene mucha prisa.",
+    "fr": "Vous êtes allergique aux fruits à coque et avez commandé un curry sans noix. Le livreur (AI) apporte un curry aux cacahuètes et il est très pressé.",
+    "de": "Sie haben eine Nussallergie und ein nussfreies Curry bestellt. Die Person vom Lieferdienst (AI) bringt ein Erdnuss-Curry und hat es sehr eilig.",
+    "it": "Sei allergico alla frutta a guscio e hai ordinato un curry senza frutta secca. Il fattorino (AI) porta un curry alle arachidi e ha molta fretta.",
+    "pl": "Masz alergię na orzechy i zamówiłeś curry bez orzechów. Kurier (AI) przywozi curry z orzeszkami ziemnymi i bardzo się spieszy.",
+    "pt": "Você tem alergia a castanhas e pediu um curry sem castanhas. O entregador (AI) traz um curry de amendoim e está com muita pressa.",
+    "nl": "Je bent allergisch voor noten en hebt een notenvrije curry besteld. De bezorger (AI) brengt een pindacurry en heeft grote haast.",
+    "hr": "Imaš alergiju na orašaste plodove i tvoja narudžba je curry bez njih. Dostavljač (AI) donosi curry s kikirikijem i jako mu se žuri.",
+    "tr": "Kuruyemiş alerjiniz var ve kuruyemişsiz bir köri sipariş ettiniz. Kurye (AI) yer fıstıklı bir köri getiriyor ve çok acelesi var.",
+    "uk": "У тебе алергія на горіхи, і ти замовляєш каррі без горіхів. Кур'єр (AI) привозить каррі з арахісом і дуже поспішає.",
+    "ar": "لديك حساسية من المكسرات وطلبت كاري خاليًا منها. عامل التوصيل (AI) يحضر كاري بالفول السوداني وهو مستعجل جدًا.",
+    "hi": "आपको मेवों से एलर्जी है और आपने बिना मेवों वाली करी ऑर्डर की थी। ड्राइवर (AI) मूँगफली वाली करी लाता है और उसे बहुत जल्दी है।",
+    "vi": "Bạn bị dị ứng các loại hạt và đã gọi món cà ri không có hạt. Tài xế (AI) lại mang đến cà ri đậu phộng và đang rất vội.",
+    "id": "Kamu alergi kacang dan memesan kari tanpa kacang. Kurir (AI) membawa kari kacang dan sedang sangat terburu-buru.",
+    "ms": "Anda alah kepada kacang dan telah memesan kari tanpa kacang. Pemandu (AI) membawa kari kacang tanah dan dia sangat tergesa-gesa.",
+    "ko": "당신은 견과류 알레르기가 있어서 견과류가 없는 카레를 주문했어요. 그런데 배달 기사(AI)가 땅콩 카레를 가져왔고, 무척 서두르고 있어요."
+  },
+  "mission": {
+    "native": "Make the driver understand the allergy risk and agree to fix the order.",
+    "native_translations": {
+      "en": "Make the driver understand the allergy risk and agree to fix the order.",
+      "es": "Haga que el repartidor entienda el riesgo de alergia y acepte arreglar el pedido.",
+      "fr": "Faites comprendre au livreur le risque d'allergie et obtenez qu'il fasse corriger la commande.",
+      "de": "Machen Sie das Allergierisiko deutlich und sorgen Sie dafür, dass die Bestellung korrigiert wird.",
+      "it": "Fai capire al fattorino il rischio dell'allergia e ottieni che l'ordine venga corretto.",
+      "pl": "Uświadom kurierowi ryzyko związane z alergią i ustalcie, jak naprawić zamówienie.",
+      "pt": "Faça o entregador entender o risco da alergia e aceitar corrigir o pedido.",
+      "nl": "Laat de bezorger het allergierisico begrijpen en spreek af dat de bestelling wordt rechtgezet.",
+      "hr": "Objasni dostavljaču opasnost od alergije i dogovori da se narudžba ispravi.",
+      "tr": "Kuryeye alerji riskini anlatın ve siparişi düzeltmesi için anlaşın.",
+      "uk": "Поясни кур'єрові ризик алергії й домовся, щоб замовлення виправили.",
+      "ar": "اجعل عامل التوصيل يفهم خطورة الحساسية ويوافق على تصحيح الطلب.",
+      "hi": "ड्राइवर को एलर्जी का ख़तरा समझाइए और ऑर्डर ठीक करवाने पर सहमति बनाइए।",
+      "vi": "Làm cho tài xế hiểu nguy cơ dị ứng và đồng ý xử lý lại đơn hàng.",
+      "id": "Buat kurir memahami risiko alerginya dan sepakat untuk memperbaiki pesanan.",
+      "ms": "Buat pemandu faham risiko alahan itu dan setuju untuk membetulkan pesanan.",
+      "ko": "배달 기사가 알레르기 위험을 이해하고 주문을 바로잡아 주기로 하게 만드세요."
+    },
+    "practice": "Haga que el repartidor entienda el riesgo de alergia y acepte arreglar el pedido.",
+    "practice_translations": {
+      "en": "Make the driver understand the allergy risk and agree to fix the order.",
+      "es": "Haga que el repartidor entienda el riesgo de alergia y acepte arreglar el pedido.",
+      "ja": "アレルギーの危険性を配達員に理解してもらい、注文を直してもらうよう合意してください。",
+      "ko": "배달 기사가 알레르기 위험을 이해하고 주문을 바로잡아 주기로 하게 만드세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain that you have a nut allergy",
+        "native_translations": {
+          "en": "Explain that you have a nut allergy",
+          "es": "Explique que tiene alergia a los frutos secos",
+          "fr": "Expliquez que vous êtes allergique aux fruits à coque",
+          "de": "Erklären Sie, dass Sie eine Nussallergie haben",
+          "it": "Spiega che hai un'allergia alla frutta a guscio",
+          "pl": "Wyjaśnij, że masz alergię na orzechy",
+          "pt": "Explique que você tem alergia a castanhas",
+          "nl": "Leg uit dat je een notenallergie hebt",
+          "hr": "Objasni da imaš alergiju na orašaste plodove",
+          "tr": "Kuruyemiş alerjiniz olduğunu açıklayın",
+          "uk": "Поясни, що в тебе алергія на горіхи",
+          "ar": "اشرح أن لديك حساسية من المكسرات",
+          "hi": "बताइए कि आपको मेवों से एलर्जी है",
+          "vi": "Giải thích rằng bạn bị dị ứng các loại hạt",
+          "id": "Jelaskan bahwa kamu alergi kacang",
+          "ms": "Terangkan bahawa anda alah kepada kacang",
+          "ko": "견과류 알레르기가 있다고 설명하세요"
+        },
+        "practice": "Explique que tiene alergia a los frutos secos",
+        "practice_translations": {
+          "en": "Explain that you have a nut allergy",
+          "es": "Explique que tiene alergia a los frutos secos",
+          "ja": "ナッツアレルギーがあると説明してください",
+          "ko": "견과류 알레르기가 있다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say why you cannot eat this meal",
+        "native_translations": {
+          "en": "Say why you cannot eat this meal",
+          "es": "Diga por qué no puede comer esta comida",
+          "fr": "Dites pourquoi vous ne pouvez pas manger ce plat",
+          "de": "Sagen Sie, warum Sie dieses Essen nicht essen können",
+          "it": "Di' perché non puoi mangiare questo piatto",
+          "pl": "Powiedz, dlaczego nie możesz zjeść tego posiłku",
+          "pt": "Diga por que você não pode comer essa refeição",
+          "nl": "Zeg waarom je deze maaltijd niet kunt eten",
+          "hr": "Reci zašto ne smiješ jesti ovo jelo",
+          "tr": "Bu yemeği neden yiyemeyeceğinizi söyleyin",
+          "uk": "Скажи, чому ти не можеш це їсти",
+          "ar": "قل لماذا لا يمكنك تناول هذه الوجبة",
+          "hi": "बताइए कि आप यह खाना क्यों नहीं खा सकते",
+          "vi": "Nói vì sao bạn không thể ăn món này",
+          "id": "Katakan kenapa kamu tidak bisa makan makanan ini",
+          "ms": "Katakan mengapa anda tidak boleh makan hidangan ini",
+          "ko": "이 음식을 먹을 수 없는 이유를 말하세요"
+        },
+        "practice": "Diga por qué no puede comer esta comida",
+        "practice_translations": {
+          "en": "Say why you cannot eat this meal",
+          "es": "Diga por qué no puede comer esta comida",
+          "ja": "この料理を食べられない理由を伝えてください",
+          "ko": "이 음식을 먹을 수 없는 이유를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the driver to call the restaurant",
+        "native_translations": {
+          "en": "Ask the driver to call the restaurant",
+          "es": "Pida al repartidor que llame al restaurante",
+          "fr": "Demandez au livreur d'appeler le restaurant",
+          "de": "Bitten Sie darum, das Restaurant anzurufen",
+          "it": "Chiedi al fattorino di chiamare il ristorante",
+          "pl": "Poproś kuriera, żeby zadzwonił do restauracji",
+          "pt": "Peça ao entregador que ligue para o restaurante",
+          "nl": "Vraag de bezorger het restaurant te bellen",
+          "hr": "Zamoli dostavljača da nazove restoran",
+          "tr": "Kuryeden restoranı aramasını isteyin",
+          "uk": "Попроси кур'єра зателефонувати в ресторан",
+          "ar": "اطلب من عامل التوصيل الاتصال بالمطعم",
+          "hi": "ड्राइवर से रेस्टोरेंट को फ़ोन करने को कहिए",
+          "vi": "Nhờ tài xế gọi cho nhà hàng",
+          "id": "Minta kurir menelepon restorannya",
+          "ms": "Minta pemandu menelefon restoran",
+          "ko": "배달 기사에게 식당에 전화해 달라고 하세요"
+        },
+        "practice": "Pida al repartidor que llame al restaurante",
+        "practice_translations": {
+          "en": "Ask the driver to call the restaurant",
+          "es": "Pida al repartidor que llame al restaurante",
+          "ja": "配達員にお店へ電話してもらうよう頼んでください",
+          "ko": "배달 기사에게 식당에 전화해 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on when the new meal will arrive",
+        "native_translations": {
+          "en": "Agree on when the new meal will arrive",
+          "es": "Acuerden cuándo llegará la nueva comida",
+          "fr": "Convenez de l'heure d'arrivée du nouveau plat",
+          "de": "Vereinbaren Sie, wann das neue Essen kommt",
+          "it": "Concordate quando arriverà il nuovo pasto",
+          "pl": "Ustalcie, kiedy dotrze nowy posiłek",
+          "pt": "Combinem quando a nova refeição vai chegar",
+          "nl": "Spreek af wanneer de nieuwe maaltijd komt",
+          "hr": "Dogovori kada će stići novo jelo",
+          "tr": "Yeni yemeğin ne zaman geleceği konusunda anlaşın",
+          "uk": "Домовтеся, коли привезуть нову страву",
+          "ar": "اتفق على موعد وصول الوجبة الجديدة",
+          "hi": "तय कीजिए कि नया खाना कब पहुँचेगा",
+          "vi": "Thống nhất thời gian món mới được giao đến",
+          "id": "Sepakati kapan makanan baru akan tiba",
+          "ms": "Setuju bila makanan baharu akan sampai",
+          "ko": "새 음식이 언제 도착할지 정하세요"
+        },
+        "practice": "Acuerden cuándo llegará la nueva comida",
+        "practice_translations": {
+          "en": "Agree on when the new meal will arrive",
+          "es": "Acuerden cuándo llegará la nueva comida",
+          "ja": "新しい料理がいつ届くか決めてください",
+          "ko": "새 음식이 언제 도착할지 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, I think there's been a mistake with my order.",
+      "native_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "fr": "Excusez-moi, je crois qu'il y a une erreur dans ma commande.",
+        "de": "Entschuldigung, ich glaube, bei meiner Bestellung ist etwas schiefgelaufen.",
+        "it": "Mi scusi, credo ci sia stato un errore con il mio ordine.",
+        "pl": "Przepraszam, chyba zaszła pomyłka z moim zamówieniem.",
+        "pt": "Com licença, acho que houve um engano com o meu pedido.",
+        "nl": "Pardon, ik denk dat er iets misgegaan is met mijn bestelling.",
+        "hr": "Oprostite, mislim da je došlo do greške s mojom narudžbom.",
+        "tr": "Affedersiniz, sanırım siparişimde bir karışıklık olmuş.",
+        "uk": "Перепрошую, здається, з моїм замовленням сталася помилка.",
+        "ar": "عفوًا، أظن أن هناك خطأ في طلبي.",
+        "hi": "माफ़ कीजिए, मुझे लगता है मेरे ऑर्डर में कोई गड़बड़ हो गई है।",
+        "vi": "Xin lỗi, hình như đơn hàng của tôi bị nhầm rồi.",
+        "id": "Permisi, sepertinya ada kesalahan dengan pesanan saya.",
+        "ms": "Maaf, saya rasa ada kesilapan dengan pesanan saya.",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      },
+      "practice": "Disculpe, creo que hay un error con mi pedido.",
+      "practice_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "ja": "すみません、注文に間違いがあるようなのですが。",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      }
+    },
+    {
+      "native": "I ordered a salad, not a barbecue feast.",
+      "native_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "fr": "J'ai commandé une salade, pas un festin barbecue.",
+        "de": "Ich habe einen Salat bestellt, kein Barbecue-Festmahl.",
+        "it": "Ho ordinato un'insalata, non un banchetto di barbecue.",
+        "pl": "Zamówiłem sałatkę, a nie ucztę z grilla.",
+        "pt": "Eu pedi uma salada, não um banquete de churrasco.",
+        "nl": "Ik had een salade besteld, geen barbecuefestijn.",
+        "hr": "Moja narudžba je salata, a ne gozba s roštilja.",
+        "tr": "Ben salata sipariş ettim, mangal ziyafeti değil.",
+        "uk": "Я замовляв салат, а не бенкет барбекю.",
+        "ar": "طلبت سلطة، لا وليمة شواء.",
+        "hi": "मैंने सलाद ऑर्डर किया था, बारबेक्यू की दावत नहीं।",
+        "vi": "Tôi gọi salad, chứ đâu phải tiệc đồ nướng.",
+        "id": "Saya pesan salad, bukan pesta barbeku.",
+        "ms": "Saya pesan salad, bukan hidangan barbeku.",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      },
+      "practice": "Pedí una ensalada, no una fiesta de barbacoa.",
+      "practice_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "ja": "注文したのはサラダで、バーベキューの盛り合わせではありません。",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      }
+    },
+    {
+      "native": "Could you check the name on the receipt, please?",
+      "native_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "fr": "Pourriez-vous vérifier le nom sur le reçu, s'il vous plaît ?",
+        "de": "Könnten Sie bitte den Namen auf dem Beleg überprüfen?",
+        "it": "Potrebbe controllare il nome sulla ricevuta, per favore?",
+        "pl": "Czy mógłby pan sprawdzić nazwisko na paragonie?",
+        "pt": "Você poderia conferir o nome no recibo, por favor?",
+        "nl": "Kunt u de naam op de bon even controleren?",
+        "hr": "Možete li, molim Vas, provjeriti ime na računu?",
+        "tr": "Fişteki isme bakabilir misiniz, lütfen?",
+        "uk": "Перевірте, будь ласка, ім'я на чеку.",
+        "ar": "هل يمكنك التحقق من الاسم على الإيصال من فضلك؟",
+        "hi": "क्या आप प्लीज़ रसीद पर नाम देख लेंगे?",
+        "vi": "Anh/chị kiểm tra giúp tôi tên trên hóa đơn được không?",
+        "id": "Bisa tolong cek nama di struknya?",
+        "ms": "Boleh tolong semak nama pada resit?",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      },
+      "practice": "¿Podría revisar el nombre en el recibo, por favor?",
+      "practice_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "ja": "レシートの名前を確認していただけますか。",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      }
+    },
+    {
+      "native": "Maybe there's another person with the same name.",
+      "native_translations": {
+        "en": "Maybe there's another person with the same name.",
+        "es": "Quizás hay otra persona con el mismo nombre.",
+        "fr": "Il y a peut-être une autre personne avec le même nom.",
+        "de": "Vielleicht gibt es noch eine andere Person mit demselben Namen.",
+        "it": "Forse c'è un'altra persona con lo stesso nome.",
+        "pl": "Może jest ktoś inny o tym samym nazwisku.",
+        "pt": "Talvez tenha outra pessoa com o mesmo nome.",
+        "nl": "Misschien is er iemand anders met dezelfde naam.",
+        "hr": "Možda postoji još netko s istim imenom.",
+        "tr": "Belki aynı isimde başka biri vardır.",
+        "uk": "Можливо, є інша людина з таким самим ім'ям.",
+        "ar": "ربما هناك شخص آخر يحمل الاسم نفسه.",
+        "hi": "शायद इसी नाम का कोई और व्यक्ति भी हो।",
+        "vi": "Có lẽ có một người khác trùng tên với tôi.",
+        "id": "Mungkin ada orang lain dengan nama yang sama.",
+        "ms": "Mungkin ada orang lain dengan nama yang sama.",
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+      },
+      "practice": "Quizás hay otra persona con el mismo nombre.",
+      "practice_translations": {
+        "en": "Maybe there's another person with the same name.",
+        "es": "Quizás hay otra persona con el mismo nombre.",
+        "ja": "同じ名前の別の方がいるのかもしれません。",
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+      }
+    },
+    {
+      "native": "I'm sorry, but I can't accept this order.",
+      "native_translations": {
+        "en": "I'm sorry, but I can't accept this order.",
+        "es": "Lo siento, pero no puedo aceptar este pedido.",
+        "fr": "Je suis désolé, mais je ne peux pas accepter cette commande.",
+        "de": "Tut mir leid, aber diese Bestellung kann ich nicht annehmen.",
+        "it": "Mi dispiace, ma non posso accettare questo ordine.",
+        "pl": "Przykro mi, ale nie mogę przyjąć tego zamówienia.",
+        "pt": "Desculpe, mas não posso aceitar este pedido.",
+        "nl": "Het spijt me, maar ik kan deze bestelling niet aannemen.",
+        "hr": "Žao mi je, ali ne mogu prihvatiti ovu narudžbu.",
+        "tr": "Kusura bakmayın ama bu siparişi kabul edemem.",
+        "uk": "Вибачте, але я не можу прийняти це замовлення.",
+        "ar": "آسف، لكن لا يمكنني قبول هذا الطلب.",
+        "hi": "माफ़ कीजिए, लेकिन मैं यह ऑर्डर नहीं ले सकता।",
+        "vi": "Xin lỗi, nhưng tôi không thể nhận đơn hàng này.",
+        "id": "Maaf, tapi saya tidak bisa menerima pesanan ini.",
+        "ms": "Maaf, tetapi saya tidak boleh terima pesanan ini.",
+        "ko": "죄송하지만, 이 주문은 받을 수 없어요."
+      },
+      "practice": "Lo siento, pero no puedo aceptar este pedido.",
+      "practice_translations": {
+        "en": "I'm sorry, but I can't accept this order.",
+        "es": "Lo siento, pero no puedo aceptar este pedido.",
+        "ja": "申し訳ありませんが、この注文は受け取れません。",
+        "ko": "죄송하지만, 이 주문은 받을 수 없어요."
+      }
+    }
+  ]
+}

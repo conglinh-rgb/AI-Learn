@@ -1,0 +1,289 @@
+{
+  "id": "work_unique_issues_in_the_job_search_c1",
+  "title": "Following Up After Silence",
+  "title_translations": {
+    "en": "Following Up After Silence",
+    "es": "Dar seguimiento tras el silencio",
+    "fr": "Relancer après un silence",
+    "de": "Nachhaken nach langem Schweigen",
+    "it": "Farsi sentire dopo il silenzio",
+    "pl": "Przypomnienie po długiej ciszy",
+    "pt": "Retomando o contato depois do silêncio",
+    "nl": "Navragen na stilte",
+    "hr": "Javljanje nakon tišine",
+    "tr": "Sessizlikten Sonra Takip",
+    "uk": "Нагадування після тиші",
+    "ar": "المتابعة بعد الصمت",
+    "hi": "चुप्पी के बाद फ़ॉलो-अप",
+    "vi": "Hỏi lại khi mãi không có tin",
+    "id": "Menindaklanjuti Setelah Tak Ada Kabar",
+    "ms": "Susulan Selepas Senyap",
+    "ko": "연락이 없을 때 확인하기"
+  },
+  "character": "fox",
+  "scenario": "You had an interview two weeks ago and never heard back. You call the recruiter (AI) to follow up.",
+  "scenario_translations": {
+    "en": "You had an interview two weeks ago and never heard back. You call the recruiter (AI) to follow up.",
+    "es": "Tuvo una entrevista hace dos semanas y nunca le respondieron. Llama al reclutador (AI) para dar seguimiento.",
+    "fr": "Vous avez passé un entretien il y a deux semaines et n'avez jamais eu de nouvelles. Vous appelez le recruteur (AI) pour le relancer.",
+    "de": "Sie hatten vor zwei Wochen ein Vorstellungsgespräch und nie wieder etwas gehört. Sie rufen die Recruiterin (AI) an, um nachzuhaken.",
+    "it": "Due settimane fa hai fatto un colloquio e non hai più saputo niente. Chiami il recruiter (AI) per avere notizie.",
+    "pl": "Dwa tygodnie temu byłeś na rozmowie kwalifikacyjnej i nie dostałeś żadnej odpowiedzi. Dzwonisz do rekruterki (AI), żeby się przypomnieć.",
+    "pt": "Você fez uma entrevista há duas semanas e nunca teve retorno. Você liga para o recrutador (AI) para saber como está o processo.",
+    "nl": "Je had twee weken geleden een sollicitatiegesprek en hebt nooit meer iets gehoord. Je belt de recruiter (AI) om na te vragen.",
+    "hr": "Prije dva tjedna bio si na razgovoru za posao i otad se nitko nije javio. Zoveš regrutera (AI) da provjeriš.",
+    "tr": "İki hafta önce bir mülakata girdiniz ve hiç dönüş almadınız. Durumu sormak için işe alım uzmanını (AI) arıyorsunuz.",
+    "uk": "Два тижні тому в тебе була співбесіда, а відповіді досі немає. Ти телефонуєш рекрутерові (AI), щоб дізнатися новини.",
+    "ar": "أجريت مقابلة قبل أسبوعين ولم يصلك أي رد. تتصل بمسؤول التوظيف (AI) للمتابعة.",
+    "hi": "दो हफ़्ते पहले आपका इंटरव्यू हुआ था और तब से कोई जवाब नहीं आया। आप फ़ॉलो-अप के लिए रिक्रूटर (AI) को फ़ोन करते हैं।",
+    "vi": "Bạn đã phỏng vấn hai tuần trước mà vẫn chưa nhận được phản hồi. Bạn gọi cho nhà tuyển dụng (AI) để hỏi lại.",
+    "id": "Kamu wawancara dua minggu lalu dan belum pernah mendapat kabar. Kamu menelepon perekrut (AI) untuk menindaklanjutinya.",
+    "ms": "Anda menghadiri temu duga dua minggu lalu dan tidak menerima sebarang maklum balas. Anda menelefon perekrut (AI) untuk membuat susulan.",
+    "ko": "2주 전에 면접을 봤는데 아직 연락이 없어요. 채용 담당자(AI)에게 전화해서 확인합니다."
+  },
+  "mission": {
+    "native": "Politely remind the recruiter who you are and ask about the status of your application.",
+    "native_translations": {
+      "en": "Politely remind the recruiter who you are and ask about the status of your application.",
+      "es": "Recuérdele con cortesía al reclutador quién es usted y pregunte por el estado de su solicitud.",
+      "fr": "Rappelez poliment au recruteur qui vous êtes et demandez où en est votre candidature.",
+      "de": "Erinnern Sie die Recruiterin höflich daran, wer Sie sind, und fragen Sie nach dem Stand Ihrer Bewerbung.",
+      "it": "Ricorda con cortesia al recruiter chi sei e chiedi a che punto è la tua candidatura.",
+      "pl": "Grzecznie przypomnij rekruterce, kim jesteś, i zapytaj o status swojej aplikacji.",
+      "pt": "Lembre o recrutador com educação de quem você é e pergunte sobre o andamento da sua candidatura.",
+      "nl": "Herinner de recruiter beleefd aan wie je bent en vraag naar de status van je sollicitatie.",
+      "hr": "Pristojno podsjeti regrutera tko si i pitaj u kojoj je fazi tvoja prijava.",
+      "tr": "İşe alım uzmanına kibarca kim olduğunuzu hatırlatın ve başvurunuzun durumunu sorun.",
+      "uk": "Ввічливо нагадай рекрутерові, хто ти, і запитай про статус своєї заявки.",
+      "ar": "ذكّر مسؤول التوظيف بلطف بمن تكون واسأل عن حالة طلبك.",
+      "hi": "विनम्रता से रिक्रूटर को याद दिलाइए कि आप कौन हैं और अपने आवेदन की स्थिति पूछिए।",
+      "vi": "Lịch sự nhắc nhà tuyển dụng bạn là ai và hỏi về tình trạng hồ sơ ứng tuyển.",
+      "id": "Ingatkan perekrut dengan sopan siapa dirimu dan tanyakan status lamaranmu.",
+      "ms": "Ingatkan perekrut dengan sopan siapa anda dan tanya status permohonan anda.",
+      "ko": "채용 담당자에게 정중하게 자신을 다시 소개하고 지원 결과가 어떻게 되었는지 물어보세요."
+    },
+    "practice": "Recuérdele con cortesía al reclutador quién es usted y pregunte por el estado de su solicitud.",
+    "practice_translations": {
+      "en": "Politely remind the recruiter who you are and ask about the status of your application.",
+      "es": "Recuérdele con cortesía al reclutador quién es usted y pregunte por el estado de su solicitud.",
+      "ja": "採用担当者に丁寧に自分のことを思い出してもらい、選考の状況を聞いてください。",
+      "ko": "채용 담당자에게 정중하게 자신을 다시 소개하고 지원 결과가 어떻게 되었는지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say your name and the job you applied for",
+        "native_translations": {
+          "en": "Say your name and the job you applied for",
+          "es": "Diga su nombre y el puesto al que se postuló",
+          "fr": "Donnez votre nom et le poste pour lequel vous avez postulé",
+          "de": "Nennen Sie Ihren Namen und die Stelle, auf die Sie sich beworben haben",
+          "it": "Di' il tuo nome e il lavoro per cui ti sei candidato",
+          "pl": "Podaj swoje nazwisko i stanowisko, na które aplikowałeś",
+          "pt": "Diga seu nome e a vaga para a qual você se candidatou",
+          "nl": "Noem je naam en de functie waarop je hebt gesolliciteerd",
+          "hr": "Reci svoje ime i posao za koji si se prijavio",
+          "tr": "Adınızı ve başvurduğunuz işi söyleyin",
+          "uk": "Назви своє ім'я та посаду, на яку подавався",
+          "ar": "قل اسمك والوظيفة التي تقدّمت لها",
+          "hi": "अपना नाम और जिस नौकरी के लिए आवेदन किया था, वह बताइए",
+          "vi": "Nói tên bạn và vị trí bạn đã ứng tuyển",
+          "id": "Sebutkan namamu dan posisi yang kamu lamar",
+          "ms": "Nyatakan nama anda dan jawatan yang anda mohon",
+          "ko": "이름과 지원한 직무를 말하세요"
+        },
+        "practice": "Diga su nombre y el puesto al que se postuló",
+        "practice_translations": {
+          "en": "Say your name and the job you applied for",
+          "es": "Diga su nombre y el puesto al que se postuló",
+          "ja": "名前と応募した職種を伝えてください",
+          "ko": "이름과 지원한 직무를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Mention when you had the interview",
+        "native_translations": {
+          "en": "Mention when you had the interview",
+          "es": "Mencione cuándo tuvo la entrevista",
+          "fr": "Précisez quand vous avez passé l'entretien",
+          "de": "Erwähnen Sie, wann Sie das Vorstellungsgespräch hatten",
+          "it": "Di' quando hai fatto il colloquio",
+          "pl": "Wspomnij, kiedy miałeś rozmowę",
+          "pt": "Mencione quando foi a sua entrevista",
+          "nl": "Zeg wanneer je het gesprek had",
+          "hr": "Spomeni kada je bio razgovor",
+          "tr": "Mülakatın ne zaman olduğunu belirtin",
+          "uk": "Згадай, коли була співбесіда",
+          "ar": "اذكر متى أجريت المقابلة",
+          "hi": "बताइए कि आपका इंटरव्यू कब हुआ था",
+          "vi": "Nhắc thời điểm bạn phỏng vấn",
+          "id": "Sebutkan kapan kamu diwawancarai",
+          "ms": "Sebut bila anda ditemu duga",
+          "ko": "언제 면접을 봤는지 말하세요"
+        },
+        "practice": "Mencione cuándo tuvo la entrevista",
+        "practice_translations": {
+          "en": "Mention when you had the interview",
+          "es": "Mencione cuándo tuvo la entrevista",
+          "ja": "いつ面接を受けたか伝えてください",
+          "ko": "언제 면접을 봤는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask when they expect to decide",
+        "native_translations": {
+          "en": "Ask when they expect to decide",
+          "es": "Pregunte cuándo esperan tomar una decisión",
+          "fr": "Demandez quand ils pensent prendre une décision",
+          "de": "Fragen Sie, wann eine Entscheidung zu erwarten ist",
+          "it": "Chiedi quando pensano di decidere",
+          "pl": "Zapytaj, kiedy spodziewają się podjąć decyzję",
+          "pt": "Pergunte quando eles pretendem decidir",
+          "nl": "Vraag wanneer ze verwachten een beslissing te nemen",
+          "hr": "Pitaj kada očekuju odluku",
+          "tr": "Ne zaman karar vermeyi beklediklerini sorun",
+          "uk": "Запитай, коли очікується рішення",
+          "ar": "اسأل متى يتوقعون اتخاذ القرار",
+          "hi": "पूछिए कि वे कब तक फ़ैसला करेंगे",
+          "vi": "Hỏi khi nào họ dự kiến đưa ra quyết định",
+          "id": "Tanyakan kapan mereka akan memutuskan",
+          "ms": "Tanya bila mereka dijangka membuat keputusan",
+          "ko": "언제쯤 결정될지 물어보세요"
+        },
+        "practice": "Pregunte cuándo esperan tomar una decisión",
+        "practice_translations": {
+          "en": "Ask when they expect to decide",
+          "es": "Pregunte cuándo esperan tomar una decisión",
+          "ja": "いつ頃結果が出るか聞いてください",
+          "ko": "언제쯤 결정될지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I'm calling about the sales assistant position I interviewed for.",
+      "native_translations": {
+        "en": "Hi, I'm calling about the sales assistant position I interviewed for.",
+        "es": "Hola, llamo por el puesto de asistente de ventas para el que tuve una entrevista.",
+        "fr": "Bonjour, j'appelle au sujet du poste d'assistant commercial pour lequel j'ai passé un entretien.",
+        "de": "Guten Tag, ich rufe wegen der Stelle als Verkaufsassistent an, für die ich ein Vorstellungsgespräch hatte.",
+        "it": "Buongiorno, la chiamo per la posizione di assistente alle vendite per cui ho fatto il colloquio.",
+        "pl": "Dzień dobry, dzwonię w sprawie stanowiska asystenta sprzedaży, na które miałem rozmowę.",
+        "pt": "Oi, estou ligando sobre a vaga de assistente de vendas para a qual fiz entrevista.",
+        "nl": "Hallo, ik bel over de functie van verkoopassistent waarvoor ik op gesprek ben geweest.",
+        "hr": "Dobar dan, zovem u vezi s radnim mjestom prodajnog asistenta za koje sam bio na razgovoru.",
+        "tr": "Merhaba, mülakatına girdiğim satış asistanı pozisyonu hakkında arıyorum.",
+        "uk": "Добрий день, я телефоную щодо посади помічника з продажу, на яку проходив співбесіду.",
+        "ar": "مرحبًا، أتصل بخصوص وظيفة مساعد المبيعات التي أجريت مقابلة لها.",
+        "hi": "नमस्ते, मैं सेल्स असिस्टेंट के पद के बारे में फ़ोन कर रहा हूँ, जिसके लिए मेरा इंटरव्यू हुआ था।",
+        "vi": "Chào anh/chị, tôi gọi về vị trí trợ lý bán hàng mà tôi đã phỏng vấn.",
+        "id": "Halo, saya menelepon soal posisi asisten penjualan yang saya ikuti wawancaranya.",
+        "ms": "Hai, saya menelefon tentang jawatan pembantu jualan yang saya ditemu duga.",
+        "ko": "안녕하세요, 판매 보조 직무 면접을 본 사람인데요, 그 건으로 전화드렸어요."
+      },
+      "practice": "Hola, llamo por el puesto de asistente de ventas para el que tuve una entrevista.",
+      "practice_translations": {
+        "en": "Hi, I'm calling about the sales assistant position I interviewed for.",
+        "es": "Hola, llamo por el puesto de asistente de ventas para el que tuve una entrevista.",
+        "ja": "お世話になっております。販売アシスタントの面接を受けた者ですが、その件でお電話しました。",
+        "ko": "안녕하세요, 판매 보조 직무 면접을 본 사람인데요, 그 건으로 전화드렸어요."
+      }
+    },
+    {
+      "native": "My interview was two weeks ago, on a Tuesday.",
+      "native_translations": {
+        "en": "My interview was two weeks ago, on a Tuesday.",
+        "es": "Mi entrevista fue hace dos semanas, un martes.",
+        "fr": "Mon entretien a eu lieu il y a deux semaines, un mardi.",
+        "de": "Mein Vorstellungsgespräch war vor zwei Wochen, an einem Dienstag.",
+        "it": "Il mio colloquio è stato due settimane fa, di martedì.",
+        "pl": "Moja rozmowa była dwa tygodnie temu, we wtorek.",
+        "pt": "Minha entrevista foi há duas semanas, numa terça-feira.",
+        "nl": "Mijn gesprek was twee weken geleden, op een dinsdag.",
+        "hr": "Razgovor mi je bio prije dva tjedna, u utorak.",
+        "tr": "Mülakatım iki hafta önce, bir salı günüydü.",
+        "uk": "Моя співбесіда була два тижні тому, у вівторок.",
+        "ar": "كانت مقابلتي قبل أسبوعين، يوم ثلاثاء.",
+        "hi": "मेरा इंटरव्यू दो हफ़्ते पहले, एक मंगलवार को हुआ था।",
+        "vi": "Tôi phỏng vấn cách đây hai tuần, vào một ngày thứ Ba.",
+        "id": "Wawancara saya dua minggu lalu, hari Selasa.",
+        "ms": "Temu duga saya dua minggu lalu, pada hari Selasa.",
+        "ko": "2주 전 화요일에 면접을 봤어요."
+      },
+      "practice": "Mi entrevista fue hace dos semanas, un martes.",
+      "practice_translations": {
+        "en": "My interview was two weeks ago, on a Tuesday.",
+        "es": "Mi entrevista fue hace dos semanas, un martes.",
+        "ja": "面接は2週間前の火曜日でした。",
+        "ko": "2주 전 화요일에 면접을 봤어요."
+      }
+    },
+    {
+      "native": "I'm still very interested in the job.",
+      "native_translations": {
+        "en": "I'm still very interested in the job.",
+        "es": "Sigo muy interesado en el puesto.",
+        "fr": "Le poste m'intéresse toujours beaucoup.",
+        "de": "Ich bin nach wie vor sehr an der Stelle interessiert.",
+        "it": "Sono ancora molto interessato al lavoro.",
+        "pl": "Nadal jestem bardzo zainteresowany tą pracą.",
+        "pt": "Continuo muito interessado na vaga.",
+        "nl": "Ik heb nog steeds veel interesse in de baan.",
+        "hr": "Posao me i dalje jako zanima.",
+        "tr": "Bu işle hâlâ çok ilgileniyorum.",
+        "uk": "Мене досі дуже цікавить ця робота.",
+        "ar": "ما زلت مهتمًا جدًا بالوظيفة.",
+        "hi": "मुझे अब भी इस नौकरी में बहुत दिलचस्पी है।",
+        "vi": "Tôi vẫn rất quan tâm đến công việc này.",
+        "id": "Saya masih sangat tertarik dengan pekerjaan ini.",
+        "ms": "Saya masih sangat berminat dengan kerja itu.",
+        "ko": "저는 아직도 이 일에 관심이 많아요."
+      },
+      "practice": "Sigo muy interesado en el puesto.",
+      "practice_translations": {
+        "en": "I'm still very interested in the job.",
+        "es": "Sigo muy interesado en el puesto.",
+        "ja": "今もこの仕事にとても興味があります。",
+        "ko": "저는 아직도 이 일에 관심이 많아요."
+      }
+    },
+    {
+      "native": "Do you know when you'll make a decision?",
+      "native_translations": {
+        "en": "Do you know when you'll make a decision?",
+        "es": "¿Sabe cuándo van a tomar una decisión?",
+        "fr": "Savez-vous quand vous prendrez une décision ?",
+        "de": "Wissen Sie, wann Sie eine Entscheidung treffen werden?",
+        "it": "Sa quando prenderete una decisione?",
+        "pl": "Czy wie pani, kiedy zapadnie decyzja?",
+        "pt": "Você sabe quando vocês vão tomar uma decisão?",
+        "nl": "Weet u wanneer u een beslissing neemt?",
+        "hr": "Znate li kada ćete donijeti odluku?",
+        "tr": "Ne zaman karar vereceğinizi biliyor musunuz?",
+        "uk": "Ви знаєте, коли ухвалите рішення?",
+        "ar": "هل تعرف متى ستتخذون القرار؟",
+        "hi": "क्या आपको पता है कि आप फ़ैसला कब तक करेंगे?",
+        "vi": "Anh/chị có biết khi nào sẽ có quyết định không?",
+        "id": "Apakah Anda tahu kapan keputusannya akan dibuat?",
+        "ms": "Adakah anda tahu bila keputusan akan dibuat?",
+        "ko": "언제쯤 결정이 나는지 아세요?"
+      },
+      "practice": "¿Sabe cuándo van a tomar una decisión?",
+      "practice_translations": {
+        "en": "Do you know when you'll make a decision?",
+        "es": "¿Sabe cuándo van a tomar una decisión?",
+        "ja": "いつ頃ご決定されるか、わかりますでしょうか。",
+        "ko": "언제쯤 결정이 나는지 아세요?"
+      }
+    }
+  ]
+}

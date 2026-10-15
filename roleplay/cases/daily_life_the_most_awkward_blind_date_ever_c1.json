@@ -1,0 +1,289 @@
+{
+  "id": "daily_life_the_most_awkward_blind_date_ever_c1",
+  "title": "The Silence After Hello",
+  "title_translations": {
+    "en": "The Silence After Hello",
+    "es": "El silencio después del \"hola\"",
+    "fr": "Le silence après le bonjour",
+    "de": "Die Stille nach dem Hallo",
+    "it": "Il silenzio dopo il ciao",
+    "pl": "Cisza po „cześć”",
+    "pt": "O silêncio depois do oi",
+    "nl": "De stilte na hallo",
+    "hr": "Tišina nakon „bok”",
+    "tr": "Merhabadan Sonraki Sessizlik",
+    "uk": "Тиша після «привіт»",
+    "ar": "الصمت بعد التحية",
+    "hi": "हैलो के बाद की चुप्पी",
+    "vi": "Im lặng sau câu chào",
+    "id": "Hening Setelah Halo",
+    "ms": "Kesunyian Selepas Hai",
+    "ko": "인사 후의 침묵"
+  },
+  "character": "fox",
+  "scenario": "You meet your blind date (AI) at a cafe, and after saying hello, neither of you knows what to say next.",
+  "scenario_translations": {
+    "en": "You meet your blind date (AI) at a cafe, and after saying hello, neither of you knows what to say next.",
+    "es": "Se encuentra con su cita a ciegas (AI) en una cafetería y, después de saludarse, ninguno de los dos sabe qué decir.",
+    "fr": "Vous retrouvez votre rendez-vous à l'aveugle (AI) dans un café et, après les salutations, aucun de vous deux ne sait quoi dire.",
+    "de": "Sie treffen Ihr Blind Date (AI) in einem Café, und nach der Begrüßung weiß keiner von Ihnen, was er sagen soll.",
+    "it": "Incontri il tuo appuntamento al buio (AI) in un caffè e, dopo esservi salutati, nessuno dei due sa cosa dire.",
+    "pl": "Spotykasz się w kawiarni ze swoją randką w ciemno (AI) i po przywitaniu żadne z was nie wie, co powiedzieć.",
+    "pt": "Você encontra seu par do encontro às cegas (AI) em um café e, depois do oi, nenhum dos dois sabe o que dizer.",
+    "nl": "Je ontmoet je blind date (AI) in een café, en na het hallo zeggen weet geen van jullie wat je verder moet zeggen.",
+    "hr": "Nalaziš se sa svojim spojem naslijepo (AI) u kafiću i nakon pozdrava nitko od vas ne zna što bi rekao.",
+    "tr": "Kör randevunuzla (AI) bir kafede buluşuyorsunuz ve merhabalaştıktan sonra ikiniz de ne diyeceğinizi bilemiyorsunuz.",
+    "uk": "Ти зустрічаєшся зі своєю парою на побаченні наосліп (AI) у кав'ярні, і після привітання ніхто з вас не знає, що сказати далі.",
+    "ar": "تلتقي بشريك موعدك الأعمى (AI) في مقهى، وبعد التحية لا يعرف أي منكما ماذا يقول.",
+    "hi": "आप एक कैफ़े में अपनी ब्लाइंड डेट (AI) से मिलते हैं, और हैलो कहने के बाद दोनों को समझ नहीं आता कि आगे क्या कहें।",
+    "vi": "Bạn gặp người hẹn hò giấu mặt (AI) tại một quán cà phê, và sau câu chào, cả hai đều không biết nói gì tiếp.",
+    "id": "Kamu bertemu teman kencan butamu (AI) di sebuah kafe, dan setelah saling menyapa, kalian berdua tidak tahu harus bicara apa.",
+    "ms": "Anda bertemu pasangan janji temu buta anda (AI) di sebuah kafe, dan selepas bertegur sapa, kedua-dua anda tidak tahu apa hendak dikatakan.",
+    "ko": "카페에서 소개팅 상대(AI)를 만났는데, 인사를 나눈 뒤로 둘 다 무슨 말을 해야 할지 몰라요."
+  },
+  "mission": {
+    "native": "Break the silence and start a friendly conversation.",
+    "native_translations": {
+      "en": "Break the silence and start a friendly conversation.",
+      "es": "Rompa el silencio y empiece una conversación amigable.",
+      "fr": "Brisez le silence et lancez une conversation sympathique.",
+      "de": "Brechen Sie das Schweigen und beginnen Sie ein freundliches Gespräch.",
+      "it": "Rompi il silenzio e avvia una conversazione amichevole.",
+      "pl": "Przełam ciszę i zacznij przyjazną rozmowę.",
+      "pt": "Quebre o silêncio e comece uma conversa amigável.",
+      "nl": "Doorbreek de stilte en begin een vriendelijk gesprek.",
+      "hr": "Prekini tišinu i započni ugodan razgovor.",
+      "tr": "Sessizliği bozun ve samimi bir sohbet başlatın.",
+      "uk": "Поруш тишу й почни дружню розмову.",
+      "ar": "اكسر الصمت وابدأ محادثة ودية.",
+      "hi": "चुप्पी तोड़िए और एक दोस्ताना बातचीत शुरू कीजिए।",
+      "vi": "Phá vỡ sự im lặng và bắt đầu một cuộc trò chuyện thân thiện.",
+      "id": "Pecahkan keheningan dan mulai obrolan yang akrab.",
+      "ms": "Pecahkan kesunyian dan mulakan perbualan yang mesra.",
+      "ko": "침묵을 깨고 다정한 대화를 시작하세요."
+    },
+    "practice": "Rompa el silencio y empiece una conversación amigable.",
+    "practice_translations": {
+      "en": "Break the silence and start a friendly conversation.",
+      "es": "Rompa el silencio y empiece una conversación amigable.",
+      "ja": "沈黙を破って、楽しい会話を始めてください。",
+      "ko": "침묵을 깨고 다정한 대화를 시작하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Introduce yourself and say it's nice to meet them",
+        "native_translations": {
+          "en": "Introduce yourself and say it's nice to meet them",
+          "es": "Preséntese y diga que es un gusto conocerle",
+          "fr": "Présentez-vous et dites que vous êtes ravi de faire sa connaissance",
+          "de": "Stellen Sie sich vor und sagen Sie, dass Sie sich über das Treffen freuen",
+          "it": "Presentati e di' che ti fa piacere conoscerlo",
+          "pl": "Przedstaw się i powiedz, że miło cię poznać",
+          "pt": "Apresente-se e diga que é um prazer conhecer a pessoa",
+          "nl": "Stel je voor en zeg dat je het leuk vindt om kennis te maken",
+          "hr": "Predstavi se i reci da ti je drago što ste se upoznali",
+          "tr": "Kendinizi tanıtın ve tanıştığınıza memnun olduğunuzu söyleyin",
+          "uk": "Представся й скажи, що радий знайомству",
+          "ar": "عرّف بنفسك وقل إنك سعيد بلقائه",
+          "hi": "अपना परिचय दीजिए और कहिए कि उनसे मिलकर अच्छा लगा",
+          "vi": "Giới thiệu bản thân và nói rất vui được gặp họ",
+          "id": "Perkenalkan dirimu dan katakan senang bertemu dengannya",
+          "ms": "Perkenalkan diri dan katakan gembira bertemu dengannya",
+          "ko": "자기소개를 하고 만나서 반갑다고 말하세요"
+        },
+        "practice": "Preséntese y diga que es un gusto conocerle",
+        "practice_translations": {
+          "en": "Introduce yourself and say it's nice to meet them",
+          "es": "Preséntese y diga que es un gusto conocerle",
+          "ja": "自己紹介をして、会えてうれしいと伝えてください",
+          "ko": "자기소개를 하고 만나서 반갑다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what they do for work",
+        "native_translations": {
+          "en": "Ask what they do for work",
+          "es": "Pregunte a qué se dedica",
+          "fr": "Demandez-lui ce qu'il fait comme travail",
+          "de": "Fragen Sie, was Ihr Date beruflich macht",
+          "it": "Chiedi che lavoro fa",
+          "pl": "Zapytaj, czym się zajmuje zawodowo",
+          "pt": "Pergunte com o que a pessoa trabalha",
+          "nl": "Vraag wat ze voor werk doen",
+          "hr": "Pitaj čime se bavi",
+          "tr": "Ne iş yaptığını sorun",
+          "uk": "Запитай, ким працює співрозмовник",
+          "ar": "اسأل عن طبيعة عمله",
+          "hi": "पूछिए कि वे क्या काम करते हैं",
+          "vi": "Hỏi họ làm nghề gì",
+          "id": "Tanyakan apa pekerjaannya",
+          "ms": "Tanya apa pekerjaannya",
+          "ko": "무슨 일을 하는지 물어보세요"
+        },
+        "practice": "Pregunte a qué se dedica",
+        "practice_translations": {
+          "en": "Ask what they do for work",
+          "es": "Pregunte a qué se dedica",
+          "ja": "何の仕事をしているか聞いてください",
+          "ko": "무슨 일을 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Share one hobby you enjoy",
+        "native_translations": {
+          "en": "Share one hobby you enjoy",
+          "es": "Cuente un pasatiempo que disfruta",
+          "fr": "Parlez d'un loisir que vous aimez",
+          "de": "Erzählen Sie von einem Hobby, das Ihnen Spaß macht",
+          "it": "Racconta un hobby che ti piace",
+          "pl": "Opowiedz o jednym swoim hobby",
+          "pt": "Conte um hobby de que você gosta",
+          "nl": "Vertel over een hobby die je leuk vindt",
+          "hr": "Podijeli jedan hobi koji voliš",
+          "tr": "Sevdiğiniz bir hobiden bahsedin",
+          "uk": "Розкажи про одне своє хобі",
+          "ar": "شارك هواية تستمتع بها",
+          "hi": "अपना कोई एक पसंदीदा शौक़ बताइए",
+          "vi": "Chia sẻ một sở thích của bạn",
+          "id": "Ceritakan satu hobi yang kamu sukai",
+          "ms": "Kongsikan satu hobi yang anda gemari",
+          "ko": "즐기는 취미를 하나 이야기하세요"
+        },
+        "practice": "Cuente un pasatiempo que disfruta",
+        "practice_translations": {
+          "en": "Share one hobby you enjoy",
+          "es": "Cuente un pasatiempo que disfruta",
+          "ja": "自分の好きな趣味を一つ話してください",
+          "ko": "즐기는 취미를 하나 이야기하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi! It's really nice to finally meet you.",
+      "native_translations": {
+        "en": "Hi! It's really nice to finally meet you.",
+        "es": "¡Hola! Es un placer conocerte por fin.",
+        "fr": "Salut ! Je suis vraiment content de te rencontrer enfin.",
+        "de": "Hallo! Schön, dich endlich kennenzulernen.",
+        "it": "Ciao! Che bello conoscerti finalmente.",
+        "pl": "Cześć! Naprawdę miło cię w końcu poznać.",
+        "pt": "Oi! Que bom finalmente te conhecer.",
+        "nl": "Hoi! Wat leuk om je eindelijk te ontmoeten.",
+        "hr": "Bok! Baš mi je drago da se napokon upoznajemo.",
+        "tr": "Merhaba! Sonunda tanıştığımıza çok sevindim.",
+        "uk": "Привіт! Дуже приємно нарешті познайомитися.",
+        "ar": "مرحبًا! سعيد حقًا بلقائك أخيرًا.",
+        "hi": "हाय! आख़िरकार आपसे मिलकर सच में अच्छा लगा।",
+        "vi": "Chào bạn! Cuối cùng cũng được gặp bạn, vui thật đấy.",
+        "id": "Hai! Senang sekali akhirnya bisa bertemu.",
+        "ms": "Hai! Gembira sangat akhirnya dapat berjumpa awak.",
+        "ko": "안녕하세요! 드디어 만나게 돼서 정말 반가워요."
+      },
+      "practice": "¡Hola! Es un placer conocerte por fin.",
+      "practice_translations": {
+        "en": "Hi! It's really nice to finally meet you.",
+        "es": "¡Hola! Es un placer conocerte por fin.",
+        "ja": "こんにちは！やっとお会いできてうれしいです。",
+        "ko": "안녕하세요! 드디어 만나게 돼서 정말 반가워요."
+      }
+    },
+    {
+      "native": "So... this is a little awkward, isn't it?",
+      "native_translations": {
+        "en": "So... this is a little awkward, isn't it?",
+        "es": "Bueno... esto es un poco incómodo, ¿no?",
+        "fr": "Alors… c'est un peu gênant, non ?",
+        "de": "Also ... das ist ein bisschen komisch, oder?",
+        "it": "Allora... è un po' imbarazzante, vero?",
+        "pl": "No więc... trochę niezręcznie, prawda?",
+        "pt": "Então... isso é meio constrangedor, né?",
+        "nl": "Nou... dit is een beetje ongemakkelijk, hè?",
+        "hr": "Pa... ovo je malo neugodno, zar ne?",
+        "tr": "Eee... biraz garip oldu, değil mi?",
+        "uk": "Отже... трохи ніяково, правда?",
+        "ar": "إذن... الموقف محرج قليلًا، أليس كذلك؟",
+        "hi": "तो... यह थोड़ा अजीब है, है ना?",
+        "vi": "Vậy là... hơi ngại ngại nhỉ?",
+        "id": "Jadi... agak canggung ya?",
+        "ms": "Jadi... agak janggal, kan?",
+        "ko": "음... 좀 어색하네요, 그렇죠?"
+      },
+      "practice": "Bueno... esto es un poco incómodo, ¿no?",
+      "practice_translations": {
+        "en": "So... this is a little awkward, isn't it?",
+        "es": "Bueno... esto es un poco incómodo, ¿no?",
+        "ja": "なんだか…ちょっと気まずいですね。",
+        "ko": "음... 좀 어색하네요, 그렇죠?"
+      }
+    },
+    {
+      "native": "What do you do for a living?",
+      "native_translations": {
+        "en": "What do you do for a living?",
+        "es": "¿A qué te dedicas?",
+        "fr": "Tu fais quoi dans la vie ?",
+        "de": "Was machst du beruflich?",
+        "it": "Che lavoro fai?",
+        "pl": "Czym się zajmujesz zawodowo?",
+        "pt": "Você trabalha com o quê?",
+        "nl": "Wat doe je voor werk?",
+        "hr": "Čime se baviš?",
+        "tr": "Ne iş yapıyorsun?",
+        "uk": "Чим ти займаєшся?",
+        "ar": "ماذا تعمل؟",
+        "hi": "आप क्या काम करते हैं?",
+        "vi": "Bạn làm nghề gì vậy?",
+        "id": "Kamu kerja apa?",
+        "ms": "Awak bekerja sebagai apa?",
+        "ko": "무슨 일 하세요?"
+      },
+      "practice": "¿A qué te dedicas?",
+      "practice_translations": {
+        "en": "What do you do for a living?",
+        "es": "¿A qué te dedicas?",
+        "ja": "お仕事は何をされているんですか。",
+        "ko": "무슨 일 하세요?"
+      }
+    },
+    {
+      "native": "In my free time, I love hiking.",
+      "native_translations": {
+        "en": "In my free time, I love hiking.",
+        "es": "En mi tiempo libre, me encanta hacer senderismo.",
+        "fr": "Pendant mon temps libre, j'adore faire de la randonnée.",
+        "de": "In meiner Freizeit gehe ich total gern wandern.",
+        "it": "Nel tempo libero adoro fare escursioni.",
+        "pl": "W wolnym czasie uwielbiam chodzić po górach.",
+        "pt": "No meu tempo livre, eu adoro fazer trilhas.",
+        "nl": "In mijn vrije tijd ga ik heel graag wandelen.",
+        "hr": "U slobodno vrijeme obožavam planinarenje.",
+        "tr": "Boş zamanlarımda doğa yürüyüşüne çıkmayı çok seviyorum.",
+        "uk": "У вільний час я обожнюю походи.",
+        "ar": "في وقت فراغي، أحب المشي في الطبيعة.",
+        "hi": "ख़ाली समय में मुझे हाइकिंग करना बहुत पसंद है।",
+        "vi": "Lúc rảnh, mình rất thích đi bộ đường dài.",
+        "id": "Di waktu luang, saya suka sekali mendaki.",
+        "ms": "Pada masa lapang, saya suka mendaki.",
+        "ko": "저는 쉬는 시간에 등산하는 걸 정말 좋아해요."
+      },
+      "practice": "En mi tiempo libre, me encanta hacer senderismo.",
+      "practice_translations": {
+        "en": "In my free time, I love hiking.",
+        "es": "En mi tiempo libre, me encanta hacer senderismo.",
+        "ja": "暇なときは、ハイキングをするのが大好きです。",
+        "ko": "저는 쉬는 시간에 등산하는 걸 정말 좋아해요."
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "academics_seeking_collaboration_opportunities_c1",
+  "title": "Asking to Join a Lab",
+  "title_translations": {
+    "en": "Asking to Join a Lab",
+    "es": "Pedir unirse a un laboratorio",
+    "fr": "Demander à rejoindre un labo",
+    "de": "Bewerbung für ein Forschungslabor",
+    "it": "Chiedere di entrare in un laboratorio",
+    "pl": "Prośba o dołączenie do zespołu",
+    "pt": "Pedindo para entrar em um laboratório",
+    "nl": "Vragen of je bij een lab mag komen",
+    "hr": "Molba za ulazak u laboratorij",
+    "tr": "Bir Laboratuvara Katılmak İstemek",
+    "uk": "Проситися в лабораторію",
+    "ar": "طلب الانضمام إلى مختبر",
+    "hi": "लैब से जुड़ने की गुज़ारिश",
+    "vi": "Xin vào một phòng lab",
+    "id": "Minta Bergabung dengan Lab",
+    "ms": "Meminta untuk Menyertai Makmal",
+    "ko": "연구실에 들어가고 싶다고 말하기"
+  },
+  "character": "fox",
+  "scenario": "You would love to join a research lab. You visit the professor (AI) who runs it.",
+  "scenario_translations": {
+    "en": "You would love to join a research lab. You visit the professor (AI) who runs it.",
+    "es": "Le encantaría unirse a un laboratorio de investigación. Visita al profesor (AI) que lo dirige.",
+    "fr": "Vous rêvez de rejoindre un laboratoire de recherche. Vous rendez visite au professeur (AI) qui le dirige.",
+    "de": "Sie würden sehr gern in einem Forschungslabor mitarbeiten. Sie besuchen die Professorin bzw. den Professor (AI), die bzw. der es leitet.",
+    "it": "Ti piacerebbe molto entrare in un laboratorio di ricerca. Vai a trovare il professore (AI) che lo dirige.",
+    "pl": "Bardzo chciałbyś dołączyć do zespołu badawczego. Idziesz do profesora (AI), który nim kieruje.",
+    "pt": "Você adoraria entrar em um laboratório de pesquisa. Você vai falar com o professor (AI) que o coordena.",
+    "nl": "Je zou graag bij een onderzoekslab komen. Je gaat langs bij de professor (AI) die het leidt.",
+    "hr": "Tvoja je velika želja pridružiti se jednom istraživačkom laboratoriju. Posjećuješ profesora (AI) koji ga vodi.",
+    "tr": "Bir araştırma laboratuvarına katılmayı çok istiyorsunuz. Laboratuvarı yöneten hocayı (AI) ziyaret ediyorsunuz.",
+    "uk": "Ти мрієш потрапити в дослідницьку лабораторію. Ти приходиш до професора (AI), який її очолює.",
+    "ar": "تتمنى الانضمام إلى مختبر بحثي. تزور الأستاذ (AI) الذي يديره.",
+    "hi": "आप एक रिसर्च लैब से जुड़ना चाहते हैं। आप उस लैब को चलाने वाले प्रोफ़ेसर (AI) से मिलने जाते हैं।",
+    "vi": "Bạn rất muốn tham gia một phòng nghiên cứu. Bạn đến gặp giáo sư (AI) phụ trách phòng lab đó.",
+    "id": "Kamu ingin sekali bergabung dengan sebuah lab penelitian. Kamu menemui profesor (AI) yang memimpinnya.",
+    "ms": "Anda sangat ingin menyertai sebuah makmal penyelidikan. Anda berjumpa profesor (AI) yang mengetuainya.",
+    "ko": "꼭 들어가고 싶은 연구실이 있어요. 그 연구실을 이끄는 교수님(AI)을 찾아갔어요."
+  },
+  "mission": {
+    "native": "Show your interest in the lab and ask if there is a place for you.",
+    "native_translations": {
+      "en": "Show your interest in the lab and ask if there is a place for you.",
+      "es": "Muestre su interés en el laboratorio y pregunte si hay un lugar para usted.",
+      "fr": "Montrez votre intérêt pour le labo et demandez s'il y a une place pour vous.",
+      "de": "Zeigen Sie Ihr Interesse am Labor und fragen Sie, ob es einen Platz für Sie gibt.",
+      "it": "Mostra il tuo interesse per il laboratorio e chiedi se c'è posto per te.",
+      "pl": "Pokaż swoje zainteresowanie zespołem i zapytaj, czy jest dla ciebie miejsce.",
+      "pt": "Mostre seu interesse pelo laboratório e pergunte se há uma vaga para você.",
+      "nl": "Laat je interesse in het lab zien en vraag of er plek voor je is.",
+      "hr": "Pokaži zanimanje za laboratorij i pitaj ima li mjesta za tebe.",
+      "tr": "Laboratuvara ilginizi gösterin ve sizin için bir yer olup olmadığını sorun.",
+      "uk": "Покажи свій інтерес до лабораторії й запитай, чи знайдеться там місце для тебе.",
+      "ar": "أظهر اهتمامك بالمختبر واسأل إن كان هناك مكان لك.",
+      "hi": "लैब में अपनी रुचि दिखाइए और पूछिए कि क्या आपके लिए कोई जगह है।",
+      "vi": "Thể hiện sự quan tâm đến phòng lab và hỏi xem có chỗ cho bạn không.",
+      "id": "Tunjukkan minatmu pada lab itu dan tanyakan apakah ada tempat untukmu.",
+      "ms": "Tunjukkan minat anda terhadap makmal itu dan tanya sama ada ada tempat untuk anda.",
+      "ko": "연구실에 대한 관심을 보여 주고 자리가 있는지 물어보세요."
+    },
+    "practice": "Muestre su interés en el laboratorio y pregunte si hay un lugar para usted.",
+    "practice_translations": {
+      "en": "Show your interest in the lab and ask if there is a place for you.",
+      "es": "Muestre su interés en el laboratorio y pregunte si hay un lugar para usted.",
+      "ja": "研究室への関心を伝えて、受け入れてもらえるか聞いてください。",
+      "ko": "연구실에 대한 관심을 보여 주고 자리가 있는지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say why you're interested in the lab",
+        "native_translations": {
+          "en": "Say why you're interested in the lab",
+          "es": "Diga por qué le interesa el laboratorio",
+          "fr": "Dites pourquoi le labo vous intéresse",
+          "de": "Sagen Sie, warum Sie sich für das Labor interessieren",
+          "it": "Di' perché ti interessa il laboratorio",
+          "pl": "Powiedz, dlaczego interesuje cię ten zespół",
+          "pt": "Diga por que você se interessa pelo laboratório",
+          "nl": "Zeg waarom je interesse hebt in het lab",
+          "hr": "Reci zašto te zanima laboratorij",
+          "tr": "Laboratuvarla neden ilgilendiğinizi söyleyin",
+          "uk": "Скажи, чому тебе цікавить лабораторія",
+          "ar": "قل لماذا تهتم بالمختبر",
+          "hi": "बताइए कि आपको लैब में रुचि क्यों है",
+          "vi": "Nói vì sao bạn quan tâm đến phòng lab",
+          "id": "Jelaskan kenapa kamu tertarik dengan lab ini",
+          "ms": "Nyatakan mengapa anda berminat dengan makmal itu",
+          "ko": "연구실에 관심 있는 이유를 말하세요"
+        },
+        "practice": "Diga por qué le interesa el laboratorio",
+        "practice_translations": {
+          "en": "Say why you're interested in the lab",
+          "es": "Diga por qué le interesa el laboratorio",
+          "ja": "研究室に興味がある理由を伝えてください",
+          "ko": "연구실에 관심 있는 이유를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Mention your relevant skills",
+        "native_translations": {
+          "en": "Mention your relevant skills",
+          "es": "Mencione sus habilidades relevantes",
+          "fr": "Mentionnez vos compétences utiles",
+          "de": "Nennen Sie Ihre relevanten Fähigkeiten",
+          "it": "Menziona le tue competenze pertinenti",
+          "pl": "Wspomnij o swoich przydatnych umiejętnościach",
+          "pt": "Mencione suas habilidades relevantes",
+          "nl": "Noem je relevante vaardigheden",
+          "hr": "Spomeni svoje relevantne vještine",
+          "tr": "İlgili becerilerinizden bahsedin",
+          "uk": "Згадай свої корисні навички",
+          "ar": "اذكر مهاراتك ذات الصلة",
+          "hi": "अपने काम के हुनर का ज़िक्र कीजिए",
+          "vi": "Nêu các kỹ năng liên quan của bạn",
+          "id": "Sebutkan keahlianmu yang relevan",
+          "ms": "Sebut kemahiran anda yang berkaitan",
+          "ko": "관련된 자신의 역량을 언급하세요"
+        },
+        "practice": "Mencione sus habilidades relevantes",
+        "practice_translations": {
+          "en": "Mention your relevant skills",
+          "es": "Mencione sus habilidades relevantes",
+          "ja": "関連するスキルを伝えてください",
+          "ko": "관련된 자신의 역량을 언급하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if there are open positions",
+        "native_translations": {
+          "en": "Ask if there are open positions",
+          "es": "Pregunte si hay plazas disponibles",
+          "fr": "Demandez s'il y a des postes ouverts",
+          "de": "Fragen Sie nach offenen Stellen",
+          "it": "Chiedi se ci sono posizioni aperte",
+          "pl": "Zapytaj, czy są wolne miejsca",
+          "pt": "Pergunte se há vagas abertas",
+          "nl": "Vraag of er plekken vrij zijn",
+          "hr": "Pitaj ima li slobodnih mjesta",
+          "tr": "Açık pozisyon olup olmadığını sorun",
+          "uk": "Запитай, чи є вільні місця",
+          "ar": "اسأل إن كانت هناك أماكن شاغرة",
+          "hi": "पूछिए कि क्या कोई पद ख़ाली है",
+          "vi": "Hỏi xem có vị trí nào đang tuyển không",
+          "id": "Tanyakan apakah ada posisi yang tersedia",
+          "ms": "Tanya sama ada ada jawatan kosong",
+          "ko": "자리가 있는지 물어보세요"
+        },
+        "practice": "Pregunte si hay plazas disponibles",
+        "practice_translations": {
+          "en": "Ask if there are open positions",
+          "es": "Pregunte si hay plazas disponibles",
+          "ja": "空きがあるか聞いてください",
+          "ko": "자리가 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I've read about your lab's work, and I find it fascinating.",
+      "native_translations": {
+        "en": "I've read about your lab's work, and I find it fascinating.",
+        "es": "He leído sobre el trabajo de su laboratorio y me parece fascinante.",
+        "fr": "J'ai lu des choses sur les travaux de votre labo, et je les trouve passionnants.",
+        "de": "Ich habe über die Arbeit Ihres Labors gelesen und finde sie faszinierend.",
+        "it": "Ho letto del lavoro del suo laboratorio e lo trovo affascinante.",
+        "pl": "Czytałem o pracach pana zespołu i uważam je za fascynujące.",
+        "pt": "Li sobre o trabalho do seu laboratório e achei fascinante.",
+        "nl": "Ik heb over het werk van uw lab gelezen en vind het fascinerend.",
+        "hr": "Pratim rad Vašeg laboratorija i fascinantan mi je.",
+        "tr": "Laboratuvarınızın çalışmaları hakkında okudum ve çok etkileyici buluyorum.",
+        "uk": "Я читав про роботу вашої лабораторії, і вона мене захоплює.",
+        "ar": "قرأت عن أعمال مختبرك، وأجدها رائعة.",
+        "hi": "मैंने आपकी लैब के काम के बारे में पढ़ा है, और मुझे यह बहुत दिलचस्प लगता है।",
+        "vi": "Em đã đọc về các nghiên cứu của lab mình và thấy rất cuốn hút.",
+        "id": "Saya sudah membaca tentang penelitian lab Anda, dan menurut saya sangat menarik.",
+        "ms": "Saya sudah membaca tentang kerja makmal anda, dan saya rasa ia sangat menarik.",
+        "ko": "교수님 연구실의 연구에 대해 읽어 봤는데 정말 흥미로웠어요."
+      },
+      "practice": "He leído sobre el trabajo de su laboratorio y me parece fascinante.",
+      "practice_translations": {
+        "en": "I've read about your lab's work, and I find it fascinating.",
+        "es": "He leído sobre el trabajo de su laboratorio y me parece fascinante.",
+        "ja": "先生の研究室の研究について読み、とても興味を持ちました。",
+        "ko": "교수님 연구실의 연구에 대해 읽어 봤는데 정말 흥미로웠어요."
+      }
+    },
+    {
+      "native": "I have experience with data analysis in Python.",
+      "native_translations": {
+        "en": "I have experience with data analysis in Python.",
+        "es": "Tengo experiencia en análisis de datos con Python.",
+        "fr": "J'ai de l'expérience en analyse de données avec Python.",
+        "de": "Ich habe Erfahrung mit Datenanalyse in Python.",
+        "it": "Ho esperienza di analisi dei dati in Python.",
+        "pl": "Mam doświadczenie w analizie danych w Pythonie.",
+        "pt": "Tenho experiência com análise de dados em Python.",
+        "nl": "Ik heb ervaring met data-analyse in Python.",
+        "hr": "Imam iskustva s analizom podataka u Pythonu.",
+        "tr": "Python ile veri analizi konusunda deneyimim var.",
+        "uk": "У мене є досвід аналізу даних на Python.",
+        "ar": "لدي خبرة في تحليل البيانات باستخدام Python.",
+        "hi": "मुझे Python में डेटा एनालिसिस का अनुभव है।",
+        "vi": "Em có kinh nghiệm phân tích dữ liệu bằng Python.",
+        "id": "Saya punya pengalaman analisis data dengan Python.",
+        "ms": "Saya ada pengalaman dalam analisis data menggunakan Python.",
+        "ko": "파이썬으로 데이터 분석을 해 본 경험이 있어요."
+      },
+      "practice": "Tengo experiencia en análisis de datos con Python.",
+      "practice_translations": {
+        "en": "I have experience with data analysis in Python.",
+        "es": "Tengo experiencia en análisis de datos con Python.",
+        "ja": "Pythonでのデータ分析の経験があります。",
+        "ko": "파이썬으로 데이터 분석을 해 본 경험이 있어요."
+      }
+    },
+    {
+      "native": "Are you taking any new students this semester?",
+      "native_translations": {
+        "en": "Are you taking any new students this semester?",
+        "es": "¿Está aceptando nuevos estudiantes este semestre?",
+        "fr": "Prenez-vous de nouveaux étudiants ce semestre ?",
+        "de": "Nehmen Sie in diesem Semester neue Studierende auf?",
+        "it": "Accetta nuovi studenti questo semestre?",
+        "pl": "Czy przyjmuje pan nowych studentów w tym semestrze?",
+        "pt": "O senhor está aceitando novos alunos neste semestre?",
+        "nl": "Neemt u dit semester nieuwe studenten aan?",
+        "hr": "Primate li ovaj semestar nove studente?",
+        "tr": "Bu dönem yeni öğrenci alıyor musunuz?",
+        "uk": "Чи берете ви нових студентів цього семестру?",
+        "ar": "هل تقبل طلابًا جددًا هذا الفصل الدراسي؟",
+        "hi": "क्या आप इस सेमेस्टर नए छात्र ले रहे हैं?",
+        "vi": "Học kỳ này thầy/cô có nhận thêm sinh viên mới không ạ?",
+        "id": "Apakah Anda menerima mahasiswa baru semester ini?",
+        "ms": "Adakah anda mengambil pelajar baharu semester ini?",
+        "ko": "이번 학기에 새 학생을 받으세요?"
+      },
+      "practice": "¿Está aceptando nuevos estudiantes este semestre?",
+      "practice_translations": {
+        "en": "Are you taking any new students this semester?",
+        "es": "¿Está aceptando nuevos estudiantes este semestre?",
+        "ja": "今学期、新しい学生を受け入れていらっしゃいますか。",
+        "ko": "이번 학기에 새 학생을 받으세요?"
+      }
+    },
+    {
+      "native": "I'd be happy to start as a volunteer.",
+      "native_translations": {
+        "en": "I'd be happy to start as a volunteer.",
+        "es": "Con gusto podría empezar como voluntario.",
+        "fr": "Je serais ravi de commencer en tant que bénévole.",
+        "de": "Ich würde auch gern ehrenamtlich anfangen.",
+        "it": "Sarei felice di iniziare come volontario.",
+        "pl": "Chętnie zacznę jako wolontariusz.",
+        "pt": "Eu ficaria feliz em começar fazendo trabalho voluntário.",
+        "nl": "Ik zou graag als vrijwilliger beginnen.",
+        "hr": "Za početak mogu i volontirati.",
+        "tr": "Gönüllü olarak başlamaktan memnuniyet duyarım.",
+        "uk": "Я з радістю почну як волонтер.",
+        "ar": "يسعدني أن أبدأ متطوعًا.",
+        "hi": "मैं वॉलंटियर के तौर पर शुरू करने को भी तैयार हूँ।",
+        "vi": "Em rất sẵn lòng bắt đầu với vai trò tình nguyện viên.",
+        "id": "Saya bersedia mulai sebagai sukarelawan.",
+        "ms": "Saya sedia bermula sebagai sukarelawan.",
+        "ko": "자원봉사자로 시작해도 좋아요."
+      },
+      "practice": "Con gusto podría empezar como voluntario.",
+      "practice_translations": {
+        "en": "I'd be happy to start as a volunteer.",
+        "es": "Con gusto podría empezar como voluntario.",
+        "ja": "ボランティアからでも喜んで始めたいです。",
+        "ko": "자원봉사자로 시작해도 좋아요."
+      }
+    },
+    {
+      "native": "Should I send you my CV by email?",
+      "native_translations": {
+        "en": "Should I send you my CV by email?",
+        "es": "¿Le envío mi currículum por correo?",
+        "fr": "Voulez-vous que je vous envoie mon CV par e-mail ?",
+        "de": "Soll ich Ihnen meinen Lebenslauf per E-Mail schicken?",
+        "it": "Devo inviarle il mio CV via email?",
+        "pl": "Czy mam przesłać panu CV mailem?",
+        "pt": "Posso enviar meu currículo por e-mail?",
+        "nl": "Zal ik u mijn cv per e-mail sturen?",
+        "hr": "Da Vam pošaljem životopis e-mailom?",
+        "tr": "Özgeçmişimi size e-postayla göndereyim mi?",
+        "uk": "Надіслати вам моє резюме електронною поштою?",
+        "ar": "هل أرسل لك سيرتي الذاتية عبر البريد الإلكتروني؟",
+        "hi": "क्या मैं अपना CV आपको ईमेल कर दूँ?",
+        "vi": "Em có nên gửi CV cho thầy/cô qua email không ạ?",
+        "id": "Apakah sebaiknya saya kirim CV saya lewat email?",
+        "ms": "Patutkah saya hantar CV saya melalui e-mel?",
+        "ko": "이력서를 이메일로 보내 드릴까요?"
+      },
+      "practice": "¿Le envío mi currículum por correo?",
+      "practice_translations": {
+        "en": "Should I send you my CV by email?",
+        "es": "¿Le envío mi currículum por correo?",
+        "ja": "履歴書をメールでお送りしたほうがよろしいでしょうか。",
+        "ko": "이력서를 이메일로 보내 드릴까요?"
+      }
+    }
+  ]
+}

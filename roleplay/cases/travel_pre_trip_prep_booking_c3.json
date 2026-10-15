@@ -1,0 +1,351 @@
+{
+  "id": "travel_pre_trip_prep_booking_c3",
+  "title": "The Double-Charged Booking",
+  "title_translations": {
+    "en": "The Double-Charged Booking",
+    "es": "La reserva cobrada dos veces",
+    "fr": "La réservation débitée deux fois",
+    "de": "Die doppelt abgebuchte Buchung",
+    "it": "La prenotazione addebitata due volte",
+    "pl": "Rezerwacja pobrana dwa razy",
+    "pt": "A reserva cobrada em dobro",
+    "nl": "De dubbel afgeschreven boeking",
+    "hr": "Dvostruko naplaćena rezervacija",
+    "tr": "İki Kez Ücretlendirilen Rezervasyon",
+    "uk": "Подвійне списання за бронювання",
+    "ar": "الحجز المدفوع مرتين",
+    "hi": "दो बार कटा बुकिंग का पैसा",
+    "vi": "Đặt chỗ bị trừ tiền hai lần",
+    "id": "Pemesanan yang Ditagih Dua Kali",
+    "ms": "Tempahan yang Dicaj Dua Kali",
+    "ko": "두 번 결제된 예약"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You booked a vacation package online and your card was charged twice. The customer service agent (AI) insists only one payment went through.",
+  "scenario_translations": {
+    "en": "You booked a vacation package online and your card was charged twice. The customer service agent (AI) insists only one payment went through.",
+    "es": "Reservó un paquete vacacional en línea y le cobraron dos veces en su tarjeta. El agente de atención al cliente (AI) insiste en que solo se procesó un pago.",
+    "fr": "Vous avez réservé un séjour tout compris en ligne et votre carte a été débitée deux fois. Le conseiller du service client (AI) affirme qu'un seul paiement a été effectué.",
+    "de": "Sie haben online eine Pauschalreise gebucht, und Ihre Karte wurde zweimal belastet. Der Mitarbeiter im Kundenservice (AI) besteht darauf, dass nur eine Zahlung durchgegangen ist.",
+    "it": "Hai prenotato un pacchetto vacanza online e la tua carta è stata addebitata due volte. L'operatore del servizio clienti (AI) insiste che è passato un solo pagamento.",
+    "pl": "Zarezerwowałeś pakiet wakacyjny przez internet i z twojej karty pobrano pieniądze dwa razy. Konsultant obsługi klienta (AI) upiera się, że przeszła tylko jedna płatność.",
+    "pt": "Você reservou um pacote de férias pela internet e seu cartão foi cobrado duas vezes. O atendente do suporte ao cliente (AI) insiste que só um pagamento foi processado.",
+    "nl": "Je hebt online een vakantiepakket geboekt en er is twee keer van je kaart afgeschreven. De klantenservicemedewerker (AI) houdt vol dat er maar één betaling is doorgegaan.",
+    "hr": "Rezervirao si turistički paket putem interneta i kartica ti je terećena dvaput. Djelatnik korisničke službe (AI) tvrdi da je prošlo samo jedno plaćanje.",
+    "tr": "İnternetten bir tatil paketi ayırttınız ve kartınızdan iki kez ücret çekildi. Müşteri hizmetleri temsilcisi (AI) yalnızca bir ödemenin gerçekleştiğinde ısrar ediyor.",
+    "uk": "Ти бронюєш туристичний пакет онлайн, і з твоєї картки знімають гроші двічі. Оператор служби підтримки (AI) наполягає, що пройшов лише один платіж.",
+    "ar": "حجزت باقة عطلة عبر الإنترنت وخُصم المبلغ من بطاقتك مرتين. يصرّ موظف خدمة العملاء (AI) على أن دفعة واحدة فقط تمّت.",
+    "hi": "आपने ऑनलाइन एक वेकेशन पैकेज बुक किया और आपके कार्ड से दो बार पैसे कट गए। कस्टमर सर्विस एजेंट (AI) ज़िद करते हैं कि सिर्फ़ एक ही भुगतान हुआ है।",
+    "vi": "Bạn đặt một gói du lịch trực tuyến và thẻ của bạn bị trừ tiền hai lần. Nhân viên chăm sóc khách hàng (AI) khăng khăng chỉ có một giao dịch thành công.",
+    "id": "Kamu memesan paket liburan secara online dan kartumu ditagih dua kali. Petugas layanan pelanggan (AI) bersikeras hanya satu pembayaran yang berhasil.",
+    "ms": "Anda menempah pakej percutian dalam talian dan kad anda dicaj dua kali. Ejen khidmat pelanggan (AI) bertegas hanya satu bayaran yang berjaya.",
+    "ko": "온라인으로 휴가 패키지를 예약했는데 카드에서 두 번 결제되었습니다. 고객 서비스 상담원(AI)은 결제가 한 번만 되었다고 주장합니다."
+  },
+  "mission": {
+    "native": "Explain the problem with evidence, push back on the agent's excuses and get the extra charge refunded.",
+    "native_translations": {
+      "en": "Explain the problem with evidence, push back on the agent's excuses and get the extra charge refunded.",
+      "es": "Explique el problema con pruebas, rechace las excusas del agente y consiga el reembolso del cobro extra.",
+      "fr": "Expliquez le problème preuves à l'appui, réfutez les excuses du conseiller et obtenez le remboursement du débit en trop.",
+      "de": "Erklären Sie das Problem mit Belegen, lassen Sie die Ausreden des Mitarbeiters nicht gelten und erreichen Sie die Erstattung der doppelten Abbuchung.",
+      "it": "Spiega il problema con delle prove, ribatti alle scuse dell'operatore e fatti rimborsare l'addebito in più.",
+      "pl": "Wyjaśnij problem z dowodami w ręku, odeprzyj wymówki konsultanta i odzyskaj nadpłatę.",
+      "pt": "Explique o problema com provas, rebata as desculpas do atendente e consiga o reembolso da cobrança extra.",
+      "nl": "Leg het probleem uit met bewijs, weerleg de smoesjes van de medewerker en krijg de extra afschrijving terug.",
+      "hr": "Objasni problem uz dokaze, ne prihvaćaj djelatnikove izgovore i ishodi povrat viška naplate.",
+      "tr": "Sorunu kanıtlarla açıklayın, temsilcinin bahanelerine itiraz edin ve fazladan çekilen ücretin iadesini alın.",
+      "uk": "Поясни проблему з доказами, заперечи виправдання оператора й доможися повернення зайвого списання.",
+      "ar": "اشرح المشكلة بالأدلة، وارفض أعذار الموظف، واسترد المبلغ الإضافي.",
+      "hi": "सबूत के साथ समस्या समझाइए, एजेंट के बहानों का जवाब दीजिए और ज़्यादा कटे पैसे वापस लीजिए।",
+      "vi": "Giải thích vấn đề kèm bằng chứng, phản bác những lời bào chữa của nhân viên và được hoàn lại khoản bị trừ thừa.",
+      "id": "Jelaskan masalahnya dengan bukti, bantah alasan petugas, dan minta pengembalian dana untuk tagihan ganda.",
+      "ms": "Terangkan masalah itu dengan bukti, bantah alasan ejen dan dapatkan bayaran balik caj tambahan itu.",
+      "ko": "증거를 들어 문제를 설명하고, 상담원의 변명에 반박해서 추가 결제 금액을 환불받으세요."
+    },
+    "practice": "Explique el problema con pruebas, rechace las excusas del agente y consiga el reembolso del cobro extra.",
+    "practice_translations": {
+      "en": "Explain the problem with evidence, push back on the agent's excuses and get the extra charge refunded.",
+      "es": "Explique el problema con pruebas, rechace las excusas del agente y consiga el reembolso del cobro extra.",
+      "ja": "証拠を示して問題を説明し、担当者の言い訳に反論して、余分な請求を返金してもらってください。",
+      "ko": "증거를 들어 문제를 설명하고, 상담원의 변명에 반박해서 추가 결제 금액을 환불받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain that you were charged twice",
+        "native_translations": {
+          "en": "Explain that you were charged twice",
+          "es": "Explique que le cobraron dos veces",
+          "fr": "Expliquez que vous avez été débité deux fois",
+          "de": "Erklären Sie, dass Ihnen zweimal etwas abgebucht wurde",
+          "it": "Spiega che ti hanno addebitato due volte",
+          "pl": "Wyjaśnij, że pobrano od ciebie opłatę dwa razy",
+          "pt": "Explique que você foi cobrado duas vezes",
+          "nl": "Leg uit dat er twee keer is afgeschreven",
+          "hr": "Objasni da ti je naplaćeno dvaput",
+          "tr": "İki kez ücret çekildiğini açıklayın",
+          "uk": "Поясни, що гроші списали двічі",
+          "ar": "اشرح أن المبلغ خُصم منك مرتين",
+          "hi": "बताइए कि आपसे दो बार पैसे कटे हैं",
+          "vi": "Giải thích rằng bạn bị trừ tiền hai lần",
+          "id": "Jelaskan bahwa kamu ditagih dua kali",
+          "ms": "Terangkan bahawa anda dicaj dua kali",
+          "ko": "두 번 결제되었다고 설명하세요"
+        },
+        "practice": "Explique que le cobraron dos veces",
+        "practice_translations": {
+          "en": "Explain that you were charged twice",
+          "es": "Explique que le cobraron dos veces",
+          "ja": "二重に請求されたと説明してください",
+          "ko": "두 번 결제되었다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Give the dates and amounts of both charges",
+        "native_translations": {
+          "en": "Give the dates and amounts of both charges",
+          "es": "Dé las fechas y los montos de ambos cobros",
+          "fr": "Donnez les dates et les montants des deux débits",
+          "de": "Nennen Sie Datum und Betrag beider Abbuchungen",
+          "it": "Indica le date e gli importi di entrambi gli addebiti",
+          "pl": "Podaj daty i kwoty obu obciążeń",
+          "pt": "Informe as datas e os valores das duas cobranças",
+          "nl": "Geef de data en bedragen van beide afschrijvingen",
+          "hr": "Navedi datume i iznose obiju naplata",
+          "tr": "İki ödemenin tarihlerini ve tutarlarını söyleyin",
+          "uk": "Назви дати й суми обох списань",
+          "ar": "اذكر تاريخ ومبلغ كلا الخصمين",
+          "hi": "दोनों भुगतानों की तारीख़ और रक़म बताइए",
+          "vi": "Cho biết ngày và số tiền của cả hai lần trừ",
+          "id": "Sebutkan tanggal dan jumlah kedua tagihan",
+          "ms": "Beri tarikh dan jumlah kedua-dua caj",
+          "ko": "두 결제의 날짜와 금액을 말하세요"
+        },
+        "practice": "Dé las fechas y los montos de ambos cobros",
+        "practice_translations": {
+          "en": "Give the dates and amounts of both charges",
+          "es": "Dé las fechas y los montos de ambos cobros",
+          "ja": "両方の請求の日付と金額を伝えてください",
+          "ko": "두 결제의 날짜와 금액을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Offer to send proof of the payments",
+        "native_translations": {
+          "en": "Offer to send proof of the payments",
+          "es": "Ofrezca enviar comprobantes de los pagos",
+          "fr": "Proposez d'envoyer une preuve des paiements",
+          "de": "Bieten Sie an, Zahlungsnachweise zu schicken",
+          "it": "Offriti di inviare la prova dei pagamenti",
+          "pl": "Zaproponuj przesłanie potwierdzeń płatności",
+          "pt": "Ofereça-se para enviar o comprovante dos pagamentos",
+          "nl": "Bied aan bewijs van de betalingen te sturen",
+          "hr": "Ponudi da pošalješ dokaz o plaćanjima",
+          "tr": "Ödemelerin kanıtını göndermeyi teklif edin",
+          "uk": "Запропонуй надіслати підтвердження платежів",
+          "ar": "اعرض إرسال إثبات الدفعتين",
+          "hi": "भुगतानों का सबूत भेजने की पेशकश कीजिए",
+          "vi": "Đề nghị gửi bằng chứng thanh toán",
+          "id": "Tawarkan untuk mengirim bukti pembayaran",
+          "ms": "Tawarkan untuk menghantar bukti pembayaran",
+          "ko": "결제 증빙을 보내 주겠다고 하세요"
+        },
+        "practice": "Ofrezca enviar comprobantes de los pagos",
+        "practice_translations": {
+          "en": "Offer to send proof of the payments",
+          "es": "Ofrezca enviar comprobantes de los pagos",
+          "ja": "支払いの証拠を送ると申し出てください",
+          "ko": "결제 증빙을 보내 주겠다고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for a refund and a timeframe",
+        "native_translations": {
+          "en": "Ask for a refund and a timeframe",
+          "es": "Pida un reembolso y un plazo",
+          "fr": "Demandez un remboursement et un délai",
+          "de": "Bitten Sie um eine Erstattung und einen Zeitrahmen",
+          "it": "Chiedi un rimborso e i tempi previsti",
+          "pl": "Poproś o zwrot i termin jego realizacji",
+          "pt": "Peça um reembolso e um prazo",
+          "nl": "Vraag om terugbetaling en een termijn",
+          "hr": "Zatraži povrat novca i rok",
+          "tr": "İade ve bir süre isteyin",
+          "uk": "Попроси повернення коштів і дізнайся терміни",
+          "ar": "اطلب استرداد المبلغ واسأل عن المدة",
+          "hi": "रिफ़ंड और उसकी समय-सीमा माँगिए",
+          "vi": "Yêu cầu hoàn tiền và hỏi thời gian hoàn",
+          "id": "Minta pengembalian dana dan perkiraan waktunya",
+          "ms": "Minta bayaran balik dan tempoh masanya",
+          "ko": "환불과 처리 기간을 요청하세요"
+        },
+        "practice": "Pida un reembolso y un plazo",
+        "practice_translations": {
+          "en": "Ask for a refund and a timeframe",
+          "es": "Pida un reembolso y un plazo",
+          "ja": "返金と、その時期をお願いしてください",
+          "ko": "환불과 처리 기간을 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I was charged twice for the same booking.",
+      "native_translations": {
+        "en": "I was charged twice for the same booking.",
+        "es": "Me cobraron dos veces por la misma reserva.",
+        "fr": "J'ai été débité deux fois pour la même réservation.",
+        "de": "Mir wurde für dieselbe Buchung zweimal Geld abgebucht.",
+        "it": "Mi hanno addebitato due volte la stessa prenotazione.",
+        "pl": "Za tę samą rezerwację pobrano ode mnie opłatę dwa razy.",
+        "pt": "Fui cobrado duas vezes pela mesma reserva.",
+        "nl": "Er is twee keer afgeschreven voor dezelfde boeking.",
+        "hr": "Ista rezervacija naplaćena mi je dvaput.",
+        "tr": "Aynı rezervasyon için benden iki kez ücret çekildi.",
+        "uk": "З мене двічі списали гроші за те саме бронювання.",
+        "ar": "خُصم مني المبلغ مرتين للحجز نفسه.",
+        "hi": "एक ही बुकिंग के लिए मुझसे दो बार पैसे कटे हैं।",
+        "vi": "Tôi bị trừ tiền hai lần cho cùng một đặt chỗ.",
+        "id": "Saya ditagih dua kali untuk pemesanan yang sama.",
+        "ms": "Saya dicaj dua kali untuk tempahan yang sama.",
+        "ko": "같은 예약에 대해 두 번 결제됐어요."
+      },
+      "practice": "Me cobraron dos veces por la misma reserva.",
+      "practice_translations": {
+        "en": "I was charged twice for the same booking.",
+        "es": "Me cobraron dos veces por la misma reserva.",
+        "ja": "同じ予約で二重に請求されました。",
+        "ko": "같은 예약에 대해 두 번 결제됐어요."
+      }
+    },
+    {
+      "native": "Both charges appear on my bank statement.",
+      "native_translations": {
+        "en": "Both charges appear on my bank statement.",
+        "es": "Los dos cobros aparecen en mi estado de cuenta.",
+        "fr": "Les deux débits apparaissent sur mon relevé bancaire.",
+        "de": "Beide Abbuchungen stehen auf meinem Kontoauszug.",
+        "it": "Entrambi gli addebiti compaiono nel mio estratto conto.",
+        "pl": "Oba obciążenia widać na moim wyciągu bankowym.",
+        "pt": "As duas cobranças aparecem no meu extrato bancário.",
+        "nl": "Beide afschrijvingen staan op mijn bankafschrift.",
+        "hr": "Obje naplate vide se na mom bankovnom izvatku.",
+        "tr": "İki ödeme de banka hesap özetimde görünüyor.",
+        "uk": "Обидва списання є в моїй банківській виписці.",
+        "ar": "يظهر الخصمان كلاهما في كشف حسابي المصرفي.",
+        "hi": "दोनों भुगतान मेरे बैंक स्टेटमेंट में दिख रहे हैं।",
+        "vi": "Cả hai khoản trừ đều hiện trên sao kê ngân hàng của tôi.",
+        "id": "Kedua tagihan muncul di rekening koran saya.",
+        "ms": "Kedua-dua caj ada dalam penyata bank saya.",
+        "ko": "은행 거래 내역에 두 건이 다 나와 있어요."
+      },
+      "practice": "Los dos cobros aparecen en mi estado de cuenta.",
+      "practice_translations": {
+        "en": "Both charges appear on my bank statement.",
+        "es": "Los dos cobros aparecen en mi estado de cuenta.",
+        "ja": "銀行の明細に両方の請求が載っています。",
+        "ko": "은행 거래 내역에 두 건이 다 나와 있어요."
+      }
+    },
+    {
+      "native": "I can send you a screenshot right now.",
+      "native_translations": {
+        "en": "I can send you a screenshot right now.",
+        "es": "Puedo enviarle una captura de pantalla ahora mismo.",
+        "fr": "Je peux vous envoyer une capture d'écran tout de suite.",
+        "de": "Ich kann Ihnen sofort einen Screenshot schicken.",
+        "it": "Posso mandarle subito uno screenshot.",
+        "pl": "Mogę od razu przesłać panu zrzut ekranu.",
+        "pt": "Posso te mandar um print agora mesmo.",
+        "nl": "Ik kan u nu meteen een screenshot sturen.",
+        "hr": "Mogu Vam odmah poslati snimku zaslona.",
+        "tr": "Size hemen bir ekran görüntüsü gönderebilirim.",
+        "uk": "Я можу просто зараз надіслати вам скриншот.",
+        "ar": "يمكنني إرسال لقطة شاشة إليك الآن.",
+        "hi": "मैं आपको अभी एक स्क्रीनशॉट भेज सकता हूँ।",
+        "vi": "Tôi có thể gửi ảnh chụp màn hình cho anh/chị ngay bây giờ.",
+        "id": "Saya bisa kirim tangkapan layarnya sekarang juga.",
+        "ms": "Saya boleh hantar tangkapan skrin sekarang juga.",
+        "ko": "지금 바로 스크린샷을 보내 드릴 수 있어요."
+      },
+      "practice": "Puedo enviarle una captura de pantalla ahora mismo.",
+      "practice_translations": {
+        "en": "I can send you a screenshot right now.",
+        "es": "Puedo enviarle una captura de pantalla ahora mismo.",
+        "ja": "今すぐスクリーンショットをお送りできます。",
+        "ko": "지금 바로 스크린샷을 보내 드릴 수 있어요."
+      }
+    },
+    {
+      "native": "I'd like the second charge refunded.",
+      "native_translations": {
+        "en": "I'd like the second charge refunded.",
+        "es": "Quisiera que me reembolsen el segundo cobro.",
+        "fr": "J'aimerais que le deuxième débit me soit remboursé.",
+        "de": "Ich möchte, dass mir die zweite Abbuchung erstattet wird.",
+        "it": "Vorrei il rimborso del secondo addebito.",
+        "pl": "Proszę o zwrot drugiej płatności.",
+        "pt": "Gostaria que a segunda cobrança fosse reembolsada.",
+        "nl": "Ik wil graag dat de tweede afschrijving wordt terugbetaald.",
+        "hr": "Molim povrat druge naplate.",
+        "tr": "İkinci ödemenin iade edilmesini istiyorum.",
+        "uk": "Я хотів би повернення другого списання.",
+        "ar": "أريد استرداد مبلغ الخصم الثاني.",
+        "hi": "मुझे दूसरा भुगतान वापस चाहिए।",
+        "vi": "Tôi muốn được hoàn lại khoản trừ thứ hai.",
+        "id": "Saya ingin tagihan kedua dikembalikan.",
+        "ms": "Saya mahu caj kedua itu dibayar balik.",
+        "ko": "두 번째 결제 금액을 환불받고 싶어요."
+      },
+      "practice": "Quisiera que me reembolsen el segundo cobro.",
+      "practice_translations": {
+        "en": "I'd like the second charge refunded.",
+        "es": "Quisiera que me reembolsen el segundo cobro.",
+        "ja": "2回目の請求分を返金していただきたいです。",
+        "ko": "두 번째 결제 금액을 환불받고 싶어요."
+      }
+    },
+    {
+      "native": "How long will the refund take?",
+      "native_translations": {
+        "en": "How long will the refund take?",
+        "es": "¿Cuánto tardará el reembolso?",
+        "fr": "Combien de temps prendra le remboursement ?",
+        "de": "Wie lange dauert die Erstattung?",
+        "it": "Quanto tempo ci vorrà per il rimborso?",
+        "pl": "Ile potrwa zwrot?",
+        "pt": "Quanto tempo vai levar o reembolso?",
+        "nl": "Hoe lang duurt de terugbetaling?",
+        "hr": "Koliko će trajati povrat novca?",
+        "tr": "İade ne kadar sürer?",
+        "uk": "Скільки часу займе повернення коштів?",
+        "ar": "كم من الوقت سيستغرق استرداد المبلغ؟",
+        "hi": "रिफ़ंड में कितना समय लगेगा?",
+        "vi": "Bao lâu thì tôi nhận được tiền hoàn?",
+        "id": "Berapa lama proses pengembalian dananya?",
+        "ms": "Berapa lama bayaran balik akan mengambil masa?",
+        "ko": "환불은 얼마나 걸리나요?"
+      },
+      "practice": "¿Cuánto tardará el reembolso?",
+      "practice_translations": {
+        "en": "How long will the refund take?",
+        "es": "¿Cuánto tardará el reembolso?",
+        "ja": "返金にはどのくらいかかりますか。",
+        "ko": "환불은 얼마나 걸리나요?"
+      }
+    }
+  ]
+}

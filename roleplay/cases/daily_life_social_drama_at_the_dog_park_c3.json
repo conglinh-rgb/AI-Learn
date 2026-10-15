@@ -1,0 +1,351 @@
+{
+  "id": "daily_life_social_drama_at_the_dog_park_c3",
+  "title": "The Dog Park Rule Enforcer",
+  "title_translations": {
+    "en": "The Dog Park Rule Enforcer",
+    "es": "El vigilante de las reglas del parque",
+    "fr": "Le shérif du parc à chiens",
+    "de": "Der Hundepark-Sheriff",
+    "it": "Lo sceriffo del parco per cani",
+    "pl": "Strażnik zasad na wybiegu",
+    "pt": "O fiscal das regras do parque",
+    "nl": "De regelhandhaver van het hondenpark",
+    "hr": "Samozvani čuvar reda u parku za pse",
+    "tr": "Köpek Parkının Kural Bekçisi",
+    "uk": "Наглядач за правилами собачого парку",
+    "ar": "حارس قواعد حديقة الكلاب",
+    "hi": "डॉग पार्क का नियम-रक्षक",
+    "vi": "Người \"gác luật\" ở công viên chó",
+    "id": "Si Penegak Aturan Taman Anjing",
+    "ms": "Penguat Kuasa Peraturan Taman Anjing",
+    "ko": "반려견 공원의 규칙 단속반"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "A self-appointed \"park manager\" (AI) accuses your dog of digging holes all over the park and demands that you leave, but your dog was asleep under a bench the whole time.",
+  "scenario_translations": {
+    "en": "A self-appointed \"park manager\" (AI) accuses your dog of digging holes all over the park and demands that you leave, but your dog was asleep under a bench the whole time.",
+    "es": "Alguien que se hace llamar \"administrador del parque\" (AI) acusa a su perro de cavar hoyos por todo el parque y le exige que se vaya, pero su perro estuvo dormido bajo una banca todo el tiempo.",
+    "fr": "Un « responsable du parc » autoproclamé (AI) accuse votre chien d'avoir creusé des trous partout dans le parc et exige que vous partiez, alors que votre chien a dormi sous un banc tout ce temps.",
+    "de": "Eine selbsternannte „Parkaufsicht“ (AI) beschuldigt Ihren Hund, überall im Park Löcher gegraben zu haben, und verlangt, dass Sie gehen. Dabei hat Ihr Hund die ganze Zeit unter einer Bank geschlafen.",
+    "it": "Un sedicente \"responsabile del parco\" (AI) accusa il tuo cane di aver scavato buche in tutto il parco e pretende che tu te ne vada, ma il tuo cane ha dormito sotto una panchina tutto il tempo.",
+    "pl": "Samozwańczy „kierownik parku” (AI) oskarża twojego psa, że rozkopał cały park, i żąda, żebyś wyszedł, ale twój pies przez cały czas spał pod ławką.",
+    "pt": "Um \"gerente do parque\" autoproclamado (AI) acusa seu cachorro de cavar buracos pelo parque todo e exige que você vá embora, mas seu cachorro estava dormindo embaixo de um banco o tempo todo.",
+    "nl": "Een zelfbenoemde 'parkmanager' (AI) beschuldigt je hond ervan overal in het park gaten te graven en eist dat je vertrekt, maar je hond lag de hele tijd te slapen onder een bankje.",
+    "hr": "Samozvani „upravitelj parka” (AI) optužuje tvog psa da je iskopao rupe po cijelom parku i traži da odeš, a tvoj je pas cijelo vrijeme spavao ispod klupe.",
+    "tr": "Kendini \"park müdürü\" ilan etmiş biri (AI), köpeğinizi parkın her yerine çukur kazmakla suçluyor ve gitmenizi istiyor, ama köpeğiniz bunca zaman bir bankın altında uyuyordu.",
+    "uk": "Самопроголошений «управитель парку» (AI) звинувачує твого пса в тому, що той перекопав увесь парк, і вимагає, щоб ти пішов, хоча пес увесь час спав під лавкою.",
+    "ar": "«مدير حديقة» نصّب نفسه بنفسه (AI) يتهم كلبك بحفر الحفر في كل أنحاء الحديقة ويطالبك بالمغادرة، لكن كلبك كان نائمًا تحت مقعد طوال الوقت.",
+    "hi": "ख़ुद को \"पार्क मैनेजर\" बताने वाला एक व्यक्ति (AI) आपके कुत्ते पर पूरे पार्क में गड्ढे खोदने का इल्ज़ाम लगाता है और आपसे जाने को कहता है, जबकि आपका कुत्ता पूरे समय एक बेंच के नीचे सो रहा था।",
+    "vi": "Một người tự xưng là \"quản lý công viên\" (AI) buộc tội chó nhà bạn đào lỗ khắp công viên và đòi bạn rời đi, trong khi chó của bạn ngủ dưới gầm ghế suốt từ nãy.",
+    "id": "Seorang \"pengelola taman\" gadungan (AI) menuduh anjingmu menggali lubang di seluruh taman dan menyuruhmu pergi, padahal anjingmu tidur di bawah bangku sepanjang waktu.",
+    "ms": "Seorang \"pengurus taman\" (AI) yang melantik dirinya sendiri menuduh anjing anda menggali lubang di seluruh taman dan menyuruh anda pergi, sedangkan anjing anda tidur di bawah bangku sepanjang masa.",
+    "ko": "스스로 \"공원 관리자\"라고 자처하는 사람(AI)이 당신 개가 공원 곳곳에 구멍을 팠다며 나가라고 요구해요. 하지만 당신 개는 내내 벤치 밑에서 자고 있었어요."
+  },
+  "mission": {
+    "native": "Calmly defend your dog and settle the dispute without having to leave the park.",
+    "native_translations": {
+      "en": "Calmly defend your dog and settle the dispute without having to leave the park.",
+      "es": "Defienda con calma a su perro y resuelva la discusión sin tener que irse del parque.",
+      "fr": "Défendez calmement votre chien et réglez le différend sans devoir quitter le parc.",
+      "de": "Verteidigen Sie Ihren Hund ruhig und legen Sie den Streit bei, ohne den Park verlassen zu müssen.",
+      "it": "Difendi con calma il tuo cane e risolvi la disputa senza dover lasciare il parco.",
+      "pl": "Spokojnie broń swojego psa i rozwiąż spór, nie wychodząc z parku.",
+      "pt": "Defenda seu cachorro com calma e resolva a discussão sem precisar sair do parque.",
+      "nl": "Verdedig je hond rustig en los het conflict op zonder het park te hoeven verlaten.",
+      "hr": "Mirno obrani svog psa i riješi spor bez napuštanja parka.",
+      "tr": "Köpeğinizi sakince savunun ve parktan ayrılmak zorunda kalmadan anlaşmazlığı çözün.",
+      "uk": "Спокійно захисти свого пса й залагодь суперечку, не покидаючи парку.",
+      "ar": "دافع عن كلبك بهدوء وسوِّ الخلاف دون أن تضطر إلى مغادرة الحديقة.",
+      "hi": "शांति से अपने कुत्ते का बचाव कीजिए और पार्क छोड़े बिना विवाद सुलझाइए।",
+      "vi": "Bình tĩnh bảo vệ chó của bạn và giải quyết tranh cãi mà không phải rời công viên.",
+      "id": "Bela anjingmu dengan tenang dan selesaikan perselisihan tanpa harus meninggalkan taman.",
+      "ms": "Pertahankan anjing anda dengan tenang dan selesaikan pertikaian tanpa perlu meninggalkan taman.",
+      "ko": "침착하게 개를 변호하고, 공원을 떠나지 않고 다툼을 해결하세요."
+    },
+    "practice": "Defienda con calma a su perro y resuelva la discusión sin tener que irse del parque.",
+    "practice_translations": {
+      "en": "Calmly defend your dog and settle the dispute without having to leave the park.",
+      "es": "Defienda con calma a su perro y resuelva la discusión sin tener que irse del parque.",
+      "ja": "落ち着いて自分の犬をかばい、公園を出ずにもめごとを解決してください。",
+      "ko": "침착하게 개를 변호하고, 공원을 떠나지 않고 다툼을 해결하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Deny the accusation calmly and politely",
+        "native_translations": {
+          "en": "Deny the accusation calmly and politely",
+          "es": "Niegue la acusación con calma y cortesía",
+          "fr": "Niez l'accusation avec calme et politesse",
+          "de": "Weisen Sie den Vorwurf ruhig und höflich zurück",
+          "it": "Respingi l'accusa con calma e gentilezza",
+          "pl": "Spokojnie i grzecznie odeprzyj zarzut",
+          "pt": "Negue a acusação com calma e educação",
+          "nl": "Ontken de beschuldiging rustig en beleefd",
+          "hr": "Mirno i pristojno odbaci optužbu",
+          "tr": "Suçlamayı sakin ve kibar bir şekilde reddedin",
+          "uk": "Спокійно й ввічливо заперечи звинувачення",
+          "ar": "انفِ الاتهام بهدوء وأدب",
+          "hi": "शांति और विनम्रता से इल्ज़ाम से इनकार कीजिए",
+          "vi": "Bình tĩnh và lịch sự phủ nhận lời buộc tội",
+          "id": "Bantah tuduhan itu dengan tenang dan sopan",
+          "ms": "Nafikan tuduhan itu dengan tenang dan sopan",
+          "ko": "침착하고 정중하게 혐의를 부인하세요"
+        },
+        "practice": "Niegue la acusación con calma y cortesía",
+        "practice_translations": {
+          "en": "Deny the accusation calmly and politely",
+          "es": "Niegue la acusación con calma y cortesía",
+          "ja": "落ち着いて丁寧に疑いを否定してください",
+          "ko": "침착하고 정중하게 혐의를 부인하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Give evidence that your dog was asleep",
+        "native_translations": {
+          "en": "Give evidence that your dog was asleep",
+          "es": "Dé pruebas de que su perro estaba dormido",
+          "fr": "Prouvez que votre chien dormait",
+          "de": "Belegen Sie, dass Ihr Hund geschlafen hat",
+          "it": "Dimostra che il tuo cane stava dormendo",
+          "pl": "Przedstaw dowód, że twój pies spał",
+          "pt": "Dê provas de que seu cachorro estava dormindo",
+          "nl": "Geef bewijs dat je hond lag te slapen",
+          "hr": "Pruži dokaz da je tvoj pas spavao",
+          "tr": "Köpeğinizin uyuduğuna dair kanıt gösterin",
+          "uk": "Наведи докази, що твій пес спав",
+          "ar": "قدّم دليلًا على أن كلبك كان نائمًا",
+          "hi": "सबूत दीजिए कि आपका कुत्ता सो रहा था",
+          "vi": "Đưa ra bằng chứng chó của bạn đang ngủ",
+          "id": "Berikan bukti bahwa anjingmu sedang tidur",
+          "ms": "Beri bukti bahawa anjing anda sedang tidur",
+          "ko": "개가 자고 있었다는 증거를 대세요"
+        },
+        "practice": "Dé pruebas de que su perro estaba dormido",
+        "practice_translations": {
+          "en": "Give evidence that your dog was asleep",
+          "es": "Dé pruebas de que su perro estaba dormido",
+          "ja": "自分の犬が寝ていた証拠を示してください",
+          "ko": "개가 자고 있었다는 증거를 대세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Suggest who else might have dug the holes",
+        "native_translations": {
+          "en": "Suggest who else might have dug the holes",
+          "es": "Sugiera quién más pudo haber cavado los hoyos",
+          "fr": "Suggérez qui d'autre a pu creuser les trous",
+          "de": "Sagen Sie, wer die Löcher sonst gegraben haben könnte",
+          "it": "Suggerisci chi altro potrebbe aver scavato le buche",
+          "pl": "Zasugeruj, kto jeszcze mógł wykopać dziury",
+          "pt": "Sugira quem mais pode ter cavado os buracos",
+          "nl": "Opper wie de gaten nog meer gegraven kan hebben",
+          "hr": "Predloži tko bi još mogao iskopati rupe",
+          "tr": "Çukurları başka kimin kazmış olabileceğini söyleyin",
+          "uk": "Припусти, хто ще міг викопати ями",
+          "ar": "اقترح من قد يكون حفر الحفر",
+          "hi": "सुझाइए कि गड्ढे और किसने खोदे होंगे",
+          "vi": "Gợi ý ai khác có thể đã đào những cái lỗ",
+          "id": "Sebutkan siapa lagi yang mungkin menggali lubang itu",
+          "ms": "Cadangkan siapa lagi yang mungkin menggali lubang itu",
+          "ko": "구멍을 판 게 누구일지 다른 가능성을 말하세요"
+        },
+        "practice": "Sugiera quién más pudo haber cavado los hoyos",
+        "practice_translations": {
+          "en": "Suggest who else might have dug the holes",
+          "es": "Sugiera quién más pudo haber cavado los hoyos",
+          "ja": "ほかに穴を掘ったかもしれない犬を挙げてください",
+          "ko": "구멍을 판 게 누구일지 다른 가능성을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Offer a friendly solution to end the argument",
+        "native_translations": {
+          "en": "Offer a friendly solution to end the argument",
+          "es": "Ofrezca una solución amistosa para terminar la discusión",
+          "fr": "Proposez une solution amicale pour mettre fin à la dispute",
+          "de": "Bieten Sie eine freundliche Lösung an, um den Streit zu beenden",
+          "it": "Proponi una soluzione amichevole per chiudere la discussione",
+          "pl": "Zaproponuj przyjazne rozwiązanie, żeby zakończyć kłótnię",
+          "pt": "Ofereça uma solução amigável para encerrar a discussão",
+          "nl": "Stel een vriendelijke oplossing voor om de ruzie te beëindigen",
+          "hr": "Ponudi prijateljsko rješenje da završite svađu",
+          "tr": "Tartışmayı bitirmek için dostça bir çözüm önerin",
+          "uk": "Запропонуй дружнє рішення, щоб завершити суперечку",
+          "ar": "اعرض حلًا وديًا لإنهاء الجدال",
+          "hi": "बहस ख़त्म करने के लिए एक दोस्ताना हल पेश कीजिए",
+          "vi": "Đề xuất một giải pháp thân thiện để chấm dứt tranh cãi",
+          "id": "Tawarkan solusi yang ramah untuk mengakhiri perdebatan",
+          "ms": "Tawarkan penyelesaian mesra untuk menamatkan pertengkaran",
+          "ko": "말다툼을 끝낼 수 있는 좋은 해결책을 제안하세요"
+        },
+        "practice": "Ofrezca una solución amistosa para terminar la discusión",
+        "practice_translations": {
+          "en": "Offer a friendly solution to end the argument",
+          "es": "Ofrezca una solución amistosa para terminar la discusión",
+          "ja": "言い争いを終わらせる友好的な解決策を提案してください",
+          "ko": "말다툼을 끝낼 수 있는 좋은 해결책을 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I understand you're upset, but it wasn't my dog.",
+      "native_translations": {
+        "en": "I understand you're upset, but it wasn't my dog.",
+        "es": "Entiendo que esté molesto, pero no fue mi perro.",
+        "fr": "Je comprends que vous soyez contrarié, mais ce n'était pas mon chien.",
+        "de": "Ich verstehe, dass Sie verärgert sind, aber es war nicht mein Hund.",
+        "it": "Capisco che sia arrabbiato, ma non è stato il mio cane.",
+        "pl": "Rozumiem, że jest pan zdenerwowany, ale to nie był mój pies.",
+        "pt": "Entendo que você esteja chateado, mas não foi o meu cachorro.",
+        "nl": "Ik begrijp dat u boos bent, maar het was mijn hond niet.",
+        "hr": "Razumijem da ste uzrujani, ali to nije bio moj pas.",
+        "tr": "Üzgün olduğunuzu anlıyorum ama benim köpeğim değildi.",
+        "uk": "Я розумію, що ви засмучені, але це був не мій пес.",
+        "ar": "أتفهم أنك منزعج، لكنه لم يكن كلبي.",
+        "hi": "मैं समझता हूँ कि आप नाराज़ हैं, लेकिन यह मेरा कुत्ता नहीं था।",
+        "vi": "Tôi hiểu anh/chị đang bực, nhưng đó không phải chó của tôi.",
+        "id": "Saya mengerti Anda kesal, tapi itu bukan anjing saya.",
+        "ms": "Saya faham awak marah, tetapi itu bukan anjing saya.",
+        "ko": "화나신 건 이해하지만, 우리 개가 한 게 아니에요."
+      },
+      "practice": "Entiendo que esté molesto, pero no fue mi perro.",
+      "practice_translations": {
+        "en": "I understand you're upset, but it wasn't my dog.",
+        "es": "Entiendo que esté molesto, pero no fue mi perro.",
+        "ja": "お怒りなのはわかりますが、うちの犬ではありません。",
+        "ko": "화나신 건 이해하지만, 우리 개가 한 게 아니에요."
+      }
+    },
+    {
+      "native": "He's been sleeping under that bench for an hour.",
+      "native_translations": {
+        "en": "He's been sleeping under that bench for an hour.",
+        "es": "Lleva una hora durmiendo debajo de esa banca.",
+        "fr": "Il dort sous ce banc depuis une heure.",
+        "de": "Er schläft schon seit einer Stunde unter der Bank dort.",
+        "it": "Dorme sotto quella panchina da un'ora.",
+        "pl": "On od godziny śpi pod tą ławką.",
+        "pt": "Ele está dormindo embaixo daquele banco há uma hora.",
+        "nl": "Hij ligt al een uur onder dat bankje te slapen.",
+        "hr": "Već sat vremena spava ispod one klupe.",
+        "tr": "Bir saattir o bankın altında uyuyor.",
+        "uk": "Він уже годину спить під тією лавкою.",
+        "ar": "إنه نائم تحت ذلك المقعد منذ ساعة.",
+        "hi": "यह एक घंटे से उस बेंच के नीचे सो रहा है।",
+        "vi": "Nó đã ngủ dưới cái ghế đó cả tiếng đồng hồ rồi.",
+        "id": "Dia sudah tidur di bawah bangku itu selama satu jam.",
+        "ms": "Dia sudah tidur di bawah bangku itu selama sejam.",
+        "ko": "우리 개는 한 시간 동안 저 벤치 밑에서 자고 있었어요."
+      },
+      "practice": "Lleva una hora durmiendo debajo de esa banca.",
+      "practice_translations": {
+        "en": "He's been sleeping under that bench for an hour.",
+        "es": "Lleva una hora durmiendo debajo de esa banca.",
+        "ja": "この子は1時間ずっとあのベンチの下で寝ていました。",
+        "ko": "우리 개는 한 시간 동안 저 벤치 밑에서 자고 있었어요."
+      }
+    },
+    {
+      "native": "Look, his paws are completely clean.",
+      "native_translations": {
+        "en": "Look, his paws are completely clean.",
+        "es": "Mire, tiene las patas completamente limpias.",
+        "fr": "Regardez, ses pattes sont parfaitement propres.",
+        "de": "Schauen Sie, seine Pfoten sind völlig sauber.",
+        "it": "Guardi, ha le zampe pulitissime.",
+        "pl": "Proszę spojrzeć, ma zupełnie czyste łapy.",
+        "pt": "Olha, as patas dele estão completamente limpas.",
+        "nl": "Kijk, zijn poten zijn helemaal schoon.",
+        "hr": "Pogledajte, šape su mu potpuno čiste.",
+        "tr": "Bakın, patileri tertemiz.",
+        "uk": "Подивіться, його лапи зовсім чисті.",
+        "ar": "انظر، كفوفه نظيفة تمامًا.",
+        "hi": "देखिए, इसके पंजे बिल्कुल साफ़ हैं।",
+        "vi": "Anh/chị xem này, chân nó sạch trơn.",
+        "id": "Lihat, kakinya bersih sekali.",
+        "ms": "Tengok, kakinya bersih sepenuhnya.",
+        "ko": "보세요, 발이 완전히 깨끗하잖아요."
+      },
+      "practice": "Mire, tiene las patas completamente limpias.",
+      "practice_translations": {
+        "en": "Look, his paws are completely clean.",
+        "es": "Mire, tiene las patas completamente limpias.",
+        "ja": "見てください、足がまったく汚れていません。",
+        "ko": "보세요, 발이 완전히 깨끗하잖아요."
+      }
+    },
+    {
+      "native": "I saw a brown dog digging near the fence earlier.",
+      "native_translations": {
+        "en": "I saw a brown dog digging near the fence earlier.",
+        "es": "Hace un rato vi a un perro café cavando junto a la cerca.",
+        "fr": "Tout à l'heure, j'ai vu un chien marron creuser près de la clôture.",
+        "de": "Vorhin habe ich einen braunen Hund am Zaun graben sehen.",
+        "it": "Prima ho visto un cane marrone scavare vicino alla recinzione.",
+        "pl": "Wcześniej widziałem brązowego psa, który kopał przy płocie.",
+        "pt": "Mais cedo eu vi um cachorro marrom cavando perto da cerca.",
+        "nl": "Ik zag eerder een bruine hond graven bij het hek.",
+        "hr": "Maloprije je jedan smeđi pas kopao kraj ograde.",
+        "tr": "Az önce çitin yanında kahverengi bir köpeğin kazdığını gördüm.",
+        "uk": "Я бачив, як біля паркану копав коричневий пес.",
+        "ar": "رأيت كلبًا بنيًا يحفر قرب السياج قبل قليل.",
+        "hi": "मैंने पहले एक भूरे कुत्ते को बाड़ के पास खोदते देखा था।",
+        "vi": "Lúc nãy tôi thấy một con chó màu nâu đào đất gần hàng rào.",
+        "id": "Tadi saya lihat anjing cokelat menggali di dekat pagar.",
+        "ms": "Tadi saya nampak seekor anjing coklat menggali dekat pagar.",
+        "ko": "아까 갈색 개가 울타리 근처에서 땅 파는 걸 봤어요."
+      },
+      "practice": "Hace un rato vi a un perro café cavando junto a la cerca.",
+      "practice_translations": {
+        "en": "I saw a brown dog digging near the fence earlier.",
+        "es": "Hace un rato vi a un perro café cavando junto a la cerca.",
+        "ja": "さっき、茶色い犬がフェンスの近くで穴を掘っているのを見ました。",
+        "ko": "아까 갈색 개가 울타리 근처에서 땅 파는 걸 봤어요."
+      }
+    },
+    {
+      "native": "How about we fill the holes together?",
+      "native_translations": {
+        "en": "How about we fill the holes together?",
+        "es": "¿Qué le parece si tapamos los hoyos juntos?",
+        "fr": "Et si on rebouchait les trous ensemble ?",
+        "de": "Wie wäre es, wenn wir die Löcher zusammen zuschütten?",
+        "it": "Che ne dice se riempiamo le buche insieme?",
+        "pl": "Może zasypiemy te dziury razem?",
+        "pt": "Que tal a gente tapar os buracos juntos?",
+        "nl": "Zullen we de gaten samen dichtmaken?",
+        "hr": "Što kažete da zajedno zatrpamo rupe?",
+        "tr": "Çukurları birlikte doldursak nasıl olur?",
+        "uk": "Може, засиплемо ями разом?",
+        "ar": "ما رأيك أن نردم الحفر معًا؟",
+        "hi": "क्यों न हम मिलकर गड्ढे भर दें?",
+        "vi": "Hay là mình cùng lấp mấy cái lỗ lại nhé?",
+        "id": "Bagaimana kalau kita tutup lubangnya bersama-sama?",
+        "ms": "Bagaimana kalau kita tutup lubang-lubang itu bersama?",
+        "ko": "우리 같이 구멍을 메우는 건 어때요?"
+      },
+      "practice": "¿Qué le parece si tapamos los hoyos juntos?",
+      "practice_translations": {
+        "en": "How about we fill the holes together?",
+        "es": "¿Qué le parece si tapamos los hoyos juntos?",
+        "ja": "一緒に穴を埋めるのはどうでしょうか。",
+        "ko": "우리 같이 구멍을 메우는 건 어때요?"
+      }
+    }
+  ]
+}

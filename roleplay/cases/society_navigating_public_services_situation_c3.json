@@ -1,0 +1,351 @@
+{
+  "id": "society_navigating_public_services_situation_c3",
+  "title": "Turned Away at the License Office",
+  "title_translations": {
+    "en": "Turned Away at the License Office",
+    "es": "Rechazo en la oficina de licencias",
+    "fr": "Refoulé au bureau des permis",
+    "de": "Abgewiesen bei der Führerscheinstelle",
+    "it": "Respinto all'ufficio patenti",
+    "pl": "Odprawiony z kwitkiem w wydziale komunikacji",
+    "pt": "Barrado no Detran",
+    "nl": "Weggestuurd bij het rijbewijsloket",
+    "hr": "Odbijanje na šalteru za vozačke dozvole",
+    "tr": "Ehliyet Dairesinden Geri Çevrildiniz",
+    "uk": "Відмова в сервісному центрі",
+    "ar": "رُفض طلبك في مكتب الرخص",
+    "hi": "लाइसेंस ऑफ़िस से लौटा दिया गया",
+    "vi": "Bị từ chối tại phòng cấp bằng lái",
+    "id": "Ditolak di Kantor SIM",
+    "ms": "Ditolak di Pejabat Lesen",
+    "ko": "면허 사무소에서 거절당하다"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "After waiting an hour at the driver's license office, the clerk (AI) says your paperwork is incomplete and you must come back another day.",
+  "scenario_translations": {
+    "en": "After waiting an hour at the driver's license office, the clerk (AI) says your paperwork is incomplete and you must come back another day.",
+    "es": "Tras esperar una hora en la oficina de licencias de conducir, el empleado (AI) le dice que sus papeles están incompletos y que debe volver otro día.",
+    "fr": "Après une heure d'attente au bureau des permis de conduire, l'employé (AI) vous annonce que votre dossier est incomplet et que vous devez revenir un autre jour.",
+    "de": "Nach einer Stunde Wartezeit bei der Führerscheinstelle sagt Ihnen der Sachbearbeiter (AI), dass Ihre Unterlagen unvollständig sind und Sie an einem anderen Tag wiederkommen müssen.",
+    "it": "Dopo un'ora di attesa all'ufficio patenti, l'impiegato (AI) ti dice che i tuoi documenti sono incompleti e che devi tornare un altro giorno.",
+    "pl": "Po godzinie czekania w wydziale komunikacji urzędnik (AI) mówi, że twoje dokumenty są niekompletne i musisz przyjść innego dnia.",
+    "pt": "Depois de esperar uma hora no departamento de habilitação, o atendente (AI) diz que sua documentação está incompleta e que você precisa voltar outro dia.",
+    "nl": "Na een uur wachten bij het rijbewijsloket zegt de medewerker (AI) dat je papieren onvolledig zijn en dat je een andere dag terug moet komen.",
+    "hr": "Nakon sat vremena čekanja u uredu za vozačke dozvole službenik (AI) kaže da ti je dokumentacija nepotpuna i da moraš doći neki drugi dan.",
+    "tr": "Ehliyet dairesinde bir saat bekledikten sonra görevli (AI) evraklarınızın eksik olduğunu ve başka bir gün tekrar gelmeniz gerektiğini söylüyor.",
+    "uk": "Після години очікування в сервісному центрі з видачі посвідчень водія працівник (AI) каже, що твої документи неповні й треба прийти іншого дня.",
+    "ar": "بعد انتظار ساعة في مكتب رخص القيادة، يخبرك الموظف (AI) بأن أوراقك ناقصة وعليك العودة في يوم آخر.",
+    "hi": "ड्राइविंग लाइसेंस ऑफ़िस में एक घंटा इंतज़ार करने के बाद क्लर्क (AI) कहते हैं कि आपके काग़ज़ात अधूरे हैं और आपको किसी और दिन आना होगा।",
+    "vi": "Sau một tiếng chờ ở phòng cấp bằng lái xe, nhân viên (AI) nói hồ sơ của bạn chưa đầy đủ và bạn phải quay lại hôm khác.",
+    "id": "Setelah menunggu satu jam di kantor SIM, petugas (AI) bilang berkasmu belum lengkap dan kamu harus kembali di lain hari.",
+    "ms": "Selepas menunggu sejam di pejabat lesen memandu, kerani (AI) berkata dokumen anda tidak lengkap dan anda perlu datang semula pada hari lain.",
+    "ko": "운전면허 사무소에서 한 시간을 기다렸는데, 직원(AI)이 서류가 불완전하니 다른 날 다시 오라고 합니다."
+  },
+  "mission": {
+    "native": "Find out exactly what is missing, push back politely and try to solve the problem today.",
+    "native_translations": {
+      "en": "Find out exactly what is missing, push back politely and try to solve the problem today.",
+      "es": "Averigüe qué falta exactamente, insista con cortesía e intente resolver el problema hoy.",
+      "fr": "Découvrez exactement ce qui manque, contestez poliment et essayez de régler le problème aujourd'hui.",
+      "de": "Finden Sie genau heraus, was fehlt, widersprechen Sie höflich und versuchen Sie, das Problem heute noch zu lösen.",
+      "it": "Scopri esattamente cosa manca, obietta con gentilezza e prova a risolvere il problema oggi stesso.",
+      "pl": "Dowiedz się, czego dokładnie brakuje, grzecznie zaprotestuj i spróbuj rozwiązać problem jeszcze dziś.",
+      "pt": "Descubra exatamente o que está faltando, conteste com educação e tente resolver o problema hoje mesmo.",
+      "nl": "Zoek uit wat er precies ontbreekt, protesteer beleefd en probeer het probleem vandaag nog op te lossen.",
+      "hr": "Saznaj što točno nedostaje, pristojno se usprotivi i pokušaj riješiti problem još danas.",
+      "tr": "Tam olarak neyin eksik olduğunu öğrenin, kibarca itiraz edin ve sorunu bugün çözmeye çalışın.",
+      "uk": "З'ясуй, чого саме бракує, ввічливо заперечи й спробуй розв'язати проблему сьогодні.",
+      "ar": "اعرف بالضبط ما الذي ينقص، واعترض بلطف، وحاول حلّ المشكلة اليوم.",
+      "hi": "ठीक-ठीक पता कीजिए कि क्या कमी है, विनम्रता से अपनी बात रखिए और आज ही समस्या सुलझाने की कोशिश कीजिए।",
+      "vi": "Tìm hiểu chính xác còn thiếu gì, lịch sự phản đối và cố gắng giải quyết ngay trong hôm nay.",
+      "id": "Cari tahu apa tepatnya yang kurang, sanggah dengan sopan, dan coba selesaikan masalahnya hari ini.",
+      "ms": "Ketahui apa sebenarnya yang tiada, bantah dengan sopan dan cuba selesaikan masalah itu hari ini.",
+      "ko": "정확히 무엇이 빠졌는지 알아내고, 정중하게 이의를 제기하며 오늘 문제를 해결해 보세요."
+    },
+    "practice": "Averigüe qué falta exactamente, insista con cortesía e intente resolver el problema hoy.",
+    "practice_translations": {
+      "en": "Find out exactly what is missing, push back politely and try to solve the problem today.",
+      "es": "Averigüe qué falta exactamente, insista con cortesía e intente resolver el problema hoy.",
+      "ja": "何が足りないのかを正確に聞き、丁寧に反論して、今日中に問題を解決してください。",
+      "ko": "정확히 무엇이 빠졌는지 알아내고, 정중하게 이의를 제기하며 오늘 문제를 해결해 보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what exactly is missing",
+        "native_translations": {
+          "en": "Ask what exactly is missing",
+          "es": "Pregunte qué falta exactamente",
+          "fr": "Demandez ce qui manque exactement",
+          "de": "Fragen Sie, was genau fehlt",
+          "it": "Chiedi cosa manca esattamente",
+          "pl": "Zapytaj, czego dokładnie brakuje",
+          "pt": "Pergunte o que exatamente está faltando",
+          "nl": "Vraag wat er precies ontbreekt",
+          "hr": "Pitaj što točno nedostaje",
+          "tr": "Tam olarak neyin eksik olduğunu sorun",
+          "uk": "Запитай, чого саме бракує",
+          "ar": "اسأل ما الذي ينقص بالضبط",
+          "hi": "पूछिए कि ठीक-ठीक क्या कमी है",
+          "vi": "Hỏi chính xác còn thiếu gì",
+          "id": "Tanyakan apa tepatnya yang kurang",
+          "ms": "Tanya apa sebenarnya yang tiada",
+          "ko": "정확히 무엇이 빠졌는지 물어보세요"
+        },
+        "practice": "Pregunte qué falta exactamente",
+        "practice_translations": {
+          "en": "Ask what exactly is missing",
+          "es": "Pregunte qué falta exactamente",
+          "ja": "何が足りないのか正確に聞いてください",
+          "ko": "정확히 무엇이 빠졌는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that you brought the required documents",
+        "native_translations": {
+          "en": "Explain that you brought the required documents",
+          "es": "Explique que trajo los documentos requeridos",
+          "fr": "Expliquez que vous avez apporté les documents demandés",
+          "de": "Erklären Sie, dass Sie die erforderlichen Unterlagen mitgebracht haben",
+          "it": "Spiega che hai portato i documenti richiesti",
+          "pl": "Wyjaśnij, że przyniosłeś wymagane dokumenty",
+          "pt": "Explique que você trouxe os documentos exigidos",
+          "nl": "Leg uit dat je de vereiste documenten hebt meegenomen",
+          "hr": "Objasni da imaš sve potrebne dokumente",
+          "tr": "Gerekli belgeleri getirdiğinizi açıklayın",
+          "uk": "Поясни, що в тебе є потрібні документи",
+          "ar": "اشرح أنك أحضرت المستندات المطلوبة",
+          "hi": "बताइए कि आप ज़रूरी दस्तावेज़ लेकर आए हैं",
+          "vi": "Giải thích rằng bạn đã mang đủ giấy tờ theo yêu cầu",
+          "id": "Jelaskan bahwa kamu sudah membawa dokumen yang diminta",
+          "ms": "Terangkan bahawa anda telah membawa dokumen yang diperlukan",
+          "ko": "필요한 서류를 가져왔다고 설명하세요"
+        },
+        "practice": "Explique que trajo los documentos requeridos",
+        "practice_translations": {
+          "en": "Explain that you brought the required documents",
+          "es": "Explique que trajo los documentos requeridos",
+          "ja": "必要な書類は持ってきたと説明してください",
+          "ko": "필요한 서류를 가져왔다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if there is another way to prove it",
+        "native_translations": {
+          "en": "Ask if there is another way to prove it",
+          "es": "Pregunte si hay otra forma de comprobarlo",
+          "fr": "Demandez s'il existe un autre moyen de le prouver",
+          "de": "Fragen Sie, ob es eine andere Möglichkeit gibt, es nachzuweisen",
+          "it": "Chiedi se c'è un altro modo per dimostrarlo",
+          "pl": "Zapytaj, czy można to udowodnić w inny sposób",
+          "pt": "Pergunte se há outra forma de comprovar",
+          "nl": "Vraag of je het op een andere manier kunt aantonen",
+          "hr": "Pitaj postoji li drugi način da to dokažeš",
+          "tr": "Bunu kanıtlamanın başka bir yolu olup olmadığını sorun",
+          "uk": "Запитай, чи можна підтвердити це інакше",
+          "ar": "اسأل إن كانت هناك طريقة أخرى لإثبات ذلك",
+          "hi": "पूछिए कि इसे साबित करने का कोई और तरीक़ा है या नहीं",
+          "vi": "Hỏi có cách nào khác để chứng minh không",
+          "id": "Tanyakan apakah ada cara lain untuk membuktikannya",
+          "ms": "Tanya sama ada ada cara lain untuk membuktikannya",
+          "ko": "다른 방법으로 증명할 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte si hay otra forma de comprobarlo",
+        "practice_translations": {
+          "en": "Ask if there is another way to prove it",
+          "es": "Pregunte si hay otra forma de comprobarlo",
+          "ja": "ほかの方法で証明できないか聞いてください",
+          "ko": "다른 방법으로 증명할 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask how to finish the process today",
+        "native_translations": {
+          "en": "Ask how to finish the process today",
+          "es": "Pregunte cómo terminar el trámite hoy",
+          "fr": "Demandez comment finaliser la démarche aujourd'hui",
+          "de": "Fragen Sie, wie Sie den Vorgang heute abschließen können",
+          "it": "Chiedi come completare la pratica oggi",
+          "pl": "Zapytaj, jak załatwić sprawę jeszcze dziś",
+          "pt": "Pergunte como concluir o processo hoje",
+          "nl": "Vraag hoe je het vandaag nog kunt afronden",
+          "hr": "Pitaj kako završiti postupak još danas",
+          "tr": "İşlemi bugün nasıl bitirebileceğinizi sorun",
+          "uk": "Запитай, як завершити процедуру сьогодні",
+          "ar": "اسأل كيف تُنهي الإجراءات اليوم",
+          "hi": "पूछिए कि आज ही प्रक्रिया कैसे पूरी करें",
+          "vi": "Hỏi cách hoàn tất thủ tục ngay hôm nay",
+          "id": "Tanyakan cara menyelesaikan prosesnya hari ini",
+          "ms": "Tanya cara menyelesaikan proses ini hari ini",
+          "ko": "오늘 절차를 마칠 방법을 물어보세요"
+        },
+        "practice": "Pregunte cómo terminar el trámite hoy",
+        "practice_translations": {
+          "en": "Ask how to finish the process today",
+          "es": "Pregunte cómo terminar el trámite hoy",
+          "ja": "今日中に手続きを終える方法を聞いてください",
+          "ko": "오늘 절차를 마칠 방법을 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Could you tell me exactly what's missing?",
+      "native_translations": {
+        "en": "Could you tell me exactly what's missing?",
+        "es": "¿Podría decirme exactamente qué falta?",
+        "fr": "Pourriez-vous me dire exactement ce qui manque ?",
+        "de": "Könnten Sie mir genau sagen, was fehlt?",
+        "it": "Potrebbe dirmi esattamente cosa manca?",
+        "pl": "Czy mógłby mi pan powiedzieć, czego dokładnie brakuje?",
+        "pt": "Você poderia me dizer exatamente o que está faltando?",
+        "nl": "Kunt u me precies vertellen wat er ontbreekt?",
+        "hr": "Možete li mi reći što točno nedostaje?",
+        "tr": "Tam olarak neyin eksik olduğunu söyleyebilir misiniz?",
+        "uk": "Скажіть, будь ласка, чого саме бракує?",
+        "ar": "هل يمكنك أن تخبرني بالضبط ما الذي ينقص؟",
+        "hi": "क्या आप मुझे ठीक-ठीक बता सकते हैं कि क्या कमी है?",
+        "vi": "Anh/chị có thể cho tôi biết chính xác còn thiếu gì không?",
+        "id": "Bisa beri tahu saya apa tepatnya yang kurang?",
+        "ms": "Boleh anda beritahu saya apa sebenarnya yang tiada?",
+        "ko": "정확히 뭐가 빠졌는지 알려 주실 수 있어요?"
+      },
+      "practice": "¿Podría decirme exactamente qué falta?",
+      "practice_translations": {
+        "en": "Could you tell me exactly what's missing?",
+        "es": "¿Podría decirme exactamente qué falta?",
+        "ja": "何が足りないのか、具体的に教えていただけますか。",
+        "ko": "정확히 뭐가 빠졌는지 알려 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "The website said these documents were enough.",
+      "native_translations": {
+        "en": "The website said these documents were enough.",
+        "es": "En la página web decía que estos documentos eran suficientes.",
+        "fr": "Le site web indiquait que ces documents suffisaient.",
+        "de": "Auf der Website stand, dass diese Unterlagen ausreichen.",
+        "it": "Sul sito c'era scritto che questi documenti bastavano.",
+        "pl": "Na stronie internetowej było napisane, że te dokumenty wystarczą.",
+        "pt": "O site dizia que esses documentos eram suficientes.",
+        "nl": "Op de website stond dat deze documenten genoeg waren.",
+        "hr": "Na mrežnoj stranici piše da su ovi dokumenti dovoljni.",
+        "tr": "İnternet sitesinde bu belgelerin yeterli olduğu yazıyordu.",
+        "uk": "На сайті було написано, що цих документів достатньо.",
+        "ar": "كان مكتوبًا على الموقع أن هذه المستندات كافية.",
+        "hi": "वेबसाइट पर लिखा था कि ये दस्तावेज़ काफ़ी हैं।",
+        "vi": "Trang web ghi là chỉ cần những giấy tờ này là đủ.",
+        "id": "Di situs web tertulis dokumen ini sudah cukup.",
+        "ms": "Laman web mengatakan dokumen ini sudah cukup.",
+        "ko": "웹사이트에는 이 서류면 충분하다고 되어 있었어요."
+      },
+      "practice": "En la página web decía que estos documentos eran suficientes.",
+      "practice_translations": {
+        "en": "The website said these documents were enough.",
+        "es": "En la página web decía que estos documentos eran suficientes.",
+        "ja": "ウェブサイトには、この書類で十分だと書いてありました。",
+        "ko": "웹사이트에는 이 서류면 충분하다고 되어 있었어요."
+      }
+    },
+    {
+      "native": "I have a digital copy on my phone.",
+      "native_translations": {
+        "en": "I have a digital copy on my phone.",
+        "es": "Tengo una copia digital en mi teléfono.",
+        "fr": "J'ai une copie numérique sur mon téléphone.",
+        "de": "Ich habe eine digitale Kopie auf meinem Handy.",
+        "it": "Ne ho una copia digitale sul telefono.",
+        "pl": "Mam kopię cyfrową w telefonie.",
+        "pt": "Tenho uma cópia digital no meu celular.",
+        "nl": "Ik heb een digitale kopie op mijn telefoon.",
+        "hr": "Imam digitalnu kopiju na mobitelu.",
+        "tr": "Telefonumda dijital bir kopyası var.",
+        "uk": "У мене є цифрова копія в телефоні.",
+        "ar": "لديّ نسخة رقمية على هاتفي.",
+        "hi": "मेरे फ़ोन में इसकी डिजिटल कॉपी है।",
+        "vi": "Tôi có bản điện tử trên điện thoại.",
+        "id": "Saya punya salinan digitalnya di ponsel.",
+        "ms": "Saya ada salinan digital dalam telefon saya.",
+        "ko": "휴대폰에 디지털 사본이 있어요."
+      },
+      "practice": "Tengo una copia digital en mi teléfono.",
+      "practice_translations": {
+        "en": "I have a digital copy on my phone.",
+        "es": "Tengo una copia digital en mi teléfono.",
+        "ja": "スマートフォンにデータのコピーがあります。",
+        "ko": "휴대폰에 디지털 사본이 있어요."
+      }
+    },
+    {
+      "native": "Is there any way to finish this today?",
+      "native_translations": {
+        "en": "Is there any way to finish this today?",
+        "es": "¿Hay alguna forma de terminar esto hoy?",
+        "fr": "Y a-t-il un moyen de terminer cela aujourd'hui ?",
+        "de": "Gibt es irgendeine Möglichkeit, das heute noch zu erledigen?",
+        "it": "C'è un modo per concludere tutto oggi?",
+        "pl": "Czy da się to jakoś załatwić jeszcze dziś?",
+        "pt": "Existe alguma forma de resolver isso hoje?",
+        "nl": "Is er een manier om dit vandaag nog af te ronden?",
+        "hr": "Postoji li ikakav način da ovo završimo danas?",
+        "tr": "Bunu bugün bitirmenin bir yolu var mı?",
+        "uk": "Чи можна якось завершити це сьогодні?",
+        "ar": "هل هناك أي طريقة لإنهاء هذا اليوم؟",
+        "hi": "क्या इसे आज ही पूरा करने का कोई तरीक़ा है?",
+        "vi": "Có cách nào để làm xong ngay hôm nay không?",
+        "id": "Apakah ada cara untuk menyelesaikannya hari ini?",
+        "ms": "Adakah cara untuk menyelesaikannya hari ini?",
+        "ko": "오늘 이걸 끝낼 방법이 없을까요?"
+      },
+      "practice": "¿Hay alguna forma de terminar esto hoy?",
+      "practice_translations": {
+        "en": "Is there any way to finish this today?",
+        "es": "¿Hay alguna forma de terminar esto hoy?",
+        "ja": "今日中に終わらせる方法はありませんか。",
+        "ko": "오늘 이걸 끝낼 방법이 없을까요?"
+      }
+    },
+    {
+      "native": "Could I speak to a supervisor, please?",
+      "native_translations": {
+        "en": "Could I speak to a supervisor, please?",
+        "es": "¿Podría hablar con un supervisor, por favor?",
+        "fr": "Pourrais-je parler à un responsable, s'il vous plaît ?",
+        "de": "Könnte ich bitte mit einem Vorgesetzten sprechen?",
+        "it": "Potrei parlare con un responsabile, per favore?",
+        "pl": "Czy mogę porozmawiać z kierownikiem?",
+        "pt": "Eu poderia falar com um supervisor, por favor?",
+        "nl": "Mag ik een leidinggevende spreken?",
+        "hr": "Mogu li, molim Vas, razgovarati s nadređenim?",
+        "tr": "Bir yetkiliyle görüşebilir miyim, lütfen?",
+        "uk": "Можна поговорити з керівником, будь ласка?",
+        "ar": "هل يمكنني التحدث إلى المسؤول، من فضلك؟",
+        "hi": "क्या मैं प्लीज़ किसी सुपरवाइज़र से बात कर सकता हूँ?",
+        "vi": "Cho tôi nói chuyện với quản lý được không?",
+        "id": "Boleh saya bicara dengan atasan Anda?",
+        "ms": "Boleh saya bercakap dengan penyelia?",
+        "ko": "책임자분과 이야기할 수 있을까요?"
+      },
+      "practice": "¿Podría hablar con un supervisor, por favor?",
+      "practice_translations": {
+        "en": "Could I speak to a supervisor, please?",
+        "es": "¿Podría hablar con un supervisor, por favor?",
+        "ja": "責任者の方とお話しできますか。",
+        "ko": "책임자분과 이야기할 수 있을까요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "daily_life_confronting_a_peculiar_neighbor_c2",
+  "title": "The Garden Gnome Invasion",
+  "title_translations": {
+    "en": "The Garden Gnome Invasion",
+    "es": "La invasión de los gnomos de jardín",
+    "fr": "L'invasion des nains de jardin",
+    "de": "Die Gartenzwerg-Invasion",
+    "it": "L'invasione dei nani da giardino",
+    "pl": "Inwazja krasnali ogrodowych",
+    "pt": "A invasão dos anões de jardim",
+    "nl": "De invasie van de tuinkabouters",
+    "hr": "Invazija vrtnih patuljaka",
+    "tr": "Bahçe Cücesi İstilası",
+    "uk": "Навала садових гномів",
+    "ar": "غزو أقزام الحديقة",
+    "hi": "गार्डन ग्नोम का हमला",
+    "vi": "Cuộc xâm lăng của lũ tượng lùn",
+    "id": "Serbuan Kurcaci Taman",
+    "ms": "Serangan Patung Gnome Taman",
+    "ko": "정원 요정 인형의 습격"
+  },
+  "character": "fox",
+  "scenario": "Your neighbor (AI) keeps putting garden gnomes on your side of the fence. There are now thirty of them staring at your kitchen window.",
+  "scenario_translations": {
+    "en": "Your neighbor (AI) keeps putting garden gnomes on your side of the fence. There are now thirty of them staring at your kitchen window.",
+    "es": "Su vecino (AI) sigue poniendo gnomos de jardín de su lado de la cerca. Ya hay treinta mirando fijamente la ventana de su cocina.",
+    "fr": "Votre voisin (AI) n'arrête pas de mettre des nains de jardin de votre côté de la clôture. Ils sont maintenant trente à fixer la fenêtre de votre cuisine.",
+    "de": "Ihre Nachbarin bzw. Ihr Nachbar (AI) stellt ständig Gartenzwerge auf Ihre Seite des Zauns. Inzwischen starren dreißig davon auf Ihr Küchenfenster.",
+    "it": "Il tuo vicino (AI) continua a mettere nani da giardino dalla tua parte della recinzione. Ora sono trenta e fissano la finestra della tua cucina.",
+    "pl": "Twój sąsiad (AI) ciągle stawia krasnale ogrodowe po twojej stronie płotu. Teraz jest ich trzydzieści i wszystkie gapią się w okno twojej kuchni.",
+    "pt": "Seu vizinho (AI) vive colocando anões de jardim do seu lado da cerca. Agora são trinta, encarando a janela da sua cozinha.",
+    "nl": "Je buurman (AI) zet steeds tuinkabouters aan jouw kant van de schutting. Er staren er nu dertig naar je keukenraam.",
+    "hr": "Tvoj susjed (AI) stalno stavlja vrtne patuljke na tvoju stranu ograde. Sada ih trideset bulji u prozor tvoje kuhinje.",
+    "tr": "Komşunuz (AI) çitin sizin tarafınıza sürekli bahçe cüceleri koyuyor. Şu anda otuz tanesi mutfak pencerenize bakıyor.",
+    "uk": "Твій сусід (AI) постійно ставить садових гномів на твій бік паркану. Тепер їх уже тридцять, і всі витріщаються у вікно твоєї кухні.",
+    "ar": "يواصل جارك (AI) وضع تماثيل أقزام الحديقة في جانبك من السياج. هناك الآن ثلاثون منها تحدّق في نافذة مطبخك.",
+    "hi": "आपका पड़ोसी (AI) बार-बार बाड़ के आपकी तरफ़ गार्डन ग्नोम रख देता है। अब तीस ग्नोम आपकी रसोई की खिड़की को घूर रहे हैं।",
+    "vi": "Hàng xóm (AI) cứ đặt tượng chú lùn trang trí sang phía hàng rào nhà bạn. Giờ đã có ba mươi chú lùn đang nhìn chằm chằm vào cửa sổ bếp nhà bạn.",
+    "id": "Tetanggamu (AI) terus menaruh patung kurcaci taman di sisi pagarmu. Sekarang ada tiga puluh kurcaci yang menatap jendela dapurmu.",
+    "ms": "Jiran anda (AI) asyik meletakkan patung gnome taman di sebelah pagar anda. Kini ada tiga puluh patung merenung tingkap dapur anda.",
+    "ko": "이웃(AI)이 자꾸 울타리 너머 당신 쪽에 정원 요정 인형을 놓아요. 이제 서른 개나 되는 인형이 부엌 창문을 쳐다보고 있어요."
+  },
+  "mission": {
+    "native": "Ask your neighbor to move the gnomes back and agree on where they can go.",
+    "native_translations": {
+      "en": "Ask your neighbor to move the gnomes back and agree on where they can go.",
+      "es": "Pida a su vecino que retire los gnomos y acuerden dónde pueden ponerlos.",
+      "fr": "Demandez à votre voisin de reprendre les nains et mettez-vous d'accord sur l'endroit où les mettre.",
+      "de": "Bitten Sie darum, die Zwerge zurückzustellen, und einigen Sie sich, wo sie stehen dürfen.",
+      "it": "Chiedi al tuo vicino di riprendersi i nani e mettetevi d'accordo su dove possono stare.",
+      "pl": "Poproś sąsiada, żeby zabrał krasnale, i ustalcie, gdzie mogą stać.",
+      "pt": "Peça ao vizinho que leve os anões de volta e combinem onde eles podem ficar.",
+      "nl": "Vraag je buurman de kabouters terug te zetten en spreek af waar ze mogen staan.",
+      "hr": "Zamoli susjeda da vrati patuljke na svoju stranu i dogovorite gdje mogu stajati.",
+      "tr": "Komşunuzdan cüceleri geri almasını isteyin ve nereye konabilecekleri konusunda anlaşın.",
+      "uk": "Попроси сусіда прибрати гномів і домовтеся, де вони можуть стояти.",
+      "ar": "اطلب من جارك إعادة الأقزام إلى مكانها واتفقا على مكان يمكن وضعها فيه.",
+      "hi": "पड़ोसी से ग्नोम वापस ले जाने को कहिए और तय कीजिए कि वे कहाँ रखे जा सकते हैं।",
+      "vi": "Nhờ hàng xóm dời tượng lùn về chỗ cũ và thống nhất nơi có thể để chúng.",
+      "id": "Minta tetanggamu memindahkan kurcacinya dan sepakati di mana mereka boleh ditaruh.",
+      "ms": "Minta jiran anda mengalihkan semula patung gnome itu dan setuju di mana ia boleh diletakkan.",
+      "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하고 둘 곳을 함께 정하세요."
+    },
+    "practice": "Pida a su vecino que retire los gnomos y acuerden dónde pueden ponerlos.",
+    "practice_translations": {
+      "en": "Ask your neighbor to move the gnomes back and agree on where they can go.",
+      "es": "Pida a su vecino que retire los gnomos y acuerden dónde pueden ponerlos.",
+      "ja": "置物の小人を元の場所に戻してもらい、どこに置けるか話し合って決めてください。",
+      "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하고 둘 곳을 함께 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Point out that the gnomes are on your property",
+        "native_translations": {
+          "en": "Point out that the gnomes are on your property",
+          "es": "Señale que los gnomos están en su propiedad",
+          "fr": "Signalez que les nains sont sur votre propriété",
+          "de": "Weisen Sie darauf hin, dass die Zwerge auf Ihrem Grundstück stehen",
+          "it": "Fai notare che i nani sono sulla tua proprietà",
+          "pl": "Zwróć uwagę, że krasnale stoją na twojej posesji",
+          "pt": "Mostre que os anões estão no seu terreno",
+          "nl": "Wijs erop dat de kabouters op jouw terrein staan",
+          "hr": "Upozori da su patuljci na tvom posjedu",
+          "tr": "Cücelerin sizin arazinizde olduğunu belirtin",
+          "uk": "Зазнач, що гноми стоять на твоїй ділянці",
+          "ar": "أشر إلى أن الأقزام في ملكيتك",
+          "hi": "बताइए कि ग्नोम आपकी ज़मीन पर हैं",
+          "vi": "Chỉ ra rằng tượng lùn đang nằm trên đất nhà bạn",
+          "id": "Tunjukkan bahwa kurcaci itu ada di pekaranganmu",
+          "ms": "Tunjukkan bahawa patung gnome itu berada di kawasan anda",
+          "ko": "인형이 당신 땅에 있다고 알려 주세요"
+        },
+        "practice": "Señale que los gnomos están en su propiedad",
+        "practice_translations": {
+          "en": "Point out that the gnomes are on your property",
+          "es": "Señale que los gnomos están en su propiedad",
+          "ja": "小人の置物があなたの敷地にあることを指摘してください",
+          "ko": "인형이 당신 땅에 있다고 알려 주세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain why the gnomes bother you",
+        "native_translations": {
+          "en": "Explain why the gnomes bother you",
+          "es": "Explique por qué le molestan los gnomos",
+          "fr": "Expliquez pourquoi les nains vous dérangent",
+          "de": "Erklären Sie, warum die Zwerge Sie stören",
+          "it": "Spiega perché i nani ti danno fastidio",
+          "pl": "Wyjaśnij, dlaczego krasnale ci przeszkadzają",
+          "pt": "Explique por que os anões te incomodam",
+          "nl": "Leg uit waarom de kabouters je storen",
+          "hr": "Objasni zašto ti patuljci smetaju",
+          "tr": "Cücelerin sizi neden rahatsız ettiğini açıklayın",
+          "uk": "Поясни, чому гноми тобі заважають",
+          "ar": "اشرح لماذا تزعجك الأقزام",
+          "hi": "बताइए कि ग्नोम से आपको परेशानी क्यों है",
+          "vi": "Giải thích vì sao tượng lùn làm bạn khó chịu",
+          "id": "Jelaskan kenapa kurcaci itu mengganggumu",
+          "ms": "Terangkan mengapa patung gnome itu mengganggu anda",
+          "ko": "인형이 왜 신경 쓰이는지 설명하세요"
+        },
+        "practice": "Explique por qué le molestan los gnomos",
+        "practice_translations": {
+          "en": "Explain why the gnomes bother you",
+          "es": "Explique por qué le molestan los gnomos",
+          "ja": "小人の置物が気になる理由を説明してください",
+          "ko": "인형이 왜 신경 쓰이는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the neighbor to move them back",
+        "native_translations": {
+          "en": "Ask the neighbor to move them back",
+          "es": "Pida al vecino que los devuelva a su lado",
+          "fr": "Demandez au voisin de les reprendre de son côté",
+          "de": "Bitten Sie darum, sie zurückzustellen",
+          "it": "Chiedi al vicino di riportarli dalla sua parte",
+          "pl": "Poproś sąsiada, żeby je zabrał",
+          "pt": "Peça ao vizinho que leve os anões de volta",
+          "nl": "Vraag de buurman ze terug te zetten",
+          "hr": "Zamoli susjeda da ih vrati natrag",
+          "tr": "Komşunuzdan onları geri almasını isteyin",
+          "uk": "Попроси сусіда перенести їх назад",
+          "ar": "اطلب من الجار إعادتها إلى جانبه",
+          "hi": "पड़ोसी से उन्हें वापस ले जाने को कहिए",
+          "vi": "Nhờ hàng xóm dời chúng về chỗ cũ",
+          "id": "Minta tetangga memindahkannya kembali",
+          "ms": "Minta jiran mengalihkannya semula",
+          "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하세요"
+        },
+        "practice": "Pida al vecino que los devuelva a su lado",
+        "practice_translations": {
+          "en": "Ask the neighbor to move them back",
+          "es": "Pida al vecino que los devuelva a su lado",
+          "ja": "元の場所に戻すようお願いしてください",
+          "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest a place where the gnomes can stay",
+        "native_translations": {
+          "en": "Suggest a place where the gnomes can stay",
+          "es": "Sugiera un lugar donde puedan quedarse los gnomos",
+          "fr": "Proposez un endroit où les nains peuvent rester",
+          "de": "Schlagen Sie einen Platz für die Zwerge vor",
+          "it": "Proponi un posto dove i nani possono stare",
+          "pl": "Zaproponuj miejsce, w którym krasnale mogą stać",
+          "pt": "Sugira um lugar onde os anões possam ficar",
+          "nl": "Stel een plek voor waar de kabouters kunnen blijven",
+          "hr": "Predloži mjesto gdje patuljci mogu stajati",
+          "tr": "Cücelerin durabileceği bir yer önerin",
+          "uk": "Запропонуй місце, де гноми можуть стояти",
+          "ar": "اقترح مكانًا يمكن أن تبقى فيه الأقزام",
+          "hi": "ग्नोम रखने के लिए कोई जगह सुझाइए",
+          "vi": "Gợi ý một chỗ có thể để tượng lùn",
+          "id": "Usulkan tempat untuk menaruh kurcaci itu",
+          "ms": "Cadangkan tempat untuk patung gnome itu",
+          "ko": "인형을 둘 만한 곳을 제안하세요"
+        },
+        "practice": "Sugiera un lugar donde puedan quedarse los gnomos",
+        "practice_translations": {
+          "en": "Suggest a place where the gnomes can stay",
+          "es": "Sugiera un lugar donde puedan quedarse los gnomos",
+          "ja": "小人の置物を置ける場所を提案してください",
+          "ko": "인형을 둘 만한 곳을 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I think some of your gnomes ended up in my yard.",
+      "native_translations": {
+        "en": "I think some of your gnomes ended up in my yard.",
+        "es": "Creo que algunos de sus gnomos terminaron en mi jardín.",
+        "fr": "Je crois que certains de vos nains ont atterri dans mon jardin.",
+        "de": "Ich glaube, ein paar Ihrer Zwerge sind in meinem Garten gelandet.",
+        "it": "Credo che alcuni dei tuoi nani siano finiti nel mio giardino.",
+        "pl": "Chyba część pana krasnali wylądowała w moim ogródku.",
+        "pt": "Acho que alguns dos seus anões foram parar no meu quintal.",
+        "nl": "Ik denk dat een paar van uw kabouters in mijn tuin terecht zijn gekomen.",
+        "hr": "Mislim da su neki Vaši patuljci završili u mom dvorištu.",
+        "tr": "Sanırım cücelerinizden bazıları benim bahçeme gelmiş.",
+        "uk": "Здається, деякі твої гноми опинилися в моєму дворі.",
+        "ar": "أظن أن بعض أقزامك انتهى بها المطاف في فنائي.",
+        "hi": "मुझे लगता है आपके कुछ ग्नोम मेरे आँगन में आ गए हैं।",
+        "vi": "Hình như vài chú lùn của anh/chị lạc sang sân nhà tôi rồi.",
+        "id": "Sepertinya beberapa kurcaci Anda nyasar ke halaman saya.",
+        "ms": "Saya rasa sebahagian patung gnome awak masuk ke halaman saya.",
+        "ko": "요정 인형 몇 개가 저희 마당에 와 있는 것 같아요."
+      },
+      "practice": "Creo que algunos de sus gnomos terminaron en mi jardín.",
+      "practice_translations": {
+        "en": "I think some of your gnomes ended up in my yard.",
+        "es": "Creo que algunos de sus gnomos terminaron en mi jardín.",
+        "ja": "お宅の小人の置物がいくつか、うちの庭に来ているみたいなんです。",
+        "ko": "요정 인형 몇 개가 저희 마당에 와 있는 것 같아요."
+      }
+    },
+    {
+      "native": "Honestly, they're a little creepy at night.",
+      "native_translations": {
+        "en": "Honestly, they're a little creepy at night.",
+        "es": "Sinceramente, dan un poco de miedo por la noche.",
+        "fr": "Honnêtement, ils sont un peu flippants la nuit.",
+        "de": "Ehrlich gesagt sind sie nachts ein bisschen unheimlich.",
+        "it": "Sinceramente, di notte fanno un po' paura.",
+        "pl": "Szczerze mówiąc, w nocy są trochę straszne.",
+        "pt": "Sinceramente, eles são meio assustadores à noite.",
+        "nl": "Eerlijk gezegd zijn ze 's nachts een beetje eng.",
+        "hr": "Iskreno, noću su malo jezivi.",
+        "tr": "Açıkçası geceleri biraz ürkütücü görünüyorlar.",
+        "uk": "Чесно кажучи, уночі вони трохи моторошні.",
+        "ar": "بصراحة، إنها مخيفة بعض الشيء في الليل.",
+        "hi": "सच कहूँ तो रात में ये थोड़े डरावने लगते हैं।",
+        "vi": "Nói thật, ban đêm nhìn chúng hơi rợn.",
+        "id": "Jujur saja, mereka agak menyeramkan kalau malam.",
+        "ms": "Terus terang, ia agak menyeramkan pada waktu malam.",
+        "ko": "솔직히 밤에는 좀 무서워요."
+      },
+      "practice": "Sinceramente, dan un poco de miedo por la noche.",
+      "practice_translations": {
+        "en": "Honestly, they're a little creepy at night.",
+        "es": "Sinceramente, dan un poco de miedo por la noche.",
+        "ja": "正直に言うと、夜はちょっと不気味なんです。",
+        "ko": "솔직히 밤에는 좀 무서워요."
+      }
+    },
+    {
+      "native": "Would you mind moving them back to your side?",
+      "native_translations": {
+        "en": "Would you mind moving them back to your side?",
+        "es": "¿Le importaría pasarlos de nuevo a su lado?",
+        "fr": "Est-ce que ça vous dérangerait de les remettre de votre côté ?",
+        "de": "Würde es Ihnen etwas ausmachen, sie wieder auf Ihre Seite zu stellen?",
+        "it": "Ti dispiacerebbe riportarli dalla tua parte?",
+        "pl": "Czy mógłby pan przenieść je z powrotem na swoją stronę?",
+        "pt": "Você se importaria de levá-los de volta para o seu lado?",
+        "nl": "Zou u ze terug willen zetten aan uw kant?",
+        "hr": "Biste li ih mogli vratiti na svoju stranu?",
+        "tr": "Onları kendi tarafınıza geri alabilir misiniz?",
+        "uk": "Можеш перенести їх назад на свій бік?",
+        "ar": "هل تمانع في إعادتها إلى جانبك؟",
+        "hi": "क्या आप इन्हें वापस अपनी तरफ़ रख देंगे?",
+        "vi": "Anh/chị có thể dời chúng về phía nhà mình được không?",
+        "id": "Apakah Anda keberatan memindahkannya ke sisi Anda?",
+        "ms": "Boleh awak alihkan semula ke sebelah awak?",
+        "ko": "그쪽으로 다시 옮겨 주실 수 있을까요?"
+      },
+      "practice": "¿Le importaría pasarlos de nuevo a su lado?",
+      "practice_translations": {
+        "en": "Would you mind moving them back to your side?",
+        "es": "¿Le importaría pasarlos de nuevo a su lado?",
+        "ja": "お宅の側に戻していただけませんか。",
+        "ko": "그쪽으로 다시 옮겨 주실 수 있을까요?"
+      }
+    },
+    {
+      "native": "Maybe they could stay next to your front door.",
+      "native_translations": {
+        "en": "Maybe they could stay next to your front door.",
+        "es": "Tal vez podrían quedarse junto a su puerta principal.",
+        "fr": "Ils pourraient peut-être rester à côté de votre porte d'entrée.",
+        "de": "Vielleicht könnten sie neben Ihrer Haustür stehen.",
+        "it": "Magari potrebbero stare accanto alla tua porta d'ingresso.",
+        "pl": "Może mogłyby stać przy pana drzwiach wejściowych?",
+        "pt": "Talvez eles possam ficar ao lado da sua porta de entrada.",
+        "nl": "Misschien kunnen ze naast uw voordeur staan.",
+        "hr": "Možda bi mogli stajati pokraj Vaših ulaznih vrata.",
+        "tr": "Belki ön kapınızın yanında durabilirler.",
+        "uk": "Може, вони постоять біля твоїх вхідних дверей?",
+        "ar": "ربما يمكن أن تبقى بجانب بابك الأمامي.",
+        "hi": "शायद ये आपके मेन दरवाज़े के पास रह सकते हैं।",
+        "vi": "Có lẽ để chúng cạnh cửa trước nhà anh/chị thì hợp hơn.",
+        "id": "Mungkin mereka bisa ditaruh di dekat pintu depan Anda.",
+        "ms": "Mungkin ia boleh diletakkan di sebelah pintu depan awak.",
+        "ko": "현관문 옆에 두시면 어떨까요?"
+      },
+      "practice": "Tal vez podrían quedarse junto a su puerta principal.",
+      "practice_translations": {
+        "en": "Maybe they could stay next to your front door.",
+        "es": "Tal vez podrían quedarse junto a su puerta principal.",
+        "ja": "玄関の横に置いてはどうでしょうか。",
+        "ko": "현관문 옆에 두시면 어떨까요?"
+      }
+    }
+  ]
+}

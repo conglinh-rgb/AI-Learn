@@ -1,0 +1,289 @@
+{
+  "id": "immigration_dealing_with_uscis_matters_c1",
+  "title": "Moving Your Biometrics Appointment",
+  "title_translations": {
+    "en": "Moving Your Biometrics Appointment",
+    "es": "Cambiar su cita de biometría",
+    "fr": "Déplacer son rendez-vous biométrique",
+    "de": "Den Biometrie-Termin verschieben",
+    "it": "Spostare l'appuntamento per i dati biometrici",
+    "pl": "Przełożenie wizyty biometrycznej",
+    "pt": "Remarcando a coleta de biometria",
+    "nl": "Je biometrie-afspraak verzetten",
+    "hr": "Pomicanje termina za biometriju",
+    "tr": "Biyometri Randevunuzu Ertelemek",
+    "uk": "Перенесення запису на біометрію",
+    "ar": "تغيير موعد البصمات",
+    "hi": "बायोमेट्रिक्स अपॉइंटमेंट बदलवाना",
+    "vi": "Dời lịch hẹn lấy sinh trắc học",
+    "id": "Memindahkan Jadwal Biometrik",
+    "ms": "Menukar Temu Janji Biometrik Anda",
+    "ko": "생체 정보 등록 예약 변경하기"
+  },
+  "character": "fox",
+  "scenario": "You can't attend your biometrics appointment next week because of a medical procedure. You call the contact center, and an agent (AI) answers.",
+  "scenario_translations": {
+    "en": "You can't attend your biometrics appointment next week because of a medical procedure. You call the contact center, and an agent (AI) answers.",
+    "es": "No puede asistir a su cita de biometría la próxima semana por un procedimiento médico. Llama al centro de contacto y le atiende un agente (AI).",
+    "fr": "Vous ne pouvez pas vous rendre à votre rendez-vous biométrique la semaine prochaine à cause d'une intervention médicale. Vous appelez le centre de contact, et un agent (AI) vous répond.",
+    "de": "Wegen eines medizinischen Eingriffs können Sie Ihren Biometrie-Termin nächste Woche nicht wahrnehmen. Sie rufen das Kontaktzentrum an, und ein Mitarbeiter (AI) meldet sich.",
+    "it": "La settimana prossima non puoi presentarti all'appuntamento per i dati biometrici a causa di un intervento medico. Chiami il centro assistenza e risponde un operatore (AI).",
+    "pl": "Nie możesz przyjść na wizytę biometryczną w przyszłym tygodniu z powodu zabiegu medycznego. Dzwonisz na infolinię i odbiera konsultant (AI).",
+    "pt": "Você não pode ir à sua coleta de biometria na semana que vem por causa de um procedimento médico. Você liga para a central de atendimento, e um atendente (AI) atende.",
+    "nl": "Je kunt volgende week niet naar je biometrie-afspraak vanwege een medische ingreep. Je belt het contactcenter en een medewerker (AI) neemt op.",
+    "hr": "Sljedeći tjedan ne možeš doći na termin za biometriju zbog medicinskog zahvata. Zoveš kontaktni centar i javlja se službenik (AI).",
+    "tr": "Tıbbi bir işlem nedeniyle gelecek haftaki biyometri randevunuza gidemiyorsunuz. Çağrı merkezini arıyorsunuz ve bir temsilci (AI) cevap veriyor.",
+    "uk": "Ти не можеш прийти на здачу біометрії наступного тижня через медичну процедуру. Ти телефонуєш у контакт-центр, і тобі відповідає оператор (AI).",
+    "ar": "لا يمكنك حضور موعد البصمات الأسبوع القادم بسبب إجراء طبي. تتصل بمركز الاتصال، ويرد عليك موظف (AI).",
+    "hi": "एक मेडिकल प्रक्रिया की वजह से आप अगले हफ़्ते अपने बायोमेट्रिक्स अपॉइंटमेंट पर नहीं जा सकते। आप कॉन्टैक्ट सेंटर में फ़ोन करते हैं, और एक एजेंट (AI) जवाब देते हैं।",
+    "vi": "Bạn không thể đến buổi hẹn lấy sinh trắc học tuần sau vì phải làm một thủ thuật y tế. Bạn gọi đến trung tâm liên lạc và một nhân viên (AI) nghe máy.",
+    "id": "Kamu tidak bisa datang ke janji biometrik minggu depan karena ada tindakan medis. Kamu menelepon pusat layanan, dan seorang petugas (AI) menjawab.",
+    "ms": "Anda tidak dapat hadir ke temu janji biometrik minggu depan kerana prosedur perubatan. Anda menelefon pusat panggilan, dan seorang ejen (AI) menjawab.",
+    "ko": "다음 주에 의료 시술이 있어서 생체 정보 등록 예약에 갈 수 없습니다. 고객센터에 전화하자 상담원(AI)이 받습니다."
+  },
+  "mission": {
+    "native": "Explain why you can't attend and ask to reschedule your biometrics appointment.",
+    "native_translations": {
+      "en": "Explain why you can't attend and ask to reschedule your biometrics appointment.",
+      "es": "Explique por qué no puede asistir y pida reprogramar su cita de datos biométricos.",
+      "fr": "Expliquez pourquoi vous ne pouvez pas venir et demandez à reporter votre rendez-vous biométrique.",
+      "de": "Erklären Sie, warum Sie nicht kommen können, und bitten Sie darum, Ihren Biometrie-Termin zu verschieben.",
+      "it": "Spiega perché non puoi presentarti e chiedi di spostare l'appuntamento per i dati biometrici.",
+      "pl": "Wyjaśnij, dlaczego nie możesz przyjść, i poproś o przełożenie wizyty biometrycznej.",
+      "pt": "Explique por que você não pode comparecer e peça para remarcar a coleta de biometria.",
+      "nl": "Leg uit waarom je niet kunt komen en vraag of je biometrie-afspraak verzet kan worden.",
+      "hr": "Objasni zašto ne možeš doći i zatraži novi termin za biometriju.",
+      "tr": "Neden gidemeyeceğinizi açıklayın ve biyometri randevunuzun başka bir tarihe alınmasını isteyin.",
+      "uk": "Поясни, чому не можеш прийти, і попроси перенести запис на біометрію.",
+      "ar": "اشرح لماذا لا يمكنك الحضور واطلب تغيير موعد البصمات.",
+      "hi": "बताइए कि आप क्यों नहीं आ सकते और अपना बायोमेट्रिक्स अपॉइंटमेंट दोबारा तय करवाइए।",
+      "vi": "Giải thích lý do bạn không thể đến và xin dời lịch hẹn lấy sinh trắc học.",
+      "id": "Jelaskan kenapa kamu tidak bisa datang dan minta jadwal ulang untuk janji biometrikmu.",
+      "ms": "Terangkan sebab anda tidak dapat hadir dan minta untuk menjadualkan semula temu janji biometrik anda.",
+      "ko": "갈 수 없는 이유를 설명하고 생체 정보 등록 예약을 변경해 달라고 하세요."
+    },
+    "practice": "Explique por qué no puede asistir y pida reprogramar su cita de datos biométricos.",
+    "practice_translations": {
+      "en": "Explain why you can't attend and ask to reschedule your biometrics appointment.",
+      "es": "Explique por qué no puede asistir y pida reprogramar su cita de datos biométricos.",
+      "ja": "行けない理由を説明して、生体情報登録の予約を変更してもらってください。",
+      "ko": "갈 수 없는 이유를 설명하고 생체 정보 등록 예약을 변경해 달라고 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you need to reschedule your appointment",
+        "native_translations": {
+          "en": "Say you need to reschedule your appointment",
+          "es": "Diga que necesita reprogramar su cita",
+          "fr": "Dites que vous devez reporter votre rendez-vous",
+          "de": "Sagen Sie, dass Sie Ihren Termin verschieben müssen",
+          "it": "Di' che devi spostare l'appuntamento",
+          "pl": "Powiedz, że musisz przełożyć wizytę",
+          "pt": "Diga que precisa remarcar seu agendamento",
+          "nl": "Zeg dat je je afspraak moet verzetten",
+          "hr": "Reci da trebaš pomaknuti termin",
+          "tr": "Randevunuzu değiştirmeniz gerektiğini söyleyin",
+          "uk": "Скажи, що тобі треба перенести запис",
+          "ar": "قل إنك تحتاج إلى تغيير موعدك",
+          "hi": "कहिए कि आपको अपना अपॉइंटमेंट बदलवाना है",
+          "vi": "Nói rằng bạn cần dời lịch hẹn",
+          "id": "Katakan bahwa kamu perlu menjadwal ulang janji temumu",
+          "ms": "Katakan anda perlu menjadualkan semula temu janji",
+          "ko": "예약을 변경해야 한다고 말하세요"
+        },
+        "practice": "Diga que necesita reprogramar su cita",
+        "practice_translations": {
+          "en": "Say you need to reschedule your appointment",
+          "es": "Diga que necesita reprogramar su cita",
+          "ja": "予約を変更したいと伝えてください",
+          "ko": "예약을 변경해야 한다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain why you can't attend",
+        "native_translations": {
+          "en": "Explain why you can't attend",
+          "es": "Explique por qué no puede asistir",
+          "fr": "Expliquez pourquoi vous ne pouvez pas venir",
+          "de": "Erklären Sie, warum Sie nicht kommen können",
+          "it": "Spiega perché non puoi presentarti",
+          "pl": "Wyjaśnij, dlaczego nie możesz przyjść",
+          "pt": "Explique por que você não pode comparecer",
+          "nl": "Leg uit waarom je niet kunt komen",
+          "hr": "Objasni zašto ne možeš doći",
+          "tr": "Neden gidemeyeceğinizi açıklayın",
+          "uk": "Поясни, чому не можеш прийти",
+          "ar": "اشرح لماذا لا يمكنك الحضور",
+          "hi": "बताइए कि आप क्यों नहीं आ सकते",
+          "vi": "Giải thích lý do bạn không thể đến",
+          "id": "Jelaskan kenapa kamu tidak bisa datang",
+          "ms": "Terangkan sebab anda tidak dapat hadir",
+          "ko": "갈 수 없는 이유를 설명하세요"
+        },
+        "practice": "Explique por qué no puede asistir",
+        "practice_translations": {
+          "en": "Explain why you can't attend",
+          "es": "Explique por qué no puede asistir",
+          "ja": "行けない理由を説明してください",
+          "ko": "갈 수 없는 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about a new available date",
+        "native_translations": {
+          "en": "Ask about a new available date",
+          "es": "Pregunte por una nueva fecha disponible",
+          "fr": "Demandez une nouvelle date disponible",
+          "de": "Fragen Sie nach einem neuen freien Termin",
+          "it": "Chiedi una nuova data disponibile",
+          "pl": "Zapytaj o nowy wolny termin",
+          "pt": "Pergunte sobre uma nova data disponível",
+          "nl": "Vraag naar een nieuwe beschikbare datum",
+          "hr": "Pitaj za novi slobodan datum",
+          "tr": "Uygun yeni bir tarih sorun",
+          "uk": "Запитай про нову вільну дату",
+          "ar": "اسأل عن موعد جديد متاح",
+          "hi": "कोई नई उपलब्ध तारीख़ पूछिए",
+          "vi": "Hỏi về ngày trống mới",
+          "id": "Tanyakan tanggal baru yang tersedia",
+          "ms": "Tanya tentang tarikh baharu yang ada",
+          "ko": "가능한 새 날짜를 물어보세요"
+        },
+        "practice": "Pregunte por una nueva fecha disponible",
+        "practice_translations": {
+          "en": "Ask about a new available date",
+          "es": "Pregunte por una nueva fecha disponible",
+          "ja": "新しく空いている日を聞いてください",
+          "ko": "가능한 새 날짜를 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hello, I need to reschedule my biometrics appointment.",
+      "native_translations": {
+        "en": "Hello, I need to reschedule my biometrics appointment.",
+        "es": "Hola, necesito reprogramar mi cita de datos biométricos.",
+        "fr": "Bonjour, je dois reporter mon rendez-vous biométrique.",
+        "de": "Hallo, ich muss meinen Biometrie-Termin verschieben.",
+        "it": "Buongiorno, devo spostare il mio appuntamento per i dati biometrici.",
+        "pl": "Dzień dobry, muszę przełożyć wizytę biometryczną.",
+        "pt": "Olá, preciso remarcar minha coleta de biometria.",
+        "nl": "Hallo, ik moet mijn biometrie-afspraak verzetten.",
+        "hr": "Dobar dan, trebam pomaknuti termin za biometriju.",
+        "tr": "Merhaba, biyometri randevumu değiştirmem gerekiyor.",
+        "uk": "Добрий день, мені потрібно перенести запис на здачу біометрії.",
+        "ar": "مرحبًا، أحتاج إلى تغيير موعد البصمات من فضلك.",
+        "hi": "नमस्ते, मुझे अपना बायोमेट्रिक्स अपॉइंटमेंट बदलवाना है।",
+        "vi": "Xin chào, tôi cần dời lịch hẹn lấy sinh trắc học.",
+        "id": "Halo, saya perlu menjadwal ulang janji biometrik saya.",
+        "ms": "Helo, saya perlu menjadualkan semula temu janji biometrik saya.",
+        "ko": "안녕하세요, 생체 정보 등록 예약을 변경해야 해요."
+      },
+      "practice": "Hola, necesito reprogramar mi cita de datos biométricos.",
+      "practice_translations": {
+        "en": "Hello, I need to reschedule my biometrics appointment.",
+        "es": "Hola, necesito reprogramar mi cita de datos biométricos.",
+        "ja": "もしもし、生体情報登録の予約を変更したいのですが。",
+        "ko": "안녕하세요, 생체 정보 등록 예약을 변경해야 해요."
+      }
+    },
+    {
+      "native": "I have a medical procedure that same day.",
+      "native_translations": {
+        "en": "I have a medical procedure that same day.",
+        "es": "Tengo un procedimiento médico ese mismo día.",
+        "fr": "J'ai une intervention médicale le même jour.",
+        "de": "Ich habe am selben Tag einen medizinischen Eingriff.",
+        "it": "Quel giorno ho un intervento medico.",
+        "pl": "Tego samego dnia mam zabieg medyczny.",
+        "pt": "Tenho um procedimento médico nesse mesmo dia.",
+        "nl": "Ik heb die dag een medische ingreep.",
+        "hr": "Isti dan imam medicinski zahvat.",
+        "tr": "Aynı gün tıbbi bir işlemim var.",
+        "uk": "Того самого дня в мене медична процедура.",
+        "ar": "لدي إجراء طبي في اليوم نفسه.",
+        "hi": "उसी दिन मेरी एक मेडिकल प्रक्रिया है।",
+        "vi": "Đúng hôm đó tôi phải làm một thủ thuật y tế.",
+        "id": "Saya ada tindakan medis di hari yang sama.",
+        "ms": "Saya ada prosedur perubatan pada hari yang sama.",
+        "ko": "그날 의료 시술이 잡혀 있어요."
+      },
+      "practice": "Tengo un procedimiento médico ese mismo día.",
+      "practice_translations": {
+        "en": "I have a medical procedure that same day.",
+        "es": "Tengo un procedimiento médico ese mismo día.",
+        "ja": "その日は医療処置を受ける予定があるんです。",
+        "ko": "그날 의료 시술이 잡혀 있어요."
+      }
+    },
+    {
+      "native": "My appointment is next Tuesday at ten.",
+      "native_translations": {
+        "en": "My appointment is next Tuesday at ten.",
+        "es": "Mi cita es el próximo martes a las diez.",
+        "fr": "Mon rendez-vous est mardi prochain à dix heures.",
+        "de": "Mein Termin ist nächsten Dienstag um zehn Uhr.",
+        "it": "Il mio appuntamento è martedì prossimo alle dieci.",
+        "pl": "Moja wizyta jest w przyszły wtorek o dziesiątej.",
+        "pt": "Meu agendamento é na próxima terça, às dez.",
+        "nl": "Mijn afspraak is volgende week dinsdag om tien uur.",
+        "hr": "Termin mi je sljedeći utorak u deset.",
+        "tr": "Randevum gelecek salı saat onda.",
+        "uk": "Мій запис на наступний вівторок о десятій.",
+        "ar": "موعدي يوم الثلاثاء القادم في العاشرة.",
+        "hi": "मेरा अपॉइंटमेंट अगले मंगलवार को दस बजे है।",
+        "vi": "Lịch hẹn của tôi là mười giờ sáng thứ Ba tuần sau.",
+        "id": "Janji saya hari Selasa depan jam sepuluh.",
+        "ms": "Temu janji saya pada hari Selasa depan pukul sepuluh.",
+        "ko": "제 예약은 다음 주 화요일 10시예요."
+      },
+      "practice": "Mi cita es el próximo martes a las diez.",
+      "practice_translations": {
+        "en": "My appointment is next Tuesday at ten.",
+        "es": "Mi cita es el próximo martes a las diez.",
+        "ja": "予約は来週の火曜日の10時です。",
+        "ko": "제 예약은 다음 주 화요일 10시예요."
+      }
+    },
+    {
+      "native": "What is the next available date?",
+      "native_translations": {
+        "en": "What is the next available date?",
+        "es": "¿Cuál es la próxima fecha disponible?",
+        "fr": "Quelle est la prochaine date disponible ?",
+        "de": "Wann ist der nächste freie Termin?",
+        "it": "Qual è la prossima data disponibile?",
+        "pl": "Jaki jest najbliższy wolny termin?",
+        "pt": "Qual é a próxima data disponível?",
+        "nl": "Wat is de eerstvolgende beschikbare datum?",
+        "hr": "Koji je prvi slobodan datum?",
+        "tr": "En yakın uygun tarih ne zaman?",
+        "uk": "Яка найближча вільна дата?",
+        "ar": "ما أقرب موعد متاح؟",
+        "hi": "अगली उपलब्ध तारीख़ कौन-सी है?",
+        "vi": "Ngày trống gần nhất là ngày nào?",
+        "id": "Kapan tanggal terdekat yang tersedia?",
+        "ms": "Bilakah tarikh terdekat yang ada?",
+        "ko": "가장 빠른 가능한 날짜가 언제예요?"
+      },
+      "practice": "¿Cuál es la próxima fecha disponible?",
+      "practice_translations": {
+        "en": "What is the next available date?",
+        "es": "¿Cuál es la próxima fecha disponible?",
+        "ja": "次に空いている日はいつですか。",
+        "ko": "가장 빠른 가능한 날짜가 언제예요?"
+      }
+    }
+  ]
+}

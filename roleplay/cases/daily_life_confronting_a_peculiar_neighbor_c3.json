@@ -1,0 +1,351 @@
+{
+  "id": "daily_life_confronting_a_peculiar_neighbor_c3",
+  "title": "The Rooftop Rooster Standoff",
+  "title_translations": {
+    "en": "The Rooftop Rooster Standoff",
+    "es": "El pleito del gallo en la azotea",
+    "fr": "Bras de fer autour du coq",
+    "de": "Der Hahn auf dem Balkon",
+    "it": "Sfida per il gallo sul terrazzo",
+    "pl": "Pojedynek o koguta na dachu",
+    "pt": "O impasse do galo no terraço",
+    "nl": "De haan op het dak",
+    "hr": "Obračun s pijetlom na balkonu",
+    "tr": "Çatıdaki Horoz Krizi",
+    "uk": "Протистояння з півнем на балконі",
+    "ar": "مواجهة ديك السطح",
+    "hi": "छत पर मुर्गे की तनातनी",
+    "vi": "Cuộc đối đầu với chú gà trống trên sân thượng",
+    "id": "Adu Argumen soal Ayam Jago di Atap",
+    "ms": "Pertelingkahan Ayam Jantan di Balkoni",
+    "ko": "옥상 수탉 대치 상황"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your neighbor (AI) keeps a rooster on the balcony that crows at 5 a.m. every day. When you bring it up, the neighbor gets defensive and calls it an \"emotional support rooster.\"",
+  "scenario_translations": {
+    "en": "Your neighbor (AI) keeps a rooster on the balcony that crows at 5 a.m. every day. When you bring it up, the neighbor gets defensive and calls it an \"emotional support rooster.\"",
+    "es": "Su vecino (AI) tiene en el balcón un gallo que canta todos los días a las 5 a. m. Cuando usted saca el tema, se pone a la defensiva y dice que es un \"gallo de apoyo emocional\".",
+    "fr": "Votre voisin (AI) garde sur son balcon un coq qui chante tous les jours à 5 h du matin. Quand vous abordez le sujet, il se braque et parle de « coq de soutien émotionnel ».",
+    "de": "Ihre Nachbarin bzw. Ihr Nachbar (AI) hält auf dem Balkon einen Hahn, der jeden Tag um 5 Uhr kräht. Als Sie es ansprechen, reagiert die Person gereizt und nennt ihn einen „emotionalen Unterstützungshahn“.",
+    "it": "Il tuo vicino (AI) tiene sul balcone un gallo che canta ogni giorno alle 5 del mattino. Quando tiri fuori l'argomento, si mette sulla difensiva e lo chiama \"gallo di supporto emotivo\".",
+    "pl": "Twój sąsiad (AI) trzyma na balkonie koguta, który pieje codziennie o piątej rano. Kiedy o tym wspominasz, sąsiad przyjmuje postawę obronną i nazywa go „kogutem wsparcia emocjonalnego”.",
+    "pt": "Seu vizinho (AI) cria um galo na varanda que canta às 5 da manhã todos os dias. Quando você toca no assunto, o vizinho fica na defensiva e diz que é um \"galo de apoio emocional\".",
+    "nl": "Je buurman (AI) houdt op zijn balkon een haan die elke dag om 5 uur 's ochtends kraait. Als je erover begint, wordt de buurman defensief en noemt het een 'emotionele steunhaan'.",
+    "hr": "Tvoj susjed (AI) drži na balkonu pijetla koji svaki dan kukuriče u 5 ujutro. Kad to spomeneš, susjed se brani i naziva ga „pijetlom za emocionalnu podršku”.",
+    "tr": "Komşunuz (AI) balkonda her gün sabah 5'te öten bir horoz besliyor. Konuyu açtığınızda komşunuz savunmaya geçiyor ve ona \"duygusal destek horozu\" diyor.",
+    "uk": "Твій сусід (AI) тримає на балконі півня, який щодня кукурікає о 5-й ранку. Коли ти заводиш про це мову, сусід захищається й називає його «півнем емоційної підтримки».",
+    "ar": "يربّي جارك (AI) ديكًا على الشرفة يصيح في الخامسة فجرًا كل يوم. عندما تفتح الموضوع، يتخذ الجار موقفًا دفاعيًا ويسميه «ديك الدعم العاطفي».",
+    "hi": "आपका पड़ोसी (AI) बालकनी में एक मुर्गा रखता है जो रोज़ सुबह 5 बजे बाँग देता है। जब आप यह बात उठाते हैं, तो पड़ोसी भड़क जाता है और उसे \"इमोशनल सपोर्ट मुर्गा\" बताता है।",
+    "vi": "Hàng xóm (AI) nuôi một con gà trống ngoài ban công, sáng nào cũng gáy lúc 5 giờ. Khi bạn nhắc chuyện này, hàng xóm tỏ ra phòng thủ và gọi nó là \"gà trống hỗ trợ tinh thần\".",
+    "id": "Tetanggamu (AI) memelihara ayam jago di balkon yang berkokok jam 5 pagi setiap hari. Saat kamu membahasnya, tetanggamu jadi defensif dan menyebutnya \"ayam jago pendukung emosional\".",
+    "ms": "Jiran anda (AI) memelihara seekor ayam jantan di balkoni yang berkokok pada pukul 5 pagi setiap hari. Apabila anda menyebutnya, jiran itu jadi defensif dan memanggilnya \"ayam jantan sokongan emosi.\"",
+    "ko": "이웃(AI)이 발코니에서 수탉을 키우는데, 매일 새벽 5시에 울어요. 이 얘기를 꺼내자 이웃은 방어적으로 나오며 \"정서 지원 수탉\"이라고 해요."
+  },
+  "mission": {
+    "native": "Negotiate a solution with your defensive neighbor without starting a feud.",
+    "native_translations": {
+      "en": "Negotiate a solution with your defensive neighbor without starting a feud.",
+      "es": "Negocie una solución con su vecino a la defensiva sin empezar una pelea.",
+      "fr": "Négociez une solution avec votre voisin sur la défensive sans déclencher de conflit.",
+      "de": "Handeln Sie eine Lösung aus, ohne einen Nachbarschaftsstreit anzufangen.",
+      "it": "Trova una soluzione con il tuo vicino permaloso senza scatenare una faida.",
+      "pl": "Wynegocjuj rozwiązanie z drażliwym sąsiadem, nie wszczynając wojny.",
+      "pt": "Negocie uma solução com seu vizinho na defensiva sem começar uma briga.",
+      "nl": "Onderhandel over een oplossing met je defensieve buurman zonder een ruzie te beginnen.",
+      "hr": "Dogovori rješenje sa susjedom koji se brani, a da ne započneš svađu.",
+      "tr": "Savunmaya geçen komşunuzla kavga çıkarmadan bir çözüm için pazarlık yapın.",
+      "uk": "Домовся з сусідом, який захищається, і не посварися з ним.",
+      "ar": "تفاوض على حل مع جارك الدفاعي دون أن تبدأ خلافًا.",
+      "hi": "बिना झगड़ा बढ़ाए, भड़के हुए पड़ोसी के साथ कोई हल निकालिए।",
+      "vi": "Thương lượng giải pháp với người hàng xóm đang phòng thủ mà không gây mâu thuẫn.",
+      "id": "Cari solusi bersama tetanggamu yang defensif tanpa memicu permusuhan.",
+      "ms": "Rundingkan penyelesaian dengan jiran yang defensif tanpa mencetuskan permusuhan.",
+      "ko": "싸움을 만들지 않고 방어적인 이웃과 해결책을 협상하세요."
+    },
+    "practice": "Negocie una solución con su vecino a la defensiva sin empezar una pelea.",
+    "practice_translations": {
+      "en": "Negotiate a solution with your defensive neighbor without starting a feud.",
+      "es": "Negocie una solución con su vecino a la defensiva sin empezar una pelea.",
+      "ja": "けんかにならないように、ムキになっている隣人と解決策を話し合ってください。",
+      "ko": "싸움을 만들지 않고 방어적인 이웃과 해결책을 협상하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Raise the problem of the early crowing politely",
+        "native_translations": {
+          "en": "Raise the problem of the early crowing politely",
+          "es": "Mencione con cortesía el problema del canto temprano",
+          "fr": "Évoquez poliment le problème du chant matinal",
+          "de": "Sprechen Sie das frühe Krähen höflich an",
+          "it": "Solleva con gentilezza il problema del canto all'alba",
+          "pl": "Grzecznie porusz problem porannego piania",
+          "pt": "Levante com educação o problema do canto de madrugada",
+          "nl": "Breng het vroege gekraai beleefd ter sprake",
+          "hr": "Pristojno iznesi problem ranog kukurikanja",
+          "tr": "Erken ötme sorununu kibarca dile getirin",
+          "uk": "Ввічливо підніми проблему раннього кукурікання",
+          "ar": "اطرح مشكلة الصياح المبكر بأدب",
+          "hi": "सुबह-सुबह बाँग की समस्या विनम्रता से उठाइए",
+          "vi": "Lịch sự nêu vấn đề gà gáy quá sớm",
+          "id": "Sampaikan masalah kokok pagi-pagi dengan sopan",
+          "ms": "Bangkitkan masalah kokokan awal pagi dengan sopan",
+          "ko": "새벽에 우는 문제를 정중하게 꺼내세요"
+        },
+        "practice": "Mencione con cortesía el problema del canto temprano",
+        "practice_translations": {
+          "en": "Raise the problem of the early crowing politely",
+          "es": "Mencione con cortesía el problema del canto temprano",
+          "ja": "朝早く鳴く問題を丁寧に切り出してください",
+          "ko": "새벽에 우는 문제를 정중하게 꺼내세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Show that you understand why the rooster matters",
+        "native_translations": {
+          "en": "Show that you understand why the rooster matters",
+          "es": "Muestre que entiende por qué el gallo es importante",
+          "fr": "Montrez que vous comprenez l'importance du coq",
+          "de": "Zeigen Sie Verständnis dafür, wie wichtig der Hahn ist",
+          "it": "Mostra di capire perché il gallo è importante per lui",
+          "pl": "Pokaż, że rozumiesz, dlaczego kogut jest dla niego ważny",
+          "pt": "Mostre que você entende por que o galo é importante",
+          "nl": "Laat zien dat je begrijpt waarom de haan belangrijk is",
+          "hr": "Pokaži da razumiješ zašto mu je pijetao važan",
+          "tr": "Horozun neden önemli olduğunu anladığınızı gösterin",
+          "uk": "Покажи, що розумієш, чому півень важливий",
+          "ar": "أظهر أنك تفهم أهمية الديك بالنسبة إليه",
+          "hi": "दिखाइए कि आप समझते हैं कि मुर्गा उनके लिए क्यों ज़रूरी है",
+          "vi": "Cho thấy bạn hiểu vì sao con gà quan trọng với họ",
+          "id": "Tunjukkan bahwa kamu paham kenapa ayam itu penting baginya",
+          "ms": "Tunjukkan bahawa anda faham mengapa ayam jantan itu penting",
+          "ko": "수탉이 왜 소중한지 이해한다고 말하세요"
+        },
+        "practice": "Muestre que entiende por qué el gallo es importante",
+        "practice_translations": {
+          "en": "Show that you understand why the rooster matters",
+          "es": "Muestre que entiende por qué el gallo es importante",
+          "ja": "おんどりが大切なことは理解していると伝えてください",
+          "ko": "수탉이 왜 소중한지 이해한다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Propose a compromise, like a covered cage at night",
+        "native_translations": {
+          "en": "Propose a compromise, like a covered cage at night",
+          "es": "Proponga un acuerdo, como una jaula cubierta por la noche",
+          "fr": "Proposez un compromis, comme une cage couverte la nuit",
+          "de": "Schlagen Sie einen Kompromiss vor, etwa einen abgedeckten Käfig nachts",
+          "it": "Proponi un compromesso, come una gabbia coperta di notte",
+          "pl": "Zaproponuj kompromis, np. zakrytą klatkę na noc",
+          "pt": "Proponha um acordo, como cobrir a gaiola à noite",
+          "nl": "Stel een compromis voor, zoals een afgedekte kooi 's nachts",
+          "hr": "Predloži kompromis, npr. pokrivenu krletku noću",
+          "tr": "Gece kafesin üstünü örtmek gibi bir orta yol önerin",
+          "uk": "Запропонуй компроміс, наприклад накривати клітку на ніч",
+          "ar": "اقترح حلًا وسطًا، مثل تغطية القفص ليلًا",
+          "hi": "कोई बीच का रास्ता सुझाइए, जैसे रात में ढका हुआ पिंजरा",
+          "vi": "Đề xuất giải pháp dung hòa, như trùm lồng vào ban đêm",
+          "id": "Usulkan jalan tengah, seperti kandang yang ditutup di malam hari",
+          "ms": "Cadangkan kompromi, seperti menutup sangkar pada waktu malam",
+          "ko": "밤에 새장을 덮는 것 같은 타협안을 제안하세요"
+        },
+        "practice": "Proponga un acuerdo, como una jaula cubierta por la noche",
+        "practice_translations": {
+          "en": "Propose a compromise, like a covered cage at night",
+          "es": "Proponga un acuerdo, como una jaula cubierta por la noche",
+          "ja": "夜は小屋にカバーをかけるなどの妥協案を出してください",
+          "ko": "밤에 새장을 덮는 것 같은 타협안을 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a trial period and a follow-up",
+        "native_translations": {
+          "en": "Agree on a trial period and a follow-up",
+          "es": "Acuerden un periodo de prueba y una revisión",
+          "fr": "Convenez d'une période d'essai et d'un point de suivi",
+          "de": "Vereinbaren Sie eine Testphase und ein erneutes Gespräch",
+          "it": "Concordate un periodo di prova e un nuovo confronto",
+          "pl": "Ustalcie okres próbny i ponowną rozmowę",
+          "pt": "Combinem um período de teste e uma nova conversa depois",
+          "nl": "Spreek een proefperiode en een vervolggesprek af",
+          "hr": "Dogovori probno razdoblje i ponovni razgovor",
+          "tr": "Bir deneme süresi ve sonrasında tekrar konuşmak üzere anlaşın",
+          "uk": "Домовтеся про пробний період і наступну розмову",
+          "ar": "اتفقا على فترة تجريبية ومتابعة",
+          "hi": "आज़माने की एक अवधि और बाद में फिर बात करने पर सहमत होइए",
+          "vi": "Thống nhất thời gian thử và hẹn trao đổi lại",
+          "id": "Sepakati masa percobaan dan waktu untuk membahasnya lagi",
+          "ms": "Setuju tentang tempoh percubaan dan perbincangan susulan",
+          "ko": "시험 기간과 다시 이야기할 때를 정하세요"
+        },
+        "practice": "Acuerden un periodo de prueba y una revisión",
+        "practice_translations": {
+          "en": "Agree on a trial period and a follow-up",
+          "es": "Acuerden un periodo de prueba y una revisión",
+          "ja": "お試し期間と後日の確認について決めてください",
+          "ko": "시험 기간과 다시 이야기할 때를 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I don't want to cause any trouble, but we need to talk.",
+      "native_translations": {
+        "en": "I don't want to cause any trouble, but we need to talk.",
+        "es": "No quiero causar problemas, pero tenemos que hablar.",
+        "fr": "Je ne veux pas créer de problème, mais il faut qu'on parle.",
+        "de": "Ich möchte keinen Ärger machen, aber wir müssen reden.",
+        "it": "Non voglio creare problemi, ma dobbiamo parlare.",
+        "pl": "Nie chcę robić problemów, ale musimy porozmawiać.",
+        "pt": "Não quero causar problemas, mas precisamos conversar.",
+        "nl": "Ik wil geen problemen veroorzaken, maar we moeten even praten.",
+        "hr": "Ne želim stvarati probleme, ali moramo razgovarati.",
+        "tr": "Sorun çıkarmak istemiyorum ama konuşmamız gerekiyor.",
+        "uk": "Я не хочу створювати проблем, але нам треба поговорити.",
+        "ar": "لا أريد أن أسبب أي مشكلة، لكننا بحاجة إلى التحدث.",
+        "hi": "मैं कोई परेशानी खड़ी नहीं करना चाहता, लेकिन हमें बात करनी होगी।",
+        "vi": "Tôi không muốn gây rắc rối, nhưng mình cần nói chuyện một chút.",
+        "id": "Saya tidak mau cari masalah, tapi kita perlu bicara.",
+        "ms": "Saya tak mahu timbulkan masalah, tapi kita perlu berbincang.",
+        "ko": "문제를 일으키고 싶진 않지만, 이야기 좀 해야 할 것 같아요."
+      },
+      "practice": "No quiero causar problemas, pero tenemos que hablar.",
+      "practice_translations": {
+        "en": "I don't want to cause any trouble, but we need to talk.",
+        "es": "No quiero causar problemas, pero tenemos que hablar.",
+        "ja": "もめごとを起こしたいわけではないのですが、お話があります。",
+        "ko": "문제를 일으키고 싶진 않지만, 이야기 좀 해야 할 것 같아요."
+      }
+    },
+    {
+      "native": "I understand the rooster is very important to you.",
+      "native_translations": {
+        "en": "I understand the rooster is very important to you.",
+        "es": "Entiendo que el gallo es muy importante para usted.",
+        "fr": "Je comprends que ce coq compte beaucoup pour vous.",
+        "de": "Ich verstehe, dass Ihnen der Hahn sehr wichtig ist.",
+        "it": "Capisco che il gallo sia molto importante per te.",
+        "pl": "Rozumiem, że kogut jest dla pana bardzo ważny.",
+        "pt": "Eu entendo que o galo é muito importante para você.",
+        "nl": "Ik begrijp dat de haan heel belangrijk voor u is.",
+        "hr": "Razumijem da Vam je pijetao jako važan.",
+        "tr": "Horozun sizin için çok önemli olduğunu anlıyorum.",
+        "uk": "Я розумію, що півень дуже важливий для тебе.",
+        "ar": "أتفهم أن الديك مهم جدًا بالنسبة إليك.",
+        "hi": "मैं समझता हूँ कि यह मुर्गा आपके लिए बहुत ज़रूरी है।",
+        "vi": "Tôi hiểu con gà trống rất quan trọng với anh/chị.",
+        "id": "Saya mengerti ayam jago itu sangat penting bagi Anda.",
+        "ms": "Saya faham ayam jantan itu sangat penting bagi awak.",
+        "ko": "수탉이 당신에게 정말 소중하다는 건 이해해요."
+      },
+      "practice": "Entiendo que el gallo es muy importante para usted.",
+      "practice_translations": {
+        "en": "I understand the rooster is very important to you.",
+        "es": "Entiendo que el gallo es muy importante para usted.",
+        "ja": "おんどりがとても大切なのはわかります。",
+        "ko": "수탉이 당신에게 정말 소중하다는 건 이해해요."
+      }
+    },
+    {
+      "native": "The crowing at five a.m. is really hard for me.",
+      "native_translations": {
+        "en": "The crowing at five a.m. is really hard for me.",
+        "es": "El canto a las cinco de la mañana es muy difícil para mí.",
+        "fr": "Le chant à cinq heures du matin, c'est vraiment dur pour moi.",
+        "de": "Das Krähen um fünf Uhr morgens ist wirklich schwer für mich.",
+        "it": "Il canto alle cinque del mattino è davvero pesante per me.",
+        "pl": "Pianie o piątej rano jest dla mnie naprawdę trudne.",
+        "pt": "O canto às cinco da manhã está muito difícil para mim.",
+        "nl": "Het gekraai om vijf uur 's ochtends is echt zwaar voor me.",
+        "hr": "Kukurikanje u pet ujutro mi je stvarno teško.",
+        "tr": "Sabah beşteki ötüşler benim için gerçekten çok zor.",
+        "uk": "Кукурікання о п'ятій ранку — це для мене справді важко.",
+        "ar": "الصياح في الخامسة فجرًا صعب عليّ حقًا.",
+        "hi": "सुबह पाँच बजे की बाँग मेरे लिए सच में बहुत मुश्किल है।",
+        "vi": "Tiếng gáy lúc năm giờ sáng thật sự rất khó chịu với tôi.",
+        "id": "Kokoknya jam lima pagi benar-benar berat buat saya.",
+        "ms": "Kokokan pada pukul lima pagi memang sangat menyusahkan saya.",
+        "ko": "새벽 5시에 우는 건 저한테 정말 힘들어요."
+      },
+      "practice": "El canto a las cinco de la mañana es muy difícil para mí.",
+      "practice_translations": {
+        "en": "The crowing at five a.m. is really hard for me.",
+        "es": "El canto a las cinco de la mañana es muy difícil para mí.",
+        "ja": "朝5時に鳴かれるのは、本当につらいんです。",
+        "ko": "새벽 5시에 우는 건 저한테 정말 힘들어요."
+      }
+    },
+    {
+      "native": "What if you covered the cage at night?",
+      "native_translations": {
+        "en": "What if you covered the cage at night?",
+        "es": "¿Qué tal si cubre la jaula por la noche?",
+        "fr": "Et si vous couvriez la cage la nuit ?",
+        "de": "Wie wäre es, wenn Sie den Käfig nachts abdecken?",
+        "it": "E se coprissi la gabbia di notte?",
+        "pl": "A gdyby pan przykrywał klatkę na noc?",
+        "pt": "E se você cobrisse a gaiola à noite?",
+        "nl": "Wat als u de kooi 's nachts afdekt?",
+        "hr": "Što kažete da noću pokrijete krletku?",
+        "tr": "Gece kafesin üstünü örtseniz nasıl olur?",
+        "uk": "А якщо накривати клітку на ніч?",
+        "ar": "ما رأيك أن تغطي القفص ليلًا؟",
+        "hi": "अगर आप रात में पिंजरा ढक दें तो कैसा रहेगा?",
+        "vi": "Hay là anh/chị trùm lồng lại vào ban đêm nhé?",
+        "id": "Bagaimana kalau kandangnya ditutup saat malam?",
+        "ms": "Bagaimana kalau awak tutup sangkarnya pada waktu malam?",
+        "ko": "밤에 새장을 덮어 두시면 어떨까요?"
+      },
+      "practice": "¿Qué tal si cubre la jaula por la noche?",
+      "practice_translations": {
+        "en": "What if you covered the cage at night?",
+        "es": "¿Qué tal si cubre la jaula por la noche?",
+        "ja": "夜は小屋にカバーをかけていただくのはどうでしょうか。",
+        "ko": "밤에 새장을 덮어 두시면 어떨까요?"
+      }
+    },
+    {
+      "native": "Let's try it for two weeks and see how it goes.",
+      "native_translations": {
+        "en": "Let's try it for two weeks and see how it goes.",
+        "es": "Probemos durante dos semanas y veamos qué tal.",
+        "fr": "Essayons pendant deux semaines et voyons ce que ça donne.",
+        "de": "Lassen Sie es uns zwei Wochen ausprobieren und sehen, wie es läuft.",
+        "it": "Proviamo per due settimane e vediamo come va.",
+        "pl": "Spróbujmy przez dwa tygodnie i zobaczmy, jak będzie.",
+        "pt": "Vamos tentar por duas semanas e ver no que dá.",
+        "nl": "Laten we het twee weken proberen en kijken hoe het gaat.",
+        "hr": "Probajmo tako dva tjedna pa ćemo vidjeti kako ide.",
+        "tr": "İki hafta deneyelim ve nasıl gittiğine bakalım.",
+        "uk": "Давай спробуємо два тижні й подивимося, як буде.",
+        "ar": "لنجرّب ذلك لمدة أسبوعين ونرى كيف تسير الأمور.",
+        "hi": "चलिए दो हफ़्ते ऐसा करके देखते हैं कि कैसा रहता है।",
+        "vi": "Mình thử trong hai tuần rồi xem thế nào nhé.",
+        "id": "Ayo kita coba dua minggu dan lihat hasilnya.",
+        "ms": "Jom kita cuba selama dua minggu dan lihat hasilnya.",
+        "ko": "2주 동안 해 보고 어떤지 봐요."
+      },
+      "practice": "Probemos durante dos semanas y veamos qué tal.",
+      "practice_translations": {
+        "en": "Let's try it for two weeks and see how it goes.",
+        "es": "Probemos durante dos semanas y veamos qué tal.",
+        "ja": "2週間試してみて、様子を見ましょう。",
+        "ko": "2주 동안 해 보고 어떤지 봐요."
+      }
+    }
+  ]
+}

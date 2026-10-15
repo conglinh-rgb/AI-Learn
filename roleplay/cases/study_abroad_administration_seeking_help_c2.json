@@ -1,0 +1,350 @@
+{
+  "id": "study_abroad_administration_seeking_help_c2",
+  "title": "Changing a Course",
+  "title_translations": {
+    "en": "Changing a Course",
+    "es": "Cambiar de materia",
+    "fr": "Changer de cours",
+    "de": "Einen Kurs wechseln",
+    "it": "Cambiare un corso",
+    "pl": "Zmiana przedmiotu",
+    "pt": "Trocando de disciplina",
+    "nl": "Van vak wisselen",
+    "hr": "Promjena kolegija",
+    "tr": "Ders Değiştirmek",
+    "uk": "Зміна курсу",
+    "ar": "تغيير مادة دراسية",
+    "hi": "कोर्स बदलना",
+    "vi": "Đổi môn học",
+    "id": "Mengganti Mata Kuliah",
+    "ms": "Menukar Kursus",
+    "ko": "수강 과목 변경하기"
+  },
+  "character": "fox",
+  "scenario": "Two of your classes are at the same time. Your academic advisor (AI) meets you to fix your schedule.",
+  "scenario_translations": {
+    "en": "Two of your classes are at the same time. Your academic advisor (AI) meets you to fix your schedule.",
+    "es": "Dos de sus clases son a la misma hora. Su asesor académico (AI) se reúne con usted para arreglar su horario.",
+    "fr": "Deux de vos cours ont lieu en même temps. Votre conseiller pédagogique (AI) vous reçoit pour arranger votre emploi du temps.",
+    "de": "Zwei Ihrer Kurse finden zur gleichen Zeit statt. Ihre Studienberaterin (AI) trifft sich mit Ihnen, um Ihren Stundenplan zu regeln.",
+    "it": "Due dei tuoi corsi sono alla stessa ora. Il tuo tutor accademico (AI) ti incontra per sistemare l'orario.",
+    "pl": "Dwoje twoich zajęć odbywa się w tym samym czasie. Twój opiekun naukowy (AI) spotyka się z tobą, żeby poprawić ci plan.",
+    "pt": "Duas das suas aulas são no mesmo horário. Seu orientador acadêmico (AI) se reúne com você para ajustar sua grade.",
+    "nl": "Twee van je vakken zijn op hetzelfde moment. Je studieadviseur (AI) heeft een afspraak met je om je rooster te regelen.",
+    "hr": "Dva kolegija imaš u isto vrijeme. Tvoj akademski savjetnik (AI) sastaje se s tobom da ti srede raspored.",
+    "tr": "İki dersiniz aynı saatte. Akademik danışmanınız (AI) programınızı düzeltmek için sizinle görüşüyor.",
+    "uk": "Дві твої пари збігаються в часі. Академічний радник (AI) зустрічається з тобою, щоб виправити розклад.",
+    "ar": "اثنتان من محاضراتك في الوقت نفسه. يلتقي بك مرشدك الأكاديمي (AI) لتعديل جدولك.",
+    "hi": "आपकी दो क्लास एक ही समय पर हैं। आपके अकादमिक एडवाइज़र (AI) आपका शेड्यूल ठीक करने के लिए आपसे मिलते हैं।",
+    "vi": "Hai môn học của bạn trùng giờ. Cố vấn học tập (AI) gặp bạn để sắp xếp lại thời khóa biểu.",
+    "id": "Dua kelasmu jadwalnya bentrok. Penasihat akademikmu (AI) menemuimu untuk memperbaiki jadwalmu.",
+    "ms": "Dua kelas anda bertembung pada masa yang sama. Penasihat akademik anda (AI) berjumpa dengan anda untuk membetulkan jadual anda.",
+    "ko": "수업 두 개의 시간이 겹칩니다. 지도 교수(AI)가 시간표를 조정하기 위해 당신을 만납니다."
+  },
+  "mission": {
+    "native": "Explain the conflict and find a course that fits your schedule.",
+    "native_translations": {
+      "en": "Explain the conflict and find a course that fits your schedule.",
+      "es": "Explique el conflicto y encuentre un curso que se adapte a su horario.",
+      "fr": "Expliquez le conflit d'horaires et trouvez un cours compatible avec votre emploi du temps.",
+      "de": "Erklären Sie die Überschneidung und finden Sie einen Kurs, der in Ihren Stundenplan passt.",
+      "it": "Spiega la sovrapposizione e trova un corso compatibile con il tuo orario.",
+      "pl": "Wyjaśnij kolizję i znajdź przedmiot, który pasuje do twojego planu.",
+      "pt": "Explique o conflito de horário e encontre uma disciplina que se encaixe na sua grade.",
+      "nl": "Leg het roosterconflict uit en vind een vak dat in je rooster past.",
+      "hr": "Objasni preklapanje i pronađi kolegij koji se uklapa u tvoj raspored.",
+      "tr": "Çakışmayı açıklayın ve programınıza uyan bir ders bulun.",
+      "uk": "Поясни, у чому накладка, і знайди курс, який вписується в розклад.",
+      "ar": "اشرح التعارض وابحث عن مادة تناسب جدولك.",
+      "hi": "टकराव समझाइए और ऐसा कोर्स ढूँढिए जो आपके शेड्यूल में फ़िट हो।",
+      "vi": "Giải thích việc trùng lịch và tìm một môn học phù hợp với thời khóa biểu.",
+      "id": "Jelaskan jadwal yang bentrok dan temukan mata kuliah yang cocok dengan jadwalmu.",
+      "ms": "Terangkan pertembungan jadual itu dan cari kursus yang sesuai dengan jadual anda.",
+      "ko": "시간이 겹치는 문제를 설명하고 시간표에 맞는 과목을 찾으세요."
+    },
+    "practice": "Explique el conflicto y encuentre un curso que se adapte a su horario.",
+    "practice_translations": {
+      "en": "Explain the conflict and find a course that fits your schedule.",
+      "es": "Explique el conflicto y encuentre un curso que se adapte a su horario.",
+      "ja": "時間割の重なりを説明して、自分の予定に合う授業を見つけてください。",
+      "ko": "시간이 겹치는 문제를 설명하고 시간표에 맞는 과목을 찾으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain the schedule conflict",
+        "native_translations": {
+          "en": "Explain the schedule conflict",
+          "es": "Explique el conflicto de horario",
+          "fr": "Expliquez le conflit d'horaires",
+          "de": "Erklären Sie die Überschneidung im Stundenplan",
+          "it": "Spiega la sovrapposizione di orario",
+          "pl": "Wyjaśnij kolizję w planie zajęć",
+          "pt": "Explique o conflito de horário",
+          "nl": "Leg het roosterconflict uit",
+          "hr": "Objasni preklapanje u rasporedu",
+          "tr": "Program çakışmasını açıklayın",
+          "uk": "Поясни накладку в розкладі",
+          "ar": "اشرح التعارض في الجدول",
+          "hi": "शेड्यूल का टकराव समझाइए",
+          "vi": "Giải thích việc trùng lịch học",
+          "id": "Jelaskan jadwal yang bentrok",
+          "ms": "Terangkan pertembungan jadual",
+          "ko": "시간표가 겹치는 문제를 설명하세요"
+        },
+        "practice": "Explique el conflicto de horario",
+        "practice_translations": {
+          "en": "Explain the schedule conflict",
+          "es": "Explique el conflicto de horario",
+          "ja": "授業の時間が重なっていることを説明してください",
+          "ko": "시간표가 겹치는 문제를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask which course could replace it",
+        "native_translations": {
+          "en": "Ask which course could replace it",
+          "es": "Pregunte qué curso podría reemplazarlo",
+          "fr": "Demandez quel cours pourrait le remplacer",
+          "de": "Fragen Sie, welcher Kurs ihn ersetzen könnte",
+          "it": "Chiedi quale corso potrebbe sostituirlo",
+          "pl": "Zapytaj, jaki przedmiot mógłby go zastąpić",
+          "pt": "Pergunte qual disciplina poderia substituí-la",
+          "nl": "Vraag welk vak het zou kunnen vervangen",
+          "hr": "Pitaj koji bi ga kolegij mogao zamijeniti",
+          "tr": "Yerine hangi dersin alınabileceğini sorun",
+          "uk": "Запитай, який курс може його замінити",
+          "ar": "اسأل عن المادة التي يمكن أن تحلّ محلها",
+          "hi": "पूछिए कि उसकी जगह कौन-सा कोर्स लिया जा सकता है",
+          "vi": "Hỏi môn nào có thể thay thế",
+          "id": "Tanyakan mata kuliah apa yang bisa menggantikannya",
+          "ms": "Tanya kursus mana yang boleh menggantikannya",
+          "ko": "대신 들을 수 있는 과목을 물어보세요"
+        },
+        "practice": "Pregunte qué curso podría reemplazarlo",
+        "practice_translations": {
+          "en": "Ask which course could replace it",
+          "es": "Pregunte qué curso podría reemplazarlo",
+          "ja": "代わりにどの授業を取れるか聞いてください",
+          "ko": "대신 들을 수 있는 과목을 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about the deadline to change courses",
+        "native_translations": {
+          "en": "Ask about the deadline to change courses",
+          "es": "Pregunte por la fecha límite para cambiar de curso",
+          "fr": "Renseignez-vous sur la date limite pour changer de cours",
+          "de": "Fragen Sie nach der Frist für einen Kurswechsel",
+          "it": "Chiedi la scadenza per cambiare corso",
+          "pl": "Zapytaj o termin zmiany przedmiotów",
+          "pt": "Pergunte sobre o prazo para trocar de disciplina",
+          "nl": "Vraag naar de deadline om van vak te wisselen",
+          "hr": "Pitaj do kada se mogu mijenjati kolegiji",
+          "tr": "Ders değiştirmenin son tarihini sorun",
+          "uk": "Запитай про крайній термін зміни курсів",
+          "ar": "اسأل عن آخر موعد لتغيير المواد",
+          "hi": "कोर्स बदलने की आख़िरी तारीख़ के बारे में पूछिए",
+          "vi": "Hỏi hạn chót đổi môn học",
+          "id": "Tanyakan batas waktu mengganti mata kuliah",
+          "ms": "Tanya tentang tarikh akhir menukar kursus",
+          "ko": "수강 변경 마감일을 물어보세요"
+        },
+        "practice": "Pregunte por la fecha límite para cambiar de curso",
+        "practice_translations": {
+          "en": "Ask about the deadline to change courses",
+          "es": "Pregunte por la fecha límite para cambiar de curso",
+          "ja": "履修変更の締め切りについて聞いてください",
+          "ko": "수강 변경 마감일을 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Confirm the next steps",
+        "native_translations": {
+          "en": "Confirm the next steps",
+          "es": "Confirme los próximos pasos",
+          "fr": "Confirmez les prochaines étapes",
+          "de": "Bestätigen Sie die nächsten Schritte",
+          "it": "Conferma i prossimi passi",
+          "pl": "Potwierdź kolejne kroki",
+          "pt": "Confirme os próximos passos",
+          "nl": "Bevestig de volgende stappen",
+          "hr": "Potvrdi sljedeće korake",
+          "tr": "Sonraki adımları teyit edin",
+          "uk": "Підтверди наступні кроки",
+          "ar": "أكّد الخطوات التالية",
+          "hi": "अगले क़दम पक्के कीजिए",
+          "vi": "Xác nhận các bước tiếp theo",
+          "id": "Konfirmasi langkah selanjutnya",
+          "ms": "Sahkan langkah seterusnya",
+          "ko": "다음 절차를 확인하세요"
+        },
+        "practice": "Confirme los próximos pasos",
+        "practice_translations": {
+          "en": "Confirm the next steps",
+          "es": "Confirme los próximos pasos",
+          "ja": "次の手続きを確認してください",
+          "ko": "다음 절차를 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Two of my classes are at the same time on Tuesdays.",
+      "native_translations": {
+        "en": "Two of my classes are at the same time on Tuesdays.",
+        "es": "Dos de mis clases coinciden los martes a la misma hora.",
+        "fr": "Deux de mes cours ont lieu en même temps le mardi.",
+        "de": "Zwei meiner Kurse finden dienstags zur gleichen Zeit statt.",
+        "it": "Il martedì due dei miei corsi sono alla stessa ora.",
+        "pl": "We wtorki dwoje moich zajęć jest w tym samym czasie.",
+        "pt": "Duas das minhas aulas são no mesmo horário às terças.",
+        "nl": "Op dinsdag vallen twee van mijn vakken tegelijk.",
+        "hr": "Utorkom mi se dva kolegija održavaju u isto vrijeme.",
+        "tr": "Salı günleri iki dersim aynı saatte.",
+        "uk": "Щовівторка дві мої пари збігаються в часі.",
+        "ar": "اثنتان من محاضراتي في الوقت نفسه أيام الثلاثاء.",
+        "hi": "मंगलवार को मेरी दो क्लास एक ही समय पर हैं।",
+        "vi": "Thứ Ba có hai môn của em bị trùng giờ.",
+        "id": "Dua kelas saya di hari Selasa jamnya sama.",
+        "ms": "Dua kelas saya bertembung pada masa yang sama setiap hari Selasa.",
+        "ko": "화요일마다 수업 두 개가 시간이 겹쳐요."
+      },
+      "practice": "Dos de mis clases coinciden los martes a la misma hora.",
+      "practice_translations": {
+        "en": "Two of my classes are at the same time on Tuesdays.",
+        "es": "Dos de mis clases coinciden los martes a la misma hora.",
+        "ja": "火曜日に授業が2つ同じ時間に重なっているんです。",
+        "ko": "화요일마다 수업 두 개가 시간이 겹쳐요."
+      }
+    },
+    {
+      "native": "Is there another course that gives the same credits?",
+      "native_translations": {
+        "en": "Is there another course that gives the same credits?",
+        "es": "¿Hay otro curso que dé los mismos créditos?",
+        "fr": "Y a-t-il un autre cours qui donne le même nombre de crédits ?",
+        "de": "Gibt es einen anderen Kurs mit denselben Credits?",
+        "it": "C'è un altro corso che dà gli stessi crediti?",
+        "pl": "Czy jest inny przedmiot, za który dostanę tyle samo punktów?",
+        "pt": "Existe outra disciplina que dá os mesmos créditos?",
+        "nl": "Is er een ander vak dat dezelfde studiepunten oplevert?",
+        "hr": "Postoji li neki drugi kolegij koji nosi jednak broj bodova?",
+        "tr": "Aynı krediyi veren başka bir ders var mı?",
+        "uk": "Чи є інший курс із такою самою кількістю кредитів?",
+        "ar": "هل هناك مادة أخرى تمنح عدد الساعات المعتمدة نفسه؟",
+        "hi": "क्या कोई और कोर्स है जिसमें उतने ही क्रेडिट मिलें?",
+        "vi": "Có môn nào khác có cùng số tín chỉ không ạ?",
+        "id": "Apakah ada mata kuliah lain dengan jumlah SKS yang sama?",
+        "ms": "Adakah kursus lain yang memberikan jumlah kredit yang sama?",
+        "ko": "같은 학점을 받을 수 있는 다른 과목이 있나요?"
+      },
+      "practice": "¿Hay otro curso que dé los mismos créditos?",
+      "practice_translations": {
+        "en": "Is there another course that gives the same credits?",
+        "es": "¿Hay otro curso que dé los mismos créditos?",
+        "ja": "同じ単位が取れる別の授業はありますか。",
+        "ko": "같은 학점을 받을 수 있는 다른 과목이 있나요?"
+      }
+    },
+    {
+      "native": "What's the deadline to add or drop a course?",
+      "native_translations": {
+        "en": "What's the deadline to add or drop a course?",
+        "es": "¿Cuál es la fecha límite para inscribir o dar de baja un curso?",
+        "fr": "Quelle est la date limite pour ajouter ou abandonner un cours ?",
+        "de": "Bis wann kann man einen Kurs hinzufügen oder abwählen?",
+        "it": "Qual è la scadenza per aggiungere o eliminare un corso?",
+        "pl": "Do kiedy można dopisać się na przedmiot albo z niego zrezygnować?",
+        "pt": "Qual é o prazo para incluir ou trancar uma disciplina?",
+        "nl": "Wat is de deadline om een vak toe te voegen of te laten vallen?",
+        "hr": "Koji je rok za upis ili ispis kolegija?",
+        "tr": "Ders ekleyip bırakmanın son tarihi ne zaman?",
+        "uk": "До якого терміну можна додати або скасувати курс?",
+        "ar": "ما آخر موعد لإضافة مادة أو حذفها؟",
+        "hi": "कोर्स जोड़ने या छोड़ने की आख़िरी तारीख़ क्या है?",
+        "vi": "Hạn chót để thêm hoặc hủy môn là khi nào ạ?",
+        "id": "Kapan batas waktu menambah atau membatalkan mata kuliah?",
+        "ms": "Bilakah tarikh akhir untuk menambah atau menggugurkan kursus?",
+        "ko": "수강 신청 변경이나 철회 마감일이 언제예요?"
+      },
+      "practice": "¿Cuál es la fecha límite para inscribir o dar de baja un curso?",
+      "practice_translations": {
+        "en": "What's the deadline to add or drop a course?",
+        "es": "¿Cuál es la fecha límite para inscribir o dar de baja un curso?",
+        "ja": "履修の追加や取り消しの締め切りはいつですか。",
+        "ko": "수강 신청 변경이나 철회 마감일이 언제예요?"
+      }
+    },
+    {
+      "native": "Do I need a signature from the professor?",
+      "native_translations": {
+        "en": "Do I need a signature from the professor?",
+        "es": "¿Necesito la firma del profesor?",
+        "fr": "Ai-je besoin de la signature du professeur ?",
+        "de": "Brauche ich eine Unterschrift vom Professor?",
+        "it": "Mi serve la firma del professore?",
+        "pl": "Czy potrzebuję podpisu profesora?",
+        "pt": "Preciso da assinatura do professor?",
+        "nl": "Heb ik een handtekening van de professor nodig?",
+        "hr": "Trebam li profesorov potpis?",
+        "tr": "Hocanın imzasına ihtiyacım var mı?",
+        "uk": "Мені потрібен підпис викладача?",
+        "ar": "هل أحتاج إلى توقيع من الأستاذ؟",
+        "hi": "क्या मुझे प्रोफ़ेसर के साइन चाहिए?",
+        "vi": "Em có cần chữ ký của giảng viên không ạ?",
+        "id": "Apakah saya perlu tanda tangan dosen?",
+        "ms": "Adakah saya perlukan tandatangan pensyarah?",
+        "ko": "교수님 서명이 필요한가요?"
+      },
+      "practice": "¿Necesito la firma del profesor?",
+      "practice_translations": {
+        "en": "Do I need a signature from the professor?",
+        "es": "¿Necesito la firma del profesor?",
+        "ja": "教授のサインは必要ですか。",
+        "ko": "교수님 서명이 필요한가요?"
+      }
+    },
+    {
+      "native": "So, just to confirm, I fill out this form and bring it back?",
+      "native_translations": {
+        "en": "So, just to confirm, I fill out this form and bring it back?",
+        "es": "Entonces, para confirmar, ¿lleno este formulario y lo traigo de vuelta?",
+        "fr": "Donc, pour être sûr, je remplis ce formulaire et je le rapporte ?",
+        "de": "Also, nur zur Sicherheit: Ich fülle dieses Formular aus und bringe es wieder her?",
+        "it": "Quindi, giusto per conferma, compilo questo modulo e lo riporto qui?",
+        "pl": "Czyli dla pewności: wypełniam ten formularz i go przynoszę?",
+        "pt": "Então, só para confirmar, eu preencho este formulário e trago de volta?",
+        "nl": "Dus even ter bevestiging: ik vul dit formulier in en breng het terug?",
+        "hr": "Dakle, samo da potvrdim: ispunim ovaj obrazac i vratim ga?",
+        "tr": "Yani, teyit etmek için soruyorum, bu formu doldurup geri mi getireceğim?",
+        "uk": "Тобто, щоб уточнити: я заповнюю цю форму й приношу її назад?",
+        "ar": "إذن، للتأكيد فقط، أملأ هذه الاستمارة وأعيدها؟",
+        "hi": "तो बस पक्का करने के लिए, मैं यह फ़ॉर्म भरकर वापस लाऊँ?",
+        "vi": "Vậy em xác nhận lại nhé, em điền mẫu đơn này rồi nộp lại đúng không ạ?",
+        "id": "Jadi, untuk memastikan, saya isi formulir ini lalu mengembalikannya?",
+        "ms": "Jadi, untuk kepastian, saya isi borang ini dan bawa semula ke sini?",
+        "ko": "그러니까 확인하자면, 이 양식을 작성해서 다시 가져오면 되는 거죠?"
+      },
+      "practice": "Entonces, para confirmar, ¿lleno este formulario y lo traigo de vuelta?",
+      "practice_translations": {
+        "en": "So, just to confirm, I fill out this form and bring it back?",
+        "es": "Entonces, para confirmar, ¿lleno este formulario y lo traigo de vuelta?",
+        "ja": "確認ですが、この用紙に記入して、また持ってくればいいんですね。",
+        "ko": "그러니까 확인하자면, 이 양식을 작성해서 다시 가져오면 되는 거죠?"
+      }
+    }
+  ]
+}

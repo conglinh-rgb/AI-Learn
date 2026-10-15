@@ -1,0 +1,350 @@
+{
+  "id": "family_communicating_with_the_school_c2",
+  "title": "The Parent-Teacher Meeting",
+  "title_translations": {
+    "en": "The Parent-Teacher Meeting",
+    "es": "Reunión entre familia y escuela",
+    "fr": "La réunion parents-professeurs",
+    "de": "Das Elterngespräch",
+    "it": "Il colloquio con gli insegnanti",
+    "pl": "Wywiadówka",
+    "pt": "A reunião de pais e professores",
+    "nl": "Het oudergesprek",
+    "hr": "Informacije kod učiteljice",
+    "tr": "Veli-Öğretmen Görüşmesi",
+    "uk": "Зустріч батьків із вчителем",
+    "ar": "اجتماع أولياء الأمور والمعلمين",
+    "hi": "पेरेंट-टीचर मीटिंग",
+    "vi": "Buổi họp phụ huynh",
+    "id": "Pertemuan Orang Tua dan Guru",
+    "ms": "Perjumpaan Ibu Bapa dan Guru",
+    "ko": "학부모 상담"
+  },
+  "character": "fox",
+  "scenario": "You meet your child's teacher (AI) to talk about your child's progress, because their math grades have been going down.",
+  "scenario_translations": {
+    "en": "You meet your child's teacher (AI) to talk about your child's progress, because their math grades have been going down.",
+    "es": "Se reúne con el maestro (AI) de su hijo para hablar de su avance, porque sus calificaciones de matemáticas han bajado.",
+    "fr": "Vous rencontrez l'enseignant (AI) de votre enfant pour parler de ses progrès, car ses notes en maths sont en baisse.",
+    "de": "Sie treffen die Lehrkraft (AI) Ihres Kindes, um über seine Fortschritte zu sprechen, denn die Mathenoten sind schlechter geworden.",
+    "it": "Incontri l'insegnante (AI) di tuo figlio per parlare dei suoi progressi, perché i voti in matematica stanno calando.",
+    "pl": "Spotykasz się z nauczycielką (AI) swojego dziecka, żeby porozmawiać o jego postępach, bo jego oceny z matematyki się pogarszają.",
+    "pt": "Você se encontra com a professora (AI) do seu filho para falar do progresso dele, porque as notas de matemática estão caindo.",
+    "nl": "Je hebt een afspraak met de leerkracht (AI) van je kind om over de voortgang te praten, omdat de cijfers voor rekenen achteruitgaan.",
+    "hr": "Nalaziš se s učiteljicom (AI) svog djeteta kako biste razgovarali o njegovu napretku jer su mu ocjene iz matematike u padu.",
+    "tr": "Matematik notları düştüğü için çocuğunuzun gelişimini konuşmak üzere öğretmeniyle (AI) görüşüyorsunuz.",
+    "uk": "Ти зустрічаєшся з учителем (AI) своєї дитини, щоб поговорити про її успішність, бо оцінки з математики знижуються.",
+    "ar": "تلتقي بمعلم طفلك (AI) للحديث عن تقدمه، لأن درجاته في الرياضيات تتراجع.",
+    "hi": "आप अपने बच्चे की प्रगति पर बात करने के लिए उसकी टीचर (AI) से मिलते हैं, क्योंकि गणित में उसके नंबर गिरते जा रहे हैं।",
+    "vi": "Bạn gặp giáo viên (AI) của con để trao đổi về tình hình học tập, vì điểm toán của con đang đi xuống.",
+    "id": "Kamu menemui guru anakmu (AI) untuk membahas perkembangannya, karena nilai matematikanya terus turun.",
+    "ms": "Anda berjumpa guru anak anda (AI) untuk berbincang tentang kemajuan anak anda, kerana markah matematiknya semakin menurun.",
+    "ko": "아이의 수학 성적이 계속 떨어지고 있어서, 아이의 학업 상황에 대해 이야기하려고 담임 선생님(AI)을 만나요."
+  },
+  "mission": {
+    "native": "Learn how your child is doing and agree on a way to help at home.",
+    "native_translations": {
+      "en": "Learn how your child is doing and agree on a way to help at home.",
+      "es": "Entérese de cómo va su hijo y acuerden una forma de ayudarle en casa.",
+      "fr": "Découvrez comment va votre enfant et convenez d'une façon de l'aider à la maison.",
+      "de": "Erfahren Sie, wie es Ihrem Kind geht, und vereinbaren Sie, wie Sie zu Hause helfen können.",
+      "it": "Scopri come va tuo figlio a scuola e concordate un modo per aiutarlo a casa.",
+      "pl": "Dowiedz się, jak radzi sobie twoje dziecko, i ustalcie, jak pomóc mu w domu.",
+      "pt": "Descubra como seu filho está indo e combinem uma forma de ajudar em casa.",
+      "nl": "Hoor hoe het met je kind gaat en spreek af hoe je thuis kunt helpen.",
+      "hr": "Saznaj kako tvoje dijete napreduje i dogovori kako mu pomoći kod kuće.",
+      "tr": "Çocuğunuzun durumunu öğrenin ve evde nasıl yardım edeceğiniz konusunda anlaşın.",
+      "uk": "Дізнайся, як справи в дитини, і домовтеся, як допомогти їй удома.",
+      "ar": "اعرف مستوى طفلك واتفق على طريقة لمساعدته في المنزل.",
+      "hi": "जानिए कि आपका बच्चा कैसा कर रहा है और घर पर मदद का एक तरीक़ा तय कीजिए।",
+      "vi": "Tìm hiểu tình hình học tập của con và thống nhất cách hỗ trợ con ở nhà.",
+      "id": "Cari tahu perkembangan anakmu dan sepakati cara membantunya di rumah.",
+      "ms": "Ketahui prestasi anak anda dan setuju dengan cara untuk membantu di rumah.",
+      "ko": "아이가 어떻게 지내는지 알아보고 집에서 도울 방법을 함께 정하세요."
+    },
+    "practice": "Entérese de cómo va su hijo y acuerden una forma de ayudarle en casa.",
+    "practice_translations": {
+      "en": "Learn how your child is doing and agree on a way to help at home.",
+      "es": "Entérese de cómo va su hijo y acuerden una forma de ayudarle en casa.",
+      "ja": "子どもの様子を聞いて、家庭でのサポート方法を決めてください。",
+      "ko": "아이가 어떻게 지내는지 알아보고 집에서 도울 방법을 함께 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask how your child is doing in class",
+        "native_translations": {
+          "en": "Ask how your child is doing in class",
+          "es": "Pregunte cómo va su hijo en clase",
+          "fr": "Demandez comment votre enfant se débrouille en classe",
+          "de": "Fragen Sie, wie Ihr Kind im Unterricht zurechtkommt",
+          "it": "Chiedi come va tuo figlio in classe",
+          "pl": "Zapytaj, jak dziecko radzi sobie na lekcjach",
+          "pt": "Pergunte como seu filho está indo na aula",
+          "nl": "Vraag hoe het met je kind in de klas gaat",
+          "hr": "Pitaj kako dijete napreduje na nastavi",
+          "tr": "Çocuğunuzun derste nasıl olduğunu sorun",
+          "uk": "Запитай, як дитина встигає на уроках",
+          "ar": "اسأل عن أداء طفلك في الصف",
+          "hi": "पूछिए कि आपका बच्चा क्लास में कैसा कर रहा है",
+          "vi": "Hỏi con học trên lớp thế nào",
+          "id": "Tanyakan bagaimana anakmu di kelas",
+          "ms": "Tanya bagaimana prestasi anak anda di dalam kelas",
+          "ko": "아이가 수업 시간에 어떤지 물어보세요"
+        },
+        "practice": "Pregunte cómo va su hijo en clase",
+        "practice_translations": {
+          "en": "Ask how your child is doing in class",
+          "es": "Pregunte cómo va su hijo en clase",
+          "ja": "授業での子どもの様子を聞いてください",
+          "ko": "아이가 수업 시간에 어떤지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask why the math grades went down",
+        "native_translations": {
+          "en": "Ask why the math grades went down",
+          "es": "Pregunte por qué bajaron las notas de matemáticas",
+          "fr": "Demandez pourquoi ses notes en maths ont baissé",
+          "de": "Fragen Sie, warum die Mathenoten schlechter geworden sind",
+          "it": "Chiedi perché i voti in matematica sono calati",
+          "pl": "Zapytaj, dlaczego oceny z matematyki się pogorszyły",
+          "pt": "Pergunte por que as notas de matemática caíram",
+          "nl": "Vraag waarom de cijfers voor rekenen zijn gedaald",
+          "hr": "Pitaj zašto su ocjene iz matematike pale",
+          "tr": "Matematik notlarının neden düştüğünü sorun",
+          "uk": "Запитай, чому знизилися оцінки з математики",
+          "ar": "اسأل لماذا تراجعت درجات الرياضيات",
+          "hi": "पूछिए कि गणित में नंबर क्यों गिरे",
+          "vi": "Hỏi vì sao điểm toán đi xuống",
+          "id": "Tanyakan kenapa nilai matematikanya turun",
+          "ms": "Tanya mengapa markah matematik menurun",
+          "ko": "수학 성적이 왜 떨어졌는지 물어보세요"
+        },
+        "practice": "Pregunte por qué bajaron las notas de matemáticas",
+        "practice_translations": {
+          "en": "Ask why the math grades went down",
+          "es": "Pregunte por qué bajaron las notas de matemáticas",
+          "ja": "算数の成績が下がった理由を聞いてください",
+          "ko": "수학 성적이 왜 떨어졌는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask what you can do to help at home",
+        "native_translations": {
+          "en": "Ask what you can do to help at home",
+          "es": "Pregunte qué puede hacer para ayudar en casa",
+          "fr": "Demandez ce que vous pouvez faire pour l'aider à la maison",
+          "de": "Fragen Sie, wie Sie zu Hause helfen können",
+          "it": "Chiedi cosa puoi fare per aiutare a casa",
+          "pl": "Zapytaj, co możesz zrobić, żeby pomóc w domu",
+          "pt": "Pergunte o que você pode fazer para ajudar em casa",
+          "nl": "Vraag wat je thuis kunt doen om te helpen",
+          "hr": "Pitaj što možeš učiniti da pomogneš kod kuće",
+          "tr": "Evde yardım etmek için ne yapabileceğinizi sorun",
+          "uk": "Запитай, чим ти можеш допомогти вдома",
+          "ar": "اسأل عمّا يمكنك فعله للمساعدة في المنزل",
+          "hi": "पूछिए कि आप घर पर कैसे मदद कर सकते हैं",
+          "vi": "Hỏi bạn có thể giúp con ở nhà bằng cách nào",
+          "id": "Tanyakan apa yang bisa kamu lakukan di rumah",
+          "ms": "Tanya apa yang anda boleh lakukan untuk membantu di rumah",
+          "ko": "집에서 무엇을 도와줄 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte qué puede hacer para ayudar en casa",
+        "practice_translations": {
+          "en": "Ask what you can do to help at home",
+          "es": "Pregunte qué puede hacer para ayudar en casa",
+          "ja": "家で何ができるか聞いてください",
+          "ko": "집에서 무엇을 도와줄 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on when to check in again",
+        "native_translations": {
+          "en": "Agree on when to check in again",
+          "es": "Acuerden cuándo volver a hablar",
+          "fr": "Convenez d'un moment pour refaire le point",
+          "de": "Vereinbaren Sie, wann Sie wieder sprechen",
+          "it": "Concordate quando risentirvi",
+          "pl": "Ustalcie, kiedy znowu porozmawiacie",
+          "pt": "Combinem quando conversar de novo",
+          "nl": "Spreek af wanneer jullie weer contact hebben",
+          "hr": "Dogovori kada ćete se ponovno čuti",
+          "tr": "Tekrar ne zaman görüşeceğiniz konusunda anlaşın",
+          "uk": "Домовтеся, коли поговорити знову",
+          "ar": "اتفق على موعد للمتابعة مجددًا",
+          "hi": "तय कीजिए कि दोबारा कब बात करेंगे",
+          "vi": "Thống nhất khi nào trao đổi lại",
+          "id": "Sepakati kapan akan membahasnya lagi",
+          "ms": "Setuju bila untuk berbincang semula",
+          "ko": "언제 다시 이야기할지 정하세요"
+        },
+        "practice": "Acuerden cuándo volver a hablar",
+        "practice_translations": {
+          "en": "Agree on when to check in again",
+          "es": "Acuerden cuándo volver a hablar",
+          "ja": "次にいつ話すか決めてください",
+          "ko": "언제 다시 이야기할지 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for meeting with me.",
+      "native_translations": {
+        "en": "Thank you for meeting with me.",
+        "es": "Gracias por reunirse conmigo.",
+        "fr": "Merci de me recevoir.",
+        "de": "Vielen Dank, dass Sie sich Zeit für mich nehmen.",
+        "it": "Grazie per aver accettato di incontrarmi.",
+        "pl": "Dziękuję, że znalazła pani dla mnie czas.",
+        "pt": "Obrigado por me receber.",
+        "nl": "Dank u wel dat u tijd voor me heeft.",
+        "hr": "Hvala Vam što ste odvojili vrijeme za mene.",
+        "tr": "Benimle görüştüğünüz için teşekkür ederim.",
+        "uk": "Дякую, що знайшли час зустрітися зі мною.",
+        "ar": "شكرًا لك على لقائي.",
+        "hi": "मुझसे मिलने के लिए धन्यवाद।",
+        "vi": "Cảm ơn thầy/cô đã dành thời gian gặp tôi.",
+        "id": "Terima kasih sudah mau bertemu dengan saya.",
+        "ms": "Terima kasih kerana sudi berjumpa saya.",
+        "ko": "시간 내 주셔서 감사합니다."
+      },
+      "practice": "Gracias por reunirse conmigo.",
+      "practice_translations": {
+        "en": "Thank you for meeting with me.",
+        "es": "Gracias por reunirse conmigo.",
+        "ja": "お時間をいただきありがとうございます。",
+        "ko": "시간 내 주셔서 감사합니다."
+      }
+    },
+    {
+      "native": "How is my daughter doing in class?",
+      "native_translations": {
+        "en": "How is my daughter doing in class?",
+        "es": "¿Cómo va mi hija en clase?",
+        "fr": "Comment se débrouille ma fille en classe ?",
+        "de": "Wie kommt meine Tochter im Unterricht zurecht?",
+        "it": "Come va mia figlia in classe?",
+        "pl": "Jak córka radzi sobie na lekcjach?",
+        "pt": "Como minha filha está indo na aula?",
+        "nl": "Hoe gaat het met mijn dochter in de klas?",
+        "hr": "Kako moja kći napreduje na nastavi?",
+        "tr": "Kızım derste nasıl?",
+        "uk": "Як моя донька встигає на уроках?",
+        "ar": "كيف أداء ابنتي في الصف؟",
+        "hi": "मेरी बेटी क्लास में कैसा कर रही है?",
+        "vi": "Cháu nhà tôi học trên lớp thế nào ạ?",
+        "id": "Bagaimana perkembangan putri saya di kelas?",
+        "ms": "Bagaimana prestasi anak perempuan saya di dalam kelas?",
+        "ko": "우리 딸이 수업 시간에 어떤가요?"
+      },
+      "practice": "¿Cómo va mi hija en clase?",
+      "practice_translations": {
+        "en": "How is my daughter doing in class?",
+        "es": "¿Cómo va mi hija en clase?",
+        "ja": "娘は授業ではどんな様子でしょうか。",
+        "ko": "우리 딸이 수업 시간에 어떤가요?"
+      }
+    },
+    {
+      "native": "I noticed her math grades have gone down.",
+      "native_translations": {
+        "en": "I noticed her math grades have gone down.",
+        "es": "Noté que sus notas de matemáticas han bajado.",
+        "fr": "J'ai remarqué que ses notes en maths ont baissé.",
+        "de": "Mir ist aufgefallen, dass ihre Mathenoten schlechter geworden sind.",
+        "it": "Ho notato che i suoi voti in matematica sono calati.",
+        "pl": "Zauważyłem, że jej oceny z matematyki się pogorszyły.",
+        "pt": "Percebi que as notas de matemática dela caíram.",
+        "nl": "Ik zag dat haar cijfers voor rekenen zijn gedaald.",
+        "hr": "Vidim da su joj ocjene iz matematike pale.",
+        "tr": "Matematik notlarının düştüğünü fark ettim.",
+        "uk": "Я помітив, що її оцінки з математики знизилися.",
+        "ar": "لاحظت أن درجاتها في الرياضيات تراجعت.",
+        "hi": "मैंने देखा कि गणित में उसके नंबर कम हो गए हैं।",
+        "vi": "Tôi thấy điểm toán của cháu dạo này đi xuống.",
+        "id": "Saya perhatikan nilai matematikanya turun.",
+        "ms": "Saya perasan markah matematiknya menurun.",
+        "ko": "딸의 수학 성적이 떨어진 걸 알게 됐어요."
+      },
+      "practice": "Noté que sus notas de matemáticas han bajado.",
+      "practice_translations": {
+        "en": "I noticed her math grades have gone down.",
+        "es": "Noté que sus notas de matemáticas han bajado.",
+        "ja": "算数の成績が下がっているようなのですが。",
+        "ko": "딸의 수학 성적이 떨어진 걸 알게 됐어요."
+      }
+    },
+    {
+      "native": "What can we do at home to help her?",
+      "native_translations": {
+        "en": "What can we do at home to help her?",
+        "es": "¿Qué podemos hacer en casa para ayudarla?",
+        "fr": "Que pouvons-nous faire à la maison pour l'aider ?",
+        "de": "Was können wir zu Hause tun, um ihr zu helfen?",
+        "it": "Cosa possiamo fare a casa per aiutarla?",
+        "pl": "Co możemy zrobić w domu, żeby jej pomóc?",
+        "pt": "O que podemos fazer em casa para ajudá-la?",
+        "nl": "Wat kunnen we thuis doen om haar te helpen?",
+        "hr": "Što možemo učiniti kod kuće da joj pomognemo?",
+        "tr": "Evde ona yardım etmek için ne yapabiliriz?",
+        "uk": "Що ми можемо зробити вдома, щоб їй допомогти?",
+        "ar": "ماذا يمكننا أن نفعل في المنزل لمساعدتها؟",
+        "hi": "घर पर हम उसकी मदद के लिए क्या कर सकते हैं?",
+        "vi": "Ở nhà chúng tôi có thể làm gì để giúp cháu ạ?",
+        "id": "Apa yang bisa kami lakukan di rumah untuk membantunya?",
+        "ms": "Apa yang kami boleh lakukan di rumah untuk membantunya?",
+        "ko": "집에서 아이를 도우려면 뭘 하면 될까요?"
+      },
+      "practice": "¿Qué podemos hacer en casa para ayudarla?",
+      "practice_translations": {
+        "en": "What can we do at home to help her?",
+        "es": "¿Qué podemos hacer en casa para ayudarla?",
+        "ja": "家ではどんなサポートができるでしょうか。",
+        "ko": "집에서 아이를 도우려면 뭘 하면 될까요?"
+      }
+    },
+    {
+      "native": "Could we talk again in a month?",
+      "native_translations": {
+        "en": "Could we talk again in a month?",
+        "es": "¿Podríamos volver a hablar en un mes?",
+        "fr": "Pourrions-nous en reparler dans un mois ?",
+        "de": "Könnten wir in einem Monat noch einmal sprechen?",
+        "it": "Potremmo riparlarne tra un mese?",
+        "pl": "Czy moglibyśmy porozmawiać ponownie za miesiąc?",
+        "pt": "Podemos conversar de novo daqui a um mês?",
+        "nl": "Kunnen we over een maand weer even praten?",
+        "hr": "Možemo li ponovno razgovarati za mjesec dana?",
+        "tr": "Bir ay sonra tekrar konuşabilir miyiz?",
+        "uk": "Чи могли б ми поговорити знову через місяць?",
+        "ar": "هل يمكننا التحدث مجددًا بعد شهر؟",
+        "hi": "क्या हम एक महीने बाद फिर बात कर सकते हैं?",
+        "vi": "Một tháng nữa mình trao đổi lại được không ạ?",
+        "id": "Bisakah kita bicara lagi sebulan lagi?",
+        "ms": "Boleh kita berbincang lagi dalam sebulan?",
+        "ko": "한 달 후에 다시 이야기 나눌 수 있을까요?"
+      },
+      "practice": "¿Podríamos volver a hablar en un mes?",
+      "practice_translations": {
+        "en": "Could we talk again in a month?",
+        "es": "¿Podríamos volver a hablar en un mes?",
+        "ja": "1か月後に、またお話しできますか。",
+        "ko": "한 달 후에 다시 이야기 나눌 수 있을까요?"
+      }
+    }
+  ]
+}

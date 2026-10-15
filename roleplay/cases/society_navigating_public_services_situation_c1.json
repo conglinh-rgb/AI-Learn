@@ -1,0 +1,289 @@
+{
+  "id": "society_navigating_public_services_situation_c1",
+  "title": "Getting a Library Card",
+  "title_translations": {
+    "en": "Getting a Library Card",
+    "es": "Sacar la credencial de la biblioteca",
+    "fr": "Obtenir une carte de bibliothèque",
+    "de": "Einen Bibliotheksausweis beantragen",
+    "it": "Fare la tessera della biblioteca",
+    "pl": "Wyrabianie karty bibliotecznej",
+    "pt": "Fazendo o cartão da biblioteca",
+    "nl": "Een bibliotheekpas aanvragen",
+    "hr": "Učlanjenje u knjižnicu",
+    "tr": "Kütüphane Kartı Almak",
+    "uk": "Оформлення читацького квитка",
+    "ar": "الحصول على بطاقة مكتبة",
+    "hi": "लाइब्रेरी कार्ड बनवाना",
+    "vi": "Làm thẻ thư viện",
+    "id": "Membuat Kartu Perpustakaan",
+    "ms": "Membuat Kad Perpustakaan",
+    "ko": "도서관 카드 만들기"
+  },
+  "character": "fox",
+  "scenario": "You want to borrow books from the public library. The librarian (AI) is waiting at the front desk.",
+  "scenario_translations": {
+    "en": "You want to borrow books from the public library. The librarian (AI) is waiting at the front desk.",
+    "es": "Quiere pedir libros prestados en la biblioteca pública. El bibliotecario (AI) espera en el mostrador de entrada.",
+    "fr": "Vous voulez emprunter des livres à la bibliothèque municipale. Le bibliothécaire (AI) attend à l'accueil.",
+    "de": "Sie möchten Bücher aus der öffentlichen Bibliothek ausleihen. Die Bibliothekarin (AI) wartet an der Theke.",
+    "it": "Vuoi prendere in prestito dei libri dalla biblioteca pubblica. Il bibliotecario (AI) ti aspetta al banco accoglienza.",
+    "pl": "Chcesz wypożyczać książki z biblioteki publicznej. Bibliotekarz (AI) czeka przy ladzie.",
+    "pt": "Você quer pegar livros emprestados na biblioteca pública. O bibliotecário (AI) está esperando no balcão de atendimento.",
+    "nl": "Je wilt boeken lenen bij de openbare bibliotheek. De bibliothecaris (AI) wacht bij de balie.",
+    "hr": "Želiš posuđivati knjige iz gradske knjižnice. Knjižničar (AI) čeka za pultom.",
+    "tr": "Halk kütüphanesinden kitap ödünç almak istiyorsunuz. Kütüphaneci (AI) danışma masasında bekliyor.",
+    "uk": "Ти хочеш брати книжки в публічній бібліотеці. Бібліотекар (AI) чекає за стійкою.",
+    "ar": "تريد استعارة كتب من المكتبة العامة. أمين المكتبة (AI) ينتظر عند مكتب الاستقبال.",
+    "hi": "आप पब्लिक लाइब्रेरी से किताबें उधार लेना चाहते हैं। लाइब्रेरियन (AI) फ़्रंट डेस्क पर इंतज़ार कर रहे हैं।",
+    "vi": "Bạn muốn mượn sách ở thư viện công cộng. Thủ thư (AI) đang chờ ở quầy lễ tân.",
+    "id": "Kamu ingin meminjam buku dari perpustakaan umum. Pustakawan (AI) menunggu di meja depan.",
+    "ms": "Anda ingin meminjam buku dari perpustakaan awam. Pustakawan (AI) sedang menunggu di kaunter hadapan.",
+    "ko": "공공 도서관에서 책을 빌리고 싶습니다. 사서(AI)가 안내 데스크에서 기다리고 있습니다."
+  },
+  "mission": {
+    "native": "Ask for a library card and find out how borrowing works.",
+    "native_translations": {
+      "en": "Ask for a library card and find out how borrowing works.",
+      "es": "Pida un carné de biblioteca y averigüe cómo funcionan los préstamos.",
+      "fr": "Demandez une carte de bibliothèque et renseignez-vous sur le fonctionnement des emprunts.",
+      "de": "Fragen Sie nach einem Bibliotheksausweis und finden Sie heraus, wie das Ausleihen funktioniert.",
+      "it": "Chiedi la tessera della biblioteca e scopri come funziona il prestito.",
+      "pl": "Poproś o kartę biblioteczną i dowiedz się, jak działa wypożyczanie.",
+      "pt": "Peça um cartão da biblioteca e descubra como funcionam os empréstimos.",
+      "nl": "Vraag om een bibliotheekpas en ontdek hoe lenen werkt.",
+      "hr": "Zatraži člansku iskaznicu i saznaj kako funkcionira posudba.",
+      "tr": "Kütüphane kartı isteyin ve ödünç almanın nasıl işlediğini öğrenin.",
+      "uk": "Попроси читацький квиток і дізнайся, як брати книжки.",
+      "ar": "اطلب بطاقة مكتبة واعرف كيف تتم الاستعارة.",
+      "hi": "लाइब्रेरी कार्ड माँगिए और पता कीजिए कि किताबें उधार लेने का तरीक़ा क्या है।",
+      "vi": "Xin làm thẻ thư viện và tìm hiểu cách mượn sách.",
+      "id": "Minta kartu perpustakaan dan cari tahu cara meminjam buku.",
+      "ms": "Minta kad perpustakaan dan ketahui cara peminjaman berfungsi.",
+      "ko": "도서관 카드를 신청하고 대출 방법을 알아보세요."
+    },
+    "practice": "Pida un carné de biblioteca y averigüe cómo funcionan los préstamos.",
+    "practice_translations": {
+      "en": "Ask for a library card and find out how borrowing works.",
+      "es": "Pida un carné de biblioteca y averigüe cómo funcionan los préstamos.",
+      "ja": "図書館カードを申し込んで、本の借り方を聞いてください。",
+      "ko": "도서관 카드를 신청하고 대출 방법을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you want a library card",
+        "native_translations": {
+          "en": "Say you want a library card",
+          "es": "Diga que quiere un carné de biblioteca",
+          "fr": "Dites que vous voulez une carte de bibliothèque",
+          "de": "Sagen Sie, dass Sie einen Bibliotheksausweis möchten",
+          "it": "Di' che vuoi la tessera della biblioteca",
+          "pl": "Powiedz, że chcesz kartę biblioteczną",
+          "pt": "Diga que você quer um cartão da biblioteca",
+          "nl": "Zeg dat je een bibliotheekpas wilt",
+          "hr": "Reci da želiš člansku iskaznicu",
+          "tr": "Kütüphane kartı istediğinizi söyleyin",
+          "uk": "Скажи, що хочеш отримати читацький квиток",
+          "ar": "قل إنك تريد بطاقة مكتبة",
+          "hi": "कहिए कि आपको लाइब्रेरी कार्ड चाहिए",
+          "vi": "Nói rằng bạn muốn làm thẻ thư viện",
+          "id": "Katakan bahwa kamu ingin membuat kartu perpustakaan",
+          "ms": "Katakan anda mahu kad perpustakaan",
+          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+        },
+        "practice": "Diga que quiere un carné de biblioteca",
+        "practice_translations": {
+          "en": "Say you want a library card",
+          "es": "Diga que quiere un carné de biblioteca",
+          "ja": "図書館カードがほしいと伝えてください",
+          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what documents you need",
+        "native_translations": {
+          "en": "Ask what documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "fr": "Demandez quels documents il vous faut",
+          "de": "Fragen Sie, welche Unterlagen Sie brauchen",
+          "it": "Chiedi quali documenti ti servono",
+          "pl": "Zapytaj, jakie dokumenty są potrzebne",
+          "pt": "Pergunte quais documentos você precisa",
+          "nl": "Vraag welke documenten je nodig hebt",
+          "hr": "Pitaj koji su ti dokumenti potrebni",
+          "tr": "Hangi belgelere ihtiyacınız olduğunu sorun",
+          "uk": "Запитай, які документи потрібні",
+          "ar": "اسأل عن المستندات التي تحتاجها",
+          "hi": "पूछिए कि कौन-से दस्तावेज़ चाहिए",
+          "vi": "Hỏi cần những giấy tờ gì",
+          "id": "Tanyakan dokumen apa yang dibutuhkan",
+          "ms": "Tanya dokumen apa yang anda perlukan",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        },
+        "practice": "Pregunte qué documentos necesita",
+        "practice_translations": {
+          "en": "Ask what documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "ja": "必要な書類を聞いてください",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how many books you can borrow",
+        "native_translations": {
+          "en": "Ask how many books you can borrow",
+          "es": "Pregunte cuántos libros puede pedir prestados",
+          "fr": "Demandez combien de livres vous pouvez emprunter",
+          "de": "Fragen Sie, wie viele Bücher Sie ausleihen dürfen",
+          "it": "Chiedi quanti libri puoi prendere in prestito",
+          "pl": "Zapytaj, ile książek możesz wypożyczyć",
+          "pt": "Pergunte quantos livros você pode pegar emprestados",
+          "nl": "Vraag hoeveel boeken je mag lenen",
+          "hr": "Pitaj koliko knjiga možeš posuditi",
+          "tr": "Kaç kitap ödünç alabileceğinizi sorun",
+          "uk": "Запитай, скільки книжок можна взяти",
+          "ar": "اسأل عن عدد الكتب التي يمكنك استعارتها",
+          "hi": "पूछिए कि आप कितनी किताबें उधार ले सकते हैं",
+          "vi": "Hỏi được mượn bao nhiêu cuốn sách",
+          "id": "Tanyakan berapa buku yang boleh dipinjam",
+          "ms": "Tanya berapa banyak buku yang boleh dipinjam",
+          "ko": "책을 몇 권까지 빌릴 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte cuántos libros puede pedir prestados",
+        "practice_translations": {
+          "en": "Ask how many books you can borrow",
+          "es": "Pregunte cuántos libros puede pedir prestados",
+          "ja": "何冊借りられるか聞いてください",
+          "ko": "책을 몇 권까지 빌릴 수 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I'd like to get a library card.",
+      "native_translations": {
+        "en": "Hi, I'd like to get a library card.",
+        "es": "Hola, me gustaría sacar un carné de biblioteca.",
+        "fr": "Bonjour, j'aimerais avoir une carte de bibliothèque.",
+        "de": "Hallo, ich hätte gern einen Bibliotheksausweis.",
+        "it": "Buongiorno, vorrei fare la tessera della biblioteca.",
+        "pl": "Dzień dobry, chciałbym wyrobić kartę biblioteczną.",
+        "pt": "Oi, eu gostaria de fazer o cartão da biblioteca.",
+        "nl": "Hallo, ik wil graag een bibliotheekpas aanvragen.",
+        "hr": "Dobar dan, želim se učlaniti u knjižnicu.",
+        "tr": "Merhaba, kütüphane kartı almak istiyorum.",
+        "uk": "Добрий день, я хотів би отримати читацький квиток.",
+        "ar": "مرحبًا، أودّ الحصول على بطاقة مكتبة.",
+        "hi": "नमस्ते, मैं लाइब्रेरी कार्ड बनवाना चाहता हूँ।",
+        "vi": "Chào anh/chị, tôi muốn làm thẻ thư viện.",
+        "id": "Halo, saya ingin membuat kartu perpustakaan.",
+        "ms": "Hai, saya ingin membuat kad perpustakaan.",
+        "ko": "안녕하세요, 도서관 카드를 만들고 싶어요."
+      },
+      "practice": "Hola, me gustaría sacar un carné de biblioteca.",
+      "practice_translations": {
+        "en": "Hi, I'd like to get a library card.",
+        "es": "Hola, me gustaría sacar un carné de biblioteca.",
+        "ja": "こんにちは、図書館カードを作りたいのですが。",
+        "ko": "안녕하세요, 도서관 카드를 만들고 싶어요."
+      }
+    },
+    {
+      "native": "Do I need proof of address?",
+      "native_translations": {
+        "en": "Do I need proof of address?",
+        "es": "¿Necesito un comprobante de domicilio?",
+        "fr": "Ai-je besoin d'un justificatif de domicile ?",
+        "de": "Brauche ich einen Adressnachweis?",
+        "it": "Serve una prova di residenza?",
+        "pl": "Czy potrzebuję potwierdzenia adresu?",
+        "pt": "Preciso de comprovante de endereço?",
+        "nl": "Heb ik een bewijs van adres nodig?",
+        "hr": "Trebam li dokaz adrese?",
+        "tr": "Adres kanıtı gerekiyor mu?",
+        "uk": "Мені потрібне підтвердження адреси?",
+        "ar": "هل أحتاج إلى إثبات عنوان السكن؟",
+        "hi": "क्या मुझे पते का सबूत चाहिए?",
+        "vi": "Tôi có cần giấy xác nhận địa chỉ không?",
+        "id": "Apakah saya perlu bukti alamat?",
+        "ms": "Adakah saya perlu bukti alamat?",
+        "ko": "주소 증명이 필요한가요?"
+      },
+      "practice": "¿Necesito un comprobante de domicilio?",
+      "practice_translations": {
+        "en": "Do I need proof of address?",
+        "es": "¿Necesito un comprobante de domicilio?",
+        "ja": "住所の証明は必要ですか。",
+        "ko": "주소 증명이 필요한가요?"
+      }
+    },
+    {
+      "native": "How long can I keep the books?",
+      "native_translations": {
+        "en": "How long can I keep the books?",
+        "es": "¿Por cuánto tiempo puedo tener los libros?",
+        "fr": "Combien de temps puis-je garder les livres ?",
+        "de": "Wie lange darf ich die Bücher behalten?",
+        "it": "Per quanto tempo posso tenere i libri?",
+        "pl": "Jak długo mogę trzymać książki?",
+        "pt": "Por quanto tempo posso ficar com os livros?",
+        "nl": "Hoe lang mag ik de boeken houden?",
+        "hr": "Koliko dugo mogu zadržati knjige?",
+        "tr": "Kitapları ne kadar süre tutabilirim?",
+        "uk": "Як довго я можу тримати книжки?",
+        "ar": "كم من الوقت يمكنني الاحتفاظ بالكتب؟",
+        "hi": "मैं किताबें कितने दिन तक रख सकता हूँ?",
+        "vi": "Tôi được giữ sách trong bao lâu?",
+        "id": "Berapa lama saya boleh meminjam bukunya?",
+        "ms": "Berapa lama saya boleh simpan buku itu?",
+        "ko": "책은 얼마 동안 빌릴 수 있어요?"
+      },
+      "practice": "¿Por cuánto tiempo puedo tener los libros?",
+      "practice_translations": {
+        "en": "How long can I keep the books?",
+        "es": "¿Por cuánto tiempo puedo tener los libros?",
+        "ja": "本はどのくらい借りられますか。",
+        "ko": "책은 얼마 동안 빌릴 수 있어요?"
+      }
+    },
+    {
+      "native": "Is there a fee?",
+      "native_translations": {
+        "en": "Is there a fee?",
+        "es": "¿Tiene algún costo?",
+        "fr": "Est-ce que c'est payant ?",
+        "de": "Kostet das etwas?",
+        "it": "C'è da pagare?",
+        "pl": "Czy to jest płatne?",
+        "pt": "Tem alguma taxa?",
+        "nl": "Kost het iets?",
+        "hr": "Plaća li se članarina?",
+        "tr": "Bir ücreti var mı?",
+        "uk": "Це платно?",
+        "ar": "هل هناك رسوم؟",
+        "hi": "क्या कोई फ़ीस है?",
+        "vi": "Có mất phí không?",
+        "id": "Apakah ada biayanya?",
+        "ms": "Adakah ada bayaran?",
+        "ko": "요금이 있나요?"
+      },
+      "practice": "¿Tiene algún costo?",
+      "practice_translations": {
+        "en": "Is there a fee?",
+        "es": "¿Tiene algún costo?",
+        "ja": "料金はかかりますか。",
+        "ko": "요금이 있나요?"
+      }
+    }
+  ]
+}

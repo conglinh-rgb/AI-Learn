@@ -1,0 +1,318 @@
+{
+  "id": "family_handling_your_child_s_health_c1",
+  "title": "Booking a Doctor's Appointment",
+  "title_translations": {
+    "en": "Booking a Doctor's Appointment",
+    "es": "Pedir una cita médica",
+    "fr": "Prendre rendez-vous chez le médecin",
+    "de": "Einen Arzttermin vereinbaren",
+    "it": "Prenotare una visita dal medico",
+    "pl": "Umówienie wizyty u lekarza",
+    "pt": "Marcando consulta médica",
+    "nl": "Een afspraak bij de dokter maken",
+    "hr": "Naručivanje kod liječnika",
+    "tr": "Doktordan Randevu Almak",
+    "uk": "Запис до лікаря",
+    "ar": "حجز موعد عند الطبيب",
+    "hi": "डॉक्टर का अपॉइंटमेंट बुक करना",
+    "vi": "Đặt lịch khám bác sĩ",
+    "id": "Membuat Janji dengan Dokter",
+    "ms": "Menempah Temu Janji Doktor",
+    "ko": "진료 예약하기"
+  },
+  "character": "fox",
+  "scenario": "Your child has had a cough for three days. You call the clinic, and the receptionist (AI) helps you book a visit.",
+  "scenario_translations": {
+    "en": "Your child has had a cough for three days. You call the clinic, and the receptionist (AI) helps you book a visit.",
+    "es": "Su hijo lleva tres días con tos. Llama a la clínica y la recepcionista (AI) le ayuda a agendar una consulta.",
+    "fr": "Votre enfant tousse depuis trois jours. Vous appelez le cabinet médical, et le secrétaire médical (AI) vous aide à prendre rendez-vous.",
+    "de": "Ihr Kind hustet seit drei Tagen. Sie rufen in der Praxis an, und die Person am Empfang (AI) hilft Ihnen, einen Termin zu vereinbaren.",
+    "it": "Tuo figlio ha la tosse da tre giorni. Chiami l'ambulatorio e l'addetto alla reception (AI) ti aiuta a prenotare una visita.",
+    "pl": "Twoje dziecko kaszle od trzech dni. Dzwonisz do przychodni, a rejestratorka (AI) pomaga ci umówić wizytę.",
+    "pt": "Seu filho está com tosse há três dias. Você liga para a clínica, e a recepcionista (AI) te ajuda a marcar uma consulta.",
+    "nl": "Je kind hoest al drie dagen. Je belt de praktijk en de assistente (AI) helpt je een afspraak te maken.",
+    "hr": "Tvoje dijete kašlje već tri dana. Zoveš ambulantu, a medicinska sestra na prijemu (AI) pomaže ti dogovoriti pregled.",
+    "tr": "Çocuğunuz üç gündür öksürüyor. Kliniği arıyorsunuz ve danışma görevlisi (AI) randevu almanıza yardım ediyor.",
+    "uk": "Твоя дитина кашляє вже три дні. Ти телефонуєш у клініку, і реєстратор (AI) допомагає записатися на прийом.",
+    "ar": "يعاني طفلك من السعال منذ ثلاثة أيام. تتصل بالعيادة، وموظف الاستقبال (AI) يساعدك في حجز زيارة.",
+    "hi": "आपके बच्चे को तीन दिन से खाँसी है। आप क्लिनिक में फ़ोन करते हैं, और रिसेप्शनिस्ट (AI) अपॉइंटमेंट बुक करने में आपकी मदद करती हैं।",
+    "vi": "Con bạn bị ho đã ba ngày. Bạn gọi đến phòng khám, và nhân viên lễ tân (AI) giúp bạn đặt lịch khám.",
+    "id": "Anakmu sudah batuk selama tiga hari. Kamu menelepon klinik, dan resepsionis (AI) membantumu membuat janji.",
+    "ms": "Anak anda sudah batuk selama tiga hari. Anda menelefon klinik, dan penyambut tetamu (AI) membantu anda menempah temu janji.",
+    "ko": "아이가 사흘째 기침을 하고 있어요. 병원에 전화하자 접수 직원(AI)이 예약을 도와줘요."
+  },
+  "mission": {
+    "native": "Book an appointment for your child and confirm the time.",
+    "native_translations": {
+      "en": "Book an appointment for your child and confirm the time.",
+      "es": "Haga una cita para su hijo y confirme la hora.",
+      "fr": "Prenez rendez-vous pour votre enfant et confirmez l'horaire.",
+      "de": "Vereinbaren Sie einen Termin für Ihr Kind und bestätigen Sie die Uhrzeit.",
+      "it": "Prenota una visita per tuo figlio e conferma l'orario.",
+      "pl": "Umów wizytę dla dziecka i potwierdź godzinę.",
+      "pt": "Marque uma consulta para seu filho e confirme o horário.",
+      "nl": "Maak een afspraak voor je kind en bevestig de tijd.",
+      "hr": "Naruči dijete na pregled i potvrdi termin.",
+      "tr": "Çocuğunuz için randevu alın ve saati teyit edin.",
+      "uk": "Запиши дитину на прийом і підтверди час.",
+      "ar": "احجز موعدًا لطفلك وأكّد الوقت.",
+      "hi": "अपने बच्चे के लिए अपॉइंटमेंट बुक कीजिए और समय पक्का कीजिए।",
+      "vi": "Đặt lịch khám cho con và xác nhận thời gian.",
+      "id": "Buat janji temu untuk anakmu dan konfirmasi waktunya.",
+      "ms": "Tempah temu janji untuk anak anda dan sahkan masanya.",
+      "ko": "아이의 진료를 예약하고 시간을 확인하세요."
+    },
+    "practice": "Haga una cita para su hijo y confirme la hora.",
+    "practice_translations": {
+      "en": "Book an appointment for your child and confirm the time.",
+      "es": "Haga una cita para su hijo y confirme la hora.",
+      "ja": "子どもの診察を予約して、時間を確認してください。",
+      "ko": "아이의 진료를 예약하고 시간을 확인하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you need an appointment for your child",
+        "native_translations": {
+          "en": "Say you need an appointment for your child",
+          "es": "Diga que necesita una cita para su hijo",
+          "fr": "Dites que vous avez besoin d'un rendez-vous pour votre enfant",
+          "de": "Sagen Sie, dass Sie einen Termin für Ihr Kind brauchen",
+          "it": "Di' che ti serve una visita per tuo figlio",
+          "pl": "Powiedz, że potrzebujesz wizyty dla dziecka",
+          "pt": "Diga que precisa de uma consulta para seu filho",
+          "nl": "Zeg dat je een afspraak nodig hebt voor je kind",
+          "hr": "Reci da trebaš termin za svoje dijete",
+          "tr": "Çocuğunuz için randevuya ihtiyacınız olduğunu söyleyin",
+          "uk": "Скажи, що хочеш записати дитину на прийом",
+          "ar": "قل إنك تحتاج إلى موعد لطفلك",
+          "hi": "बताइए कि आपको अपने बच्चे के लिए अपॉइंटमेंट चाहिए",
+          "vi": "Nói rằng bạn cần đặt lịch khám cho con",
+          "id": "Katakan bahwa kamu perlu janji temu untuk anakmu",
+          "ms": "Katakan anda perlukan temu janji untuk anak anda",
+          "ko": "아이 진료 예약이 필요하다고 말하세요"
+        },
+        "practice": "Diga que necesita una cita para su hijo",
+        "practice_translations": {
+          "en": "Say you need an appointment for your child",
+          "es": "Diga que necesita una cita para su hijo",
+          "ja": "子どもの予約をしたいと伝えてください",
+          "ko": "아이 진료 예약이 필요하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe your child's symptoms briefly",
+        "native_translations": {
+          "en": "Describe your child's symptoms briefly",
+          "es": "Describa brevemente los síntomas de su hijo",
+          "fr": "Décrivez brièvement les symptômes de votre enfant",
+          "de": "Beschreiben Sie kurz die Symptome Ihres Kindes",
+          "it": "Descrivi brevemente i sintomi di tuo figlio",
+          "pl": "Krótko opisz objawy dziecka",
+          "pt": "Descreva brevemente os sintomas do seu filho",
+          "nl": "Beschrijf kort de klachten van je kind",
+          "hr": "Ukratko opiši simptome svog djeteta",
+          "tr": "Çocuğunuzun belirtilerini kısaca anlatın",
+          "uk": "Коротко опиши симптоми дитини",
+          "ar": "صف أعراض طفلك باختصار",
+          "hi": "अपने बच्चे के लक्षण संक्षेप में बताइए",
+          "vi": "Mô tả ngắn gọn triệu chứng của con",
+          "id": "Jelaskan gejala anakmu secara singkat",
+          "ms": "Terangkan simptom anak anda secara ringkas",
+          "ko": "아이의 증상을 간단히 설명하세요"
+        },
+        "practice": "Describa brevemente los síntomas de su hijo",
+        "practice_translations": {
+          "en": "Describe your child's symptoms briefly",
+          "es": "Describa brevemente los síntomas de su hijo",
+          "ja": "子どもの症状を簡単に説明してください",
+          "ko": "아이의 증상을 간단히 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Confirm the day and time of the appointment",
+        "native_translations": {
+          "en": "Confirm the day and time of the appointment",
+          "es": "Confirme el día y la hora de la cita",
+          "fr": "Confirmez le jour et l'heure du rendez-vous",
+          "de": "Bestätigen Sie Tag und Uhrzeit des Termins",
+          "it": "Conferma il giorno e l'ora della visita",
+          "pl": "Potwierdź dzień i godzinę wizyty",
+          "pt": "Confirme o dia e o horário da consulta",
+          "nl": "Bevestig de dag en tijd van de afspraak",
+          "hr": "Potvrdi dan i sat pregleda",
+          "tr": "Randevunun gününü ve saatini teyit edin",
+          "uk": "Підтверди день і час прийому",
+          "ar": "أكّد يوم الموعد ووقته",
+          "hi": "अपॉइंटमेंट का दिन और समय पक्का कीजिए",
+          "vi": "Xác nhận ngày và giờ khám",
+          "id": "Konfirmasi hari dan jam janji temunya",
+          "ms": "Sahkan hari dan masa temu janji",
+          "ko": "예약 날짜와 시간을 확인하세요"
+        },
+        "practice": "Confirme el día y la hora de la cita",
+        "practice_translations": {
+          "en": "Confirm the day and time of the appointment",
+          "es": "Confirme el día y la hora de la cita",
+          "ja": "予約の日時を確認してください",
+          "ko": "예약 날짜와 시간을 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hello, I'd like to make an appointment for my daughter.",
+      "native_translations": {
+        "en": "Hello, I'd like to make an appointment for my daughter.",
+        "es": "Hola, quisiera hacer una cita para mi hija.",
+        "fr": "Bonjour, je voudrais prendre rendez-vous pour ma fille.",
+        "de": "Guten Tag, ich möchte einen Termin für meine Tochter vereinbaren.",
+        "it": "Buongiorno, vorrei prenotare una visita per mia figlia.",
+        "pl": "Dzień dobry, chciałbym umówić córkę na wizytę.",
+        "pt": "Olá, eu gostaria de marcar uma consulta para minha filha.",
+        "nl": "Hallo, ik wil graag een afspraak maken voor mijn dochter.",
+        "hr": "Dobar dan, trebao bi mi termin za kćer.",
+        "tr": "Merhaba, kızım için randevu almak istiyorum.",
+        "uk": "Добрий день, я хотів би записати доньку на прийом.",
+        "ar": "مرحبًا، أود حجز موعد لابنتي من فضلك.",
+        "hi": "नमस्ते, मैं अपनी बेटी के लिए अपॉइंटमेंट लेना चाहता हूँ।",
+        "vi": "Chào anh/chị, tôi muốn đặt lịch khám cho con gái tôi.",
+        "id": "Halo, saya ingin membuat janji untuk putri saya.",
+        "ms": "Helo, saya mahu buat temu janji untuk anak perempuan saya.",
+        "ko": "안녕하세요, 딸아이 진료 예약을 하고 싶어요."
+      },
+      "practice": "Hola, quisiera hacer una cita para mi hija.",
+      "practice_translations": {
+        "en": "Hello, I'd like to make an appointment for my daughter.",
+        "es": "Hola, quisiera hacer una cita para mi hija.",
+        "ja": "もしもし、娘の診察の予約をお願いしたいのですが。",
+        "ko": "안녕하세요, 딸아이 진료 예약을 하고 싶어요."
+      }
+    },
+    {
+      "native": "She's had a cough for three days.",
+      "native_translations": {
+        "en": "She's had a cough for three days.",
+        "es": "Tiene tos desde hace tres días.",
+        "fr": "Elle tousse depuis trois jours.",
+        "de": "Sie hustet seit drei Tagen.",
+        "it": "Ha la tosse da tre giorni.",
+        "pl": "Od trzech dni ma kaszel.",
+        "pt": "Ela está com tosse há três dias.",
+        "nl": "Ze hoest al drie dagen.",
+        "hr": "Kašlje već tri dana.",
+        "tr": "Üç gündür öksürüyor.",
+        "uk": "Вона кашляє вже три дні.",
+        "ar": "تعاني من السعال منذ ثلاثة أيام.",
+        "hi": "उसे तीन दिन से खाँसी है।",
+        "vi": "Cháu bị ho ba ngày nay rồi.",
+        "id": "Dia sudah batuk selama tiga hari.",
+        "ms": "Dia sudah batuk selama tiga hari.",
+        "ko": "아이가 사흘째 기침을 해요."
+      },
+      "practice": "Tiene tos desde hace tres días.",
+      "practice_translations": {
+        "en": "She's had a cough for three days.",
+        "es": "Tiene tos desde hace tres días.",
+        "ja": "3日前から咳が出ています。",
+        "ko": "아이가 사흘째 기침을 해요."
+      }
+    },
+    {
+      "native": "She doesn't have a fever, but she's very tired.",
+      "native_translations": {
+        "en": "She doesn't have a fever, but she's very tired.",
+        "es": "No tiene fiebre, pero está muy cansada.",
+        "fr": "Elle n'a pas de fièvre, mais elle est très fatiguée.",
+        "de": "Sie hat kein Fieber, ist aber sehr müde.",
+        "it": "Non ha la febbre, ma è molto stanca.",
+        "pl": "Nie ma gorączki, ale jest bardzo zmęczona.",
+        "pt": "Ela não está com febre, mas está muito cansada.",
+        "nl": "Ze heeft geen koorts, maar ze is erg moe.",
+        "hr": "Nema temperaturu, ali jako je umorna.",
+        "tr": "Ateşi yok ama çok yorgun.",
+        "uk": "Температури немає, але вона дуже втомлена.",
+        "ar": "ليست لديها حمى، لكنها متعبة جدًا.",
+        "hi": "उसे बुख़ार नहीं है, लेकिन वह बहुत थकी हुई है।",
+        "vi": "Cháu không sốt, nhưng rất mệt.",
+        "id": "Dia tidak demam, tapi sangat lemas.",
+        "ms": "Dia tidak demam, tetapi dia sangat letih.",
+        "ko": "열은 없는데 많이 피곤해해요."
+      },
+      "practice": "No tiene fiebre, pero está muy cansada.",
+      "practice_translations": {
+        "en": "She doesn't have a fever, but she's very tired.",
+        "es": "No tiene fiebre, pero está muy cansada.",
+        "ja": "熱はありませんが、とても疲れています。",
+        "ko": "열은 없는데 많이 피곤해해요."
+      }
+    },
+    {
+      "native": "Is there anything available tomorrow morning?",
+      "native_translations": {
+        "en": "Is there anything available tomorrow morning?",
+        "es": "¿Hay algo disponible mañana por la mañana?",
+        "fr": "Auriez-vous une disponibilité demain matin ?",
+        "de": "Haben Sie morgen Vormittag etwas frei?",
+        "it": "C'è qualcosa di disponibile domani mattina?",
+        "pl": "Czy jest jakiś wolny termin jutro rano?",
+        "pt": "Tem algum horário disponível amanhã de manhã?",
+        "nl": "Is er morgenochtend nog iets vrij?",
+        "hr": "Imate li nešto slobodno sutra ujutro?",
+        "tr": "Yarın sabah boş bir saat var mı?",
+        "uk": "Чи є вільний час завтра зранку?",
+        "ar": "هل يوجد موعد متاح صباح الغد؟",
+        "hi": "क्या कल सुबह कोई समय ख़ाली है?",
+        "vi": "Sáng mai còn lịch trống nào không ạ?",
+        "id": "Apakah ada jadwal kosong besok pagi?",
+        "ms": "Ada slot kosong esok pagi?",
+        "ko": "내일 오전에 가능한 시간 있나요?"
+      },
+      "practice": "¿Hay algo disponible mañana por la mañana?",
+      "practice_translations": {
+        "en": "Is there anything available tomorrow morning?",
+        "es": "¿Hay algo disponible mañana por la mañana?",
+        "ja": "明日の午前中に空きはありますか。",
+        "ko": "내일 오전에 가능한 시간 있나요?"
+      }
+    },
+    {
+      "native": "So that's Thursday at nine thirty, right?",
+      "native_translations": {
+        "en": "So that's Thursday at nine thirty, right?",
+        "es": "Entonces es el jueves a las nueve y media, ¿verdad?",
+        "fr": "Donc c'est jeudi à neuf heures et demie, c'est bien ça ?",
+        "de": "Also Donnerstag um halb zehn, richtig?",
+        "it": "Quindi giovedì alle nove e mezza, giusto?",
+        "pl": "Czyli czwartek o dziewiątej trzydzieści, tak?",
+        "pt": "Então fica quinta às nove e meia, certo?",
+        "nl": "Dus donderdag om half tien, klopt dat?",
+        "hr": "Znači, u četvrtak u devet i trideset, je li tako?",
+        "tr": "Yani perşembe saat dokuz buçuk, değil mi?",
+        "uk": "Отже, четвер о дев'ятій тридцять, правильно?",
+        "ar": "إذن الموعد يوم الخميس في التاسعة والنصف، صحيح؟",
+        "hi": "तो गुरुवार को साढ़े नौ बजे, ठीक है?",
+        "vi": "Vậy là chín giờ rưỡi sáng thứ Năm, đúng không ạ?",
+        "id": "Jadi hari Kamis jam setengah sepuluh, ya?",
+        "ms": "Jadi, hari Khamis pukul sembilan setengah, betul?",
+        "ko": "그럼 목요일 9시 30분 맞죠?"
+      },
+      "practice": "Entonces es el jueves a las nueve y media, ¿verdad?",
+      "practice_translations": {
+        "en": "So that's Thursday at nine thirty, right?",
+        "es": "Entonces es el jueves a las nueve y media, ¿verdad?",
+        "ja": "では、木曜日の9時半ですね。",
+        "ko": "그럼 목요일 9시 30분 맞죠?"
+      }
+    }
+  ]
+}

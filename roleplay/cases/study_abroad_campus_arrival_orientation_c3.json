@@ -1,0 +1,351 @@
+{
+  "id": "study_abroad_campus_arrival_orientation_c3",
+  "title": "The Room Mix-Up",
+  "title_translations": {
+    "en": "The Room Mix-Up",
+    "es": "La confusión con la habitación",
+    "fr": "La chambre attribuée par erreur",
+    "de": "Das Zimmer-Durcheinander",
+    "it": "Il pasticcio della stanza",
+    "pl": "Pomyłka z pokojem",
+    "pt": "A confusão do quarto",
+    "nl": "Verwarring over de kamer",
+    "hr": "Zbrka oko sobe",
+    "tr": "Oda Karışıklığı",
+    "uk": "Плутанина з кімнатою",
+    "ar": "خلط في الغرف",
+    "hi": "कमरे की गड़बड़",
+    "vi": "Nhầm phòng",
+    "id": "Kamar yang Tertukar",
+    "ms": "Bilik yang Tertukar",
+    "ko": "방 배정 착오"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You arrive late at night and find your dorm room was given to someone else. The housing officer (AI) says there are no free rooms.",
+  "scenario_translations": {
+    "en": "You arrive late at night and find your dorm room was given to someone else. The housing officer (AI) says there are no free rooms.",
+    "es": "Llega tarde por la noche y descubre que su habitación de la residencia se la dieron a otra persona. El encargado de alojamiento (AI) dice que no hay habitaciones libres.",
+    "fr": "Vous arrivez tard le soir et découvrez que votre chambre en résidence a été attribuée à quelqu'un d'autre. Le responsable du logement (AI) affirme qu'il n'y a plus de chambre libre.",
+    "de": "Sie kommen spät in der Nacht an und stellen fest, dass Ihr Wohnheimzimmer an jemand anderen vergeben wurde. Der Mitarbeiter der Wohnheimverwaltung (AI) sagt, es gebe keine freien Zimmer.",
+    "it": "Arrivi a tarda notte e scopri che la tua stanza nello studentato è stata data a qualcun altro. L'addetto agli alloggi (AI) dice che non ci sono stanze libere.",
+    "pl": "Przyjeżdżasz późno w nocy i okazuje się, że twój pokój w akademiku dostał ktoś inny. Pracownik działu zakwaterowania (AI) mówi, że nie ma wolnych pokoi.",
+    "pt": "Você chega tarde da noite e descobre que seu quarto no alojamento foi dado para outra pessoa. O responsável pela moradia (AI) diz que não há quartos livres.",
+    "nl": "Je komt 's avonds laat aan en ontdekt dat je kamer in de studentenflat aan iemand anders is gegeven. De huisvestingsmedewerker (AI) zegt dat er geen kamers vrij zijn.",
+    "hr": "Stižeš kasno navečer i otkrivaš da je tvoja soba u domu dodijeljena nekom drugom. Službenik za smještaj (AI) kaže da nema slobodnih soba.",
+    "tr": "Gece geç saatte geliyorsunuz ve yurt odanızın başka birine verildiğini görüyorsunuz. Konaklama görevlisi (AI) boş oda olmadığını söylüyor.",
+    "uk": "Ти приїжджаєш пізно ввечері й бачиш, що твою кімнату в гуртожитку віддали комусь іншому. Працівник житлового відділу (AI) каже, що вільних кімнат немає.",
+    "ar": "تصل في وقت متأخر من الليل فتجد أن غرفتك في السكن أُعطيت لشخص آخر. يقول موظف الإسكان (AI) إنه لا توجد غرف شاغرة.",
+    "hi": "आप देर रात पहुँचते हैं और पता चलता है कि आपका हॉस्टल का कमरा किसी और को दे दिया गया है। हाउसिंग अधिकारी (AI) कहते हैं कि कोई कमरा ख़ाली नहीं है।",
+    "vi": "Bạn đến nơi lúc đêm muộn và phát hiện phòng ký túc xá của mình đã bị giao cho người khác. Nhân viên phụ trách nhà ở (AI) nói không còn phòng trống.",
+    "id": "Kamu tiba larut malam dan mendapati kamar asramamu sudah diberikan ke orang lain. Petugas perumahan (AI) bilang tidak ada kamar kosong.",
+    "ms": "Anda tiba lewat malam dan mendapati bilik asrama anda telah diberikan kepada orang lain. Pegawai perumahan (AI) berkata tiada bilik kosong.",
+    "ko": "밤늦게 도착했는데 기숙사 방이 다른 사람에게 배정되어 있습니다. 기숙사 담당자(AI)는 빈방이 없다고 말합니다."
+  },
+  "mission": {
+    "native": "Stay calm, explain the problem and get a place to sleep tonight.",
+    "native_translations": {
+      "en": "Stay calm, explain the problem and get a place to sleep tonight.",
+      "es": "Mantenga la calma, explique el problema y consiga un lugar donde dormir esta noche.",
+      "fr": "Restez calme, expliquez le problème et obtenez un endroit où dormir ce soir.",
+      "de": "Bleiben Sie ruhig, erklären Sie das Problem und sorgen Sie dafür, dass Sie heute Nacht einen Schlafplatz haben.",
+      "it": "Mantieni la calma, spiega il problema e trova un posto dove dormire stanotte.",
+      "pl": "Zachowaj spokój, wyjaśnij problem i zdobądź miejsce do spania na dzisiejszą noc.",
+      "pt": "Mantenha a calma, explique o problema e consiga um lugar para dormir esta noite.",
+      "nl": "Blijf kalm, leg het probleem uit en regel een slaapplek voor vannacht.",
+      "hr": "Smireno objasni problem i osiguraj mjesto za spavanje večeras.",
+      "tr": "Sakin kalın, sorunu açıklayın ve bu gece kalacak bir yer bulun.",
+      "uk": "Зберігай спокій, поясни проблему й знайди, де переночувати сьогодні.",
+      "ar": "حافظ على هدوئك، واشرح المشكلة، واحصل على مكان تنام فيه الليلة.",
+      "hi": "शांत रहिए, समस्या समझाइए और आज रात सोने की जगह का इंतज़ाम करवाइए।",
+      "vi": "Giữ bình tĩnh, giải thích vấn đề và tìm được chỗ ngủ đêm nay.",
+      "id": "Tetap tenang, jelaskan masalahnya, dan dapatkan tempat tidur untuk malam ini.",
+      "ms": "Bertenang, terangkan masalah itu dan dapatkan tempat untuk tidur malam ini.",
+      "ko": "침착하게 문제를 설명하고 오늘 밤 잘 곳을 구하세요."
+    },
+    "practice": "Mantenga la calma, explique el problema y consiga un lugar donde dormir esta noche.",
+    "practice_translations": {
+      "en": "Stay calm, explain the problem and get a place to sleep tonight.",
+      "es": "Mantenga la calma, explique el problema y consiga un lugar donde dormir esta noche.",
+      "ja": "落ち着いて問題を説明し、今夜泊まる場所を確保してください。",
+      "ko": "침착하게 문제를 설명하고 오늘 밤 잘 곳을 구하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain that your room was given away",
+        "native_translations": {
+          "en": "Explain that your room was given away",
+          "es": "Explique que su habitación se asignó a otra persona",
+          "fr": "Expliquez que votre chambre a été attribuée à quelqu'un d'autre",
+          "de": "Erklären Sie, dass Ihr Zimmer an jemand anderen vergeben wurde",
+          "it": "Spiega che la tua stanza è stata assegnata a qualcun altro",
+          "pl": "Wyjaśnij, że twój pokój oddano komuś innemu",
+          "pt": "Explique que seu quarto foi dado para outra pessoa",
+          "nl": "Leg uit dat je kamer aan iemand anders is gegeven",
+          "hr": "Objasni da je tvoja soba dodijeljena nekom drugom",
+          "tr": "Odanızın başkasına verildiğini açıklayın",
+          "uk": "Поясни, що твою кімнату віддали",
+          "ar": "اشرح أن غرفتك أُعطيت لشخص آخر",
+          "hi": "बताइए कि आपका कमरा किसी और को दे दिया गया है",
+          "vi": "Giải thích rằng phòng của bạn đã bị giao cho người khác",
+          "id": "Jelaskan bahwa kamarmu sudah diberikan ke orang lain",
+          "ms": "Terangkan bahawa bilik anda telah diberikan kepada orang lain",
+          "ko": "내 방이 다른 사람에게 배정되었다고 설명하세요"
+        },
+        "practice": "Explique que su habitación se asignó a otra persona",
+        "practice_translations": {
+          "en": "Explain that your room was given away",
+          "es": "Explique que su habitación se asignó a otra persona",
+          "ja": "自分の部屋がほかの人に割り当てられたと説明してください",
+          "ko": "내 방이 다른 사람에게 배정되었다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Show proof of your booking",
+        "native_translations": {
+          "en": "Show proof of your booking",
+          "es": "Muestre el comprobante de su reserva",
+          "fr": "Montrez la preuve de votre réservation",
+          "de": "Zeigen Sie einen Nachweis Ihrer Buchung",
+          "it": "Mostra la prova della tua prenotazione",
+          "pl": "Pokaż potwierdzenie rezerwacji",
+          "pt": "Mostre o comprovante da sua reserva",
+          "nl": "Laat een bewijs van je boeking zien",
+          "hr": "Pokaži dokaz o rezervaciji",
+          "tr": "Rezervasyonunuzun kanıtını gösterin",
+          "uk": "Покажи підтвердження бронювання",
+          "ar": "أظهر ما يثبت حجزك",
+          "hi": "अपनी बुकिंग का सबूत दिखाइए",
+          "vi": "Đưa ra bằng chứng đặt phòng",
+          "id": "Tunjukkan bukti pemesananmu",
+          "ms": "Tunjukkan bukti tempahan anda",
+          "ko": "예약 증명을 보여 주세요"
+        },
+        "practice": "Muestre el comprobante de su reserva",
+        "practice_translations": {
+          "en": "Show proof of your booking",
+          "es": "Muestre el comprobante de su reserva",
+          "ja": "予約の証明を見せてください",
+          "ko": "예약 증명을 보여 주세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for a temporary room for tonight",
+        "native_translations": {
+          "en": "Ask for a temporary room for tonight",
+          "es": "Pida una habitación temporal para esta noche",
+          "fr": "Demandez une chambre provisoire pour ce soir",
+          "de": "Bitten Sie um ein Übergangszimmer für heute Nacht",
+          "it": "Chiedi una stanza temporanea per stanotte",
+          "pl": "Poproś o tymczasowy pokój na dzisiejszą noc",
+          "pt": "Peça um quarto temporário para esta noite",
+          "nl": "Vraag om een tijdelijke kamer voor vannacht",
+          "hr": "Zatraži privremenu sobu za večeras",
+          "tr": "Bu gece için geçici bir oda isteyin",
+          "uk": "Попроси тимчасову кімнату на цю ніч",
+          "ar": "اطلب غرفة مؤقتة لهذه الليلة",
+          "hi": "आज रात के लिए एक अस्थायी कमरा माँगिए",
+          "vi": "Xin một phòng tạm cho đêm nay",
+          "id": "Minta kamar sementara untuk malam ini",
+          "ms": "Minta bilik sementara untuk malam ini",
+          "ko": "오늘 밤 지낼 임시 방을 요청하세요"
+        },
+        "practice": "Pida una habitación temporal para esta noche",
+        "practice_translations": {
+          "en": "Ask for a temporary room for tonight",
+          "es": "Pida una habitación temporal para esta noche",
+          "ja": "今夜だけの仮の部屋をお願いしてください",
+          "ko": "오늘 밤 지낼 임시 방을 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on when the problem will be fixed",
+        "native_translations": {
+          "en": "Agree on when the problem will be fixed",
+          "es": "Acuerden cuándo se resolverá el problema",
+          "fr": "Convenez du moment où le problème sera réglé",
+          "de": "Vereinbaren Sie, wann das Problem gelöst wird",
+          "it": "Concorda quando verrà risolto il problema",
+          "pl": "Ustalcie, kiedy problem zostanie rozwiązany",
+          "pt": "Combine quando o problema será resolvido",
+          "nl": "Spreek af wanneer het probleem wordt opgelost",
+          "hr": "Dogovori kada će problem biti riješen",
+          "tr": "Sorunun ne zaman çözüleceğinde anlaşın",
+          "uk": "Домовся, коли проблему розв'яжуть",
+          "ar": "اتفق على موعد حلّ المشكلة",
+          "hi": "तय कीजिए कि समस्या कब तक ठीक होगी",
+          "vi": "Thống nhất khi nào vấn đề được giải quyết",
+          "id": "Sepakati kapan masalahnya akan diselesaikan",
+          "ms": "Setuju bila masalah itu akan diselesaikan",
+          "ko": "문제가 언제 해결될지 합의하세요"
+        },
+        "practice": "Acuerden cuándo se resolverá el problema",
+        "practice_translations": {
+          "en": "Agree on when the problem will be fixed",
+          "es": "Acuerden cuándo se resolverá el problema",
+          "ja": "いつ問題が解決するか決めてください",
+          "ko": "문제가 언제 해결될지 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm sorry, but someone else is already in my room.",
+      "native_translations": {
+        "en": "I'm sorry, but someone else is already in my room.",
+        "es": "Disculpe, pero ya hay otra persona en mi habitación.",
+        "fr": "Excusez-moi, mais quelqu'un occupe déjà ma chambre.",
+        "de": "Entschuldigung, aber in meinem Zimmer wohnt schon jemand anderes.",
+        "it": "Mi scusi, ma nella mia stanza c'è già un'altra persona.",
+        "pl": "Przepraszam, ale w moim pokoju jest już ktoś inny.",
+        "pt": "Desculpe, mas já tem outra pessoa no meu quarto.",
+        "nl": "Sorry, maar er zit al iemand anders in mijn kamer.",
+        "hr": "Oprostite, ali u mojoj sobi već je netko drugi.",
+        "tr": "Kusura bakmayın ama odamda zaten başka biri var.",
+        "uk": "Перепрошую, але в моїй кімнаті вже хтось живе.",
+        "ar": "أنا آسف، لكن هناك شخصًا آخر في غرفتي بالفعل.",
+        "hi": "माफ़ कीजिए, लेकिन मेरे कमरे में पहले से कोई और है।",
+        "vi": "Xin lỗi, nhưng đã có người khác ở trong phòng của tôi.",
+        "id": "Maaf, tapi sudah ada orang lain di kamar saya.",
+        "ms": "Maaf, tetapi sudah ada orang lain di dalam bilik saya.",
+        "ko": "죄송한데요, 제 방에 이미 다른 사람이 있어요."
+      },
+      "practice": "Disculpe, pero ya hay otra persona en mi habitación.",
+      "practice_translations": {
+        "en": "I'm sorry, but someone else is already in my room.",
+        "es": "Disculpe, pero ya hay otra persona en mi habitación.",
+        "ja": "すみません、私の部屋にもう別の人がいるんです。",
+        "ko": "죄송한데요, 제 방에 이미 다른 사람이 있어요."
+      }
+    },
+    {
+      "native": "Here is my booking confirmation from the university.",
+      "native_translations": {
+        "en": "Here is my booking confirmation from the university.",
+        "es": "Aquí tiene la confirmación de mi reserva de la universidad.",
+        "fr": "Voici la confirmation de réservation de l'université.",
+        "de": "Hier ist meine Buchungsbestätigung von der Universität.",
+        "it": "Ecco la conferma di prenotazione dell'università.",
+        "pl": "Oto potwierdzenie rezerwacji z uczelni.",
+        "pt": "Aqui está a confirmação da minha reserva feita pela universidade.",
+        "nl": "Hier is mijn boekingsbevestiging van de universiteit.",
+        "hr": "Evo potvrde o rezervaciji sa sveučilišta.",
+        "tr": "Üniversiteden aldığım rezervasyon onayı burada.",
+        "uk": "Ось підтвердження бронювання від університету.",
+        "ar": "هذا تأكيد حجزي من الجامعة.",
+        "hi": "यह रहा यूनिवर्सिटी से मिला मेरा बुकिंग कन्फ़र्मेशन।",
+        "vi": "Đây là xác nhận đặt phòng của trường gửi cho tôi.",
+        "id": "Ini konfirmasi pemesanan saya dari universitas.",
+        "ms": "Ini pengesahan tempahan saya daripada universiti.",
+        "ko": "여기 학교에서 받은 예약 확인서예요."
+      },
+      "practice": "Aquí tiene la confirmación de mi reserva de la universidad.",
+      "practice_translations": {
+        "en": "Here is my booking confirmation from the university.",
+        "es": "Aquí tiene la confirmación de mi reserva de la universidad.",
+        "ja": "こちらが大学からの予約確認書です。",
+        "ko": "여기 학교에서 받은 예약 확인서예요."
+      }
+    },
+    {
+      "native": "I understand it's late, but I have nowhere else to go.",
+      "native_translations": {
+        "en": "I understand it's late, but I have nowhere else to go.",
+        "es": "Entiendo que es tarde, pero no tengo otro lugar adonde ir.",
+        "fr": "Je comprends qu'il est tard, mais je n'ai nulle part où aller.",
+        "de": "Ich verstehe, dass es spät ist, aber ich kann nirgendwo anders hin.",
+        "it": "Capisco che è tardi, ma non ho nessun altro posto dove andare.",
+        "pl": "Rozumiem, że jest późno, ale nie mam dokąd pójść.",
+        "pt": "Entendo que é tarde, mas não tenho para onde ir.",
+        "nl": "Ik begrijp dat het laat is, maar ik kan nergens anders heen.",
+        "hr": "Razumijem da je kasno, ali nemam kamo drugdje otići.",
+        "tr": "Geç olduğunu biliyorum ama gidecek başka bir yerim yok.",
+        "uk": "Я розумію, що вже пізно, але мені більше нікуди йти.",
+        "ar": "أفهم أن الوقت متأخر، لكن ليس لديّ مكان آخر أذهب إليه.",
+        "hi": "मैं समझता हूँ कि देर हो गई है, लेकिन मेरे पास जाने के लिए और कोई जगह नहीं है।",
+        "vi": "Tôi biết đã muộn, nhưng tôi không còn chỗ nào khác để đi.",
+        "id": "Saya mengerti ini sudah larut, tapi saya tidak punya tempat lain.",
+        "ms": "Saya faham sudah lewat, tetapi saya tiada tempat lain untuk pergi.",
+        "ko": "늦은 시간인 건 알지만, 다른 데 갈 곳이 없어요."
+      },
+      "practice": "Entiendo que es tarde, pero no tengo otro lugar adonde ir.",
+      "practice_translations": {
+        "en": "I understand it's late, but I have nowhere else to go.",
+        "es": "Entiendo que es tarde, pero no tengo otro lugar adonde ir.",
+        "ja": "遅い時間なのはわかっていますが、ほかに行く所がないんです。",
+        "ko": "늦은 시간인 건 알지만, 다른 데 갈 곳이 없어요."
+      }
+    },
+    {
+      "native": "Could I stay in a temporary room just for tonight?",
+      "native_translations": {
+        "en": "Could I stay in a temporary room just for tonight?",
+        "es": "¿Podría quedarme en una habitación temporal solo por esta noche?",
+        "fr": "Pourrais-je dormir dans une chambre provisoire, juste pour ce soir ?",
+        "de": "Könnte ich nur für heute Nacht in einem Übergangszimmer bleiben?",
+        "it": "Potrei stare in una stanza temporanea solo per stanotte?",
+        "pl": "Czy mógłbym przenocować w tymczasowym pokoju chociaż dziś?",
+        "pt": "Eu poderia ficar em um quarto temporário só por esta noite?",
+        "nl": "Zou ik alleen voor vannacht in een tijdelijke kamer kunnen slapen?",
+        "hr": "Mogu li samo večeras prespavati u privremenoj sobi?",
+        "tr": "Sadece bu gece için geçici bir odada kalabilir miyim?",
+        "uk": "Чи можу я залишитися в тимчасовій кімнаті лише на цю ніч?",
+        "ar": "هل يمكنني البقاء في غرفة مؤقتة لهذه الليلة فقط؟",
+        "hi": "क्या मैं सिर्फ़ आज रात के लिए किसी अस्थायी कमरे में रुक सकता हूँ?",
+        "vi": "Tôi có thể ở tạm một phòng chỉ đêm nay thôi được không?",
+        "id": "Bisakah saya menginap di kamar sementara untuk malam ini saja?",
+        "ms": "Bolehkah saya tinggal di bilik sementara untuk malam ini sahaja?",
+        "ko": "오늘 밤만 임시 방에서 지낼 수 있을까요?"
+      },
+      "practice": "¿Podría quedarme en una habitación temporal solo por esta noche?",
+      "practice_translations": {
+        "en": "Could I stay in a temporary room just for tonight?",
+        "es": "¿Podría quedarme en una habitación temporal solo por esta noche?",
+        "ja": "今夜だけ、仮の部屋に泊まらせていただけませんか。",
+        "ko": "오늘 밤만 임시 방에서 지낼 수 있을까요?"
+      }
+    },
+    {
+      "native": "When can I expect my own room to be ready?",
+      "native_translations": {
+        "en": "When can I expect my own room to be ready?",
+        "es": "¿Para cuándo estaría lista mi propia habitación?",
+        "fr": "Quand ma propre chambre sera-t-elle prête ?",
+        "de": "Wann ist mein eigenes Zimmer voraussichtlich fertig?",
+        "it": "Quando sarà pronta la mia stanza?",
+        "pl": "Kiedy mój pokój będzie gotowy?",
+        "pt": "Quando meu quarto vai estar pronto?",
+        "nl": "Wanneer kan ik verwachten dat mijn eigen kamer klaar is?",
+        "hr": "Kada mogu očekivati da će moja soba biti spremna?",
+        "tr": "Kendi odam ne zaman hazır olur?",
+        "uk": "Коли моя кімната буде готова?",
+        "ar": "متى يمكنني أن أتوقع أن تكون غرفتي جاهزة؟",
+        "hi": "मेरा अपना कमरा कब तक तैयार हो जाएगा?",
+        "vi": "Khi nào thì phòng của tôi sẵn sàng?",
+        "id": "Kapan kira-kira kamar saya sendiri siap?",
+        "ms": "Bilakah bilik saya sendiri akan siap?",
+        "ko": "제 방은 언제쯤 준비될까요?"
+      },
+      "practice": "¿Para cuándo estaría lista mi propia habitación?",
+      "practice_translations": {
+        "en": "When can I expect my own room to be ready?",
+        "es": "¿Para cuándo estaría lista mi propia habitación?",
+        "ja": "自分の部屋はいつごろ用意できますか。",
+        "ko": "제 방은 언제쯤 준비될까요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "society_navigating_public_services_situation_c2",
+  "title": "Sending a Package Abroad",
+  "title_translations": {
+    "en": "Sending a Package Abroad",
+    "es": "Enviar un paquete al extranjero",
+    "fr": "Envoyer un colis à l'étranger",
+    "de": "Ein Paket ins Ausland schicken",
+    "it": "Spedire un pacco all'estero",
+    "pl": "Wysyłka paczki za granicę",
+    "pt": "Enviando um pacote para o exterior",
+    "nl": "Een pakket naar het buitenland sturen",
+    "hr": "Slanje paketa u inozemstvo",
+    "tr": "Yurt Dışına Paket Göndermek",
+    "uk": "Посилка за кордон",
+    "ar": "إرسال طرد إلى الخارج",
+    "hi": "विदेश पार्सल भेजना",
+    "vi": "Gửi bưu kiện ra nước ngoài",
+    "id": "Mengirim Paket ke Luar Negeri",
+    "ms": "Menghantar Bungkusan ke Luar Negara",
+    "ko": "해외로 소포 보내기"
+  },
+  "character": "fox",
+  "scenario": "You need to send a package to a friend in another country. The post office clerk (AI) asks what you want to send.",
+  "scenario_translations": {
+    "en": "You need to send a package to a friend in another country. The post office clerk (AI) asks what you want to send.",
+    "es": "Necesita enviar un paquete a un amigo en otro país. El empleado de correos (AI) le pregunta qué quiere enviar.",
+    "fr": "Vous devez envoyer un colis à un ami dans un autre pays. L'employé de la poste (AI) vous demande ce que vous voulez envoyer.",
+    "de": "Sie möchten einem Freund in einem anderen Land ein Paket schicken. Der Postangestellte (AI) fragt, was Sie verschicken möchten.",
+    "it": "Devi spedire un pacco a un amico in un altro paese. L'impiegato delle poste (AI) ti chiede cosa vuoi spedire.",
+    "pl": "Musisz wysłać paczkę do przyjaciela w innym kraju. Urzędniczka na poczcie (AI) pyta, co chcesz nadać.",
+    "pt": "Você precisa enviar um pacote para um amigo em outro país. O atendente dos Correios (AI) pergunta o que você quer enviar.",
+    "nl": "Je moet een pakket sturen naar een vriend in een ander land. De medewerker van het postkantoor (AI) vraagt wat je wilt versturen.",
+    "hr": "Trebaš poslati paket prijatelju u drugu zemlju. Poštanski službenik (AI) pita te što želiš poslati.",
+    "tr": "Başka bir ülkedeki bir arkadaşınıza paket göndermeniz gerekiyor. Postane görevlisi (AI) ne göndermek istediğinizi soruyor.",
+    "uk": "Тобі треба надіслати посилку другові в іншу країну. Працівник пошти (AI) питає, що ти хочеш надіслати.",
+    "ar": "تحتاج إلى إرسال طرد إلى صديق في بلد آخر. يسألك موظف البريد (AI) عمّا تريد إرساله.",
+    "hi": "आपको दूसरे देश में रहने वाले एक दोस्त को पार्सल भेजना है। डाकघर के क्लर्क (AI) पूछते हैं कि आप क्या भेजना चाहते हैं।",
+    "vi": "Bạn cần gửi một bưu kiện cho người bạn ở nước khác. Nhân viên bưu điện (AI) hỏi bạn muốn gửi gì.",
+    "id": "Kamu perlu mengirim paket ke teman di negara lain. Petugas kantor pos (AI) bertanya apa yang ingin kamu kirim.",
+    "ms": "Anda perlu menghantar bungkusan kepada kawan di negara lain. Kerani pejabat pos (AI) bertanya apa yang ingin anda hantar.",
+    "ko": "다른 나라에 사는 친구에게 소포를 보내야 합니다. 우체국 직원(AI)이 무엇을 보내고 싶은지 묻습니다."
+  },
+  "mission": {
+    "native": "Describe your package, choose a shipping option and ask when it will arrive.",
+    "native_translations": {
+      "en": "Describe your package, choose a shipping option and ask when it will arrive.",
+      "es": "Describa su paquete, elija una opción de envío y pregunte cuándo llegará.",
+      "fr": "Décrivez votre colis, choisissez un mode d'envoi et demandez quand il arrivera.",
+      "de": "Beschreiben Sie Ihr Paket, wählen Sie eine Versandart und fragen Sie, wann es ankommt.",
+      "it": "Descrivi il pacco, scegli un'opzione di spedizione e chiedi quando arriverà.",
+      "pl": "Opisz paczkę, wybierz opcję wysyłki i zapytaj, kiedy dotrze.",
+      "pt": "Descreva seu pacote, escolha uma opção de envio e pergunte quando ele vai chegar.",
+      "nl": "Beschrijf je pakket, kies een verzendoptie en vraag wanneer het aankomt.",
+      "hr": "Opiši paket, odaberi način slanja i pitaj kada će stići.",
+      "tr": "Paketinizi tarif edin, bir gönderim seçeneği seçin ve ne zaman ulaşacağını sorun.",
+      "uk": "Опиши посилку, обери спосіб доставки й запитай, коли вона прибуде.",
+      "ar": "صِف طردك، واختر طريقة الشحن، واسأل متى سيصل.",
+      "hi": "अपने पार्सल के बारे में बताइए, शिपिंग का कोई विकल्प चुनिए और पूछिए कि वह कब पहुँचेगा।",
+      "vi": "Mô tả bưu kiện, chọn hình thức gửi và hỏi khi nào hàng đến nơi.",
+      "id": "Jelaskan isi paketmu, pilih jenis pengiriman, dan tanyakan kapan paketnya sampai.",
+      "ms": "Terangkan bungkusan anda, pilih kaedah penghantaran dan tanya bila ia akan sampai.",
+      "ko": "소포 내용을 설명하고, 배송 방법을 고른 뒤 언제 도착하는지 물어보세요."
+    },
+    "practice": "Describa su paquete, elija una opción de envío y pregunte cuándo llegará.",
+    "practice_translations": {
+      "en": "Describe your package, choose a shipping option and ask when it will arrive.",
+      "es": "Describa su paquete, elija una opción de envío y pregunte cuándo llegará.",
+      "ja": "荷物の中身を説明し、配送方法を選んで、いつ届くか聞いてください。",
+      "ko": "소포 내용을 설명하고, 배송 방법을 고른 뒤 언제 도착하는지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say what is inside the package",
+        "native_translations": {
+          "en": "Say what is inside the package",
+          "es": "Diga qué hay dentro del paquete",
+          "fr": "Dites ce que contient le colis",
+          "de": "Sagen Sie, was im Paket ist",
+          "it": "Di' cosa c'è nel pacco",
+          "pl": "Powiedz, co jest w paczce",
+          "pt": "Diga o que tem dentro do pacote",
+          "nl": "Zeg wat er in het pakket zit",
+          "hr": "Reci što je u paketu",
+          "tr": "Paketin içinde ne olduğunu söyleyin",
+          "uk": "Скажи, що в посилці",
+          "ar": "قل ما بداخل الطرد",
+          "hi": "बताइए कि पार्सल में क्या है",
+          "vi": "Nói trong bưu kiện có gì",
+          "id": "Sebutkan isi paketnya",
+          "ms": "Katakan apa yang ada di dalam bungkusan",
+          "ko": "소포 안에 무엇이 들어 있는지 말하세요"
+        },
+        "practice": "Diga qué hay dentro del paquete",
+        "practice_translations": {
+          "en": "Say what is inside the package",
+          "es": "Diga qué hay dentro del paquete",
+          "ja": "荷物の中身を伝えてください",
+          "ko": "소포 안에 무엇이 들어 있는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask about the shipping options",
+        "native_translations": {
+          "en": "Ask about the shipping options",
+          "es": "Pregunte por las opciones de envío",
+          "fr": "Renseignez-vous sur les modes d'envoi",
+          "de": "Fragen Sie nach den Versandoptionen",
+          "it": "Chiedi quali sono le opzioni di spedizione",
+          "pl": "Zapytaj o opcje wysyłki",
+          "pt": "Pergunte sobre as opções de envio",
+          "nl": "Vraag naar de verzendopties",
+          "hr": "Pitaj koje su mogućnosti slanja",
+          "tr": "Gönderim seçeneklerini sorun",
+          "uk": "Запитай про способи доставки",
+          "ar": "اسأل عن خيارات الشحن",
+          "hi": "शिपिंग के विकल्पों के बारे में पूछिए",
+          "vi": "Hỏi về các hình thức gửi hàng",
+          "id": "Tanyakan pilihan pengirimannya",
+          "ms": "Tanya tentang pilihan penghantaran",
+          "ko": "배송 방법에 대해 물어보세요"
+        },
+        "practice": "Pregunte por las opciones de envío",
+        "practice_translations": {
+          "en": "Ask about the shipping options",
+          "es": "Pregunte por las opciones de envío",
+          "ja": "配送方法について聞いてください",
+          "ko": "배송 방법에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Choose the option you want",
+        "native_translations": {
+          "en": "Choose the option you want",
+          "es": "Elija la opción que quiere",
+          "fr": "Choisissez l'option qui vous convient",
+          "de": "Wählen Sie die gewünschte Option",
+          "it": "Scegli l'opzione che preferisci",
+          "pl": "Wybierz opcję, która ci odpowiada",
+          "pt": "Escolha a opção que você quer",
+          "nl": "Kies de optie die je wilt",
+          "hr": "Odaberi mogućnost koju želiš",
+          "tr": "İstediğiniz seçeneği seçin",
+          "uk": "Обери потрібний варіант",
+          "ar": "اختر الخيار الذي تريده",
+          "hi": "अपनी पसंद का विकल्प चुनिए",
+          "vi": "Chọn hình thức bạn muốn",
+          "id": "Pilih jenis pengiriman yang kamu mau",
+          "ms": "Pilih pilihan yang anda mahu",
+          "ko": "원하는 배송 방법을 고르세요"
+        },
+        "practice": "Elija la opción que quiere",
+        "practice_translations": {
+          "en": "Choose the option you want",
+          "es": "Elija la opción que quiere",
+          "ja": "希望する配送方法を選んでください",
+          "ko": "원하는 배송 방법을 고르세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask when it will arrive",
+        "native_translations": {
+          "en": "Ask when it will arrive",
+          "es": "Pregunte cuándo llegará",
+          "fr": "Demandez quand il arrivera",
+          "de": "Fragen Sie, wann es ankommt",
+          "it": "Chiedi quando arriverà",
+          "pl": "Zapytaj, kiedy dotrze",
+          "pt": "Pergunte quando vai chegar",
+          "nl": "Vraag wanneer het aankomt",
+          "hr": "Pitaj kada će paket stići",
+          "tr": "Ne zaman ulaşacağını sorun",
+          "uk": "Запитай, коли вона прибуде",
+          "ar": "اسأل متى سيصل",
+          "hi": "पूछिए कि वह कब पहुँचेगा",
+          "vi": "Hỏi khi nào hàng đến nơi",
+          "id": "Tanyakan kapan paketnya sampai",
+          "ms": "Tanya bila ia akan sampai",
+          "ko": "언제 도착하는지 물어보세요"
+        },
+        "practice": "Pregunte cuándo llegará",
+        "practice_translations": {
+          "en": "Ask when it will arrive",
+          "es": "Pregunte cuándo llegará",
+          "ja": "いつ届くか聞いてください",
+          "ko": "언제 도착하는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd like to send this package abroad.",
+      "native_translations": {
+        "en": "I'd like to send this package abroad.",
+        "es": "Quisiera enviar este paquete al extranjero.",
+        "fr": "J'aimerais envoyer ce colis à l'étranger.",
+        "de": "Ich möchte dieses Paket ins Ausland schicken.",
+        "it": "Vorrei spedire questo pacco all'estero.",
+        "pl": "Chciałbym wysłać tę paczkę za granicę.",
+        "pt": "Eu gostaria de enviar este pacote para o exterior.",
+        "nl": "Ik wil dit pakket graag naar het buitenland sturen.",
+        "hr": "Trebam poslati ovaj paket u inozemstvo.",
+        "tr": "Bu paketi yurt dışına göndermek istiyorum.",
+        "uk": "Я хотів би надіслати цю посилку за кордон.",
+        "ar": "أودّ إرسال هذا الطرد إلى الخارج.",
+        "hi": "मैं यह पार्सल विदेश भेजना चाहता हूँ।",
+        "vi": "Tôi muốn gửi bưu kiện này ra nước ngoài.",
+        "id": "Saya ingin mengirim paket ini ke luar negeri.",
+        "ms": "Saya ingin menghantar bungkusan ini ke luar negara.",
+        "ko": "이 소포를 해외로 보내고 싶어요."
+      },
+      "practice": "Quisiera enviar este paquete al extranjero.",
+      "practice_translations": {
+        "en": "I'd like to send this package abroad.",
+        "es": "Quisiera enviar este paquete al extranjero.",
+        "ja": "この荷物を海外に送りたいのですが。",
+        "ko": "이 소포를 해외로 보내고 싶어요."
+      }
+    },
+    {
+      "native": "It's just some books and a sweater.",
+      "native_translations": {
+        "en": "It's just some books and a sweater.",
+        "es": "Son solo unos libros y un suéter.",
+        "fr": "Il y a juste quelques livres et un pull.",
+        "de": "Es sind nur ein paar Bücher und ein Pullover.",
+        "it": "Ci sono solo dei libri e un maglione.",
+        "pl": "Są tam tylko książki i sweter.",
+        "pt": "São só alguns livros e um suéter.",
+        "nl": "Er zitten alleen wat boeken en een trui in.",
+        "hr": "Samo nekoliko knjiga i jedan džemper.",
+        "tr": "Sadece birkaç kitap ve bir kazak var.",
+        "uk": "Там лише кілька книжок і светр.",
+        "ar": "إنه مجرد بعض الكتب وكنزة.",
+        "hi": "इसमें बस कुछ किताबें और एक स्वेटर है।",
+        "vi": "Chỉ có vài cuốn sách và một chiếc áo len thôi.",
+        "id": "Isinya cuma beberapa buku dan sebuah sweter.",
+        "ms": "Isinya cuma beberapa buku dan sehelai baju sejuk.",
+        "ko": "책 몇 권이랑 스웨터 하나예요."
+      },
+      "practice": "Son solo unos libros y un suéter.",
+      "practice_translations": {
+        "en": "It's just some books and a sweater.",
+        "es": "Son solo unos libros y un suéter.",
+        "ja": "本とセーターが入っているだけです。",
+        "ko": "책 몇 권이랑 스웨터 하나예요."
+      }
+    },
+    {
+      "native": "What's the cheapest option?",
+      "native_translations": {
+        "en": "What's the cheapest option?",
+        "es": "¿Cuál es la opción más barata?",
+        "fr": "Quelle est l'option la moins chère ?",
+        "de": "Was ist die günstigste Option?",
+        "it": "Qual è l'opzione più economica?",
+        "pl": "Jaka jest najtańsza opcja?",
+        "pt": "Qual é a opção mais barata?",
+        "nl": "Wat is de goedkoopste optie?",
+        "hr": "Koja je najjeftinija opcija?",
+        "tr": "En ucuz seçenek hangisi?",
+        "uk": "Який варіант найдешевший?",
+        "ar": "ما هو الخيار الأرخص؟",
+        "hi": "सबसे सस्ता विकल्प कौन-सा है?",
+        "vi": "Hình thức nào rẻ nhất vậy?",
+        "id": "Pilihan mana yang paling murah?",
+        "ms": "Pilihan mana yang paling murah?",
+        "ko": "제일 싼 방법이 뭐예요?"
+      },
+      "practice": "¿Cuál es la opción más barata?",
+      "practice_translations": {
+        "en": "What's the cheapest option?",
+        "es": "¿Cuál es la opción más barata?",
+        "ja": "一番安い方法はどれですか。",
+        "ko": "제일 싼 방법이 뭐예요?"
+      }
+    },
+    {
+      "native": "Can I track the package?",
+      "native_translations": {
+        "en": "Can I track the package?",
+        "es": "¿Puedo rastrear el paquete?",
+        "fr": "Est-ce que je peux suivre le colis ?",
+        "de": "Kann ich die Sendung verfolgen?",
+        "it": "Posso tracciare il pacco?",
+        "pl": "Czy mogę śledzić przesyłkę?",
+        "pt": "Posso rastrear o pacote?",
+        "nl": "Kan ik het pakket volgen?",
+        "hr": "Mogu li pratiti pošiljku?",
+        "tr": "Paketi takip edebilir miyim?",
+        "uk": "Чи можна відстежувати посилку?",
+        "ar": "هل يمكنني تتبّع الطرد؟",
+        "hi": "क्या मैं पार्सल ट्रैक कर सकता हूँ?",
+        "vi": "Tôi có theo dõi được bưu kiện không?",
+        "id": "Apakah paketnya bisa dilacak?",
+        "ms": "Bolehkah saya jejak bungkusan ini?",
+        "ko": "소포 배송 조회가 되나요?"
+      },
+      "practice": "¿Puedo rastrear el paquete?",
+      "practice_translations": {
+        "en": "Can I track the package?",
+        "es": "¿Puedo rastrear el paquete?",
+        "ja": "荷物の追跡はできますか。",
+        "ko": "소포 배송 조회가 되나요?"
+      }
+    }
+  ]
+}

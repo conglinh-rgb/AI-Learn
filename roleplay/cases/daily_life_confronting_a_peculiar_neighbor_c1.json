@@ -1,0 +1,289 @@
+{
+  "id": "daily_life_confronting_a_peculiar_neighbor_c1",
+  "title": "The 3 A.M. Tuba Concert",
+  "title_translations": {
+    "en": "The 3 A.M. Tuba Concert",
+    "es": "El concierto de tuba de las 3 a. m.",
+    "fr": "Le concert de tuba à 3 h du matin",
+    "de": "Das Tuba-Konzert um 3 Uhr nachts",
+    "it": "Il concerto di tuba delle 3 di notte",
+    "pl": "Koncert na tubę o trzeciej w nocy",
+    "pt": "O concerto de tuba às 3 da manhã",
+    "nl": "Het tubaconcert van 3 uur 's nachts",
+    "hr": "Koncert na tubi u 3 ujutro",
+    "tr": "Gece 3'te Tuba Konseri",
+    "uk": "Концерт на тубі о 3 ночі",
+    "ar": "حفلة التوبا في الثالثة فجرًا",
+    "hi": "रात 3 बजे का ट्यूबा कॉन्सर्ट",
+    "vi": "Buổi hòa nhạc kèn tuba lúc 3 giờ sáng",
+    "id": "Konser Tuba Jam 3 Pagi",
+    "ms": "Konsert Tuba Pukul 3 Pagi",
+    "ko": "새벽 3시의 튜바 콘서트"
+  },
+  "character": "fox",
+  "scenario": "Your neighbor (AI) practices the tuba every night at 3 a.m., and you have an important meeting early tomorrow morning.",
+  "scenario_translations": {
+    "en": "Your neighbor (AI) practices the tuba every night at 3 a.m., and you have an important meeting early tomorrow morning.",
+    "es": "Su vecino (AI) practica la tuba todas las noches a las 3 a. m., y usted tiene una reunión importante mañana temprano.",
+    "fr": "Votre voisin (AI) joue du tuba toutes les nuits à 3 h du matin, et vous avez une réunion importante tôt demain matin.",
+    "de": "Ihre Nachbarin bzw. Ihr Nachbar (AI) übt jede Nacht um 3 Uhr Tuba, und Sie haben morgen früh ein wichtiges Meeting.",
+    "it": "Il tuo vicino (AI) si esercita con la tuba ogni notte alle 3, e domattina presto hai una riunione importante.",
+    "pl": "Twój sąsiad (AI) ćwiczy na tubie co noc o trzeciej, a ty masz jutro wcześnie rano ważne spotkanie.",
+    "pt": "Seu vizinho (AI) toca tuba todas as noites às 3 da manhã, e você tem uma reunião importante amanhã cedo.",
+    "nl": "Je buurman (AI) oefent elke nacht om 3 uur op zijn tuba, en jij hebt morgenvroeg een belangrijke vergadering.",
+    "hr": "Tvoj susjed (AI) svake noći u 3 ujutro vježba tubu, a ti sutra rano ujutro imaš važan sastanak.",
+    "tr": "Komşunuz (AI) her gece saat 3'te tuba çalışıyor ve yarın sabah erkenden önemli bir toplantınız var.",
+    "uk": "Твій сусід (AI) щоночі о 3-й грає на тубі, а в тебе завтра рано-вранці важлива зустріч.",
+    "ar": "يتدرب جارك (AI) على آلة التوبا كل ليلة في الثالثة فجرًا، ولديك اجتماع مهم في الصباح الباكر غدًا.",
+    "hi": "आपका पड़ोसी (AI) हर रात 3 बजे ट्यूबा बजाने का अभ्यास करता है, और कल सुबह-सुबह आपकी एक ज़रूरी मीटिंग है।",
+    "vi": "Hàng xóm (AI) của bạn tập kèn tuba mỗi đêm lúc 3 giờ sáng, trong khi sáng sớm mai bạn có một cuộc họp quan trọng.",
+    "id": "Tetanggamu (AI) berlatih tuba setiap malam jam 3 pagi, padahal besok pagi-pagi kamu ada rapat penting.",
+    "ms": "Jiran anda (AI) berlatih tuba setiap malam pada pukul 3 pagi, dan anda ada mesyuarat penting awal pagi esok.",
+    "ko": "이웃(AI)이 매일 밤 새벽 3시에 튜바를 연습하는데, 당신은 내일 아침 일찍 중요한 회의가 있어요."
+  },
+  "mission": {
+    "native": "Politely ask your neighbor to stop playing music late at night.",
+    "native_translations": {
+      "en": "Politely ask your neighbor to stop playing music late at night.",
+      "es": "Pida amablemente a su vecino que deje de tocar música tarde por la noche.",
+      "fr": "Demandez poliment à votre voisin d'arrêter de jouer de la musique tard le soir.",
+      "de": "Bitten Sie die Person nebenan höflich, spät in der Nacht keine Musik mehr zu machen.",
+      "it": "Chiedi gentilmente al tuo vicino di smettere di suonare a tarda notte.",
+      "pl": "Grzecznie poproś sąsiada, żeby przestał grać późno w nocy.",
+      "pt": "Peça educadamente ao seu vizinho que pare de tocar música tarde da noite.",
+      "nl": "Vraag je buurman beleefd om 's nachts geen muziek meer te spelen.",
+      "hr": "Pristojno zamoli susjeda da prestane svirati kasno noću.",
+      "tr": "Komşunuzdan kibarca gece geç saatlerde müzik çalmayı bırakmasını isteyin.",
+      "uk": "Ввічливо попроси сусіда не грати музику пізно вночі.",
+      "ar": "اطلب من جارك بأدب أن يتوقف عن العزف في وقت متأخر من الليل.",
+      "hi": "अपने पड़ोसी से विनम्रता से कहिए कि वह देर रात संगीत बजाना बंद करे।",
+      "vi": "Lịch sự nhờ hàng xóm đừng chơi nhạc vào đêm khuya.",
+      "id": "Minta tetanggamu dengan sopan untuk berhenti memainkan musik larut malam.",
+      "ms": "Minta jiran anda dengan sopan supaya berhenti bermain muzik lewat malam.",
+      "ko": "이웃에게 밤늦게 음악을 연주하지 말아 달라고 정중하게 부탁하세요."
+    },
+    "practice": "Pida amablemente a su vecino que deje de tocar música tarde por la noche.",
+    "practice_translations": {
+      "en": "Politely ask your neighbor to stop playing music late at night.",
+      "es": "Pida amablemente a su vecino que deje de tocar música tarde por la noche.",
+      "ja": "夜遅くに音楽を演奏するのをやめてもらうよう、隣人に丁寧にお願いしてください。",
+      "ko": "이웃에게 밤늦게 음악을 연주하지 말아 달라고 정중하게 부탁하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Introduce yourself as the neighbor next door",
+        "native_translations": {
+          "en": "Introduce yourself as the neighbor next door",
+          "es": "Preséntese como el vecino de al lado",
+          "fr": "Présentez-vous comme le voisin d'à côté",
+          "de": "Stellen Sie sich vor und sagen Sie, dass Sie nebenan wohnen",
+          "it": "Presentati come il vicino della porta accanto",
+          "pl": "Przedstaw się jako sąsiad zza ściany",
+          "pt": "Apresente-se como o vizinho do lado",
+          "nl": "Stel je voor als de buurman of buurvrouw van hiernaast",
+          "hr": "Predstavi se kao susjed iz stana do",
+          "tr": "Kendinizi yan komşu olarak tanıtın",
+          "uk": "Представся як сусід із квартири поруч",
+          "ar": "عرّف بنفسك على أنك الجار المجاور",
+          "hi": "बताइए कि आप बगल वाले पड़ोसी हैं",
+          "vi": "Giới thiệu bạn là hàng xóm nhà bên",
+          "id": "Perkenalkan dirimu sebagai tetangga sebelah",
+          "ms": "Perkenalkan diri anda sebagai jiran sebelah",
+          "ko": "옆집 이웃이라고 자기소개를 하세요"
+        },
+        "practice": "Preséntese como el vecino de al lado",
+        "practice_translations": {
+          "en": "Introduce yourself as the neighbor next door",
+          "es": "Preséntese como el vecino de al lado",
+          "ja": "隣に住んでいる者だと自己紹介してください",
+          "ko": "옆집 이웃이라고 자기소개를 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that the music wakes you up at night",
+        "native_translations": {
+          "en": "Explain that the music wakes you up at night",
+          "es": "Explique que la música lo despierta por la noche",
+          "fr": "Expliquez que la musique vous réveille la nuit",
+          "de": "Erklären Sie, dass die Musik Sie nachts aufweckt",
+          "it": "Spiega che la musica ti sveglia di notte",
+          "pl": "Wyjaśnij, że muzyka budzi cię w nocy",
+          "pt": "Explique que a música te acorda à noite",
+          "nl": "Leg uit dat de muziek je 's nachts wakker maakt",
+          "hr": "Objasni da te glazba noću budi",
+          "tr": "Müziğin sizi gece uyandırdığını açıklayın",
+          "uk": "Поясни, що музика будить тебе вночі",
+          "ar": "اشرح أن الموسيقى توقظك ليلًا",
+          "hi": "बताइए कि संगीत से रात में आपकी नींद खुल जाती है",
+          "vi": "Giải thích rằng tiếng nhạc làm bạn thức giấc ban đêm",
+          "id": "Jelaskan bahwa musiknya membangunkanmu di malam hari",
+          "ms": "Terangkan bahawa muzik itu mengejutkan anda pada waktu malam",
+          "ko": "음악 때문에 밤에 잠이 깬다고 설명하세요"
+        },
+        "practice": "Explique que la música lo despierta por la noche",
+        "practice_translations": {
+          "en": "Explain that the music wakes you up at night",
+          "es": "Explique que la música lo despierta por la noche",
+          "ja": "音楽で夜中に目が覚めてしまうと説明してください",
+          "ko": "음악 때문에 밤에 잠이 깬다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the neighbor to stop playing after 10 pm",
+        "native_translations": {
+          "en": "Ask the neighbor to stop playing after 10 pm",
+          "es": "Pida al vecino que no toque después de las 10 de la noche",
+          "fr": "Demandez au voisin d'arrêter de jouer après 22 h",
+          "de": "Bitten Sie darum, nach 22 Uhr nicht mehr zu spielen",
+          "it": "Chiedi al vicino di smettere di suonare dopo le 22",
+          "pl": "Poproś sąsiada, żeby nie grał po 22:00",
+          "pt": "Peça ao vizinho que não toque depois das 22h",
+          "nl": "Vraag de buurman om na 22.00 uur niet meer te spelen",
+          "hr": "Zamoli susjeda da ne svira nakon 22 sata",
+          "tr": "Komşunuzdan saat 22.00'den sonra çalmamasını isteyin",
+          "uk": "Попроси сусіда не грати після 22:00",
+          "ar": "اطلب من الجار ألا يعزف بعد العاشرة مساءً",
+          "hi": "पड़ोसी से कहिए कि रात 10 बजे के बाद न बजाएँ",
+          "vi": "Nhờ hàng xóm không chơi nhạc sau 10 giờ tối",
+          "id": "Minta tetangga berhenti bermain setelah jam 10 malam",
+          "ms": "Minta jiran berhenti bermain selepas pukul 10 malam",
+          "ko": "밤 10시 이후에는 연주하지 말아 달라고 부탁하세요"
+        },
+        "practice": "Pida al vecino que no toque después de las 10 de la noche",
+        "practice_translations": {
+          "en": "Ask the neighbor to stop playing after 10 pm",
+          "es": "Pida al vecino que no toque después de las 10 de la noche",
+          "ja": "夜10時以降は演奏しないようお願いしてください",
+          "ko": "밤 10시 이후에는 연주하지 말아 달라고 부탁하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I'm your neighbor from next door.",
+      "native_translations": {
+        "en": "Hi, I'm your neighbor from next door.",
+        "es": "Hola, soy su vecino de al lado.",
+        "fr": "Bonjour, je suis votre voisin d'à côté.",
+        "de": "Hallo, ich wohne direkt nebenan.",
+        "it": "Ciao, sono il tuo vicino della porta accanto.",
+        "pl": "Dzień dobry, jestem pana sąsiadem zza ściany.",
+        "pt": "Oi, eu sou seu vizinho do lado.",
+        "nl": "Hallo, ik ben uw buurman van hiernaast.",
+        "hr": "Dobar dan, stanujem u stanu do Vas.",
+        "tr": "Merhaba, ben yan dairedeki komşunuzum.",
+        "uk": "Привіт, я твій сусід із квартири поруч.",
+        "ar": "مرحبًا، أنا جارك من الشقة المجاورة.",
+        "hi": "नमस्ते, मैं बगल वाले घर में रहता हूँ।",
+        "vi": "Chào anh/chị, tôi là hàng xóm nhà bên cạnh.",
+        "id": "Halo, saya tetangga Anda dari sebelah.",
+        "ms": "Hai, saya jiran sebelah rumah awak.",
+        "ko": "안녕하세요, 옆집에 사는 사람이에요."
+      },
+      "practice": "Hola, soy su vecino de al lado.",
+      "practice_translations": {
+        "en": "Hi, I'm your neighbor from next door.",
+        "es": "Hola, soy su vecino de al lado.",
+        "ja": "こんにちは、隣に住んでいる者です。",
+        "ko": "안녕하세요, 옆집에 사는 사람이에요."
+      }
+    },
+    {
+      "native": "Sorry to bother you, but I need to talk about the noise.",
+      "native_translations": {
+        "en": "Sorry to bother you, but I need to talk about the noise.",
+        "es": "Perdone la molestia, pero necesito hablarle del ruido.",
+        "fr": "Désolé de vous déranger, mais je dois vous parler du bruit.",
+        "de": "Entschuldigen Sie die Störung, aber ich muss mit Ihnen über den Lärm sprechen.",
+        "it": "Scusa il disturbo, ma devo parlarti del rumore.",
+        "pl": "Przepraszam, że przeszkadzam, ale muszę porozmawiać o hałasie.",
+        "pt": "Desculpe incomodar, mas preciso falar sobre o barulho.",
+        "nl": "Sorry dat ik stoor, maar ik moet het even over het lawaai hebben.",
+        "hr": "Oprostite što smetam, ali moram s Vama razgovarati o buci.",
+        "tr": "Rahatsız ettiğim için kusura bakmayın ama gürültü hakkında konuşmam gerekiyor.",
+        "uk": "Вибач, що турбую, але нам треба поговорити про шум.",
+        "ar": "آسف على الإزعاج، لكني أحتاج إلى التحدث عن الضوضاء.",
+        "hi": "परेशान करने के लिए माफ़ कीजिए, लेकिन मुझे शोर के बारे में बात करनी है।",
+        "vi": "Xin lỗi đã làm phiền, nhưng tôi cần nói chuyện về tiếng ồn.",
+        "id": "Maaf mengganggu, tapi saya perlu bicara soal kebisingan.",
+        "ms": "Maaf mengganggu, tapi saya perlu bercakap tentang bunyi bising.",
+        "ko": "귀찮게 해서 죄송한데, 소음 문제로 드릴 말씀이 있어요."
+      },
+      "practice": "Perdone la molestia, pero necesito hablarle del ruido.",
+      "practice_translations": {
+        "en": "Sorry to bother you, but I need to talk about the noise.",
+        "es": "Perdone la molestia, pero necesito hablarle del ruido.",
+        "ja": "お邪魔してすみません。騒音のことでお話があるんです。",
+        "ko": "귀찮게 해서 죄송한데, 소음 문제로 드릴 말씀이 있어요."
+      }
+    },
+    {
+      "native": "The tuba wakes me up in the middle of the night.",
+      "native_translations": {
+        "en": "The tuba wakes me up in the middle of the night.",
+        "es": "La tuba me despierta en medio de la noche.",
+        "fr": "Le tuba me réveille en pleine nuit.",
+        "de": "Die Tuba weckt mich mitten in der Nacht auf.",
+        "it": "La tuba mi sveglia nel cuore della notte.",
+        "pl": "Tuba budzi mnie w środku nocy.",
+        "pt": "A tuba me acorda no meio da noite.",
+        "nl": "De tuba maakt me midden in de nacht wakker.",
+        "hr": "Tuba me budi usred noći.",
+        "tr": "Tuba beni gecenin ortasında uyandırıyor.",
+        "uk": "Туба будить мене посеред ночі.",
+        "ar": "صوت التوبا يوقظني في منتصف الليل.",
+        "hi": "ट्यूबा की आवाज़ से आधी रात को मेरी नींद खुल जाती है।",
+        "vi": "Tiếng kèn tuba làm tôi thức giấc giữa đêm.",
+        "id": "Suara tubanya membangunkan saya di tengah malam.",
+        "ms": "Bunyi tuba itu mengejutkan saya di tengah malam.",
+        "ko": "튜바 소리 때문에 한밤중에 잠이 깨요."
+      },
+      "practice": "La tuba me despierta en medio de la noche.",
+      "practice_translations": {
+        "en": "The tuba wakes me up in the middle of the night.",
+        "es": "La tuba me despierta en medio de la noche.",
+        "ja": "チューバの音で夜中に目が覚めてしまうんです。",
+        "ko": "튜바 소리 때문에 한밤중에 잠이 깨요."
+      }
+    },
+    {
+      "native": "Could you please not play after ten o'clock?",
+      "native_translations": {
+        "en": "Could you please not play after ten o'clock?",
+        "es": "¿Podría no tocar después de las diez, por favor?",
+        "fr": "Pourriez-vous éviter de jouer après dix heures du soir, s'il vous plaît ?",
+        "de": "Könnten Sie bitte nach zehn Uhr nicht mehr spielen?",
+        "it": "Potresti per favore non suonare dopo le dieci?",
+        "pl": "Czy mógłby pan nie grać po dziesiątej?",
+        "pt": "Você poderia, por favor, não tocar depois das dez?",
+        "nl": "Zou u alstublieft na tien uur niet meer willen spelen?",
+        "hr": "Možete li, molim Vas, ne svirati nakon deset sati?",
+        "tr": "Lütfen saat ondan sonra çalmayabilir misiniz?",
+        "uk": "Можеш, будь ласка, не грати після десятої?",
+        "ar": "هل يمكنك من فضلك ألا تعزف بعد الساعة العاشرة؟",
+        "hi": "क्या आप प्लीज़ दस बजे के बाद न बजाएँ?",
+        "vi": "Anh/chị có thể đừng chơi sau mười giờ tối được không?",
+        "id": "Bisakah Anda tidak bermain setelah jam sepuluh?",
+        "ms": "Boleh tolong jangan main selepas pukul sepuluh?",
+        "ko": "10시 이후에는 연주하지 말아 주실 수 있을까요?"
+      },
+      "practice": "¿Podría no tocar después de las diez, por favor?",
+      "practice_translations": {
+        "en": "Could you please not play after ten o'clock?",
+        "es": "¿Podría no tocar después de las diez, por favor?",
+        "ja": "夜10時以降は演奏を控えていただけますか。",
+        "ko": "10시 이후에는 연주하지 말아 주실 수 있을까요?"
+      }
+    }
+  ]
+}

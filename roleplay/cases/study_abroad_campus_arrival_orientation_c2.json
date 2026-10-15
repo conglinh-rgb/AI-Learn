@@ -1,0 +1,350 @@
+{
+  "id": "study_abroad_campus_arrival_orientation_c2",
+  "title": "Orientation Day Tour",
+  "title_translations": {
+    "en": "Orientation Day Tour",
+    "es": "Recorrido del día de orientación",
+    "fr": "Visite de la journée d'accueil",
+    "de": "Rundgang am Orientierungstag",
+    "it": "Tour della giornata di orientamento",
+    "pl": "Wycieczka w dniu orientacyjnym",
+    "pt": "Tour do dia de recepção",
+    "nl": "Rondleiding tijdens de introductie",
+    "hr": "Obilazak na dan orijentacije",
+    "tr": "Oryantasyon Günü Turu",
+    "uk": "Екскурсія в день орієнтації",
+    "ar": "جولة يوم التعريف",
+    "hi": "ओरिएंटेशन डे का टूर",
+    "vi": "Tham quan ngày định hướng",
+    "id": "Tur Hari Orientasi",
+    "ms": "Lawatan Hari Orientasi",
+    "ko": "오리엔테이션 캠퍼스 투어"
+  },
+  "character": "fox",
+  "scenario": "It is orientation week. A student guide (AI) is showing you around campus and answering questions.",
+  "scenario_translations": {
+    "en": "It is orientation week. A student guide (AI) is showing you around campus and answering questions.",
+    "es": "Es la semana de orientación. Un estudiante guía (AI) le muestra el campus y responde sus preguntas.",
+    "fr": "C'est la semaine d'intégration. Un étudiant guide (AI) vous fait visiter le campus et répond à vos questions.",
+    "de": "Es ist Orientierungswoche. Eine Studentin (AI) führt Sie über den Campus und beantwortet Ihre Fragen.",
+    "it": "È la settimana di orientamento. Uno studente guida (AI) ti fa fare il giro del campus e risponde alle tue domande.",
+    "pl": "Trwa tydzień orientacyjny. Student przewodnik (AI) oprowadza cię po kampusie i odpowiada na pytania.",
+    "pt": "É a semana de recepção dos calouros. Um estudante guia (AI) está mostrando o campus e respondendo às suas perguntas.",
+    "nl": "Het is introductieweek. Een studentgids (AI) leidt je rond over de campus en beantwoordt vragen.",
+    "hr": "Tjedan je orijentacije. Studentski vodič (AI) provodi te kampusom i odgovara na pitanja.",
+    "tr": "Oryantasyon haftası. Bir öğrenci rehberi (AI) size kampüsü gezdiriyor ve sorularınızı yanıtlıyor.",
+    "uk": "Триває тиждень орієнтації. Студент-гід (AI) показує тобі кампус і відповідає на запитання.",
+    "ar": "إنه أسبوع التعريف. مرشد طلابي (AI) يأخذك في جولة حول الحرم الجامعي ويجيب عن أسئلتك.",
+    "hi": "यह ओरिएंटेशन वीक है। एक स्टूडेंट गाइड (AI) आपको कैंपस घुमा रहे हैं और सवालों के जवाब दे रहे हैं।",
+    "vi": "Đang là tuần định hướng. Một sinh viên hướng dẫn (AI) đang dẫn bạn đi tham quan trường và trả lời câu hỏi.",
+    "id": "Ini minggu orientasi. Seorang mahasiswa pemandu (AI) mengajakmu berkeliling kampus dan menjawab pertanyaan.",
+    "ms": "Ini minggu orientasi. Seorang pemandu pelajar (AI) sedang membawa anda meninjau kampus dan menjawab soalan.",
+    "ko": "오리엔테이션 주간입니다. 학생 안내원(AI)이 캠퍼스를 구경시켜 주며 질문에 답해 주고 있습니다."
+  },
+  "mission": {
+    "native": "Find out where your classes are, how to get your student ID and where to eat.",
+    "native_translations": {
+      "en": "Find out where your classes are, how to get your student ID and where to eat.",
+      "es": "Averigüe dónde son sus clases, cómo obtener su credencial de estudiante y dónde comer.",
+      "fr": "Découvrez où ont lieu vos cours, comment obtenir votre carte d'étudiant et où manger.",
+      "de": "Finden Sie heraus, wo Ihre Vorlesungen stattfinden, wie Sie Ihren Studierendenausweis bekommen und wo Sie essen können.",
+      "it": "Scopri dove si tengono le lezioni, come ottenere il tesserino universitario e dove mangiare.",
+      "pl": "Dowiedz się, gdzie są twoje zajęcia, jak zdobyć legitymację i gdzie coś zjeść.",
+      "pt": "Descubra onde são suas aulas, como tirar a carteirinha de estudante e onde comer.",
+      "nl": "Zoek uit waar je colleges zijn, hoe je je studentenkaart krijgt en waar je kunt eten.",
+      "hr": "Saznaj gdje ti je nastava, kako dobiti studentsku iskaznicu i gdje jesti.",
+      "tr": "Derslerinizin nerede olduğunu, öğrenci kartınızı nasıl alacağınızı ve nerede yemek yiyebileceğinizi öğrenin.",
+      "uk": "Дізнайся, де твої заняття, як отримати студентський квиток і де поїсти.",
+      "ar": "اعرف أين محاضراتك، وكيف تحصل على بطاقتك الجامعية، وأين تأكل.",
+      "hi": "पता कीजिए कि आपकी क्लास कहाँ हैं, स्टूडेंट आईडी कैसे मिलेगा और खाना कहाँ खाएँ।",
+      "vi": "Tìm hiểu lớp học ở đâu, cách làm thẻ sinh viên và nơi ăn uống.",
+      "id": "Cari tahu di mana kelasmu, cara mendapatkan kartu mahasiswa, dan tempat makan.",
+      "ms": "Ketahui di mana kelas anda, cara mendapatkan kad pelajar dan tempat untuk makan.",
+      "ko": "수업 장소, 학생증 받는 방법, 식사할 곳을 알아보세요."
+    },
+    "practice": "Averigüe dónde son sus clases, cómo obtener su credencial de estudiante y dónde comer.",
+    "practice_translations": {
+      "en": "Find out where your classes are, how to get your student ID and where to eat.",
+      "es": "Averigüe dónde son sus clases, cómo obtener su credencial de estudiante y dónde comer.",
+      "ja": "授業の場所、学生証のもらい方、食事ができる場所を聞いてください。",
+      "ko": "수업 장소, 학생증 받는 방법, 식사할 곳을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask where the main lecture building is",
+        "native_translations": {
+          "en": "Ask where the main lecture building is",
+          "es": "Pregunte dónde está el edificio principal de clases",
+          "fr": "Demandez où se trouve le bâtiment principal des amphithéâtres",
+          "de": "Fragen Sie, wo das Hauptgebäude mit den Hörsälen ist",
+          "it": "Chiedi dov'è l'edificio principale delle lezioni",
+          "pl": "Zapytaj, gdzie jest główny budynek wykładowy",
+          "pt": "Pergunte onde fica o prédio principal de aulas",
+          "nl": "Vraag waar het hoofdcollegegebouw is",
+          "hr": "Pitaj gdje je glavna zgrada s predavaonicama",
+          "tr": "Ana derslik binasının nerede olduğunu sorun",
+          "uk": "Запитай, де головний навчальний корпус",
+          "ar": "اسأل أين مبنى المحاضرات الرئيسي",
+          "hi": "पूछिए कि मुख्य लेक्चर बिल्डिंग कहाँ है",
+          "vi": "Hỏi tòa nhà giảng đường chính ở đâu",
+          "id": "Tanyakan di mana gedung kuliah utama",
+          "ms": "Tanya di mana bangunan kuliah utama",
+          "ko": "본관 강의동이 어디인지 물어보세요"
+        },
+        "practice": "Pregunte dónde está el edificio principal de clases",
+        "practice_translations": {
+          "en": "Ask where the main lecture building is",
+          "es": "Pregunte dónde está el edificio principal de clases",
+          "ja": "メインの講義棟がどこか聞いてください",
+          "ko": "본관 강의동이 어디인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how to get your student ID card",
+        "native_translations": {
+          "en": "Ask how to get your student ID card",
+          "es": "Pregunte cómo obtener su credencial de estudiante",
+          "fr": "Demandez comment obtenir votre carte d'étudiant",
+          "de": "Fragen Sie, wie Sie Ihren Studierendenausweis bekommen",
+          "it": "Chiedi come ottenere il tesserino universitario",
+          "pl": "Zapytaj, jak zdobyć legitymację studencką",
+          "pt": "Pergunte como tirar sua carteirinha de estudante",
+          "nl": "Vraag hoe je je studentenkaart krijgt",
+          "hr": "Pitaj kako dobiti studentsku iskaznicu",
+          "tr": "Öğrenci kartınızı nasıl alacağınızı sorun",
+          "uk": "Запитай, як отримати студентський квиток",
+          "ar": "اسأل كيف تحصل على بطاقتك الجامعية",
+          "hi": "पूछिए कि स्टूडेंट आईडी कार्ड कैसे मिलेगा",
+          "vi": "Hỏi cách làm thẻ sinh viên",
+          "id": "Tanyakan cara mendapatkan kartu mahasiswa",
+          "ms": "Tanya cara mendapatkan kad pelajar anda",
+          "ko": "학생증을 받는 방법을 물어보세요"
+        },
+        "practice": "Pregunte cómo obtener su credencial de estudiante",
+        "practice_translations": {
+          "en": "Ask how to get your student ID card",
+          "es": "Pregunte cómo obtener su credencial de estudiante",
+          "ja": "学生証のもらい方を聞いてください",
+          "ko": "학생증을 받는 방법을 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for a good place to eat on campus",
+        "native_translations": {
+          "en": "Ask for a good place to eat on campus",
+          "es": "Pida que le recomiende un lugar para comer en el campus",
+          "fr": "Demandez un bon endroit pour manger sur le campus",
+          "de": "Fragen Sie nach einem guten Ort zum Essen auf dem Campus",
+          "it": "Chiedi un buon posto dove mangiare nel campus",
+          "pl": "Zapytaj o dobre miejsce na jedzenie na kampusie",
+          "pt": "Peça a indicação de um bom lugar para comer no campus",
+          "nl": "Vraag naar een goede plek om te eten op de campus",
+          "hr": "Zatraži preporuku za dobro mjesto za jelo na kampusu",
+          "tr": "Kampüste yemek yemek için iyi bir yer sorun",
+          "uk": "Запитай про гарне місце, щоб поїсти в кампусі",
+          "ar": "اسأل عن مكان جيد للأكل في الحرم الجامعي",
+          "hi": "कैंपस में खाने की कोई अच्छी जगह पूछिए",
+          "vi": "Hỏi chỗ ăn ngon trong trường",
+          "id": "Tanyakan tempat makan yang enak di kampus",
+          "ms": "Tanya tempat makan yang bagus di kampus",
+          "ko": "캠퍼스에서 밥 먹기 좋은 곳을 물어보세요"
+        },
+        "practice": "Pida que le recomiende un lugar para comer en el campus",
+        "practice_translations": {
+          "en": "Ask for a good place to eat on campus",
+          "es": "Pida que le recomiende un lugar para comer en el campus",
+          "ja": "キャンパスでおすすめの食事の場所を聞いてください",
+          "ko": "캠퍼스에서 밥 먹기 좋은 곳을 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask when the welcome event starts",
+        "native_translations": {
+          "en": "Ask when the welcome event starts",
+          "es": "Pregunte a qué hora empieza el evento de bienvenida",
+          "fr": "Demandez à quelle heure commence l'événement de bienvenue",
+          "de": "Fragen Sie, wann die Willkommensveranstaltung beginnt",
+          "it": "Chiedi quando inizia l'evento di benvenuto",
+          "pl": "Zapytaj, o której zaczyna się impreza powitalna",
+          "pt": "Pergunte quando começa o evento de boas-vindas",
+          "nl": "Vraag wanneer het welkomstevenement begint",
+          "hr": "Pitaj kada počinje događanje dobrodošlice",
+          "tr": "Karşılama etkinliğinin ne zaman başladığını sorun",
+          "uk": "Запитай, коли починається вітальний захід",
+          "ar": "اسأل متى تبدأ فعالية الترحيب",
+          "hi": "पूछिए कि वेलकम इवेंट कब शुरू होगा",
+          "vi": "Hỏi khi nào sự kiện chào đón bắt đầu",
+          "id": "Tanyakan kapan acara penyambutan dimulai",
+          "ms": "Tanya bila majlis alu-aluan bermula",
+          "ko": "환영 행사가 언제 시작하는지 물어보세요"
+        },
+        "practice": "Pregunte a qué hora empieza el evento de bienvenida",
+        "practice_translations": {
+          "en": "Ask when the welcome event starts",
+          "es": "Pregunte a qué hora empieza el evento de bienvenida",
+          "ja": "歓迎イベントが何時に始まるか聞いてください",
+          "ko": "환영 행사가 언제 시작하는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, where is the main lecture building?",
+      "native_translations": {
+        "en": "Excuse me, where is the main lecture building?",
+        "es": "Disculpa, ¿dónde está el edificio principal de clases?",
+        "fr": "Excuse-moi, où se trouve le bâtiment principal des amphis ?",
+        "de": "Entschuldigung, wo ist das Hauptgebäude mit den Hörsälen?",
+        "it": "Scusa, dov'è l'edificio principale delle lezioni?",
+        "pl": "Przepraszam, gdzie jest główny budynek wykładowy?",
+        "pt": "Com licença, onde fica o prédio principal de aulas?",
+        "nl": "Pardon, waar is het hoofdcollegegebouw?",
+        "hr": "Oprosti, gdje je glavna zgrada s predavaonicama?",
+        "tr": "Affedersiniz, ana derslik binası nerede?",
+        "uk": "Вибач, де головний навчальний корпус?",
+        "ar": "عفوًا، أين مبنى المحاضرات الرئيسي؟",
+        "hi": "माफ़ कीजिए, मुख्य लेक्चर बिल्डिंग कहाँ है?",
+        "vi": "Cho mình hỏi, tòa giảng đường chính ở đâu vậy?",
+        "id": "Permisi, di mana gedung kuliah utama?",
+        "ms": "Maaf, di manakah bangunan kuliah utama?",
+        "ko": "실례합니다, 본관 강의동이 어디예요?"
+      },
+      "practice": "Disculpa, ¿dónde está el edificio principal de clases?",
+      "practice_translations": {
+        "en": "Excuse me, where is the main lecture building?",
+        "es": "Disculpa, ¿dónde está el edificio principal de clases?",
+        "ja": "すみません、メインの講義棟はどこですか。",
+        "ko": "실례합니다, 본관 강의동이 어디예요?"
+      }
+    },
+    {
+      "native": "How do I get my student ID card?",
+      "native_translations": {
+        "en": "How do I get my student ID card?",
+        "es": "¿Cómo consigo mi credencial de estudiante?",
+        "fr": "Comment est-ce que j'obtiens ma carte d'étudiant ?",
+        "de": "Wie bekomme ich meinen Studierendenausweis?",
+        "it": "Come faccio ad avere il tesserino universitario?",
+        "pl": "Jak mogę dostać legitymację studencką?",
+        "pt": "Como eu faço para tirar minha carteirinha de estudante?",
+        "nl": "Hoe krijg ik mijn studentenkaart?",
+        "hr": "Kako mogu dobiti studentsku iskaznicu?",
+        "tr": "Öğrenci kartımı nasıl alabilirim?",
+        "uk": "Як мені отримати студентський квиток?",
+        "ar": "كيف أحصل على بطاقتي الجامعية؟",
+        "hi": "मुझे अपना स्टूडेंट आईडी कार्ड कैसे मिलेगा?",
+        "vi": "Làm thẻ sinh viên thế nào vậy?",
+        "id": "Bagaimana cara mendapatkan kartu mahasiswa?",
+        "ms": "Bagaimana saya boleh dapatkan kad pelajar saya?",
+        "ko": "학생증은 어떻게 받아요?"
+      },
+      "practice": "¿Cómo consigo mi credencial de estudiante?",
+      "practice_translations": {
+        "en": "How do I get my student ID card?",
+        "es": "¿Cómo consigo mi credencial de estudiante?",
+        "ja": "学生証はどうやってもらえますか。",
+        "ko": "학생증은 어떻게 받아요?"
+      }
+    },
+    {
+      "native": "Is there a cheap place to eat around here?",
+      "native_translations": {
+        "en": "Is there a cheap place to eat around here?",
+        "es": "¿Hay algún lugar barato para comer por aquí?",
+        "fr": "Il y a un endroit pas cher pour manger dans le coin ?",
+        "de": "Gibt es hier in der Nähe etwas Günstiges zum Essen?",
+        "it": "C'è un posto economico dove mangiare qui vicino?",
+        "pl": "Czy jest tu gdzieś tanie miejsce, żeby coś zjeść?",
+        "pt": "Tem algum lugar barato para comer por aqui?",
+        "nl": "Is er hier in de buurt een goedkope plek om te eten?",
+        "hr": "Ima li ovdje negdje jeftino mjesto za jelo?",
+        "tr": "Buralarda ucuz bir yemek yeri var mı?",
+        "uk": "Тут поблизу є де недорого поїсти?",
+        "ar": "هل يوجد مكان رخيص للأكل هنا؟",
+        "hi": "क्या यहाँ आस-पास खाने की कोई सस्ती जगह है?",
+        "vi": "Quanh đây có chỗ nào ăn rẻ không?",
+        "id": "Apakah ada tempat makan murah di sekitar sini?",
+        "ms": "Ada tempat makan yang murah di sekitar sini?",
+        "ko": "이 근처에 싸게 먹을 수 있는 곳이 있어요?"
+      },
+      "practice": "¿Hay algún lugar barato para comer por aquí?",
+      "practice_translations": {
+        "en": "Is there a cheap place to eat around here?",
+        "es": "¿Hay algún lugar barato para comer por aquí?",
+        "ja": "この辺りに安く食べられる所はありますか。",
+        "ko": "이 근처에 싸게 먹을 수 있는 곳이 있어요?"
+      }
+    },
+    {
+      "native": "What time does the welcome event start?",
+      "native_translations": {
+        "en": "What time does the welcome event start?",
+        "es": "¿A qué hora empieza el evento de bienvenida?",
+        "fr": "À quelle heure commence l'événement de bienvenue ?",
+        "de": "Wann fängt die Willkommensveranstaltung an?",
+        "it": "A che ora inizia l'evento di benvenuto?",
+        "pl": "O której zaczyna się impreza powitalna?",
+        "pt": "Que horas começa o evento de boas-vindas?",
+        "nl": "Hoe laat begint het welkomstevenement?",
+        "hr": "U koliko sati počinje događanje dobrodošlice?",
+        "tr": "Karşılama etkinliği saat kaçta başlıyor?",
+        "uk": "О котрій починається вітальний захід?",
+        "ar": "في أي ساعة تبدأ فعالية الترحيب؟",
+        "hi": "वेलकम इवेंट कितने बजे शुरू होगा?",
+        "vi": "Mấy giờ thì sự kiện chào đón bắt đầu?",
+        "id": "Jam berapa acara penyambutan dimulai?",
+        "ms": "Pukul berapa majlis alu-aluan bermula?",
+        "ko": "환영 행사는 몇 시에 시작해요?"
+      },
+      "practice": "¿A qué hora empieza el evento de bienvenida?",
+      "practice_translations": {
+        "en": "What time does the welcome event start?",
+        "es": "¿A qué hora empieza el evento de bienvenida?",
+        "ja": "歓迎イベントは何時に始まりますか。",
+        "ko": "환영 행사는 몇 시에 시작해요?"
+      }
+    },
+    {
+      "native": "This campus is huge! Thanks for showing me around.",
+      "native_translations": {
+        "en": "This campus is huge! Thanks for showing me around.",
+        "es": "¡Este campus es enorme! Gracias por mostrármelo.",
+        "fr": "Ce campus est immense ! Merci de me faire visiter.",
+        "de": "Der Campus ist riesig! Danke, dass du mich herumführst.",
+        "it": "Questo campus è enorme! Grazie per avermi fatto fare il giro.",
+        "pl": "Ten kampus jest ogromny! Dzięki za oprowadzenie.",
+        "pt": "Este campus é enorme! Obrigado por me mostrar tudo.",
+        "nl": "Deze campus is enorm! Bedankt voor de rondleiding.",
+        "hr": "Ovaj kampus je ogroman! Hvala na obilasku.",
+        "tr": "Bu kampüs çok büyük! Bana gezdirdiğin için teşekkürler.",
+        "uk": "Кампус величезний! Дякую, що все показав.",
+        "ar": "هذا الحرم ضخم! شكرًا لأنك أخذتني في جولة.",
+        "hi": "यह कैंपस तो बहुत बड़ा है! घुमाने के लिए धन्यवाद।",
+        "vi": "Trường rộng quá! Cảm ơn bạn đã dẫn mình đi tham quan.",
+        "id": "Kampus ini luas sekali! Terima kasih sudah mengajak saya berkeliling.",
+        "ms": "Kampus ini sangat besar! Terima kasih kerana membawa saya melihat-lihat.",
+        "ko": "캠퍼스가 정말 넓네요! 구경시켜 주셔서 감사해요."
+      },
+      "practice": "¡Este campus es enorme! Gracias por mostrármelo.",
+      "practice_translations": {
+        "en": "This campus is huge! Thanks for showing me around.",
+        "es": "¡Este campus es enorme! Gracias por mostrármelo.",
+        "ja": "このキャンパス、すごく広いですね！案内してくれてありがとうございます。",
+        "ko": "캠퍼스가 정말 넓네요! 구경시켜 주셔서 감사해요."
+      }
+    }
+  ]
+}

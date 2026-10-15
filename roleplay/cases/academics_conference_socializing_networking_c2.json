@@ -1,0 +1,350 @@
+{
+  "id": "academics_conference_socializing_networking_c2",
+  "title": "Conference Dinner Talk",
+  "title_translations": {
+    "en": "Conference Dinner Talk",
+    "es": "Conversación en la cena del congreso",
+    "fr": "Conversation au dîner de la conférence",
+    "de": "Gespräch beim Konferenzdinner",
+    "it": "Conversazione alla cena del convegno",
+    "pl": "Rozmowa przy kolacji konferencyjnej",
+    "pt": "Conversa no jantar da conferência",
+    "nl": "Gesprek tijdens het congresdiner",
+    "hr": "Razgovor na konferencijskoj večeri",
+    "tr": "Konferans Yemeğinde Sohbet",
+    "uk": "Розмова на конференційній вечері",
+    "ar": "حديث على عشاء المؤتمر",
+    "hi": "कॉन्फ़्रेंस डिनर पर बातचीत",
+    "vi": "Trò chuyện trong bữa tối hội nghị",
+    "id": "Obrolan Saat Makan Malam Konferensi",
+    "ms": "Berbual Semasa Makan Malam Persidangan",
+    "ko": "학회 만찬에서의 대화"
+  },
+  "character": "fox",
+  "scenario": "At the conference dinner, you sit next to a senior researcher (AI) from another country.",
+  "scenario_translations": {
+    "en": "At the conference dinner, you sit next to a senior researcher (AI) from another country.",
+    "es": "En la cena del congreso, se sienta junto a un investigador de trayectoria (AI) que viene de otro país.",
+    "fr": "Au dîner de la conférence, vous êtes assis à côté d'un chercheur confirmé (AI) venu d'un autre pays.",
+    "de": "Beim Konferenzdinner sitzen Sie neben einer erfahrenen Forscherin bzw. einem erfahrenen Forscher (AI) aus einem anderen Land.",
+    "it": "Alla cena del convegno sei seduto accanto a un ricercatore esperto (AI) di un altro paese.",
+    "pl": "Na kolacji konferencyjnej siedzisz obok doświadczonej badaczki (AI) z innego kraju.",
+    "pt": "No jantar da conferência, você se senta ao lado de um pesquisador sênior (AI) de outro país.",
+    "nl": "Tijdens het congresdiner zit je naast een ervaren onderzoeker (AI) uit een ander land.",
+    "hr": "Na konferencijskoj večeri sjediš pokraj iskusnog istraživača (AI) iz druge zemlje.",
+    "tr": "Konferans yemeğinde başka bir ülkeden gelen kıdemli bir araştırmacının (AI) yanında oturuyorsunuz.",
+    "uk": "На вечері конференції ти сидиш поруч із досвідченим науковцем (AI) з іншої країни.",
+    "ar": "في عشاء المؤتمر، تجلس بجانب باحث كبير (AI) من بلد آخر.",
+    "hi": "कॉन्फ़्रेंस डिनर में आप दूसरे देश के एक वरिष्ठ शोधकर्ता (AI) के बगल में बैठे हैं।",
+    "vi": "Tại bữa tối của hội nghị, bạn ngồi cạnh một nhà nghiên cứu kỳ cựu (AI) đến từ nước khác.",
+    "id": "Di makan malam konferensi, kamu duduk di sebelah seorang peneliti senior (AI) dari negara lain.",
+    "ms": "Semasa makan malam persidangan, anda duduk di sebelah seorang penyelidik kanan (AI) dari negara lain.",
+    "ko": "학회 만찬에서 다른 나라에서 온 선임 연구원(AI) 옆에 앉게 됐어요."
+  },
+  "mission": {
+    "native": "Make small talk, share your research and set up a way to stay in touch.",
+    "native_translations": {
+      "en": "Make small talk, share your research and set up a way to stay in touch.",
+      "es": "Converse de forma casual, comparta su investigación y quede en mantenerse en contacto.",
+      "fr": "Faites la conversation, présentez vos recherches et trouvez un moyen de rester en contact.",
+      "de": "Führen Sie Smalltalk, erzählen Sie von Ihrer Forschung und vereinbaren Sie, in Kontakt zu bleiben.",
+      "it": "Fai due chiacchiere, parla della tua ricerca e trova un modo per restare in contatto.",
+      "pl": "Porozmawiaj luźno, opowiedz o swoich badaniach i ustal, jak pozostać w kontakcie.",
+      "pt": "Bata um papo, fale da sua pesquisa e combine uma forma de manter contato.",
+      "nl": "Maak een praatje, vertel over je onderzoek en regel een manier om contact te houden.",
+      "hr": "Započni opušten razgovor, predstavi svoje istraživanje i dogovori kako ćete ostati u kontaktu.",
+      "tr": "Havadan sudan konuşun, araştırmanızı anlatın ve iletişimde kalmanın bir yolunu belirleyin.",
+      "uk": "Підтримай невимушену розмову, розкажи про своє дослідження й домовся залишатися на зв'язку.",
+      "ar": "تبادل أطراف الحديث وشارك بحثك واتفق على طريقة للبقاء على تواصل.",
+      "hi": "हल्की-फुल्की बातचीत कीजिए, अपनी रिसर्च के बारे में बताइए और संपर्क में रहने का तरीक़ा तय कीजिए।",
+      "vi": "Trò chuyện xã giao, chia sẻ về nghiên cứu của bạn và tìm cách giữ liên lạc.",
+      "id": "Berbasa-basi, ceritakan penelitianmu, dan atur cara untuk tetap berhubungan.",
+      "ms": "Berbual santai, kongsi penyelidikan anda dan cari cara untuk terus berhubung.",
+      "ko": "가볍게 대화를 나누고, 자신의 연구를 소개하고, 계속 연락할 방법을 정하세요."
+    },
+    "practice": "Converse de forma casual, comparta su investigación y quede en mantenerse en contacto.",
+    "practice_translations": {
+      "en": "Make small talk, share your research and set up a way to stay in touch.",
+      "es": "Converse de forma casual, comparta su investigación y quede en mantenerse en contacto.",
+      "ja": "雑談をして、自分の研究を紹介し、今後も連絡を取れるようにしてください。",
+      "ko": "가볍게 대화를 나누고, 자신의 연구를 소개하고, 계속 연락할 방법을 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Start a conversation about the conference",
+        "native_translations": {
+          "en": "Start a conversation about the conference",
+          "es": "Inicie una conversación sobre el congreso",
+          "fr": "Lancez la conversation sur la conférence",
+          "de": "Beginnen Sie ein Gespräch über die Konferenz",
+          "it": "Avvia una conversazione sul convegno",
+          "pl": "Zacznij rozmowę o konferencji",
+          "pt": "Comece uma conversa sobre a conferência",
+          "nl": "Begin een gesprek over het congres",
+          "hr": "Započni razgovor o konferenciji",
+          "tr": "Konferans hakkında bir sohbet başlatın",
+          "uk": "Почни розмову про конференцію",
+          "ar": "ابدأ محادثة عن المؤتمر",
+          "hi": "कॉन्फ़्रेंस के बारे में बातचीत शुरू कीजिए",
+          "vi": "Mở đầu câu chuyện về hội nghị",
+          "id": "Mulai obrolan tentang konferensi",
+          "ms": "Mulakan perbualan tentang persidangan",
+          "ko": "학회에 대한 이야기로 대화를 시작하세요"
+        },
+        "practice": "Inicie una conversación sobre el congreso",
+        "practice_translations": {
+          "en": "Start a conversation about the conference",
+          "es": "Inicie una conversación sobre el congreso",
+          "ja": "学会について話しかけてください",
+          "ko": "학회에 대한 이야기로 대화를 시작하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe your research briefly",
+        "native_translations": {
+          "en": "Describe your research briefly",
+          "es": "Describa brevemente su investigación",
+          "fr": "Décrivez brièvement vos recherches",
+          "de": "Beschreiben Sie kurz Ihre Forschung",
+          "it": "Descrivi brevemente la tua ricerca",
+          "pl": "Krótko opisz swoje badania",
+          "pt": "Descreva sua pesquisa brevemente",
+          "nl": "Beschrijf kort je onderzoek",
+          "hr": "Ukratko opiši svoje istraživanje",
+          "tr": "Araştırmanızı kısaca anlatın",
+          "uk": "Коротко опиши своє дослідження",
+          "ar": "صف بحثك باختصار",
+          "hi": "अपनी रिसर्च के बारे में संक्षेप में बताइए",
+          "vi": "Mô tả ngắn gọn nghiên cứu của bạn",
+          "id": "Jelaskan penelitianmu secara singkat",
+          "ms": "Terangkan penyelidikan anda secara ringkas",
+          "ko": "자신의 연구를 간단히 설명하세요"
+        },
+        "practice": "Describa brevemente su investigación",
+        "practice_translations": {
+          "en": "Describe your research briefly",
+          "es": "Describa brevemente su investigación",
+          "ja": "自分の研究を簡単に説明してください",
+          "ko": "자신의 연구를 간단히 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about the researcher's work",
+        "native_translations": {
+          "en": "Ask about the researcher's work",
+          "es": "Pregunte por el trabajo del investigador",
+          "fr": "Posez des questions sur les travaux du chercheur",
+          "de": "Fragen Sie nach der Arbeit Ihres Gegenübers",
+          "it": "Chiedi del lavoro del ricercatore",
+          "pl": "Zapytaj o pracę badaczki",
+          "pt": "Pergunte sobre o trabalho do pesquisador",
+          "nl": "Vraag naar het werk van de onderzoeker",
+          "hr": "Pitaj istraživača o njegovu radu",
+          "tr": "Araştırmacının çalışmalarını sorun",
+          "uk": "Запитай про роботу науковця",
+          "ar": "اسأل عن عمل الباحث",
+          "hi": "शोधकर्ता के काम के बारे में पूछिए",
+          "vi": "Hỏi về công việc của nhà nghiên cứu",
+          "id": "Tanyakan tentang pekerjaan sang peneliti",
+          "ms": "Tanya tentang kerja penyelidik itu",
+          "ko": "연구원의 연구에 대해 물어보세요"
+        },
+        "practice": "Pregunte por el trabajo del investigador",
+        "practice_translations": {
+          "en": "Ask about the researcher's work",
+          "es": "Pregunte por el trabajo del investigador",
+          "ja": "研究者の研究について聞いてください",
+          "ko": "연구원의 연구에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask to stay in touch",
+        "native_translations": {
+          "en": "Ask to stay in touch",
+          "es": "Pida mantenerse en contacto",
+          "fr": "Proposez de rester en contact",
+          "de": "Bitten Sie darum, in Kontakt zu bleiben",
+          "it": "Chiedi di restare in contatto",
+          "pl": "Poproś o pozostanie w kontakcie",
+          "pt": "Peça para manter contato",
+          "nl": "Vraag of jullie contact kunnen houden",
+          "hr": "Predloži da ostanete u kontaktu",
+          "tr": "İletişimde kalmayı teklif edin",
+          "uk": "Попроси залишатися на зв'язку",
+          "ar": "اطلب البقاء على تواصل",
+          "hi": "संपर्क में रहने की बात कीजिए",
+          "vi": "Đề nghị giữ liên lạc",
+          "id": "Minta untuk tetap berhubungan",
+          "ms": "Minta untuk terus berhubung",
+          "ko": "계속 연락하자고 제안하세요"
+        },
+        "practice": "Pida mantenerse en contacto",
+        "practice_translations": {
+          "en": "Ask to stay in touch",
+          "es": "Pida mantenerse en contacto",
+          "ja": "今後も連絡を取りたいと伝えてください",
+          "ko": "계속 연락하자고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "How are you finding the conference so far?",
+      "native_translations": {
+        "en": "How are you finding the conference so far?",
+        "es": "¿Qué le ha parecido el congreso hasta ahora?",
+        "fr": "Comment trouvez-vous la conférence jusqu'ici ?",
+        "de": "Wie gefällt Ihnen die Konferenz bisher?",
+        "it": "Come le sta sembrando il convegno finora?",
+        "pl": "Jak się pani podoba konferencja?",
+        "pt": "O que você está achando da conferência até agora?",
+        "nl": "Hoe bevalt het congres u tot nu toe?",
+        "hr": "Kako Vam se zasad sviđa konferencija?",
+        "tr": "Şimdiye kadar konferansı nasıl buldunuz?",
+        "uk": "Як вам поки що конференція?",
+        "ar": "ما رأيك في المؤتمر حتى الآن؟",
+        "hi": "अब तक आपको कॉन्फ़्रेंस कैसी लग रही है?",
+        "vi": "Đến giờ anh/chị thấy hội nghị thế nào?",
+        "id": "Bagaimana kesan Anda tentang konferensi ini sejauh ini?",
+        "ms": "Setakat ini, apa pendapat anda tentang persidangan ini?",
+        "ko": "지금까지 학회는 어떠세요?"
+      },
+      "practice": "¿Qué le ha parecido el congreso hasta ahora?",
+      "practice_translations": {
+        "en": "How are you finding the conference so far?",
+        "es": "¿Qué le ha parecido el congreso hasta ahora?",
+        "ja": "学会はいかがですか。",
+        "ko": "지금까지 학회는 어떠세요?"
+      }
+    },
+    {
+      "native": "My research looks at how cities adapt to heat waves.",
+      "native_translations": {
+        "en": "My research looks at how cities adapt to heat waves.",
+        "es": "Mi investigación estudia cómo las ciudades se adaptan a las olas de calor.",
+        "fr": "Mes recherches portent sur la manière dont les villes s'adaptent aux vagues de chaleur.",
+        "de": "Meine Forschung untersucht, wie sich Städte an Hitzewellen anpassen.",
+        "it": "La mia ricerca studia come le città si adattano alle ondate di calore.",
+        "pl": "Moje badania dotyczą tego, jak miasta przystosowują się do fal upałów.",
+        "pt": "Minha pesquisa estuda como as cidades se adaptam às ondas de calor.",
+        "nl": "Mijn onderzoek gaat over hoe steden zich aanpassen aan hittegolven.",
+        "hr": "Moje istraživanje bavi se time kako se gradovi prilagođavaju toplinskim valovima.",
+        "tr": "Araştırmam şehirlerin sıcak hava dalgalarına nasıl uyum sağladığını inceliyor.",
+        "uk": "Моє дослідження про те, як міста пристосовуються до спеки.",
+        "ar": "يدرس بحثي كيف تتكيف المدن مع موجات الحر.",
+        "hi": "मेरी रिसर्च इस पर है कि शहर हीट वेव के साथ कैसे तालमेल बिठाते हैं।",
+        "vi": "Nghiên cứu của tôi tìm hiểu cách các thành phố thích ứng với nắng nóng.",
+        "id": "Penelitian saya membahas bagaimana kota beradaptasi dengan gelombang panas.",
+        "ms": "Penyelidikan saya mengkaji cara bandar menyesuaikan diri dengan gelombang haba.",
+        "ko": "제 연구는 도시가 폭염에 어떻게 적응하는지 살펴봐요."
+      },
+      "practice": "Mi investigación estudia cómo las ciudades se adaptan a las olas de calor.",
+      "practice_translations": {
+        "en": "My research looks at how cities adapt to heat waves.",
+        "es": "Mi investigación estudia cómo las ciudades se adaptan a las olas de calor.",
+        "ja": "私は、都市が熱波にどう適応するかを研究しています。",
+        "ko": "제 연구는 도시가 폭염에 어떻게 적응하는지 살펴봐요."
+      }
+    },
+    {
+      "native": "That sounds fascinating. How did you get into that field?",
+      "native_translations": {
+        "en": "That sounds fascinating. How did you get into that field?",
+        "es": "Suena fascinante. ¿Cómo llegó a ese campo?",
+        "fr": "C'est passionnant. Comment en êtes-vous venu à ce domaine ?",
+        "de": "Das klingt faszinierend. Wie sind Sie zu diesem Fachgebiet gekommen?",
+        "it": "Sembra affascinante. Come si è avvicinato a questo campo?",
+        "pl": "To brzmi fascynująco. Jak pani trafiła do tej dziedziny?",
+        "pt": "Parece fascinante. Como você entrou nessa área?",
+        "nl": "Dat klinkt fascinerend. Hoe bent u in dat vakgebied terechtgekomen?",
+        "hr": "To zvuči fascinantno. Kako ste se počeli baviti tim područjem?",
+        "tr": "Kulağa çok ilginç geliyor. Bu alana nasıl girdiniz?",
+        "uk": "Звучить захопливо. Як ви прийшли в цю галузь?",
+        "ar": "يبدو هذا رائعًا. كيف دخلت هذا المجال؟",
+        "hi": "यह तो बहुत दिलचस्प है। आप इस क्षेत्र में कैसे आए?",
+        "vi": "Nghe thú vị quá. Sao anh/chị lại theo lĩnh vực đó?",
+        "id": "Kedengarannya menarik sekali. Bagaimana Anda bisa terjun ke bidang itu?",
+        "ms": "Menariknya. Bagaimana anda mula terlibat dalam bidang itu?",
+        "ko": "정말 흥미롭네요. 그 분야는 어떻게 시작하게 되셨어요?"
+      },
+      "practice": "Suena fascinante. ¿Cómo llegó a ese campo?",
+      "practice_translations": {
+        "en": "That sounds fascinating. How did you get into that field?",
+        "es": "Suena fascinante. ¿Cómo llegó a ese campo?",
+        "ja": "とても興味深いですね。どうしてその分野に進まれたんですか。",
+        "ko": "정말 흥미롭네요. 그 분야는 어떻게 시작하게 되셨어요?"
+      }
+    },
+    {
+      "native": "I'd love to read your latest paper.",
+      "native_translations": {
+        "en": "I'd love to read your latest paper.",
+        "es": "Me encantaría leer su último artículo.",
+        "fr": "J'aimerais beaucoup lire votre dernier article.",
+        "de": "Ich würde Ihren neuesten Artikel sehr gern lesen.",
+        "it": "Mi piacerebbe molto leggere il suo ultimo articolo.",
+        "pl": "Bardzo chętnie przeczytam pani najnowszy artykuł.",
+        "pt": "Eu adoraria ler seu artigo mais recente.",
+        "nl": "Ik zou uw nieuwste artikel graag lezen.",
+        "hr": "Jako me zanima Vaš najnoviji rad.",
+        "tr": "Son makalenizi okumayı çok isterim.",
+        "uk": "Я б із радістю прочитав вашу останню статтю.",
+        "ar": "يسعدني أن أقرأ أحدث أبحاثك.",
+        "hi": "मैं आपका हालिया पेपर ज़रूर पढ़ना चाहूँगा।",
+        "vi": "Tôi rất muốn đọc bài báo mới nhất của anh/chị.",
+        "id": "Saya ingin sekali membaca makalah terbaru Anda.",
+        "ms": "Saya teringin membaca kertas kerja terbaharu anda.",
+        "ko": "최근 논문을 꼭 읽어 보고 싶어요."
+      },
+      "practice": "Me encantaría leer su último artículo.",
+      "practice_translations": {
+        "en": "I'd love to read your latest paper.",
+        "es": "Me encantaría leer su último artículo.",
+        "ja": "最新の論文をぜひ読ませていただきたいです。",
+        "ko": "최근 논문을 꼭 읽어 보고 싶어요."
+      }
+    },
+    {
+      "native": "Could we connect by email after the conference?",
+      "native_translations": {
+        "en": "Could we connect by email after the conference?",
+        "es": "¿Podríamos seguir en contacto por correo después del congreso?",
+        "fr": "Pourrions-nous rester en contact par e-mail après la conférence ?",
+        "de": "Könnten wir nach der Konferenz per E-Mail in Kontakt bleiben?",
+        "it": "Potremmo sentirci via email dopo il convegno?",
+        "pl": "Czy moglibyśmy pozostać w kontakcie mailowym po konferencji?",
+        "pt": "Podemos manter contato por e-mail depois da conferência?",
+        "nl": "Zouden we na het congres per e-mail contact kunnen houden?",
+        "hr": "Možemo li se nakon konferencije čuti e-mailom?",
+        "tr": "Konferanstan sonra e-postayla iletişimde kalabilir miyiz?",
+        "uk": "Чи могли б ми списатися електронною поштою після конференції?",
+        "ar": "هل يمكننا التواصل عبر البريد الإلكتروني بعد المؤتمر؟",
+        "hi": "क्या कॉन्फ़्रेंस के बाद हम ईमेल से संपर्क में रह सकते हैं?",
+        "vi": "Sau hội nghị mình liên lạc qua email được không ạ?",
+        "id": "Bisakah kita berhubungan lewat email setelah konferensi?",
+        "ms": "Boleh kita berhubung melalui e-mel selepas persidangan?",
+        "ko": "학회 끝나고 이메일로 연락드려도 될까요?"
+      },
+      "practice": "¿Podríamos seguir en contacto por correo después del congreso?",
+      "practice_translations": {
+        "en": "Could we connect by email after the conference?",
+        "es": "¿Podríamos seguir en contacto por correo después del congreso?",
+        "ja": "学会の後、メールでご連絡してもよろしいでしょうか。",
+        "ko": "학회 끝나고 이메일로 연락드려도 될까요?"
+      }
+    }
+  ]
+}

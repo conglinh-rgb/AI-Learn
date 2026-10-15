@@ -1,0 +1,351 @@
+{
+  "id": "family_understanding_community_resources_c3",
+  "title": "The Paperwork Maze",
+  "title_translations": {
+    "en": "The Paperwork Maze",
+    "es": "El laberinto de trámites",
+    "fr": "Le labyrinthe administratif",
+    "de": "Das Formular-Labyrinth",
+    "it": "Il labirinto delle pratiche",
+    "pl": "Labirynt papierów",
+    "pt": "O labirinto da papelada",
+    "nl": "Het papierwerkdoolhof",
+    "hr": "Labirint papirologije",
+    "tr": "Evrak Labirenti",
+    "uk": "Лабіринт паперів",
+    "ar": "متاهة الأوراق",
+    "hi": "काग़ज़ी कार्रवाई की भूलभुलैया",
+    "vi": "Mê cung giấy tờ",
+    "id": "Labirin Urusan Dokumen",
+    "ms": "Kekusutan Kertas Kerja",
+    "ko": "서류 미로"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You go to a family support office to apply for help with food costs, but the busy case worker (AI) says your form is incomplete and you may have to come back next month.",
+  "scenario_translations": {
+    "en": "You go to a family support office to apply for help with food costs, but the busy case worker (AI) says your form is incomplete and you may have to come back next month.",
+    "es": "Va a una oficina de apoyo familiar a solicitar ayuda con los gastos de comida, pero el trabajador social (AI), muy ocupado, dice que su formulario está incompleto y que quizá tenga que volver el mes próximo.",
+    "fr": "Vous allez dans un bureau d'aide aux familles pour demander une aide alimentaire, mais le travailleur social débordé (AI) vous dit que votre formulaire est incomplet et que vous devrez peut-être revenir le mois prochain.",
+    "de": "Sie beantragen bei einer Familienberatungsstelle Hilfe bei den Lebensmittelkosten, aber die vielbeschäftigte Sachbearbeitung (AI) sagt, Ihr Formular sei unvollständig und Sie müssten eventuell nächsten Monat wiederkommen.",
+    "it": "Vai in un ufficio di sostegno alle famiglie per chiedere un aiuto per le spese alimentari, ma l'assistente sociale (AI), molto occupata, dice che il tuo modulo è incompleto e che potresti dover tornare il mese prossimo.",
+    "pl": "Idziesz do biura wsparcia rodzin, żeby złożyć wniosek o pomoc w kosztach żywności, ale zapracowany pracownik socjalny (AI) mówi, że twój formularz jest niekompletny i być może musisz przyjść w przyszłym miesiącu.",
+    "pt": "Você vai a um escritório de apoio às famílias para pedir ajuda com os gastos com alimentação, mas o assistente social (AI), muito ocupado, diz que seu formulário está incompleto e que talvez você tenha que voltar no mês que vem.",
+    "nl": "Je gaat naar een loket voor gezinsondersteuning om hulp bij voedselkosten aan te vragen, maar de drukke consulent (AI) zegt dat je formulier onvolledig is en dat je misschien volgende maand terug moet komen.",
+    "hr": "Odlaziš u ured za potporu obiteljima po pomoć za troškove hrane, ali zauzeti socijalni radnik (AI) kaže da ti je obrazac nepotpun i da ćeš se možda morati vratiti sljedeći mjesec.",
+    "tr": "Gıda masraflarına yardım başvurusu yapmak için bir aile destek ofisine gidiyorsunuz, ama yoğun sosyal hizmet uzmanı (AI) formunuzun eksik olduğunu ve gelecek ay tekrar gelmeniz gerekebileceğini söylüyor.",
+    "uk": "Ти приходиш до служби підтримки сімей, щоб подати заявку на допомогу з витратами на їжу, але зайнятий соціальний працівник (AI) каже, що форма неповна і, можливо, доведеться прийти наступного місяця.",
+    "ar": "تذهب إلى مكتب دعم الأسرة لتقديم طلب مساعدة في تكاليف الطعام، لكن الأخصائي الاجتماعي المشغول (AI) يقول إن استمارتك ناقصة وقد تضطر إلى العودة الشهر القادم.",
+    "hi": "आप खाने के ख़र्च में मदद के लिए आवेदन करने एक फ़ैमिली सपोर्ट ऑफ़िस जाते हैं, लेकिन व्यस्त केस वर्कर (AI) कहते हैं कि आपका फ़ॉर्म अधूरा है और शायद आपको अगले महीने फिर आना पड़े।",
+    "vi": "Bạn đến văn phòng hỗ trợ gia đình để xin trợ cấp tiền ăn, nhưng nhân viên phụ trách hồ sơ (AI) đang rất bận và nói đơn của bạn chưa đầy đủ, có thể bạn phải quay lại vào tháng sau.",
+    "id": "Kamu pergi ke kantor layanan keluarga untuk mengajukan bantuan biaya makan, tapi petugas kasus (AI) yang sibuk bilang formulirmu belum lengkap dan kamu mungkin harus kembali bulan depan.",
+    "ms": "Anda pergi ke pejabat sokongan keluarga untuk memohon bantuan kos makanan, tetapi pegawai kes (AI) yang sibuk berkata borang anda tidak lengkap dan anda mungkin perlu datang semula bulan depan.",
+    "ko": "식비 지원을 신청하러 가족 지원 사무소에 갔는데, 바쁜 담당 복지사(AI)가 신청서가 불완전해서 다음 달에 다시 와야 할 수도 있다고 말합니다."
+  },
+  "mission": {
+    "native": "Stay polite but persistent, fix the problem, and find out what help you can get now.",
+    "native_translations": {
+      "en": "Stay polite but persistent, fix the problem, and find out what help you can get now.",
+      "es": "Sea cortés pero insistente, resuelva el problema y averigüe qué ayuda puede recibir ahora.",
+      "fr": "Restez poli mais persévérant, réglez le problème et découvrez quelle aide vous pouvez obtenir dès maintenant.",
+      "de": "Bleiben Sie höflich, aber hartnäckig, lösen Sie das Problem und finden Sie heraus, welche Hilfe Sie sofort bekommen können.",
+      "it": "Resta gentile ma insisti, risolvi il problema e scopri quale aiuto puoi ottenere subito.",
+      "pl": "Bądź uprzejmy, ale wytrwały, rozwiąż problem i dowiedz się, jaką pomoc możesz dostać już teraz.",
+      "pt": "Seja educado, mas insistente, resolva o problema e descubra que ajuda você pode receber agora.",
+      "nl": "Blijf beleefd maar vasthoudend, los het probleem op en zoek uit welke hulp je nu kunt krijgen.",
+      "hr": "Zadrži pristojnost i upornost, riješi problem i saznaj kakvu pomoć možeš dobiti odmah.",
+      "tr": "Kibar ama ısrarcı olun, sorunu çözün ve şu anda hangi yardımı alabileceğinizi öğrenin.",
+      "uk": "Залишайся ввічливим, але наполегливим, виправ проблему й дізнайся, яку допомогу можна отримати вже зараз.",
+      "ar": "حافظ على أدبك مع الإصرار، وحلّ المشكلة، واعرف ما المساعدة التي يمكنك الحصول عليها الآن.",
+      "hi": "विनम्र लेकिन डटे रहिए, समस्या ठीक कीजिए और पता कीजिए कि अभी आपको क्या मदद मिल सकती है।",
+      "vi": "Giữ thái độ lịch sự nhưng kiên trì, khắc phục vấn đề và tìm hiểu bạn có thể nhận hỗ trợ gì ngay bây giờ.",
+      "id": "Tetap sopan tapi gigih, selesaikan masalahnya, dan cari tahu bantuan apa yang bisa kamu dapat sekarang.",
+      "ms": "Kekal sopan tetapi tegas, selesaikan masalah itu dan ketahui bantuan yang boleh anda dapat sekarang.",
+      "ko": "공손하지만 끈기 있게 문제를 해결하고, 지금 받을 수 있는 지원이 무엇인지 알아보세요."
+    },
+    "practice": "Sea cortés pero insistente, resuelva el problema y averigüe qué ayuda puede recibir ahora.",
+    "practice_translations": {
+      "en": "Stay polite but persistent, fix the problem, and find out what help you can get now.",
+      "es": "Sea cortés pero insistente, resuelva el problema y averigüe qué ayuda puede recibir ahora.",
+      "ja": "丁寧に、でも粘り強く問題を解決して、今受けられる支援を確認してください。",
+      "ko": "공손하지만 끈기 있게 문제를 해결하고, 지금 받을 수 있는 지원이 무엇인지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain your family's situation briefly",
+        "native_translations": {
+          "en": "Explain your family's situation briefly",
+          "es": "Explique brevemente la situación de su familia",
+          "fr": "Expliquez brièvement la situation de votre famille",
+          "de": "Schildern Sie kurz die Situation Ihrer Familie",
+          "it": "Spiega brevemente la situazione della tua famiglia",
+          "pl": "Krótko wyjaśnij sytuację swojej rodziny",
+          "pt": "Explique brevemente a situação da sua família",
+          "nl": "Leg kort de situatie van je gezin uit",
+          "hr": "Ukratko objasni situaciju svoje obitelji",
+          "tr": "Ailenizin durumunu kısaca anlatın",
+          "uk": "Коротко поясни становище своєї сім'ї",
+          "ar": "اشرح وضع عائلتك باختصار",
+          "hi": "अपने परिवार की स्थिति संक्षेप में बताइए",
+          "vi": "Giải thích ngắn gọn hoàn cảnh gia đình bạn",
+          "id": "Jelaskan situasi keluargamu secara singkat",
+          "ms": "Terangkan keadaan keluarga anda secara ringkas",
+          "ko": "가족의 상황을 간단히 설명하세요"
+        },
+        "practice": "Explique brevemente la situación de su familia",
+        "practice_translations": {
+          "en": "Explain your family's situation briefly",
+          "es": "Explique brevemente la situación de su familia",
+          "ja": "家族の状況を簡単に説明してください",
+          "ko": "가족의 상황을 간단히 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask exactly what is missing from the form",
+        "native_translations": {
+          "en": "Ask exactly what is missing from the form",
+          "es": "Pregunte qué falta exactamente en el formulario",
+          "fr": "Demandez précisément ce qui manque dans le formulaire",
+          "de": "Fragen Sie, was genau im Formular fehlt",
+          "it": "Chiedi cosa manca esattamente nel modulo",
+          "pl": "Zapytaj, czego dokładnie brakuje w formularzu",
+          "pt": "Pergunte exatamente o que está faltando no formulário",
+          "nl": "Vraag wat er precies ontbreekt op het formulier",
+          "hr": "Pitaj što točno nedostaje u obrascu",
+          "tr": "Formda tam olarak neyin eksik olduğunu sorun",
+          "uk": "Запитай, чого саме бракує у формі",
+          "ar": "اسأل بالضبط عمّا ينقص الاستمارة",
+          "hi": "पूछिए कि फ़ॉर्म में ठीक-ठीक क्या कमी है",
+          "vi": "Hỏi chính xác đơn còn thiếu gì",
+          "id": "Tanyakan apa tepatnya yang kurang di formulir",
+          "ms": "Tanya apa sebenarnya yang tiada dalam borang",
+          "ko": "신청서에서 정확히 무엇이 빠졌는지 물어보세요"
+        },
+        "practice": "Pregunte qué falta exactamente en el formulario",
+        "practice_translations": {
+          "en": "Ask exactly what is missing from the form",
+          "es": "Pregunte qué falta exactamente en el formulario",
+          "ja": "書類に何が足りないのか具体的に聞いてください",
+          "ko": "신청서에서 정확히 무엇이 빠졌는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if temporary help is available today",
+        "native_translations": {
+          "en": "Ask if temporary help is available today",
+          "es": "Pregunte si hay ayuda temporal disponible hoy",
+          "fr": "Demandez si une aide temporaire est possible aujourd'hui",
+          "de": "Fragen Sie, ob es heute schon vorläufige Hilfe gibt",
+          "it": "Chiedi se oggi è disponibile un aiuto temporaneo",
+          "pl": "Zapytaj, czy jest dziś dostępna pomoc doraźna",
+          "pt": "Pergunte se há ajuda temporária disponível hoje",
+          "nl": "Vraag of er vandaag tijdelijke hulp mogelijk is",
+          "hr": "Pitaj postoji li danas privremena pomoć",
+          "tr": "Bugün geçici bir yardım olup olmadığını sorun",
+          "uk": "Запитай, чи можна отримати тимчасову допомогу сьогодні",
+          "ar": "اسأل إن كانت هناك مساعدة مؤقتة متاحة اليوم",
+          "hi": "पूछिए कि क्या आज कोई अस्थायी मदद मिल सकती है",
+          "vi": "Hỏi hôm nay có hỗ trợ tạm thời không",
+          "id": "Tanyakan apakah ada bantuan sementara hari ini",
+          "ms": "Tanya sama ada bantuan sementara boleh didapati hari ini",
+          "ko": "오늘 받을 수 있는 임시 지원이 있는지 물어보세요"
+        },
+        "practice": "Pregunte si hay ayuda temporal disponible hoy",
+        "practice_translations": {
+          "en": "Ask if temporary help is available today",
+          "es": "Pregunte si hay ayuda temporal disponible hoy",
+          "ja": "今日受けられる一時的な支援があるか聞いてください",
+          "ko": "오늘 받을 수 있는 임시 지원이 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Confirm the next steps and the deadline",
+        "native_translations": {
+          "en": "Confirm the next steps and the deadline",
+          "es": "Confirme los próximos pasos y la fecha límite",
+          "fr": "Confirmez les prochaines étapes et la date limite",
+          "de": "Bestätigen Sie die nächsten Schritte und die Frist",
+          "it": "Conferma i prossimi passi e la scadenza",
+          "pl": "Potwierdź kolejne kroki i termin",
+          "pt": "Confirme os próximos passos e o prazo",
+          "nl": "Bevestig de volgende stappen en de deadline",
+          "hr": "Potvrdi sljedeće korake i rok",
+          "tr": "Sonraki adımları ve son tarihi teyit edin",
+          "uk": "Уточни наступні кроки й кінцевий термін",
+          "ar": "أكّد الخطوات التالية والموعد النهائي",
+          "hi": "अगले क़दम और आख़िरी तारीख़ पक्की कीजिए",
+          "vi": "Xác nhận các bước tiếp theo và hạn chót",
+          "id": "Konfirmasi langkah selanjutnya dan tenggat waktunya",
+          "ms": "Sahkan langkah seterusnya dan tarikh akhir",
+          "ko": "다음 절차와 마감일을 확인하세요"
+        },
+        "practice": "Confirme los próximos pasos y la fecha límite",
+        "practice_translations": {
+          "en": "Confirm the next steps and the deadline",
+          "es": "Confirme los próximos pasos y la fecha límite",
+          "ja": "次の手続きと期限を確認してください",
+          "ko": "다음 절차와 마감일을 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I have three children, and money has been very tight lately.",
+      "native_translations": {
+        "en": "I have three children, and money has been very tight lately.",
+        "es": "Tengo tres hijos y últimamente el dinero no nos alcanza.",
+        "fr": "J'ai trois enfants, et les fins de mois sont très difficiles en ce moment.",
+        "de": "Ich habe drei Kinder, und das Geld ist in letzter Zeit sehr knapp.",
+        "it": "Ho tre figli e ultimamente abbiamo pochissimi soldi.",
+        "pl": "Mam troje dzieci i ostatnio bardzo brakuje nam pieniędzy.",
+        "pt": "Tenho três filhos, e o dinheiro anda muito apertado ultimamente.",
+        "nl": "Ik heb drie kinderen en we zitten de laatste tijd erg krap.",
+        "hr": "Imam troje djece i u posljednje vrijeme novca nam jako nedostaje.",
+        "tr": "Üç çocuğum var ve son zamanlarda maddi durumumuz çok sıkışık.",
+        "uk": "У мене троє дітей, і останнім часом із грошима дуже скрутно.",
+        "ar": "لدي ثلاثة أطفال، والوضع المالي صعب جدًا مؤخرًا.",
+        "hi": "मेरे तीन बच्चे हैं, और पिछले कुछ समय से पैसों की बहुत तंगी है।",
+        "vi": "Tôi có ba con, và dạo này tiền bạc rất eo hẹp.",
+        "id": "Saya punya tiga anak, dan belakangan ini keuangan kami sangat sulit.",
+        "ms": "Saya ada tiga orang anak, dan kewangan kami sangat sempit kebelakangan ini.",
+        "ko": "아이가 셋인데 요즘 형편이 너무 어려워요."
+      },
+      "practice": "Tengo tres hijos y últimamente el dinero no nos alcanza.",
+      "practice_translations": {
+        "en": "I have three children, and money has been very tight lately.",
+        "es": "Tengo tres hijos y últimamente el dinero no nos alcanza.",
+        "ja": "子どもが3人いて、最近は家計がとても苦しいんです。",
+        "ko": "아이가 셋인데 요즘 형편이 너무 어려워요."
+      }
+    },
+    {
+      "native": "Could you show me exactly what's missing?",
+      "native_translations": {
+        "en": "Could you show me exactly what's missing?",
+        "es": "¿Me podría mostrar exactamente qué falta?",
+        "fr": "Pourriez-vous me montrer précisément ce qui manque ?",
+        "de": "Könnten Sie mir genau zeigen, was fehlt?",
+        "it": "Potrebbe mostrarmi esattamente cosa manca?",
+        "pl": "Czy mógłby mi pan pokazać, czego dokładnie brakuje?",
+        "pt": "Você poderia me mostrar exatamente o que está faltando?",
+        "nl": "Kunt u me precies laten zien wat er ontbreekt?",
+        "hr": "Možete li mi pokazati što točno nedostaje?",
+        "tr": "Tam olarak neyin eksik olduğunu bana gösterebilir misiniz?",
+        "uk": "Чи не могли б ви показати, чого саме бракує?",
+        "ar": "هل يمكنك أن تريني بالضبط ما الناقص؟",
+        "hi": "क्या आप मुझे ठीक-ठीक दिखा सकते हैं कि क्या कमी है?",
+        "vi": "Anh/chị chỉ giúp tôi chính xác còn thiếu gì được không?",
+        "id": "Bisa tunjukkan kepada saya apa tepatnya yang kurang?",
+        "ms": "Boleh tunjukkan kepada saya apa sebenarnya yang tiada?",
+        "ko": "정확히 뭐가 빠졌는지 보여 주실 수 있어요?"
+      },
+      "practice": "¿Me podría mostrar exactamente qué falta?",
+      "practice_translations": {
+        "en": "Could you show me exactly what's missing?",
+        "es": "¿Me podría mostrar exactamente qué falta?",
+        "ja": "何が足りないのか、具体的に教えていただけますか。",
+        "ko": "정확히 뭐가 빠졌는지 보여 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "Can I fix it here today instead of coming back next month?",
+      "native_translations": {
+        "en": "Can I fix it here today instead of coming back next month?",
+        "es": "¿Puedo corregirlo aquí hoy en vez de volver el próximo mes?",
+        "fr": "Est-ce que je peux le corriger ici aujourd'hui au lieu de revenir le mois prochain ?",
+        "de": "Kann ich das heute hier korrigieren, statt nächsten Monat wiederzukommen?",
+        "it": "Posso sistemarlo qui oggi invece di tornare il mese prossimo?",
+        "pl": "Czy mogę to poprawić dzisiaj na miejscu, zamiast przychodzić w przyszłym miesiącu?",
+        "pt": "Posso corrigir isso aqui hoje em vez de voltar no mês que vem?",
+        "nl": "Kan ik het vandaag hier aanvullen in plaats van volgende maand terug te komen?",
+        "hr": "Mogu li to ispraviti ovdje danas umjesto da dolazim sljedeći mjesec?",
+        "tr": "Gelecek ay tekrar gelmek yerine bugün burada düzeltebilir miyim?",
+        "uk": "Чи можу я виправити це тут сьогодні, щоб не приходити наступного місяця?",
+        "ar": "هل يمكنني تصحيحه هنا اليوم بدلًا من العودة الشهر القادم؟",
+        "hi": "क्या मैं अगले महीने आने की बजाय इसे आज यहीं ठीक कर सकता हूँ?",
+        "vi": "Tôi có thể sửa ngay hôm nay ở đây thay vì tháng sau quay lại được không?",
+        "id": "Bisakah saya memperbaikinya di sini hari ini, daripada kembali bulan depan?",
+        "ms": "Bolehkah saya betulkan di sini hari ini dan tidak perlu datang semula bulan depan?",
+        "ko": "다음 달에 다시 오지 않고 오늘 여기서 고칠 수 있을까요?"
+      },
+      "practice": "¿Puedo corregirlo aquí hoy en vez de volver el próximo mes?",
+      "practice_translations": {
+        "en": "Can I fix it here today instead of coming back next month?",
+        "es": "¿Puedo corregirlo aquí hoy en vez de volver el próximo mes?",
+        "ja": "来月また来るのではなく、今日ここで直すことはできますか。",
+        "ko": "다음 달에 다시 오지 않고 오늘 여기서 고칠 수 있을까요?"
+      }
+    },
+    {
+      "native": "Is there any help we can get in the meantime?",
+      "native_translations": {
+        "en": "Is there any help we can get in the meantime?",
+        "es": "¿Hay alguna ayuda que podamos recibir mientras tanto?",
+        "fr": "Existe-t-il une aide que nous pourrions recevoir en attendant ?",
+        "de": "Gibt es in der Zwischenzeit irgendeine Unterstützung für uns?",
+        "it": "C'è qualche aiuto che possiamo ricevere nel frattempo?",
+        "pl": "Czy możemy w międzyczasie dostać jakąś pomoc?",
+        "pt": "Existe alguma ajuda que a gente possa receber enquanto isso?",
+        "nl": "Is er in de tussentijd hulp die we kunnen krijgen?",
+        "hr": "Postoji li neka pomoć koju možemo dobiti u međuvremenu?",
+        "tr": "Bu arada alabileceğimiz herhangi bir yardım var mı?",
+        "uk": "Чи можемо ми тим часом отримати якусь допомогу?",
+        "ar": "هل هناك أي مساعدة يمكننا الحصول عليها في هذه الأثناء؟",
+        "hi": "क्या तब तक हमें कोई मदद मिल सकती है?",
+        "vi": "Trong lúc chờ, gia đình tôi có thể nhận hỗ trợ gì không?",
+        "id": "Apakah ada bantuan yang bisa kami dapatkan sementara ini?",
+        "ms": "Adakah apa-apa bantuan yang boleh kami dapat sementara ini?",
+        "ko": "그동안 받을 수 있는 지원이 있을까요?"
+      },
+      "practice": "¿Hay alguna ayuda que podamos recibir mientras tanto?",
+      "practice_translations": {
+        "en": "Is there any help we can get in the meantime?",
+        "es": "¿Hay alguna ayuda que podamos recibir mientras tanto?",
+        "ja": "それまでの間に受けられる支援はありますか。",
+        "ko": "그동안 받을 수 있는 지원이 있을까요?"
+      }
+    },
+    {
+      "native": "Just to confirm, what do I need to bring, and by when?",
+      "native_translations": {
+        "en": "Just to confirm, what do I need to bring, and by when?",
+        "es": "Solo para confirmar, ¿qué tengo que traer y para cuándo?",
+        "fr": "Juste pour confirmer : qu'est-ce que je dois apporter, et pour quand ?",
+        "de": "Nur zur Sicherheit: Was muss ich mitbringen, und bis wann?",
+        "it": "Solo per conferma: cosa devo portare, ed entro quando?",
+        "pl": "Dla pewności: co muszę przynieść i do kiedy?",
+        "pt": "Só para confirmar: o que eu preciso trazer e até quando?",
+        "nl": "Even ter bevestiging: wat moet ik meenemen, en voor wanneer?",
+        "hr": "Samo da potvrdim, što trebam donijeti i do kada?",
+        "tr": "Teyit etmek için soruyorum: ne getirmem gerekiyor ve en geç ne zamana kadar?",
+        "uk": "Щоб уточнити: що мені треба принести і до якого терміну?",
+        "ar": "للتأكيد فقط، ماذا يجب أن أحضر، وفي أي موعد؟",
+        "hi": "बस पक्का करने के लिए, मुझे क्या लाना है, और कब तक?",
+        "vi": "Cho tôi xác nhận lại, tôi cần mang những gì và hạn chót là khi nào?",
+        "id": "Untuk memastikan saja, apa yang harus saya bawa, dan paling lambat kapan?",
+        "ms": "Untuk kepastian, apa yang perlu saya bawa, dan sebelum bila?",
+        "ko": "확인차 여쭤볼게요. 뭘 언제까지 가져와야 하나요?"
+      },
+      "practice": "Solo para confirmar, ¿qué tengo que traer y para cuándo?",
+      "practice_translations": {
+        "en": "Just to confirm, what do I need to bring, and by when?",
+        "es": "Solo para confirmar, ¿qué tengo que traer y para cuándo?",
+        "ja": "確認ですが、何をいつまでに持ってくればいいですか。",
+        "ko": "확인차 여쭤볼게요. 뭘 언제까지 가져와야 하나요?"
+      }
+    }
+  ]
+}

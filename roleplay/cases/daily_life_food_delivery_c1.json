@@ -1,0 +1,260 @@
+{
+  "id": "daily_life_food_delivery_c1",
+  "title": "The Completely Wrong Order",
+  "title_translations": {
+    "en": "The Completely Wrong Order",
+    "es": "El pedido totalmente equivocado",
+    "fr": "La commande complètement fausse",
+    "de": "Die völlig falsche Bestellung",
+    "it": "L'ordine completamente sbagliato",
+    "pl": "Kompletnie nie to zamówienie",
+    "pt": "O pedido completamente errado",
+    "nl": "De compleet verkeerde bestelling",
+    "hr": "Potpuno pogrešna narudžba",
+    "tr": "Tamamen Yanlış Sipariş",
+    "uk": "Зовсім не те замовлення",
+    "ar": "طلب خاطئ تمامًا",
+    "hi": "पूरा का पूरा ग़लत ऑर्डर",
+    "vi": "Đơn hàng sai hoàn toàn",
+    "id": "Pesanan yang Salah Total",
+    "ms": "Pesanan yang Salah Sama Sekali",
+    "ko": "완전히 잘못 온 주문"
+  },
+  "character": "fox",
+  "scenario": "You ordered a small vegetable soup. The delivery driver (AI) hands you a huge box of fried chicken and wants you to sign for it.",
+  "scenario_translations": {
+    "en": "You ordered a small vegetable soup. The delivery driver (AI) hands you a huge box of fried chicken and wants you to sign for it.",
+    "es": "Pidió una sopa de verduras pequeña. El repartidor (AI) le entrega una enorme caja de pollo frito y quiere que firme el recibo.",
+    "fr": "Vous avez commandé une petite soupe de légumes. Le livreur (AI) vous tend une énorme boîte de poulet frit et veut que vous signiez.",
+    "de": "Sie haben eine kleine Gemüsesuppe bestellt. Die Person vom Lieferdienst (AI) drückt Ihnen eine riesige Kiste frittiertes Hähnchen in die Hand und möchte, dass Sie den Empfang unterschreiben.",
+    "it": "Hai ordinato una piccola zuppa di verdure. Il fattorino (AI) ti porge un'enorme scatola di pollo fritto e vuole che firmi la ricevuta.",
+    "pl": "Zamówiłeś małą zupę warzywną. Kurier (AI) wręcza ci ogromne pudło smażonego kurczaka i chce, żebyś pokwitował odbiór.",
+    "pt": "Você pediu uma sopa pequena de legumes. O entregador (AI) te entrega uma caixa enorme de frango frito e quer que você assine o recebimento.",
+    "nl": "Je hebt een kleine groentesoep besteld. De bezorger (AI) geeft je een enorme doos gefrituurde kip en wil dat je tekent voor ontvangst.",
+    "hr": "Tvoja narudžba bila je mala juha od povrća. Dostavljač (AI) ti pruža ogromnu kutiju pohane piletine i traži da potpišeš preuzimanje.",
+    "tr": "Küçük bir sebze çorbası sipariş ettiniz. Kurye (AI) size kocaman bir kutu kızarmış tavuk uzatıyor ve teslim aldığınıza dair imza istiyor.",
+    "uk": "Ти замовляєш маленьку порцію овочевого супу. Кур'єр (AI) вручає тобі величезну коробку смаженої курки й просить розписатися.",
+    "ar": "طلبت حساء خضار صغيرًا. عامل التوصيل (AI) يسلّمك علبة ضخمة من الدجاج المقلي ويريد منك التوقيع على الاستلام.",
+    "hi": "आपने एक छोटा वेजिटेबल सूप ऑर्डर किया था। डिलीवरी ड्राइवर (AI) आपको फ़्राइड चिकन का एक बड़ा डिब्बा पकड़ाता है और चाहता है कि आप साइन करें।",
+    "vi": "Bạn gọi một bát súp rau nhỏ. Tài xế giao hàng (AI) đưa bạn một hộp gà rán khổng lồ và muốn bạn ký nhận.",
+    "id": "Kamu memesan sup sayur porsi kecil. Kurir (AI) malah menyerahkan sekotak besar ayam goreng dan memintamu tanda tangan.",
+    "ms": "Anda memesan sup sayur kecil. Penghantar makanan (AI) menyerahkan sekotak besar ayam goreng dan mahu anda menandatanganinya.",
+    "ko": "작은 야채수프를 주문했어요. 그런데 배달 기사(AI)가 커다란 프라이드치킨 상자를 건네며 서명해 달라고 해요."
+  },
+  "mission": {
+    "native": "Explain calmly that this is not your order and ask the driver to check it.",
+    "native_translations": {
+      "en": "Explain calmly that this is not your order and ask the driver to check it.",
+      "es": "Explique con calma que este no es su pedido y pida al repartidor que lo revise.",
+      "fr": "Expliquez calmement que ce n'est pas votre commande et demandez au livreur de vérifier.",
+      "de": "Erklären Sie ruhig, dass das nicht Ihre Bestellung ist, und bitten Sie darum, sie zu überprüfen.",
+      "it": "Spiega con calma che non è il tuo ordine e chiedi al fattorino di controllare.",
+      "pl": "Spokojnie wyjaśnij, że to nie twoje zamówienie, i poproś kuriera, żeby je sprawdził.",
+      "pt": "Explique com calma que esse não é o seu pedido e peça ao entregador que confira.",
+      "nl": "Leg rustig uit dat dit niet jouw bestelling is en vraag de bezorger om het te controleren.",
+      "hr": "Mirno objasni da to nije tvoja narudžba i zamoli dostavljača da je provjeri.",
+      "tr": "Bunun sizin siparişiniz olmadığını sakince açıklayın ve kuryeden siparişi kontrol etmesini isteyin.",
+      "uk": "Спокійно поясни, що це не твоє замовлення, і попроси кур'єра його перевірити.",
+      "ar": "اشرح بهدوء أن هذا ليس طلبك واطلب من عامل التوصيل التحقق منه.",
+      "hi": "शांति से समझाइए कि यह आपका ऑर्डर नहीं है और ड्राइवर से उसे जाँचने को कहिए।",
+      "vi": "Bình tĩnh giải thích rằng đây không phải đơn của bạn và nhờ tài xế kiểm tra lại.",
+      "id": "Jelaskan dengan tenang bahwa ini bukan pesananmu dan minta kurir mengeceknya.",
+      "ms": "Terangkan dengan tenang bahawa ini bukan pesanan anda dan minta penghantar menyemaknya.",
+      "ko": "침착하게 이건 당신의 주문이 아니라고 설명하고 기사님께 확인해 달라고 부탁하세요."
+    },
+    "practice": "Explique con calma que este no es su pedido y pida al repartidor que lo revise.",
+    "practice_translations": {
+      "en": "Explain calmly that this is not your order and ask the driver to check it.",
+      "es": "Explique con calma que este no es su pedido y pida al repartidor que lo revise.",
+      "ja": "自分の注文ではないことを落ち着いて説明し、配達員に確認してもらってください。",
+      "ko": "침착하게 이건 당신의 주문이 아니라고 설명하고 기사님께 확인해 달라고 부탁하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say that this is not what you ordered",
+        "native_translations": {
+          "en": "Say that this is not what you ordered",
+          "es": "Diga que esto no es lo que pidió",
+          "fr": "Dites que ce n'est pas ce que vous avez commandé",
+          "de": "Sagen Sie, dass Sie das nicht bestellt haben",
+          "it": "Di' che non è quello che hai ordinato",
+          "pl": "Powiedz, że to nie jest to, co zamówiłeś",
+          "pt": "Diga que não foi isso que você pediu",
+          "nl": "Zeg dat dit niet is wat je hebt besteld",
+          "hr": "Reci da to nije tvoja narudžba",
+          "tr": "Bunun sipariş ettiğiniz şey olmadığını söyleyin",
+          "uk": "Скажи, що це не те, що ти замовляв",
+          "ar": "قل إن هذا ليس ما طلبته",
+          "hi": "कहिए कि आपने यह ऑर्डर नहीं किया था",
+          "vi": "Nói rằng đây không phải món bạn đã gọi",
+          "id": "Katakan bahwa ini bukan yang kamu pesan",
+          "ms": "Katakan bahawa ini bukan apa yang anda pesan",
+          "ko": "이건 주문한 게 아니라고 말하세요"
+        },
+        "practice": "Diga que esto no es lo que pidió",
+        "practice_translations": {
+          "en": "Say that this is not what you ordered",
+          "es": "Diga que esto no es lo que pidió",
+          "ja": "注文したものと違うと伝えてください",
+          "ko": "이건 주문한 게 아니라고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe what you actually ordered",
+        "native_translations": {
+          "en": "Describe what you actually ordered",
+          "es": "Describa lo que realmente pidió",
+          "fr": "Décrivez ce que vous avez vraiment commandé",
+          "de": "Beschreiben Sie, was Sie tatsächlich bestellt haben",
+          "it": "Descrivi cosa hai ordinato davvero",
+          "pl": "Opisz, co naprawdę zamówiłeś",
+          "pt": "Descreva o que você realmente pediu",
+          "nl": "Beschrijf wat je echt hebt besteld",
+          "hr": "Opiši svoju pravu narudžbu",
+          "tr": "Aslında ne sipariş ettiğinizi anlatın",
+          "uk": "Опиши, що ти насправді замовляв",
+          "ar": "صف ما طلبته فعلًا",
+          "hi": "बताइए कि आपने असल में क्या ऑर्डर किया था",
+          "vi": "Mô tả món bạn thực sự đã gọi",
+          "id": "Jelaskan apa yang sebenarnya kamu pesan",
+          "ms": "Terangkan apa yang anda benar-benar pesan",
+          "ko": "실제로 무엇을 주문했는지 설명하세요"
+        },
+        "practice": "Describa lo que realmente pidió",
+        "practice_translations": {
+          "en": "Describe what you actually ordered",
+          "es": "Describa lo que realmente pidió",
+          "ja": "実際に注文したものを説明してください",
+          "ko": "실제로 무엇을 주문했는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the driver to check the order",
+        "native_translations": {
+          "en": "Ask the driver to check the order",
+          "es": "Pida al repartidor que revise el pedido",
+          "fr": "Demandez au livreur de vérifier la commande",
+          "de": "Bitten Sie darum, die Bestellung zu überprüfen",
+          "it": "Chiedi al fattorino di controllare l'ordine",
+          "pl": "Poproś kuriera, żeby sprawdził zamówienie",
+          "pt": "Peça ao entregador que confira o pedido",
+          "nl": "Vraag de bezorger de bestelling te controleren",
+          "hr": "Zamoli dostavljača da provjeri narudžbu",
+          "tr": "Kuryeden siparişi kontrol etmesini isteyin",
+          "uk": "Попроси кур'єра перевірити замовлення",
+          "ar": "اطلب من عامل التوصيل التحقق من الطلب",
+          "hi": "ड्राइवर से ऑर्डर जाँचने को कहिए",
+          "vi": "Nhờ tài xế kiểm tra lại đơn hàng",
+          "id": "Minta kurir mengecek pesanannya",
+          "ms": "Minta pemandu menyemak pesanan",
+          "ko": "배달 기사에게 주문을 확인해 달라고 하세요"
+        },
+        "practice": "Pida al repartidor que revise el pedido",
+        "practice_translations": {
+          "en": "Ask the driver to check the order",
+          "es": "Pida al repartidor que revise el pedido",
+          "ja": "配達員に注文を確認してもらってください",
+          "ko": "배달 기사에게 주문을 확인해 달라고 하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, I think there's been a mistake with my order.",
+      "native_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "fr": "Excusez-moi, je crois qu'il y a une erreur dans ma commande.",
+        "de": "Entschuldigung, ich glaube, bei meiner Bestellung ist etwas schiefgelaufen.",
+        "it": "Mi scusi, credo ci sia stato un errore con il mio ordine.",
+        "pl": "Przepraszam, chyba zaszła pomyłka z moim zamówieniem.",
+        "pt": "Com licença, acho que houve um engano com o meu pedido.",
+        "nl": "Pardon, ik denk dat er iets misgegaan is met mijn bestelling.",
+        "hr": "Oprostite, mislim da je došlo do greške s mojom narudžbom.",
+        "tr": "Affedersiniz, sanırım siparişimde bir karışıklık olmuş.",
+        "uk": "Перепрошую, здається, з моїм замовленням сталася помилка.",
+        "ar": "عفوًا، أظن أن هناك خطأ في طلبي.",
+        "hi": "माफ़ कीजिए, मुझे लगता है मेरे ऑर्डर में कोई गड़बड़ हो गई है।",
+        "vi": "Xin lỗi, hình như đơn hàng của tôi bị nhầm rồi.",
+        "id": "Permisi, sepertinya ada kesalahan dengan pesanan saya.",
+        "ms": "Maaf, saya rasa ada kesilapan dengan pesanan saya.",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      },
+      "practice": "Disculpe, creo que hay un error con mi pedido.",
+      "practice_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "ja": "すみません、注文に間違いがあるようなのですが。",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      }
+    },
+    {
+      "native": "I ordered a salad, not a barbecue feast.",
+      "native_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "fr": "J'ai commandé une salade, pas un festin barbecue.",
+        "de": "Ich habe einen Salat bestellt, kein Barbecue-Festmahl.",
+        "it": "Ho ordinato un'insalata, non un banchetto di barbecue.",
+        "pl": "Zamówiłem sałatkę, a nie ucztę z grilla.",
+        "pt": "Eu pedi uma salada, não um banquete de churrasco.",
+        "nl": "Ik had een salade besteld, geen barbecuefestijn.",
+        "hr": "Moja narudžba je salata, a ne gozba s roštilja.",
+        "tr": "Ben salata sipariş ettim, mangal ziyafeti değil.",
+        "uk": "Я замовляв салат, а не бенкет барбекю.",
+        "ar": "طلبت سلطة، لا وليمة شواء.",
+        "hi": "मैंने सलाद ऑर्डर किया था, बारबेक्यू की दावत नहीं।",
+        "vi": "Tôi gọi salad, chứ đâu phải tiệc đồ nướng.",
+        "id": "Saya pesan salad, bukan pesta barbeku.",
+        "ms": "Saya pesan salad, bukan hidangan barbeku.",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      },
+      "practice": "Pedí una ensalada, no una fiesta de barbacoa.",
+      "practice_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "ja": "注文したのはサラダで、バーベキューの盛り合わせではありません。",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      }
+    },
+    {
+      "native": "Could you check the name on the receipt, please?",
+      "native_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "fr": "Pourriez-vous vérifier le nom sur le reçu, s'il vous plaît ?",
+        "de": "Könnten Sie bitte den Namen auf dem Beleg überprüfen?",
+        "it": "Potrebbe controllare il nome sulla ricevuta, per favore?",
+        "pl": "Czy mógłby pan sprawdzić nazwisko na paragonie?",
+        "pt": "Você poderia conferir o nome no recibo, por favor?",
+        "nl": "Kunt u de naam op de bon even controleren?",
+        "hr": "Možete li, molim Vas, provjeriti ime na računu?",
+        "tr": "Fişteki isme bakabilir misiniz, lütfen?",
+        "uk": "Перевірте, будь ласка, ім'я на чеку.",
+        "ar": "هل يمكنك التحقق من الاسم على الإيصال من فضلك؟",
+        "hi": "क्या आप प्लीज़ रसीद पर नाम देख लेंगे?",
+        "vi": "Anh/chị kiểm tra giúp tôi tên trên hóa đơn được không?",
+        "id": "Bisa tolong cek nama di struknya?",
+        "ms": "Boleh tolong semak nama pada resit?",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      },
+      "practice": "¿Podría revisar el nombre en el recibo, por favor?",
+      "practice_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "ja": "レシートの名前を確認していただけますか。",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      }
+    }
+  ]
+}

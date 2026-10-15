@@ -1,0 +1,318 @@
+{
+  "id": "academics_conference_socializing_networking_c1",
+  "title": "Coffee Break Chat",
+  "title_translations": {
+    "en": "Coffee Break Chat",
+    "es": "Charla en la pausa para el café",
+    "fr": "Discussion à la pause café",
+    "de": "Plausch in der Kaffeepause",
+    "it": "Chiacchiere in pausa caffè",
+    "pl": "Rozmowa przy kawie",
+    "pt": "Papo no intervalo do café",
+    "nl": "Praatje bij de koffie",
+    "hr": "Čavrljanje na pauzi za kavu",
+    "tr": "Kahve Molasında Sohbet",
+    "uk": "Розмова за кавою",
+    "ar": "دردشة في استراحة القهوة",
+    "hi": "कॉफ़ी ब्रेक में बातचीत",
+    "vi": "Trò chuyện giờ giải lao",
+    "id": "Ngobrol Saat Rehat Kopi",
+    "ms": "Sembang Waktu Rehat Kopi",
+    "ko": "커피 브레이크 수다"
+  },
+  "character": "fox",
+  "scenario": "It is the coffee break at an academic conference. Another attendee (AI) is standing next to you.",
+  "scenario_translations": {
+    "en": "It is the coffee break at an academic conference. Another attendee (AI) is standing next to you.",
+    "es": "Es la pausa para el café en un congreso académico. Otro asistente (AI) está a su lado.",
+    "fr": "C'est la pause café lors d'une conférence universitaire. Un autre participant (AI) se tient à côté de vous.",
+    "de": "Es ist Kaffeepause auf einer wissenschaftlichen Konferenz. Eine andere Person (AI) aus dem Publikum steht neben Ihnen.",
+    "it": "È la pausa caffè di un convegno accademico. Un altro partecipante (AI) è in piedi accanto a te.",
+    "pl": "Trwa przerwa kawowa na konferencji naukowej. Obok ciebie stoi inny uczestnik (AI).",
+    "pt": "É o intervalo do café em uma conferência acadêmica. Outro participante (AI) está ao seu lado.",
+    "nl": "Het is koffiepauze op een wetenschappelijk congres. Een andere deelnemer (AI) staat naast je.",
+    "hr": "Pauza je za kavu na akademskoj konferenciji. Pokraj tebe stoji drugi sudionik (AI).",
+    "tr": "Akademik bir konferansta kahve molası. Başka bir katılımcı (AI) yanınızda duruyor.",
+    "uk": "На науковій конференції кава-брейк. Поруч із тобою стоїть інший учасник (AI).",
+    "ar": "إنها استراحة القهوة في مؤتمر أكاديمي. مشارك آخر (AI) يقف بجانبك.",
+    "hi": "एक अकादमिक कॉन्फ़्रेंस में कॉफ़ी ब्रेक चल रहा है। एक और प्रतिभागी (AI) आपके बगल में खड़े हैं।",
+    "vi": "Đang là giờ nghỉ uống cà phê tại một hội nghị học thuật. Một người tham dự khác (AI) đang đứng cạnh bạn.",
+    "id": "Sedang rehat kopi di sebuah konferensi akademik. Seorang peserta lain (AI) berdiri di sebelahmu.",
+    "ms": "Sekarang waktu rehat kopi di sebuah persidangan akademik. Seorang peserta lain (AI) berdiri di sebelah anda.",
+    "ko": "학회의 커피 브레이크 시간이에요. 다른 참석자(AI)가 옆에 서 있어요."
+  },
+  "mission": {
+    "native": "Start a friendly chat and find out what the other attendee works on.",
+    "native_translations": {
+      "en": "Start a friendly chat and find out what the other attendee works on.",
+      "es": "Inicie una charla amable y averigüe en qué trabaja la otra persona.",
+      "fr": "Engagez une conversation amicale et découvrez sur quoi travaille l'autre participant.",
+      "de": "Beginnen Sie ein freundliches Gespräch und finden Sie heraus, woran die Person arbeitet.",
+      "it": "Avvia una conversazione amichevole e scopri di cosa si occupa l'altro partecipante.",
+      "pl": "Zacznij przyjazną rozmowę i dowiedz się, czym zajmuje się drugi uczestnik.",
+      "pt": "Puxe uma conversa amigável e descubra em que o outro participante trabalha.",
+      "nl": "Begin een vriendelijk gesprek en kom erachter waar de andere deelnemer aan werkt.",
+      "hr": "Započni prijateljski razgovor i saznaj čime se drugi sudionik bavi.",
+      "tr": "Samimi bir sohbet başlatın ve diğer katılımcının ne üzerinde çalıştığını öğrenin.",
+      "uk": "Почни дружню розмову й дізнайся, над чим працює інший учасник.",
+      "ar": "ابدأ دردشة ودية واعرف مجال عمل المشارك الآخر.",
+      "hi": "दोस्ताना बातचीत शुरू कीजिए और पता कीजिए कि वे किस पर काम करते हैं।",
+      "vi": "Bắt đầu một cuộc trò chuyện thân thiện và tìm hiểu người đó đang nghiên cứu gì.",
+      "id": "Mulai obrolan yang ramah dan cari tahu apa yang sedang ditelitinya.",
+      "ms": "Mulakan sembang mesra dan ketahui bidang kerja peserta itu.",
+      "ko": "친근하게 대화를 시작하고 상대 참석자가 어떤 연구를 하는지 알아보세요."
+    },
+    "practice": "Inicie una charla amable y averigüe en qué trabaja la otra persona.",
+    "practice_translations": {
+      "en": "Start a friendly chat and find out what the other attendee works on.",
+      "es": "Inicie una charla amable y averigüe en qué trabaja la otra persona.",
+      "ja": "気軽に話しかけて、相手がどんな研究をしているか聞いてください。",
+      "ko": "친근하게 대화를 시작하고 상대 참석자가 어떤 연구를 하는지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Greet the attendee and introduce yourself",
+        "native_translations": {
+          "en": "Greet the attendee and introduce yourself",
+          "es": "Salude a la otra persona y preséntese",
+          "fr": "Saluez le participant et présentez-vous",
+          "de": "Begrüßen Sie die Person und stellen Sie sich vor",
+          "it": "Saluta il partecipante e presentati",
+          "pl": "Przywitaj się z uczestnikiem i przedstaw się",
+          "pt": "Cumprimente o participante e apresente-se",
+          "nl": "Begroet de deelnemer en stel je voor",
+          "hr": "Pozdravi sudionika i predstavi se",
+          "tr": "Katılımcıyı selamlayın ve kendinizi tanıtın",
+          "uk": "Привітайся та представся",
+          "ar": "حيِّ المشارك وعرّف بنفسك",
+          "hi": "प्रतिभागी का अभिवादन कीजिए और अपना परिचय दीजिए",
+          "vi": "Chào hỏi và giới thiệu bản thân",
+          "id": "Sapa peserta itu dan perkenalkan dirimu",
+          "ms": "Tegur peserta itu dan perkenalkan diri anda",
+          "ko": "참석자에게 인사하고 자기소개를 하세요"
+        },
+        "practice": "Salude a la otra persona y preséntese",
+        "practice_translations": {
+          "en": "Greet the attendee and introduce yourself",
+          "es": "Salude a la otra persona y preséntese",
+          "ja": "参加者にあいさつして自己紹介してください",
+          "ko": "참석자에게 인사하고 자기소개를 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what they are researching",
+        "native_translations": {
+          "en": "Ask what they are researching",
+          "es": "Pregunte qué está investigando",
+          "fr": "Demandez-lui sur quoi portent ses recherches",
+          "de": "Fragen Sie, woran sie forscht",
+          "it": "Chiedi di cosa si occupa nella sua ricerca",
+          "pl": "Zapytaj, co bada",
+          "pt": "Pergunte o que a pessoa pesquisa",
+          "nl": "Vraag wat de ander onderzoekt",
+          "hr": "Pitaj što istražuje",
+          "tr": "Ne araştırdıklarını sorun",
+          "uk": "Запитай, що він досліджує",
+          "ar": "اسأله عمّا يبحث فيه",
+          "hi": "पूछिए कि वे किस पर रिसर्च कर रहे हैं",
+          "vi": "Hỏi họ đang nghiên cứu gì",
+          "id": "Tanyakan apa yang sedang mereka teliti",
+          "ms": "Tanya apa yang sedang mereka kaji",
+          "ko": "무엇을 연구하는지 물어보세요"
+        },
+        "practice": "Pregunte qué está investigando",
+        "practice_translations": {
+          "en": "Ask what they are researching",
+          "es": "Pregunte qué está investigando",
+          "ja": "何を研究しているか聞いてください",
+          "ko": "무엇을 연구하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask which talk they liked most",
+        "native_translations": {
+          "en": "Ask which talk they liked most",
+          "es": "Pregunte qué ponencia le gustó más",
+          "fr": "Demandez-lui quelle intervention il a préférée",
+          "de": "Fragen Sie, welcher Vortrag ihr am besten gefallen hat",
+          "it": "Chiedi quale intervento gli è piaciuto di più",
+          "pl": "Zapytaj, które wystąpienie podobało mu się najbardziej",
+          "pt": "Pergunte de qual palestra a pessoa mais gostou",
+          "nl": "Vraag welke lezing de ander het leukst vond",
+          "hr": "Pitaj koje mu se predavanje najviše svidjelo",
+          "tr": "En çok hangi konuşmayı beğendiklerini sorun",
+          "uk": "Запитай, яка доповідь сподобалася йому найбільше",
+          "ar": "اسأله أي محاضرة أعجبته أكثر",
+          "hi": "पूछिए कि उन्हें कौन-सी टॉक सबसे अच्छी लगी",
+          "vi": "Hỏi họ thích bài nói nào nhất",
+          "id": "Tanyakan presentasi mana yang paling mereka sukai",
+          "ms": "Tanya ceramah mana yang paling mereka suka",
+          "ko": "어떤 발표가 가장 좋았는지 물어보세요"
+        },
+        "practice": "Pregunte qué ponencia le gustó más",
+        "practice_translations": {
+          "en": "Ask which talk they liked most",
+          "es": "Pregunte qué ponencia le gustó más",
+          "ja": "どの発表が一番良かったか聞いてください",
+          "ko": "어떤 발표가 가장 좋았는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, is this your first time at this conference?",
+      "native_translations": {
+        "en": "Hi, is this your first time at this conference?",
+        "es": "Hola, ¿es la primera vez que viene a este congreso?",
+        "fr": "Bonjour, c'est votre première fois à cette conférence ?",
+        "de": "Hallo, sind Sie zum ersten Mal auf dieser Konferenz?",
+        "it": "Ciao, è la tua prima volta a questo convegno?",
+        "pl": "Cześć, jesteś pierwszy raz na tej konferencji?",
+        "pt": "Oi, é sua primeira vez nesta conferência?",
+        "nl": "Hoi, is dit je eerste keer op dit congres?",
+        "hr": "Bok, jeste li prvi put na ovoj konferenciji?",
+        "tr": "Merhaba, bu konferansa ilk gelişiniz mi?",
+        "uk": "Привіт, ти вперше на цій конференції?",
+        "ar": "مرحبًا، هل هذه أول مرة تحضر فيها هذا المؤتمر؟",
+        "hi": "नमस्ते, क्या इस कॉन्फ़्रेंस में आप पहली बार आए हैं?",
+        "vi": "Chào bạn, đây là lần đầu bạn dự hội nghị này à?",
+        "id": "Halo, apa ini pertama kalinya Anda ikut konferensi ini?",
+        "ms": "Hai, ini kali pertama anda di persidangan ini?",
+        "ko": "안녕하세요, 이 학회는 처음 오셨어요?"
+      },
+      "practice": "Hola, ¿es la primera vez que viene a este congreso?",
+      "practice_translations": {
+        "en": "Hi, is this your first time at this conference?",
+        "es": "Hola, ¿es la primera vez que viene a este congreso?",
+        "ja": "こんにちは。この学会は初めてですか。",
+        "ko": "안녕하세요, 이 학회는 처음 오셨어요?"
+      }
+    },
+    {
+      "native": "I'm a master's student in environmental science.",
+      "native_translations": {
+        "en": "I'm a master's student in environmental science.",
+        "es": "Soy estudiante de maestría en ciencias ambientales.",
+        "fr": "Je suis en master de sciences de l'environnement.",
+        "de": "Ich studiere Umweltwissenschaften im Master.",
+        "it": "Sono uno studente magistrale in scienze ambientali.",
+        "pl": "Jestem na studiach magisterskich z nauk o środowisku.",
+        "pt": "Faço mestrado em ciências ambientais.",
+        "nl": "Ik doe een master in milieuwetenschappen.",
+        "hr": "Ja sam na diplomskom studiju znanosti o okolišu.",
+        "tr": "Çevre bilimleri alanında yüksek lisans öğrencisiyim.",
+        "uk": "Я магістрант, вивчаю екологію.",
+        "ar": "أنا طالب ماجستير في العلوم البيئية.",
+        "hi": "मैं पर्यावरण विज्ञान में मास्टर्स कर रहा हूँ।",
+        "vi": "Mình là học viên cao học ngành khoa học môi trường.",
+        "id": "Saya mahasiswa S2 ilmu lingkungan.",
+        "ms": "Saya pelajar sarjana dalam bidang sains alam sekitar.",
+        "ko": "저는 환경과학 석사 과정 학생이에요."
+      },
+      "practice": "Soy estudiante de maestría en ciencias ambientales.",
+      "practice_translations": {
+        "en": "I'm a master's student in environmental science.",
+        "es": "Soy estudiante de maestría en ciencias ambientales.",
+        "ja": "環境科学を専攻している修士課程の学生です。",
+        "ko": "저는 환경과학 석사 과정 학생이에요."
+      }
+    },
+    {
+      "native": "What are you working on at the moment?",
+      "native_translations": {
+        "en": "What are you working on at the moment?",
+        "es": "¿En qué está trabajando actualmente?",
+        "fr": "Sur quoi travaillez-vous en ce moment ?",
+        "de": "Woran arbeiten Sie gerade?",
+        "it": "Su cosa stai lavorando in questo periodo?",
+        "pl": "Nad czym teraz pracujesz?",
+        "pt": "Em que você está trabalhando no momento?",
+        "nl": "Waar werk je op dit moment aan?",
+        "hr": "Na čemu trenutačno radite?",
+        "tr": "Şu anda ne üzerinde çalışıyorsunuz?",
+        "uk": "Над чим ти зараз працюєш?",
+        "ar": "على ماذا تعمل في الوقت الحالي؟",
+        "hi": "आप आजकल किस पर काम कर रहे हैं?",
+        "vi": "Hiện giờ bạn đang nghiên cứu gì vậy?",
+        "id": "Anda sedang mengerjakan apa saat ini?",
+        "ms": "Apa yang sedang anda usahakan sekarang?",
+        "ko": "요즘 어떤 연구를 하고 계세요?"
+      },
+      "practice": "¿En qué está trabajando actualmente?",
+      "practice_translations": {
+        "en": "What are you working on at the moment?",
+        "es": "¿En qué está trabajando actualmente?",
+        "ja": "今はどんな研究をされているんですか。",
+        "ko": "요즘 어떤 연구를 하고 계세요?"
+      }
+    },
+    {
+      "native": "Which talk did you enjoy the most this morning?",
+      "native_translations": {
+        "en": "Which talk did you enjoy the most this morning?",
+        "es": "¿Qué ponencia le gustó más esta mañana?",
+        "fr": "Quelle intervention avez-vous préférée ce matin ?",
+        "de": "Welcher Vortrag heute Morgen hat Ihnen am besten gefallen?",
+        "it": "Quale intervento ti è piaciuto di più stamattina?",
+        "pl": "Które dzisiejsze poranne wystąpienie podobało ci się najbardziej?",
+        "pt": "De qual palestra você mais gostou hoje de manhã?",
+        "nl": "Welke lezing vond jij vanochtend het leukst?",
+        "hr": "Koje Vam se jutros predavanje najviše svidjelo?",
+        "tr": "Bu sabah en çok hangi konuşmayı beğendiniz?",
+        "uk": "Яка доповідь сьогодні вранці сподобалася тобі найбільше?",
+        "ar": "أي محاضرة استمتعت بها أكثر هذا الصباح؟",
+        "hi": "आज सुबह की कौन-सी टॉक आपको सबसे अच्छी लगी?",
+        "vi": "Sáng nay bạn thích bài nói nào nhất?",
+        "id": "Presentasi mana yang paling Anda nikmati pagi ini?",
+        "ms": "Ceramah mana yang paling anda suka pagi tadi?",
+        "ko": "오늘 아침 발표 중에 어떤 게 제일 좋았어요?"
+      },
+      "practice": "¿Qué ponencia le gustó más esta mañana?",
+      "practice_translations": {
+        "en": "Which talk did you enjoy the most this morning?",
+        "es": "¿Qué ponencia le gustó más esta mañana?",
+        "ja": "今朝の発表で、どれが一番面白かったですか。",
+        "ko": "오늘 아침 발표 중에 어떤 게 제일 좋았어요?"
+      }
+    },
+    {
+      "native": "The coffee here is surprisingly good!",
+      "native_translations": {
+        "en": "The coffee here is surprisingly good!",
+        "es": "¡El café aquí está sorprendentemente bueno!",
+        "fr": "Le café est étonnamment bon ici !",
+        "de": "Der Kaffee hier ist überraschend gut!",
+        "it": "Il caffè qui è sorprendentemente buono!",
+        "pl": "Kawa jest tu zaskakująco dobra!",
+        "pt": "O café aqui é surpreendentemente bom!",
+        "nl": "De koffie is hier verrassend lekker!",
+        "hr": "Kava je ovdje iznenađujuće dobra!",
+        "tr": "Buradaki kahve şaşırtıcı derecede güzel!",
+        "uk": "Кава тут напрочуд смачна!",
+        "ar": "القهوة هنا جيدة على نحو مفاجئ!",
+        "hi": "यहाँ की कॉफ़ी तो उम्मीद से ज़्यादा अच्छी है!",
+        "vi": "Cà phê ở đây ngon bất ngờ luôn!",
+        "id": "Kopinya ternyata enak juga, ya!",
+        "ms": "Kopi di sini sedap sangat, tak sangka!",
+        "ko": "여기 커피가 의외로 맛있네요!"
+      },
+      "practice": "¡El café aquí está sorprendentemente bueno!",
+      "practice_translations": {
+        "en": "The coffee here is surprisingly good!",
+        "es": "¡El café aquí está sorprendentemente bueno!",
+        "ja": "ここのコーヒー、意外とおいしいですね！",
+        "ko": "여기 커피가 의외로 맛있네요!"
+      }
+    }
+  ]
+}

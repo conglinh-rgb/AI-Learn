@@ -1,0 +1,289 @@
+{
+  "id": "work_knowing_your_workplace_rights_culture_c1",
+  "title": "The Unwritten Office Rules",
+  "title_translations": {
+    "en": "The Unwritten Office Rules",
+    "es": "Las reglas no escritas de la oficina",
+    "fr": "Les règles tacites du bureau",
+    "de": "Die ungeschriebenen Büroregeln",
+    "it": "Le regole non scritte dell'ufficio",
+    "pl": "Niepisane zasady w biurze",
+    "pt": "As regras não escritas do escritório",
+    "nl": "De ongeschreven kantoorregels",
+    "hr": "Nepisana uredska pravila",
+    "tr": "Ofisin Yazılı Olmayan Kuralları",
+    "uk": "Неписані правила офісу",
+    "ar": "قواعد المكتب غير المكتوبة",
+    "hi": "ऑफ़िस के अनलिखे नियम",
+    "vi": "Những luật bất thành văn ở văn phòng",
+    "id": "Aturan Tak Tertulis di Kantor",
+    "ms": "Peraturan Pejabat yang Tidak Tertulis",
+    "ko": "사무실의 불문율"
+  },
+  "character": "fox",
+  "scenario": "It's your first week at a new job. You ask your supervisor (AI) about how things usually work in the office.",
+  "scenario_translations": {
+    "en": "It's your first week at a new job. You ask your supervisor (AI) about how things usually work in the office.",
+    "es": "Es su primera semana en un trabajo nuevo. Le pregunta a su supervisor (AI) cómo suelen funcionar las cosas en la oficina.",
+    "fr": "C'est votre première semaine dans un nouveau poste. Vous demandez à votre supérieur (AI) comment les choses se passent habituellement au bureau.",
+    "de": "Es ist Ihre erste Woche in einem neuen Job. Sie fragen Ihren Vorgesetzten (AI), wie die Dinge im Büro normalerweise laufen.",
+    "it": "È la tua prima settimana in un nuovo lavoro. Chiedi al tuo supervisore (AI) come funzionano di solito le cose in ufficio.",
+    "pl": "To twój pierwszy tydzień w nowej pracy. Pytasz przełożoną (AI), jak zwykle wszystko działa w biurze.",
+    "pt": "É a sua primeira semana em um novo emprego. Você pergunta ao seu supervisor (AI) como as coisas costumam funcionar no escritório.",
+    "nl": "Het is je eerste week in een nieuwe baan. Je vraagt je leidinggevende (AI) hoe dingen op kantoor meestal gaan.",
+    "hr": "Prvi ti je tjedan na novom poslu. Pitaš nadređenog (AI) kako stvari u uredu obično funkcioniraju.",
+    "tr": "Yeni işinizdeki ilk haftanız. Amirinize (AI) ofiste işlerin genelde nasıl yürüdüğünü soruyorsunuz.",
+    "uk": "Це твій перший тиждень на новій роботі. Ти запитуєш свого безпосереднього керівника (AI), як зазвичай усе влаштовано в офісі.",
+    "ar": "إنه أسبوعك الأول في وظيفة جديدة. تسأل مشرفك (AI) عن الطريقة التي تسير بها الأمور عادةً في المكتب.",
+    "hi": "नई नौकरी में यह आपका पहला हफ़्ता है। आप अपने सुपरवाइज़र (AI) से पूछते हैं कि ऑफ़िस में आमतौर पर चीज़ें कैसे चलती हैं।",
+    "vi": "Đây là tuần đầu tiên của bạn ở công việc mới. Bạn hỏi cấp trên (AI) về cách mọi thứ thường vận hành ở văn phòng.",
+    "id": "Ini minggu pertamamu di pekerjaan baru. Kamu bertanya kepada atasanmu (AI) tentang cara kerja yang biasa di kantor.",
+    "ms": "Ini minggu pertama anda di tempat kerja baharu. Anda bertanya kepada penyelia anda (AI) tentang cara biasa urusan di pejabat.",
+    "ko": "새 직장에서의 첫 주예요. 상사(AI)에게 사무실에서 보통 일이 어떻게 돌아가는지 물어봅니다."
+  },
+  "mission": {
+    "native": "Ask your supervisor about breaks, dress code and taking days off.",
+    "native_translations": {
+      "en": "Ask your supervisor about breaks, dress code and taking days off.",
+      "es": "Pregunte a su supervisor sobre los descansos, la vestimenta y cómo pedir días libres.",
+      "fr": "Interrogez votre supérieur sur les pauses, la tenue vestimentaire et la prise de congés.",
+      "de": "Fragen Sie Ihren Vorgesetzten nach Pausen, Dresscode und freien Tagen.",
+      "it": "Chiedi al tuo supervisore delle pause, del dress code e dei giorni di ferie.",
+      "pl": "Zapytaj przełożoną o przerwy, dress code i branie wolnego.",
+      "pt": "Pergunte ao seu supervisor sobre intervalos, código de vestimenta e folgas.",
+      "nl": "Vraag je leidinggevende naar pauzes, kledingvoorschriften en vrije dagen opnemen.",
+      "hr": "Pitaj nadređenog o pauzama, pravilima odijevanja i uzimanju slobodnih dana.",
+      "tr": "Amirinize molaları, kıyafet kurallarını ve izin almayı sorun.",
+      "uk": "Запитай керівника про перерви, дрес-код і вихідні дні.",
+      "ar": "اسأل مشرفك عن فترات الاستراحة وقواعد اللباس وأخذ أيام الإجازة.",
+      "hi": "अपने सुपरवाइज़र से ब्रेक, ड्रेस कोड और छुट्टी लेने के बारे में पूछिए।",
+      "vi": "Hỏi cấp trên về giờ nghỉ, quy định trang phục và việc xin nghỉ phép.",
+      "id": "Tanyakan kepada atasanmu soal jam istirahat, aturan berpakaian, dan cara mengambil cuti.",
+      "ms": "Tanya penyelia anda tentang waktu rehat, kod pakaian dan cara mengambil cuti.",
+      "ko": "상사에게 휴식 시간, 복장 규정, 휴가 내는 방법에 대해 물어보세요."
+    },
+    "practice": "Pregunte a su supervisor sobre los descansos, la vestimenta y cómo pedir días libres.",
+    "practice_translations": {
+      "en": "Ask your supervisor about breaks, dress code and taking days off.",
+      "es": "Pregunte a su supervisor sobre los descansos, la vestimenta y cómo pedir días libres.",
+      "ja": "上司に休憩、服装、休みの取り方について聞いてください。",
+      "ko": "상사에게 휴식 시간, 복장 규정, 휴가 내는 방법에 대해 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask how long the lunch break is",
+        "native_translations": {
+          "en": "Ask how long the lunch break is",
+          "es": "Pregunte cuánto dura la hora del almuerzo",
+          "fr": "Demandez combien de temps dure la pause déjeuner",
+          "de": "Fragen Sie, wie lange die Mittagspause dauert",
+          "it": "Chiedi quanto dura la pausa pranzo",
+          "pl": "Zapytaj, ile trwa przerwa na lunch",
+          "pt": "Pergunte quanto tempo dura o intervalo do almoço",
+          "nl": "Vraag hoe lang de lunchpauze is",
+          "hr": "Pitaj koliko traje pauza za ručak",
+          "tr": "Öğle arasının ne kadar sürdüğünü sorun",
+          "uk": "Запитай, скільки триває обідня перерва",
+          "ar": "اسأل كم مدة استراحة الغداء",
+          "hi": "पूछिए कि लंच ब्रेक कितना लंबा होता है",
+          "vi": "Hỏi giờ nghỉ trưa kéo dài bao lâu",
+          "id": "Tanyakan berapa lama istirahat makan siang",
+          "ms": "Tanya berapa lama waktu rehat makan tengah hari",
+          "ko": "점심시간이 얼마나 되는지 물어보세요"
+        },
+        "practice": "Pregunte cuánto dura la hora del almuerzo",
+        "practice_translations": {
+          "en": "Ask how long the lunch break is",
+          "es": "Pregunte cuánto dura la hora del almuerzo",
+          "ja": "昼休みの長さを聞いてください",
+          "ko": "점심시간이 얼마나 되는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what people usually wear to work",
+        "native_translations": {
+          "en": "Ask what people usually wear to work",
+          "es": "Pregunte qué ropa suele usar la gente en el trabajo",
+          "fr": "Demandez ce que les gens portent habituellement au travail",
+          "de": "Fragen Sie, was man normalerweise zur Arbeit trägt",
+          "it": "Chiedi come si vestono di solito le persone al lavoro",
+          "pl": "Zapytaj, w czym ludzie zwykle przychodzą do pracy",
+          "pt": "Pergunte o que as pessoas costumam vestir para trabalhar",
+          "nl": "Vraag wat mensen meestal naar het werk dragen",
+          "hr": "Pitaj što ljudi obično nose na posao",
+          "tr": "İnsanların işe genelde ne giydiğini sorun",
+          "uk": "Запитай, у чому зазвичай ходять на роботу",
+          "ar": "اسأل ماذا يرتدي الناس عادةً في العمل",
+          "hi": "पूछिए कि लोग आमतौर पर काम पर क्या पहनते हैं",
+          "vi": "Hỏi mọi người thường mặc gì đi làm",
+          "id": "Tanyakan apa yang biasa dipakai orang ke kantor",
+          "ms": "Tanya apa yang biasa dipakai ke tempat kerja",
+          "ko": "사람들이 보통 무엇을 입고 출근하는지 물어보세요"
+        },
+        "practice": "Pregunte qué ropa suele usar la gente en el trabajo",
+        "practice_translations": {
+          "en": "Ask what people usually wear to work",
+          "es": "Pregunte qué ropa suele usar la gente en el trabajo",
+          "ja": "みんなが普段どんな服装で働いているか聞いてください",
+          "ko": "사람들이 보통 무엇을 입고 출근하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how to request a day off",
+        "native_translations": {
+          "en": "Ask how to request a day off",
+          "es": "Pregunte cómo pedir un día libre",
+          "fr": "Demandez comment poser un jour de congé",
+          "de": "Fragen Sie, wie man einen freien Tag beantragt",
+          "it": "Chiedi come richiedere un giorno di ferie",
+          "pl": "Zapytaj, jak poprosić o dzień wolny",
+          "pt": "Pergunte como pedir um dia de folga",
+          "nl": "Vraag hoe je een vrije dag aanvraagt",
+          "hr": "Pitaj kako zatražiti slobodan dan",
+          "tr": "Nasıl izin isteyeceğinizi sorun",
+          "uk": "Запитай, як попросити вихідний",
+          "ar": "اسأل كيف تطلب يوم إجازة",
+          "hi": "पूछिए कि छुट्टी की अर्ज़ी कैसे दें",
+          "vi": "Hỏi cách xin nghỉ một ngày",
+          "id": "Tanyakan cara mengajukan cuti",
+          "ms": "Tanya cara memohon cuti sehari",
+          "ko": "하루 휴가를 어떻게 신청하는지 물어보세요"
+        },
+        "practice": "Pregunte cómo pedir un día libre",
+        "practice_translations": {
+          "en": "Ask how to request a day off",
+          "es": "Pregunte cómo pedir un día libre",
+          "ja": "休みの申請方法を聞いてください",
+          "ko": "하루 휴가를 어떻게 신청하는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "How long do we have for lunch?",
+      "native_translations": {
+        "en": "How long do we have for lunch?",
+        "es": "¿Cuánto tiempo tenemos para almorzar?",
+        "fr": "Combien de temps avons-nous pour déjeuner ?",
+        "de": "Wie lange haben wir Mittagspause?",
+        "it": "Quanto tempo abbiamo per il pranzo?",
+        "pl": "Ile mamy czasu na lunch?",
+        "pt": "Quanto tempo temos para o almoço?",
+        "nl": "Hoe lang hebben we lunchpauze?",
+        "hr": "Koliko imamo vremena za ručak?",
+        "tr": "Öğle yemeği için ne kadar vaktimiz var?",
+        "uk": "Скільки часу в нас на обід?",
+        "ar": "كم من الوقت لدينا للغداء؟",
+        "hi": "लंच के लिए हमारे पास कितना समय होता है?",
+        "vi": "Mình được nghỉ trưa bao lâu ạ?",
+        "id": "Berapa lama waktu istirahat makan siang kita?",
+        "ms": "Berapa lama kita ada untuk makan tengah hari?",
+        "ko": "점심시간은 얼마나 되나요?"
+      },
+      "practice": "¿Cuánto tiempo tenemos para almorzar?",
+      "practice_translations": {
+        "en": "How long do we have for lunch?",
+        "es": "¿Cuánto tiempo tenemos para almorzar?",
+        "ja": "お昼休みはどのくらいありますか。",
+        "ko": "점심시간은 얼마나 되나요?"
+      }
+    },
+    {
+      "native": "Is it okay to wear jeans on Fridays?",
+      "native_translations": {
+        "en": "Is it okay to wear jeans on Fridays?",
+        "es": "¿Está bien usar jeans los viernes?",
+        "fr": "Est-ce que je peux porter un jean le vendredi ?",
+        "de": "Ist es in Ordnung, freitags Jeans zu tragen?",
+        "it": "Va bene mettere i jeans il venerdì?",
+        "pl": "Czy w piątki można przychodzić w dżinsach?",
+        "pt": "Tudo bem usar jeans às sextas?",
+        "nl": "Is het oké om op vrijdag een spijkerbroek te dragen?",
+        "hr": "Smije li se petkom nositi traperice?",
+        "tr": "Cuma günleri kot pantolon giymek sorun olur mu?",
+        "uk": "Чи можна носити джинси по п'ятницях?",
+        "ar": "هل من المقبول ارتداء الجينز أيام الجمعة؟",
+        "hi": "क्या शुक्रवार को जींस पहनना ठीक है?",
+        "vi": "Thứ Sáu mặc quần jeans có được không ạ?",
+        "id": "Apakah boleh pakai jeans di hari Jumat?",
+        "ms": "Boleh pakai seluar jean pada hari Jumaat?",
+        "ko": "금요일에는 청바지를 입어도 괜찮나요?"
+      },
+      "practice": "¿Está bien usar jeans los viernes?",
+      "practice_translations": {
+        "en": "Is it okay to wear jeans on Fridays?",
+        "es": "¿Está bien usar jeans los viernes?",
+        "ja": "金曜日はジーンズでも大丈夫ですか。",
+        "ko": "금요일에는 청바지를 입어도 괜찮나요?"
+      }
+    },
+    {
+      "native": "Who should I talk to if I need a day off?",
+      "native_translations": {
+        "en": "Who should I talk to if I need a day off?",
+        "es": "¿Con quién debo hablar si necesito un día libre?",
+        "fr": "À qui dois-je m'adresser si j'ai besoin d'un jour de congé ?",
+        "de": "An wen soll ich mich wenden, wenn ich einen Tag freinehmen muss?",
+        "it": "Con chi devo parlare se mi serve un giorno libero?",
+        "pl": "Z kim mam porozmawiać, jeśli potrzebuję dnia wolnego?",
+        "pt": "Com quem devo falar se eu precisar de um dia de folga?",
+        "nl": "Met wie moet ik praten als ik een vrije dag nodig heb?",
+        "hr": "Kome se trebam obratiti ako mi treba slobodan dan?",
+        "tr": "İzin almam gerekirse kiminle konuşmalıyım?",
+        "uk": "До кого звернутися, якщо мені потрібен вихідний?",
+        "ar": "مع من يجب أن أتحدث إذا احتجت إلى يوم إجازة؟",
+        "hi": "अगर मुझे छुट्टी चाहिए तो मुझे किससे बात करनी चाहिए?",
+        "vi": "Nếu cần nghỉ một ngày thì tôi nên báo với ai ạ?",
+        "id": "Kalau saya perlu cuti, saya harus bicara dengan siapa?",
+        "ms": "Dengan siapa saya perlu berbincang jika saya mahu ambil cuti sehari?",
+        "ko": "하루 쉬어야 하면 누구한테 말해야 하나요?"
+      },
+      "practice": "¿Con quién debo hablar si necesito un día libre?",
+      "practice_translations": {
+        "en": "Who should I talk to if I need a day off?",
+        "es": "¿Con quién debo hablar si necesito un día libre?",
+        "ja": "休みを取りたいときは、どなたに相談すればいいですか。",
+        "ko": "하루 쉬어야 하면 누구한테 말해야 하나요?"
+      }
+    },
+    {
+      "native": "Thanks, that's really helpful to know.",
+      "native_translations": {
+        "en": "Thanks, that's really helpful to know.",
+        "es": "Gracias, es muy útil saberlo.",
+        "fr": "Merci, c'est vraiment utile à savoir.",
+        "de": "Danke, das ist wirklich gut zu wissen.",
+        "it": "Grazie, è davvero utile saperlo.",
+        "pl": "Dzięki, dobrze to wiedzieć.",
+        "pt": "Obrigado, é muito útil saber disso.",
+        "nl": "Bedankt, dat is heel handig om te weten.",
+        "hr": "Hvala, to mi je stvarno korisno znati.",
+        "tr": "Teşekkürler, bunu bilmek gerçekten çok işime yarar.",
+        "uk": "Дякую, це дуже корисно знати.",
+        "ar": "شكرًا، من المفيد حقًا معرفة ذلك.",
+        "hi": "शुक्रिया, यह जानना सच में काम का है।",
+        "vi": "Cảm ơn anh/chị, biết vậy thật sự rất hữu ích.",
+        "id": "Terima kasih, itu sangat membantu.",
+        "ms": "Terima kasih, maklumat itu sangat membantu.",
+        "ko": "감사해요, 알아 두면 정말 도움이 되겠어요."
+      },
+      "practice": "Gracias, es muy útil saberlo.",
+      "practice_translations": {
+        "en": "Thanks, that's really helpful to know.",
+        "es": "Gracias, es muy útil saberlo.",
+        "ja": "ありがとうございます。とても参考になります。",
+        "ko": "감사해요, 알아 두면 정말 도움이 되겠어요."
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "daily_life_social_drama_at_the_dog_park_c2",
+  "title": "Love at First Sniff",
+  "title_translations": {
+    "en": "Love at First Sniff",
+    "es": "Amor al primer olfateo",
+    "fr": "Coup de foudre au premier reniflement",
+    "de": "Liebe auf den ersten Schnupperer",
+    "it": "Amore al primo annusamento",
+    "pl": "Miłość od pierwszego powąchania",
+    "pt": "Amor à primeira cheirada",
+    "nl": "Liefde op het eerste snuffelen",
+    "hr": "Ljubav na prvi njuh",
+    "tr": "İlk Koklayışta Aşk",
+    "uk": "Кохання з першого нюху",
+    "ar": "حب من أول شمّة",
+    "hi": "पहली सूँघ में प्यार",
+    "vi": "Tiếng sét ái tình lúc ngửi nhau",
+    "id": "Cinta pada Endusan Pertama",
+    "ms": "Cinta pada Hiduan Pertama",
+    "ko": "첫 냄새에 반하다"
+  },
+  "character": "fox",
+  "scenario": "Your dog won't stop following another dog around the park, and its owner (AI) is starting to look a little annoyed.",
+  "scenario_translations": {
+    "en": "Your dog won't stop following another dog around the park, and its owner (AI) is starting to look a little annoyed.",
+    "es": "Su perro no deja de seguir a otra perrita por todo el parque, y su dueño o dueña (AI) empieza a mostrar algo de fastidio.",
+    "fr": "Votre chien n'arrête pas de suivre un autre chien dans tout le parc, et son maître (AI) commence à avoir l'air un peu agacé.",
+    "de": "Ihr Hund läuft einem anderen Hund ständig im Park hinterher, und die Halterin bzw. der Halter (AI) wirkt langsam etwas genervt.",
+    "it": "Il tuo cane non smette di seguire un altro cane per tutto il parco, e il suo padrone (AI) inizia a sembrare un po' infastidito.",
+    "pl": "Twój pies nie przestaje chodzić za innym psem po całym parku, a jego właściciel (AI) zaczyna wyglądać na trochę zirytowanego.",
+    "pt": "Seu cachorro não para de seguir outra cachorra pelo parque, e a tutora (AI) está começando a parecer um pouco irritada.",
+    "nl": "Je hond blijft maar achter een andere hond aan lopen door het park, en de eigenaar (AI) begint een beetje geïrriteerd te kijken.",
+    "hr": "Tvoj pas ne prestaje pratiti drugog psa po parku, a njegov vlasnik (AI) počinje izgledati pomalo iznervirano.",
+    "tr": "Köpeğiniz parkta başka bir köpeğin peşini bırakmıyor ve sahibi (AI) biraz rahatsız olmaya başlıyor.",
+    "uk": "Твій пес ніяк не відстає від іншої собаки в парку, і її власник (AI) починає трохи дратуватися.",
+    "ar": "كلبك لا يتوقف عن ملاحقة كلب آخر في أرجاء الحديقة، وصاحبه (AI) بدأ يبدو منزعجًا قليلًا.",
+    "hi": "आपका कुत्ता पूरे पार्क में एक दूसरे कुत्ते के पीछे-पीछे घूम रहा है, और उसका मालिक (AI) अब थोड़ा चिढ़ा हुआ लगने लगा है।",
+    "vi": "Chó nhà bạn cứ bám theo một con chó khác khắp công viên, và chủ của nó (AI) bắt đầu có vẻ hơi khó chịu.",
+    "id": "Anjingmu terus membuntuti anjing lain keliling taman, dan pemiliknya (AI) mulai terlihat agak kesal.",
+    "ms": "Anjing anda tidak berhenti mengekori seekor anjing lain di sekeliling taman, dan tuannya (AI) mula kelihatan agak jengkel.",
+    "ko": "당신의 개가 공원에서 다른 개를 계속 졸졸 따라다니고, 그 개의 주인(AI)은 조금 짜증 난 표정이에요."
+  },
+  "mission": {
+    "native": "Apologize, make friendly small talk, and suggest a playdate for the dogs.",
+    "native_translations": {
+      "en": "Apologize, make friendly small talk, and suggest a playdate for the dogs.",
+      "es": "Discúlpese, converse de forma amable y sugiera que los perros jueguen juntos.",
+      "fr": "Excusez-vous, faites un peu la conversation et proposez que les chiens se retrouvent pour jouer.",
+      "de": "Entschuldigen Sie sich, führen Sie freundlichen Smalltalk und schlagen Sie ein Spieltreffen für die Hunde vor.",
+      "it": "Scusati, fai due chiacchiere amichevoli e proponi un incontro di gioco per i cani.",
+      "pl": "Przeproś, porozmawiaj przyjaźnie i zaproponuj psom wspólną zabawę.",
+      "pt": "Peça desculpas, puxe um papo simpático e sugira um encontro para os cachorros brincarem.",
+      "nl": "Bied je excuses aan, maak een vriendelijk praatje en stel een speelafspraak voor de honden voor.",
+      "hr": "Ispričaj se, prijateljski porazgovaraj i predloži da se psi opet zajedno igraju.",
+      "tr": "Özür dileyin, samimi bir sohbet edin ve köpekler için bir oyun buluşması önerin.",
+      "uk": "Перепроси, підтримай дружню розмову й запропонуй собакам зустрітися погратися.",
+      "ar": "اعتذر وتبادل أطراف الحديث بودّ واقترح موعدًا ليلعب الكلبان معًا.",
+      "hi": "माफ़ी माँगिए, दोस्ताना हल्की-फुल्की बात कीजिए और कुत्तों के साथ खेलने का सुझाव दीजिए।",
+      "vi": "Xin lỗi, trò chuyện xã giao thân thiện và rủ hai bé chó hẹn đi chơi cùng nhau.",
+      "id": "Minta maaf, ajak ngobrol santai, dan usulkan agar anjing-anjing kalian main bersama.",
+      "ms": "Minta maaf, berbual mesra, dan cadangkan anjing-anjing itu bermain bersama.",
+      "ko": "사과하고, 가볍고 다정하게 대화를 나눈 뒤, 개들끼리 놀 약속을 제안하세요."
+    },
+    "practice": "Discúlpese, converse de forma amable y sugiera que los perros jueguen juntos.",
+    "practice_translations": {
+      "en": "Apologize, make friendly small talk, and suggest a playdate for the dogs.",
+      "es": "Discúlpese, converse de forma amable y sugiera que los perros jueguen juntos.",
+      "ja": "謝って、気さくに雑談し、犬同士を遊ばせる約束を提案してください。",
+      "ko": "사과하고, 가볍고 다정하게 대화를 나눈 뒤, 개들끼리 놀 약속을 제안하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Apologize for your dog's behavior",
+        "native_translations": {
+          "en": "Apologize for your dog's behavior",
+          "es": "Discúlpese por el comportamiento de su perro",
+          "fr": "Excusez-vous pour le comportement de votre chien",
+          "de": "Entschuldigen Sie sich für das Verhalten Ihres Hundes",
+          "it": "Scusati per il comportamento del tuo cane",
+          "pl": "Przeproś za zachowanie swojego psa",
+          "pt": "Peça desculpas pelo comportamento do seu cachorro",
+          "nl": "Bied je excuses aan voor het gedrag van je hond",
+          "hr": "Ispričaj se zbog ponašanja svog psa",
+          "tr": "Köpeğinizin davranışı için özür dileyin",
+          "uk": "Перепроси за поведінку свого пса",
+          "ar": "اعتذر عن تصرف كلبك",
+          "hi": "अपने कुत्ते के बर्ताव के लिए माफ़ी माँगिए",
+          "vi": "Xin lỗi vì hành vi của chó nhà bạn",
+          "id": "Minta maaf atas tingkah anjingmu",
+          "ms": "Minta maaf atas kelakuan anjing anda",
+          "ko": "개의 행동에 대해 사과하세요"
+        },
+        "practice": "Discúlpese por el comportamiento de su perro",
+        "practice_translations": {
+          "en": "Apologize for your dog's behavior",
+          "es": "Discúlpese por el comportamiento de su perro",
+          "ja": "自分の犬の行動を謝ってください",
+          "ko": "개의 행동에 대해 사과하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask the other dog's name and age",
+        "native_translations": {
+          "en": "Ask the other dog's name and age",
+          "es": "Pregunte el nombre y la edad del otro perro",
+          "fr": "Demandez le nom et l'âge de l'autre chien",
+          "de": "Fragen Sie nach Name und Alter des anderen Hundes",
+          "it": "Chiedi il nome e l'età dell'altro cane",
+          "pl": "Zapytaj o imię i wiek drugiego psa",
+          "pt": "Pergunte o nome e a idade do outro cachorro",
+          "nl": "Vraag naar de naam en leeftijd van de andere hond",
+          "hr": "Pitaj kako se drugi pas zove i koliko ima godina",
+          "tr": "Diğer köpeğin adını ve yaşını sorun",
+          "uk": "Запитай ім'я та вік іншої собаки",
+          "ar": "اسأل عن اسم الكلب الآخر وعمره",
+          "hi": "दूसरे कुत्ते का नाम और उम्र पूछिए",
+          "vi": "Hỏi tên và tuổi của con chó kia",
+          "id": "Tanyakan nama dan umur anjing itu",
+          "ms": "Tanya nama dan umur anjing itu",
+          "ko": "상대 개의 이름과 나이를 물어보세요"
+        },
+        "practice": "Pregunte el nombre y la edad del otro perro",
+        "practice_translations": {
+          "en": "Ask the other dog's name and age",
+          "es": "Pregunte el nombre y la edad del otro perro",
+          "ja": "相手の犬の名前と年齢を聞いてください",
+          "ko": "상대 개의 이름과 나이를 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say something nice about the other dog",
+        "native_translations": {
+          "en": "Say something nice about the other dog",
+          "es": "Diga algo amable sobre el otro perro",
+          "fr": "Faites un compliment sur l'autre chien",
+          "de": "Sagen Sie etwas Nettes über den anderen Hund",
+          "it": "Di' qualcosa di carino sull'altro cane",
+          "pl": "Powiedz coś miłego o drugim psie",
+          "pt": "Diga algo simpático sobre o outro cachorro",
+          "nl": "Zeg iets aardigs over de andere hond",
+          "hr": "Reci nešto lijepo o drugom psu",
+          "tr": "Diğer köpek hakkında güzel bir şey söyleyin",
+          "uk": "Скажи щось приємне про іншу собаку",
+          "ar": "قل شيئًا لطيفًا عن الكلب الآخر",
+          "hi": "दूसरे कुत्ते के बारे में कुछ अच्छा कहिए",
+          "vi": "Khen con chó kia một câu",
+          "id": "Katakan sesuatu yang baik tentang anjing itu",
+          "ms": "Katakan sesuatu yang baik tentang anjing itu",
+          "ko": "상대 개를 칭찬하세요"
+        },
+        "practice": "Diga algo amable sobre el otro perro",
+        "practice_translations": {
+          "en": "Say something nice about the other dog",
+          "es": "Diga algo amable sobre el otro perro",
+          "ja": "相手の犬をほめてください",
+          "ko": "상대 개를 칭찬하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest the dogs play together another day",
+        "native_translations": {
+          "en": "Suggest the dogs play together another day",
+          "es": "Sugiera que los perros jueguen juntos otro día",
+          "fr": "Proposez que les chiens jouent ensemble un autre jour",
+          "de": "Schlagen Sie vor, dass die Hunde an einem anderen Tag zusammen spielen",
+          "it": "Proponi di far giocare insieme i cani un altro giorno",
+          "pl": "Zaproponuj, żeby psy pobawiły się razem innego dnia",
+          "pt": "Sugira que os cachorros brinquem juntos outro dia",
+          "nl": "Stel voor dat de honden een andere dag samen spelen",
+          "hr": "Predloži da se psi igraju zajedno neki drugi dan",
+          "tr": "Köpeklerin başka bir gün birlikte oynamasını önerin",
+          "uk": "Запропонуй собакам погратися іншим разом",
+          "ar": "اقترح أن يلعب الكلبان معًا في يوم آخر",
+          "hi": "सुझाइए कि कुत्ते किसी और दिन साथ खेलें",
+          "vi": "Gợi ý để hai bé chơi cùng nhau vào hôm khác",
+          "id": "Usulkan agar anjing-anjing kalian main bersama di lain hari",
+          "ms": "Cadangkan anjing-anjing itu bermain bersama pada hari lain",
+          "ko": "다른 날 개들끼리 같이 놀자고 제안하세요"
+        },
+        "practice": "Sugiera que los perros jueguen juntos otro día",
+        "practice_translations": {
+          "en": "Suggest the dogs play together another day",
+          "es": "Sugiera que los perros jueguen juntos otro día",
+          "ja": "別の日に犬同士を遊ばせようと提案してください",
+          "ko": "다른 날 개들끼리 같이 놀자고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm so sorry, he usually isn't like this.",
+      "native_translations": {
+        "en": "I'm so sorry, he usually isn't like this.",
+        "es": "Lo siento mucho, normalmente no es así.",
+        "fr": "Je suis vraiment désolé, d'habitude il n'est pas comme ça.",
+        "de": "Das tut mir so leid, normalerweise ist er nicht so.",
+        "it": "Scusami tanto, di solito non fa così.",
+        "pl": "Bardzo przepraszam, zwykle taki nie jest.",
+        "pt": "Me desculpe mesmo, ele normalmente não é assim.",
+        "nl": "Het spijt me echt, zo is hij normaal niet.",
+        "hr": "Jako mi je žao, inače nije ovakav.",
+        "tr": "Çok özür dilerim, normalde böyle değildir.",
+        "uk": "Мені дуже шкода, зазвичай він не такий.",
+        "ar": "أنا آسف جدًا، هو ليس هكذا عادةً.",
+        "hi": "बहुत माफ़ी चाहता हूँ, यह आमतौर पर ऐसा नहीं करता।",
+        "vi": "Xin lỗi nhé, bình thường nó không như thế này đâu.",
+        "id": "Maaf sekali, biasanya dia tidak begini.",
+        "ms": "Saya minta maaf sangat, biasanya dia tidak begini.",
+        "ko": "정말 죄송해요, 평소에는 안 이러는데요."
+      },
+      "practice": "Lo siento mucho, normalmente no es así.",
+      "practice_translations": {
+        "en": "I'm so sorry, he usually isn't like this.",
+        "es": "Lo siento mucho, normalmente no es así.",
+        "ja": "本当にすみません、いつもはこんな子じゃないんです。",
+        "ko": "정말 죄송해요, 평소에는 안 이러는데요."
+      }
+    },
+    {
+      "native": "What's her name? How old is she?",
+      "native_translations": {
+        "en": "What's her name? How old is she?",
+        "es": "¿Cómo se llama? ¿Cuántos años tiene?",
+        "fr": "Comment elle s'appelle ? Quel âge a-t-elle ?",
+        "de": "Wie heißt sie? Wie alt ist sie?",
+        "it": "Come si chiama? Quanti anni ha?",
+        "pl": "Jak ona ma na imię? Ile ma lat?",
+        "pt": "Qual é o nome dela? Quantos anos ela tem?",
+        "nl": "Hoe heet ze? Hoe oud is ze?",
+        "hr": "Kako se ona zove? Koliko ima godina?",
+        "tr": "Adı ne? Kaç yaşında?",
+        "uk": "Як її звати? Скільки їй років?",
+        "ar": "ما اسمها؟ كم عمرها؟",
+        "hi": "इसका नाम क्या है? यह कितनी साल की है?",
+        "vi": "Bé tên gì vậy? Bé mấy tuổi rồi?",
+        "id": "Siapa namanya? Umurnya berapa?",
+        "ms": "Siapa namanya? Berapa umurnya?",
+        "ko": "이름이 뭐예요? 몇 살이에요?"
+      },
+      "practice": "¿Cómo se llama? ¿Cuántos años tiene?",
+      "practice_translations": {
+        "en": "What's her name? How old is she?",
+        "es": "¿Cómo se llama? ¿Cuántos años tiene?",
+        "ja": "お名前は何ていうんですか。何歳ですか。",
+        "ko": "이름이 뭐예요? 몇 살이에요?"
+      }
+    },
+    {
+      "native": "She's beautiful, and so well behaved.",
+      "native_translations": {
+        "en": "She's beautiful, and so well behaved.",
+        "es": "Es preciosa, y se porta muy bien.",
+        "fr": "Elle est magnifique, et tellement sage.",
+        "de": "Sie ist wunderschön und so gut erzogen.",
+        "it": "È bellissima, e così educata.",
+        "pl": "Jest piękna i tak grzeczna.",
+        "pt": "Ela é linda, e muito comportada.",
+        "nl": "Ze is prachtig, en zo braaf.",
+        "hr": "Prekrasna je i tako lijepo odgojena.",
+        "tr": "Çok güzel ve çok da uslu.",
+        "uk": "Вона гарна й така вихована.",
+        "ar": "إنها جميلة ومهذبة جدًا.",
+        "hi": "यह बहुत सुंदर है, और कितनी समझदार भी।",
+        "vi": "Bé xinh quá, lại còn ngoan nữa.",
+        "id": "Dia cantik sekali, dan sangat jinak.",
+        "ms": "Dia cantik, dan sangat berkelakuan baik.",
+        "ko": "정말 예쁘고 얌전하네요."
+      },
+      "practice": "Es preciosa, y se porta muy bien.",
+      "practice_translations": {
+        "en": "She's beautiful, and so well behaved.",
+        "es": "Es preciosa, y se porta muy bien.",
+        "ja": "きれいな子ですね。それにとてもお利口ですね。",
+        "ko": "정말 예쁘고 얌전하네요."
+      }
+    },
+    {
+      "native": "I think my dog has a little crush on yours.",
+      "native_translations": {
+        "en": "I think my dog has a little crush on yours.",
+        "es": "Creo que a mi perro le gusta un poquito la suya.",
+        "fr": "Je crois que mon chien a un petit faible pour la vôtre.",
+        "de": "Ich glaube, mein Hund ist ein bisschen in Ihren verknallt.",
+        "it": "Credo che il mio cane abbia una cotta per la tua.",
+        "pl": "Chyba mój pies trochę zadurzył się w pana suczce.",
+        "pt": "Acho que meu cachorro está meio apaixonado pela sua.",
+        "nl": "Ik denk dat mijn hond een beetje verliefd is op die van jou.",
+        "hr": "Mislim da se moj pas malo zaljubio u Vašu.",
+        "tr": "Sanırım benim köpeğim sizinkine biraz aşık oldu.",
+        "uk": "Здається, мій пес трохи закохався у вашу.",
+        "ar": "أظن أن كلبي معجب بكلبتك قليلًا.",
+        "hi": "लगता है मेरे कुत्ते को आपकी कुतिया पसंद आ गई है।",
+        "vi": "Hình như chó nhà tôi hơi \"cảm nắng\" bé nhà anh/chị rồi.",
+        "id": "Sepertinya anjing saya naksir anjing Anda.",
+        "ms": "Saya rasa anjing saya sudah terpikat dengan anjing awak.",
+        "ko": "우리 개가 그쪽 개한테 반한 것 같아요."
+      },
+      "practice": "Creo que a mi perro le gusta un poquito la suya.",
+      "practice_translations": {
+        "en": "I think my dog has a little crush on yours.",
+        "es": "Creo que a mi perro le gusta un poquito la suya.",
+        "ja": "うちの子、お宅の子のことがちょっと好きみたいです。",
+        "ko": "우리 개가 그쪽 개한테 반한 것 같아요."
+      }
+    },
+    {
+      "native": "Maybe they could play together next weekend?",
+      "native_translations": {
+        "en": "Maybe they could play together next weekend?",
+        "es": "¿Tal vez podrían jugar juntos el próximo fin de semana?",
+        "fr": "Ils pourraient peut-être jouer ensemble le week-end prochain ?",
+        "de": "Vielleicht könnten sie nächstes Wochenende zusammen spielen?",
+        "it": "Magari potrebbero giocare insieme il prossimo fine settimana?",
+        "pl": "Może mogłyby się razem pobawić w przyszły weekend?",
+        "pt": "Que tal eles brincarem juntos no próximo fim de semana?",
+        "nl": "Misschien kunnen ze volgend weekend samen spelen?",
+        "hr": "Možda bi se mogli zajedno igrati sljedeći vikend?",
+        "tr": "Belki gelecek hafta sonu birlikte oynayabilirler?",
+        "uk": "Може, вони пограються разом наступних вихідних?",
+        "ar": "ربما يمكنهما اللعب معًا في عطلة نهاية الأسبوع القادمة؟",
+        "hi": "शायद ये दोनों अगले वीकेंड साथ खेल सकते हैं?",
+        "vi": "Hay cuối tuần sau cho hai bé chơi cùng nhau nhé?",
+        "id": "Mungkin mereka bisa main bersama akhir pekan depan?",
+        "ms": "Mungkin mereka boleh bermain bersama hujung minggu depan?",
+        "ko": "다음 주말에 같이 놀게 하면 어때요?"
+      },
+      "practice": "¿Tal vez podrían jugar juntos el próximo fin de semana?",
+      "practice_translations": {
+        "en": "Maybe they could play together next weekend?",
+        "es": "¿Tal vez podrían jugar juntos el próximo fin de semana?",
+        "ja": "来週末、一緒に遊ばせませんか。",
+        "ko": "다음 주말에 같이 놀게 하면 어때요?"
+      }
+    }
+  ]
+}

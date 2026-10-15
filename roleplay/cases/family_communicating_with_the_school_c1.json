@@ -1,0 +1,289 @@
+{
+  "id": "family_communicating_with_the_school_c1",
+  "title": "Reporting a Sick Day",
+  "title_translations": {
+    "en": "Reporting a Sick Day",
+    "es": "Avisar una falta por enfermedad",
+    "fr": "Signaler une absence pour maladie",
+    "de": "Das Kind krankmelden",
+    "it": "Comunicare un'assenza per malattia",
+    "pl": "Zgłoszenie choroby dziecka",
+    "pt": "Avisando que a criança está doente",
+    "nl": "Je kind ziek melden",
+    "hr": "Javljanje o bolovanju",
+    "tr": "Hastalık İzni Bildirmek",
+    "uk": "Повідомити про хворобу",
+    "ar": "الإبلاغ عن غياب بسبب المرض",
+    "hi": "बीमारी की छुट्टी की सूचना",
+    "vi": "Báo nghỉ ốm cho con",
+    "id": "Memberi Kabar Anak Sakit",
+    "ms": "Memaklumkan Cuti Sakit",
+    "ko": "병결 알리기"
+  },
+  "character": "fox",
+  "scenario": "Your child has a fever and can't go to school today. You call the school office, and the secretary (AI) answers the phone.",
+  "scenario_translations": {
+    "en": "Your child has a fever and can't go to school today. You call the school office, and the secretary (AI) answers the phone.",
+    "es": "Su hijo tiene fiebre y hoy no puede ir a la escuela. Llama a la oficina escolar y contesta la secretaria (AI).",
+    "fr": "Votre enfant a de la fièvre et ne peut pas aller à l'école aujourd'hui. Vous appelez l'école, et la secrétaire (AI) répond.",
+    "de": "Ihr Kind hat Fieber und kann heute nicht in die Schule. Sie rufen im Sekretariat an, und die Schulsekretärin bzw. der Schulsekretär (AI) nimmt ab.",
+    "it": "Tuo figlio ha la febbre e oggi non può andare a scuola. Chiami la segreteria della scuola e risponde la segretaria (AI).",
+    "pl": "Twoje dziecko ma gorączkę i nie może dziś iść do szkoły. Dzwonisz do sekretariatu, a telefon odbiera sekretarka (AI).",
+    "pt": "Seu filho está com febre e não pode ir à escola hoje. Você liga para a secretaria da escola, e a secretária (AI) atende.",
+    "nl": "Je kind heeft koorts en kan vandaag niet naar school. Je belt de administratie van de school en de secretaresse (AI) neemt op.",
+    "hr": "Tvoje dijete ima temperaturu i danas ne može u školu. Zoveš tajništvo škole, a javlja se tajnica (AI).",
+    "tr": "Çocuğunuzun ateşi var ve bugün okula gidemiyor. Okulun idari bürosunu arıyorsunuz ve telefonu sekreter (AI) açıyor.",
+    "uk": "У твоєї дитини температура, і сьогодні вона не може піти до школи. Ти телефонуєш до канцелярії школи, і слухавку бере секретар (AI).",
+    "ar": "طفلك مصاب بالحمى ولا يستطيع الذهاب إلى المدرسة اليوم. تتصل بمكتب المدرسة، فيرد السكرتير (AI) على الهاتف.",
+    "hi": "आपके बच्चे को बुख़ार है और वह आज स्कूल नहीं जा सकता। आप स्कूल ऑफ़िस में फ़ोन करते हैं, और सेक्रेटरी (AI) फ़ोन उठाती हैं।",
+    "vi": "Con bạn bị sốt và không thể đi học hôm nay. Bạn gọi đến văn phòng trường, và thư ký (AI) nghe máy.",
+    "id": "Anakmu demam dan tidak bisa sekolah hari ini. Kamu menelepon kantor sekolah, dan sekretaris (AI) mengangkat telepon.",
+    "ms": "Anak anda demam dan tidak boleh ke sekolah hari ini. Anda menelefon pejabat sekolah, dan kerani (AI) menjawab panggilan.",
+    "ko": "아이가 열이 나서 오늘 학교에 갈 수 없어요. 학교 행정실에 전화하자 직원(AI)이 전화를 받아요."
+  },
+  "mission": {
+    "native": "Tell the school your child will be absent and ask about the homework.",
+    "native_translations": {
+      "en": "Tell the school your child will be absent and ask about the homework.",
+      "es": "Avise a la escuela que su hijo faltará y pregunte por la tarea.",
+      "fr": "Prévenez l'école de l'absence de votre enfant et renseignez-vous sur les devoirs.",
+      "de": "Teilen Sie der Schule mit, dass Ihr Kind fehlt, und fragen Sie nach den Hausaufgaben.",
+      "it": "Comunica alla scuola che tuo figlio sarà assente e chiedi dei compiti.",
+      "pl": "Poinformuj szkołę o nieobecności dziecka i zapytaj o pracę domową.",
+      "pt": "Avise a escola que seu filho vai faltar e pergunte sobre a lição de casa.",
+      "nl": "Meld de school dat je kind afwezig is en vraag naar het huiswerk.",
+      "hr": "Javi školi da će dijete izostati i pitaj za domaću zadaću.",
+      "tr": "Okula çocuğunuzun gelmeyeceğini bildirin ve ödevleri sorun.",
+      "uk": "Повідом школу, що дитини не буде, і запитай про домашнє завдання.",
+      "ar": "أبلغ المدرسة بأن طفلك سيتغيب واسأل عن الواجبات المنزلية.",
+      "hi": "स्कूल को बताइए कि आपका बच्चा आज नहीं आएगा और होमवर्क के बारे में पूछिए।",
+      "vi": "Báo với nhà trường rằng con bạn sẽ nghỉ học và hỏi về bài tập về nhà.",
+      "id": "Beri tahu sekolah bahwa anakmu tidak masuk dan tanyakan soal PR-nya.",
+      "ms": "Maklumkan kepada sekolah bahawa anak anda tidak hadir dan tanya tentang kerja rumah.",
+      "ko": "아이가 결석한다고 학교에 알리고 숙제에 대해 물어보세요."
+    },
+    "practice": "Avise a la escuela que su hijo faltará y pregunte por la tarea.",
+    "practice_translations": {
+      "en": "Tell the school your child will be absent and ask about the homework.",
+      "es": "Avise a la escuela que su hijo faltará y pregunte por la tarea.",
+      "ja": "子どもが欠席することを学校に伝えて、宿題について聞いてください。",
+      "ko": "아이가 결석한다고 학교에 알리고 숙제에 대해 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Give your child's name and class",
+        "native_translations": {
+          "en": "Give your child's name and class",
+          "es": "Dé el nombre y el grupo de su hijo",
+          "fr": "Donnez le nom et la classe de votre enfant",
+          "de": "Nennen Sie Namen und Klasse Ihres Kindes",
+          "it": "Indica il nome e la classe di tuo figlio",
+          "pl": "Podaj imię i klasę dziecka",
+          "pt": "Diga o nome e a turma do seu filho",
+          "nl": "Geef de naam en de klas van je kind",
+          "hr": "Reci ime i razred svog djeteta",
+          "tr": "Çocuğunuzun adını ve sınıfını söyleyin",
+          "uk": "Назви ім'я та клас дитини",
+          "ar": "اذكر اسم طفلك وصفّه",
+          "hi": "अपने बच्चे का नाम और क्लास बताइए",
+          "vi": "Nói tên và lớp của con",
+          "id": "Sebutkan nama dan kelas anakmu",
+          "ms": "Beri nama dan kelas anak anda",
+          "ko": "아이의 이름과 반을 말하세요"
+        },
+        "practice": "Dé el nombre y el grupo de su hijo",
+        "practice_translations": {
+          "en": "Give your child's name and class",
+          "es": "Dé el nombre y el grupo de su hijo",
+          "ja": "子どもの名前とクラスを伝えてください",
+          "ko": "아이의 이름과 반을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain why your child is absent today",
+        "native_translations": {
+          "en": "Explain why your child is absent today",
+          "es": "Explique por qué su hijo falta hoy",
+          "fr": "Expliquez pourquoi votre enfant est absent aujourd'hui",
+          "de": "Erklären Sie, warum Ihr Kind heute fehlt",
+          "it": "Spiega perché tuo figlio oggi è assente",
+          "pl": "Wyjaśnij, dlaczego dziecko jest dziś nieobecne",
+          "pt": "Explique por que seu filho vai faltar hoje",
+          "nl": "Leg uit waarom je kind vandaag afwezig is",
+          "hr": "Objasni zašto dijete danas izostaje",
+          "tr": "Çocuğunuzun bugün neden gelmediğini açıklayın",
+          "uk": "Поясни, чому дитини сьогодні немає",
+          "ar": "اشرح سبب غياب طفلك اليوم",
+          "hi": "बताइए कि आपका बच्चा आज क्यों नहीं आ रहा",
+          "vi": "Giải thích vì sao hôm nay con nghỉ học",
+          "id": "Jelaskan kenapa anakmu tidak masuk hari ini",
+          "ms": "Terangkan mengapa anak anda tidak hadir hari ini",
+          "ko": "아이가 오늘 결석하는 이유를 설명하세요"
+        },
+        "practice": "Explique por qué su hijo falta hoy",
+        "practice_translations": {
+          "en": "Explain why your child is absent today",
+          "es": "Explique por qué su hijo falta hoy",
+          "ja": "今日欠席する理由を説明してください",
+          "ko": "아이가 오늘 결석하는 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how your child can get the homework",
+        "native_translations": {
+          "en": "Ask how your child can get the homework",
+          "es": "Pregunte cómo puede recibir su hijo la tarea",
+          "fr": "Demandez comment votre enfant peut récupérer les devoirs",
+          "de": "Fragen Sie, wie Ihr Kind an die Hausaufgaben kommt",
+          "it": "Chiedi come tuo figlio può avere i compiti",
+          "pl": "Zapytaj, jak dziecko może dostać pracę domową",
+          "pt": "Pergunte como seu filho pode receber a lição de casa",
+          "nl": "Vraag hoe je kind het huiswerk kan krijgen",
+          "hr": "Pitaj kako dijete može dobiti domaću zadaću",
+          "tr": "Çocuğunuzun ödevleri nasıl alabileceğini sorun",
+          "uk": "Запитай, як дитина може отримати домашнє завдання",
+          "ar": "اسأل كيف يمكن لطفلك الحصول على الواجبات",
+          "hi": "पूछिए कि आपके बच्चे को होमवर्क कैसे मिलेगा",
+          "vi": "Hỏi cách để con nhận bài tập về nhà",
+          "id": "Tanyakan bagaimana anakmu bisa mendapatkan PR-nya",
+          "ms": "Tanya bagaimana anak anda boleh mendapatkan kerja rumah",
+          "ko": "아이가 숙제를 어떻게 받을 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte cómo puede recibir su hijo la tarea",
+        "practice_translations": {
+          "en": "Ask how your child can get the homework",
+          "es": "Pregunte cómo puede recibir su hijo la tarea",
+          "ja": "宿題をどう受け取ればいいか聞いてください",
+          "ko": "아이가 숙제를 어떻게 받을 수 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Good morning, I'm calling about my son, Leo, in third grade.",
+      "native_translations": {
+        "en": "Good morning, I'm calling about my son, Leo, in third grade.",
+        "es": "Buenos días, llamo por mi hijo Leo, de tercer grado.",
+        "fr": "Bonjour, je vous appelle au sujet de mon fils, Léo, en CE2.",
+        "de": "Guten Morgen, ich rufe wegen meines Sohnes Leo aus der dritten Klasse an.",
+        "it": "Buongiorno, chiamo per mio figlio Leo, di terza elementare.",
+        "pl": "Dzień dobry, dzwonię w sprawie mojego syna, Lea, z trzeciej klasy.",
+        "pt": "Bom dia, estou ligando por causa do meu filho, Leo, do terceiro ano.",
+        "nl": "Goedemorgen, ik bel over mijn zoon Leo uit groep vijf.",
+        "hr": "Dobro jutro, zovem zbog svog sina Lea iz trećeg razreda.",
+        "tr": "Günaydın, üçüncü sınıftaki oğlum Leo için arıyorum.",
+        "uk": "Доброго ранку, я телефоную щодо свого сина Лео з третього класу.",
+        "ar": "صباح الخير، أتصل بخصوص ابني Leo في الصف الثالث.",
+        "hi": "गुड मॉर्निंग, मैं तीसरी क्लास में पढ़ने वाले अपने बेटे लियो के बारे में फ़ोन कर रहा हूँ।",
+        "vi": "Chào buổi sáng, tôi gọi về cháu Leo, con trai tôi, học lớp ba.",
+        "id": "Selamat pagi, saya menelepon soal anak saya, Leo, kelas tiga.",
+        "ms": "Selamat pagi, saya menelefon tentang anak lelaki saya, Leo, dari darjah tiga.",
+        "ko": "안녕하세요, 3학년인 제 아들 레오 일로 전화드렸어요."
+      },
+      "practice": "Buenos días, llamo por mi hijo Leo, de tercer grado.",
+      "practice_translations": {
+        "en": "Good morning, I'm calling about my son, Leo, in third grade.",
+        "es": "Buenos días, llamo por mi hijo Leo, de tercer grado.",
+        "ja": "おはようございます。3年生のレオの親ですが、息子のことでお電話しました。",
+        "ko": "안녕하세요, 3학년인 제 아들 레오 일로 전화드렸어요."
+      }
+    },
+    {
+      "native": "He has a fever, so he can't come to school today.",
+      "native_translations": {
+        "en": "He has a fever, so he can't come to school today.",
+        "es": "Tiene fiebre, así que hoy no puede ir a la escuela.",
+        "fr": "Il a de la fièvre, il ne peut donc pas venir à l'école aujourd'hui.",
+        "de": "Er hat Fieber und kann deshalb heute nicht zur Schule kommen.",
+        "it": "Ha la febbre, quindi oggi non può venire a scuola.",
+        "pl": "Ma gorączkę, więc nie może dziś przyjść do szkoły.",
+        "pt": "Ele está com febre, então não pode ir à escola hoje.",
+        "nl": "Hij heeft koorts, dus hij kan vandaag niet naar school komen.",
+        "hr": "Ima temperaturu pa danas ne može doći u školu.",
+        "tr": "Ateşi var, bu yüzden bugün okula gelemiyor.",
+        "uk": "У нього температура, тож сьогодні він не прийде до школи.",
+        "ar": "لديه حمى، لذا لا يستطيع الحضور إلى المدرسة اليوم.",
+        "hi": "उसे बुख़ार है, इसलिए वह आज स्कूल नहीं आ सकता।",
+        "vi": "Cháu bị sốt nên hôm nay không đi học được.",
+        "id": "Dia demam, jadi hari ini tidak bisa sekolah.",
+        "ms": "Dia demam, jadi dia tidak dapat ke sekolah hari ini.",
+        "ko": "아이가 열이 나서 오늘 학교에 못 가요."
+      },
+      "practice": "Tiene fiebre, así que hoy no puede ir a la escuela.",
+      "practice_translations": {
+        "en": "He has a fever, so he can't come to school today.",
+        "es": "Tiene fiebre, así que hoy no puede ir a la escuela.",
+        "ja": "熱があるので、今日は学校を休ませます。",
+        "ko": "아이가 열이 나서 오늘 학교에 못 가요."
+      }
+    },
+    {
+      "native": "He'll probably be back tomorrow.",
+      "native_translations": {
+        "en": "He'll probably be back tomorrow.",
+        "es": "Probablemente regrese mañana.",
+        "fr": "Il sera sûrement de retour demain.",
+        "de": "Er ist wahrscheinlich morgen wieder da.",
+        "it": "Probabilmente tornerà domani.",
+        "pl": "Pewnie jutro już wróci.",
+        "pt": "Ele provavelmente volta amanhã.",
+        "nl": "Hij is er waarschijnlijk morgen weer.",
+        "hr": "Vjerojatno će se vratiti sutra.",
+        "tr": "Muhtemelen yarın dönecek.",
+        "uk": "Імовірно, завтра він повернеться.",
+        "ar": "على الأرجح سيعود غدًا.",
+        "hi": "वह शायद कल वापस आ जाएगा।",
+        "vi": "Chắc ngày mai cháu sẽ đi học lại.",
+        "id": "Kemungkinan besok dia sudah masuk.",
+        "ms": "Mungkin dia akan kembali esok.",
+        "ko": "아마 내일은 등교할 수 있을 거예요."
+      },
+      "practice": "Probablemente regrese mañana.",
+      "practice_translations": {
+        "en": "He'll probably be back tomorrow.",
+        "es": "Probablemente regrese mañana.",
+        "ja": "たぶん明日には登校できると思います。",
+        "ko": "아마 내일은 등교할 수 있을 거예요."
+      }
+    },
+    {
+      "native": "How can he get today's homework?",
+      "native_translations": {
+        "en": "How can he get today's homework?",
+        "es": "¿Cómo puede recibir la tarea de hoy?",
+        "fr": "Comment peut-il récupérer les devoirs du jour ?",
+        "de": "Wie kann er die Hausaufgaben von heute bekommen?",
+        "it": "Come può avere i compiti di oggi?",
+        "pl": "Jak może dostać dzisiejszą pracę domową?",
+        "pt": "Como ele pode pegar a lição de casa de hoje?",
+        "nl": "Hoe kan hij het huiswerk van vandaag krijgen?",
+        "hr": "Kako može dobiti današnju domaću zadaću?",
+        "tr": "Bugünün ödevlerini nasıl alabilir?",
+        "uk": "Як він може отримати сьогоднішнє домашнє завдання?",
+        "ar": "كيف يمكنه الحصول على واجبات اليوم؟",
+        "hi": "उसे आज का होमवर्क कैसे मिल सकता है?",
+        "vi": "Cháu có thể nhận bài tập hôm nay bằng cách nào ạ?",
+        "id": "Bagaimana dia bisa mendapatkan PR hari ini?",
+        "ms": "Bagaimana dia boleh dapatkan kerja rumah hari ini?",
+        "ko": "오늘 숙제는 어떻게 받을 수 있을까요?"
+      },
+      "practice": "¿Cómo puede recibir la tarea de hoy?",
+      "practice_translations": {
+        "en": "How can he get today's homework?",
+        "es": "¿Cómo puede recibir la tarea de hoy?",
+        "ja": "今日の宿題はどうやって受け取ればいいですか。",
+        "ko": "오늘 숙제는 어떻게 받을 수 있을까요?"
+      }
+    }
+  ]
+}

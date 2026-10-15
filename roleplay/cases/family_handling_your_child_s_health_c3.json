@@ -1,0 +1,351 @@
+{
+  "id": "family_handling_your_child_s_health_c3",
+  "title": "The Birthday Party Allergy Talk",
+  "title_translations": {
+    "en": "The Birthday Party Allergy Talk",
+    "es": "La charla sobre alergias antes del cumpleaños",
+    "fr": "Allergie et fête d'anniversaire",
+    "de": "Allergie-Gespräch vor dem Kindergeburtstag",
+    "it": "Parlare di allergie per una festa di compleanno",
+    "pl": "Rozmowa o alergii przed urodzinami",
+    "pt": "A conversa sobre alergia na festa de aniversário",
+    "nl": "Het allergiegesprek voor het verjaardagsfeestje",
+    "hr": "Razgovor o alergiji prije rođendana",
+    "tr": "Doğum Günü Partisinde Alerji Konuşması",
+    "uk": "Розмова про алергію перед днем народження",
+    "ar": "حديث عن الحساسية في حفلة عيد ميلاد",
+    "hi": "बर्थडे पार्टी पर एलर्जी की बात",
+    "vi": "Nói chuyện dị ứng trước tiệc sinh nhật",
+    "id": "Obrolan Alergi di Pesta Ulang Tahun",
+    "ms": "Perbualan Alahan di Majlis Hari Jadi",
+    "ko": "생일 파티 알레르기 이야기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your child has a nut allergy and is invited to a classmate's birthday party. The host parent (AI) seems unsure about it and says \"a little bit won't hurt.\"",
+  "scenario_translations": {
+    "en": "Your child has a nut allergy and is invited to a classmate's birthday party. The host parent (AI) seems unsure about it and says \"a little bit won't hurt.\"",
+    "es": "Su hijo tiene alergia a los frutos secos y lo invitaron al cumpleaños de un compañero de clase. El anfitrión (AI) no parece tener claro el tema y dice que \"un poquito no le hará daño\".",
+    "fr": "Votre enfant est allergique aux fruits à coque et est invité à l'anniversaire d'un camarade. Le parent qui organise (AI) semble peu convaincu et dit qu'« un petit peu, ça ne fera pas de mal ».",
+    "de": "Ihr Kind hat eine Nussallergie und ist zum Geburtstag eines Klassenkameraden eingeladen. Die Mutter bzw. der Vater des Geburtstagskindes (AI) wirkt unsicher und meint, „ein bisschen schadet schon nicht“.",
+    "it": "Tuo figlio è allergico alla frutta a guscio ed è invitato alla festa di compleanno di un compagno. Il genitore che organizza (AI) sembra poco convinto e dice che \"un pochino non fa male\".",
+    "pl": "Twoje dziecko ma alergię na orzechy i jest zaproszone na urodziny kolegi z klasy. Rodzic organizujący przyjęcie (AI) nie jest przekonany i mówi, że „odrobina nie zaszkodzi”.",
+    "pt": "Seu filho tem alergia a nozes e foi convidado para a festa de aniversário de um colega. O pai anfitrião (AI) parece não ter certeza e diz que \"um pouquinho não faz mal\".",
+    "nl": "Je kind heeft een notenallergie en is uitgenodigd voor het verjaardagsfeestje van een klasgenoot. De ouder die het feestje geeft (AI) lijkt twijfelachtig en zegt dat 'een beetje geen kwaad kan'.",
+    "hr": "Tvoje dijete ima alergiju na orašaste plodove i pozvano je na rođendan kod prijatelja iz razreda. Roditelj domaćin (AI) nije baš siguran i kaže da „malo neće škoditi”.",
+    "tr": "Çocuğunuzun kuruyemiş alerjisi var ve bir sınıf arkadaşının doğum günü partisine davet edildi. Partiyi veren ebeveyn (AI) bu konuda emin görünmüyor ve \"biraz bir şey olmaz\" diyor.",
+    "uk": "У твоєї дитини алергія на горіхи, і її запросили на день народження однокласника. Батьки іменинника (AI) сумніваються й кажуть, що «трішечки не зашкодить».",
+    "ar": "طفلك لديه حساسية من المكسرات وهو مدعو إلى حفلة عيد ميلاد زميل في الصف. يبدو ولي الأمر المضيف (AI) غير مقتنع ويقول «القليل لن يضر».",
+    "hi": "आपके बच्चे को मेवों से एलर्जी है और उसे एक सहपाठी की बर्थडे पार्टी का न्योता मिला है। मेज़बान माता-पिता (AI) इसे लेकर पक्के नहीं लगते और कहते हैं कि \"थोड़ा-सा कुछ नहीं बिगाड़ेगा।\"",
+    "vi": "Con bạn bị dị ứng các loại hạt và được mời đến tiệc sinh nhật của một bạn cùng lớp. Phụ huynh chủ tiệc (AI) có vẻ không chắc chắn và nói \"một chút thì không sao đâu\".",
+    "id": "Anakmu alergi kacang dan diundang ke pesta ulang tahun teman sekelasnya. Orang tua tuan rumah (AI) tampak ragu dan bilang \"sedikit saja tidak apa-apa\".",
+    "ms": "Anak anda alah kepada kacang dan dijemput ke majlis hari jadi rakan sekelas. Ibu bapa tuan rumah (AI) nampak kurang pasti dan berkata \"sedikit saja tak apa.\"",
+    "ko": "아이가 견과류 알레르기가 있는데 반 친구 생일 파티에 초대받았어요. 파티를 여는 부모(AI)는 잘 모르는 듯이 \"조금은 괜찮을 거예요\"라고 해요."
+  },
+  "mission": {
+    "native": "Explain the allergy clearly and agree on a safe plan without offending the host.",
+    "native_translations": {
+      "en": "Explain the allergy clearly and agree on a safe plan without offending the host.",
+      "es": "Explique la alergia con claridad y acuerden un plan seguro sin ofender al anfitrión.",
+      "fr": "Expliquez clairement l'allergie et convenez d'un plan sûr sans vexer l'hôte.",
+      "de": "Erklären Sie die Allergie klar und vereinbaren Sie einen sicheren Plan, ohne die Gastgeber zu kränken.",
+      "it": "Spiega l'allergia con chiarezza e concordate un piano sicuro senza offendere chi organizza.",
+      "pl": "Jasno wyjaśnij, na czym polega alergia, i uzgodnijcie bezpieczny plan, nie urażając gospodarza.",
+      "pt": "Explique a alergia com clareza e combine um plano seguro sem ofender o anfitrião.",
+      "nl": "Leg de allergie duidelijk uit en spreek een veilig plan af zonder de gastouder te beledigen.",
+      "hr": "Jasno objasni alergiju i dogovori siguran plan, a da ne uvrijediš domaćina.",
+      "tr": "Alerjiyi açıkça anlatın ve ev sahibini kırmadan güvenli bir planda anlaşın.",
+      "uk": "Чітко поясни, що таке алергія, і домовтеся про безпечний план, не образивши господарів.",
+      "ar": "اشرح الحساسية بوضوح واتفق على خطة آمنة دون الإساءة إلى المضيف.",
+      "hi": "मेज़बान को नाराज़ किए बिना एलर्जी साफ़-साफ़ समझाइए और एक सुरक्षित योजना पर सहमति बनाइए।",
+      "vi": "Giải thích rõ về dị ứng và thống nhất một kế hoạch an toàn mà không làm chủ tiệc phật lòng.",
+      "id": "Jelaskan alerginya dengan jelas dan sepakati rencana yang aman tanpa menyinggung tuan rumah.",
+      "ms": "Terangkan alahan itu dengan jelas dan setuju dengan pelan yang selamat tanpa menyinggung perasaan tuan rumah.",
+      "ko": "상대의 기분을 상하게 하지 않으면서 알레르기를 분명히 설명하고 안전한 계획에 합의하세요."
+    },
+    "practice": "Explique la alergia con claridad y acuerden un plan seguro sin ofender al anfitrión.",
+    "practice_translations": {
+      "en": "Explain the allergy clearly and agree on a safe plan without offending the host.",
+      "es": "Explique la alergia con claridad y acuerden un plan seguro sin ofender al anfitrión.",
+      "ja": "アレルギーについてはっきり説明し、相手の気分を害さずに安全な方法を決めてください。",
+      "ko": "상대의 기분을 상하게 하지 않으면서 알레르기를 분명히 설명하고 안전한 계획에 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain your child's allergy clearly",
+        "native_translations": {
+          "en": "Explain your child's allergy clearly",
+          "es": "Explique con claridad la alergia de su hijo",
+          "fr": "Expliquez clairement l'allergie de votre enfant",
+          "de": "Erklären Sie die Allergie Ihres Kindes deutlich",
+          "it": "Spiega con chiarezza l'allergia di tuo figlio",
+          "pl": "Jasno wyjaśnij, na co uczulone jest twoje dziecko",
+          "pt": "Explique com clareza a alergia do seu filho",
+          "nl": "Leg de allergie van je kind duidelijk uit",
+          "hr": "Jasno objasni djetetovu alergiju",
+          "tr": "Çocuğunuzun alerjisini açıkça anlatın",
+          "uk": "Чітко поясни, яка алергія в дитини",
+          "ar": "اشرح حساسية طفلك بوضوح",
+          "hi": "अपने बच्चे की एलर्जी साफ़-साफ़ समझाइए",
+          "vi": "Giải thích rõ tình trạng dị ứng của con",
+          "id": "Jelaskan alergi anakmu dengan jelas",
+          "ms": "Terangkan alahan anak anda dengan jelas",
+          "ko": "아이의 알레르기를 분명하게 설명하세요"
+        },
+        "practice": "Explique con claridad la alergia de su hijo",
+        "practice_translations": {
+          "en": "Explain your child's allergy clearly",
+          "es": "Explique con claridad la alergia de su hijo",
+          "ja": "子どものアレルギーをはっきり説明してください",
+          "ko": "아이의 알레르기를 분명하게 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Correct the idea that a little bit is okay",
+        "native_translations": {
+          "en": "Correct the idea that a little bit is okay",
+          "es": "Corrija la idea de que un poquito no hace daño",
+          "fr": "Corrigez l'idée qu'un petit peu, ce n'est pas grave",
+          "de": "Widersprechen Sie der Vorstellung, dass ein bisschen okay ist",
+          "it": "Correggi l'idea che un pochino vada bene",
+          "pl": "Wyprostuj przekonanie, że odrobina nie szkodzi",
+          "pt": "Corrija a ideia de que um pouquinho não faz mal",
+          "nl": "Corrigeer het idee dat een beetje geen kwaad kan",
+          "hr": "Ispravi mišljenje da je malo u redu",
+          "tr": "Birazının sorun olmayacağı fikrini düzeltin",
+          "uk": "Спростуй думку, що трішки можна",
+          "ar": "صحّح فكرة أن القليل لا بأس به",
+          "hi": "इस सोच को सुधारिए कि थोड़ा-सा चल जाएगा",
+          "vi": "Đính chính ý nghĩ rằng một chút thì không sao",
+          "id": "Luruskan anggapan bahwa sedikit saja tidak apa-apa",
+          "ms": "Betulkan tanggapan bahawa sedikit saja tidak apa",
+          "ko": "조금은 괜찮다는 생각을 바로잡으세요"
+        },
+        "practice": "Corrija la idea de que un poquito no hace daño",
+        "practice_translations": {
+          "en": "Correct the idea that a little bit is okay",
+          "es": "Corrija la idea de que un poquito no hace daño",
+          "ja": "少しなら大丈夫という考えを訂正してください",
+          "ko": "조금은 괜찮다는 생각을 바로잡으세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask which party foods contain nuts",
+        "native_translations": {
+          "en": "Ask which party foods contain nuts",
+          "es": "Pregunte qué comidas de la fiesta tienen nueces",
+          "fr": "Demandez quels aliments de la fête contiennent des fruits à coque",
+          "de": "Fragen Sie, welche Speisen auf der Feier Nüsse enthalten",
+          "it": "Chiedi quali cibi della festa contengono frutta a guscio",
+          "pl": "Zapytaj, które przekąski na przyjęciu zawierają orzechy",
+          "pt": "Pergunte quais comidas da festa têm nozes",
+          "nl": "Vraag welke hapjes op het feestje noten bevatten",
+          "hr": "Pitaj koja hrana na zabavi sadrži orašaste plodove",
+          "tr": "Partideki hangi yiyeceklerde kuruyemiş olduğunu sorun",
+          "uk": "Запитай, у яких святкових стравах є горіхи",
+          "ar": "اسأل أي أطعمة الحفلة تحتوي على مكسرات",
+          "hi": "पूछिए कि पार्टी के किन खानों में मेवे हैं",
+          "vi": "Hỏi những món nào trong tiệc có chứa hạt",
+          "id": "Tanyakan makanan pesta mana yang mengandung kacang",
+          "ms": "Tanya makanan majlis yang mana mengandungi kacang",
+          "ko": "파티 음식 중 견과류가 들어간 게 무엇인지 물어보세요"
+        },
+        "practice": "Pregunte qué comidas de la fiesta tienen nueces",
+        "practice_translations": {
+          "en": "Ask which party foods contain nuts",
+          "es": "Pregunte qué comidas de la fiesta tienen nueces",
+          "ja": "パーティーの食べ物でナッツが入っているものを聞いてください",
+          "ko": "파티 음식 중 견과류가 들어간 게 무엇인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Offer to bring safe snacks for your child",
+        "native_translations": {
+          "en": "Offer to bring safe snacks for your child",
+          "es": "Ofrezca llevar comida segura para su hijo",
+          "fr": "Proposez d'apporter des en-cas sans risque pour votre enfant",
+          "de": "Bieten Sie an, sichere Snacks für Ihr Kind mitzubringen",
+          "it": "Offriti di portare snack sicuri per tuo figlio",
+          "pl": "Zaproponuj, że przyniesiesz bezpieczne przekąski dla dziecka",
+          "pt": "Ofereça-se para levar lanches seguros para seu filho",
+          "nl": "Bied aan veilige snacks voor je kind mee te nemen",
+          "hr": "Ponudi da doneseš sigurne grickalice za svoje dijete",
+          "tr": "Çocuğunuz için güvenli atıştırmalıklar getirmeyi teklif edin",
+          "uk": "Запропонуй принести безпечні снеки для дитини",
+          "ar": "اعرض إحضار وجبات خفيفة آمنة لطفلك",
+          "hi": "अपने बच्चे के लिए सुरक्षित स्नैक्स लाने की पेशकश कीजिए",
+          "vi": "Đề nghị mang đồ ăn vặt an toàn cho con",
+          "id": "Tawarkan untuk membawa camilan yang aman untuk anakmu",
+          "ms": "Tawarkan untuk membawa snek yang selamat untuk anak anda",
+          "ko": "아이가 먹을 안전한 간식을 가져가겠다고 제안하세요"
+        },
+        "practice": "Ofrezca llevar comida segura para su hijo",
+        "practice_translations": {
+          "en": "Offer to bring safe snacks for your child",
+          "es": "Ofrezca llevar comida segura para su hijo",
+          "ja": "子ども用に安全なおやつを持っていくと申し出てください",
+          "ko": "아이가 먹을 안전한 간식을 가져가겠다고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you so much for inviting my daughter.",
+      "native_translations": {
+        "en": "Thank you so much for inviting my daughter.",
+        "es": "Muchas gracias por invitar a mi hija.",
+        "fr": "Merci beaucoup d'avoir invité ma fille.",
+        "de": "Vielen Dank, dass Sie meine Tochter eingeladen haben.",
+        "it": "Grazie mille per aver invitato mia figlia.",
+        "pl": "Bardzo dziękuję za zaproszenie mojej córki.",
+        "pt": "Muito obrigada por convidar minha filha.",
+        "nl": "Heel erg bedankt dat je mijn dochter hebt uitgenodigd.",
+        "hr": "Puno Vam hvala što ste pozvali moju kćer.",
+        "tr": "Kızımı davet ettiğiniz için çok teşekkür ederim.",
+        "uk": "Щиро дякую, що запросили мою доньку.",
+        "ar": "شكرًا جزيلًا على دعوة ابنتي.",
+        "hi": "मेरी बेटी को बुलाने के लिए आपका बहुत-बहुत धन्यवाद।",
+        "vi": "Cảm ơn anh/chị rất nhiều vì đã mời con gái tôi.",
+        "id": "Terima kasih banyak sudah mengundang putri saya.",
+        "ms": "Terima kasih banyak kerana menjemput anak perempuan saya.",
+        "ko": "우리 딸을 초대해 주셔서 정말 감사해요."
+      },
+      "practice": "Muchas gracias por invitar a mi hija.",
+      "practice_translations": {
+        "en": "Thank you so much for inviting my daughter.",
+        "es": "Muchas gracias por invitar a mi hija.",
+        "ja": "娘を招待してくださって、本当にありがとうございます。",
+        "ko": "우리 딸을 초대해 주셔서 정말 감사해요."
+      }
+    },
+    {
+      "native": "I should tell you that she has a serious nut allergy.",
+      "native_translations": {
+        "en": "I should tell you that she has a serious nut allergy.",
+        "es": "Debo decirle que tiene una alergia seria a las nueces.",
+        "fr": "Je dois vous dire qu'elle a une grave allergie aux fruits à coque.",
+        "de": "Ich sollte Ihnen sagen, dass sie eine schwere Nussallergie hat.",
+        "it": "Devo dirti che ha una grave allergia alla frutta a guscio.",
+        "pl": "Muszę pani powiedzieć, że ma poważną alergię na orzechy.",
+        "pt": "Preciso te avisar que ela tem uma alergia grave a nozes.",
+        "nl": "Ik moet je even vertellen dat ze een ernstige notenallergie heeft.",
+        "hr": "Moram Vam reći da ima ozbiljnu alergiju na orašaste plodove.",
+        "tr": "Size söylemem gerek, ciddi bir kuruyemiş alerjisi var.",
+        "uk": "Мушу вас попередити: у неї серйозна алергія на горіхи.",
+        "ar": "يجب أن أخبرك أن لديها حساسية شديدة من المكسرات.",
+        "hi": "मुझे आपको बताना चाहिए कि उसे मेवों से गंभीर एलर्जी है।",
+        "vi": "Tôi cần báo với anh/chị là cháu bị dị ứng hạt khá nặng.",
+        "id": "Saya perlu memberi tahu bahwa dia punya alergi kacang yang serius.",
+        "ms": "Saya perlu beritahu bahawa dia ada alahan kacang yang serius.",
+        "ko": "말씀드려야 할 게 있는데, 아이가 심한 견과류 알레르기가 있어요."
+      },
+      "practice": "Debo decirle que tiene una alergia seria a las nueces.",
+      "practice_translations": {
+        "en": "I should tell you that she has a serious nut allergy.",
+        "es": "Debo decirle que tiene una alergia seria a las nueces.",
+        "ja": "実は、娘には重いナッツアレルギーがあるんです。",
+        "ko": "말씀드려야 할 게 있는데, 아이가 심한 견과류 알레르기가 있어요."
+      }
+    },
+    {
+      "native": "Even a small amount can make her very sick.",
+      "native_translations": {
+        "en": "Even a small amount can make her very sick.",
+        "es": "Incluso una cantidad pequeña puede hacerle mucho daño.",
+        "fr": "Même une petite quantité peut la rendre très malade.",
+        "de": "Schon eine kleine Menge kann sie sehr krank machen.",
+        "it": "Anche una piccola quantità può farla stare molto male.",
+        "pl": "Nawet niewielka ilość może jej bardzo zaszkodzić.",
+        "pt": "Até uma pequena quantidade pode fazer muito mal a ela.",
+        "nl": "Zelfs een klein beetje kan haar heel ziek maken.",
+        "hr": "Čak i mala količina može joj jako naškoditi.",
+        "tr": "Çok az bir miktar bile onu çok hasta edebilir.",
+        "uk": "Навіть невелика кількість може їй дуже зашкодити.",
+        "ar": "حتى كمية صغيرة قد تجعلها مريضة جدًا.",
+        "hi": "थोड़ी-सी मात्रा से भी उसकी तबीयत बहुत बिगड़ सकती है।",
+        "vi": "Chỉ một lượng nhỏ thôi cũng có thể khiến cháu bị nặng.",
+        "id": "Sedikit saja bisa membuatnya sakit parah.",
+        "ms": "Sedikit pun boleh buat dia sakit teruk.",
+        "ko": "아주 조금만 먹어도 많이 아플 수 있어요."
+      },
+      "practice": "Incluso una cantidad pequeña puede hacerle mucho daño.",
+      "practice_translations": {
+        "en": "Even a small amount can make her very sick.",
+        "es": "Incluso una cantidad pequeña puede hacerle mucho daño.",
+        "ja": "ほんの少しでも、ひどく体調を崩してしまうんです。",
+        "ko": "아주 조금만 먹어도 많이 아플 수 있어요."
+      }
+    },
+    {
+      "native": "Will the cake or snacks have any nuts in them?",
+      "native_translations": {
+        "en": "Will the cake or snacks have any nuts in them?",
+        "es": "¿El pastel o los bocadillos van a tener nueces?",
+        "fr": "Est-ce que le gâteau ou les en-cas contiendront des fruits à coque ?",
+        "de": "Sind im Kuchen oder in den Snacks Nüsse?",
+        "it": "Nella torta o negli snack ci sarà frutta a guscio?",
+        "pl": "Czy w torcie albo przekąskach będą jakieś orzechy?",
+        "pt": "O bolo ou os salgadinhos vão ter nozes?",
+        "nl": "Zitten er noten in de taart of de snacks?",
+        "hr": "Hoće li u torti ili grickalicama biti orašastih plodova?",
+        "tr": "Pastada veya atıştırmalıklarda kuruyemiş olacak mı?",
+        "uk": "У торті чи снеках будуть горіхи?",
+        "ar": "هل ستحتوي الكعكة أو الوجبات الخفيفة على أي مكسرات؟",
+        "hi": "क्या केक या स्नैक्स में कोई मेवे होंगे?",
+        "vi": "Bánh kem hay đồ ăn vặt có chứa hạt không ạ?",
+        "id": "Apakah kue atau camilannya mengandung kacang?",
+        "ms": "Ada kacang tak dalam kek atau snek?",
+        "ko": "케이크나 간식에 견과류가 들어가나요?"
+      },
+      "practice": "¿El pastel o los bocadillos van a tener nueces?",
+      "practice_translations": {
+        "en": "Will the cake or snacks have any nuts in them?",
+        "es": "¿El pastel o los bocadillos van a tener nueces?",
+        "ja": "ケーキやおやつにナッツは入っていますか。",
+        "ko": "케이크나 간식에 견과류가 들어가나요?"
+      }
+    },
+    {
+      "native": "I'd be happy to bring her own snacks, so you don't have to worry.",
+      "native_translations": {
+        "en": "I'd be happy to bring her own snacks, so you don't have to worry.",
+        "es": "Con gusto le llevo su propia comida, para que usted no se preocupe.",
+        "fr": "Je peux apporter ses propres en-cas, comme ça vous n'aurez pas à vous inquiéter.",
+        "de": "Ich bringe gern ihre eigenen Snacks mit, dann müssen Sie sich keine Sorgen machen.",
+        "it": "Porto volentieri degli snack per lei, così non devi preoccuparti.",
+        "pl": "Chętnie przyniosę jej własne przekąski, żeby nie musiała się pani martwić.",
+        "pt": "Posso levar os lanches dela, assim você não precisa se preocupar.",
+        "nl": "Ik neem graag haar eigen snacks mee, dan hoef jij je geen zorgen te maken.",
+        "hr": "Rado ću joj donijeti njezine grickalice da se Vi ne morate brinuti.",
+        "tr": "Endişelenmeyin diye onun atıştırmalıklarını seve seve getiririm.",
+        "uk": "Я з радістю принесу їй власні снеки, щоб ви не хвилювалися.",
+        "ar": "يسعدني أن أحضر لها وجباتها الخفيفة الخاصة حتى لا تقلق.",
+        "hi": "मैं ख़ुशी से उसके लिए अलग स्नैक्स ले आऊँगा, ताकि आपको चिंता न करनी पड़े।",
+        "vi": "Tôi sẵn lòng mang đồ ăn vặt riêng cho cháu để anh/chị khỏi phải lo.",
+        "id": "Saya dengan senang hati membawakan camilannya sendiri, supaya Anda tidak perlu khawatir.",
+        "ms": "Saya boleh bawa snek dia sendiri, jadi awak tak perlu risau.",
+        "ko": "걱정 안 하시게 아이 간식은 제가 따로 챙겨 갈게요."
+      },
+      "practice": "Con gusto le llevo su propia comida, para que usted no se preocupe.",
+      "practice_translations": {
+        "en": "I'd be happy to bring her own snacks, so you don't have to worry.",
+        "es": "Con gusto le llevo su propia comida, para que usted no se preocupe.",
+        "ja": "ご心配をおかけしないように、娘のおやつはこちらで持っていきますね。",
+        "ko": "걱정 안 하시게 아이 간식은 제가 따로 챙겨 갈게요."
+      }
+    }
+  ]
+}

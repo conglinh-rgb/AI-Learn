@@ -1,0 +1,351 @@
+{
+  "id": "work_understanding_job_offers_benefits_c3",
+  "title": "Beyond the Paycheck",
+  "title_translations": {
+    "en": "Beyond the Paycheck",
+    "es": "Más allá del salario",
+    "fr": "Au-delà du salaire",
+    "de": "Mehr als nur das Gehalt",
+    "it": "Oltre lo stipendio",
+    "pl": "Nie tylko pensja",
+    "pt": "Além do salário",
+    "nl": "Meer dan alleen salaris",
+    "hr": "Više od plaće",
+    "tr": "Maaşın Ötesinde",
+    "uk": "Не лише зарплата",
+    "ar": "ما هو أبعد من الراتب",
+    "hi": "तनख़्वाह से आगे",
+    "vi": "Không chỉ là tiền lương",
+    "id": "Lebih dari Sekadar Gaji",
+    "ms": "Lebih Daripada Gaji",
+    "ko": "급여 그 이상"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "The company can't raise the salary it offered you, but the hiring manager (AI) is open to discussing other benefits.",
+  "scenario_translations": {
+    "en": "The company can't raise the salary it offered you, but the hiring manager (AI) is open to discussing other benefits.",
+    "es": "La empresa no puede subir el salario que le ofreció, pero el responsable de contratación (AI) está dispuesto a hablar de otras prestaciones.",
+    "fr": "L'entreprise ne peut pas augmenter le salaire proposé, mais la responsable du recrutement (AI) est prête à discuter d'autres avantages.",
+    "de": "Das Unternehmen kann das angebotene Gehalt nicht erhöhen, aber die Personalverantwortliche (AI) ist offen dafür, über andere Leistungen zu sprechen.",
+    "it": "L'azienda non può alzare lo stipendio che ti ha offerto, ma il selezionatore (AI) è disposto a parlare di altri benefit.",
+    "pl": "Firma nie może podnieść zaproponowanej ci pensji, ale kierownik ds. rekrutacji (AI) jest otwarty na rozmowę o innych benefitach.",
+    "pt": "A empresa não pode aumentar o salário que ofereceu, mas o gestor da vaga (AI) está aberto a conversar sobre outros benefícios.",
+    "nl": "Het bedrijf kan het aangeboden salaris niet verhogen, maar de hiring manager (AI) staat open voor een gesprek over andere voorwaarden.",
+    "hr": "Tvrtka ne može povećati ponuđenu plaću, ali voditelj zapošljavanja (AI) spreman je razgovarati o drugim pogodnostima.",
+    "tr": "Şirket size teklif ettiği maaşı artıramıyor ama işe alım yöneticisi (AI) diğer yan hakları konuşmaya açık.",
+    "uk": "Компанія не може підвищити запропоновану тобі зарплату, але менеджер із найму (AI) готовий обговорити інші пільги.",
+    "ar": "لا تستطيع الشركة رفع الراتب الذي عرضته عليك، لكن مدير التوظيف (AI) منفتح على مناقشة مزايا أخرى.",
+    "hi": "कंपनी आपको ऑफ़र की गई सैलरी नहीं बढ़ा सकती, लेकिन हायरिंग मैनेजर (AI) दूसरी सुविधाओं पर बात करने को तैयार हैं।",
+    "vi": "Công ty không thể tăng mức lương đã đề nghị, nhưng người phụ trách tuyển dụng (AI) sẵn lòng bàn về các phúc lợi khác.",
+    "id": "Perusahaan tidak bisa menaikkan gaji yang ditawarkan, tapi manajer perekrutan (AI) terbuka untuk membahas tunjangan lainnya.",
+    "ms": "Syarikat tidak dapat menaikkan gaji yang ditawarkan kepada anda, tetapi pengurus pengambilan (AI) terbuka untuk berbincang tentang faedah lain.",
+    "ko": "회사는 제안한 연봉을 올려 줄 수 없지만, 채용 담당 매니저(AI)는 다른 혜택에 대해서는 이야기할 의향이 있어요."
+  },
+  "mission": {
+    "native": "Negotiate better benefits and make sure the final terms are put in writing.",
+    "native_translations": {
+      "en": "Negotiate better benefits and make sure the final terms are put in writing.",
+      "es": "Negocie mejores beneficios y asegúrese de que las condiciones finales queden por escrito.",
+      "fr": "Négociez de meilleurs avantages et assurez-vous que les conditions finales soient mises par écrit.",
+      "de": "Handeln Sie bessere Zusatzleistungen aus und sorgen Sie dafür, dass die endgültigen Bedingungen schriftlich festgehalten werden.",
+      "it": "Negozia benefit migliori e assicurati che le condizioni finali siano messe per iscritto.",
+      "pl": "Wynegocjuj lepsze benefity i dopilnuj, żeby ostateczne warunki były na piśmie.",
+      "pt": "Negocie benefícios melhores e garanta que as condições finais fiquem por escrito.",
+      "nl": "Onderhandel over betere arbeidsvoorwaarden en zorg dat de definitieve afspraken op papier komen.",
+      "hr": "Izbori bolje pogodnosti i pobrini se da konačni uvjeti budu u pisanom obliku.",
+      "tr": "Daha iyi yan haklar için pazarlık yapın ve son koşulların yazılı hâle getirilmesini sağlayın.",
+      "uk": "Домовся про кращі пільги й переконайся, що остаточні умови зафіксовано письмово.",
+      "ar": "تفاوض على مزايا أفضل وتأكّد من توثيق الشروط النهائية كتابيًا.",
+      "hi": "बेहतर सुविधाओं के लिए बातचीत कीजिए और पक्का कीजिए कि अंतिम शर्तें लिखित में मिलें।",
+      "vi": "Thương lượng phúc lợi tốt hơn và đảm bảo các điều khoản cuối cùng được ghi bằng văn bản.",
+      "id": "Negosiasikan tunjangan yang lebih baik dan pastikan syarat akhirnya dibuat tertulis.",
+      "ms": "Runding faedah yang lebih baik dan pastikan terma akhir dinyatakan secara bertulis.",
+      "ko": "더 나은 혜택을 협상하고 최종 조건을 반드시 서면으로 받으세요."
+    },
+    "practice": "Negocie mejores beneficios y asegúrese de que las condiciones finales queden por escrito.",
+    "practice_translations": {
+      "en": "Negotiate better benefits and make sure the final terms are put in writing.",
+      "es": "Negocie mejores beneficios y asegúrese de que las condiciones finales queden por escrito.",
+      "ja": "より良い福利厚生を交渉し、最終的な条件を必ず書面にしてもらってください。",
+      "ko": "더 나은 혜택을 협상하고 최종 조건을 반드시 서면으로 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you appreciate the offer",
+        "native_translations": {
+          "en": "Say you appreciate the offer",
+          "es": "Diga que valora la oferta",
+          "fr": "Dites que vous appréciez l'offre",
+          "de": "Sagen Sie, dass Sie das Angebot zu schätzen wissen",
+          "it": "Di' che apprezzi l'offerta",
+          "pl": "Powiedz, że doceniasz ofertę",
+          "pt": "Diga que você agradece a proposta",
+          "nl": "Zeg dat je het aanbod waardeert",
+          "hr": "Reci da cijeniš ponudu",
+          "tr": "Teklifi takdir ettiğinizi söyleyin",
+          "uk": "Скажи, що цінуєш пропозицію",
+          "ar": "قل إنك تقدّر العرض",
+          "hi": "कहिए कि आप ऑफ़र की क़द्र करते हैं",
+          "vi": "Nói rằng bạn trân trọng lời mời làm việc",
+          "id": "Katakan bahwa kamu menghargai tawarannya",
+          "ms": "Nyatakan bahawa anda menghargai tawaran itu",
+          "ko": "제안에 감사하다고 말하세요"
+        },
+        "practice": "Diga que valora la oferta",
+        "practice_translations": {
+          "en": "Say you appreciate the offer",
+          "es": "Diga que valora la oferta",
+          "ja": "内定への感謝を伝えてください",
+          "ko": "제안에 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for extra vacation days",
+        "native_translations": {
+          "en": "Ask for extra vacation days",
+          "es": "Pida días de vacaciones adicionales",
+          "fr": "Demandez des jours de congé supplémentaires",
+          "de": "Bitten Sie um zusätzliche Urlaubstage",
+          "it": "Chiedi giorni di ferie in più",
+          "pl": "Poproś o dodatkowe dni urlopu",
+          "pt": "Peça dias de férias extras",
+          "nl": "Vraag om extra vakantiedagen",
+          "hr": "Zatraži dodatne dane godišnjeg odmora",
+          "tr": "Ekstra izin günleri isteyin",
+          "uk": "Попроси додаткові дні відпустки",
+          "ar": "اطلب أيام إجازة إضافية",
+          "hi": "ज़्यादा छुट्टियाँ माँगिए",
+          "vi": "Xin thêm ngày nghỉ phép",
+          "id": "Minta tambahan hari cuti",
+          "ms": "Minta hari cuti tambahan",
+          "ko": "휴가를 며칠 더 요청하세요"
+        },
+        "practice": "Pida días de vacaciones adicionales",
+        "practice_translations": {
+          "en": "Ask for extra vacation days",
+          "es": "Pida días de vacaciones adicionales",
+          "ja": "有給休暇を増やしてもらえるか聞いてください",
+          "ko": "휴가를 며칠 더 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about working from home",
+        "native_translations": {
+          "en": "Ask about working from home",
+          "es": "Pregunte por la posibilidad de trabajar desde casa",
+          "fr": "Renseignez-vous sur le télétravail",
+          "de": "Fragen Sie nach Homeoffice",
+          "it": "Chiedi di poter lavorare da casa",
+          "pl": "Zapytaj o pracę zdalną",
+          "pt": "Pergunte sobre trabalhar de casa",
+          "nl": "Vraag naar thuiswerken",
+          "hr": "Pitaj za rad od kuće",
+          "tr": "Evden çalışmayı sorun",
+          "uk": "Запитай про роботу з дому",
+          "ar": "اسأل عن العمل من المنزل",
+          "hi": "घर से काम करने के बारे में पूछिए",
+          "vi": "Hỏi về việc làm việc tại nhà",
+          "id": "Tanyakan soal bekerja dari rumah",
+          "ms": "Tanya tentang bekerja dari rumah",
+          "ko": "재택근무에 대해 물어보세요"
+        },
+        "practice": "Pregunte por la posibilidad de trabajar desde casa",
+        "practice_translations": {
+          "en": "Ask about working from home",
+          "es": "Pregunte por la posibilidad de trabajar desde casa",
+          "ja": "在宅勤務について聞いてください",
+          "ko": "재택근무에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask to get the final terms in writing",
+        "native_translations": {
+          "en": "Ask to get the final terms in writing",
+          "es": "Pida las condiciones finales por escrito",
+          "fr": "Demandez à recevoir les conditions finales par écrit",
+          "de": "Bitten Sie darum, die endgültigen Bedingungen schriftlich zu bekommen",
+          "it": "Chiedi di avere le condizioni finali per iscritto",
+          "pl": "Poproś o ostateczne warunki na piśmie",
+          "pt": "Peça as condições finais por escrito",
+          "nl": "Vraag om de definitieve voorwaarden op papier",
+          "hr": "Zatraži konačne uvjete u pisanom obliku",
+          "tr": "Son koşulları yazılı olarak isteyin",
+          "uk": "Попроси надати остаточні умови письмово",
+          "ar": "اطلب الحصول على الشروط النهائية كتابيًا",
+          "hi": "अंतिम शर्तें लिखित में माँगिए",
+          "vi": "Yêu cầu các điều khoản cuối cùng bằng văn bản",
+          "id": "Minta syarat akhirnya dibuat tertulis",
+          "ms": "Minta terma akhir secara bertulis",
+          "ko": "최종 조건을 서면으로 요청하세요"
+        },
+        "practice": "Pida las condiciones finales por escrito",
+        "practice_translations": {
+          "en": "Ask to get the final terms in writing",
+          "es": "Pida las condiciones finales por escrito",
+          "ja": "最終的な条件を書面でもらえるよう頼んでください",
+          "ko": "최종 조건을 서면으로 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I really appreciate the offer, and I understand the salary is fixed.",
+      "native_translations": {
+        "en": "I really appreciate the offer, and I understand the salary is fixed.",
+        "es": "Valoro mucho la oferta y entiendo que el salario es fijo.",
+        "fr": "J'apprécie vraiment l'offre, et je comprends que le salaire est fixe.",
+        "de": "Ich weiß das Angebot wirklich zu schätzen, und ich verstehe, dass das Gehalt feststeht.",
+        "it": "Apprezzo molto l'offerta e capisco che lo stipendio non si può cambiare.",
+        "pl": "Bardzo doceniam ofertę i rozumiem, że pensja jest ustalona.",
+        "pt": "Agradeço muito a proposta e entendo que o salário é fixo.",
+        "nl": "Ik waardeer het aanbod echt, en ik begrijp dat het salaris vaststaat.",
+        "hr": "Zaista cijenim ponudu i razumijem da je plaća fiksna.",
+        "tr": "Teklifinizi gerçekten takdir ediyorum ve maaşın sabit olduğunu anlıyorum.",
+        "uk": "Я дуже ціную пропозицію й розумію, що зарплата фіксована.",
+        "ar": "أقدّر العرض حقًا، وأفهم أن الراتب ثابت.",
+        "hi": "मैं ऑफ़र की सच में क़द्र करता हूँ, और समझता हूँ कि सैलरी तय है।",
+        "vi": "Tôi thực sự trân trọng lời mời, và tôi hiểu mức lương đã cố định.",
+        "id": "Saya sangat menghargai tawarannya, dan saya paham gajinya sudah tetap.",
+        "ms": "Saya sangat menghargai tawaran ini, dan saya faham gajinya tetap.",
+        "ko": "제안해 주셔서 정말 감사하고, 연봉은 조정이 어렵다는 것도 이해해요."
+      },
+      "practice": "Valoro mucho la oferta y entiendo que el salario es fijo.",
+      "practice_translations": {
+        "en": "I really appreciate the offer, and I understand the salary is fixed.",
+        "es": "Valoro mucho la oferta y entiendo que el salario es fijo.",
+        "ja": "内定をいただき本当に感謝しております。給与が固定であることも理解しています。",
+        "ko": "제안해 주셔서 정말 감사하고, 연봉은 조정이 어렵다는 것도 이해해요."
+      }
+    },
+    {
+      "native": "Would it be possible to have five more vacation days?",
+      "native_translations": {
+        "en": "Would it be possible to have five more vacation days?",
+        "es": "¿Sería posible tener cinco días más de vacaciones?",
+        "fr": "Serait-il possible d'avoir cinq jours de congé en plus ?",
+        "de": "Wäre es möglich, fünf Urlaubstage mehr zu bekommen?",
+        "it": "Sarebbe possibile avere cinque giorni di ferie in più?",
+        "pl": "Czy byłoby możliwe dostać pięć dodatkowych dni urlopu?",
+        "pt": "Seria possível ter mais cinco dias de férias?",
+        "nl": "Zou het mogelijk zijn om vijf extra vakantiedagen te krijgen?",
+        "hr": "Bi li bilo moguće dobiti pet dana godišnjeg odmora više?",
+        "tr": "Beş gün daha fazla izin almam mümkün olur mu?",
+        "uk": "Чи можна отримати ще п'ять днів відпустки?",
+        "ar": "هل من الممكن الحصول على خمسة أيام إجازة إضافية؟",
+        "hi": "क्या पाँच और छुट्टियाँ मिलना मुमकिन होगा?",
+        "vi": "Tôi có thể được thêm năm ngày nghỉ phép không?",
+        "id": "Apakah mungkin saya mendapat lima hari cuti tambahan?",
+        "ms": "Boleh tak saya dapat lima hari cuti tambahan?",
+        "ko": "휴가를 5일 더 받을 수 있을까요?"
+      },
+      "practice": "¿Sería posible tener cinco días más de vacaciones?",
+      "practice_translations": {
+        "en": "Would it be possible to have five more vacation days?",
+        "es": "¿Sería posible tener cinco días más de vacaciones?",
+        "ja": "有給休暇をあと5日増やしていただくことは可能でしょうか。",
+        "ko": "휴가를 5일 더 받을 수 있을까요?"
+      }
+    },
+    {
+      "native": "Could I work from home two days a week?",
+      "native_translations": {
+        "en": "Could I work from home two days a week?",
+        "es": "¿Podría trabajar desde casa dos días a la semana?",
+        "fr": "Pourrais-je télétravailler deux jours par semaine ?",
+        "de": "Könnte ich zwei Tage pro Woche im Homeoffice arbeiten?",
+        "it": "Potrei lavorare da casa due giorni a settimana?",
+        "pl": "Czy mógłbym pracować zdalnie dwa dni w tygodniu?",
+        "pt": "Eu poderia trabalhar de casa dois dias por semana?",
+        "nl": "Zou ik twee dagen per week thuis kunnen werken?",
+        "hr": "Mogu li raditi od kuće dva dana u tjednu?",
+        "tr": "Haftada iki gün evden çalışabilir miyim?",
+        "uk": "Чи можу я працювати з дому два дні на тиждень?",
+        "ar": "هل يمكنني العمل من المنزل يومين في الأسبوع؟",
+        "hi": "क्या मैं हफ़्ते में दो दिन घर से काम कर सकता हूँ?",
+        "vi": "Tôi có thể làm việc tại nhà hai ngày một tuần không?",
+        "id": "Bolehkah saya bekerja dari rumah dua hari seminggu?",
+        "ms": "Boleh saya bekerja dari rumah dua hari seminggu?",
+        "ko": "일주일에 이틀은 재택근무를 해도 될까요?"
+      },
+      "practice": "¿Podría trabajar desde casa dos días a la semana?",
+      "practice_translations": {
+        "en": "Could I work from home two days a week?",
+        "es": "¿Podría trabajar desde casa dos días a la semana?",
+        "ja": "週2日、在宅勤務をさせていただくことはできますか。",
+        "ko": "일주일에 이틀은 재택근무를 해도 될까요?"
+      }
+    },
+    {
+      "native": "If we agree on that, I'm ready to accept.",
+      "native_translations": {
+        "en": "If we agree on that, I'm ready to accept.",
+        "es": "Si llegamos a un acuerdo en eso, estoy listo para aceptar.",
+        "fr": "Si nous sommes d'accord là-dessus, je suis prêt à accepter.",
+        "de": "Wenn wir uns darauf einigen, bin ich bereit zuzusagen.",
+        "it": "Se siamo d'accordo su questo, sono pronto ad accettare.",
+        "pl": "Jeśli się na to zgodzimy, jestem gotowy przyjąć ofertę.",
+        "pt": "Se concordarmos com isso, estou pronto para aceitar.",
+        "nl": "Als we het daarover eens worden, ben ik klaar om het aanbod aan te nemen.",
+        "hr": "Ako se oko toga dogovorimo, spreman sam prihvatiti.",
+        "tr": "Bunda anlaşırsak kabul etmeye hazırım.",
+        "uk": "Якщо ми про це домовимося, я готовий погодитися.",
+        "ar": "إذا اتفقنا على ذلك، فأنا مستعد للقبول.",
+        "hi": "अगर इस पर सहमति बनती है, तो मैं ऑफ़र स्वीकार करने को तैयार हूँ।",
+        "vi": "Nếu mình thống nhất được như vậy, tôi sẵn sàng nhận lời.",
+        "id": "Kalau kita sepakat soal itu, saya siap menerimanya.",
+        "ms": "Jika kita bersetuju tentang itu, saya bersedia untuk menerimanya.",
+        "ko": "그렇게 합의되면 제안을 받아들일게요."
+      },
+      "practice": "Si llegamos a un acuerdo en eso, estoy listo para aceptar.",
+      "practice_translations": {
+        "en": "If we agree on that, I'm ready to accept.",
+        "es": "Si llegamos a un acuerdo en eso, estoy listo para aceptar.",
+        "ja": "その点で合意できれば、お受けしたいと思います。",
+        "ko": "그렇게 합의되면 제안을 받아들일게요."
+      }
+    },
+    {
+      "native": "Could you send me the updated offer in writing?",
+      "native_translations": {
+        "en": "Could you send me the updated offer in writing?",
+        "es": "¿Me podría enviar la oferta actualizada por escrito?",
+        "fr": "Pourriez-vous m'envoyer l'offre mise à jour par écrit ?",
+        "de": "Könnten Sie mir das aktualisierte Angebot schriftlich schicken?",
+        "it": "Potrebbe mandarmi l'offerta aggiornata per iscritto?",
+        "pl": "Czy mógłby mi pan przesłać zaktualizowaną ofertę na piśmie?",
+        "pt": "Você poderia me mandar a proposta atualizada por escrito?",
+        "nl": "Kunt u me het aangepaste aanbod op papier sturen?",
+        "hr": "Možete li mi poslati izmijenjenu ponudu u pisanom obliku?",
+        "tr": "Güncellenmiş teklifi bana yazılı olarak gönderebilir misiniz?",
+        "uk": "Чи могли б ви надіслати мені оновлену пропозицію письмово?",
+        "ar": "هل يمكنك إرسال العرض المحدّث إليّ كتابيًا؟",
+        "hi": "क्या आप मुझे अपडेट किया हुआ ऑफ़र लिखित में भेज सकते हैं?",
+        "vi": "Anh/chị có thể gửi cho tôi lời mời đã cập nhật bằng văn bản không?",
+        "id": "Bisa kirimkan tawaran yang sudah diperbarui secara tertulis?",
+        "ms": "Boleh hantar tawaran yang dikemas kini secara bertulis?",
+        "ko": "수정된 제안을 서면으로 보내 주실 수 있나요?"
+      },
+      "practice": "¿Me podría enviar la oferta actualizada por escrito?",
+      "practice_translations": {
+        "en": "Could you send me the updated offer in writing?",
+        "es": "¿Me podría enviar la oferta actualizada por escrito?",
+        "ja": "更新した条件を書面で送っていただけますか。",
+        "ko": "수정된 제안을 서면으로 보내 주실 수 있나요?"
+      }
+    }
+  ]
+}

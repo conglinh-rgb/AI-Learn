@@ -1,0 +1,383 @@
+{
+  "id": "daily_life_food_delivery_c4",
+  "title": "A Culinary Mix-Up: What I Didn't Order",
+  "title_translations": {
+    "en": "A Culinary Mix-Up: What I Didn't Order",
+    "es": "Un enredo culinario: lo que no pedí",
+    "fr": "Quiproquo culinaire : ce que je n'ai pas commandé",
+    "de": "Kulinarische Verwechslung: Das habe ich nicht bestellt",
+    "it": "Un pasticcio culinario: non l'ho ordinato io",
+    "pl": "Kulinarna pomyłka: tego nie zamawiałem",
+    "pt": "Confusão culinária: o que eu não pedi",
+    "nl": "Culinaire verwarring: wat ik níét bestelde",
+    "hr": "Kulinarska zbrka: to nije moja narudžba",
+    "tr": "Mutfak Karışıklığı: Sipariş Etmediğim Şey",
+    "uk": "Кулінарна плутанина: я цього не замовляв",
+    "ar": "خلط في المطبخ: ما لم أطلبه",
+    "hi": "खाने की गड़बड़: जो मैंने ऑर्डर ही नहीं किया",
+    "vi": "Nhầm lẫn ẩm thực: Món tôi không hề gọi",
+    "id": "Kekacauan Kuliner: Yang Tidak Saya Pesan",
+    "ms": "Kekeliruan Masakan: Bukan Pesanan Saya",
+    "ko": "요리 대혼란: 주문하지 않은 음식"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You are a vegetarian and have ordered a simple salad. However, the delivery driver (AI) brings you an \"Ultimate Barbecue Feast\" for five people.",
+  "scenario_translations": {
+    "en": "You are a vegetarian and have ordered a simple salad. However, the delivery driver (AI) brings you an \"Ultimate Barbecue Feast\" for five people.",
+    "es": "Sigue una dieta vegetariana y pidió una ensalada sencilla. Sin embargo, el repartidor (AI) le trae un \"Festín de Barbacoa Definitivo\" para cinco personas.",
+    "fr": "Vous êtes végétarien et avez commandé une simple salade. Pourtant, le livreur (AI) vous apporte un « Festin barbecue ultime » pour cinq personnes.",
+    "de": "Sie leben vegetarisch und haben einen einfachen Salat bestellt. Die Person vom Lieferdienst (AI) bringt Ihnen jedoch ein „Ultimatives Barbecue-Festmahl“ für fünf Personen.",
+    "it": "Sei vegetariano e hai ordinato una semplice insalata. Il fattorino (AI), però, ti porta un \"Banchetto di barbecue definitivo\" per cinque persone.",
+    "pl": "Jesteś wegetarianinem i zamówiłeś zwykłą sałatkę. Tymczasem kurier (AI) przywozi ci „Ostateczną ucztę z grilla” dla pięciu osób.",
+    "pt": "Você é vegetariano e pediu uma salada simples. Mas o entregador (AI) te traz um \"Banquete Supremo de Churrasco\" para cinco pessoas.",
+    "nl": "Je bent vegetariër en hebt een simpele salade besteld. Maar de bezorger (AI) brengt je een 'Ultiem barbecuefestijn' voor vijf personen.",
+    "hr": "Ne jedeš meso i tvoja narudžba je obična salata. No dostavljač (AI) donosi ti „Ultimativnu gozbu s roštilja” za pet osoba.",
+    "tr": "Vejetaryensiniz ve basit bir salata sipariş ettiniz. Ancak kurye (AI) size beş kişilik bir \"Muhteşem Mangal Ziyafeti\" getiriyor.",
+    "uk": "Ти вегетаріанець і замовляєш простий салат. Проте кур'єр (AI) привозить тобі «Мегабенкет барбекю» на п'ятьох.",
+    "ar": "أنت نباتي وطلبت سلطة بسيطة. لكن عامل التوصيل (AI) يحضر لك «وليمة الشواء الكبرى» لخمسة أشخاص.",
+    "hi": "आप शाकाहारी हैं और आपने एक सादा सलाद ऑर्डर किया है। लेकिन डिलीवरी ड्राइवर (AI) आपके लिए पाँच लोगों की \"अल्टीमेट बारबेक्यू दावत\" ले आता है।",
+    "vi": "Bạn ăn chay và đã gọi một phần salad đơn giản. Thế nhưng tài xế giao hàng (AI) lại mang đến \"Tiệc nướng siêu khủng\" cho năm người.",
+    "id": "Kamu seorang vegetarian dan memesan salad sederhana. Namun, kurir (AI) malah membawakan \"Pesta Barbeku Ultimate\" untuk lima orang.",
+    "ms": "Anda seorang vegetarian dan telah memesan salad ringkas. Namun, pemandu penghantar (AI) membawakan anda \"Hidangan Barbeku Terhebat\" untuk lima orang.",
+    "ko": "당신은 채식주의자이고 간단한 샐러드를 주문했어요. 그런데 배달 기사(AI)가 5인분 \"얼티밋 바비큐 세트\"를 가져왔어요."
+  },
+  "mission": {
+    "native": "While the impatient driver is rushing you, logically convince them that another person with the same name must exist, and get them to take back the wrong order.",
+    "native_translations": {
+      "en": "While the impatient driver is rushing you, logically convince them that another person with the same name must exist, and get them to take back the wrong order.",
+      "es": "Mientras el impaciente repartidor le presiona, convénzalo con lógica de que debe haber otra persona con el mismo nombre y haga que se lleve el pedido equivocado.",
+      "fr": "Alors que le livreur impatient vous presse, convainquez-le avec logique qu'il existe forcément une autre personne portant le même nom, et faites-lui reprendre la mauvaise commande.",
+      "de": "Die ungeduldige Person vom Lieferdienst drängt Sie. Überzeugen Sie sie mit logischen Argumenten, dass es eine andere Person mit demselben Namen geben muss, und bringen Sie sie dazu, die falsche Bestellung zurückzunehmen.",
+      "it": "Mentre il fattorino impaziente ti mette fretta, convincilo in modo logico che deve esistere un'altra persona con lo stesso nome e fagli riprendere l'ordine sbagliato.",
+      "pl": "Kiedy zniecierpliwiony kurier cię pogania, logicznie przekonaj go, że musi istnieć ktoś inny o tym samym nazwisku, i spraw, żeby zabrał błędne zamówienie.",
+      "pt": "Enquanto o entregador impaciente te apressa, convença-o com lógica de que deve existir outra pessoa com o mesmo nome e faça-o levar de volta o pedido errado.",
+      "nl": "Terwijl de ongeduldige bezorger je opjaagt, overtuig je hem logisch dat er iemand anders met dezelfde naam moet bestaan, en laat je hem de verkeerde bestelling terugnemen.",
+      "hr": "Dok te nestrpljivi dostavljač požuruje, logično ga uvjeri da mora postojati još netko s istim imenom i navedi ga da odnese pogrešnu narudžbu.",
+      "tr": "Sabırsız kurye sizi acele ettirirken, aynı isimde başka birinin olması gerektiğine onu mantıklı bir şekilde ikna edin ve yanlış siparişi geri almasını sağlayın.",
+      "uk": "Поки нетерплячий кур'єр тебе квапить, логічно переконай його, що існує інша людина з таким самим ім'ям, і змуси забрати неправильне замовлення.",
+      "ar": "بينما يستعجلك عامل التوصيل نافد الصبر، أقنعه بالمنطق بأنه لا بد من وجود شخص آخر يحمل الاسم نفسه، واجعله يستعيد الطلب الخاطئ.",
+      "hi": "बेसब्र ड्राइवर जल्दी मचा रहा है, ऐसे में तर्क से उसे समझाइए कि इसी नाम का कोई और व्यक्ति ज़रूर है, और उससे ग़लत ऑर्डर वापस ले जाने को कहिए।",
+      "vi": "Trong lúc tài xế sốt ruột hối thúc, hãy lập luận thuyết phục họ rằng chắc chắn có một người khác trùng tên, và nhờ họ mang đơn nhầm đi.",
+      "id": "Saat kurir yang tidak sabar terus mendesakmu, yakinkan dia secara logis bahwa pasti ada orang lain dengan nama yang sama, dan minta dia membawa kembali pesanan yang salah.",
+      "ms": "Semasa pemandu yang tidak sabar itu mendesak anda, yakinkan dia secara logik bahawa pasti ada orang lain dengan nama yang sama, dan minta dia bawa balik pesanan yang salah itu.",
+      "ko": "성급한 배달 기사가 재촉하는 동안, 같은 이름을 가진 사람이 분명 있을 거라고 논리적으로 설득해서 잘못 온 주문을 다시 가져가게 하세요."
+    },
+    "practice": "Mientras el impaciente repartidor le presiona, convénzalo con lógica de que debe haber otra persona con el mismo nombre y haga que se lleve el pedido equivocado.",
+    "practice_translations": {
+      "en": "While the impatient driver is rushing you, logically convince them that another person with the same name must exist, and get them to take back the wrong order.",
+      "es": "Mientras el impaciente repartidor le presiona, convénzalo con lógica de que debe haber otra persona con el mismo nombre y haga que se lleve el pedido equivocado.",
+      "ja": "急かしてくる配達員に、同じ名前の別人がいるはずだと論理的に説明し、間違った注文を持ち帰ってもらってください。",
+      "ko": "성급한 배달 기사가 재촉하는 동안, 같은 이름을 가진 사람이 분명 있을 거라고 논리적으로 설득해서 잘못 온 주문을 다시 가져가게 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Point out the discrepancy between the order and your actual diet",
+        "native_translations": {
+          "en": "Point out the discrepancy between the order and your actual diet",
+          "es": "Señale la contradicción entre el pedido y su alimentación real",
+          "fr": "Soulignez le décalage entre la commande et votre régime alimentaire",
+          "de": "Weisen Sie auf den Widerspruch zwischen Bestellung und Ihrer Ernährung hin",
+          "it": "Fai notare la differenza tra l'ordine e la tua vera alimentazione",
+          "pl": "Wskaż rozbieżność między zamówieniem a twoją dietą",
+          "pt": "Aponte a diferença entre o pedido e a sua alimentação real",
+          "nl": "Wijs op het verschil tussen de bestelling en wat je echt eet",
+          "hr": "Ukaži na nesklad između narudžbe i tvoje prehrane",
+          "tr": "Sipariş ile beslenme tarzınız arasındaki uyumsuzluğu belirtin",
+          "uk": "Вкажи на розбіжність між замовленням і твоїм харчуванням",
+          "ar": "أشر إلى التعارض بين الطلب ونظامك الغذائي الفعلي",
+          "hi": "ऑर्डर और अपने असली खान-पान के बीच का फ़र्क़ बताइए",
+          "vi": "Chỉ ra sự vô lý giữa đơn hàng và chế độ ăn của bạn",
+          "id": "Tunjukkan ketidaksesuaian antara pesanan dan pola makanmu",
+          "ms": "Tunjukkan percanggahan antara pesanan itu dengan pemakanan anda yang sebenar",
+          "ko": "주문 내용과 실제 식단이 맞지 않는다고 지적하세요"
+        },
+        "practice": "Señale la contradicción entre el pedido y su alimentación real",
+        "practice_translations": {
+          "en": "Point out the discrepancy between the order and your actual diet",
+          "es": "Señale la contradicción entre el pedido y su alimentación real",
+          "ja": "注文と自分の実際の食生活が合わないことを指摘してください",
+          "ko": "주문 내용과 실제 식단이 맞지 않는다고 지적하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Propose the hypothesis that there's another person with the same name",
+        "native_translations": {
+          "en": "Propose the hypothesis that there's another person with the same name",
+          "es": "Sugiera que hay otra persona con el mismo nombre",
+          "fr": "Avancez l'hypothèse d'une autre personne portant le même nom",
+          "de": "Stellen Sie die Vermutung auf, dass es jemanden mit demselben Namen gibt",
+          "it": "Proponi l'ipotesi che ci sia un'altra persona con lo stesso nome",
+          "pl": "Wysuń hipotezę, że jest ktoś inny o tym samym nazwisku",
+          "pt": "Levante a hipótese de que existe outra pessoa com o mesmo nome",
+          "nl": "Opper dat er iemand anders met dezelfde naam is",
+          "hr": "Iznesi pretpostavku da postoji još netko s istim imenom",
+          "tr": "Aynı isimde başka birinin olabileceği ihtimalini öne sürün",
+          "uk": "Висунь припущення, що є інша людина з таким самим ім'ям",
+          "ar": "اطرح فرضية وجود شخص آخر يحمل الاسم نفسه",
+          "hi": "सुझाइए कि शायद इसी नाम का कोई और व्यक्ति है",
+          "vi": "Đưa ra giả thuyết có người khác trùng tên",
+          "id": "Ajukan dugaan bahwa ada orang lain dengan nama yang sama",
+          "ms": "Kemukakan andaian bahawa ada orang lain dengan nama yang sama",
+          "ko": "같은 이름을 가진 사람이 있을 수 있다고 추측해 보세요"
+        },
+        "practice": "Sugiera que hay otra persona con el mismo nombre",
+        "practice_translations": {
+          "en": "Propose the hypothesis that there's another person with the same name",
+          "es": "Sugiera que hay otra persona con el mismo nombre",
+          "ja": "同じ名前の別人がいるという仮説を示してください",
+          "ko": "같은 이름을 가진 사람이 있을 수 있다고 추측해 보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the driver to take back the wrong order and find the correct recipient",
+        "native_translations": {
+          "en": "Ask the driver to take back the wrong order and find the correct recipient",
+          "es": "Pida al repartidor que se lleve el pedido equivocado y encuentre al destinatario correcto",
+          "fr": "Demandez au livreur de reprendre la mauvaise commande et de trouver le bon destinataire",
+          "de": "Bitten Sie darum, die falsche Bestellung zurückzunehmen und den richtigen Empfänger zu finden",
+          "it": "Chiedi al fattorino di riprendersi l'ordine sbagliato e trovare il vero destinatario",
+          "pl": "Poproś kuriera, żeby zabrał błędne zamówienie i znalazł właściwego odbiorcę",
+          "pt": "Peça ao entregador que leve o pedido errado e encontre o destinatário certo",
+          "nl": "Vraag de bezorger de verkeerde bestelling terug te nemen en de juiste ontvanger te zoeken",
+          "hr": "Zamoli dostavljača da odnese pogrešnu narudžbu i pronađe pravog primatelja",
+          "tr": "Kuryeden yanlış siparişi geri alıp doğru alıcıyı bulmasını isteyin",
+          "uk": "Попроси кур'єра забрати неправильне замовлення й знайти справжнього отримувача",
+          "ar": "اطلب من عامل التوصيل استعادة الطلب الخاطئ والعثور على المستلم الصحيح",
+          "hi": "ड्राइवर से ग़लत ऑर्डर वापस ले जाने और सही व्यक्ति को ढूँढने को कहिए",
+          "vi": "Nhờ tài xế mang đơn nhầm đi và tìm đúng người nhận",
+          "id": "Minta kurir membawa kembali pesanan yang salah dan mencari penerima yang benar",
+          "ms": "Minta pemandu bawa balik pesanan yang salah dan cari penerima yang betul",
+          "ko": "잘못 온 주문을 가져가서 제대로 된 수령인을 찾아 달라고 하세요"
+        },
+        "practice": "Pida al repartidor que se lleve el pedido equivocado y encuentre al destinatario correcto",
+        "practice_translations": {
+          "en": "Ask the driver to take back the wrong order and find the correct recipient",
+          "es": "Pida al repartidor que se lleve el pedido equivocado y encuentre al destinatario correcto",
+          "ja": "間違った注文を持ち帰り、正しい受取人を探すよう配達員に頼んでください",
+          "ko": "잘못 온 주문을 가져가서 제대로 된 수령인을 찾아 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Propose a compromise",
+        "native_translations": {
+          "en": "Propose a compromise",
+          "es": "Proponga un compromiso",
+          "fr": "Proposez un compromis",
+          "de": "Schlagen Sie einen Kompromiss vor",
+          "it": "Proponi un compromesso",
+          "pl": "Zaproponuj kompromis",
+          "pt": "Proponha um acordo",
+          "nl": "Stel een compromis voor",
+          "hr": "Predloži kompromis",
+          "tr": "Bir orta yol önerin",
+          "uk": "Запропонуй компроміс",
+          "ar": "اقترح حلًا وسطًا",
+          "hi": "कोई बीच का रास्ता सुझाइए",
+          "vi": "Đề xuất một giải pháp dung hòa",
+          "id": "Usulkan jalan tengah",
+          "ms": "Cadangkan jalan tengah",
+          "ko": "타협안을 제안하세요"
+        },
+        "practice": "Proponga un compromiso",
+        "practice_translations": {
+          "en": "Propose a compromise",
+          "es": "Proponga un compromiso",
+          "ja": "妥協案を出してください",
+          "ko": "타협안을 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t5",
+      "goal": {
+        "native": "Agree on the final price",
+        "native_translations": {
+          "en": "Agree on the final price",
+          "es": "Acuerden el precio final",
+          "fr": "Mettez-vous d'accord sur le prix final",
+          "de": "Einigen Sie sich auf den endgültigen Preis",
+          "it": "Concordate il prezzo finale",
+          "pl": "Ustalcie ostateczną cenę",
+          "pt": "Combinem o preço final",
+          "nl": "Spreek de uiteindelijke prijs af",
+          "hr": "Dogovori konačnu cijenu",
+          "tr": "Son fiyatta anlaşın",
+          "uk": "Домовтеся про остаточну ціну",
+          "ar": "اتفق على السعر النهائي",
+          "hi": "अंतिम क़ीमत पर सहमत होइए",
+          "vi": "Thống nhất giá cuối cùng",
+          "id": "Sepakati harga akhirnya",
+          "ms": "Setuju dengan harga akhir",
+          "ko": "최종 가격에 합의하세요"
+        },
+        "practice": "Acuerden el precio final",
+        "practice_translations": {
+          "en": "Agree on the final price",
+          "es": "Acuerden el precio final",
+          "ja": "最終的な金額について合意してください",
+          "ko": "최종 가격에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, I think there's been a mistake with my order.",
+      "native_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "fr": "Excusez-moi, je crois qu'il y a une erreur dans ma commande.",
+        "de": "Entschuldigung, ich glaube, bei meiner Bestellung ist etwas schiefgelaufen.",
+        "it": "Mi scusi, credo ci sia stato un errore con il mio ordine.",
+        "pl": "Przepraszam, chyba zaszła pomyłka z moim zamówieniem.",
+        "pt": "Com licença, acho que houve um engano com o meu pedido.",
+        "nl": "Pardon, ik denk dat er iets misgegaan is met mijn bestelling.",
+        "hr": "Oprostite, mislim da je došlo do greške s mojom narudžbom.",
+        "tr": "Affedersiniz, sanırım siparişimde bir karışıklık olmuş.",
+        "uk": "Перепрошую, здається, з моїм замовленням сталася помилка.",
+        "ar": "عفوًا، أظن أن هناك خطأ في طلبي.",
+        "hi": "माफ़ कीजिए, मुझे लगता है मेरे ऑर्डर में कोई गड़बड़ हो गई है।",
+        "vi": "Xin lỗi, hình như đơn hàng của tôi bị nhầm rồi.",
+        "id": "Permisi, sepertinya ada kesalahan dengan pesanan saya.",
+        "ms": "Maaf, saya rasa ada kesilapan dengan pesanan saya.",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      },
+      "practice": "Disculpe, creo que hay un error con mi pedido.",
+      "practice_translations": {
+        "en": "Excuse me, I think there's been a mistake with my order.",
+        "es": "Disculpe, creo que hay un error con mi pedido.",
+        "ja": "すみません、注文に間違いがあるようなのですが。",
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+      }
+    },
+    {
+      "native": "I ordered a salad, not a barbecue feast.",
+      "native_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "fr": "J'ai commandé une salade, pas un festin barbecue.",
+        "de": "Ich habe einen Salat bestellt, kein Barbecue-Festmahl.",
+        "it": "Ho ordinato un'insalata, non un banchetto di barbecue.",
+        "pl": "Zamówiłem sałatkę, a nie ucztę z grilla.",
+        "pt": "Eu pedi uma salada, não um banquete de churrasco.",
+        "nl": "Ik had een salade besteld, geen barbecuefestijn.",
+        "hr": "Moja narudžba je salata, a ne gozba s roštilja.",
+        "tr": "Ben salata sipariş ettim, mangal ziyafeti değil.",
+        "uk": "Я замовляв салат, а не бенкет барбекю.",
+        "ar": "طلبت سلطة، لا وليمة شواء.",
+        "hi": "मैंने सलाद ऑर्डर किया था, बारबेक्यू की दावत नहीं।",
+        "vi": "Tôi gọi salad, chứ đâu phải tiệc đồ nướng.",
+        "id": "Saya pesan salad, bukan pesta barbeku.",
+        "ms": "Saya pesan salad, bukan hidangan barbeku.",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      },
+      "practice": "Pedí una ensalada, no una fiesta de barbacoa.",
+      "practice_translations": {
+        "en": "I ordered a salad, not a barbecue feast.",
+        "es": "Pedí una ensalada, no una fiesta de barbacoa.",
+        "ja": "注文したのはサラダで、バーベキューの盛り合わせではありません。",
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+      }
+    },
+    {
+      "native": "Could you check the name on the receipt, please?",
+      "native_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "fr": "Pourriez-vous vérifier le nom sur le reçu, s'il vous plaît ?",
+        "de": "Könnten Sie bitte den Namen auf dem Beleg überprüfen?",
+        "it": "Potrebbe controllare il nome sulla ricevuta, per favore?",
+        "pl": "Czy mógłby pan sprawdzić nazwisko na paragonie?",
+        "pt": "Você poderia conferir o nome no recibo, por favor?",
+        "nl": "Kunt u de naam op de bon even controleren?",
+        "hr": "Možete li, molim Vas, provjeriti ime na računu?",
+        "tr": "Fişteki isme bakabilir misiniz, lütfen?",
+        "uk": "Перевірте, будь ласка, ім'я на чеку.",
+        "ar": "هل يمكنك التحقق من الاسم على الإيصال من فضلك؟",
+        "hi": "क्या आप प्लीज़ रसीद पर नाम देख लेंगे?",
+        "vi": "Anh/chị kiểm tra giúp tôi tên trên hóa đơn được không?",
+        "id": "Bisa tolong cek nama di struknya?",
+        "ms": "Boleh tolong semak nama pada resit?",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      },
+      "practice": "¿Podría revisar el nombre en el recibo, por favor?",
+      "practice_translations": {
+        "en": "Could you check the name on the receipt, please?",
+        "es": "¿Podría revisar el nombre en el recibo, por favor?",
+        "ja": "レシートの名前を確認していただけますか。",
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+      }
+    },
+    {
+      "native": "Maybe there's another person with the same name.",
+      "native_translations": {
+        "en": "Maybe there's another person with the same name.",
+        "es": "Quizás hay otra persona con el mismo nombre.",
+        "fr": "Il y a peut-être une autre personne avec le même nom.",
+        "de": "Vielleicht gibt es noch eine andere Person mit demselben Namen.",
+        "it": "Forse c'è un'altra persona con lo stesso nome.",
+        "pl": "Może jest ktoś inny o tym samym nazwisku.",
+        "pt": "Talvez tenha outra pessoa com o mesmo nome.",
+        "nl": "Misschien is er iemand anders met dezelfde naam.",
+        "hr": "Možda postoji još netko s istim imenom.",
+        "tr": "Belki aynı isimde başka biri vardır.",
+        "uk": "Можливо, є інша людина з таким самим ім'ям.",
+        "ar": "ربما هناك شخص آخر يحمل الاسم نفسه.",
+        "hi": "शायद इसी नाम का कोई और व्यक्ति भी हो।",
+        "vi": "Có lẽ có một người khác trùng tên với tôi.",
+        "id": "Mungkin ada orang lain dengan nama yang sama.",
+        "ms": "Mungkin ada orang lain dengan nama yang sama.",
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+      },
+      "practice": "Quizás hay otra persona con el mismo nombre.",
+      "practice_translations": {
+        "en": "Maybe there's another person with the same name.",
+        "es": "Quizás hay otra persona con el mismo nombre.",
+        "ja": "同じ名前の別の方がいるのかもしれません。",
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+      }
+    },
+    {
+      "native": "I'm sorry, but I can't accept this order.",
+      "native_translations": {
+        "en": "I'm sorry, but I can't accept this order.",
+        "es": "Lo siento, pero no puedo aceptar este pedido.",
+        "fr": "Je suis désolé, mais je ne peux pas accepter cette commande.",
+        "de": "Tut mir leid, aber diese Bestellung kann ich nicht annehmen.",
+        "it": "Mi dispiace, ma non posso accettare questo ordine.",
+        "pl": "Przykro mi, ale nie mogę przyjąć tego zamówienia.",
+        "pt": "Desculpe, mas não posso aceitar este pedido.",
+        "nl": "Het spijt me, maar ik kan deze bestelling niet aannemen.",
+        "hr": "Žao mi je, ali ne mogu prihvatiti ovu narudžbu.",
+        "tr": "Kusura bakmayın ama bu siparişi kabul edemem.",
+        "uk": "Вибачте, але я не можу прийняти це замовлення.",
+        "ar": "آسف، لكن لا يمكنني قبول هذا الطلب.",
+        "hi": "माफ़ कीजिए, लेकिन मैं यह ऑर्डर नहीं ले सकता।",
+        "vi": "Xin lỗi, nhưng tôi không thể nhận đơn hàng này.",
+        "id": "Maaf, tapi saya tidak bisa menerima pesanan ini.",
+        "ms": "Maaf, tetapi saya tidak boleh terima pesanan ini.",
+        "ko": "죄송하지만, 이 주문은 받을 수 없어요."
+      },
+      "practice": "Lo siento, pero no puedo aceptar este pedido.",
+      "practice_translations": {
+        "en": "I'm sorry, but I can't accept this order.",
+        "es": "Lo siento, pero no puedo aceptar este pedido.",
+        "ja": "申し訳ありませんが、この注文は受け取れません。",
+        "ko": "죄송하지만, 이 주문은 받을 수 없어요."
+      }
+    }
+  ]
+}

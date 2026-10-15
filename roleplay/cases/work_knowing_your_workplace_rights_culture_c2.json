@@ -1,0 +1,350 @@
+{
+  "id": "work_knowing_your_workplace_rights_culture_c2",
+  "title": "Where Is My Overtime?",
+  "title_translations": {
+    "en": "Where Is My Overtime?",
+    "es": "¿Dónde están mis horas extra?",
+    "fr": "Où sont mes heures supplémentaires ?",
+    "de": "Wo sind meine Überstunden?",
+    "it": "Dove sono i miei straordinari?",
+    "pl": "Gdzie są moje nadgodziny?",
+    "pt": "Cadê minhas horas extras?",
+    "nl": "Waar zijn mijn overuren?",
+    "hr": "Gdje je moj prekovremeni rad?",
+    "tr": "Fazla Mesaim Nerede?",
+    "uk": "Де моя понаднормова оплата?",
+    "ar": "أين أجر ساعاتي الإضافية؟",
+    "hi": "मेरा ओवरटाइम कहाँ है?",
+    "vi": "Tiền làm thêm giờ của tôi đâu?",
+    "id": "Mana Uang Lemburku?",
+    "ms": "Mana Bayaran Kerja Lebih Masa Saya?",
+    "ko": "제 초과 근무 수당은요?"
+  },
+  "character": "fox",
+  "scenario": "You worked eight extra hours last week, but your paycheck looks the same as usual. You ask the payroll specialist (AI) about it.",
+  "scenario_translations": {
+    "en": "You worked eight extra hours last week, but your paycheck looks the same as usual. You ask the payroll specialist (AI) about it.",
+    "es": "La semana pasada trabajó ocho horas extra, pero su pago se ve igual que siempre. Le pregunta al especialista en nómina (AI) al respecto.",
+    "fr": "Vous avez fait huit heures supplémentaires la semaine dernière, mais votre fiche de paie est la même que d'habitude. Vous interrogez le gestionnaire de paie (AI) à ce sujet.",
+    "de": "Sie haben letzte Woche acht Überstunden gemacht, aber Ihre Gehaltsabrechnung sieht aus wie immer. Sie fragen den Mitarbeiter der Lohnbuchhaltung (AI) danach.",
+    "it": "La settimana scorsa hai lavorato otto ore in più, ma la tua busta paga sembra uguale al solito. Ne parli con l'addetto alle paghe (AI).",
+    "pl": "W zeszłym tygodniu przepracowałeś osiem dodatkowych godzin, ale twoja wypłata wygląda tak jak zwykle. Pytasz o to specjalistę ds. płac (AI).",
+    "pt": "Você trabalhou oito horas extras na semana passada, mas seu contracheque parece igual ao de sempre. Você pergunta ao especialista da folha de pagamento (AI) sobre isso.",
+    "nl": "Je hebt vorige week acht uur extra gewerkt, maar je loonstrook ziet er hetzelfde uit als altijd. Je vraagt de salarisadministrateur (AI) ernaar.",
+    "hr": "Prošli tjedan radio si osam sati više, ali plaća ti izgleda kao i obično. Pitaš stručnjaka za obračun plaća (AI) o tome.",
+    "tr": "Geçen hafta sekiz saat fazla çalıştınız ama maaşınız her zamankiyle aynı görünüyor. Bunu bordro uzmanına (AI) soruyorsunuz.",
+    "uk": "Минулого тижня в тебе було вісім понаднормових годин, але зарплата така сама, як завжди. Ти звертаєшся з цим до фахівця з нарахування зарплати (AI).",
+    "ar": "عملت ثماني ساعات إضافية الأسبوع الماضي، لكن راتبك يبدو كالمعتاد. تسأل أخصائي الرواتب (AI) عن ذلك.",
+    "hi": "पिछले हफ़्ते आपने आठ घंटे ज़्यादा काम किया, लेकिन आपकी तनख़्वाह हमेशा जितनी ही दिख रही है। आप पेरोल स्पेशलिस्ट (AI) से इस बारे में पूछते हैं।",
+    "vi": "Tuần trước bạn làm thêm tám tiếng, nhưng phiếu lương vẫn như mọi khi. Bạn hỏi nhân viên phụ trách tiền lương (AI) về chuyện này.",
+    "id": "Minggu lalu kamu lembur delapan jam, tapi slip gajimu terlihat sama seperti biasanya. Kamu bertanya kepada staf penggajian (AI) soal itu.",
+    "ms": "Anda bekerja lapan jam tambahan minggu lepas, tetapi slip gaji anda nampak sama seperti biasa. Anda bertanya kepada pegawai penggajian (AI) mengenainya.",
+    "ko": "지난주에 8시간을 더 일했는데, 급여는 평소와 똑같아 보여요. 급여 담당자(AI)에게 이에 대해 물어봅니다."
+  },
+  "mission": {
+    "native": "Explain the problem with your paycheck and find out how to get it fixed.",
+    "native_translations": {
+      "en": "Explain the problem with your paycheck and find out how to get it fixed.",
+      "es": "Explique el problema con su pago y averigüe cómo solucionarlo.",
+      "fr": "Expliquez le problème de votre fiche de paie et découvrez comment le faire corriger.",
+      "de": "Erklären Sie das Problem mit Ihrer Gehaltsabrechnung und finden Sie heraus, wie es korrigiert wird.",
+      "it": "Spiega il problema con la busta paga e scopri come risolverlo.",
+      "pl": "Wyjaśnij problem z wypłatą i dowiedz się, jak go rozwiązać.",
+      "pt": "Explique o problema com seu contracheque e descubra como corrigi-lo.",
+      "nl": "Leg het probleem met je salaris uit en zoek uit hoe het opgelost kan worden.",
+      "hr": "Objasni problem s plaćom i saznaj kako ga ispraviti.",
+      "tr": "Maaşınızla ilgili sorunu açıklayın ve nasıl düzeltileceğini öğrenin.",
+      "uk": "Поясни проблему із зарплатою й дізнайся, як її виправити.",
+      "ar": "اشرح مشكلة راتبك واعرف كيف يمكن تصحيحها.",
+      "hi": "अपनी तनख़्वाह की समस्या समझाइए और पता कीजिए कि इसे कैसे ठीक करवाएँ।",
+      "vi": "Giải thích vấn đề với phiếu lương và tìm hiểu cách khắc phục.",
+      "id": "Jelaskan masalah gajimu dan cari tahu cara memperbaikinya.",
+      "ms": "Terangkan masalah dengan gaji anda dan ketahui cara untuk membetulkannya.",
+      "ko": "급여 문제를 설명하고 어떻게 바로잡을 수 있는지 알아보세요."
+    },
+    "practice": "Explique el problema con su pago y averigüe cómo solucionarlo.",
+    "practice_translations": {
+      "en": "Explain the problem with your paycheck and find out how to get it fixed.",
+      "es": "Explique el problema con su pago y averigüe cómo solucionarlo.",
+      "ja": "給与の問題を説明して、どうすれば直してもらえるか聞いてください。",
+      "ko": "급여 문제를 설명하고 어떻게 바로잡을 수 있는지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say how many extra hours you worked",
+        "native_translations": {
+          "en": "Say how many extra hours you worked",
+          "es": "Diga cuántas horas extra trabajó",
+          "fr": "Dites combien d'heures supplémentaires vous avez faites",
+          "de": "Sagen Sie, wie viele Überstunden Sie gemacht haben",
+          "it": "Di' quante ore in più hai lavorato",
+          "pl": "Powiedz, ile nadgodzin przepracowałeś",
+          "pt": "Diga quantas horas extras você trabalhou",
+          "nl": "Zeg hoeveel extra uren je hebt gewerkt",
+          "hr": "Reci koliko si sati radio prekovremeno",
+          "tr": "Kaç saat fazla çalıştığınızı söyleyin",
+          "uk": "Скажи, скільки понаднормових годин ти відпрацював",
+          "ar": "قل كم ساعة إضافية عملت",
+          "hi": "बताइए कि आपने कितने घंटे ज़्यादा काम किया",
+          "vi": "Nói bạn đã làm thêm bao nhiêu giờ",
+          "id": "Sebutkan berapa jam kamu lembur",
+          "ms": "Nyatakan berapa jam tambahan yang anda kerja",
+          "ko": "몇 시간을 더 일했는지 말하세요"
+        },
+        "practice": "Diga cuántas horas extra trabajó",
+        "practice_translations": {
+          "en": "Say how many extra hours you worked",
+          "es": "Diga cuántas horas extra trabajó",
+          "ja": "何時間多く働いたか伝えてください",
+          "ko": "몇 시간을 더 일했는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that your paycheck seems wrong",
+        "native_translations": {
+          "en": "Explain that your paycheck seems wrong",
+          "es": "Explique que su pago parece incorrecto",
+          "fr": "Expliquez que votre fiche de paie semble incorrecte",
+          "de": "Erklären Sie, dass Ihre Gehaltsabrechnung falsch zu sein scheint",
+          "it": "Spiega che la busta paga ti sembra sbagliata",
+          "pl": "Wyjaśnij, że wypłata wydaje się błędna",
+          "pt": "Explique que seu contracheque parece errado",
+          "nl": "Leg uit dat je salaris niet lijkt te kloppen",
+          "hr": "Objasni da ti se plaća čini pogrešnom",
+          "tr": "Maaşınızın yanlış göründüğünü açıklayın",
+          "uk": "Поясни, що з твоєю зарплатою, схоже, щось не так",
+          "ar": "اشرح أن راتبك يبدو خاطئًا",
+          "hi": "बताइए कि आपकी तनख़्वाह ग़लत लग रही है",
+          "vi": "Giải thích rằng phiếu lương có vẻ bị sai",
+          "id": "Jelaskan bahwa gajimu sepertinya salah",
+          "ms": "Terangkan bahawa gaji anda nampak salah",
+          "ko": "급여가 잘못된 것 같다고 설명하세요"
+        },
+        "practice": "Explique que su pago parece incorrecto",
+        "practice_translations": {
+          "en": "Explain that your paycheck seems wrong",
+          "es": "Explique que su pago parece incorrecto",
+          "ja": "給与明細が間違っているようだと説明してください",
+          "ko": "급여가 잘못된 것 같다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how overtime is calculated",
+        "native_translations": {
+          "en": "Ask how overtime is calculated",
+          "es": "Pregunte cómo se calculan las horas extra",
+          "fr": "Demandez comment les heures supplémentaires sont calculées",
+          "de": "Fragen Sie, wie Überstunden berechnet werden",
+          "it": "Chiedi come vengono calcolati gli straordinari",
+          "pl": "Zapytaj, jak liczone są nadgodziny",
+          "pt": "Pergunte como as horas extras são calculadas",
+          "nl": "Vraag hoe overuren worden berekend",
+          "hr": "Pitaj kako se obračunava prekovremeni rad",
+          "tr": "Fazla mesainin nasıl hesaplandığını sorun",
+          "uk": "Запитай, як нараховують понаднормові",
+          "ar": "اسأل كيف يُحسب العمل الإضافي",
+          "hi": "पूछिए कि ओवरटाइम का हिसाब कैसे होता है",
+          "vi": "Hỏi tiền làm thêm giờ được tính thế nào",
+          "id": "Tanyakan bagaimana lembur dihitung",
+          "ms": "Tanya cara kerja lebih masa dikira",
+          "ko": "초과 근무 수당이 어떻게 계산되는지 물어보세요"
+        },
+        "practice": "Pregunte cómo se calculan las horas extra",
+        "practice_translations": {
+          "en": "Ask how overtime is calculated",
+          "es": "Pregunte cómo se calculan las horas extra",
+          "ja": "残業代の計算方法を聞いてください",
+          "ko": "초과 근무 수당이 어떻게 계산되는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask what you need to do to fix it",
+        "native_translations": {
+          "en": "Ask what you need to do to fix it",
+          "es": "Pregunte qué necesita hacer para corregirlo",
+          "fr": "Demandez ce que vous devez faire pour corriger cela",
+          "de": "Fragen Sie, was Sie tun müssen, damit es korrigiert wird",
+          "it": "Chiedi cosa devi fare per risolvere il problema",
+          "pl": "Zapytaj, co musisz zrobić, żeby to naprawić",
+          "pt": "Pergunte o que você precisa fazer para corrigir",
+          "nl": "Vraag wat je moet doen om het te laten corrigeren",
+          "hr": "Pitaj što trebaš učiniti da se to ispravi",
+          "tr": "Bunu düzeltmek için ne yapmanız gerektiğini sorun",
+          "uk": "Запитай, що потрібно зробити, щоб це виправити",
+          "ar": "اسأل ما الذي عليك فعله لتصحيحه",
+          "hi": "पूछिए कि इसे ठीक करवाने के लिए आपको क्या करना होगा",
+          "vi": "Hỏi bạn cần làm gì để được điều chỉnh",
+          "id": "Tanyakan apa yang harus kamu lakukan untuk memperbaikinya",
+          "ms": "Tanya apa yang perlu anda lakukan untuk membetulkannya",
+          "ko": "바로잡으려면 무엇을 해야 하는지 물어보세요"
+        },
+        "practice": "Pregunte qué necesita hacer para corregirlo",
+        "practice_translations": {
+          "en": "Ask what you need to do to fix it",
+          "es": "Pregunte qué necesita hacer para corregirlo",
+          "ja": "直すために何をすればいいか聞いてください",
+          "ko": "바로잡으려면 무엇을 해야 하는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Last week I worked eight hours of overtime.",
+      "native_translations": {
+        "en": "Last week I worked eight hours of overtime.",
+        "es": "La semana pasada trabajé ocho horas extra.",
+        "fr": "La semaine dernière, j'ai fait huit heures supplémentaires.",
+        "de": "Letzte Woche habe ich acht Überstunden gemacht.",
+        "it": "La settimana scorsa ho fatto otto ore di straordinario.",
+        "pl": "W zeszłym tygodniu przepracowałem osiem nadgodzin.",
+        "pt": "Na semana passada, fiz oito horas extras.",
+        "nl": "Vorige week heb ik acht uur overgewerkt.",
+        "hr": "Prošli tjedan imao sam osam sati prekovremenog rada.",
+        "tr": "Geçen hafta sekiz saat fazla mesai yaptım.",
+        "uk": "Минулого тижня я відпрацював вісім понаднормових годин.",
+        "ar": "عملت الأسبوع الماضي ثماني ساعات إضافية.",
+        "hi": "पिछले हफ़्ते मैंने आठ घंटे ओवरटाइम किया।",
+        "vi": "Tuần trước tôi làm thêm tám tiếng.",
+        "id": "Minggu lalu saya lembur delapan jam.",
+        "ms": "Minggu lepas saya bekerja lebih masa selama lapan jam.",
+        "ko": "지난주에 초과 근무를 8시간 했어요."
+      },
+      "practice": "La semana pasada trabajé ocho horas extra.",
+      "practice_translations": {
+        "en": "Last week I worked eight hours of overtime.",
+        "es": "La semana pasada trabajé ocho horas extra.",
+        "ja": "先週、8時間残業しました。",
+        "ko": "지난주에 초과 근무를 8시간 했어요."
+      }
+    },
+    {
+      "native": "My paycheck is the same as a normal week.",
+      "native_translations": {
+        "en": "My paycheck is the same as a normal week.",
+        "es": "Mi pago es igual al de una semana normal.",
+        "fr": "Ma paie est la même que pour une semaine normale.",
+        "de": "Meine Abrechnung ist genauso wie in einer normalen Woche.",
+        "it": "La mia busta paga è uguale a quella di una settimana normale.",
+        "pl": "Moja wypłata jest taka sama jak za zwykły tydzień.",
+        "pt": "Meu contracheque está igual ao de uma semana normal.",
+        "nl": "Mijn salaris is hetzelfde als in een normale week.",
+        "hr": "Plaća mi je ista kao za običan tjedan.",
+        "tr": "Maaşım normal bir haftayla aynı.",
+        "uk": "Моя зарплата така сама, як за звичайний тиждень.",
+        "ar": "راتبي مثل راتب أي أسبوع عادي.",
+        "hi": "मेरी तनख़्वाह एक आम हफ़्ते जितनी ही है।",
+        "vi": "Phiếu lương của tôi vẫn giống như một tuần bình thường.",
+        "id": "Gaji saya sama seperti minggu biasa.",
+        "ms": "Gaji saya sama seperti minggu biasa.",
+        "ko": "급여가 평소 주와 똑같아요."
+      },
+      "practice": "Mi pago es igual al de una semana normal.",
+      "practice_translations": {
+        "en": "My paycheck is the same as a normal week.",
+        "es": "Mi pago es igual al de una semana normal.",
+        "ja": "給与が普段の週と同じなんです。",
+        "ko": "급여가 평소 주와 똑같아요."
+      }
+    },
+    {
+      "native": "Could you explain how overtime is calculated here?",
+      "native_translations": {
+        "en": "Could you explain how overtime is calculated here?",
+        "es": "¿Me podría explicar cómo se calculan aquí las horas extra?",
+        "fr": "Pourriez-vous m'expliquer comment les heures supplémentaires sont calculées ici ?",
+        "de": "Könnten Sie mir erklären, wie Überstunden hier berechnet werden?",
+        "it": "Potrebbe spiegarmi come vengono calcolati gli straordinari qui?",
+        "pl": "Czy mógłby pan wyjaśnić, jak tu się liczy nadgodziny?",
+        "pt": "Você poderia me explicar como as horas extras são calculadas aqui?",
+        "nl": "Kunt u uitleggen hoe overuren hier worden berekend?",
+        "hr": "Možete li mi objasniti kako se ovdje obračunava prekovremeni rad?",
+        "tr": "Burada fazla mesainin nasıl hesaplandığını açıklayabilir misiniz?",
+        "uk": "Чи могли б ви пояснити, як тут нараховують понаднормові?",
+        "ar": "هل يمكنك أن تشرح لي كيف يُحسب العمل الإضافي هنا؟",
+        "hi": "क्या आप समझा सकते हैं कि यहाँ ओवरटाइम का हिसाब कैसे होता है?",
+        "vi": "Anh/chị giải thích giúp tôi ở đây tiền làm thêm giờ được tính thế nào không?",
+        "id": "Bisa jelaskan bagaimana lembur dihitung di sini?",
+        "ms": "Boleh terangkan bagaimana kerja lebih masa dikira di sini?",
+        "ko": "여기서는 초과 근무 수당을 어떻게 계산하는지 설명해 주실 수 있나요?"
+      },
+      "practice": "¿Me podría explicar cómo se calculan aquí las horas extra?",
+      "practice_translations": {
+        "en": "Could you explain how overtime is calculated here?",
+        "es": "¿Me podría explicar cómo se calculan aquí las horas extra?",
+        "ja": "こちらでは残業代をどのように計算しているか教えていただけますか。",
+        "ko": "여기서는 초과 근무 수당을 어떻게 계산하는지 설명해 주실 수 있나요?"
+      }
+    },
+    {
+      "native": "My supervisor approved those hours.",
+      "native_translations": {
+        "en": "My supervisor approved those hours.",
+        "es": "Mi supervisor aprobó esas horas.",
+        "fr": "Mon supérieur a validé ces heures.",
+        "de": "Mein Vorgesetzter hat diese Stunden genehmigt.",
+        "it": "Il mio supervisore ha approvato quelle ore.",
+        "pl": "Mój przełożony zatwierdził te godziny.",
+        "pt": "Meu supervisor aprovou essas horas.",
+        "nl": "Mijn leidinggevende heeft die uren goedgekeurd.",
+        "hr": "Moj nadređeni odobrio je te sate.",
+        "tr": "O saatleri amirim onayladı.",
+        "uk": "Мій керівник затвердив ці години.",
+        "ar": "وافق مشرفي على تلك الساعات.",
+        "hi": "मेरे सुपरवाइज़र ने वे घंटे मंज़ूर किए थे।",
+        "vi": "Cấp trên của tôi đã duyệt số giờ đó rồi.",
+        "id": "Atasan saya sudah menyetujui jam-jam itu.",
+        "ms": "Penyelia saya sudah meluluskan jam-jam itu.",
+        "ko": "그 시간은 상사가 승인해 주셨어요."
+      },
+      "practice": "Mi supervisor aprobó esas horas.",
+      "practice_translations": {
+        "en": "My supervisor approved those hours.",
+        "es": "Mi supervisor aprobó esas horas.",
+        "ja": "その時間は上司に承認してもらっています。",
+        "ko": "그 시간은 상사가 승인해 주셨어요."
+      }
+    },
+    {
+      "native": "Is there a form I need to fill out?",
+      "native_translations": {
+        "en": "Is there a form I need to fill out?",
+        "es": "¿Hay algún formulario que tenga que llenar?",
+        "fr": "Y a-t-il un formulaire à remplir ?",
+        "de": "Gibt es ein Formular, das ich ausfüllen muss?",
+        "it": "C'è un modulo che devo compilare?",
+        "pl": "Czy muszę wypełnić jakiś formularz?",
+        "pt": "Tem algum formulário que eu preciso preencher?",
+        "nl": "Moet ik een formulier invullen?",
+        "hr": "Trebam li ispuniti neki obrazac?",
+        "tr": "Doldurmam gereken bir form var mı?",
+        "uk": "Чи треба заповнити якусь форму?",
+        "ar": "هل هناك استمارة عليّ ملؤها؟",
+        "hi": "क्या मुझे कोई फ़ॉर्म भरना होगा?",
+        "vi": "Tôi có cần điền mẫu đơn nào không?",
+        "id": "Apakah ada formulir yang perlu saya isi?",
+        "ms": "Adakah borang yang perlu saya isi?",
+        "ko": "작성해야 하는 서류가 있나요?"
+      },
+      "practice": "¿Hay algún formulario que tenga que llenar?",
+      "practice_translations": {
+        "en": "Is there a form I need to fill out?",
+        "es": "¿Hay algún formulario que tenga que llenar?",
+        "ja": "記入が必要な用紙はありますか。",
+        "ko": "작성해야 하는 서류가 있나요?"
+      }
+    }
+  ]
+}

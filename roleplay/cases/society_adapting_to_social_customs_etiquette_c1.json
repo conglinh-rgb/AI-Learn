@@ -1,0 +1,289 @@
+{
+  "id": "society_adapting_to_social_customs_etiquette_c1",
+  "title": "Dinner at a Neighbor's Home",
+  "title_translations": {
+    "en": "Dinner at a Neighbor's Home",
+    "es": "Una cena en la casa de al lado",
+    "fr": "Dîner chez un voisin",
+    "de": "Abendessen bei den Nachbarn",
+    "it": "Cena a casa di un vicino",
+    "pl": "Kolacja u sąsiadów",
+    "pt": "Jantar na casa de um vizinho",
+    "nl": "Eten bij de buren",
+    "hr": "Večera kod susjeda",
+    "tr": "Komşuda Akşam Yemeği",
+    "uk": "Вечеря в сусіда",
+    "ar": "عشاء في منزل الجار",
+    "hi": "पड़ोसी के घर डिनर",
+    "vi": "Ăn tối ở nhà hàng xóm",
+    "id": "Makan Malam di Rumah Tetangga",
+    "ms": "Makan Malam di Rumah Jiran",
+    "ko": "이웃집 저녁 초대"
+  },
+  "character": "fox",
+  "scenario": "Your new neighbor (AI) has invited you to dinner. You arrive at the door with a small gift in your hands.",
+  "scenario_translations": {
+    "en": "Your new neighbor (AI) has invited you to dinner. You arrive at the door with a small gift in your hands.",
+    "es": "Su nuevo vecino (AI) le hizo una invitación a cenar. Llega a la puerta con un pequeño regalo en las manos.",
+    "fr": "Votre nouveau voisin (AI) vous a invité à dîner. Vous arrivez à sa porte avec un petit cadeau à la main.",
+    "de": "Ihr neuer Nachbar (AI) hat Sie zum Abendessen eingeladen. Sie stehen mit einem kleinen Geschenk in der Hand vor der Tür.",
+    "it": "Il tuo nuovo vicino (AI) ti ha invitato a cena. Arrivi alla porta con un piccolo regalo in mano.",
+    "pl": "Twoja nowa sąsiadka (AI) zaprosiła cię na kolację. Stajesz w drzwiach z małym prezentem w rękach.",
+    "pt": "Seu novo vizinho (AI) convidou você para jantar. Você chega à porta com um presentinho nas mãos.",
+    "nl": "Je nieuwe buurvrouw (AI) heeft je uitgenodigd voor het eten. Je staat voor de deur met een klein cadeautje in je handen.",
+    "hr": "Tvoj novi susjed (AI) pozvao te na večeru. Stojiš pred vratima s malim poklonom u rukama.",
+    "tr": "Yeni komşunuz (AI) sizi akşam yemeğine davet etti. Elinizde küçük bir hediyeyle kapıya geliyorsunuz.",
+    "uk": "Твій новий сусід (AI) запросив тебе на вечерю. Ти стоїш біля дверей із невеликим подарунком у руках.",
+    "ar": "دعاك جارك الجديد (AI) إلى العشاء. تصل إلى الباب وفي يديك هدية صغيرة.",
+    "hi": "आपके नए पड़ोसी (AI) ने आपको डिनर पर बुलाया है। आप हाथ में एक छोटा-सा तोहफ़ा लेकर दरवाज़े पर पहुँचते हैं।",
+    "vi": "Người hàng xóm mới (AI) mời bạn đến ăn tối. Bạn đến trước cửa, tay cầm một món quà nhỏ.",
+    "id": "Tetangga barumu (AI) mengundangmu makan malam. Kamu tiba di depan pintu sambil membawa hadiah kecil.",
+    "ms": "Jiran baharu anda (AI) menjemput anda makan malam. Anda tiba di pintu dengan hadiah kecil di tangan.",
+    "ko": "새 이웃(AI)이 저녁 식사에 초대했습니다. 당신은 작은 선물을 손에 들고 현관에 도착합니다."
+  },
+  "mission": {
+    "native": "Greet your host, offer your gift and say something nice about the home.",
+    "native_translations": {
+      "en": "Greet your host, offer your gift and say something nice about the home.",
+      "es": "Salude a su anfitrión, ofrezca su regalo y diga algo amable sobre la casa.",
+      "fr": "Saluez votre hôte, offrez votre cadeau et dites quelque chose d'agréable sur son logement.",
+      "de": "Begrüßen Sie Ihren Gastgeber, überreichen Sie Ihr Geschenk und sagen Sie etwas Nettes über die Wohnung.",
+      "it": "Saluta chi ti ospita, offri il tuo regalo e di' qualcosa di carino sulla casa.",
+      "pl": "Przywitaj gospodynię, wręcz prezent i powiedz coś miłego o domu.",
+      "pt": "Cumprimente o anfitrião, entregue o presente e elogie a casa.",
+      "nl": "Begroet je gastvrouw, geef je cadeautje en zeg iets aardigs over het huis.",
+      "hr": "Pozdravi domaćina, daj mu poklon i reci nešto lijepo o domu.",
+      "tr": "Ev sahibini selamlayın, hediyenizi verin ve ev hakkında güzel bir şey söyleyin.",
+      "uk": "Привітайся з господарем, вручи подарунок і скажи щось приємне про дім.",
+      "ar": "حيِّ مضيفك وقدّم هديتك وقل شيئًا لطيفًا عن المنزل.",
+      "hi": "मेज़बान का अभिवादन कीजिए, अपना तोहफ़ा दीजिए और घर के बारे में कुछ अच्छा कहिए।",
+      "vi": "Chào chủ nhà, tặng quà và khen ngôi nhà một câu.",
+      "id": "Sapa tuan rumah, berikan hadiahmu, dan puji rumahnya.",
+      "ms": "Sapa tuan rumah, berikan hadiah anda dan puji rumahnya.",
+      "ko": "집주인에게 인사하고, 선물을 건네고, 집에 대해 칭찬 한마디를 하세요."
+    },
+    "practice": "Salude a su anfitrión, ofrezca su regalo y diga algo amable sobre la casa.",
+    "practice_translations": {
+      "en": "Greet your host, offer your gift and say something nice about the home.",
+      "es": "Salude a su anfitrión, ofrezca su regalo y diga algo amable sobre la casa.",
+      "ja": "招いてくれた人にあいさつし、手土産を渡して、家をほめてください。",
+      "ko": "집주인에게 인사하고, 선물을 건네고, 집에 대해 칭찬 한마디를 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Greet your host and thank them",
+        "native_translations": {
+          "en": "Greet your host and thank them",
+          "es": "Salude a su anfitrión y agradézcale",
+          "fr": "Saluez votre hôte et remerciez-le",
+          "de": "Begrüßen Sie Ihren Gastgeber und bedanken Sie sich",
+          "it": "Saluta chi ti ospita e ringrazia",
+          "pl": "Przywitaj gospodynię i podziękuj jej",
+          "pt": "Cumprimente o anfitrião e agradeça",
+          "nl": "Begroet je gastvrouw en bedank haar",
+          "hr": "Pozdravi domaćina i zahvali mu",
+          "tr": "Ev sahibini selamlayın ve teşekkür edin",
+          "uk": "Привітайся з господарем і подякуй йому",
+          "ar": "حيِّ مضيفك واشكره",
+          "hi": "मेज़बान का अभिवादन कीजिए और उन्हें धन्यवाद दीजिए",
+          "vi": "Chào và cảm ơn chủ nhà",
+          "id": "Sapa tuan rumah dan ucapkan terima kasih",
+          "ms": "Sapa tuan rumah dan ucapkan terima kasih",
+          "ko": "집주인에게 인사하고 감사하다고 말하세요"
+        },
+        "practice": "Salude a su anfitrión y agradézcale",
+        "practice_translations": {
+          "en": "Greet your host and thank them",
+          "es": "Salude a su anfitrión y agradézcale",
+          "ja": "招いてくれた人にあいさつしてお礼を言ってください",
+          "ko": "집주인에게 인사하고 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Offer the gift you brought",
+        "native_translations": {
+          "en": "Offer the gift you brought",
+          "es": "Ofrezca el regalo que trajo",
+          "fr": "Offrez le cadeau que vous avez apporté",
+          "de": "Überreichen Sie das mitgebrachte Geschenk",
+          "it": "Offri il regalo che hai portato",
+          "pl": "Wręcz przyniesiony prezent",
+          "pt": "Entregue o presente que você trouxe",
+          "nl": "Geef het cadeautje dat je hebt meegenomen",
+          "hr": "Uruči svoj poklon",
+          "tr": "Getirdiğiniz hediyeyi verin",
+          "uk": "Вручи подарунок, який приніс",
+          "ar": "قدّم الهدية التي أحضرتها",
+          "hi": "जो तोहफ़ा आप लाए हैं, वह दीजिए",
+          "vi": "Tặng món quà bạn mang theo",
+          "id": "Berikan hadiah yang kamu bawa",
+          "ms": "Berikan hadiah yang anda bawa",
+          "ko": "가져온 선물을 건네세요"
+        },
+        "practice": "Ofrezca el regalo que trajo",
+        "practice_translations": {
+          "en": "Offer the gift you brought",
+          "es": "Ofrezca el regalo que trajo",
+          "ja": "持ってきた手土産を渡してください",
+          "ko": "가져온 선물을 건네세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Compliment the home or the food",
+        "native_translations": {
+          "en": "Compliment the home or the food",
+          "es": "Elogie la casa o la comida",
+          "fr": "Complimentez le logement ou le repas",
+          "de": "Machen Sie ein Kompliment zur Wohnung oder zum Essen",
+          "it": "Fai un complimento alla casa o al cibo",
+          "pl": "Pochwal dom albo jedzenie",
+          "pt": "Elogie a casa ou a comida",
+          "nl": "Geef een compliment over het huis of het eten",
+          "hr": "Pohvali dom ili hranu",
+          "tr": "Evi veya yemeği övün",
+          "uk": "Зроби комплімент дому чи їжі",
+          "ar": "امدح المنزل أو الطعام",
+          "hi": "घर या खाने की तारीफ़ कीजिए",
+          "vi": "Khen ngôi nhà hoặc món ăn",
+          "id": "Puji rumah atau makanannya",
+          "ms": "Puji rumah atau makanannya",
+          "ko": "집이나 음식을 칭찬하세요"
+        },
+        "practice": "Elogie la casa o la comida",
+        "practice_translations": {
+          "en": "Compliment the home or the food",
+          "es": "Elogie la casa o la comida",
+          "ja": "家か料理をほめてください",
+          "ko": "집이나 음식을 칭찬하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you so much for inviting me.",
+      "native_translations": {
+        "en": "Thank you so much for inviting me.",
+        "es": "Muchas gracias por invitarme.",
+        "fr": "Merci beaucoup de m'avoir invité.",
+        "de": "Vielen Dank für die Einladung.",
+        "it": "Grazie mille per l'invito.",
+        "pl": "Bardzo dziękuję za zaproszenie.",
+        "pt": "Muito obrigado pelo convite.",
+        "nl": "Heel erg bedankt voor de uitnodiging.",
+        "hr": "Puno Vam hvala na pozivu.",
+        "tr": "Beni davet ettiğiniz için çok teşekkür ederim.",
+        "uk": "Щиро дякую за запрошення.",
+        "ar": "شكرًا جزيلًا على دعوتك لي.",
+        "hi": "मुझे बुलाने के लिए आपका बहुत-बहुत धन्यवाद।",
+        "vi": "Cảm ơn anh/chị rất nhiều vì đã mời tôi.",
+        "id": "Terima kasih banyak sudah mengundang saya.",
+        "ms": "Terima kasih banyak kerana menjemput saya.",
+        "ko": "초대해 주셔서 정말 감사해요."
+      },
+      "practice": "Muchas gracias por invitarme.",
+      "practice_translations": {
+        "en": "Thank you so much for inviting me.",
+        "es": "Muchas gracias por invitarme.",
+        "ja": "お招きいただき、本当にありがとうございます。",
+        "ko": "초대해 주셔서 정말 감사해요."
+      }
+    },
+    {
+      "native": "I brought you a little something.",
+      "native_translations": {
+        "en": "I brought you a little something.",
+        "es": "Le traje un pequeño detalle.",
+        "fr": "Je vous ai apporté un petit quelque chose.",
+        "de": "Ich habe Ihnen eine Kleinigkeit mitgebracht.",
+        "it": "Ti ho portato un pensierino.",
+        "pl": "Przyniosłem pani drobny upominek.",
+        "pt": "Trouxe uma lembrancinha para você.",
+        "nl": "Ik heb een kleinigheidje voor je meegenomen.",
+        "hr": "Evo, nešto sitno za Vas.",
+        "tr": "Size küçük bir şey getirdim.",
+        "uk": "Я приніс вам невеличкий подарунок.",
+        "ar": "أحضرت لك شيئًا بسيطًا.",
+        "hi": "मैं आपके लिए एक छोटी-सी चीज़ लाया हूँ।",
+        "vi": "Tôi có chút quà nhỏ tặng anh/chị.",
+        "id": "Saya bawakan sedikit oleh-oleh untuk Anda.",
+        "ms": "Saya bawakan sedikit buah tangan untuk anda.",
+        "ko": "작은 선물 하나 가져왔어요."
+      },
+      "practice": "Le traje un pequeño detalle.",
+      "practice_translations": {
+        "en": "I brought you a little something.",
+        "es": "Le traje un pequeño detalle.",
+        "ja": "ささやかですが、どうぞ。",
+        "ko": "작은 선물 하나 가져왔어요."
+      }
+    },
+    {
+      "native": "What a lovely home you have!",
+      "native_translations": {
+        "en": "What a lovely home you have!",
+        "es": "¡Qué casa tan bonita tiene!",
+        "fr": "Qu'est-ce que vous avez un bel intérieur !",
+        "de": "Sie haben aber eine schöne Wohnung!",
+        "it": "Che bella casa che hai!",
+        "pl": "Jaki piękny dom!",
+        "pt": "Que casa linda você tem!",
+        "nl": "Wat een prachtig huis heb je!",
+        "hr": "Kako lijep dom imate!",
+        "tr": "Ne kadar güzel bir eviniz var!",
+        "uk": "Який у вас чудовий дім!",
+        "ar": "ما أجمل منزلك!",
+        "hi": "आपका घर कितना सुंदर है!",
+        "vi": "Nhà anh/chị đẹp quá!",
+        "id": "Rumah Anda indah sekali!",
+        "ms": "Cantiknya rumah anda!",
+        "ko": "집이 정말 예쁘네요!"
+      },
+      "practice": "¡Qué casa tan bonita tiene!",
+      "practice_translations": {
+        "en": "What a lovely home you have!",
+        "es": "¡Qué casa tan bonita tiene!",
+        "ja": "素敵なお宅ですね！",
+        "ko": "집이 정말 예쁘네요!"
+      }
+    },
+    {
+      "native": "Should I take off my shoes?",
+      "native_translations": {
+        "en": "Should I take off my shoes?",
+        "es": "¿Me quito los zapatos?",
+        "fr": "Est-ce que je dois enlever mes chaussures ?",
+        "de": "Soll ich meine Schuhe ausziehen?",
+        "it": "Devo togliermi le scarpe?",
+        "pl": "Czy mam zdjąć buty?",
+        "pt": "Devo tirar os sapatos?",
+        "nl": "Moet ik mijn schoenen uitdoen?",
+        "hr": "Trebam li izuti cipele?",
+        "tr": "Ayakkabılarımı çıkarayım mı?",
+        "uk": "Мені зняти взуття?",
+        "ar": "هل يجب أن أخلع حذائي؟",
+        "hi": "क्या मुझे जूते उतार देने चाहिए?",
+        "vi": "Tôi có cần cởi giày không?",
+        "id": "Apakah saya perlu melepas sepatu?",
+        "ms": "Perlukah saya tanggalkan kasut?",
+        "ko": "신발을 벗어야 하나요?"
+      },
+      "practice": "¿Me quito los zapatos?",
+      "practice_translations": {
+        "en": "Should I take off my shoes?",
+        "es": "¿Me quito los zapatos?",
+        "ja": "靴は脱いだほうがいいですか。",
+        "ko": "신발을 벗어야 하나요?"
+      }
+    }
+  ]
+}

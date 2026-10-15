@@ -1,0 +1,289 @@
+{
+  "id": "daily_life_social_drama_at_the_dog_park_c1",
+  "title": "Whose Dog Took My Ball?",
+  "title_translations": {
+    "en": "Whose Dog Took My Ball?",
+    "es": "¿De quién es el perro que se llevó la pelota?",
+    "fr": "Quel chien a pris ma balle ?",
+    "de": "Wessen Hund hat meinen Ball?",
+    "it": "Di chi è il cane che mi ha preso la palla?",
+    "pl": "Czyj pies zabrał moją piłkę?",
+    "pt": "De quem é o cachorro que pegou minha bola?",
+    "nl": "Welke hond heeft mijn bal gepakt?",
+    "hr": "Čiji mi je pas uzeo lopticu?",
+    "tr": "Topumu Kimin Köpeği Aldı?",
+    "uk": "Чий пес забрав мій м'ячик?",
+    "ar": "أي كلب أخذ كرتي؟",
+    "hi": "मेरी बॉल किसके कुत्ते ने ली?",
+    "vi": "Chó nhà ai lấy mất bóng của tôi?",
+    "id": "Anjing Siapa yang Mengambil Bolaku?",
+    "ms": "Anjing Siapa Ambil Bola Saya?",
+    "ko": "누구네 개가 내 공을 가져갔지?"
+  },
+  "character": "fox",
+  "scenario": "At the dog park, another dog runs off with your dog's favorite ball. Its owner (AI) is standing nearby, looking at their phone.",
+  "scenario_translations": {
+    "en": "At the dog park, another dog runs off with your dog's favorite ball. Its owner (AI) is standing nearby, looking at their phone.",
+    "es": "En el parque para perros, otro perro sale corriendo con la pelota favorita de su perro. Su dueño o dueña (AI) está cerca, mirando el celular.",
+    "fr": "Au parc à chiens, un autre chien s'enfuit avec la balle préférée de votre chien. Son maître (AI) se tient tout près, les yeux rivés sur son téléphone.",
+    "de": "Im Hundepark läuft ein anderer Hund mit dem Lieblingsball Ihres Hundes davon. Die Halterin bzw. der Halter (AI) steht in der Nähe und schaut aufs Handy.",
+    "it": "Al parco per cani, un altro cane scappa con la palla preferita del tuo cane. Il suo padrone (AI) è lì vicino e guarda il telefono.",
+    "pl": "Na wybiegu dla psów inny pies ucieka z ulubioną piłką twojego psa. Jego właścicielka (AI) stoi obok i patrzy w telefon.",
+    "pt": "No parque de cachorros, outro cachorro sai correndo com a bola favorita do seu cachorro. O tutor (AI) está ali perto, olhando o celular.",
+    "nl": "In het hondenlosloopgebied rent een andere hond weg met de favoriete bal van jouw hond. De eigenaar (AI) staat vlakbij op zijn telefoon te kijken.",
+    "hr": "U parku za pse drugi pas pobjegne s omiljenom lopticom tvog psa. Njegov vlasnik (AI) stoji u blizini i gleda u mobitel.",
+    "tr": "Köpek parkında başka bir köpek, köpeğinizin en sevdiği topu kapıp kaçıyor. Sahibi (AI) yakında durmuş, telefonuna bakıyor.",
+    "uk": "На собачому майданчику інший пес тікає з улюбленим м'ячиком твого собаки. Його власник (AI) стоїть поруч і дивиться в телефон.",
+    "ar": "في حديقة الكلاب، يهرب كلب آخر بكرة كلبك المفضلة. صاحبه (AI) يقف قريبًا وينظر إلى هاتفه.",
+    "hi": "डॉग पार्क में एक दूसरा कुत्ता आपके कुत्ते की पसंदीदा बॉल लेकर भाग जाता है। उसका मालिक (AI) पास में खड़ा अपना फ़ोन देख रहा है।",
+    "vi": "Ở công viên chó, một con chó khác chạy mất với quả bóng yêu thích của chó nhà bạn. Chủ của nó (AI) đang đứng gần đó, mải nhìn điện thoại.",
+    "id": "Di taman anjing, seekor anjing lain kabur membawa bola kesayangan anjingmu. Pemiliknya (AI) berdiri di dekat situ sambil melihat ponselnya.",
+    "ms": "Di taman anjing, seekor anjing lain lari membawa bola kegemaran anjing anda. Tuannya (AI) berdiri berdekatan sambil melihat telefon.",
+    "ko": "반려견 공원에서 다른 개가 당신 개가 제일 좋아하는 공을 물고 달아났어요. 그 개의 주인(AI)은 근처에 서서 휴대폰을 보고 있어요."
+  },
+  "mission": {
+    "native": "Politely get the ball back with the help of the other dog's owner.",
+    "native_translations": {
+      "en": "Politely get the ball back with the help of the other dog's owner.",
+      "es": "Recupere la pelota con cortesía con ayuda del dueño del otro perro.",
+      "fr": "Récupérez poliment la balle avec l'aide du maître de l'autre chien.",
+      "de": "Holen Sie sich den Ball höflich mit Hilfe der Person zurück, der der andere Hund gehört.",
+      "it": "Riprenditi la palla con gentilezza, con l'aiuto del padrone dell'altro cane.",
+      "pl": "Grzecznie odzyskaj piłkę z pomocą właścicielki drugiego psa.",
+      "pt": "Recupere a bola com educação, com a ajuda do tutor do outro cachorro.",
+      "nl": "Krijg de bal beleefd terug met hulp van de eigenaar van de andere hond.",
+      "hr": "Pristojno vrati lopticu uz pomoć vlasnika drugog psa.",
+      "tr": "Diğer köpeğin sahibinin yardımıyla topu kibarca geri alın.",
+      "uk": "Ввічливо поверни м'ячик за допомогою власника іншого пса.",
+      "ar": "استعد الكرة بأدب بمساعدة صاحب الكلب الآخر.",
+      "hi": "दूसरे कुत्ते के मालिक की मदद से विनम्रता से बॉल वापस लीजिए।",
+      "vi": "Lịch sự lấy lại quả bóng với sự giúp đỡ của chủ con chó kia.",
+      "id": "Dapatkan kembali bolanya dengan sopan dengan bantuan pemilik anjing itu.",
+      "ms": "Dapatkan semula bola itu dengan sopan dengan bantuan tuan anjing tersebut.",
+      "ko": "상대 개 주인의 도움을 받아 정중하게 공을 돌려받으세요."
+    },
+    "practice": "Recupere la pelota con cortesía con ayuda del dueño del otro perro.",
+    "practice_translations": {
+      "en": "Politely get the ball back with the help of the other dog's owner.",
+      "es": "Recupere la pelota con cortesía con ayuda del dueño del otro perro.",
+      "ja": "相手の犬の飼い主に手伝ってもらって、丁寧にボールを取り戻してください。",
+      "ko": "상대 개 주인의 도움을 받아 정중하게 공을 돌려받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Greet the other dog owner",
+        "native_translations": {
+          "en": "Greet the other dog owner",
+          "es": "Salude al dueño del otro perro",
+          "fr": "Saluez le maître de l'autre chien",
+          "de": "Begrüßen Sie die Person mit dem anderen Hund",
+          "it": "Saluta il padrone dell'altro cane",
+          "pl": "Przywitaj się z właścicielką drugiego psa",
+          "pt": "Cumprimente o tutor do outro cachorro",
+          "nl": "Begroet de eigenaar van de andere hond",
+          "hr": "Pozdravi vlasnika drugog psa",
+          "tr": "Diğer köpeğin sahibini selamlayın",
+          "uk": "Привітайся з власником іншого пса",
+          "ar": "حيِّ صاحب الكلب الآخر",
+          "hi": "दूसरे कुत्ते के मालिक का अभिवादन कीजिए",
+          "vi": "Chào chủ của con chó kia",
+          "id": "Sapa pemilik anjing itu",
+          "ms": "Tegur tuan anjing yang satu lagi",
+          "ko": "상대 개 주인에게 인사하세요"
+        },
+        "practice": "Salude al dueño del otro perro",
+        "practice_translations": {
+          "en": "Greet the other dog owner",
+          "es": "Salude al dueño del otro perro",
+          "ja": "相手の犬の飼い主にあいさつしてください",
+          "ko": "상대 개 주인에게 인사하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that their dog took your dog's ball",
+        "native_translations": {
+          "en": "Explain that their dog took your dog's ball",
+          "es": "Explique que su perro se llevó la pelota de su perro",
+          "fr": "Expliquez que son chien a pris la balle du vôtre",
+          "de": "Erklären Sie, dass deren Hund den Ball Ihres Hundes genommen hat",
+          "it": "Spiega che il suo cane ha preso la palla del tuo",
+          "pl": "Wyjaśnij, że jej pies zabrał piłkę twojego psa",
+          "pt": "Explique que o cachorro dele pegou a bola do seu",
+          "nl": "Leg uit dat zijn hond de bal van jouw hond heeft gepakt",
+          "hr": "Objasni da je njegov pas uzeo lopticu tvog psa",
+          "tr": "Onun köpeğinin sizin köpeğinizin topunu aldığını açıklayın",
+          "uk": "Поясни, що його пес забрав м'ячик твого собаки",
+          "ar": "اشرح أن كلبه أخذ كرة كلبك",
+          "hi": "बताइए कि उनके कुत्ते ने आपके कुत्ते की बॉल ले ली है",
+          "vi": "Giải thích rằng chó của họ đã lấy bóng của chó nhà bạn",
+          "id": "Jelaskan bahwa anjingnya mengambil bola anjingmu",
+          "ms": "Terangkan bahawa anjingnya mengambil bola anjing anda",
+          "ko": "그 사람의 개가 당신 개의 공을 가져갔다고 설명하세요"
+        },
+        "practice": "Explique que su perro se llevó la pelota de su perro",
+        "practice_translations": {
+          "en": "Explain that their dog took your dog's ball",
+          "es": "Explique que su perro se llevó la pelota de su perro",
+          "ja": "相手の犬があなたの犬のボールを取ったと説明してください",
+          "ko": "그 사람의 개가 당신 개의 공을 가져갔다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the owner to help get the ball back",
+        "native_translations": {
+          "en": "Ask the owner to help get the ball back",
+          "es": "Pida al dueño que ayude a recuperar la pelota",
+          "fr": "Demandez au maître de vous aider à récupérer la balle",
+          "de": "Bitten Sie um Hilfe, den Ball zurückzubekommen",
+          "it": "Chiedi al padrone di aiutarti a riprendere la palla",
+          "pl": "Poproś właścicielkę o pomoc w odzyskaniu piłki",
+          "pt": "Peça ao tutor que ajude a recuperar a bola",
+          "nl": "Vraag de eigenaar te helpen de bal terug te krijgen",
+          "hr": "Zamoli vlasnika da pomogne vratiti lopticu",
+          "tr": "Sahibinden topu geri almanıza yardım etmesini isteyin",
+          "uk": "Попроси власника допомогти повернути м'ячик",
+          "ar": "اطلب من صاحب الكلب المساعدة في استعادة الكرة",
+          "hi": "मालिक से बॉल वापस दिलाने में मदद माँगिए",
+          "vi": "Nhờ người chủ giúp lấy lại quả bóng",
+          "id": "Minta pemiliknya membantu mengambil bola itu kembali",
+          "ms": "Minta tuan anjing itu membantu mendapatkan semula bola",
+          "ko": "공을 되찾도록 도와 달라고 부탁하세요"
+        },
+        "practice": "Pida al dueño que ayude a recuperar la pelota",
+        "practice_translations": {
+          "en": "Ask the owner to help get the ball back",
+          "es": "Pida al dueño que ayude a recuperar la pelota",
+          "ja": "ボールを取り戻すのを手伝ってもらうよう頼んでください",
+          "ko": "공을 되찾도록 도와 달라고 부탁하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi! Is that your dog over there?",
+      "native_translations": {
+        "en": "Hi! Is that your dog over there?",
+        "es": "¡Hola! ¿Ese perro de allá es suyo?",
+        "fr": "Bonjour ! C'est votre chien, là-bas ?",
+        "de": "Hallo! Ist das Ihr Hund da drüben?",
+        "it": "Ciao! È tuo quel cane laggiù?",
+        "pl": "Dzień dobry! Czy to pani pies tam?",
+        "pt": "Oi! Aquele ali é o seu cachorro?",
+        "nl": "Hoi! Is dat jouw hond daar?",
+        "hr": "Dobar dan! Je li ono tamo Vaš pas?",
+        "tr": "Merhaba! Şuradaki köpek sizin mi?",
+        "uk": "Привіт! Он той пес — ваш?",
+        "ar": "مرحبًا! هل هذا كلبك هناك؟",
+        "hi": "नमस्ते! क्या वह उधर आपका कुत्ता है?",
+        "vi": "Chào anh/chị! Con chó đằng kia là của anh/chị phải không?",
+        "id": "Halo! Itu anjing Anda di sana?",
+        "ms": "Hai! Itu anjing awak di sana?",
+        "ko": "안녕하세요! 저기 있는 개가 그쪽 개인가요?"
+      },
+      "practice": "¡Hola! ¿Ese perro de allá es suyo?",
+      "practice_translations": {
+        "en": "Hi! Is that your dog over there?",
+        "es": "¡Hola! ¿Ese perro de allá es suyo?",
+        "ja": "こんにちは！あそこにいるのはお宅のワンちゃんですか。",
+        "ko": "안녕하세요! 저기 있는 개가 그쪽 개인가요?"
+      }
+    },
+    {
+      "native": "I think your dog took my dog's ball.",
+      "native_translations": {
+        "en": "I think your dog took my dog's ball.",
+        "es": "Creo que su perro se llevó la pelota de mi perro.",
+        "fr": "Je crois que votre chien a pris la balle du mien.",
+        "de": "Ich glaube, Ihr Hund hat den Ball von meinem Hund genommen.",
+        "it": "Credo che il tuo cane abbia preso la palla del mio.",
+        "pl": "Chyba pani pies zabrał piłkę mojemu psu.",
+        "pt": "Acho que seu cachorro pegou a bola do meu.",
+        "nl": "Ik denk dat jouw hond de bal van mijn hond heeft gepakt.",
+        "hr": "Mislim da je Vaš pas uzeo lopticu mog psa.",
+        "tr": "Sanırım köpeğiniz benim köpeğimin topunu aldı.",
+        "uk": "Здається, ваш пес забрав м'ячик мого собаки.",
+        "ar": "أظن أن كلبك أخذ كرة كلبي.",
+        "hi": "मुझे लगता है आपके कुत्ते ने मेरे कुत्ते की बॉल ले ली है।",
+        "vi": "Hình như chó của anh/chị lấy bóng của chó nhà tôi rồi.",
+        "id": "Sepertinya anjing Anda mengambil bola anjing saya.",
+        "ms": "Saya rasa anjing awak ambil bola anjing saya.",
+        "ko": "그쪽 개가 우리 개 공을 가져간 것 같아요."
+      },
+      "practice": "Creo que su perro se llevó la pelota de mi perro.",
+      "practice_translations": {
+        "en": "I think your dog took my dog's ball.",
+        "es": "Creo que su perro se llevó la pelota de mi perro.",
+        "ja": "お宅のワンちゃんが、うちの犬のボールを持っていってしまったみたいです。",
+        "ko": "그쪽 개가 우리 개 공을 가져간 것 같아요."
+      }
+    },
+    {
+      "native": "It's his favorite toy.",
+      "native_translations": {
+        "en": "It's his favorite toy.",
+        "es": "Es su juguete favorito.",
+        "fr": "C'est son jouet préféré.",
+        "de": "Das ist sein Lieblingsspielzeug.",
+        "it": "È il suo gioco preferito.",
+        "pl": "To jego ulubiona zabawka.",
+        "pt": "É o brinquedo favorito dele.",
+        "nl": "Het is zijn favoriete speeltje.",
+        "hr": "To mu je omiljena igračka.",
+        "tr": "O onun en sevdiği oyuncağı.",
+        "uk": "Це його улюблена іграшка.",
+        "ar": "إنها لعبته المفضلة.",
+        "hi": "यह उसका सबसे पसंदीदा खिलौना है।",
+        "vi": "Đó là món đồ chơi nó thích nhất.",
+        "id": "Itu mainan kesayangannya.",
+        "ms": "Itu mainan kegemarannya.",
+        "ko": "그게 우리 개가 제일 좋아하는 장난감이에요."
+      },
+      "practice": "Es su juguete favorito.",
+      "practice_translations": {
+        "en": "It's his favorite toy.",
+        "es": "Es su juguete favorito.",
+        "ja": "うちの子の一番お気に入りのおもちゃなんです。",
+        "ko": "그게 우리 개가 제일 좋아하는 장난감이에요."
+      }
+    },
+    {
+      "native": "Could you help me get it back, please?",
+      "native_translations": {
+        "en": "Could you help me get it back, please?",
+        "es": "¿Me podría ayudar a recuperarla, por favor?",
+        "fr": "Pourriez-vous m'aider à la récupérer, s'il vous plaît ?",
+        "de": "Könnten Sie mir bitte helfen, ihn zurückzubekommen?",
+        "it": "Potresti aiutarmi a riprenderla, per favore?",
+        "pl": "Czy mogłaby mi pani pomóc ją odzyskać?",
+        "pt": "Você poderia me ajudar a pegar de volta, por favor?",
+        "nl": "Kun je me helpen hem terug te krijgen?",
+        "hr": "Možete li mi, molim Vas, pomoći da je vratim?",
+        "tr": "Geri almama yardım edebilir misiniz, lütfen?",
+        "uk": "Допоможіть мені, будь ласка, його забрати.",
+        "ar": "هل يمكنك مساعدتي في استعادتها من فضلك؟",
+        "hi": "क्या आप इसे वापस दिलाने में मेरी मदद करेंगे, प्लीज़?",
+        "vi": "Anh/chị giúp tôi lấy lại được không?",
+        "id": "Bisa tolong bantu saya mengambilnya kembali?",
+        "ms": "Boleh tolong saya dapatkannya semula?",
+        "ko": "공 좀 되찾게 도와주시겠어요?"
+      },
+      "practice": "¿Me podría ayudar a recuperarla, por favor?",
+      "practice_translations": {
+        "en": "Could you help me get it back, please?",
+        "es": "¿Me podría ayudar a recuperarla, por favor?",
+        "ja": "取り戻すのを手伝っていただけますか。",
+        "ko": "공 좀 되찾게 도와주시겠어요?"
+      }
+    }
+  ]
+}

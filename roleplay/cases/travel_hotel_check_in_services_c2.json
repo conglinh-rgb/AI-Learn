@@ -1,0 +1,350 @@
+{
+  "id": "travel_hotel_check_in_services_c2",
+  "title": "Calling the Front Desk",
+  "title_translations": {
+    "en": "Calling the Front Desk",
+    "es": "Llamar a la recepción",
+    "fr": "Appeler la réception",
+    "de": "Anruf an der Rezeption",
+    "it": "Chiamare la reception",
+    "pl": "Telefon do recepcji",
+    "pt": "Ligando para a recepção",
+    "nl": "De receptie bellen",
+    "hr": "Poziv recepciji",
+    "tr": "Resepsiyonu Aramak",
+    "uk": "Дзвінок на рецепцію",
+    "ar": "الاتصال بمكتب الاستقبال",
+    "hi": "फ़्रंट डेस्क को फ़ोन",
+    "vi": "Gọi xuống quầy lễ tân",
+    "id": "Menelepon Meja Depan",
+    "ms": "Menelefon Kaunter Hadapan",
+    "ko": "프런트에 전화하기"
+  },
+  "character": "fox",
+  "scenario": "You are settled in your hotel room and call the front desk. The receptionist (AI) answers and asks how they can help.",
+  "scenario_translations": {
+    "en": "You are settled in your hotel room and call the front desk. The receptionist (AI) answers and asks how they can help.",
+    "es": "Ya se acomodó en su habitación y llama a la recepción. La recepcionista (AI) contesta y le pregunta en qué puede ayudarle.",
+    "fr": "Vous êtes installé dans votre chambre d'hôtel et vous appelez la réception. La réceptionniste (AI) répond et vous demande ce qu'elle peut faire pour vous.",
+    "de": "Sie haben sich in Ihrem Hotelzimmer eingerichtet und rufen die Rezeption an. Die Rezeptionistin (AI) meldet sich und fragt, wie sie Ihnen helfen kann.",
+    "it": "Ti sei sistemato nella tua camera d'albergo e chiami la reception. Il receptionist (AI) risponde e ti chiede come può aiutarti.",
+    "pl": "Rozgościłeś się w pokoju hotelowym i dzwonisz do recepcji. Recepcjonista (AI) odbiera i pyta, w czym może pomóc.",
+    "pt": "Você já está instalado no seu quarto de hotel e liga para a recepção. A recepcionista (AI) atende e pergunta como pode ajudar.",
+    "nl": "Je hebt je geïnstalleerd in je hotelkamer en belt de receptie. De receptionist (AI) neemt op en vraagt hoe hij kan helpen.",
+    "hr": "Smjestio si se u hotelsku sobu i zoveš recepciju. Javlja se recepcionar (AI) i pita kako ti može pomoći.",
+    "tr": "Otel odanıza yerleştiniz ve resepsiyonu arıyorsunuz. Resepsiyonist (AI) telefonu açıyor ve nasıl yardımcı olabileceğini soruyor.",
+    "uk": "Ти вже влаштовуєшся в номері й телефонуєш на рецепцію. Адміністратор (AI) відповідає й питає, чим може допомогти.",
+    "ar": "استقررت في غرفتك بالفندق واتصلت بمكتب الاستقبال. يرد موظف الاستقبال (AI) ويسألك كيف يمكنه المساعدة.",
+    "hi": "आप अपने होटल के कमरे में आराम से हैं और फ़्रंट डेस्क को फ़ोन करते हैं। रिसेप्शनिस्ट (AI) फ़ोन उठाते हैं और पूछते हैं कि वे क्या मदद कर सकते हैं।",
+    "vi": "Bạn đã ổn định trong phòng khách sạn và gọi xuống quầy lễ tân. Lễ tân (AI) nghe máy và hỏi có thể giúp gì cho bạn.",
+    "id": "Kamu sudah beristirahat di kamar hotel dan menelepon meja depan. Resepsionis (AI) menjawab dan bertanya apa yang bisa dibantu.",
+    "ms": "Anda sudah selesa di bilik hotel dan menelefon kaunter hadapan. Penyambut tetamu (AI) menjawab dan bertanya bagaimana mereka boleh membantu.",
+    "ko": "호텔 방에 자리를 잡고 프런트에 전화를 겁니다. 프런트 직원(AI)이 전화를 받고 무엇을 도와드릴지 묻습니다."
+  },
+  "mission": {
+    "native": "Make a few requests to the front desk and arrange a late checkout.",
+    "native_translations": {
+      "en": "Make a few requests to the front desk and arrange a late checkout.",
+      "es": "Haga algunas solicitudes a la recepción y consiga una salida tardía.",
+      "fr": "Faites quelques demandes à la réception et organisez un départ tardif.",
+      "de": "Äußern Sie ein paar Wünsche an der Rezeption und vereinbaren Sie einen späten Check-out.",
+      "it": "Fai qualche richiesta alla reception e organizza un check-out posticipato.",
+      "pl": "Złóż kilka próśb w recepcji i załatw późne wymeldowanie.",
+      "pt": "Faça alguns pedidos à recepção e combine um check-out mais tarde.",
+      "nl": "Doe een paar verzoeken bij de receptie en regel een late check-out.",
+      "hr": "Uputi nekoliko zahtjeva recepciji i dogovori kasnu odjavu.",
+      "tr": "Resepsiyondan birkaç şey isteyin ve geç çıkış ayarlayın.",
+      "uk": "Звернися до рецепції з кількома проханнями й домовся про пізній виїзд.",
+      "ar": "قدّم بعض الطلبات إلى مكتب الاستقبال ورتّب لتسجيل مغادرة متأخر.",
+      "hi": "फ़्रंट डेस्क से कुछ चीज़ें माँगिए और लेट चेकआउट का इंतज़ाम कीजिए।",
+      "vi": "Đưa ra vài yêu cầu với lễ tân và sắp xếp trả phòng muộn.",
+      "id": "Ajukan beberapa permintaan ke meja depan dan atur check-out yang lebih lambat.",
+      "ms": "Buat beberapa permintaan kepada kaunter hadapan dan aturkan daftar keluar lewat.",
+      "ko": "프런트에 몇 가지를 요청하고 늦은 체크아웃을 예약하세요."
+    },
+    "practice": "Haga algunas solicitudes a la recepción y consiga una salida tardía.",
+    "practice_translations": {
+      "en": "Make a few requests to the front desk and arrange a late checkout.",
+      "es": "Haga algunas solicitudes a la recepción y consiga una salida tardía.",
+      "ja": "フロントにいくつかお願いをして、レイトチェックアウトの手配をしてください。",
+      "ko": "프런트에 몇 가지를 요청하고 늦은 체크아웃을 예약하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Order something to eat",
+        "native_translations": {
+          "en": "Order something to eat",
+          "es": "Pida algo de comer",
+          "fr": "Commandez quelque chose à manger",
+          "de": "Bestellen Sie etwas zu essen",
+          "it": "Ordina qualcosa da mangiare",
+          "pl": "Zamów coś do jedzenia",
+          "pt": "Peça algo para comer",
+          "nl": "Bestel iets te eten",
+          "hr": "Naruči nešto za jelo",
+          "tr": "Yiyecek bir şey sipariş edin",
+          "uk": "Замов щось поїсти",
+          "ar": "اطلب شيئًا لتأكله",
+          "hi": "कुछ खाने के लिए ऑर्डर कीजिए",
+          "vi": "Gọi đồ ăn",
+          "id": "Pesan sesuatu untuk dimakan",
+          "ms": "Pesan sesuatu untuk dimakan",
+          "ko": "먹을 것을 주문하세요"
+        },
+        "practice": "Pida algo de comer",
+        "practice_translations": {
+          "en": "Order something to eat",
+          "es": "Pida algo de comer",
+          "ja": "食べ物を注文してください",
+          "ko": "먹을 것을 주문하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for extra towels",
+        "native_translations": {
+          "en": "Ask for extra towels",
+          "es": "Pida toallas adicionales",
+          "fr": "Demandez des serviettes supplémentaires",
+          "de": "Bitten Sie um zusätzliche Handtücher",
+          "it": "Chiedi degli asciugamani in più",
+          "pl": "Poproś o dodatkowe ręczniki",
+          "pt": "Peça toalhas extras",
+          "nl": "Vraag om extra handdoeken",
+          "hr": "Zatraži dodatne ručnike",
+          "tr": "Ekstra havlu isteyin",
+          "uk": "Попроси додаткові рушники",
+          "ar": "اطلب مناشف إضافية",
+          "hi": "एक्स्ट्रा तौलिए माँगिए",
+          "vi": "Xin thêm khăn tắm",
+          "id": "Minta handuk tambahan",
+          "ms": "Minta tuala tambahan",
+          "ko": "수건을 더 달라고 하세요"
+        },
+        "practice": "Pida toallas adicionales",
+        "practice_translations": {
+          "en": "Ask for extra towels",
+          "es": "Pida toallas adicionales",
+          "ja": "タオルを追加でお願いしてください",
+          "ko": "수건을 더 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for a wake-up call",
+        "native_translations": {
+          "en": "Ask for a wake-up call",
+          "es": "Pida una llamada para despertarse",
+          "fr": "Demandez un réveil téléphonique",
+          "de": "Bitten Sie um einen Weckruf",
+          "it": "Chiedi una sveglia telefonica",
+          "pl": "Poproś o budzenie telefoniczne",
+          "pt": "Peça para ser acordado por telefone",
+          "nl": "Vraag om gewekt te worden",
+          "hr": "Zatraži buđenje telefonom",
+          "tr": "Uyandırma servisi isteyin",
+          "uk": "Попроси розбудити тебе дзвінком",
+          "ar": "اطلب مكالمة إيقاظ",
+          "hi": "वेक-अप कॉल माँगिए",
+          "vi": "Nhờ gọi báo thức",
+          "id": "Minta layanan telepon bangun pagi",
+          "ms": "Minta panggilan kejut",
+          "ko": "모닝콜을 요청하세요"
+        },
+        "practice": "Pida una llamada para despertarse",
+        "practice_translations": {
+          "en": "Ask for a wake-up call",
+          "es": "Pida una llamada para despertarse",
+          "ja": "モーニングコールをお願いしてください",
+          "ko": "모닝콜을 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask about a late checkout",
+        "native_translations": {
+          "en": "Ask about a late checkout",
+          "es": "Pregunte por una salida tardía",
+          "fr": "Renseignez-vous sur un départ tardif",
+          "de": "Fragen Sie nach einem späten Check-out",
+          "it": "Chiedi di un check-out posticipato",
+          "pl": "Zapytaj o późne wymeldowanie",
+          "pt": "Pergunte sobre um check-out mais tarde",
+          "nl": "Vraag naar een late check-out",
+          "hr": "Pitaj za kasnu odjavu",
+          "tr": "Geç çıkış yapıp yapamayacağınızı sorun",
+          "uk": "Запитай про пізній виїзд",
+          "ar": "اسأل عن تسجيل المغادرة المتأخر",
+          "hi": "लेट चेकआउट के बारे में पूछिए",
+          "vi": "Hỏi về việc trả phòng muộn",
+          "id": "Tanyakan soal check-out lebih lambat",
+          "ms": "Tanya tentang daftar keluar lewat",
+          "ko": "늦은 체크아웃에 대해 물어보세요"
+        },
+        "practice": "Pregunte por una salida tardía",
+        "practice_translations": {
+          "en": "Ask about a late checkout",
+          "es": "Pregunte por una salida tardía",
+          "ja": "レイトチェックアウトについて聞いてください",
+          "ko": "늦은 체크아웃에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hello, I'm calling from room 305.",
+      "native_translations": {
+        "en": "Hello, I'm calling from room 305.",
+        "es": "Hola, llamo de la habitación 305.",
+        "fr": "Bonjour, j'appelle de la chambre 305.",
+        "de": "Hallo, ich rufe aus Zimmer 305 an.",
+        "it": "Buongiorno, chiamo dalla camera 305.",
+        "pl": "Dzień dobry, dzwonię z pokoju 305.",
+        "pt": "Olá, estou ligando do quarto 305.",
+        "nl": "Hallo, ik bel vanuit kamer 305.",
+        "hr": "Dobar dan, zovem iz sobe 305.",
+        "tr": "Merhaba, 305 numaralı odadan arıyorum.",
+        "uk": "Добрий день, я телефоную з номера 305.",
+        "ar": "مرحبًا، أتصل من الغرفة 305.",
+        "hi": "नमस्ते, मैं कमरा नंबर 305 से बोल रहा हूँ।",
+        "vi": "Xin chào, tôi gọi từ phòng 305.",
+        "id": "Halo, saya menelepon dari kamar 305.",
+        "ms": "Helo, saya menelefon dari bilik 305.",
+        "ko": "안녕하세요, 305호인데요."
+      },
+      "practice": "Hola, llamo de la habitación 305.",
+      "practice_translations": {
+        "en": "Hello, I'm calling from room 305.",
+        "es": "Hola, llamo de la habitación 305.",
+        "ja": "もしもし、305号室の者です。",
+        "ko": "안녕하세요, 305호인데요."
+      }
+    },
+    {
+      "native": "Could I order a sandwich and a juice?",
+      "native_translations": {
+        "en": "Could I order a sandwich and a juice?",
+        "es": "¿Podría pedir un sándwich y un jugo?",
+        "fr": "Pourrais-je commander un sandwich et un jus de fruits ?",
+        "de": "Könnte ich ein Sandwich und einen Saft bestellen?",
+        "it": "Potrei ordinare un panino e un succo?",
+        "pl": "Czy mogę zamówić kanapkę i sok?",
+        "pt": "Eu poderia pedir um sanduíche e um suco?",
+        "nl": "Kan ik een broodje en een sapje bestellen?",
+        "hr": "Mogu li naručiti sendvič i sok?",
+        "tr": "Bir sandviç ve bir meyve suyu sipariş edebilir miyim?",
+        "uk": "Можна замовити сендвіч і сік?",
+        "ar": "هل يمكنني طلب شطيرة وعصير؟",
+        "hi": "क्या मैं एक सैंडविच और एक जूस ऑर्डर कर सकता हूँ?",
+        "vi": "Cho tôi gọi một bánh sandwich và một ly nước ép được không?",
+        "id": "Boleh saya pesan sandwich dan jus?",
+        "ms": "Boleh saya pesan sandwic dan jus?",
+        "ko": "샌드위치하고 주스 하나 주문할 수 있을까요?"
+      },
+      "practice": "¿Podría pedir un sándwich y un jugo?",
+      "practice_translations": {
+        "en": "Could I order a sandwich and a juice?",
+        "es": "¿Podría pedir un sándwich y un jugo?",
+        "ja": "サンドイッチとジュースを注文できますか。",
+        "ko": "샌드위치하고 주스 하나 주문할 수 있을까요?"
+      }
+    },
+    {
+      "native": "Could you send up some extra towels?",
+      "native_translations": {
+        "en": "Could you send up some extra towels?",
+        "es": "¿Podría mandarme unas toallas adicionales?",
+        "fr": "Pourriez-vous me faire monter des serviettes supplémentaires ?",
+        "de": "Könnten Sie mir ein paar zusätzliche Handtücher aufs Zimmer bringen lassen?",
+        "it": "Potrebbe mandarmi su qualche asciugamano in più?",
+        "pl": "Czy mogliby państwo przynieść dodatkowe ręczniki?",
+        "pt": "Você poderia mandar algumas toalhas extras?",
+        "nl": "Kunt u wat extra handdoeken naar boven brengen?",
+        "hr": "Možete li mi poslati nekoliko dodatnih ručnika?",
+        "tr": "Odaya birkaç ekstra havlu gönderebilir misiniz?",
+        "uk": "Могли б ви принести додаткові рушники?",
+        "ar": "هل يمكنكم إرسال بعض المناشف الإضافية؟",
+        "hi": "क्या आप कुछ एक्स्ट्रा तौलिए भिजवा सकते हैं?",
+        "vi": "Anh/chị mang thêm vài chiếc khăn tắm lên giúp tôi được không?",
+        "id": "Bisa kirimkan handuk tambahan ke kamar?",
+        "ms": "Boleh hantar beberapa tuala tambahan ke bilik?",
+        "ko": "수건 좀 더 갖다주실 수 있나요?"
+      },
+      "practice": "¿Podría mandarme unas toallas adicionales?",
+      "practice_translations": {
+        "en": "Could you send up some extra towels?",
+        "es": "¿Podría mandarme unas toallas adicionales?",
+        "ja": "タオルを追加で持ってきていただけますか。",
+        "ko": "수건 좀 더 갖다주실 수 있나요?"
+      }
+    },
+    {
+      "native": "I'd like a wake-up call at seven.",
+      "native_translations": {
+        "en": "I'd like a wake-up call at seven.",
+        "es": "Quisiera que me despierten a las siete.",
+        "fr": "J'aimerais être réveillé à sept heures.",
+        "de": "Ich hätte gern einen Weckruf um sieben.",
+        "it": "Vorrei la sveglia alle sette.",
+        "pl": "Poproszę o budzenie o siódmej.",
+        "pt": "Gostaria de ser acordado às sete.",
+        "nl": "Ik wil graag om zeven uur gewekt worden.",
+        "hr": "Molio bih buđenje u sedam.",
+        "tr": "Saat yedide uyandırma servisi istiyorum.",
+        "uk": "Розбудіть мене, будь ласка, о сьомій.",
+        "ar": "أريد مكالمة إيقاظ في الساعة السابعة.",
+        "hi": "मुझे सुबह सात बजे वेक-अप कॉल चाहिए।",
+        "vi": "Tôi muốn được gọi báo thức lúc bảy giờ.",
+        "id": "Saya ingin dibangunkan jam tujuh pagi.",
+        "ms": "Saya mahu panggilan kejut pada pukul tujuh.",
+        "ko": "7시에 모닝콜 부탁드려요."
+      },
+      "practice": "Quisiera que me despierten a las siete.",
+      "practice_translations": {
+        "en": "I'd like a wake-up call at seven.",
+        "es": "Quisiera que me despierten a las siete.",
+        "ja": "7時にモーニングコールをお願いします。",
+        "ko": "7시에 모닝콜 부탁드려요."
+      }
+    },
+    {
+      "native": "Is it possible to check out late tomorrow?",
+      "native_translations": {
+        "en": "Is it possible to check out late tomorrow?",
+        "es": "¿Es posible salir más tarde mañana?",
+        "fr": "Est-il possible de libérer la chambre plus tard demain ?",
+        "de": "Wäre es möglich, morgen später auszuchecken?",
+        "it": "Sarebbe possibile fare il check-out più tardi domani?",
+        "pl": "Czy mogę jutro wymeldować się później?",
+        "pt": "É possível fazer o check-out mais tarde amanhã?",
+        "nl": "Is het mogelijk om morgen later uit te checken?",
+        "hr": "Je li moguće sutra se kasnije odjaviti?",
+        "tr": "Yarın geç çıkış yapmak mümkün mü?",
+        "uk": "Чи можна завтра виїхати пізніше?",
+        "ar": "هل من الممكن تسجيل المغادرة متأخرًا غدًا؟",
+        "hi": "क्या कल देर से चेकआउट करना मुमकिन है?",
+        "vi": "Ngày mai tôi trả phòng muộn được không?",
+        "id": "Apakah besok saya bisa check-out lebih lambat?",
+        "ms": "Boleh saya daftar keluar lewat esok?",
+        "ko": "내일 늦게 체크아웃할 수 있을까요?"
+      },
+      "practice": "¿Es posible salir más tarde mañana?",
+      "practice_translations": {
+        "en": "Is it possible to check out late tomorrow?",
+        "es": "¿Es posible salir más tarde mañana?",
+        "ja": "明日、遅めにチェックアウトすることはできますか。",
+        "ko": "내일 늦게 체크아웃할 수 있을까요?"
+      }
+    }
+  ]
+}

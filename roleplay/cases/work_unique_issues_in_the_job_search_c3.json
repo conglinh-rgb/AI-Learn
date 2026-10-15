@@ -1,0 +1,351 @@
+{
+  "id": "work_unique_issues_in_the_job_search_c3",
+  "title": "The Sponsorship Question",
+  "title_translations": {
+    "en": "The Sponsorship Question",
+    "es": "La pregunta sobre el patrocinio",
+    "fr": "La question du parrainage de visa",
+    "de": "Die Frage nach dem Visumsponsoring",
+    "it": "La questione della sponsorizzazione",
+    "pl": "Pytanie o sponsorowanie wizy",
+    "pt": "A questão do patrocínio de visto",
+    "nl": "De vraag over sponsoring",
+    "hr": "Pitanje o sponzorstvu vize",
+    "tr": "Vize Sponsorluğu Sorusu",
+    "uk": "Питання візового спонсорства",
+    "ar": "سؤال الكفالة",
+    "hi": "स्पॉन्सरशिप का सवाल",
+    "vi": "Câu hỏi về bảo lãnh thị thực",
+    "id": "Pertanyaan soal Sponsor Visa",
+    "ms": "Soalan Tentang Tajaan Visa",
+    "ko": "비자 스폰서십 질문"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "The hiring manager (AI) likes your profile, but then asks whether you will need visa sponsorship to work here.",
+  "scenario_translations": {
+    "en": "The hiring manager (AI) likes your profile, but then asks whether you will need visa sponsorship to work here.",
+    "es": "Al responsable de contratación (AI) le gusta su perfil, pero luego le pregunta si necesitará patrocinio de visa para trabajar aquí.",
+    "fr": "La responsable du recrutement (AI) apprécie votre profil, mais vous demande ensuite si vous aurez besoin d'un parrainage de visa pour travailler ici.",
+    "de": "Der Personalverantwortliche (AI) mag Ihr Profil, fragt dann aber, ob Sie ein Visumsponsoring brauchen, um hier zu arbeiten.",
+    "it": "Al selezionatore (AI) piace il tuo profilo, ma poi ti chiede se avrai bisogno di una sponsorizzazione del visto per lavorare qui.",
+    "pl": "Kierowniczce ds. rekrutacji (AI) podoba się twój profil, ale potem pyta, czy będziesz potrzebować sponsorowania wizy, żeby tu pracować.",
+    "pt": "O gestor da vaga (AI) gosta do seu perfil, mas pergunta se você vai precisar de patrocínio de visto para trabalhar aqui.",
+    "nl": "De hiring manager (AI) vindt je profiel goed, maar vraagt dan of je visumsponsoring nodig hebt om hier te werken.",
+    "hr": "Voditelju zapošljavanja (AI) sviđa se tvoj profil, ali zatim pita hoće li ti za rad ovdje trebati sponzorstvo za vizu.",
+    "tr": "İşe alım yöneticisi (AI) profilinizi beğeniyor ama ardından burada çalışmak için vize sponsorluğuna ihtiyacınız olup olmayacağını soruyor.",
+    "uk": "Менеджерові з найму (AI) подобається твій профіль, але потім він запитує, чи знадобиться тобі візове спонсорство, щоб тут працювати.",
+    "ar": "يُعجب مدير التوظيف (AI) بملفك، لكنه يسألك بعد ذلك إن كنت ستحتاج إلى كفالة تأشيرة للعمل هنا.",
+    "hi": "हायरिंग मैनेजर (AI) को आपकी प्रोफ़ाइल पसंद आती है, लेकिन फिर वे पूछते हैं कि क्या यहाँ काम करने के लिए आपको वीज़ा स्पॉन्सरशिप चाहिए होगी।",
+    "vi": "Người phụ trách tuyển dụng (AI) thích hồ sơ của bạn, nhưng sau đó hỏi liệu bạn có cần công ty bảo lãnh thị thực để làm việc ở đây không.",
+    "id": "Manajer perekrutan (AI) menyukai profilmu, tapi lalu bertanya apakah kamu akan butuh sponsor visa untuk bekerja di sini.",
+    "ms": "Pengurus pengambilan (AI) suka profil anda, tetapi kemudian bertanya sama ada anda memerlukan tajaan visa untuk bekerja di sini.",
+    "ko": "채용 담당 매니저(AI)가 당신의 프로필을 마음에 들어 하지만, 여기서 일하려면 비자 스폰서십이 필요한지 물어봅니다."
+  },
+  "mission": {
+    "native": "Answer the sponsorship question honestly and keep the conversation focused on your value.",
+    "native_translations": {
+      "en": "Answer the sponsorship question honestly and keep the conversation focused on your value.",
+      "es": "Responda con honestidad la pregunta sobre el patrocinio y mantenga la conversación centrada en lo que usted aporta.",
+      "fr": "Répondez honnêtement à la question du parrainage et recentrez la conversation sur ce que vous apportez.",
+      "de": "Beantworten Sie die Frage nach dem Sponsoring ehrlich und lenken Sie das Gespräch auf das, was Sie mitbringen.",
+      "it": "Rispondi con sincerità alla domanda sulla sponsorizzazione e mantieni la conversazione sul valore che porti.",
+      "pl": "Szczerze odpowiedz na pytanie o sponsorowanie i skup rozmowę na tym, co wnosisz.",
+      "pt": "Responda com honestidade à pergunta sobre o patrocínio e mantenha a conversa focada no seu valor.",
+      "nl": "Beantwoord de vraag over sponsoring eerlijk en houd het gesprek gericht op wat jij te bieden hebt.",
+      "hr": "Iskreno odgovori na pitanje o sponzorstvu i usmjeri razgovor na svoju vrijednost.",
+      "tr": "Sponsorluk sorusunu dürüstçe cevaplayın ve konuşmayı sizin katacağınız değere odaklı tutun.",
+      "uk": "Чесно відповідай на питання про спонсорство й зосередь розмову на своїй цінності.",
+      "ar": "أجب عن سؤال الكفالة بصدق، وأبقِ الحديث مركّزًا على القيمة التي تقدّمها.",
+      "hi": "स्पॉन्सरशिप के सवाल का ईमानदारी से जवाब दीजिए और बातचीत को अपनी ख़ूबियों पर केंद्रित रखिए।",
+      "vi": "Trả lời trung thực câu hỏi về bảo lãnh và giữ cuộc trò chuyện tập trung vào giá trị của bạn.",
+      "id": "Jawab pertanyaan soal sponsor dengan jujur dan jaga agar obrolan tetap fokus pada nilai dirimu.",
+      "ms": "Jawab soalan tentang tajaan dengan jujur dan pastikan perbualan tertumpu pada nilai diri anda.",
+      "ko": "스폰서십 질문에 솔직하게 답하고 대화의 초점을 당신의 가치에 맞추세요."
+    },
+    "practice": "Responda con honestidad la pregunta sobre el patrocinio y mantenga la conversación centrada en lo que usted aporta.",
+    "practice_translations": {
+      "en": "Answer the sponsorship question honestly and keep the conversation focused on your value.",
+      "es": "Responda con honestidad la pregunta sobre el patrocinio y mantenga la conversación centrada en lo que usted aporta.",
+      "ja": "ビザのスポンサーについての質問に正直に答え、自分の強みに話を向けてください。",
+      "ko": "스폰서십 질문에 솔직하게 답하고 대화의 초점을 당신의 가치에 맞추세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Answer honestly whether you need sponsorship",
+        "native_translations": {
+          "en": "Answer honestly whether you need sponsorship",
+          "es": "Responda con honestidad si necesita patrocinio",
+          "fr": "Dites honnêtement si vous avez besoin d'un parrainage",
+          "de": "Sagen Sie ehrlich, ob Sie ein Sponsoring brauchen",
+          "it": "Rispondi con sincerità se hai bisogno della sponsorizzazione",
+          "pl": "Szczerze odpowiedz, czy potrzebujesz sponsorowania",
+          "pt": "Responda com honestidade se você precisa de patrocínio",
+          "nl": "Antwoord eerlijk of je sponsoring nodig hebt",
+          "hr": "Iskreno odgovori trebaš li sponzorstvo",
+          "tr": "Sponsorluğa ihtiyacınız olup olmadığını dürüstçe cevaplayın",
+          "uk": "Чесно скажи, чи потрібне тобі спонсорство",
+          "ar": "أجب بصدق إن كنت تحتاج إلى كفالة",
+          "hi": "ईमानदारी से बताइए कि आपको स्पॉन्सरशिप चाहिए या नहीं",
+          "vi": "Trả lời trung thực liệu bạn có cần bảo lãnh không",
+          "id": "Jawab dengan jujur apakah kamu butuh sponsor",
+          "ms": "Jawab dengan jujur sama ada anda perlukan tajaan",
+          "ko": "스폰서십이 필요한지 솔직하게 답하세요"
+        },
+        "practice": "Responda con honestidad si necesita patrocinio",
+        "practice_translations": {
+          "en": "Answer honestly whether you need sponsorship",
+          "es": "Responda con honestidad si necesita patrocinio",
+          "ja": "スポンサーが必要かどうか正直に答えてください",
+          "ko": "스폰서십이 필요한지 솔직하게 답하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain what you bring to the team",
+        "native_translations": {
+          "en": "Explain what you bring to the team",
+          "es": "Explique lo que aporta al equipo",
+          "fr": "Expliquez ce que vous apportez à l'équipe",
+          "de": "Erklären Sie, was Sie ins Team einbringen",
+          "it": "Spiega cosa porti al team",
+          "pl": "Wyjaśnij, co wniesiesz do zespołu",
+          "pt": "Explique o que você traz para a equipe",
+          "nl": "Leg uit wat je het team te bieden hebt",
+          "hr": "Objasni što donosiš timu",
+          "tr": "Ekibe neler katacağınızı açıklayın",
+          "uk": "Поясни, що ти даси команді",
+          "ar": "اشرح ما الذي ستضيفه إلى الفريق",
+          "hi": "बताइए कि आप टीम में क्या योगदान देंगे",
+          "vi": "Giải thích bạn mang lại gì cho nhóm",
+          "id": "Jelaskan apa yang bisa kamu berikan untuk tim",
+          "ms": "Terangkan apa yang anda boleh sumbangkan kepada pasukan",
+          "ko": "팀에 어떤 기여를 할 수 있는지 설명하세요"
+        },
+        "practice": "Explique lo que aporta al equipo",
+        "practice_translations": {
+          "en": "Explain what you bring to the team",
+          "es": "Explique lo que aporta al equipo",
+          "ja": "チームに何をもたらせるか説明してください",
+          "ko": "팀에 어떤 기여를 할 수 있는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if the company has sponsored before",
+        "native_translations": {
+          "en": "Ask if the company has sponsored before",
+          "es": "Pregunte si la empresa ha patrocinado antes",
+          "fr": "Demandez si l'entreprise a déjà parrainé des salariés",
+          "de": "Fragen Sie, ob das Unternehmen schon einmal Mitarbeitende gesponsert hat",
+          "it": "Chiedi se l'azienda ha già fatto sponsorizzazioni in passato",
+          "pl": "Zapytaj, czy firma sponsorowała już kogoś wcześniej",
+          "pt": "Pergunte se a empresa já patrocinou vistos antes",
+          "nl": "Vraag of het bedrijf al eerder iemand heeft gesponsord",
+          "hr": "Pitaj je li tvrtka već sponzorirala zaposlenike",
+          "tr": "Şirketin daha önce sponsor olup olmadığını sorun",
+          "uk": "Запитай, чи спонсорувала компанія візи раніше",
+          "ar": "اسأل إن كانت الشركة قد كفلت موظفين من قبل",
+          "hi": "पूछिए कि क्या कंपनी ने पहले किसी को स्पॉन्सर किया है",
+          "vi": "Hỏi công ty đã từng bảo lãnh cho ai chưa",
+          "id": "Tanyakan apakah perusahaan pernah mensponsori sebelumnya",
+          "ms": "Tanya sama ada syarikat pernah menaja sebelum ini",
+          "ko": "회사가 전에 스폰서를 해 준 적이 있는지 물어보세요"
+        },
+        "practice": "Pregunte si la empresa ha patrocinado antes",
+        "practice_translations": {
+          "en": "Ask if the company has sponsored before",
+          "es": "Pregunte si la empresa ha patrocinado antes",
+          "ja": "会社がこれまでにスポンサーになったことがあるか聞いてください",
+          "ko": "회사가 전에 스폰서를 해 준 적이 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask about the next steps",
+        "native_translations": {
+          "en": "Ask about the next steps",
+          "es": "Pregunte cuáles son los próximos pasos",
+          "fr": "Renseignez-vous sur les prochaines étapes",
+          "de": "Fragen Sie nach den nächsten Schritten",
+          "it": "Chiedi quali sono i prossimi passi",
+          "pl": "Zapytaj o kolejne kroki",
+          "pt": "Pergunte sobre os próximos passos",
+          "nl": "Vraag naar de volgende stappen",
+          "hr": "Pitaj za sljedeće korake",
+          "tr": "Sonraki adımları sorun",
+          "uk": "Запитай про наступні кроки",
+          "ar": "اسأل عن الخطوات التالية",
+          "hi": "अगले क़दमों के बारे में पूछिए",
+          "vi": "Hỏi về các bước tiếp theo",
+          "id": "Tanyakan langkah selanjutnya",
+          "ms": "Tanya tentang langkah seterusnya",
+          "ko": "다음 단계에 대해 물어보세요"
+        },
+        "practice": "Pregunte cuáles son los próximos pasos",
+        "practice_translations": {
+          "en": "Ask about the next steps",
+          "es": "Pregunte cuáles son los próximos pasos",
+          "ja": "今後の流れについて聞いてください",
+          "ko": "다음 단계에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "To be transparent, I will need sponsorship in the future.",
+      "native_translations": {
+        "en": "To be transparent, I will need sponsorship in the future.",
+        "es": "Para ser transparente, voy a necesitar patrocinio en el futuro.",
+        "fr": "Pour être transparent, j'aurai besoin d'un parrainage à l'avenir.",
+        "de": "Um ehrlich zu sein: Ich werde in Zukunft ein Sponsoring brauchen.",
+        "it": "Per essere trasparente, in futuro avrò bisogno di una sponsorizzazione.",
+        "pl": "Mówiąc otwarcie: w przyszłości będę potrzebować sponsorowania.",
+        "pt": "Para ser transparente, vou precisar de patrocínio no futuro.",
+        "nl": "Om open kaart te spelen: ik heb in de toekomst sponsoring nodig.",
+        "hr": "Da budem iskren, u budućnosti će mi trebati sponzorstvo.",
+        "tr": "Açık olmak gerekirse, ileride sponsorluğa ihtiyacım olacak.",
+        "uk": "Скажу відверто: у майбутньому мені знадобиться спонсорство.",
+        "ar": "لأكون صريحًا، سأحتاج إلى كفالة في المستقبل.",
+        "hi": "साफ़-साफ़ कहूँ तो, आगे चलकर मुझे स्पॉन्सरशिप की ज़रूरत होगी।",
+        "vi": "Nói thẳng thắn thì trong tương lai tôi sẽ cần được bảo lãnh.",
+        "id": "Terus terang, ke depannya saya akan membutuhkan sponsor.",
+        "ms": "Terus terang, saya akan memerlukan tajaan pada masa hadapan.",
+        "ko": "솔직히 말씀드리면, 나중에 스폰서십이 필요할 거예요."
+      },
+      "practice": "Para ser transparente, voy a necesitar patrocinio en el futuro.",
+      "practice_translations": {
+        "en": "To be transparent, I will need sponsorship in the future.",
+        "es": "Para ser transparente, voy a necesitar patrocinio en el futuro.",
+        "ja": "正直に申し上げますと、将来的にはビザのスポンサーが必要になります。",
+        "ko": "솔직히 말씀드리면, 나중에 스폰서십이 필요할 거예요."
+      }
+    },
+    {
+      "native": "I'm currently authorized to work, but my permit has an end date.",
+      "native_translations": {
+        "en": "I'm currently authorized to work, but my permit has an end date.",
+        "es": "Actualmente tengo autorización para trabajar, pero mi permiso tiene fecha de vencimiento.",
+        "fr": "J'ai actuellement le droit de travailler, mais mon permis a une date d'expiration.",
+        "de": "Ich habe derzeit eine Arbeitserlaubnis, aber sie ist befristet.",
+        "it": "Al momento sono autorizzato a lavorare, ma il mio permesso ha una scadenza.",
+        "pl": "Obecnie mam pozwolenie na pracę, ale jest ono ważne do określonej daty.",
+        "pt": "No momento tenho autorização para trabalhar, mas minha permissão tem data de validade.",
+        "nl": "Ik mag momenteel werken, maar mijn vergunning heeft een einddatum.",
+        "hr": "Trenutačno imam dozvolu za rad, ali ona ima datum isteka.",
+        "tr": "Şu anda çalışma iznim var ama iznimin bir bitiş tarihi var.",
+        "uk": "Зараз я маю дозвіл на роботу, але в нього є кінцева дата.",
+        "ar": "لديّ حاليًا تصريح بالعمل، لكن له تاريخ انتهاء.",
+        "hi": "अभी मेरे पास काम करने की अनुमति है, लेकिन मेरे परमिट की एक आख़िरी तारीख़ है।",
+        "vi": "Hiện tại tôi được phép làm việc, nhưng giấy phép của tôi có thời hạn.",
+        "id": "Saat ini saya punya izin kerja, tapi izin saya ada tanggal berakhirnya.",
+        "ms": "Sekarang saya dibenarkan bekerja, tetapi permit saya ada tarikh tamat.",
+        "ko": "지금은 일할 수 있는 자격이 있지만, 허가 기간이 정해져 있어요."
+      },
+      "practice": "Actualmente tengo autorización para trabajar, pero mi permiso tiene fecha de vencimiento.",
+      "practice_translations": {
+        "en": "I'm currently authorized to work, but my permit has an end date.",
+        "es": "Actualmente tengo autorización para trabajar, pero mi permiso tiene fecha de vencimiento.",
+        "ja": "現在は就労が認められていますが、許可には期限があります。",
+        "ko": "지금은 일할 수 있는 자격이 있지만, 허가 기간이 정해져 있어요."
+      }
+    },
+    {
+      "native": "I bring five years of experience with this kind of software.",
+      "native_translations": {
+        "en": "I bring five years of experience with this kind of software.",
+        "es": "Aporto cinco años de experiencia con este tipo de software.",
+        "fr": "J'ai cinq ans d'expérience avec ce type de logiciel.",
+        "de": "Ich bringe fünf Jahre Erfahrung mit dieser Art von Software mit.",
+        "it": "Porto cinque anni di esperienza con questo tipo di software.",
+        "pl": "Mam pięć lat doświadczenia z tego rodzaju oprogramowaniem.",
+        "pt": "Tenho cinco anos de experiência com esse tipo de software.",
+        "nl": "Ik heb vijf jaar ervaring met dit soort software.",
+        "hr": "Imam pet godina iskustva s ovakvim softverom.",
+        "tr": "Bu tür yazılımlarla beş yıllık deneyimim var.",
+        "uk": "У мене п'ять років досвіду роботи з таким програмним забезпеченням.",
+        "ar": "لديّ خبرة خمس سنوات في هذا النوع من البرمجيات.",
+        "hi": "मेरे पास इस तरह के सॉफ़्टवेयर के साथ पाँच साल का अनुभव है।",
+        "vi": "Tôi có năm năm kinh nghiệm với loại phần mềm này.",
+        "id": "Saya punya pengalaman lima tahun dengan perangkat lunak semacam ini.",
+        "ms": "Saya ada pengalaman lima tahun dengan perisian seperti ini.",
+        "ko": "저는 이런 소프트웨어를 5년 동안 다뤄 왔어요."
+      },
+      "practice": "Aporto cinco años de experiencia con este tipo de software.",
+      "practice_translations": {
+        "en": "I bring five years of experience with this kind of software.",
+        "es": "Aporto cinco años de experiencia con este tipo de software.",
+        "ja": "この種のソフトウェアについて、5年の経験があります。",
+        "ko": "저는 이런 소프트웨어를 5년 동안 다뤄 왔어요."
+      }
+    },
+    {
+      "native": "Has the company sponsored other employees before?",
+      "native_translations": {
+        "en": "Has the company sponsored other employees before?",
+        "es": "¿La empresa ha patrocinado a otros empleados antes?",
+        "fr": "L'entreprise a-t-elle déjà parrainé d'autres salariés ?",
+        "de": "Hat das Unternehmen schon einmal andere Mitarbeitende gesponsert?",
+        "it": "L'azienda ha già sponsorizzato altri dipendenti in passato?",
+        "pl": "Czy firma sponsorowała już wcześniej innych pracowników?",
+        "pt": "A empresa já patrocinou o visto de outros funcionários?",
+        "nl": "Heeft het bedrijf eerder andere werknemers gesponsord?",
+        "hr": "Je li tvrtka već sponzorirala druge zaposlenike?",
+        "tr": "Şirket daha önce başka çalışanlara sponsor oldu mu?",
+        "uk": "Чи спонсорувала компанія інших працівників раніше?",
+        "ar": "هل سبق للشركة أن كفلت موظفين آخرين؟",
+        "hi": "क्या कंपनी ने पहले दूसरे कर्मचारियों को स्पॉन्सर किया है?",
+        "vi": "Công ty đã từng bảo lãnh cho nhân viên nào khác chưa ạ?",
+        "id": "Apakah perusahaan pernah mensponsori karyawan lain sebelumnya?",
+        "ms": "Pernahkah syarikat ini menaja pekerja lain sebelum ini?",
+        "ko": "회사에서 전에 다른 직원의 스폰서를 해 준 적이 있나요?"
+      },
+      "practice": "¿La empresa ha patrocinado a otros empleados antes?",
+      "practice_translations": {
+        "en": "Has the company sponsored other employees before?",
+        "es": "¿La empresa ha patrocinado a otros empleados antes?",
+        "ja": "御社では、これまでにほかの社員のスポンサーになったことはありますか。",
+        "ko": "회사에서 전에 다른 직원의 스폰서를 해 준 적이 있나요?"
+      }
+    },
+    {
+      "native": "What would be the next steps in the process?",
+      "native_translations": {
+        "en": "What would be the next steps in the process?",
+        "es": "¿Cuáles serían los próximos pasos del proceso?",
+        "fr": "Quelles seraient les prochaines étapes du processus ?",
+        "de": "Was wären die nächsten Schritte im Verfahren?",
+        "it": "Quali sarebbero i prossimi passi della selezione?",
+        "pl": "Jakie byłyby kolejne etapy procesu?",
+        "pt": "Quais seriam os próximos passos do processo?",
+        "nl": "Wat zijn de volgende stappen in het proces?",
+        "hr": "Koji bi bili sljedeći koraci u postupku?",
+        "tr": "Süreçte sonraki adımlar neler olur?",
+        "uk": "Якими будуть наступні кроки?",
+        "ar": "ما الخطوات التالية في العملية؟",
+        "hi": "इस प्रक्रिया में अगले क़दम क्या होंगे?",
+        "vi": "Các bước tiếp theo trong quy trình sẽ là gì ạ?",
+        "id": "Apa langkah selanjutnya dalam prosesnya?",
+        "ms": "Apakah langkah seterusnya dalam proses ini?",
+        "ko": "다음 절차는 어떻게 되나요?"
+      },
+      "practice": "¿Cuáles serían los próximos pasos del proceso?",
+      "practice_translations": {
+        "en": "What would be the next steps in the process?",
+        "es": "¿Cuáles serían los próximos pasos del proceso?",
+        "ja": "選考の次のステップは何でしょうか。",
+        "ko": "다음 절차는 어떻게 되나요?"
+      }
+    }
+  ]
+}

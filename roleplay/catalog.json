@@ -1,0 +1,1414 @@
+{
+  "characters": [
+    {
+      "id": "fox",
+      "name": "Finn",
+      "image": "roleplay/images/characters/fox.webp",
+      "fullImage": "roleplay/images/characters/fox_full.webp",
+      "persona": "a quick-witted, slightly impatient but friendly fox"
+    }
+  ],
+  "categories": [
+    {
+      "id": "work",
+      "title": "Work",
+      "title_translations": {
+        "en": "Work",
+        "es": "Trabajo",
+        "fr": "Travail",
+        "de": "Arbeit",
+        "it": "Lavoro",
+        "pl": "Praca",
+        "pt": "Trabalho",
+        "nl": "Werk",
+        "hr": "Posao",
+        "tr": "İş",
+        "uk": "Робота",
+        "ar": "العمل",
+        "hi": "काम",
+        "vi": "Công việc",
+        "id": "Pekerjaan",
+        "ms": "Kerja",
+        "ko": "직장"
+      },
+      "description": "Practice interviews, first days, and everyday moments on the job",
+      "description_translations": {
+        "en": "Practice interviews, first days, and everyday moments on the job",
+        "es": "Practique entrevistas, primeros días y momentos cotidianos en el trabajo",
+        "fr": "Entraînez-vous aux entretiens, aux premiers jours et au quotidien au travail",
+        "de": "Üben Sie Vorstellungsgespräche, erste Arbeitstage und Alltagsmomente im Job",
+        "it": "Esercitati con colloqui, primi giorni e momenti quotidiani sul lavoro",
+        "pl": "Ćwicz rozmowy kwalifikacyjne, pierwsze dni i codzienne sytuacje w pracy",
+        "pt": "Pratique entrevistas, primeiros dias e momentos do dia a dia no trabalho",
+        "nl": "Oefen sollicitatiegesprekken, eerste werkdagen en alledaagse momenten op het werk",
+        "hr": "Vježbaj razgovore za posao, prve dane i svakodnevne trenutke na poslu",
+        "tr": "Mülakatları, ilk günleri ve iş yerindeki günlük anları çalışın",
+        "uk": "Співбесіди, перші дні та повсякденні ситуації на роботі",
+        "ar": "تدرّب على المقابلات والأيام الأولى واللحظات اليومية في العمل",
+        "hi": "इंटरव्यू, पहले दिन और काम के रोज़मर्रा के पलों का अभ्यास करें",
+        "vi": "Luyện phỏng vấn, ngày đầu đi làm và những tình huống thường ngày nơi công sở",
+        "id": "Latihan wawancara, hari pertama, dan momen sehari-hari di tempat kerja",
+        "ms": "Berlatih temu duga, hari pertama dan detik harian di tempat kerja",
+        "ko": "면접, 첫 출근, 직장의 일상적인 순간을 연습해요"
+      },
+      "icon": "roleplay/images/categories/work.png",
+      "iconBackground": "#F0EBFF",
+      "headerImage": "roleplay/images/categories/header_work.webp",
+      "situations": [
+        {
+          "id": "work_job_interview",
+          "title": "Job Interview",
+          "title_translations": {
+            "en": "Job Interview",
+            "es": "Entrevista de trabajo",
+            "fr": "Entretien d'embauche",
+            "de": "Vorstellungsgespräch",
+            "it": "Colloquio di lavoro",
+            "pl": "Rozmowa kwalifikacyjna",
+            "pt": "Entrevista de emprego",
+            "nl": "Sollicitatiegesprek",
+            "hr": "Razgovor za posao",
+            "tr": "İş Mülakatı",
+            "uk": "Співбесіда",
+            "ar": "مقابلة عمل",
+            "hi": "जॉब इंटरव्यू",
+            "vi": "Phỏng vấn xin việc",
+            "id": "Wawancara Kerja",
+            "ms": "Temu Duga Kerja",
+            "ko": "면접"
+          },
+          "image": "roleplay/images/situations/job_interview.webp",
+          "cases": [
+            "work_job_interview_c1",
+            "work_job_interview_c2",
+            "work_job_interview_c3",
+            "work_job_interview_c4"
+          ]
+        },
+        {
+          "id": "work_first_day",
+          "title": "First Day at Work",
+          "title_translations": {
+            "en": "First Day at Work",
+            "es": "Primer día de trabajo",
+            "fr": "Premier jour au travail",
+            "de": "Erster Arbeitstag",
+            "it": "Primo giorno di lavoro",
+            "pl": "Pierwszy dzień w pracy",
+            "pt": "Primeiro dia de trabalho",
+            "nl": "Eerste werkdag",
+            "hr": "Prvi dan na poslu",
+            "tr": "İşteki İlk Gün",
+            "uk": "Перший день на роботі",
+            "ar": "اليوم الأول في العمل",
+            "hi": "काम का पहला दिन",
+            "vi": "Ngày đầu đi làm",
+            "id": "Hari Pertama Kerja",
+            "ms": "Hari Pertama Bekerja",
+            "ko": "첫 출근"
+          },
+          "image": "roleplay/images/situations/first_day_at_work.webp",
+          "cases": [
+            "work_first_day_c1",
+            "work_first_day_c2"
+          ]
+        },
+        {
+          "id": "work_work_together_with_colleagues",
+          "title": "Work Together with Colleagues",
+          "title_translations": {
+            "en": "Work Together with Colleagues",
+            "es": "Trabajar con colegas",
+            "fr": "Travailler avec ses collègues",
+            "de": "Zusammenarbeit mit Kollegen",
+            "it": "Lavorare con i colleghi",
+            "pl": "Współpraca z kolegami",
+            "pt": "Trabalhar com colegas",
+            "nl": "Samenwerken met collega's",
+            "hr": "Suradnja s kolegama",
+            "tr": "İş Arkadaşlarıyla Birlikte Çalışmak",
+            "uk": "Робота з колегами",
+            "ar": "العمل مع الزملاء",
+            "hi": "सहकर्मियों के साथ मिलकर काम",
+            "vi": "Làm việc cùng đồng nghiệp",
+            "id": "Bekerja Sama dengan Rekan Kerja",
+            "ms": "Bekerjasama dengan Rakan Sekerja",
+            "ko": "동료와 함께 일하기"
+          },
+          "image": "roleplay/images/situations/work_together_with_colleagues.webp",
+          "cases": [
+            "work_work_together_with_colleagues_c1",
+            "work_work_together_with_colleagues_c2",
+            "work_work_together_with_colleagues_c3"
+          ]
+        },
+        {
+          "id": "work_reporting_progress_to_a_manager",
+          "title": "Reporting Progress to a Manager",
+          "title_translations": {
+            "en": "Reporting Progress to a Manager",
+            "es": "Informar su avance a la jefatura",
+            "fr": "Faire le point avec son responsable",
+            "de": "Fortschritte an die Führungskraft berichten",
+            "it": "Aggiornare il responsabile sui progressi",
+            "pl": "Raportowanie postępów przełożonemu",
+            "pt": "Relatar o progresso ao gestor",
+            "nl": "Voortgang rapporteren aan je manager",
+            "hr": "Izvještavanje nadređenog o napretku",
+            "tr": "Yöneticiye İlerleme Raporu Vermek",
+            "uk": "Звіт про прогрес керівнику",
+            "ar": "إبلاغ المدير بسير العمل",
+            "hi": "मैनेजर को प्रगति बताना",
+            "vi": "Báo cáo tiến độ với quản lý",
+            "id": "Melaporkan Progres ke Manajer",
+            "ms": "Melaporkan Kemajuan kepada Pengurus",
+            "ko": "상사에게 진행 상황 보고하기"
+          },
+          "image": "roleplay/images/situations/reporting_progress_to_a_manager.webp",
+          "cases": [
+            "work_reporting_progress_to_a_manager_c1",
+            "work_reporting_progress_to_a_manager_c2",
+            "work_reporting_progress_to_a_manager_c3"
+          ]
+        },
+        {
+          "id": "work_unique_issues_in_the_job_search",
+          "title": "Unique Issues in the Job Search",
+          "title_translations": {
+            "en": "Unique Issues in the Job Search",
+            "es": "Retos particulares en la búsqueda de empleo",
+            "fr": "Défis particuliers de la recherche d'emploi",
+            "de": "Besondere Hürden bei der Jobsuche",
+            "it": "Problemi particolari nella ricerca di lavoro",
+            "pl": "Nietypowe problemy przy szukaniu pracy",
+            "pt": "Desafios únicos na busca de emprego",
+            "nl": "Bijzondere problemen bij het zoeken naar werk",
+            "hr": "Posebni izazovi u traženju posla",
+            "tr": "İş Aramada Özel Sorunlar",
+            "uk": "Особливі складнощі в пошуку роботи",
+            "ar": "تحديات خاصة في البحث عن عمل",
+            "hi": "नौकरी की तलाश की ख़ास मुश्किलें",
+            "vi": "Những vấn đề riêng khi tìm việc",
+            "id": "Masalah Unik Saat Mencari Kerja",
+            "ms": "Isu Unik dalam Mencari Kerja",
+            "ko": "구직 중 겪는 특별한 문제"
+          },
+          "image": "roleplay/images/situations/unique_issues_in_the_job_search.webp",
+          "cases": [
+            "work_unique_issues_in_the_job_search_c1",
+            "work_unique_issues_in_the_job_search_c2",
+            "work_unique_issues_in_the_job_search_c3"
+          ]
+        },
+        {
+          "id": "work_understanding_job_offers_benefits",
+          "title": "Understanding Job Offers & Benefits",
+          "title_translations": {
+            "en": "Understanding Job Offers & Benefits",
+            "es": "Entender ofertas de trabajo y prestaciones",
+            "fr": "Comprendre les offres d'emploi et les avantages",
+            "de": "Jobangebote & Zusatzleistungen verstehen",
+            "it": "Capire offerte di lavoro e benefit",
+            "pl": "Oferty pracy i benefity",
+            "pt": "Entender ofertas de emprego e benefícios",
+            "nl": "Jobaanbiedingen en secundaire voorwaarden",
+            "hr": "Razumijevanje ponuda za posao i pogodnosti",
+            "tr": "İş Tekliflerini ve Yan Hakları Anlamak",
+            "uk": "Пропозиції роботи та пільги",
+            "ar": "فهم عروض العمل والمزايا",
+            "hi": "जॉब ऑफ़र और सुविधाएँ समझना",
+            "vi": "Hiểu lời mời làm việc & phúc lợi",
+            "id": "Memahami Tawaran Kerja & Tunjangan",
+            "ms": "Memahami Tawaran Kerja & Faedah",
+            "ko": "채용 제안과 복리후생 이해하기"
+          },
+          "image": "roleplay/images/situations/understanding_job_offers_benefits.webp",
+          "cases": [
+            "work_understanding_job_offers_benefits_c1",
+            "work_understanding_job_offers_benefits_c2",
+            "work_understanding_job_offers_benefits_c3"
+          ]
+        },
+        {
+          "id": "work_knowing_your_workplace_rights_culture",
+          "title": "Knowing Your Workplace Rights & Culture",
+          "title_translations": {
+            "en": "Knowing Your Workplace Rights & Culture",
+            "es": "Conocer sus derechos y la cultura laboral",
+            "fr": "Connaître ses droits et la culture d'entreprise",
+            "de": "Rechte & Kultur am Arbeitsplatz kennen",
+            "it": "Conoscere diritti e cultura sul lavoro",
+            "pl": "Twoje prawa i kultura w miejscu pracy",
+            "pt": "Conhecer seus direitos e a cultura no trabalho",
+            "nl": "Je rechten en de cultuur op het werk",
+            "hr": "Tvoja prava i kultura na radnom mjestu",
+            "tr": "İş Yeri Haklarınızı ve Kültürünü Tanımak",
+            "uk": "Права працівника та робоча культура",
+            "ar": "معرفة حقوقك وثقافة مكان العمل",
+            "hi": "कार्यस्थल पर अपने अधिकार और संस्कृति जानना",
+            "vi": "Hiểu quyền lợi & văn hóa nơi làm việc",
+            "id": "Mengenal Hak & Budaya Kerja",
+            "ms": "Mengenali Hak & Budaya Tempat Kerja",
+            "ko": "직장 내 권리와 문화 알기"
+          },
+          "image": "roleplay/images/situations/knowing_your_workplace_rights_culture.webp",
+          "cases": [
+            "work_knowing_your_workplace_rights_culture_c1",
+            "work_knowing_your_workplace_rights_culture_c2",
+            "work_knowing_your_workplace_rights_culture_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily_life",
+      "title": "Viral Daily Life",
+      "title_translations": {
+        "en": "Viral Daily Life",
+        "es": "Vida diaria viral",
+        "fr": "Quotidien viral",
+        "de": "Verrückter Alltag",
+        "it": "Vita quotidiana virale",
+        "pl": "Codzienność na wesoło",
+        "pt": "Cotidiano viral",
+        "nl": "Viraal dagelijks leven",
+        "hr": "Viralna svakodnevica",
+        "tr": "Viral Günlük Hayat",
+        "uk": "Вірусні будні",
+        "ar": "مواقف يومية طريفة",
+        "hi": "वायरल रोज़मर्रा की ज़िंदगी",
+        "vi": "Đời thường \"viral\"",
+        "id": "Kehidupan Sehari-hari yang Viral",
+        "ms": "Kehidupan Harian Viral",
+        "ko": "화제의 일상"
+      },
+      "description": "Handle the weird, awkward, and unexpected in daily life",
+      "description_translations": {
+        "en": "Handle the weird, awkward, and unexpected in daily life",
+        "es": "Enfrente lo raro, lo incómodo y lo inesperado de la vida diaria",
+        "fr": "Gérez l'étrange, le gênant et l'imprévu au quotidien",
+        "de": "Meistern Sie die seltsamen, peinlichen und unerwarteten Momente im Alltag",
+        "it": "Affronta le situazioni strane, imbarazzanti e inaspettate della vita di tutti i giorni",
+        "pl": "Poradź sobie z dziwnymi, niezręcznymi i nieoczekiwanymi sytuacjami na co dzień",
+        "pt": "Lide com o estranho, o constrangedor e o inesperado no dia a dia",
+        "nl": "Ga om met het rare, ongemakkelijke en onverwachte in het dagelijks leven",
+        "hr": "Snađi se u čudnim, neugodnim i neočekivanim situacijama svakodnevice",
+        "tr": "Günlük hayattaki tuhaf, garip ve beklenmedik durumlarla başa çıkın",
+        "uk": "Дивні, незручні й несподівані ситуації в повсякденному житті",
+        "ar": "تعامل مع المواقف الغريبة والمحرجة وغير المتوقعة في حياتك اليومية",
+        "hi": "रोज़मर्रा की अजीब, असहज और अनोखी स्थितियों को संभालें",
+        "vi": "Xử lý những tình huống kỳ quặc, khó xử và bất ngờ trong cuộc sống",
+        "id": "Hadapi hal aneh, canggung, dan tak terduga dalam keseharian",
+        "ms": "Tangani perkara pelik, janggal dan tidak dijangka dalam kehidupan harian",
+        "ko": "일상 속 황당하고 어색하고 뜻밖의 상황에 대처해요"
+      },
+      "icon": "roleplay/images/categories/daily_life.png",
+      "iconBackground": "#EAEBF9",
+      "headerImage": "roleplay/images/categories/header_daily_life.webp",
+      "situations": [
+        {
+          "id": "daily_life_confronting_a_peculiar_neighbor",
+          "title": "Confronting a Peculiar Neighbor",
+          "title_translations": {
+            "en": "Confronting a Peculiar Neighbor",
+            "es": "Enfrentar a un vecino peculiar",
+            "fr": "Face à un voisin étrange",
+            "de": "Ein merkwürdiger Nachbar",
+            "it": "Affrontare un vicino bizzarro",
+            "pl": "Konfrontacja z dziwnym sąsiadem",
+            "pt": "Enfrentar um vizinho peculiar",
+            "nl": "Een vreemde buurman aanspreken",
+            "hr": "Suočavanje s neobičnim susjedom",
+            "tr": "Tuhaf Bir Komşuyla Yüzleşmek",
+            "uk": "Розмова з дивакуватим сусідом",
+            "ar": "مواجهة جار غريب الأطوار",
+            "hi": "अजीब पड़ोसी से बात करना",
+            "vi": "Đối mặt với người hàng xóm kỳ lạ",
+            "id": "Menegur Tetangga yang Aneh",
+            "ms": "Berdepan Jiran yang Pelik",
+            "ko": "별난 이웃과 담판 짓기"
+          },
+          "image": "roleplay/images/situations/confronting_a_peculiar_neighbor.webp",
+          "cases": [
+            "daily_life_confronting_a_peculiar_neighbor_c1",
+            "daily_life_confronting_a_peculiar_neighbor_c2",
+            "daily_life_confronting_a_peculiar_neighbor_c3"
+          ]
+        },
+        {
+          "id": "daily_life_food_delivery",
+          "title": "The Food Delivery Is Bizarrely Wrong",
+          "title_translations": {
+            "en": "The Food Delivery Is Bizarrely Wrong",
+            "es": "La comida a domicilio llegó absurdamente mal",
+            "fr": "La livraison de repas est complètement à côté de la plaque",
+            "de": "Die Essenslieferung ist völlig falsch",
+            "it": "La consegna di cibo è assurdamente sbagliata",
+            "pl": "Dostawa jedzenia kompletnie nie taka",
+            "pt": "O delivery veio absurdamente errado",
+            "nl": "De bezorgmaaltijd is bizar fout",
+            "hr": "Dostava hrane je potpuno pogrešna",
+            "tr": "Yemek Siparişi Tuhaf Şekilde Yanlış Geldi",
+            "uk": "Доставка їжі пішла шкереберть",
+            "ar": "طلب توصيل طعام خاطئ بشكل عجيب",
+            "hi": "फ़ूड डिलीवरी में अजीबोग़रीब गड़बड़",
+            "vi": "Đơn đồ ăn giao sai một cách khó tin",
+            "id": "Pesanan Makanan yang Salah Parah",
+            "ms": "Penghantaran Makanan yang Sangat Salah",
+            "ko": "황당하게 잘못 온 음식 배달"
+          },
+          "image": "roleplay/images/situations/the_food_delivery_is_bizarrely_wrong.webp",
+          "cases": [
+            "daily_life_food_delivery_c1",
+            "daily_life_food_delivery_c2",
+            "daily_life_food_delivery_c3",
+            "daily_life_food_delivery_c4",
+            "daily_life_food_delivery_c5"
+          ]
+        },
+        {
+          "id": "daily_life_ordering_at_a_hipster_cafe",
+          "title": "Ordering at a \"Hipster\" Cafe",
+          "title_translations": {
+            "en": "Ordering at a \"Hipster\" Cafe",
+            "es": "Pedir en una cafetería \"hípster\"",
+            "fr": "Commander dans un café « hipster »",
+            "de": "Bestellen im „Hipster“-Café",
+            "it": "Ordinare in un caffè \"hipster\"",
+            "pl": "Zamawianie w „hipsterskiej” kawiarni",
+            "pt": "Pedindo em um café \"hipster\"",
+            "nl": "Bestellen in een 'hipster'-café",
+            "hr": "Naručivanje u „hipsterskom” kafiću",
+            "tr": "\"Hipster\" Bir Kafede Sipariş Vermek",
+            "uk": "Замовлення в «хіпстерській» кав'ярні",
+            "ar": "الطلب في مقهى «هيبستر»",
+            "hi": "\"हिप्स्टर\" कैफ़े में ऑर्डर करना",
+            "vi": "Gọi món ở quán cà phê \"Hipster\"",
+            "id": "Memesan di Kafe \"Hipster\"",
+            "ms": "Memesan di Kafe \"Hipster\"",
+            "ko": "\"힙스터\" 카페에서 주문하기"
+          },
+          "image": "roleplay/images/situations/ordering_at_a_hipster_cafe.webp",
+          "cases": [
+            "daily_life_ordering_at_a_hipster_cafe_c1",
+            "daily_life_ordering_at_a_hipster_cafe_c2",
+            "daily_life_ordering_at_a_hipster_cafe_c3"
+          ]
+        },
+        {
+          "id": "daily_life_social_drama_at_the_dog_park",
+          "title": "Social Drama at the Dog Park",
+          "title_translations": {
+            "en": "Social Drama at the Dog Park",
+            "es": "Drama social en el parque para perros",
+            "fr": "Drame social au parc à chiens",
+            "de": "Drama im Hundepark",
+            "it": "Drammi sociali al parco per cani",
+            "pl": "Drama na wybiegu dla psów",
+            "pt": "Drama social no parque de cachorros",
+            "nl": "Drama in het hondenlosloopgebied",
+            "hr": "Drama u parku za pse",
+            "tr": "Köpek Parkında Sosyal Dram",
+            "uk": "Драма на собачому майданчику",
+            "ar": "دراما اجتماعية في حديقة الكلاب",
+            "hi": "डॉग पार्क में सामाजिक ड्रामा",
+            "vi": "Drama ở công viên chó",
+            "id": "Drama Sosial di Taman Anjing",
+            "ms": "Drama Sosial di Taman Anjing",
+            "ko": "애견 공원의 사교 드라마"
+          },
+          "image": "roleplay/images/situations/social_drama_at_the_dog_park.webp",
+          "cases": [
+            "daily_life_social_drama_at_the_dog_park_c1",
+            "daily_life_social_drama_at_the_dog_park_c2",
+            "daily_life_social_drama_at_the_dog_park_c3"
+          ]
+        },
+        {
+          "id": "daily_life_the_most_awkward_blind_date_ever",
+          "title": "The Most Awkward Blind Date Ever",
+          "title_translations": {
+            "en": "The Most Awkward Blind Date Ever",
+            "es": "La cita a ciegas más incómoda de la historia",
+            "fr": "Le rendez-vous à l'aveugle le plus gênant de tous les temps",
+            "de": "Das peinlichste Blind Date aller Zeiten",
+            "it": "L'appuntamento al buio più imbarazzante di sempre",
+            "pl": "Najbardziej niezręczna randka w ciemno",
+            "pt": "O encontro às cegas mais constrangedor de todos",
+            "nl": "De ongemakkelijkste blind date ooit",
+            "hr": "Najneugodniji spoj naslijepo ikad",
+            "tr": "Gelmiş Geçmiş En Garip Kör Randevu",
+            "uk": "Найнезручніше побачення наосліп",
+            "ar": "أكثر موعد أعمى إحراجًا على الإطلاق",
+            "hi": "अब तक की सबसे अटपटी ब्लाइंड डेट",
+            "vi": "Buổi hẹn giấu mặt khó xử nhất",
+            "id": "Kencan Buta Paling Canggung",
+            "ms": "Janji Temu Buta Paling Janggal",
+            "ko": "역대급으로 어색한 소개팅"
+          },
+          "image": "roleplay/images/situations/the_most_awkward_blind_date_ever.webp",
+          "cases": [
+            "daily_life_the_most_awkward_blind_date_ever_c1",
+            "daily_life_the_most_awkward_blind_date_ever_c2",
+            "daily_life_the_most_awkward_blind_date_ever_c3"
+          ]
+        },
+        {
+          "id": "daily_life_making_a_wish_to_a_smarter_speaker",
+          "title": "Making a Wish to a Smarter Speaker",
+          "title_translations": {
+            "en": "Making a Wish to a Smarter Speaker",
+            "es": "Pedirle un deseo a un altavoz demasiado listo",
+            "fr": "Faire un vœu à une enceinte un peu trop maligne",
+            "de": "Ein Wunsch an den schlauen Lautsprecher",
+            "it": "Esprimere un desiderio a uno smart speaker",
+            "pl": "Życzenie do sprytniejszego głośnika",
+            "pt": "Fazendo um pedido a um alto-falante inteligente",
+            "nl": "Een wens doen bij een slimmere speaker",
+            "hr": "Želja za pametnijim zvučnikom",
+            "tr": "Akıllı Hoparlörden Dilek Dilemek",
+            "uk": "Бажання для надто розумної колонки",
+            "ar": "طلب أمنية من مكبّر صوت أذكى",
+            "hi": "स्मार्ट स्पीकर से एक ख़्वाहिश",
+            "vi": "Ra lệnh cho loa thông minh \"quá thông minh\"",
+            "id": "Meminta Permohonan ke Speaker Pintar",
+            "ms": "Membuat Hajat kepada Pembesar Suara Pintar",
+            "ko": "똑똑한 스피커에게 소원 빌기"
+          },
+          "image": "roleplay/images/situations/making_a_wish_to_a_smarter_speaker.webp",
+          "cases": [
+            "daily_life_making_a_wish_to_a_smarter_speaker_c1",
+            "daily_life_making_a_wish_to_a_smarter_speaker_c2",
+            "daily_life_making_a_wish_to_a_smarter_speaker_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "study_abroad",
+      "title": "Study Abroad",
+      "title_translations": {
+        "en": "Study Abroad",
+        "es": "Estudiar en el extranjero",
+        "fr": "Études à l'étranger",
+        "de": "Auslandsstudium",
+        "it": "Studiare all'estero",
+        "pl": "Studia za granicą",
+        "pt": "Estudar no exterior",
+        "nl": "Studeren in het buitenland",
+        "hr": "Studij u inozemstvu",
+        "tr": "Yurt Dışında Eğitim",
+        "uk": "Навчання за кордоном",
+        "ar": "الدراسة في الخارج",
+        "hi": "विदेश में पढ़ाई",
+        "vi": "Du học",
+        "id": "Kuliah di Luar Negeri",
+        "ms": "Belajar di Luar Negara",
+        "ko": "유학"
+      },
+      "description": "From campus arrival to student life, admin, and career prep",
+      "description_translations": {
+        "en": "From campus arrival to student life, admin, and career prep",
+        "es": "Desde la llegada al campus hasta la vida estudiantil, los trámites y la preparación profesional",
+        "fr": "De l'arrivée sur le campus à la vie étudiante, l'administration et la préparation à la carrière",
+        "de": "Von der Ankunft auf dem Campus bis zu Studentenleben, Formalitäten und Berufsvorbereitung",
+        "it": "Dall'arrivo al campus alla vita da studente, pratiche e preparazione alla carriera",
+        "pl": "Od przyjazdu na kampus po życie studenckie, formalności i przygotowanie do kariery",
+        "pt": "Da chegada ao campus à vida estudantil, burocracia e preparação para a carreira",
+        "nl": "Van aankomst op de campus tot studentenleven, administratie en loopbaanvoorbereiding",
+        "hr": "Od dolaska na kampus do studentskog života, administracije i pripreme za karijeru",
+        "tr": "Kampüse varıştan öğrenci hayatına, resmi işlere ve kariyer hazırlığına",
+        "uk": "Від приїзду в кампус до студентського життя, документів і кар'єри",
+        "ar": "من الوصول إلى الحرم الجامعي إلى الحياة الطلابية والإجراءات الإدارية والاستعداد المهني",
+        "hi": "कैंपस पहुँचने से लेकर छात्र जीवन, कागज़ी काम और करियर की तैयारी तक",
+        "vi": "Từ ngày đến trường đến đời sống sinh viên, thủ tục và chuẩn bị nghề nghiệp",
+        "id": "Dari tiba di kampus hingga kehidupan mahasiswa, administrasi, dan persiapan karier",
+        "ms": "Dari tiba di kampus hingga kehidupan pelajar, urusan pentadbiran dan persediaan kerjaya",
+        "ko": "캠퍼스 도착부터 학생 생활, 행정 업무, 취업 준비까지"
+      },
+      "icon": "roleplay/images/categories/study_abroad.png",
+      "iconBackground": "#D7FDFE",
+      "headerImage": "roleplay/images/categories/header_study_abroad.webp",
+      "situations": [
+        {
+          "id": "study_abroad_campus_arrival_orientation",
+          "title": "Campus Arrival & Orientation",
+          "title_translations": {
+            "en": "Campus Arrival & Orientation",
+            "es": "Llegada al campus y orientación",
+            "fr": "Arrivée sur le campus et orientation",
+            "de": "Ankunft auf dem Campus & Orientierung",
+            "it": "Arrivo al campus e orientamento",
+            "pl": "Przyjazd na kampus i orientacja",
+            "pt": "Chegada ao campus e orientação",
+            "nl": "Aankomst op de campus en introductie",
+            "hr": "Dolazak na kampus i orijentacija",
+            "tr": "Kampüse Varış ve Oryantasyon",
+            "uk": "Приїзд у кампус і орієнтація",
+            "ar": "الوصول إلى الحرم الجامعي والتوجيه",
+            "hi": "कैंपस आगमन और ओरिएंटेशन",
+            "vi": "Đến trường & định hướng",
+            "id": "Tiba di Kampus & Orientasi",
+            "ms": "Tiba di Kampus & Orientasi",
+            "ko": "캠퍼스 도착과 오리엔테이션"
+          },
+          "image": "roleplay/images/situations/campus_arrival_orientation.webp",
+          "cases": [
+            "study_abroad_campus_arrival_orientation_c1",
+            "study_abroad_campus_arrival_orientation_c2",
+            "study_abroad_campus_arrival_orientation_c3"
+          ]
+        },
+        {
+          "id": "study_abroad_daily_social_life",
+          "title": "Daily & Social Life",
+          "title_translations": {
+            "en": "Daily & Social Life",
+            "es": "Vida diaria y social",
+            "fr": "Vie quotidienne et sociale",
+            "de": "Alltag & soziales Leben",
+            "it": "Vita quotidiana e sociale",
+            "pl": "Codzienność i życie towarzyskie",
+            "pt": "Vida cotidiana e social",
+            "nl": "Dagelijks en sociaal leven",
+            "hr": "Svakodnevni i društveni život",
+            "tr": "Günlük ve Sosyal Hayat",
+            "uk": "Побут і соціальне життя",
+            "ar": "الحياة اليومية والاجتماعية",
+            "hi": "रोज़मर्रा और सामाजिक जीवन",
+            "vi": "Sinh hoạt & đời sống xã hội",
+            "id": "Kehidupan Sehari-hari & Sosial",
+            "ms": "Kehidupan Harian & Sosial",
+            "ko": "일상과 사교 생활"
+          },
+          "image": "roleplay/images/situations/daily_social_life.webp",
+          "cases": [
+            "study_abroad_daily_social_life_c1",
+            "study_abroad_daily_social_life_c2",
+            "study_abroad_daily_social_life_c3"
+          ]
+        },
+        {
+          "id": "study_abroad_administration_seeking_help",
+          "title": "Administration & Seeking Help",
+          "title_translations": {
+            "en": "Administration & Seeking Help",
+            "es": "Trámites y búsqueda de ayuda",
+            "fr": "Administration et demandes d'aide",
+            "de": "Verwaltung & Hilfe suchen",
+            "it": "Pratiche amministrative e chiedere aiuto",
+            "pl": "Formalności i szukanie pomocy",
+            "pt": "Burocracia e pedidos de ajuda",
+            "nl": "Administratie en hulp vragen",
+            "hr": "Administracija i traženje pomoći",
+            "tr": "Resmi İşler ve Yardım İstemek",
+            "uk": "Адміністрація та пошук допомоги",
+            "ar": "الإدارة وطلب المساعدة",
+            "hi": "प्रशासन और मदद माँगना",
+            "vi": "Thủ tục hành chính & tìm trợ giúp",
+            "id": "Administrasi & Meminta Bantuan",
+            "ms": "Pentadbiran & Mendapatkan Bantuan",
+            "ko": "행정 업무와 도움 요청"
+          },
+          "image": "roleplay/images/situations/administration_seeking_help.webp",
+          "cases": [
+            "study_abroad_administration_seeking_help_c1",
+            "study_abroad_administration_seeking_help_c2",
+            "study_abroad_administration_seeking_help_c3"
+          ]
+        },
+        {
+          "id": "study_abroad_off_campus_career_prep",
+          "title": "Off-Campus & Career Prep",
+          "title_translations": {
+            "en": "Off-Campus & Career Prep",
+            "es": "Fuera del campus y preparación profesional",
+            "fr": "Hors campus et préparation à la carrière",
+            "de": "Außerhalb des Campus & Berufsvorbereitung",
+            "it": "Fuori dal campus e preparazione alla carriera",
+            "pl": "Poza kampusem i przygotowanie do kariery",
+            "pt": "Fora do campus e preparação para a carreira",
+            "nl": "Buiten de campus en loopbaanvoorbereiding",
+            "hr": "Život izvan kampusa i priprema za karijeru",
+            "tr": "Kampüs Dışı ve Kariyer Hazırlığı",
+            "uk": "Життя поза кампусом і кар'єра",
+            "ar": "خارج الحرم والاستعداد المهني",
+            "hi": "कैंपस के बाहर और करियर की तैयारी",
+            "vi": "Ngoài trường & chuẩn bị nghề nghiệp",
+            "id": "Luar Kampus & Persiapan Karier",
+            "ms": "Luar Kampus & Persediaan Kerjaya",
+            "ko": "캠퍼스 밖 생활과 취업 준비"
+          },
+          "image": "roleplay/images/situations/off_campus_career_prep.webp",
+          "cases": [
+            "study_abroad_off_campus_career_prep_c1",
+            "study_abroad_off_campus_career_prep_c2",
+            "study_abroad_off_campus_career_prep_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family",
+      "title_translations": {
+        "en": "Family",
+        "es": "Familia",
+        "fr": "Famille",
+        "de": "Familie",
+        "it": "Famiglia",
+        "pl": "Rodzina",
+        "pt": "Família",
+        "nl": "Gezin",
+        "hr": "Obitelj",
+        "tr": "Aile",
+        "uk": "Сім'я",
+        "ar": "العائلة",
+        "hi": "परिवार",
+        "vi": "Gia đình",
+        "id": "Keluarga",
+        "ms": "Keluarga",
+        "ko": "가족"
+      },
+      "description": "Talk to schools, handle health, and find community support",
+      "description_translations": {
+        "en": "Talk to schools, handle health, and find community support",
+        "es": "Hable con la escuela, atienda la salud y encuentre apoyo en la comunidad",
+        "fr": "Échangez avec l'école, gérez la santé et trouvez du soutien local",
+        "de": "Sprechen Sie mit der Schule, kümmern Sie sich um die Gesundheit und finden Sie Unterstützung vor Ort",
+        "it": "Parla con la scuola, gestisci la salute e trova supporto nella comunità",
+        "pl": "Rozmawiaj ze szkołą, dbaj o zdrowie i znajdź wsparcie w społeczności",
+        "pt": "Converse com escolas, cuide da saúde e encontre apoio na comunidade",
+        "nl": "Praat met scholen, zorg voor de gezondheid en vind steun in de buurt",
+        "hr": "Razgovaraj sa školom, brini o zdravlju i pronađi podršku zajednice",
+        "tr": "Okullarla konuşun, sağlık konularını halledin ve toplum desteği bulun",
+        "uk": "Спілкування зі школою, здоров'я та підтримка громади",
+        "ar": "تواصل مع المدارس واهتم بالصحة واعثر على دعم المجتمع",
+        "hi": "स्कूल से बात करें, सेहत संभालें और समुदाय से मदद पाएँ",
+        "vi": "Trao đổi với nhà trường, chăm lo sức khỏe và tìm hỗ trợ cộng đồng",
+        "id": "Berkomunikasi dengan sekolah, urusan kesehatan, dan cari dukungan komunitas",
+        "ms": "Berbincang dengan sekolah, urus kesihatan dan cari sokongan komuniti",
+        "ko": "학교와 소통하고, 건강을 챙기고, 지역 사회 지원을 찾아요"
+      },
+      "icon": "roleplay/images/categories/family.png",
+      "iconBackground": "#FFF4F8",
+      "headerImage": "roleplay/images/categories/header_family.webp",
+      "situations": [
+        {
+          "id": "family_communicating_with_the_school",
+          "title": "Communicating with the School",
+          "title_translations": {
+            "en": "Communicating with the School",
+            "es": "Comunicarse con la escuela",
+            "fr": "Communiquer avec l'école",
+            "de": "Kommunikation mit der Schule",
+            "it": "Comunicare con la scuola",
+            "pl": "Kontakt ze szkołą",
+            "pt": "Comunicação com a escola",
+            "nl": "Contact met de school",
+            "hr": "Komunikacija sa školom",
+            "tr": "Okulla İletişim Kurmak",
+            "uk": "Спілкування зі школою",
+            "ar": "التواصل مع المدرسة",
+            "hi": "स्कूल से बातचीत",
+            "vi": "Trao đổi với nhà trường",
+            "id": "Berkomunikasi dengan Sekolah",
+            "ms": "Berkomunikasi dengan Sekolah",
+            "ko": "학교와 소통하기"
+          },
+          "image": "roleplay/images/situations/communicating_with_the_school.webp",
+          "cases": [
+            "family_communicating_with_the_school_c1",
+            "family_communicating_with_the_school_c2",
+            "family_communicating_with_the_school_c3"
+          ]
+        },
+        {
+          "id": "family_handling_your_child_s_health",
+          "title": "Handling Your Child's Health",
+          "title_translations": {
+            "en": "Handling Your Child's Health",
+            "es": "Cuidar la salud de su hijo",
+            "fr": "Gérer la santé de son enfant",
+            "de": "Die Gesundheit Ihres Kindes",
+            "it": "Gestire la salute di tuo figlio",
+            "pl": "Zdrowie dziecka",
+            "pt": "Cuidar da saúde do seu filho",
+            "nl": "De gezondheid van je kind",
+            "hr": "Briga o zdravlju djeteta",
+            "tr": "Çocuğunuzun Sağlığıyla İlgilenmek",
+            "uk": "Здоров'я дитини",
+            "ar": "الاهتمام بصحة طفلك",
+            "hi": "बच्चे की सेहत संभालना",
+            "vi": "Chăm lo sức khỏe cho con",
+            "id": "Mengurus Kesehatan Anak",
+            "ms": "Mengurus Kesihatan Anak Anda",
+            "ko": "아이의 건강 챙기기"
+          },
+          "image": "roleplay/images/situations/handling_your_child_s_health.webp",
+          "cases": [
+            "family_handling_your_child_s_health_c1",
+            "family_handling_your_child_s_health_c2",
+            "family_handling_your_child_s_health_c3"
+          ]
+        },
+        {
+          "id": "family_understanding_community_resources",
+          "title": "Understanding Community Resources",
+          "title_translations": {
+            "en": "Understanding Community Resources",
+            "es": "Conocer los recursos comunitarios",
+            "fr": "Comprendre les ressources locales",
+            "de": "Angebote vor Ort verstehen",
+            "it": "Capire le risorse della comunità",
+            "pl": "Zasoby lokalnej społeczności",
+            "pt": "Entender os recursos da comunidade",
+            "nl": "Voorzieningen in de buurt",
+            "hr": "Upoznavanje resursa zajednice",
+            "tr": "Toplum Kaynaklarını Anlamak",
+            "uk": "Ресурси громади",
+            "ar": "فهم موارد المجتمع",
+            "hi": "सामुदायिक संसाधनों को समझना",
+            "vi": "Tìm hiểu nguồn hỗ trợ cộng đồng",
+            "id": "Memahami Layanan Komunitas",
+            "ms": "Memahami Sumber Komuniti",
+            "ko": "지역 사회 지원 알아보기"
+          },
+          "image": "roleplay/images/situations/understanding_community_resources.webp",
+          "cases": [
+            "family_understanding_community_resources_c1",
+            "family_understanding_community_resources_c2",
+            "family_understanding_community_resources_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "title": "Society & Culture",
+      "title_translations": {
+        "en": "Society & Culture",
+        "es": "Sociedad y cultura",
+        "fr": "Société et culture",
+        "de": "Gesellschaft & Kultur",
+        "it": "Società e cultura",
+        "pl": "Społeczeństwo i kultura",
+        "pt": "Sociedade e cultura",
+        "nl": "Maatschappij en cultuur",
+        "hr": "Društvo i kultura",
+        "tr": "Toplum ve Kültür",
+        "uk": "Суспільство і культура",
+        "ar": "المجتمع والثقافة",
+        "hi": "समाज और संस्कृति",
+        "vi": "Xã hội & văn hóa",
+        "id": "Masyarakat & Budaya",
+        "ms": "Masyarakat & Budaya",
+        "ko": "사회와 문화"
+      },
+      "description": "Understand local laws, customs, and public services",
+      "description_translations": {
+        "en": "Understand local laws, customs, and public services",
+        "es": "Entienda las leyes, las costumbres y los servicios públicos locales",
+        "fr": "Comprenez les lois, les coutumes et les services publics locaux",
+        "de": "Verstehen Sie lokale Gesetze, Bräuche und öffentliche Dienste",
+        "it": "Comprendi leggi, usanze e servizi pubblici locali",
+        "pl": "Poznaj lokalne prawo, zwyczaje i usługi publiczne",
+        "pt": "Entenda as leis locais, os costumes e os serviços públicos",
+        "nl": "Begrijp lokale wetten, gewoonten en openbare diensten",
+        "hr": "Upoznaj lokalne zakone, običaje i javne usluge",
+        "tr": "Yerel yasaları, gelenekleri ve kamu hizmetlerini anlayın",
+        "uk": "Місцеві закони, звичаї та державні послуги",
+        "ar": "افهم القوانين والعادات والخدمات العامة المحلية",
+        "hi": "स्थानीय क़ानून, रीति-रिवाज और सार्वजनिक सेवाएँ समझें",
+        "vi": "Hiểu luật lệ, phong tục địa phương và các dịch vụ công",
+        "id": "Pahami hukum setempat, adat istiadat, dan layanan publik",
+        "ms": "Fahami undang-undang, adat dan perkhidmatan awam tempatan",
+        "ko": "현지 법률, 관습, 공공 서비스를 이해해요"
+      },
+      "icon": "roleplay/images/categories/society.png",
+      "iconBackground": "#FFFFEA",
+      "headerImage": "roleplay/images/categories/header_society.webp",
+      "situations": [
+        {
+          "id": "society_understanding_everyday_laws_rights",
+          "title": "Understanding Everyday Laws & Rights",
+          "title_translations": {
+            "en": "Understanding Everyday Laws & Rights",
+            "es": "Entender leyes y derechos cotidianos",
+            "fr": "Comprendre les lois et droits du quotidien",
+            "de": "Alltägliche Gesetze & Rechte verstehen",
+            "it": "Capire le leggi e i diritti di tutti i giorni",
+            "pl": "Codzienne prawo i twoje prawa",
+            "pt": "Entender leis e direitos do dia a dia",
+            "nl": "Alledaagse wetten en rechten",
+            "hr": "Svakodnevni zakoni i prava",
+            "tr": "Günlük Yasaları ve Hakları Anlamak",
+            "uk": "Повсякденні закони та права",
+            "ar": "فهم القوانين والحقوق اليومية",
+            "hi": "रोज़मर्रा के क़ानून और अधिकार समझना",
+            "vi": "Hiểu luật lệ & quyền lợi thường ngày",
+            "id": "Memahami Hukum & Hak Sehari-hari",
+            "ms": "Memahami Undang-undang & Hak Harian",
+            "ko": "생활 속 법률과 권리 이해하기"
+          },
+          "image": "roleplay/images/situations/understanding_everyday_laws_rights.webp",
+          "cases": [
+            "society_understanding_everyday_laws_rights_c1",
+            "society_understanding_everyday_laws_rights_c2",
+            "society_understanding_everyday_laws_rights_c3"
+          ]
+        },
+        {
+          "id": "society_adapting_to_social_customs_etiquette",
+          "title": "Adapting to Social Customs & Etiquette",
+          "title_translations": {
+            "en": "Adapting to Social Customs & Etiquette",
+            "es": "Adaptarse a costumbres y normas de cortesía",
+            "fr": "S'adapter aux coutumes et à l'étiquette",
+            "de": "Sich an Bräuche & Umgangsformen anpassen",
+            "it": "Adattarsi a usanze sociali e galateo",
+            "pl": "Lokalne zwyczaje i savoir-vivre",
+            "pt": "Adaptar-se aos costumes e à etiqueta social",
+            "nl": "Wennen aan sociale gewoonten en etiquette",
+            "hr": "Prilagodba društvenim običajima i bontonu",
+            "tr": "Sosyal Geleneklere ve Görgü Kurallarına Uyum",
+            "uk": "Звичаї та етикет",
+            "ar": "التكيّف مع العادات الاجتماعية وآداب التعامل",
+            "hi": "सामाजिक रीति-रिवाज और शिष्टाचार अपनाना",
+            "vi": "Thích nghi với phong tục & phép lịch sự",
+            "id": "Beradaptasi dengan Adat & Etiket Sosial",
+            "ms": "Menyesuaikan Diri dengan Adat & Etika Sosial",
+            "ko": "사회 관습과 예절에 적응하기"
+          },
+          "image": "roleplay/images/situations/adapting_to_social_customs_etiquette.webp",
+          "cases": [
+            "society_adapting_to_social_customs_etiquette_c1",
+            "society_adapting_to_social_customs_etiquette_c2",
+            "society_adapting_to_social_customs_etiquette_c3"
+          ]
+        },
+        {
+          "id": "society_navigating_public_services_situation",
+          "title": "Navigating Public Services & Situation",
+          "title_translations": {
+            "en": "Navigating Public Services & Situation",
+            "es": "Moverse en los servicios públicos y sus situaciones",
+            "fr": "S'orienter dans les services publics",
+            "de": "Öffentliche Dienste & Situationen meistern",
+            "it": "Orientarsi tra servizi pubblici e situazioni",
+            "pl": "Usługi publiczne i trudne sytuacje",
+            "pt": "Lidar com serviços públicos e situações",
+            "nl": "Openbare diensten en situaties",
+            "hr": "Snalaženje u javnim uslugama i situacijama",
+            "tr": "Kamu Hizmetlerinde Yolunu Bulmak",
+            "uk": "Державні послуги та ситуації",
+            "ar": "التعامل مع الخدمات العامة والمواقف المختلفة",
+            "hi": "सार्वजनिक सेवाओं और स्थितियों से निपटना",
+            "vi": "Sử dụng dịch vụ công & xử lý tình huống",
+            "id": "Mengurus Layanan Publik & Berbagai Situasi",
+            "ms": "Mengendalikan Perkhidmatan Awam & Situasi",
+            "ko": "공공 서비스와 상황 대처하기"
+          },
+          "image": "roleplay/images/situations/navigating_public_services_situation.webp",
+          "cases": [
+            "society_navigating_public_services_situation_c1",
+            "society_navigating_public_services_situation_c2",
+            "society_navigating_public_services_situation_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "immigration",
+      "title": "Immigration",
+      "title_translations": {
+        "en": "Immigration",
+        "es": "Inmigración",
+        "fr": "Immigration",
+        "de": "Einwanderung",
+        "it": "Immigrazione",
+        "pl": "Imigracja",
+        "pt": "Imigração",
+        "nl": "Immigratie",
+        "hr": "Imigracija",
+        "tr": "Göç",
+        "uk": "Імміграція",
+        "ar": "الهجرة",
+        "hi": "इमिग्रेशन",
+        "vi": "Di trú",
+        "id": "Imigrasi",
+        "ms": "Imigresen",
+        "ko": "이민"
+      },
+      "description": "Navigate lawyers, USCIS, and the immigration process",
+      "description_translations": {
+        "en": "Navigate lawyers, USCIS, and the immigration process",
+        "es": "Oriéntese con abogados, USCIS y el proceso migratorio",
+        "fr": "Avocats, USCIS et démarches d'immigration : trouvez vos repères",
+        "de": "Meistern Sie Anwaltstermine, USCIS und das Einwanderungsverfahren",
+        "it": "Orientati tra avvocati, USCIS e iter per l'immigrazione",
+        "pl": "Poradź sobie z prawnikami, USCIS i procesem imigracyjnym",
+        "pt": "Lide com advogados, o USCIS e o processo de imigração",
+        "nl": "Kom er wijs uit met advocaten, USCIS en het immigratieproces",
+        "hr": "Snađi se s odvjetnicima, USCIS-om i imigracijskim postupkom",
+        "tr": "Avukatlar, USCIS ve göçmenlik süreciyle başa çıkın",
+        "uk": "Юристи, USCIS та імміграційний процес",
+        "ar": "تعامل مع المحامين وUSCIS وإجراءات الهجرة",
+        "hi": "वकीलों, USCIS और इमिग्रेशन प्रक्रिया को संभालें",
+        "vi": "Làm việc với luật sư, USCIS và quy trình di trú",
+        "id": "Hadapi pengacara, USCIS, dan proses imigrasi",
+        "ms": "Berurusan dengan peguam, USCIS dan proses imigresen",
+        "ko": "변호사, USCIS, 이민 절차를 헤쳐 나가요"
+      },
+      "icon": "roleplay/images/categories/immigration.png",
+      "iconBackground": "#EDFFF3",
+      "headerImage": "roleplay/images/categories/header_immigration.webp",
+      "situations": [
+        {
+          "id": "immigration_consulting_with_an_immigration_lawyer",
+          "title": "Consulting with an Immigration Lawyer",
+          "title_translations": {
+            "en": "Consulting with an Immigration Lawyer",
+            "es": "Consulta legal de inmigración",
+            "fr": "Consulter un avocat en immigration",
+            "de": "Beratung bei einer Einwanderungsanwältin oder einem Einwanderungsanwalt",
+            "it": "Consultare un avvocato per l'immigrazione",
+            "pl": "Konsultacja z prawnikiem imigracyjnym",
+            "pt": "Consultar um advogado de imigração",
+            "nl": "Overleg met een immigratieadvocaat",
+            "hr": "Savjetovanje s imigracijskim odvjetnikom",
+            "tr": "Göçmenlik Avukatına Danışmak",
+            "uk": "Консультація з імміграційним юристом",
+            "ar": "استشارة محامي هجرة",
+            "hi": "इमिग्रेशन वकील से सलाह",
+            "vi": "Tư vấn với luật sư di trú",
+            "id": "Konsultasi dengan Pengacara Imigrasi",
+            "ms": "Berunding dengan Peguam Imigresen",
+            "ko": "이민 변호사와 상담하기"
+          },
+          "image": "roleplay/images/situations/consulting_with_an_immigration_lawyer.webp",
+          "cases": [
+            "immigration_consulting_with_an_immigration_lawyer_c1",
+            "immigration_consulting_with_an_immigration_lawyer_c2",
+            "immigration_consulting_with_an_immigration_lawyer_c3"
+          ]
+        },
+        {
+          "id": "immigration_dealing_with_uscis_matters",
+          "title": "Dealing with USCIS Matters",
+          "title_translations": {
+            "en": "Dealing with USCIS Matters",
+            "es": "Resolver trámites con USCIS",
+            "fr": "Gérer les démarches auprès de l'USCIS",
+            "de": "Angelegenheiten mit der USCIS regeln",
+            "it": "Gestire le pratiche con l'USCIS",
+            "pl": "Sprawy w USCIS",
+            "pt": "Resolver assuntos com o USCIS",
+            "nl": "Zaken regelen bij USCIS",
+            "hr": "Rješavanje pitanja s USCIS-om",
+            "tr": "USCIS İşlemleriyle Uğraşmak",
+            "uk": "Справи з USCIS",
+            "ar": "التعامل مع مسائل USCIS",
+            "hi": "USCIS से जुड़े मामले निपटाना",
+            "vi": "Giải quyết các vấn đề với USCIS",
+            "id": "Mengurus Urusan USCIS",
+            "ms": "Menguruskan Hal USCIS",
+            "ko": "USCIS 업무 처리하기"
+          },
+          "image": "roleplay/images/situations/dealing_with_uscis_matters.webp",
+          "cases": [
+            "immigration_dealing_with_uscis_matters_c1",
+            "immigration_dealing_with_uscis_matters_c2",
+            "immigration_dealing_with_uscis_matters_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "academics",
+      "title": "Academics",
+      "title_translations": {
+        "en": "Academics",
+        "es": "Vida académica",
+        "fr": "Université",
+        "de": "Studium & Wissenschaft",
+        "it": "Università",
+        "pl": "Nauka akademicka",
+        "pt": "Vida acadêmica",
+        "nl": "Academisch",
+        "hr": "Akademski život",
+        "tr": "Akademik Hayat",
+        "uk": "Наука і навчання",
+        "ar": "الحياة الأكاديمية",
+        "hi": "शिक्षा जगत",
+        "vi": "Học thuật",
+        "id": "Akademik",
+        "ms": "Akademik",
+        "ko": "학업"
+      },
+      "description": "Practice class, conferences, research, and academic exchange",
+      "description_translations": {
+        "en": "Practice class, conferences, research, and academic exchange",
+        "es": "Practique clases, congresos, investigación e intercambio académico",
+        "fr": "Entraînez-vous en cours, en conférence, en recherche et en échanges académiques",
+        "de": "Üben Sie Seminare, Konferenzen, Forschung und wissenschaftlichen Austausch",
+        "it": "Esercitati con lezioni, conferenze, ricerca e confronto accademico",
+        "pl": "Ćwicz zajęcia, konferencje, badania i wymianę naukową",
+        "pt": "Pratique aulas, conferências, pesquisa e intercâmbio acadêmico",
+        "nl": "Oefen colleges, congressen, onderzoek en academische uitwisseling",
+        "hr": "Vježbaj nastavu, konferencije, istraživanje i akademsku razmjenu",
+        "tr": "Derslerde, konferanslarda, araştırmada ve akademik paylaşımda pratik yapın",
+        "uk": "Заняття, конференції, дослідження та академічний обмін",
+        "ar": "تدرّب على المحاضرات والمؤتمرات والبحث والتبادل الأكاديمي",
+        "hi": "क्लास, कॉन्फ़्रेंस, रिसर्च और अकादमिक चर्चा का अभ्यास करें",
+        "vi": "Luyện tập trên lớp, hội nghị, nghiên cứu và trao đổi học thuật",
+        "id": "Latihan di kelas, konferensi, penelitian, dan diskusi akademik",
+        "ms": "Berlatih untuk kelas, persidangan, penyelidikan dan pertukaran akademik",
+        "ko": "수업, 학회, 연구, 학술 교류를 연습해요"
+      },
+      "icon": "roleplay/images/categories/academics.png",
+      "iconBackground": "#FEEED7",
+      "headerImage": "roleplay/images/categories/header_academics.webp",
+      "situations": [
+        {
+          "id": "academics_classroom_academics",
+          "title": "Classroom & Academics",
+          "title_translations": {
+            "en": "Classroom & Academics",
+            "es": "Aula y vida académica",
+            "fr": "En classe et à l'université",
+            "de": "Lehrveranstaltungen & Studium",
+            "it": "Lezioni e studio",
+            "pl": "Zajęcia i nauka",
+            "pt": "Sala de aula e estudos",
+            "nl": "Colleges en studie",
+            "hr": "Nastava i studij",
+            "tr": "Sınıf ve Dersler",
+            "uk": "Заняття та навчання",
+            "ar": "الصف والدراسة الأكاديمية",
+            "hi": "क्लासरूम और पढ़ाई",
+            "vi": "Lớp học & học thuật",
+            "id": "Kelas & Akademik",
+            "ms": "Bilik Darjah & Akademik",
+            "ko": "강의실과 학업"
+          },
+          "image": "roleplay/images/situations/classroom_academics.webp",
+          "cases": [
+            "academics_classroom_academics_c1",
+            "academics_classroom_academics_c2",
+            "academics_classroom_academics_c3"
+          ]
+        },
+        {
+          "id": "academics_conference_socializing_networking",
+          "title": "Conference Socializing & Networking",
+          "title_translations": {
+            "en": "Conference Socializing & Networking",
+            "es": "Convivencia y networking en congresos",
+            "fr": "Échanges et réseautage en conférence",
+            "de": "Kontakte knüpfen auf Konferenzen",
+            "it": "Socializzare e fare networking ai convegni",
+            "pl": "Networking na konferencji",
+            "pt": "Socialização e networking em conferências",
+            "nl": "Netwerken op een congres",
+            "hr": "Druženje i umrežavanje na konferenciji",
+            "tr": "Konferansta Sosyalleşme ve Bağlantı Kurma",
+            "uk": "Спілкування та нетворкінг на конференції",
+            "ar": "التعارف وبناء العلاقات في المؤتمرات",
+            "hi": "कॉन्फ़्रेंस में मेल-जोल और नेटवर्किंग",
+            "vi": "Giao lưu & kết nối tại hội nghị",
+            "id": "Bersosialisasi & Networking di Konferensi",
+            "ms": "Bersosial & Menjalin Rangkaian di Persidangan",
+            "ko": "학회 교류와 네트워킹"
+          },
+          "image": "roleplay/images/situations/conference_socializing_networking.webp",
+          "cases": [
+            "academics_conference_socializing_networking_c1",
+            "academics_conference_socializing_networking_c2",
+            "academics_conference_socializing_networking_c3"
+          ]
+        },
+        {
+          "id": "academics_asking_questions_academic_exchange",
+          "title": "Asking Questions & Academic Exchange",
+          "title_translations": {
+            "en": "Asking Questions & Academic Exchange",
+            "es": "Hacer preguntas e intercambio académico",
+            "fr": "Poser des questions et échanges académiques",
+            "de": "Fragen stellen & wissenschaftlicher Austausch",
+            "it": "Fare domande e confronto accademico",
+            "pl": "Pytania i wymiana naukowa",
+            "pt": "Fazer perguntas e intercâmbio acadêmico",
+            "nl": "Vragen stellen en academische uitwisseling",
+            "hr": "Postavljanje pitanja i akademska razmjena",
+            "tr": "Soru Sormak ve Akademik Paylaşım",
+            "uk": "Запитання та академічний обмін",
+            "ar": "طرح الأسئلة والتبادل الأكاديمي",
+            "hi": "सवाल पूछना और अकादमिक चर्चा",
+            "vi": "Đặt câu hỏi & trao đổi học thuật",
+            "id": "Bertanya & Diskusi Akademik",
+            "ms": "Bertanya Soalan & Pertukaran Akademik",
+            "ko": "질문하기와 학술 교류"
+          },
+          "image": "roleplay/images/situations/asking_questions_academic_exchange.webp",
+          "cases": [
+            "academics_asking_questions_academic_exchange_c1",
+            "academics_asking_questions_academic_exchange_c2",
+            "academics_asking_questions_academic_exchange_c3"
+          ]
+        },
+        {
+          "id": "academics_presenting_your_research_findings",
+          "title": "Presenting Your Research Findings",
+          "title_translations": {
+            "en": "Presenting Your Research Findings",
+            "es": "Presentar los resultados de su investigación",
+            "fr": "Présenter ses résultats de recherche",
+            "de": "Forschungsergebnisse präsentieren",
+            "it": "Presentare i risultati della tua ricerca",
+            "pl": "Prezentacja wyników badań",
+            "pt": "Apresentar os resultados da sua pesquisa",
+            "nl": "Je onderzoeksresultaten presenteren",
+            "hr": "Predstavljanje rezultata istraživanja",
+            "tr": "Araştırma Bulgularınızı Sunmak",
+            "uk": "Презентація результатів дослідження",
+            "ar": "عرض نتائج بحثك",
+            "hi": "अपने रिसर्च के नतीजे पेश करना",
+            "vi": "Trình bày kết quả nghiên cứu",
+            "id": "Mempresentasikan Hasil Penelitian",
+            "ms": "Membentangkan Dapatan Kajian Anda",
+            "ko": "연구 결과 발표하기"
+          },
+          "image": "roleplay/images/situations/presenting_your_research_findings.webp",
+          "cases": [
+            "academics_presenting_your_research_findings_c1",
+            "academics_presenting_your_research_findings_c2",
+            "academics_presenting_your_research_findings_c3"
+          ]
+        },
+        {
+          "id": "academics_seeking_collaboration_opportunities",
+          "title": "Seeking Collaboration & Opportunities",
+          "title_translations": {
+            "en": "Seeking Collaboration & Opportunities",
+            "es": "Buscar colaboraciones y oportunidades",
+            "fr": "Chercher des collaborations et des opportunités",
+            "de": "Kooperationen & Chancen suchen",
+            "it": "Cercare collaborazioni e opportunità",
+            "pl": "Szukanie współpracy i możliwości",
+            "pt": "Buscar colaborações e oportunidades",
+            "nl": "Samenwerking en kansen zoeken",
+            "hr": "Traženje suradnje i prilika",
+            "tr": "İş Birliği ve Fırsat Aramak",
+            "uk": "Пошук співпраці та можливостей",
+            "ar": "البحث عن التعاون والفرص",
+            "hi": "सहयोग और अवसर तलाशना",
+            "vi": "Tìm kiếm hợp tác & cơ hội",
+            "id": "Mencari Kolaborasi & Peluang",
+            "ms": "Mencari Kerjasama & Peluang",
+            "ko": "협업과 기회 찾기"
+          },
+          "image": "roleplay/images/situations/seeking_collaboration_opportunities.webp",
+          "cases": [
+            "academics_seeking_collaboration_opportunities_c1",
+            "academics_seeking_collaboration_opportunities_c2",
+            "academics_seeking_collaboration_opportunities_c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "title_translations": {
+        "en": "Travel",
+        "es": "Viajes",
+        "fr": "Voyage",
+        "de": "Reisen",
+        "it": "Viaggi",
+        "pl": "Podróże",
+        "pt": "Viagem",
+        "nl": "Reizen",
+        "hr": "Putovanja",
+        "tr": "Seyahat",
+        "uk": "Подорожі",
+        "ar": "السفر",
+        "hi": "यात्रा",
+        "vi": "Du lịch",
+        "id": "Perjalanan",
+        "ms": "Pelancongan",
+        "ko": "여행"
+      },
+      "description": "Book, fly, check in, explore, dine, and handle surprises",
+      "description_translations": {
+        "en": "Book, fly, check in, explore, dine, and handle surprises",
+        "es": "Reserve, vuele, regístrese, explore, coma y resuelva imprevistos",
+        "fr": "Réservez, prenez l'avion, enregistrez-vous, explorez, dînez et gérez les imprévus",
+        "de": "Buchen, fliegen, einchecken, entdecken, essen gehen und Überraschungen meistern",
+        "it": "Prenota, vola, fai il check-in, esplora, mangia fuori e gestisci gli imprevisti",
+        "pl": "Rezerwuj, lataj, melduj się, zwiedzaj, jedz i radź sobie z niespodziankami",
+        "pt": "Reserve, voe, faça check-in, explore, coma e lide com imprevistos",
+        "nl": "Boek, vlieg, check in, ontdek, eet uit en ga om met verrassingen",
+        "hr": "Rezerviraj, leti, prijavi se, istražuj, jedi vani i snađi se u iznenađenjima",
+        "tr": "Rezervasyon yapın, uçun, giriş yapın, keşfedin, yemek yiyin ve sürprizlerle başa çıkın",
+        "uk": "Бронюй, літай, заселяйся, досліджуй, смакуй і розв'язуй несподіванки",
+        "ar": "احجز وسافر وسجّل وصولك واستكشف وتناول الطعام وتعامل مع المفاجآت",
+        "hi": "बुकिंग, उड़ान, चेक-इन, घूमना, खाना और अचानक आई मुश्किलें संभालें",
+        "vi": "Đặt chỗ, bay, nhận phòng, khám phá, ăn uống và xử lý tình huống bất ngờ",
+        "id": "Pesan, terbang, check-in, jelajahi, bersantap, dan hadapi kejutan",
+        "ms": "Tempah, terbang, daftar masuk, jelajah, makan dan hadapi kejutan",
+        "ko": "예약, 비행, 체크인, 관광, 식사, 돌발 상황까지 대처해요"
+      },
+      "icon": "roleplay/images/categories/travel.png",
+      "iconBackground": "#FFEEFD",
+      "headerImage": "roleplay/images/categories/header_travel.webp",
+      "situations": [
+        {
+          "id": "travel_pre_trip_prep_booking",
+          "title": "Pre-trip Prep & Booking",
+          "title_translations": {
+            "en": "Pre-trip Prep & Booking",
+            "es": "Preparativos y reservas antes del viaje",
+            "fr": "Préparatifs et réservations",
+            "de": "Reisevorbereitung & Buchung",
+            "it": "Preparativi e prenotazioni",
+            "pl": "Przygotowania i rezerwacje",
+            "pt": "Preparação e reservas antes da viagem",
+            "nl": "Voorbereiding en boeken",
+            "hr": "Priprema za put i rezervacije",
+            "tr": "Seyahat Öncesi Hazırlık ve Rezervasyon",
+            "uk": "Підготовка до поїздки та бронювання",
+            "ar": "التحضير للرحلة والحجز",
+            "hi": "यात्रा से पहले की तैयारी और बुकिंग",
+            "vi": "Chuẩn bị trước chuyến đi & đặt chỗ",
+            "id": "Persiapan & Pemesanan Sebelum Berangkat",
+            "ms": "Persediaan & Tempahan Sebelum Perjalanan",
+            "ko": "여행 준비와 예약"
+          },
+          "image": "roleplay/images/situations/pre_trip_prep_booking.webp",
+          "cases": [
+            "travel_pre_trip_prep_booking_c1",
+            "travel_pre_trip_prep_booking_c2",
+            "travel_pre_trip_prep_booking_c3"
+          ]
+        },
+        {
+          "id": "travel_airport_immigration",
+          "title": "Airport & Immigration",
+          "title_translations": {
+            "en": "Airport & Immigration",
+            "es": "Aeropuerto y migración",
+            "fr": "Aéroport et immigration",
+            "de": "Flughafen & Einreise",
+            "it": "Aeroporto e immigrazione",
+            "pl": "Lotnisko i kontrola graniczna",
+            "pt": "Aeroporto e imigração",
+            "nl": "Luchthaven en douane",
+            "hr": "Zračna luka i granična kontrola",
+            "tr": "Havalimanı ve Pasaport Kontrolü",
+            "uk": "Аеропорт і паспортний контроль",
+            "ar": "المطار والجوازات",
+            "hi": "एयरपोर्ट और इमिग्रेशन",
+            "vi": "Sân bay & nhập cảnh",
+            "id": "Bandara & Imigrasi",
+            "ms": "Lapangan Terbang & Imigresen",
+            "ko": "공항과 입국 심사"
+          },
+          "image": "roleplay/images/situations/airport_immigration.webp",
+          "cases": [
+            "travel_airport_immigration_c1",
+            "travel_airport_immigration_c2",
+            "travel_airport_immigration_c3"
+          ]
+        },
+        {
+          "id": "travel_hotel_check_in_services",
+          "title": "Hotel Check-in & Services",
+          "title_translations": {
+            "en": "Hotel Check-in & Services",
+            "es": "Registro en el hotel y servicios",
+            "fr": "Enregistrement et services à l'hôtel",
+            "de": "Hotel-Check-in & Service",
+            "it": "Check-in in hotel e servizi",
+            "pl": "Zameldowanie i usługi hotelowe",
+            "pt": "Check-in e serviços do hotel",
+            "nl": "Inchecken en service in het hotel",
+            "hr": "Prijava u hotel i usluge",
+            "tr": "Otel Girişi ve Hizmetler",
+            "uk": "Заселення в готель і послуги",
+            "ar": "تسجيل الوصول في الفندق والخدمات",
+            "hi": "होटल चेक-इन और सेवाएँ",
+            "vi": "Nhận phòng khách sạn & dịch vụ",
+            "id": "Check-in Hotel & Layanan",
+            "ms": "Daftar Masuk Hotel & Perkhidmatan",
+            "ko": "호텔 체크인과 서비스"
+          },
+          "image": "roleplay/images/situations/hotel_check_in_services.webp",
+          "cases": [
+            "travel_hotel_check_in_services_c1",
+            "travel_hotel_check_in_services_c2",
+            "travel_hotel_check_in_services_c3"
+          ]
+        },
+        {
+          "id": "travel_city_exploration_transportation",
+          "title": "City Exploration & Transportation",
+          "title_translations": {
+            "en": "City Exploration & Transportation",
+            "es": "Recorrer la ciudad y transporte",
+            "fr": "Visiter la ville et se déplacer",
+            "de": "Stadt erkunden & unterwegs sein",
+            "it": "Esplorare la città e i trasporti",
+            "pl": "Zwiedzanie miasta i transport",
+            "pt": "Explorar a cidade e transporte",
+            "nl": "De stad verkennen en vervoer",
+            "hr": "Razgledavanje grada i prijevoz",
+            "tr": "Şehri Keşfetmek ve Ulaşım",
+            "uk": "Прогулянки містом і транспорт",
+            "ar": "استكشاف المدينة والمواصلات",
+            "hi": "शहर घूमना और परिवहन",
+            "vi": "Khám phá thành phố & phương tiện đi lại",
+            "id": "Menjelajahi Kota & Transportasi",
+            "ms": "Menjelajah Bandar & Pengangkutan",
+            "ko": "도시 관광과 교통"
+          },
+          "image": "roleplay/images/situations/city_exploration_transportation.webp",
+          "cases": [
+            "travel_city_exploration_transportation_c1",
+            "travel_city_exploration_transportation_c2",
+            "travel_city_exploration_transportation_c3"
+          ]
+        },
+        {
+          "id": "travel_dining_shopping_incidents",
+          "title": "Dining, Shopping & Incidents",
+          "title_translations": {
+            "en": "Dining, Shopping & Incidents",
+            "es": "Comida, compras e imprevistos",
+            "fr": "Restaurants, shopping et incidents",
+            "de": "Essen, Einkaufen & Zwischenfälle",
+            "it": "Ristoranti, shopping e imprevisti",
+            "pl": "Restauracje, zakupy i incydenty",
+            "pt": "Restaurantes, compras e imprevistos",
+            "nl": "Eten, winkelen en incidenten",
+            "hr": "Restorani, kupovina i nezgode",
+            "tr": "Yemek, Alışveriş ve Aksilikler",
+            "uk": "Ресторани, покупки та пригоди",
+            "ar": "المطاعم والتسوق والحوادث",
+            "hi": "खाना, ख़रीदारी और घटनाएँ",
+            "vi": "Ăn uống, mua sắm & sự cố",
+            "id": "Bersantap, Belanja & Insiden",
+            "ms": "Makan, Membeli-belah & Insiden",
+            "ko": "식사, 쇼핑, 돌발 상황"
+          },
+          "image": "roleplay/images/situations/dining_shopping_incidents.webp",
+          "cases": [
+            "travel_dining_shopping_incidents_c1",
+            "travel_dining_shopping_incidents_c2",
+            "travel_dining_shopping_incidents_c3"
+          ]
+        }
+      ]
+    }
+  ]
+}

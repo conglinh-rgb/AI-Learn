@@ -1,0 +1,318 @@
+{
+  "id": "study_abroad_daily_social_life_c1",
+  "title": "Meeting Your Roommate",
+  "title_translations": {
+    "en": "Meeting Your Roommate",
+    "es": "Conocer a quien comparte su cuarto",
+    "fr": "Rencontrer son colocataire",
+    "de": "Den Mitbewohner kennenlernen",
+    "it": "Conoscere il tuo coinquilino",
+    "pl": "Poznanie współlokatora",
+    "pt": "Conhecendo seu colega de quarto",
+    "nl": "Je kamergenoot ontmoeten",
+    "hr": "Upoznavanje cimera",
+    "tr": "Oda Arkadaşınızla Tanışmak",
+    "uk": "Знайомство із сусідом по кімнаті",
+    "ar": "لقاء زميل السكن",
+    "hi": "अपने रूममेट से मुलाक़ात",
+    "vi": "Gặp bạn cùng phòng",
+    "id": "Bertemu Teman Sekamar",
+    "ms": "Berkenalan dengan Rakan Sebilik",
+    "ko": "룸메이트와의 첫 만남"
+  },
+  "character": "fox",
+  "scenario": "Your new roommate (AI) has just moved into your shared dorm room and says hello.",
+  "scenario_translations": {
+    "en": "Your new roommate (AI) has just moved into your shared dorm room and says hello.",
+    "es": "Su nuevo compañero de cuarto (AI) acaba de mudarse a su habitación de la residencia y le saluda.",
+    "fr": "Votre nouveau colocataire (AI) vient d'emménager dans votre chambre partagée à la résidence et vous dit bonjour.",
+    "de": "Ihr neuer Mitbewohner (AI) ist gerade in Ihr gemeinsames Wohnheimzimmer eingezogen und sagt Hallo.",
+    "it": "Il tuo nuovo coinquilino (AI) si è appena trasferito nella vostra stanza dello studentato e ti saluta.",
+    "pl": "Twój nowy współlokator (AI) właśnie wprowadził się do waszego wspólnego pokoju w akademiku i mówi „cześć”.",
+    "pt": "Seu novo colega de quarto (AI) acabou de se mudar para o quarto que vocês dividem no alojamento e diz oi.",
+    "nl": "Je nieuwe kamergenoot (AI) is net in jullie gedeelde kamer in de studentenflat getrokken en zegt hallo.",
+    "hr": "Tvoj novi cimer (AI) upravo se uselio u vašu zajedničku sobu u domu i pozdravlja te.",
+    "tr": "Yeni oda arkadaşınız (AI) ortak yurt odanıza yeni taşındı ve size merhaba diyor.",
+    "uk": "Твій новий сусід по кімнаті (AI) щойно заселився у вашу спільну кімнату в гуртожитку й вітається.",
+    "ar": "انتقل زميلك الجديد في السكن (AI) للتوّ إلى غرفتكما المشتركة ويلقي عليك التحية.",
+    "hi": "आपका नया रूममेट (AI) अभी-अभी आपके साझा हॉस्टल रूम में आया है और हैलो कहता है।",
+    "vi": "Bạn cùng phòng mới (AI) vừa chuyển vào phòng ký túc xá chung và chào bạn.",
+    "id": "Teman sekamar barumu (AI) baru saja pindah ke kamar asrama kalian dan menyapamu.",
+    "ms": "Rakan sebilik baharu anda (AI) baru sahaja berpindah ke bilik asrama yang anda kongsi dan menyapa anda.",
+    "ko": "새 룸메이트(AI)가 방금 함께 쓰는 기숙사 방으로 이사 와서 인사를 건넵니다."
+  },
+  "mission": {
+    "native": "Introduce yourself, find a common interest and suggest dinner together.",
+    "native_translations": {
+      "en": "Introduce yourself, find a common interest and suggest dinner together.",
+      "es": "Preséntese, encuentre un interés en común y proponga cenar juntos.",
+      "fr": "Présentez-vous, trouvez un point commun et proposez de dîner ensemble.",
+      "de": "Stellen Sie sich vor, finden Sie eine Gemeinsamkeit und schlagen Sie ein gemeinsames Abendessen vor.",
+      "it": "Presentati, trova un interesse in comune e proponi di cenare insieme.",
+      "pl": "Przedstaw się, znajdźcie wspólne zainteresowanie i zaproponuj wspólną kolację.",
+      "pt": "Apresente-se, encontre um interesse em comum e sugira jantarem juntos.",
+      "nl": "Stel je voor, vind een gedeelde interesse en stel voor om samen te eten.",
+      "hr": "Predstavi se, pronađi zajednički interes i predloži da zajedno večerate.",
+      "tr": "Kendinizi tanıtın, ortak bir ilgi alanı bulun ve birlikte akşam yemeği yemeyi önerin.",
+      "uk": "Представся, знайди спільний інтерес і запропонуй повечеряти разом.",
+      "ar": "عرّف بنفسك، وابحث عن اهتمام مشترك، واقترح تناول العشاء معًا.",
+      "hi": "अपना परिचय दीजिए, कोई साझा दिलचस्पी ढूँढिए और साथ में डिनर का सुझाव दीजिए।",
+      "vi": "Giới thiệu bản thân, tìm một sở thích chung và rủ đi ăn tối cùng nhau.",
+      "id": "Perkenalkan dirimu, temukan minat yang sama, dan ajak makan malam bersama.",
+      "ms": "Perkenalkan diri, cari minat yang sama dan ajak makan malam bersama.",
+      "ko": "자기소개를 하고, 공통 관심사를 찾고, 함께 저녁을 먹자고 제안하세요."
+    },
+    "practice": "Preséntese, encuentre un interés en común y proponga cenar juntos.",
+    "practice_translations": {
+      "en": "Introduce yourself, find a common interest and suggest dinner together.",
+      "es": "Preséntese, encuentre un interés en común y proponga cenar juntos.",
+      "ja": "自己紹介をして、共通の趣味を見つけ、一緒に夕食を食べようと誘ってください。",
+      "ko": "자기소개를 하고, 공통 관심사를 찾고, 함께 저녁을 먹자고 제안하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Introduce yourself and say where you're from",
+        "native_translations": {
+          "en": "Introduce yourself and say where you're from",
+          "es": "Preséntese y diga de dónde es",
+          "fr": "Présentez-vous et dites d'où vous venez",
+          "de": "Stellen Sie sich vor und sagen Sie, woher Sie kommen",
+          "it": "Presentati e di' da dove vieni",
+          "pl": "Przedstaw się i powiedz, skąd jesteś",
+          "pt": "Apresente-se e diga de onde você é",
+          "nl": "Stel je voor en zeg waar je vandaan komt",
+          "hr": "Predstavi se i reci odakle si",
+          "tr": "Kendinizi tanıtın ve nereli olduğunuzu söyleyin",
+          "uk": "Представся й скажи, звідки ти",
+          "ar": "عرّف بنفسك وقل من أين أنت",
+          "hi": "अपना परिचय दीजिए और बताइए कि आप कहाँ से हैं",
+          "vi": "Giới thiệu bản thân và nói bạn đến từ đâu",
+          "id": "Perkenalkan dirimu dan sebutkan asalmu",
+          "ms": "Perkenalkan diri dan beritahu asal anda",
+          "ko": "자기소개를 하고 어디에서 왔는지 말하세요"
+        },
+        "practice": "Preséntese y diga de dónde es",
+        "practice_translations": {
+          "en": "Introduce yourself and say where you're from",
+          "es": "Preséntese y diga de dónde es",
+          "ja": "自己紹介をして出身を伝えてください",
+          "ko": "자기소개를 하고 어디에서 왔는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask about your roommate's hobbies",
+        "native_translations": {
+          "en": "Ask about your roommate's hobbies",
+          "es": "Pregunte por los pasatiempos de su compañero de cuarto",
+          "fr": "Demandez à votre colocataire quels sont ses loisirs",
+          "de": "Fragen Sie nach den Hobbys Ihres Mitbewohners",
+          "it": "Chiedi al tuo coinquilino quali sono i suoi hobby",
+          "pl": "Zapytaj współlokatora o jego hobby",
+          "pt": "Pergunte sobre os hobbies do seu colega de quarto",
+          "nl": "Vraag naar de hobby's van je kamergenoot",
+          "hr": "Pitaj cimera o hobijima",
+          "tr": "Oda arkadaşınızın hobilerini sorun",
+          "uk": "Запитай сусіда про його хобі",
+          "ar": "اسأل عن هوايات زميلك في السكن",
+          "hi": "अपने रूममेट के शौक़ के बारे में पूछिए",
+          "vi": "Hỏi về sở thích của bạn cùng phòng",
+          "id": "Tanyakan hobi teman sekamarmu",
+          "ms": "Tanya tentang hobi rakan sebilik anda",
+          "ko": "룸메이트의 취미를 물어보세요"
+        },
+        "practice": "Pregunte por los pasatiempos de su compañero de cuarto",
+        "practice_translations": {
+          "en": "Ask about your roommate's hobbies",
+          "es": "Pregunte por los pasatiempos de su compañero de cuarto",
+          "ja": "ルームメイトの趣味を聞いてください",
+          "ko": "룸메이트의 취미를 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Suggest having dinner together",
+        "native_translations": {
+          "en": "Suggest having dinner together",
+          "es": "Proponga cenar juntos",
+          "fr": "Proposez de dîner ensemble",
+          "de": "Schlagen Sie vor, zusammen zu Abend zu essen",
+          "it": "Proponi di cenare insieme",
+          "pl": "Zaproponuj wspólną kolację",
+          "pt": "Sugira jantarem juntos",
+          "nl": "Stel voor om samen te eten",
+          "hr": "Predloži zajedničku večeru",
+          "tr": "Birlikte akşam yemeği yemeyi önerin",
+          "uk": "Запропонуй повечеряти разом",
+          "ar": "اقترح تناول العشاء معًا",
+          "hi": "साथ में डिनर करने का सुझाव दीजिए",
+          "vi": "Rủ đi ăn tối cùng nhau",
+          "id": "Ajak makan malam bersama",
+          "ms": "Ajak makan malam bersama",
+          "ko": "함께 저녁을 먹자고 제안하세요"
+        },
+        "practice": "Proponga cenar juntos",
+        "practice_translations": {
+          "en": "Suggest having dinner together",
+          "es": "Proponga cenar juntos",
+          "ja": "一緒に夕食を食べようと誘ってください",
+          "ko": "함께 저녁을 먹자고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I'm your new roommate. Nice to meet you!",
+      "native_translations": {
+        "en": "Hi, I'm your new roommate. Nice to meet you!",
+        "es": "Hola, soy tu nuevo compañero de cuarto. ¡Mucho gusto!",
+        "fr": "Salut, je suis ton nouveau coloc. Enchanté !",
+        "de": "Hi, ich bin dein neuer Mitbewohner. Freut mich!",
+        "it": "Ciao, sono il tuo nuovo coinquilino. Piacere di conoscerti!",
+        "pl": "Cześć, jestem twoim nowym współlokatorem. Miło cię poznać!",
+        "pt": "Oi, sou seu novo colega de quarto. Prazer em te conhecer!",
+        "nl": "Hoi, ik ben je nieuwe kamergenoot. Leuk je te ontmoeten!",
+        "hr": "Bok, ja sam tvoj novi cimer. Drago mi je!",
+        "tr": "Selam, ben senin yeni oda arkadaşınım. Tanıştığımıza memnun oldum!",
+        "uk": "Привіт, я твій новий сусід по кімнаті. Радий знайомству!",
+        "ar": "مرحبًا، أنا زميلك الجديد في السكن. تشرفت بمعرفتك!",
+        "hi": "हाय, मैं तुम्हारा नया रूममेट हूँ। तुमसे मिलकर अच्छा लगा!",
+        "vi": "Chào bạn, mình là bạn cùng phòng mới. Rất vui được gặp bạn!",
+        "id": "Hai, aku teman sekamar barumu. Senang bertemu denganmu!",
+        "ms": "Hai, saya rakan sebilik baharu awak. Selamat berkenalan!",
+        "ko": "안녕하세요, 새 룸메이트예요. 만나서 반가워요!"
+      },
+      "practice": "Hola, soy tu nuevo compañero de cuarto. ¡Mucho gusto!",
+      "practice_translations": {
+        "en": "Hi, I'm your new roommate. Nice to meet you!",
+        "es": "Hola, soy tu nuevo compañero de cuarto. ¡Mucho gusto!",
+        "ja": "こんにちは、新しいルームメイトです。よろしくお願いします！",
+        "ko": "안녕하세요, 새 룸메이트예요. 만나서 반가워요!"
+      }
+    },
+    {
+      "native": "I'm from abroad, and this is my first time here.",
+      "native_translations": {
+        "en": "I'm from abroad, and this is my first time here.",
+        "es": "Soy del extranjero y es la primera vez que vengo.",
+        "fr": "Je viens de l'étranger, et c'est la première fois que je viens ici.",
+        "de": "Ich komme aus dem Ausland und bin zum ersten Mal hier.",
+        "it": "Vengo dall'estero ed è la prima volta che sono qui.",
+        "pl": "Jestem z zagranicy i jestem tu pierwszy raz.",
+        "pt": "Sou de fora do país, e é a minha primeira vez aqui.",
+        "nl": "Ik kom uit het buitenland en ik ben hier voor het eerst.",
+        "hr": "Dolazim iz inozemstva i ovdje sam prvi put.",
+        "tr": "Yurt dışından geliyorum ve buraya ilk kez geliyorum.",
+        "uk": "Я з-за кордону, і я тут уперше.",
+        "ar": "أنا من الخارج، وهذه أول مرة لي هنا.",
+        "hi": "मैं विदेश से हूँ, और यहाँ पहली बार आया हूँ।",
+        "vi": "Mình đến từ nước ngoài, đây là lần đầu mình tới đây.",
+        "id": "Aku dari luar negeri, dan ini pertama kalinya aku di sini.",
+        "ms": "Saya dari luar negara, dan ini kali pertama saya di sini.",
+        "ko": "저는 외국에서 왔고, 여기는 처음이에요."
+      },
+      "practice": "Soy del extranjero y es la primera vez que vengo.",
+      "practice_translations": {
+        "en": "I'm from abroad, and this is my first time here.",
+        "es": "Soy del extranjero y es la primera vez que vengo.",
+        "ja": "海外から来て、ここは初めてなんです。",
+        "ko": "저는 외국에서 왔고, 여기는 처음이에요."
+      }
+    },
+    {
+      "native": "What do you like to do in your free time?",
+      "native_translations": {
+        "en": "What do you like to do in your free time?",
+        "es": "¿Qué te gusta hacer en tu tiempo libre?",
+        "fr": "Qu'est-ce que tu aimes faire pendant ton temps libre ?",
+        "de": "Was machst du gern in deiner Freizeit?",
+        "it": "Cosa ti piace fare nel tempo libero?",
+        "pl": "Co lubisz robić w wolnym czasie?",
+        "pt": "O que você gosta de fazer no seu tempo livre?",
+        "nl": "Wat doe je graag in je vrije tijd?",
+        "hr": "Što voliš raditi u slobodno vrijeme?",
+        "tr": "Boş zamanlarında ne yapmayı seversin?",
+        "uk": "Що ти любиш робити у вільний час?",
+        "ar": "ماذا تحب أن تفعل في وقت فراغك؟",
+        "hi": "ख़ाली समय में तुम्हें क्या करना पसंद है?",
+        "vi": "Lúc rảnh bạn thích làm gì?",
+        "id": "Kamu suka melakukan apa di waktu luang?",
+        "ms": "Apa yang awak suka buat pada masa lapang?",
+        "ko": "시간 날 때 뭐 하는 걸 좋아해요?"
+      },
+      "practice": "¿Qué te gusta hacer en tu tiempo libre?",
+      "practice_translations": {
+        "en": "What do you like to do in your free time?",
+        "es": "¿Qué te gusta hacer en tu tiempo libre?",
+        "ja": "暇なときは何をするのが好きですか。",
+        "ko": "시간 날 때 뭐 하는 걸 좋아해요?"
+      }
+    },
+    {
+      "native": "Oh, I love that too!",
+      "native_translations": {
+        "en": "Oh, I love that too!",
+        "es": "¡Ay, a mí también me encanta!",
+        "fr": "Oh, moi aussi j'adore ça !",
+        "de": "Oh, das mag ich auch total!",
+        "it": "Oh, piace tantissimo anche a me!",
+        "pl": "O, ja też to uwielbiam!",
+        "pt": "Nossa, eu também adoro isso!",
+        "nl": "O, dat vind ik ook heel leuk!",
+        "hr": "Joj, i ja to obožavam!",
+        "tr": "Aa, ben de onu çok severim!",
+        "uk": "О, я теж це люблю!",
+        "ar": "أوه، أنا أحب ذلك أيضًا!",
+        "hi": "अरे, मुझे भी यह बहुत पसंद है!",
+        "vi": "Ồ, mình cũng thích cái đó lắm!",
+        "id": "Oh, aku juga suka itu!",
+        "ms": "Oh, saya pun suka itu!",
+        "ko": "아, 저도 그거 정말 좋아해요!"
+      },
+      "practice": "¡Ay, a mí también me encanta!",
+      "practice_translations": {
+        "en": "Oh, I love that too!",
+        "es": "¡Ay, a mí también me encanta!",
+        "ja": "わあ、私もそれ大好きです！",
+        "ko": "아, 저도 그거 정말 좋아해요!"
+      }
+    },
+    {
+      "native": "Do you want to grab dinner together tonight?",
+      "native_translations": {
+        "en": "Do you want to grab dinner together tonight?",
+        "es": "¿Quieres que cenemos juntos esta noche?",
+        "fr": "Ça te dit qu'on dîne ensemble ce soir ?",
+        "de": "Hast du Lust, heute Abend zusammen was essen zu gehen?",
+        "it": "Ti va di cenare insieme stasera?",
+        "pl": "Może skoczymy razem na kolację dziś wieczorem?",
+        "pt": "Quer jantar comigo hoje à noite?",
+        "nl": "Zullen we vanavond samen een hapje eten?",
+        "hr": "Hoćeš li večeras zajedno na večeru?",
+        "tr": "Bu akşam birlikte yemek yemeye ne dersin?",
+        "uk": "Хочеш сьогодні ввечері разом повечеряти?",
+        "ar": "هل تريد أن نتناول العشاء معًا الليلة؟",
+        "hi": "क्या आज रात साथ में डिनर करने चलोगे?",
+        "vi": "Tối nay mình đi ăn tối cùng nhau không?",
+        "id": "Mau makan malam bareng nanti malam?",
+        "ms": "Awak nak makan malam bersama malam ini?",
+        "ko": "오늘 저녁 같이 먹을래요?"
+      },
+      "practice": "¿Quieres que cenemos juntos esta noche?",
+      "practice_translations": {
+        "en": "Do you want to grab dinner together tonight?",
+        "es": "¿Quieres que cenemos juntos esta noche?",
+        "ja": "今夜、一緒に夕ご飯を食べに行きませんか。",
+        "ko": "오늘 저녁 같이 먹을래요?"
+      }
+    }
+  ]
+}

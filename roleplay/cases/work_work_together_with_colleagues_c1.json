@@ -1,0 +1,289 @@
+{
+  "id": "work_work_together_with_colleagues_c1",
+  "title": "Splitting Up the Slides",
+  "title_translations": {
+    "en": "Splitting Up the Slides",
+    "es": "Repartirse las diapositivas",
+    "fr": "Se répartir les diapos",
+    "de": "Die Folien aufteilen",
+    "it": "Dividersi le slide",
+    "pl": "Podział slajdów",
+    "pt": "Dividindo os slides",
+    "nl": "De slides verdelen",
+    "hr": "Podjela slajdova",
+    "tr": "Slaytları Paylaşmak",
+    "uk": "Розподіляємо слайди",
+    "ar": "تقسيم الشرائح",
+    "hi": "स्लाइड्स का बँटवारा",
+    "vi": "Chia việc làm slide",
+    "id": "Membagi Tugas Slide",
+    "ms": "Membahagikan Slaid",
+    "ko": "발표 자료 나누기"
+  },
+  "character": "fox",
+  "scenario": "You and a coworker (AI) must prepare the slides for Friday's team meeting. You need to decide who does what.",
+  "scenario_translations": {
+    "en": "You and a coworker (AI) must prepare the slides for Friday's team meeting. You need to decide who does what.",
+    "es": "Usted y un colega (AI) deben preparar las diapositivas para la reunión de equipo del viernes. Tienen que decidir quién hace qué.",
+    "fr": "Vous et un collègue (AI) devez préparer les diapositives pour la réunion d'équipe de vendredi. Vous devez décider qui fait quoi.",
+    "de": "Sie und ein Kollege (AI) müssen die Folien für das Teammeeting am Freitag vorbereiten. Sie müssen entscheiden, wer was macht.",
+    "it": "Tu e un collega (AI) dovete preparare le slide per la riunione del team di venerdì. Dovete decidere chi fa cosa.",
+    "pl": "Ty i kolega z pracy (AI) musicie przygotować slajdy na piątkowe spotkanie zespołu. Trzeba ustalić, kto co robi.",
+    "pt": "Você e um colega de trabalho (AI) precisam preparar os slides para a reunião de equipe de sexta. Vocês precisam decidir quem faz o quê.",
+    "nl": "Jij en een collega (AI) moeten de slides voorbereiden voor het teamoverleg van vrijdag. Jullie moeten beslissen wie wat doet.",
+    "hr": "Ti i kolega (AI) morate pripremiti slajdove za petkov sastanak tima. Trebate odlučiti tko će što raditi.",
+    "tr": "Siz ve bir iş arkadaşınız (AI) cuma günkü ekip toplantısı için slaytları hazırlamalısınız. Kimin ne yapacağına karar vermeniz gerekiyor.",
+    "uk": "Тобі й колезі (AI) треба підготувати слайди для п'ятничної наради команди. Потрібно вирішити, хто що робить.",
+    "ar": "عليك أنت وزميل في العمل (AI) إعداد الشرائح لاجتماع الفريق يوم الجمعة. عليكما أن تقرّرا من يفعل ماذا.",
+    "hi": "आपको और एक सहकर्मी (AI) को शुक्रवार की टीम मीटिंग के लिए स्लाइड्स तैयार करनी हैं। आपको तय करना है कि कौन क्या करेगा।",
+    "vi": "Bạn và một đồng nghiệp (AI) phải chuẩn bị slide cho buổi họp nhóm thứ Sáu. Hai bạn cần quyết định ai làm phần nào.",
+    "id": "Kamu dan seorang rekan kerja (AI) harus menyiapkan slide untuk rapat tim hari Jumat. Kalian perlu memutuskan siapa mengerjakan apa.",
+    "ms": "Anda dan seorang rakan sekerja (AI) perlu menyediakan slaid untuk mesyuarat pasukan hari Jumaat. Anda perlu tentukan siapa buat apa.",
+    "ko": "당신과 동료(AI)는 금요일 팀 회의용 발표 자료를 준비해야 해요. 누가 무엇을 할지 정해야 합니다."
+  },
+  "mission": {
+    "native": "Agree with your coworker on how to split the presentation work.",
+    "native_translations": {
+      "en": "Agree with your coworker on how to split the presentation work.",
+      "es": "Acuerde con su compañero cómo dividir el trabajo de la presentación.",
+      "fr": "Mettez-vous d'accord avec votre collègue sur la répartition du travail pour la présentation.",
+      "de": "Einigen Sie sich mit Ihrem Kollegen, wie Sie die Arbeit an der Präsentation aufteilen.",
+      "it": "Concorda con il tuo collega come dividervi il lavoro sulla presentazione.",
+      "pl": "Uzgodnij z kolegą, jak podzielić pracę nad prezentacją.",
+      "pt": "Combine com seu colega como dividir o trabalho da apresentação.",
+      "nl": "Spreek met je collega af hoe jullie het werk aan de presentatie verdelen.",
+      "hr": "Dogovori s kolegom kako ćete podijeliti posao oko prezentacije.",
+      "tr": "Sunum işini nasıl paylaşacağınız konusunda iş arkadaşınızla anlaşın.",
+      "uk": "Домовся з колегою, як розподілити роботу над презентацією.",
+      "ar": "اتفق مع زميلك على طريقة تقسيم العمل على العرض التقديمي.",
+      "hi": "सहकर्मी के साथ तय कीजिए कि प्रेज़ेंटेशन का काम कैसे बाँटना है।",
+      "vi": "Thống nhất với đồng nghiệp cách chia phần chuẩn bị bài thuyết trình.",
+      "id": "Sepakati dengan rekan kerjamu cara membagi pekerjaan presentasi.",
+      "ms": "Setuju dengan rakan sekerja anda tentang cara membahagikan kerja pembentangan.",
+      "ko": "발표 자료 작업을 어떻게 나눌지 동료와 합의하세요."
+    },
+    "practice": "Acuerde con su compañero cómo dividir el trabajo de la presentación.",
+    "practice_translations": {
+      "en": "Agree with your coworker on how to split the presentation work.",
+      "es": "Acuerde con su compañero cómo dividir el trabajo de la presentación.",
+      "ja": "同僚とプレゼンの作業をどう分担するか決めてください。",
+      "ko": "발표 자료 작업을 어떻게 나눌지 동료와 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Suggest which part you will do",
+        "native_translations": {
+          "en": "Suggest which part you will do",
+          "es": "Sugiera qué parte hará usted",
+          "fr": "Proposez la partie dont vous vous chargerez",
+          "de": "Schlagen Sie vor, welchen Teil Sie übernehmen",
+          "it": "Proponi la parte di cui ti occuperai",
+          "pl": "Zaproponuj, którą część zrobisz",
+          "pt": "Sugira qual parte você vai fazer",
+          "nl": "Stel voor welk deel jij doet",
+          "hr": "Predloži koji ćeš dio ti raditi",
+          "tr": "Hangi kısmı yapacağınızı önerin",
+          "uk": "Запропонуй, яку частину зробиш ти",
+          "ar": "اقترح الجزء الذي ستتولاه",
+          "hi": "सुझाइए कि आप कौन-सा हिस्सा करेंगे",
+          "vi": "Đề xuất phần bạn sẽ làm",
+          "id": "Usulkan bagian mana yang akan kamu kerjakan",
+          "ms": "Cadangkan bahagian yang akan anda buat",
+          "ko": "자신이 맡을 부분을 제안하세요"
+        },
+        "practice": "Sugiera qué parte hará usted",
+        "practice_translations": {
+          "en": "Suggest which part you will do",
+          "es": "Sugiera qué parte hará usted",
+          "ja": "自分が担当する部分を提案してください",
+          "ko": "자신이 맡을 부분을 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask which part your coworker prefers",
+        "native_translations": {
+          "en": "Ask which part your coworker prefers",
+          "es": "Pregunte qué parte prefiere su compañero",
+          "fr": "Demandez quelle partie votre collègue préfère",
+          "de": "Fragen Sie, welchen Teil Ihr Kollege lieber macht",
+          "it": "Chiedi quale parte preferisce il tuo collega",
+          "pl": "Zapytaj, którą część woli kolega",
+          "pt": "Pergunte qual parte seu colega prefere",
+          "nl": "Vraag welk deel je collega liever doet",
+          "hr": "Pitaj koji dio kolegi više odgovara",
+          "tr": "İş arkadaşınızın hangi kısmı tercih ettiğini sorun",
+          "uk": "Запитай, яку частину хоче взяти колега",
+          "ar": "اسأل عن الجزء الذي يفضّله زميلك",
+          "hi": "पूछिए कि सहकर्मी कौन-सा हिस्सा करना चाहेंगे",
+          "vi": "Hỏi đồng nghiệp muốn làm phần nào",
+          "id": "Tanyakan bagian mana yang disukai rekan kerjamu",
+          "ms": "Tanya bahagian mana yang rakan sekerja anda lebih suka",
+          "ko": "동료가 어떤 부분을 원하는지 물어보세요"
+        },
+        "practice": "Pregunte qué parte prefiere su compañero",
+        "practice_translations": {
+          "en": "Ask which part your coworker prefers",
+          "es": "Pregunte qué parte prefiere su compañero",
+          "ja": "同僚がどの部分を希望するか聞いてください",
+          "ko": "동료가 어떤 부분을 원하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Agree on a day to share drafts",
+        "native_translations": {
+          "en": "Agree on a day to share drafts",
+          "es": "Acuerden un día para compartir los borradores",
+          "fr": "Convenez d'un jour pour partager vos brouillons",
+          "de": "Vereinbaren Sie einen Tag, um Ihre Entwürfe auszutauschen",
+          "it": "Concordate un giorno per condividere le bozze",
+          "pl": "Ustalcie dzień wymiany wersji roboczych",
+          "pt": "Combinem um dia para compartilhar os rascunhos",
+          "nl": "Spreek een dag af om concepten te delen",
+          "hr": "Dogovori dan za razmjenu nacrta",
+          "tr": "Taslakları paylaşmak için bir günde anlaşın",
+          "uk": "Домовтеся, коли поділитеся чернетками",
+          "ar": "اتفقا على يوم لتبادل المسودات",
+          "hi": "ड्राफ़्ट शेयर करने का एक दिन तय कीजिए",
+          "vi": "Thống nhất ngày chia sẻ bản nháp",
+          "id": "Sepakati hari untuk berbagi draf",
+          "ms": "Setuju tentang hari untuk berkongsi draf",
+          "ko": "초안을 공유할 날짜를 정하세요"
+        },
+        "practice": "Acuerden un día para compartir los borradores",
+        "practice_translations": {
+          "en": "Agree on a day to share drafts",
+          "es": "Acuerden un día para compartir los borradores",
+          "ja": "下書きを共有する日を決めてください",
+          "ko": "초안을 공유할 날짜를 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I can take care of the charts, if that works for you.",
+      "native_translations": {
+        "en": "I can take care of the charts, if that works for you.",
+        "es": "Yo puedo encargarme de los gráficos, si te parece bien.",
+        "fr": "Je peux m'occuper des graphiques, si ça te va.",
+        "de": "Ich kann mich um die Diagramme kümmern, wenn das für dich passt.",
+        "it": "Posso occuparmi io dei grafici, se per te va bene.",
+        "pl": "Mogę zająć się wykresami, jeśli ci to pasuje.",
+        "pt": "Posso cuidar dos gráficos, se estiver bom para você.",
+        "nl": "Ik kan de grafieken doen, als dat jou uitkomt.",
+        "hr": "Ja se mogu pobrinuti za grafikone, ako ti to odgovara.",
+        "tr": "Senin için uygunsa grafikleri ben halledebilirim.",
+        "uk": "Я можу взяти на себе графіки, якщо ти не проти.",
+        "ar": "يمكنني أن أتولى الرسوم البيانية، إذا كان ذلك يناسبك.",
+        "hi": "अगर आपको ठीक लगे, तो चार्ट्स मैं संभाल सकता हूँ।",
+        "vi": "Mình lo phần biểu đồ nhé, nếu bạn thấy ổn.",
+        "id": "Saya bisa mengurus grafiknya, kalau kamu tidak keberatan.",
+        "ms": "Saya boleh uruskan carta, kalau anda tak kisah.",
+        "ko": "괜찮으시면 제가 차트를 맡을게요."
+      },
+      "practice": "Yo puedo encargarme de los gráficos, si te parece bien.",
+      "practice_translations": {
+        "en": "I can take care of the charts, if that works for you.",
+        "es": "Yo puedo encargarme de los gráficos, si te parece bien.",
+        "ja": "よければ、グラフは私が担当します。",
+        "ko": "괜찮으시면 제가 차트를 맡을게요."
+      }
+    },
+    {
+      "native": "Which part would you like to work on?",
+      "native_translations": {
+        "en": "Which part would you like to work on?",
+        "es": "¿Qué parte te gustaría hacer?",
+        "fr": "Sur quelle partie tu voudrais travailler ?",
+        "de": "An welchem Teil würdest du gern arbeiten?",
+        "it": "Su quale parte ti piacerebbe lavorare?",
+        "pl": "Nad którą częścią chciałbyś popracować?",
+        "pt": "Em qual parte você gostaria de trabalhar?",
+        "nl": "Aan welk deel zou jij willen werken?",
+        "hr": "Na kojem bi dijelu ti htio raditi?",
+        "tr": "Sen hangi kısım üzerinde çalışmak istersin?",
+        "uk": "Над якою частиною ти хотів би працювати?",
+        "ar": "على أي جزء تودّ أن تعمل؟",
+        "hi": "आप किस हिस्से पर काम करना चाहेंगे?",
+        "vi": "Bạn muốn làm phần nào?",
+        "id": "Kamu mau mengerjakan bagian yang mana?",
+        "ms": "Bahagian mana yang anda mahu buat?",
+        "ko": "어떤 부분을 맡고 싶으세요?"
+      },
+      "practice": "¿Qué parte te gustaría hacer?",
+      "practice_translations": {
+        "en": "Which part would you like to work on?",
+        "es": "¿Qué parte te gustaría hacer?",
+        "ja": "どの部分を担当したいですか。",
+        "ko": "어떤 부분을 맡고 싶으세요?"
+      }
+    },
+    {
+      "native": "Let's share our drafts on Wednesday afternoon.",
+      "native_translations": {
+        "en": "Let's share our drafts on Wednesday afternoon.",
+        "es": "Compartamos los borradores el miércoles por la tarde.",
+        "fr": "Partageons nos brouillons mercredi après-midi.",
+        "de": "Lass uns unsere Entwürfe am Mittwochnachmittag austauschen.",
+        "it": "Condividiamo le bozze mercoledì pomeriggio.",
+        "pl": "Wymieńmy się wersjami roboczymi w środę po południu.",
+        "pt": "Vamos compartilhar os rascunhos na quarta à tarde.",
+        "nl": "Laten we woensdagmiddag onze concepten delen.",
+        "hr": "Razmijenimo nacrte u srijedu poslijepodne.",
+        "tr": "Taslaklarımızı çarşamba öğleden sonra paylaşalım.",
+        "uk": "Давай обміняємося чернетками в середу по обіді.",
+        "ar": "لنتبادل المسودات يوم الأربعاء بعد الظهر.",
+        "hi": "चलिए बुधवार दोपहर को अपने ड्राफ़्ट शेयर करते हैं।",
+        "vi": "Chiều thứ Tư mình gửi bản nháp cho nhau nhé.",
+        "id": "Ayo kita saling berbagi draf hari Rabu sore.",
+        "ms": "Jom kita kongsi draf pada petang Rabu.",
+        "ko": "수요일 오후에 초안을 공유해요."
+      },
+      "practice": "Compartamos los borradores el miércoles por la tarde.",
+      "practice_translations": {
+        "en": "Let's share our drafts on Wednesday afternoon.",
+        "es": "Compartamos los borradores el miércoles por la tarde.",
+        "ja": "水曜日の午後に、お互いの下書きを共有しましょう。",
+        "ko": "수요일 오후에 초안을 공유해요."
+      }
+    },
+    {
+      "native": "Sounds good. Let me know if you need any help.",
+      "native_translations": {
+        "en": "Sounds good. Let me know if you need any help.",
+        "es": "Me parece bien. Avísame si necesitas ayuda.",
+        "fr": "Ça marche. Dis-moi si tu as besoin d'aide.",
+        "de": "Klingt gut. Sag Bescheid, wenn du Hilfe brauchst.",
+        "it": "Perfetto. Fammi sapere se ti serve una mano.",
+        "pl": "Brzmi dobrze. Daj znać, jeśli będziesz potrzebować pomocy.",
+        "pt": "Combinado. Me avise se precisar de ajuda.",
+        "nl": "Klinkt goed. Laat maar weten als je hulp nodig hebt.",
+        "hr": "Može. Javi mi ako ti treba pomoć.",
+        "tr": "Olur. Yardıma ihtiyacın olursa haber ver.",
+        "uk": "Чудово. Скажи, якщо знадобиться допомога.",
+        "ar": "فكرة جيدة. أخبرني إن احتجت إلى أي مساعدة.",
+        "hi": "ठीक है। कोई मदद चाहिए तो बताइएगा।",
+        "vi": "Nghe ổn đấy. Cần giúp gì thì cứ nói mình nhé.",
+        "id": "Oke. Kabari saya kalau butuh bantuan.",
+        "ms": "Baiklah. Beritahu saya kalau anda perlukan bantuan.",
+        "ko": "좋아요. 도움이 필요하면 말해 주세요."
+      },
+      "practice": "Me parece bien. Avísame si necesitas ayuda.",
+      "practice_translations": {
+        "en": "Sounds good. Let me know if you need any help.",
+        "es": "Me parece bien. Avísame si necesitas ayuda.",
+        "ja": "いいですね。何か手伝えることがあったら言ってください。",
+        "ko": "좋아요. 도움이 필요하면 말해 주세요."
+      }
+    }
+  ]
+}

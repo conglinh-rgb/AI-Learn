@@ -1,0 +1,351 @@
+{
+  "id": "travel_dining_shopping_incidents_c3",
+  "title": "The Bill Doesn't Add Up",
+  "title_translations": {
+    "en": "The Bill Doesn't Add Up",
+    "es": "La cuenta no cuadra",
+    "fr": "L'addition ne tombe pas juste",
+    "de": "Die Rechnung stimmt nicht",
+    "it": "Il conto non torna",
+    "pl": "Rachunek się nie zgadza",
+    "pt": "A conta não fecha",
+    "nl": "De rekening klopt niet",
+    "hr": "Račun se ne slaže",
+    "tr": "Hesap Tutmuyor",
+    "uk": "Рахунок не сходиться",
+    "ar": "الفاتورة غير منطقية",
+    "hi": "बिल का हिसाब नहीं बैठता",
+    "vi": "Hóa đơn không khớp",
+    "id": "Tagihan yang Tidak Masuk Akal",
+    "ms": "Bil yang Tak Masuk Akal",
+    "ko": "계산이 안 맞는 계산서"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "At the end of dinner, the bill includes dishes you never ordered and a service charge nobody mentioned. The waiter (AI) insists it is correct.",
+  "scenario_translations": {
+    "en": "At the end of dinner, the bill includes dishes you never ordered and a service charge nobody mentioned. The waiter (AI) insists it is correct.",
+    "es": "Al final de la cena, la cuenta incluye platillos que nunca pidió y un cargo por servicio que nadie mencionó. El mesero (AI) insiste en que está bien.",
+    "fr": "À la fin du dîner, l'addition comprend des plats que vous n'avez jamais commandés et des frais de service dont personne n'a parlé. Le serveur (AI) insiste pour dire qu'elle est correcte.",
+    "de": "Am Ende des Abendessens stehen auf der Rechnung Gerichte, die Sie nie bestellt haben, und eine Servicegebühr, von der niemand etwas gesagt hat. Der Kellner (AI) besteht darauf, dass alles stimmt.",
+    "it": "A fine cena, nel conto ci sono piatti che non hai mai ordinato e un costo del servizio che nessuno aveva menzionato. Il cameriere (AI) insiste che è tutto corretto.",
+    "pl": "Po kolacji na rachunku są dania, których nigdy nie zamawiałeś, i opłata za obsługę, o której nikt nie wspominał. Kelner (AI) upiera się, że wszystko jest w porządku.",
+    "pt": "No fim do jantar, a conta inclui pratos que você nunca pediu e uma taxa de serviço que ninguém mencionou. O garçom (AI) insiste que está tudo certo.",
+    "nl": "Aan het eind van het diner staan er gerechten op de rekening die je nooit hebt besteld en servicekosten waar niemand iets over zei. De ober (AI) houdt vol dat het klopt.",
+    "hr": "Na kraju večere na računu su jela koja nikad nisi naručio i naknada za uslugu koju nitko nije spomenuo. Konobar (AI) tvrdi da je sve točno.",
+    "tr": "Akşam yemeğinin sonunda hesapta hiç sipariş etmediğiniz yemekler ve kimsenin bahsetmediği bir servis ücreti var. Garson (AI) hesabın doğru olduğunda ısrar ediyor.",
+    "uk": "Наприкінці вечері в рахунку з'являються страви, яких не було в замовленні, і плата за обслуговування, про яку ніхто не попереджав. Офіціант (AI) наполягає, що все правильно.",
+    "ar": "في نهاية العشاء، تتضمن الفاتورة أطباقًا لم تطلبها ورسوم خدمة لم يذكرها أحد. يصرّ النادل (AI) على أنها صحيحة.",
+    "hi": "डिनर के आख़िर में बिल में ऐसी डिश हैं जो आपने कभी ऑर्डर नहीं कीं और एक सर्विस चार्ज है जिसके बारे में किसी ने नहीं बताया। वेटर (AI) ज़िद करता है कि बिल सही है।",
+    "vi": "Cuối bữa tối, hóa đơn có cả những món bạn chưa hề gọi và một khoản phí phục vụ chẳng ai nhắc đến. Nhân viên phục vụ (AI) khăng khăng là đúng.",
+    "id": "Di akhir makan malam, tagihannya mencantumkan hidangan yang tidak pernah kamu pesan dan biaya layanan yang tidak pernah disebutkan. Pelayan (AI) bersikeras tagihannya benar.",
+    "ms": "Di penghujung makan malam, bil itu termasuk hidangan yang anda tidak pernah pesan dan caj perkhidmatan yang tiada siapa sebut. Pelayan (AI) bertegas bahawa ia betul.",
+    "ko": "저녁 식사를 마쳤는데, 계산서에 주문하지 않은 요리와 아무도 말해 주지 않은 서비스 요금이 포함되어 있습니다. 종업원(AI)은 맞다고 우깁니다."
+  },
+  "mission": {
+    "native": "Go through the bill calmly, challenge the wrong items and get a corrected bill.",
+    "native_translations": {
+      "en": "Go through the bill calmly, challenge the wrong items and get a corrected bill.",
+      "es": "Revise la cuenta con calma, cuestione los cargos equivocados y consiga una cuenta corregida.",
+      "fr": "Vérifiez l'addition calmement, contestez les lignes erronées et obtenez une addition corrigée.",
+      "de": "Gehen Sie die Rechnung ruhig durch, beanstanden Sie die falschen Posten und lassen Sie sich eine korrigierte Rechnung geben.",
+      "it": "Controlla il conto con calma, contesta le voci sbagliate e fatti portare un conto corretto.",
+      "pl": "Spokojnie przejrzyj rachunek, zakwestionuj błędne pozycje i dostań poprawiony rachunek.",
+      "pt": "Revise a conta com calma, conteste os itens errados e consiga uma conta corrigida.",
+      "nl": "Loop de rekening rustig door, betwist de verkeerde posten en krijg een gecorrigeerde rekening.",
+      "hr": "Mirno prođi kroz račun, ospori pogrešne stavke i dobij ispravljen račun.",
+      "tr": "Hesabı sakince gözden geçirin, hatalı kalemlere itiraz edin ve düzeltilmiş bir hesap alın.",
+      "uk": "Спокійно перевір рахунок, оскарж зайві позиції й отримай виправлений рахунок.",
+      "ar": "راجع الفاتورة بهدوء، واعترض على البنود الخاطئة، واحصل على فاتورة مصحّحة.",
+      "hi": "शांति से बिल देखिए, ग़लत चीज़ों पर सवाल उठाइए और सही किया हुआ बिल लीजिए।",
+      "vi": "Bình tĩnh xem lại hóa đơn, phản đối các mục sai và yêu cầu hóa đơn đã chỉnh sửa.",
+      "id": "Periksa tagihannya dengan tenang, sanggah item yang salah, dan minta tagihan yang sudah diperbaiki.",
+      "ms": "Semak bil dengan tenang, pertikaikan item yang salah dan dapatkan bil yang telah dibetulkan.",
+      "ko": "계산서를 차분히 확인하고, 잘못된 항목에 이의를 제기해서 수정된 계산서를 받으세요."
+    },
+    "practice": "Revise la cuenta con calma, cuestione los cargos equivocados y consiga una cuenta corregida.",
+    "practice_translations": {
+      "en": "Go through the bill calmly, challenge the wrong items and get a corrected bill.",
+      "es": "Revise la cuenta con calma, cuestione los cargos equivocados y consiga una cuenta corregida.",
+      "ja": "落ち着いて明細を確認し、間違った項目を指摘して、正しい請求書をもらってください。",
+      "ko": "계산서를 차분히 확인하고, 잘못된 항목에 이의를 제기해서 수정된 계산서를 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say there is a mistake on the bill",
+        "native_translations": {
+          "en": "Say there is a mistake on the bill",
+          "es": "Diga que hay un error en la cuenta",
+          "fr": "Dites qu'il y a une erreur dans l'addition",
+          "de": "Sagen Sie, dass die Rechnung einen Fehler enthält",
+          "it": "Di' che c'è un errore nel conto",
+          "pl": "Powiedz, że na rachunku jest błąd",
+          "pt": "Diga que há um erro na conta",
+          "nl": "Zeg dat er een fout op de rekening staat",
+          "hr": "Reci da na računu ima greška",
+          "tr": "Hesapta bir hata olduğunu söyleyin",
+          "uk": "Скажи, що в рахунку помилка",
+          "ar": "قل إن هناك خطأ في الفاتورة",
+          "hi": "कहिए कि बिल में ग़लती है",
+          "vi": "Nói rằng hóa đơn có chỗ sai",
+          "id": "Katakan bahwa ada kesalahan di tagihan",
+          "ms": "Katakan ada kesilapan pada bil",
+          "ko": "계산서에 실수가 있다고 말하세요"
+        },
+        "practice": "Diga que hay un error en la cuenta",
+        "practice_translations": {
+          "en": "Say there is a mistake on the bill",
+          "es": "Diga que hay un error en la cuenta",
+          "ja": "請求書に間違いがあると伝えてください",
+          "ko": "계산서에 실수가 있다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Point out the items you didn't order",
+        "native_translations": {
+          "en": "Point out the items you didn't order",
+          "es": "Señale lo que no pidió",
+          "fr": "Signalez les plats que vous n'avez pas commandés",
+          "de": "Weisen Sie auf die Posten hin, die Sie nicht bestellt haben",
+          "it": "Indica le voci che non hai ordinato",
+          "pl": "Wskaż pozycje, których nie zamawiałeś",
+          "pt": "Aponte os itens que você não pediu",
+          "nl": "Wijs de dingen aan die je niet hebt besteld",
+          "hr": "Ukaži na stavke koje nisi naručio",
+          "tr": "Sipariş etmediğiniz kalemleri belirtin",
+          "uk": "Вкажи на позиції, яких не було в замовленні",
+          "ar": "أشر إلى البنود التي لم تطلبها",
+          "hi": "वे चीज़ें बताइए जो आपने ऑर्डर नहीं कीं",
+          "vi": "Chỉ ra những món bạn không gọi",
+          "id": "Tunjukkan item yang tidak kamu pesan",
+          "ms": "Tunjukkan item yang anda tidak pesan",
+          "ko": "주문하지 않은 항목을 짚어 주세요"
+        },
+        "practice": "Señale lo que no pidió",
+        "practice_translations": {
+          "en": "Point out the items you didn't order",
+          "es": "Señale lo que no pidió",
+          "ja": "注文していない品を指摘してください",
+          "ko": "주문하지 않은 항목을 짚어 주세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about the service charge",
+        "native_translations": {
+          "en": "Ask about the service charge",
+          "es": "Pregunte por el cargo por servicio",
+          "fr": "Renseignez-vous sur les frais de service",
+          "de": "Fragen Sie nach der Servicegebühr",
+          "it": "Chiedi spiegazioni sul costo del servizio",
+          "pl": "Zapytaj o opłatę za obsługę",
+          "pt": "Pergunte sobre a taxa de serviço",
+          "nl": "Vraag naar de servicekosten",
+          "hr": "Pitaj za naknadu za uslugu",
+          "tr": "Servis ücretini sorun",
+          "uk": "Запитай про плату за обслуговування",
+          "ar": "اسأل عن رسوم الخدمة",
+          "hi": "सर्विस चार्ज के बारे में पूछिए",
+          "vi": "Hỏi về khoản phí phục vụ",
+          "id": "Tanyakan soal biaya layanannya",
+          "ms": "Tanya tentang caj perkhidmatan",
+          "ko": "서비스 요금에 대해 물어보세요"
+        },
+        "practice": "Pregunte por el cargo por servicio",
+        "practice_translations": {
+          "en": "Ask about the service charge",
+          "es": "Pregunte por el cargo por servicio",
+          "ja": "サービス料について聞いてください",
+          "ko": "서비스 요금에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for a corrected bill",
+        "native_translations": {
+          "en": "Ask for a corrected bill",
+          "es": "Pida una cuenta corregida",
+          "fr": "Demandez une addition corrigée",
+          "de": "Bitten Sie um eine korrigierte Rechnung",
+          "it": "Chiedi un conto corretto",
+          "pl": "Poproś o poprawiony rachunek",
+          "pt": "Peça uma conta corrigida",
+          "nl": "Vraag om een gecorrigeerde rekening",
+          "hr": "Zatraži ispravljen račun",
+          "tr": "Düzeltilmiş bir hesap isteyin",
+          "uk": "Попроси виправлений рахунок",
+          "ar": "اطلب فاتورة مصحّحة",
+          "hi": "सही किया हुआ बिल माँगिए",
+          "vi": "Yêu cầu hóa đơn đã chỉnh sửa",
+          "id": "Minta tagihan yang sudah diperbaiki",
+          "ms": "Minta bil yang telah dibetulkan",
+          "ko": "수정된 계산서를 요청하세요"
+        },
+        "practice": "Pida una cuenta corregida",
+        "practice_translations": {
+          "en": "Ask for a corrected bill",
+          "es": "Pida una cuenta corregida",
+          "ja": "正しい請求書をお願いしてください",
+          "ko": "수정된 계산서를 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, I think there's a mistake on the bill.",
+      "native_translations": {
+        "en": "Excuse me, I think there's a mistake on the bill.",
+        "es": "Disculpe, creo que hay un error en la cuenta.",
+        "fr": "Excusez-moi, je crois qu'il y a une erreur dans l'addition.",
+        "de": "Entschuldigung, ich glaube, auf der Rechnung ist ein Fehler.",
+        "it": "Mi scusi, credo che ci sia un errore nel conto.",
+        "pl": "Przepraszam, chyba na rachunku jest błąd.",
+        "pt": "Com licença, acho que tem um erro na conta.",
+        "nl": "Pardon, ik denk dat er een fout op de rekening staat.",
+        "hr": "Oprostite, mislim da je na računu greška.",
+        "tr": "Affedersiniz, sanırım hesapta bir hata var.",
+        "uk": "Перепрошую, здається, у рахунку помилка.",
+        "ar": "عفوًا، أعتقد أن هناك خطأ في الفاتورة.",
+        "hi": "माफ़ कीजिए, मुझे लगता है बिल में कोई ग़लती है।",
+        "vi": "Xin lỗi, hình như hóa đơn có chỗ nhầm.",
+        "id": "Permisi, sepertinya ada kesalahan di tagihannya.",
+        "ms": "Maaf, saya rasa ada kesilapan pada bil ini.",
+        "ko": "실례합니다, 계산서에 착오가 있는 것 같아요."
+      },
+      "practice": "Disculpe, creo que hay un error en la cuenta.",
+      "practice_translations": {
+        "en": "Excuse me, I think there's a mistake on the bill.",
+        "es": "Disculpe, creo que hay un error en la cuenta.",
+        "ja": "すみません、お会計に間違いがあるようなのですが。",
+        "ko": "실례합니다, 계산서에 착오가 있는 것 같아요."
+      }
+    },
+    {
+      "native": "We didn't order the dessert or the wine.",
+      "native_translations": {
+        "en": "We didn't order the dessert or the wine.",
+        "es": "No pedimos el postre ni el vino.",
+        "fr": "Nous n'avons commandé ni le dessert ni le vin.",
+        "de": "Wir haben weder das Dessert noch den Wein bestellt.",
+        "it": "Non abbiamo ordinato né il dolce né il vino.",
+        "pl": "Nie zamawialiśmy deseru ani wina.",
+        "pt": "Nós não pedimos a sobremesa nem o vinho.",
+        "nl": "We hebben geen dessert of wijn besteld.",
+        "hr": "Nismo naručili ni desert ni vino.",
+        "tr": "Tatlıyı da şarabı da sipariş etmedik.",
+        "uk": "Ми не замовляли ні десерту, ні вина.",
+        "ar": "لم نطلب الحلوى ولا النبيذ.",
+        "hi": "हमने डेज़र्ट या वाइन ऑर्डर नहीं की थी।",
+        "vi": "Chúng tôi không gọi món tráng miệng hay rượu vang.",
+        "id": "Kami tidak memesan hidangan penutup atau anggur.",
+        "ms": "Kami tak pesan pencuci mulut atau wain.",
+        "ko": "저희는 디저트하고 와인은 주문 안 했어요."
+      },
+      "practice": "No pedimos el postre ni el vino.",
+      "practice_translations": {
+        "en": "We didn't order the dessert or the wine.",
+        "es": "No pedimos el postre ni el vino.",
+        "ja": "デザートとワインは注文していません。",
+        "ko": "저희는 디저트하고 와인은 주문 안 했어요."
+      }
+    },
+    {
+      "native": "Nobody told us about a service charge.",
+      "native_translations": {
+        "en": "Nobody told us about a service charge.",
+        "es": "Nadie nos dijo nada de un cargo por servicio.",
+        "fr": "Personne ne nous a parlé de frais de service.",
+        "de": "Niemand hat uns etwas von einer Servicegebühr gesagt.",
+        "it": "Nessuno ci ha parlato di un costo del servizio.",
+        "pl": "Nikt nam nie mówił o opłacie za obsługę.",
+        "pt": "Ninguém nos falou de taxa de serviço.",
+        "nl": "Niemand heeft ons iets over servicekosten verteld.",
+        "hr": "Nitko nam nije rekao za naknadu za uslugu.",
+        "tr": "Kimse bize servis ücretinden bahsetmedi.",
+        "uk": "Ніхто не казав нам про плату за обслуговування.",
+        "ar": "لم يخبرنا أحد برسوم الخدمة.",
+        "hi": "किसी ने हमें सर्विस चार्ज के बारे में नहीं बताया।",
+        "vi": "Không ai báo với chúng tôi về phí phục vụ cả.",
+        "id": "Tidak ada yang memberi tahu kami soal biaya layanan.",
+        "ms": "Tiada siapa beritahu kami tentang caj perkhidmatan.",
+        "ko": "서비스 요금에 대해서는 아무도 말해 주지 않았어요."
+      },
+      "practice": "Nadie nos dijo nada de un cargo por servicio.",
+      "practice_translations": {
+        "en": "Nobody told us about a service charge.",
+        "es": "Nadie nos dijo nada de un cargo por servicio.",
+        "ja": "サービス料について何も聞いていませんでした。",
+        "ko": "서비스 요금에 대해서는 아무도 말해 주지 않았어요."
+      }
+    },
+    {
+      "native": "Could you check it with the manager?",
+      "native_translations": {
+        "en": "Could you check it with the manager?",
+        "es": "¿Podría revisarlo con el gerente?",
+        "fr": "Pourriez-vous vérifier avec le responsable ?",
+        "de": "Könnten Sie das mit dem Geschäftsführer klären?",
+        "it": "Potrebbe verificarlo con il responsabile?",
+        "pl": "Czy mógłby pan to sprawdzić z kierownikiem?",
+        "pt": "Você poderia verificar com o gerente?",
+        "nl": "Kunt u het even nakijken met de manager?",
+        "hr": "Možete li to provjeriti s voditeljem?",
+        "tr": "Müdürle birlikte kontrol edebilir misiniz?",
+        "uk": "Могли б ви перевірити це з менеджером?",
+        "ar": "هل يمكنك التحقق من ذلك مع المدير؟",
+        "hi": "क्या आप इसे मैनेजर से जाँचवा सकते हैं?",
+        "vi": "Anh/chị kiểm tra lại với quản lý giúp được không?",
+        "id": "Bisa tolong dicek dengan manajernya?",
+        "ms": "Boleh tolong semak dengan pengurus?",
+        "ko": "매니저님께 확인해 주실 수 있나요?"
+      },
+      "practice": "¿Podría revisarlo con el gerente?",
+      "practice_translations": {
+        "en": "Could you check it with the manager?",
+        "es": "¿Podría revisarlo con el gerente?",
+        "ja": "店長さんに確認していただけますか。",
+        "ko": "매니저님께 확인해 주실 수 있나요?"
+      }
+    },
+    {
+      "native": "I'll pay once the bill is corrected.",
+      "native_translations": {
+        "en": "I'll pay once the bill is corrected.",
+        "es": "Pagaré cuando corrijan la cuenta.",
+        "fr": "Je paierai une fois l'addition corrigée.",
+        "de": "Ich zahle, sobald die Rechnung korrigiert ist.",
+        "it": "Pagherò appena il conto sarà corretto.",
+        "pl": "Zapłacę, jak tylko rachunek zostanie poprawiony.",
+        "pt": "Eu pago assim que a conta for corrigida.",
+        "nl": "Ik betaal zodra de rekening is gecorrigeerd.",
+        "hr": "Platit ću čim se račun ispravi.",
+        "tr": "Hesap düzeltilince öderim.",
+        "uk": "Я заплачу, щойно рахунок виправлять.",
+        "ar": "سأدفع بعد تصحيح الفاتورة.",
+        "hi": "बिल ठीक होते ही मैं भुगतान कर दूँगा।",
+        "vi": "Khi hóa đơn được sửa lại, tôi sẽ thanh toán.",
+        "id": "Saya akan bayar setelah tagihannya diperbaiki.",
+        "ms": "Saya akan bayar sebaik sahaja bil dibetulkan.",
+        "ko": "계산서가 수정되면 결제할게요."
+      },
+      "practice": "Pagaré cuando corrijan la cuenta.",
+      "practice_translations": {
+        "en": "I'll pay once the bill is corrected.",
+        "es": "Pagaré cuando corrijan la cuenta.",
+        "ja": "請求書を直していただいたら、お支払いします。",
+        "ko": "계산서가 수정되면 결제할게요."
+      }
+    }
+  ]
+}

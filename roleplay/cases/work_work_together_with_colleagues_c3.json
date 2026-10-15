@@ -1,0 +1,351 @@
+{
+  "id": "work_work_together_with_colleagues_c3",
+  "title": "Credit Where It's Due",
+  "title_translations": {
+    "en": "Credit Where It's Due",
+    "es": "El mérito a quien le corresponde",
+    "fr": "À chacun son mérite",
+    "de": "Ehre, wem Ehre gebührt",
+    "it": "A ciascuno il suo merito",
+    "pl": "Zasługi dla tego, komu się należą",
+    "pt": "Crédito a quem merece",
+    "nl": "Eer wie eer toekomt",
+    "hr": "Zasluge onome kome pripadaju",
+    "tr": "Hakkı Olana Hakkını Vermek",
+    "uk": "Віддати належне",
+    "ar": "الفضل لصاحبه",
+    "hi": "जिसका श्रेय, उसी को",
+    "vi": "Công sức của ai người đó hưởng",
+    "id": "Beri Pujian pada yang Berhak",
+    "ms": "Beri Pengiktirafan yang Sewajarnya",
+    "ko": "공은 제대로 인정받아야죠"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "In this morning's meeting, a colleague (AI) presented your idea as their own. Now you catch them alone to talk about it.",
+  "scenario_translations": {
+    "en": "In this morning's meeting, a colleague (AI) presented your idea as their own. Now you catch them alone to talk about it.",
+    "es": "En la reunión de esta mañana, un colega (AI) presentó su idea como propia. Ahora usted lo encuentra a solas para hablarlo.",
+    "fr": "Lors de la réunion de ce matin, une collègue (AI) a présenté votre idée comme la sienne. Vous la prenez à part pour en parler.",
+    "de": "Im Meeting heute Morgen hat eine Kollegin (AI) Ihre Idee als ihre eigene präsentiert. Jetzt erwischen Sie sie allein, um darüber zu sprechen.",
+    "it": "Nella riunione di stamattina, un collega (AI) ha presentato la tua idea come se fosse sua. Ora lo trovi da solo e vuoi parlargliene.",
+    "pl": "Na porannym spotkaniu kolega (AI) przedstawił twój pomysł jako swój. Teraz łapiesz go na osobności, żeby o tym porozmawiać.",
+    "pt": "Na reunião de hoje de manhã, um colega (AI) apresentou a sua ideia como se fosse dele. Agora você o encontra sozinho para conversar sobre isso.",
+    "nl": "In het overleg van vanochtend presenteerde een collega (AI) jouw idee als dat van hemzelf. Nu spreek je hem onder vier ogen aan.",
+    "hr": "Na jutrošnjem sastanku kolega (AI) predstavio je tvoju ideju kao svoju. Sada ga uhvatiš nasamo da razgovarate o tome.",
+    "tr": "Bu sabahki toplantıda bir iş arkadaşınız (AI) sizin fikrinizi kendi fikriymiş gibi sundu. Şimdi bunu konuşmak için onu yalnız yakalıyorsunuz.",
+    "uk": "На ранковій нараді колега (AI) представив твою ідею як власну. Тепер ти застаєш його на самоті, щоб про це поговорити.",
+    "ar": "في اجتماع هذا الصباح، قدّم زميل (AI) فكرتك على أنها فكرته. والآن تنفرد به للتحدث في الأمر.",
+    "hi": "आज सुबह की मीटिंग में एक सहकर्मी (AI) ने आपका आइडिया अपना बताकर पेश किया। अब आप उनसे अकेले में इस बारे में बात करते हैं।",
+    "vi": "Trong cuộc họp sáng nay, một đồng nghiệp (AI) đã trình bày ý tưởng của bạn như thể của họ. Giờ bạn gặp riêng họ để nói chuyện.",
+    "id": "Di rapat tadi pagi, seorang rekan kerja (AI) mempresentasikan idemu seolah-olah miliknya. Sekarang kamu menemuinya berdua saja untuk membicarakannya.",
+    "ms": "Dalam mesyuarat pagi tadi, seorang rakan sekerja (AI) membentangkan idea anda seolah-olah idea mereka sendiri. Kini anda berjumpa mereka secara bersendirian untuk membincangkannya.",
+    "ko": "오늘 아침 회의에서 한 동료(AI)가 당신의 아이디어를 자기 것처럼 발표했어요. 이제 동료와 단둘이 이야기하려고 합니다."
+  },
+  "mission": {
+    "native": "Calmly tell your colleague the idea was yours and agree on sharing credit.",
+    "native_translations": {
+      "en": "Calmly tell your colleague the idea was yours and agree on sharing credit.",
+      "es": "Dígale con calma a su colega que la idea era suya y acuerden compartir el mérito.",
+      "fr": "Dites calmement à votre collègue que l'idée venait de vous et mettez-vous d'accord pour en partager le mérite.",
+      "de": "Sagen Sie Ihrer Kollegin ruhig, dass die Idee von Ihnen stammt, und einigen Sie sich darauf, die Anerkennung zu teilen.",
+      "it": "Di' con calma al tuo collega che l'idea era tua e concordate di condividerne il merito.",
+      "pl": "Spokojnie powiedz koledze, że to był twój pomysł, i ustalcie, jak podzielicie się zasługami.",
+      "pt": "Diga com calma ao seu colega que a ideia era sua e combinem de dividir o crédito.",
+      "nl": "Vertel je collega rustig dat het idee van jou was en spreek af dat jullie de eer delen.",
+      "hr": "Mirno reci kolegi da je ideja bila tvoja i dogovorite podjelu zasluga.",
+      "tr": "İş arkadaşınıza fikrin size ait olduğunu sakince söyleyin ve emeği paylaşma konusunda anlaşın.",
+      "uk": "Спокійно скажи колезі, що ідея була твоя, і домовтеся розділити заслугу.",
+      "ar": "أخبر زميلك بهدوء أن الفكرة كانت فكرتك واتفقا على تقاسم الفضل.",
+      "hi": "शांति से सहकर्मी को बताइए कि आइडिया आपका था और श्रेय बाँटने पर सहमति बनाइए।",
+      "vi": "Bình tĩnh nói với đồng nghiệp rằng ý tưởng đó là của bạn và thống nhất cùng ghi nhận công sức.",
+      "id": "Katakan dengan tenang kepada rekanmu bahwa ide itu milikmu dan sepakati untuk berbagi pengakuan.",
+      "ms": "Beritahu rakan sekerja anda dengan tenang bahawa idea itu milik anda dan setuju untuk berkongsi pengiktirafan.",
+      "ko": "그 아이디어가 당신의 것이었다고 차분하게 말하고, 공을 함께 나누기로 합의하세요."
+    },
+    "practice": "Dígale con calma a su colega que la idea era suya y acuerden compartir el mérito.",
+    "practice_translations": {
+      "en": "Calmly tell your colleague the idea was yours and agree on sharing credit.",
+      "es": "Dígale con calma a su colega que la idea era suya y acuerden compartir el mérito.",
+      "ja": "落ち着いて、そのアイデアは自分のものだと同僚に伝え、功績を分け合うことに合意してください。",
+      "ko": "그 아이디어가 당신의 것이었다고 차분하게 말하고, 공을 함께 나누기로 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask for a few minutes to talk privately",
+        "native_translations": {
+          "en": "Ask for a few minutes to talk privately",
+          "es": "Pida unos minutos para hablar en privado",
+          "fr": "Demandez quelques minutes pour parler en privé",
+          "de": "Bitten Sie um ein paar Minuten für ein Gespräch unter vier Augen",
+          "it": "Chiedi qualche minuto per parlare in privato",
+          "pl": "Poproś o kilka minut rozmowy na osobności",
+          "pt": "Peça alguns minutos para conversar em particular",
+          "nl": "Vraag om een paar minuten om onder vier ogen te praten",
+          "hr": "Zamoli nekoliko minuta za razgovor nasamo",
+          "tr": "Baş başa konuşmak için birkaç dakika isteyin",
+          "uk": "Попроси кілька хвилин для приватної розмови",
+          "ar": "اطلب بضع دقائق للتحدث على انفراد",
+          "hi": "अकेले में बात करने के लिए कुछ मिनट माँगिए",
+          "vi": "Xin vài phút để nói chuyện riêng",
+          "id": "Minta waktu beberapa menit untuk bicara berdua",
+          "ms": "Minta beberapa minit untuk bercakap secara peribadi",
+          "ko": "따로 잠깐 이야기할 시간을 달라고 하세요"
+        },
+        "practice": "Pida unos minutos para hablar en privado",
+        "practice_translations": {
+          "en": "Ask for a few minutes to talk privately",
+          "es": "Pida unos minutos para hablar en privado",
+          "ja": "二人だけで話す時間を少しもらえるよう頼んでください",
+          "ko": "따로 잠깐 이야기할 시간을 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Mention the idea presented in the meeting",
+        "native_translations": {
+          "en": "Mention the idea presented in the meeting",
+          "es": "Mencione la idea presentada en la reunión",
+          "fr": "Évoquez l'idée présentée en réunion",
+          "de": "Sprechen Sie die Idee an, die im Meeting präsentiert wurde",
+          "it": "Menziona l'idea presentata in riunione",
+          "pl": "Wspomnij o pomyśle przedstawionym na spotkaniu",
+          "pt": "Mencione a ideia apresentada na reunião",
+          "nl": "Noem het idee dat in het overleg werd gepresenteerd",
+          "hr": "Spomeni ideju predstavljenu na sastanku",
+          "tr": "Toplantıda sunulan fikirden bahsedin",
+          "uk": "Згадай ідею, представлену на нараді",
+          "ar": "اذكر الفكرة التي عُرضت في الاجتماع",
+          "hi": "मीटिंग में पेश किए गए आइडिया का ज़िक्र कीजिए",
+          "vi": "Nhắc đến ý tưởng được trình bày trong cuộc họp",
+          "id": "Sebutkan ide yang dipresentasikan di rapat",
+          "ms": "Sebut idea yang dibentangkan dalam mesyuarat",
+          "ko": "회의에서 발표된 아이디어를 언급하세요"
+        },
+        "practice": "Mencione la idea presentada en la reunión",
+        "practice_translations": {
+          "en": "Mention the idea presented in the meeting",
+          "es": "Mencione la idea presentada en la reunión",
+          "ja": "会議で発表されたアイデアについて触れてください",
+          "ko": "회의에서 발표된 아이디어를 언급하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain calmly that the idea was yours",
+        "native_translations": {
+          "en": "Explain calmly that the idea was yours",
+          "es": "Explique con calma que la idea era suya",
+          "fr": "Expliquez calmement que l'idée venait de vous",
+          "de": "Erklären Sie ruhig, dass die Idee von Ihnen stammt",
+          "it": "Spiega con calma che l'idea era tua",
+          "pl": "Spokojnie wyjaśnij, że to był twój pomysł",
+          "pt": "Explique com calma que a ideia era sua",
+          "nl": "Leg rustig uit dat het idee van jou was",
+          "hr": "Mirno objasni da je ideja bila tvoja",
+          "tr": "Fikrin size ait olduğunu sakince açıklayın",
+          "uk": "Спокійно поясни, що ідея була твоя",
+          "ar": "اشرح بهدوء أن الفكرة كانت فكرتك",
+          "hi": "शांति से बताइए कि आइडिया आपका था",
+          "vi": "Bình tĩnh giải thích rằng ý tưởng đó là của bạn",
+          "id": "Jelaskan dengan tenang bahwa ide itu milikmu",
+          "ms": "Terangkan dengan tenang bahawa idea itu milik anda",
+          "ko": "그 아이디어가 자신의 것이었다고 차분하게 설명하세요"
+        },
+        "practice": "Explique con calma que la idea era suya",
+        "practice_translations": {
+          "en": "Explain calmly that the idea was yours",
+          "es": "Explique con calma que la idea era suya",
+          "ja": "落ち着いて、そのアイデアは自分のものだと説明してください",
+          "ko": "그 아이디어가 자신의 것이었다고 차분하게 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask to share credit in the next update",
+        "native_translations": {
+          "en": "Ask to share credit in the next update",
+          "es": "Pida compartir el mérito en la próxima actualización",
+          "fr": "Demandez à partager le mérite lors du prochain point",
+          "de": "Bitten Sie darum, die Anerkennung im nächsten Update zu teilen",
+          "it": "Chiedi di condividere il merito nel prossimo aggiornamento",
+          "pl": "Poproś, żeby w kolejnym podsumowaniu podkreślić wasz wspólny wkład",
+          "pt": "Peça para dividir o crédito na próxima atualização",
+          "nl": "Vraag om de eer te delen in de volgende update",
+          "hr": "Zatraži da podijelite zasluge u sljedećem izvještaju",
+          "tr": "Bir sonraki güncellemede emeğin paylaşılmasını isteyin",
+          "uk": "Попроси згадати тебе в наступному звіті",
+          "ar": "اطلب تقاسم الفضل في التحديث القادم",
+          "hi": "अगले अपडेट में श्रेय बाँटने को कहिए",
+          "vi": "Đề nghị cùng được ghi nhận trong lần cập nhật tới",
+          "id": "Minta agar pengakuannya dibagi di laporan berikutnya",
+          "ms": "Minta untuk berkongsi pengiktirafan dalam kemas kini seterusnya",
+          "ko": "다음 보고 때 공을 함께 나누자고 요청하세요"
+        },
+        "practice": "Pida compartir el mérito en la próxima actualización",
+        "practice_translations": {
+          "en": "Ask to share credit in the next update",
+          "es": "Pida compartir el mérito en la próxima actualización",
+          "ja": "次の報告では功績を分け合うよう頼んでください",
+          "ko": "다음 보고 때 공을 함께 나누자고 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Do you have a few minutes? I'd like to talk about the meeting.",
+      "native_translations": {
+        "en": "Do you have a few minutes? I'd like to talk about the meeting.",
+        "es": "¿Tienes unos minutos? Me gustaría hablar sobre la reunión.",
+        "fr": "Tu as quelques minutes ? J'aimerais parler de la réunion.",
+        "de": "Hast du ein paar Minuten? Ich würde gern über das Meeting reden.",
+        "it": "Hai qualche minuto? Vorrei parlarti della riunione.",
+        "pl": "Masz kilka minut? Chciałbym porozmawiać o spotkaniu.",
+        "pt": "Você tem alguns minutos? Gostaria de falar sobre a reunião.",
+        "nl": "Heb je een paar minuten? Ik wil het even over het overleg hebben.",
+        "hr": "Imaš li nekoliko minuta? Htio bih razgovarati o sastanku.",
+        "tr": "Birkaç dakikan var mı? Toplantı hakkında konuşmak istiyorum.",
+        "uk": "Маєш кілька хвилин? Я хотів би поговорити про нараду.",
+        "ar": "هل لديك بضع دقائق؟ أودّ التحدث عن الاجتماع.",
+        "hi": "क्या आपके पास कुछ मिनट हैं? मैं मीटिंग के बारे में बात करना चाहता हूँ।",
+        "vi": "Bạn có vài phút không? Mình muốn nói về cuộc họp.",
+        "id": "Kamu ada waktu sebentar? Saya ingin bicara soal rapat tadi.",
+        "ms": "Ada masa beberapa minit? Saya ingin bercakap tentang mesyuarat tadi.",
+        "ko": "잠깐 시간 있으세요? 회의에 대해 이야기하고 싶어요."
+      },
+      "practice": "¿Tienes unos minutos? Me gustaría hablar sobre la reunión.",
+      "practice_translations": {
+        "en": "Do you have a few minutes? I'd like to talk about the meeting.",
+        "es": "¿Tienes unos minutos? Me gustaría hablar sobre la reunión.",
+        "ja": "少しお時間いいですか。会議のことでお話ししたいんです。",
+        "ko": "잠깐 시간 있으세요? 회의에 대해 이야기하고 싶어요."
+      }
+    },
+    {
+      "native": "I noticed you presented the new schedule idea this morning.",
+      "native_translations": {
+        "en": "I noticed you presented the new schedule idea this morning.",
+        "es": "Noté que presentaste la idea del nuevo horario esta mañana.",
+        "fr": "J'ai remarqué que tu as présenté l'idée du nouveau planning ce matin.",
+        "de": "Mir ist aufgefallen, dass du heute Morgen die Idee mit dem neuen Zeitplan präsentiert hast.",
+        "it": "Ho notato che stamattina hai presentato l'idea del nuovo calendario.",
+        "pl": "Zauważyłem, że dziś rano przedstawiłeś pomysł nowego harmonogramu.",
+        "pt": "Percebi que você apresentou a ideia do novo cronograma hoje de manhã.",
+        "nl": "Ik zag dat je vanochtend het idee voor de nieuwe planning presenteerde.",
+        "hr": "Primijetio sam da si jutros predstavio ideju o novom rasporedu.",
+        "tr": "Bu sabah yeni program fikrini senin sunduğunu fark ettim.",
+        "uk": "Я помітив, що сьогодні вранці ти представив ідею нового графіка.",
+        "ar": "لاحظت أنك عرضت فكرة الجدول الجديد هذا الصباح.",
+        "hi": "मैंने देखा कि आज सुबह आपने नए शेड्यूल वाला आइडिया पेश किया।",
+        "vi": "Mình thấy sáng nay bạn đã trình bày ý tưởng về lịch mới.",
+        "id": "Saya lihat tadi pagi kamu mempresentasikan ide jadwal baru itu.",
+        "ms": "Saya perasan anda membentangkan idea jadual baharu pagi tadi.",
+        "ko": "오늘 아침에 새 일정 아이디어를 발표하시는 걸 봤어요."
+      },
+      "practice": "Noté que presentaste la idea del nuevo horario esta mañana.",
+      "practice_translations": {
+        "en": "I noticed you presented the new schedule idea this morning.",
+        "es": "Noté que presentaste la idea del nuevo horario esta mañana.",
+        "ja": "今朝、新しいスケジュールのアイデアを発表していましたよね。",
+        "ko": "오늘 아침에 새 일정 아이디어를 발표하시는 걸 봤어요."
+      }
+    },
+    {
+      "native": "I shared that idea with you last week, so I was surprised.",
+      "native_translations": {
+        "en": "I shared that idea with you last week, so I was surprised.",
+        "es": "Yo te compartí esa idea la semana pasada, así que me sorprendió.",
+        "fr": "Je t'avais parlé de cette idée la semaine dernière, alors j'ai été surpris.",
+        "de": "Ich hatte dir die Idee letzte Woche erzählt, deshalb war ich überrascht.",
+        "it": "Ti avevo parlato di quell'idea la settimana scorsa, quindi sono rimasto sorpreso.",
+        "pl": "Podzieliłem się z tobą tym pomysłem w zeszłym tygodniu, więc byłem zaskoczony.",
+        "pt": "Eu te contei essa ideia na semana passada, então fiquei surpreso.",
+        "nl": "Ik had dat idee vorige week met je gedeeld, dus ik was verrast.",
+        "hr": "Tu sam ideju s tobom podijelio prošli tjedan, pa sam se iznenadio.",
+        "tr": "O fikri geçen hafta seninle paylaşmıştım, o yüzden şaşırdım.",
+        "uk": "Я поділився з тобою цією ідеєю минулого тижня, тож був здивований.",
+        "ar": "شاركتك تلك الفكرة الأسبوع الماضي، لذلك فوجئت.",
+        "hi": "वह आइडिया मैंने पिछले हफ़्ते आपसे शेयर किया था, इसलिए मुझे हैरानी हुई।",
+        "vi": "Tuần trước mình đã chia sẻ ý tưởng đó với bạn, nên mình hơi bất ngờ.",
+        "id": "Saya sudah menceritakan ide itu kepadamu minggu lalu, jadi saya kaget.",
+        "ms": "Saya kongsi idea itu dengan anda minggu lepas, jadi saya terkejut.",
+        "ko": "지난주에 제가 그 아이디어를 말씀드렸던 거라서 좀 놀랐어요."
+      },
+      "practice": "Yo te compartí esa idea la semana pasada, así que me sorprendió.",
+      "practice_translations": {
+        "en": "I shared that idea with you last week, so I was surprised.",
+        "es": "Yo te compartí esa idea la semana pasada, así que me sorprendió.",
+        "ja": "あのアイデアは先週私がお話ししたものだったので、驚きました。",
+        "ko": "지난주에 제가 그 아이디어를 말씀드렸던 거라서 좀 놀랐어요."
+      }
+    },
+    {
+      "native": "I'm sure it wasn't on purpose, but it matters to me.",
+      "native_translations": {
+        "en": "I'm sure it wasn't on purpose, but it matters to me.",
+        "es": "Seguro que no fue a propósito, pero para mí es importante.",
+        "fr": "Je suis sûr que ce n'était pas voulu, mais c'est important pour moi.",
+        "de": "Ich bin sicher, das war keine Absicht, aber es ist mir wichtig.",
+        "it": "Sono sicuro che non l'hai fatto apposta, ma per me è importante.",
+        "pl": "Na pewno nie zrobiłeś tego celowo, ale to dla mnie ważne.",
+        "pt": "Tenho certeza de que não foi de propósito, mas isso é importante para mim.",
+        "nl": "Ik weet zeker dat het niet expres was, maar het is belangrijk voor me.",
+        "hr": "Siguran sam da nije bilo namjerno, ali meni je to važno.",
+        "tr": "Eminim bilerek yapmadın ama bu benim için önemli.",
+        "uk": "Упевнений, що це було ненавмисно, але для мене це важливо.",
+        "ar": "أنا متأكد أن ذلك لم يكن مقصودًا، لكنه يهمّني.",
+        "hi": "मुझे यक़ीन है कि यह जानबूझकर नहीं हुआ, लेकिन यह मेरे लिए मायने रखता है।",
+        "vi": "Mình chắc là bạn không cố ý, nhưng chuyện này quan trọng với mình.",
+        "id": "Saya yakin itu tidak disengaja, tapi ini penting bagi saya.",
+        "ms": "Saya pasti ia bukan sengaja, tetapi perkara ini penting bagi saya.",
+        "ko": "일부러 그러신 건 아니겠지만, 저한테는 중요한 일이에요."
+      },
+      "practice": "Seguro que no fue a propósito, pero para mí es importante.",
+      "practice_translations": {
+        "en": "I'm sure it wasn't on purpose, but it matters to me.",
+        "es": "Seguro que no fue a propósito, pero para mí es importante.",
+        "ja": "わざとではないと思いますが、私にとっては大事なことなんです。",
+        "ko": "일부러 그러신 건 아니겠지만, 저한테는 중요한 일이에요."
+      }
+    },
+    {
+      "native": "Next time, let's present it together.",
+      "native_translations": {
+        "en": "Next time, let's present it together.",
+        "es": "La próxima vez, presentémosla juntos.",
+        "fr": "La prochaine fois, présentons-la ensemble.",
+        "de": "Lass sie uns beim nächsten Mal zusammen präsentieren.",
+        "it": "La prossima volta presentiamola insieme.",
+        "pl": "Następnym razem przedstawmy to razem.",
+        "pt": "Da próxima vez, vamos apresentar juntos.",
+        "nl": "Laten we het de volgende keer samen presenteren.",
+        "hr": "Sljedeći put predstavimo je zajedno.",
+        "tr": "Bir dahaki sefere birlikte sunalım.",
+        "uk": "Наступного разу давай презентуємо її разом.",
+        "ar": "في المرة القادمة، لنعرضها معًا.",
+        "hi": "अगली बार, चलिए इसे साथ में पेश करते हैं।",
+        "vi": "Lần sau mình cùng trình bày nhé.",
+        "id": "Lain kali, ayo kita presentasikan bersama.",
+        "ms": "Lain kali, jom kita bentangkan bersama-sama.",
+        "ko": "다음에는 같이 발표해요."
+      },
+      "practice": "La próxima vez, presentémosla juntos.",
+      "practice_translations": {
+        "en": "Next time, let's present it together.",
+        "es": "La próxima vez, presentémosla juntos.",
+        "ja": "次は、一緒に発表しましょう。",
+        "ko": "다음에는 같이 발표해요."
+      }
+    }
+  ]
+}

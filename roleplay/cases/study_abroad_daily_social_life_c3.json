@@ -1,0 +1,351 @@
+{
+  "id": "study_abroad_daily_social_life_c3",
+  "title": "Setting House Rules",
+  "title_translations": {
+    "en": "Setting House Rules",
+    "es": "Poner reglas de convivencia",
+    "fr": "Fixer des règles de vie commune",
+    "de": "Hausregeln festlegen",
+    "it": "Stabilire le regole di casa",
+    "pl": "Ustalanie zasad w mieszkaniu",
+    "pt": "Definindo as regras da casa",
+    "nl": "Huisregels afspreken",
+    "hr": "Dogovor o kućnom redu",
+    "tr": "Ev Kurallarını Belirlemek",
+    "uk": "Домовляємося про правила",
+    "ar": "وضع قواعد السكن",
+    "hi": "घर के नियम तय करना",
+    "vi": "Đặt nội quy phòng",
+    "id": "Menetapkan Aturan Bersama",
+    "ms": "Menetapkan Peraturan Rumah",
+    "ko": "방 규칙 정하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your roommate (AI) keeps inviting loud friends over late at night, and you have early exams this week.",
+  "scenario_translations": {
+    "en": "Your roommate (AI) keeps inviting loud friends over late at night, and you have early exams this week.",
+    "es": "Su compañero de cuarto (AI) sigue invitando a amigos ruidosos tarde en la noche, y usted tiene exámenes temprano esta semana.",
+    "fr": "Votre colocataire (AI) invite sans arrêt des amis bruyants tard le soir, et vous avez des examens tôt le matin cette semaine.",
+    "de": "Ihr Mitbewohner (AI) lädt ständig spätabends laute Freunde ein, und Sie haben diese Woche frühmorgens Prüfungen.",
+    "it": "Il tuo coinquilino (AI) continua a invitare amici rumorosi a tarda notte, e questa settimana hai esami di mattina presto.",
+    "pl": "Twój współlokator (AI) ciągle zaprasza późno w nocy głośnych znajomych, a ty masz w tym tygodniu egzaminy z samego rana.",
+    "pt": "Seu colega de quarto (AI) vive chamando amigos barulhentos tarde da noite, e você tem provas logo cedo esta semana.",
+    "nl": "Je kamergenoot (AI) nodigt steeds 's avonds laat luidruchtige vrienden uit, en jij hebt deze week vroege tentamens.",
+    "hr": "Tvoj cimer (AI) stalno kasno navečer poziva bučne prijatelje, a ti ovaj tjedan imaš rane ispite.",
+    "tr": "Oda arkadaşınız (AI) gece geç saatlerde sürekli gürültücü arkadaşlarını çağırıyor ve bu hafta sabah erken sınavlarınız var.",
+    "uk": "Твій сусід по кімнаті (AI) постійно запрошує гучних друзів пізно ввечері, а в тебе цього тижня ранні іспити.",
+    "ar": "زميلك في السكن (AI) يدعو دائمًا أصدقاء صاخبين في وقت متأخر من الليل، ولديك امتحانات مبكرة هذا الأسبوع.",
+    "hi": "आपका रूममेट (AI) देर रात शोर मचाने वाले दोस्तों को बार-बार बुलाता है, और इस हफ़्ते आपकी सुबह-सुबह परीक्षाएँ हैं।",
+    "vi": "Bạn cùng phòng (AI) cứ rủ bạn bè ồn ào đến chơi lúc đêm khuya, trong khi tuần này bạn có các bài thi từ sáng sớm.",
+    "id": "Teman sekamarmu (AI) terus mengundang teman-temannya yang berisik larut malam, padahal minggu ini kamu ada ujian pagi-pagi.",
+    "ms": "Rakan sebilik anda (AI) asyik menjemput kawan-kawan yang bising pada lewat malam, dan anda ada peperiksaan awal pagi minggu ini.",
+    "ko": "룸메이트(AI)가 밤늦게 시끄러운 친구들을 계속 데려오는데, 당신은 이번 주에 아침 일찍 시험이 있습니다."
+  },
+  "mission": {
+    "native": "Raise the issue politely and agree on house rules you both accept.",
+    "native_translations": {
+      "en": "Raise the issue politely and agree on house rules you both accept.",
+      "es": "Plantee el problema con cortesía y acuerden reglas de convivencia que ambos acepten.",
+      "fr": "Abordez le problème poliment et mettez-vous d'accord sur des règles que vous acceptez tous les deux.",
+      "de": "Sprechen Sie das Problem höflich an und einigen Sie sich auf Hausregeln, mit denen Sie beide einverstanden sind.",
+      "it": "Solleva il problema con gentilezza e concordate regole di casa che vadano bene a entrambi.",
+      "pl": "Grzecznie porusz problem i ustalcie zasady, które oboje zaakceptujecie.",
+      "pt": "Toque no assunto com educação e cheguem a regras da casa que ambos aceitem.",
+      "nl": "Breng het probleem beleefd ter sprake en spreek huisregels af waar jullie allebei mee akkoord gaan.",
+      "hr": "Pristojno iznesi problem i dogovori kućna pravila koja oboma odgovaraju.",
+      "tr": "Konuyu kibarca açın ve ikinizin de kabul ettiği ev kurallarında anlaşın.",
+      "uk": "Ввічливо підніми це питання й домовтеся про правила, які влаштовують обох.",
+      "ar": "اطرح المشكلة بلطف واتفقا على قواعد للسكن يقبلها كلاكما.",
+      "hi": "विनम्रता से यह बात उठाइए और ऐसे नियमों पर सहमत होइए जो दोनों को मंज़ूर हों।",
+      "vi": "Lịch sự nêu vấn đề và thống nhất nội quy phòng mà cả hai đều đồng ý.",
+      "id": "Sampaikan masalahnya dengan sopan dan sepakati aturan yang bisa diterima kalian berdua.",
+      "ms": "Bangkitkan isu itu dengan sopan dan sepakati peraturan rumah yang anda berdua terima.",
+      "ko": "정중하게 문제를 꺼내고 두 사람 모두 받아들일 수 있는 방 규칙을 정하세요."
+    },
+    "practice": "Plantee el problema con cortesía y acuerden reglas de convivencia que ambos acepten.",
+    "practice_translations": {
+      "en": "Raise the issue politely and agree on house rules you both accept.",
+      "es": "Plantee el problema con cortesía y acuerden reglas de convivencia que ambos acepten.",
+      "ja": "丁寧に問題を切り出して、お互いに納得できるルールを決めてください。",
+      "ko": "정중하게 문제를 꺼내고 두 사람 모두 받아들일 수 있는 방 규칙을 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Bring up the noise problem politely",
+        "native_translations": {
+          "en": "Bring up the noise problem politely",
+          "es": "Mencione el problema del ruido con cortesía",
+          "fr": "Abordez poliment le problème du bruit",
+          "de": "Sprechen Sie das Lärmproblem höflich an",
+          "it": "Affronta il problema del rumore con gentilezza",
+          "pl": "Grzecznie porusz problem hałasu",
+          "pt": "Fale sobre o problema do barulho com educação",
+          "nl": "Breng het geluidsprobleem beleefd ter sprake",
+          "hr": "Pristojno spomeni problem s bukom",
+          "tr": "Gürültü sorununu kibarca açın",
+          "uk": "Ввічливо заговори про шум",
+          "ar": "افتح موضوع الإزعاج بلطف",
+          "hi": "शोर की समस्या विनम्रता से उठाइए",
+          "vi": "Lịch sự nêu vấn đề tiếng ồn",
+          "id": "Angkat masalah kebisingan dengan sopan",
+          "ms": "Bangkitkan masalah bising dengan sopan",
+          "ko": "소음 문제를 정중하게 꺼내세요"
+        },
+        "practice": "Mencione el problema del ruido con cortesía",
+        "practice_translations": {
+          "en": "Bring up the noise problem politely",
+          "es": "Mencione el problema del ruido con cortesía",
+          "ja": "騒音の問題を丁寧に切り出してください",
+          "ko": "소음 문제를 정중하게 꺼내세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain how it affects your studies",
+        "native_translations": {
+          "en": "Explain how it affects your studies",
+          "es": "Explique cómo afecta sus estudios",
+          "fr": "Expliquez en quoi cela nuit à vos études",
+          "de": "Erklären Sie, wie es sich auf Ihr Studium auswirkt",
+          "it": "Spiega come influisce sul tuo studio",
+          "pl": "Wyjaśnij, jak to wpływa na twoją naukę",
+          "pt": "Explique como isso afeta seus estudos",
+          "nl": "Leg uit wat het met je studie doet",
+          "hr": "Objasni kako to utječe na tvoje učenje",
+          "tr": "Bunun derslerinizi nasıl etkilediğini açıklayın",
+          "uk": "Поясни, як це заважає навчанню",
+          "ar": "اشرح كيف يؤثر ذلك على دراستك",
+          "hi": "बताइए कि इसका आपकी पढ़ाई पर क्या असर पड़ता है",
+          "vi": "Giải thích việc này ảnh hưởng đến việc học của bạn thế nào",
+          "id": "Jelaskan dampaknya pada belajarmu",
+          "ms": "Terangkan kesannya pada pelajaran anda",
+          "ko": "공부에 어떤 영향을 주는지 설명하세요"
+        },
+        "practice": "Explique cómo afecta sus estudios",
+        "practice_translations": {
+          "en": "Explain how it affects your studies",
+          "es": "Explique cómo afecta sus estudios",
+          "ja": "勉強にどう影響しているか説明してください",
+          "ko": "공부에 어떤 영향을 주는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Suggest quiet hours on weeknights",
+        "native_translations": {
+          "en": "Suggest quiet hours on weeknights",
+          "es": "Proponga horas de silencio entre semana",
+          "fr": "Proposez des heures de calme en semaine",
+          "de": "Schlagen Sie Ruhezeiten unter der Woche vor",
+          "it": "Proponi orari di silenzio nei giorni feriali",
+          "pl": "Zaproponuj ciszę nocną w dni powszednie",
+          "pt": "Sugira horários de silêncio durante a semana",
+          "nl": "Stel stille uren voor op doordeweekse avonden",
+          "hr": "Predloži tiše sate radnim danom",
+          "tr": "Hafta içi geceleri sessiz saatler önerin",
+          "uk": "Запропонуй години тиші в будні",
+          "ar": "اقترح ساعات هدوء في ليالي أيام الأسبوع",
+          "hi": "हफ़्ते के दिनों की रातों में शांति के घंटे सुझाइए",
+          "vi": "Đề xuất giờ giữ yên lặng vào các tối trong tuần",
+          "id": "Usulkan jam tenang di malam hari kerja",
+          "ms": "Cadangkan waktu senyap pada malam hari bekerja",
+          "ko": "평일 밤에 조용히 하는 시간을 정하자고 제안하세요"
+        },
+        "practice": "Proponga horas de silencio entre semana",
+        "practice_translations": {
+          "en": "Suggest quiet hours on weeknights",
+          "es": "Proponga horas de silencio entre semana",
+          "ja": "平日の夜は静かにする時間を決めようと提案してください",
+          "ko": "평일 밤에 조용히 하는 시간을 정하자고 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Reach a compromise you both accept",
+        "native_translations": {
+          "en": "Reach a compromise you both accept",
+          "es": "Lleguen a un acuerdo que ambos acepten",
+          "fr": "Trouvez un compromis qui vous convient à tous les deux",
+          "de": "Finden Sie einen Kompromiss, mit dem Sie beide leben können",
+          "it": "Raggiungete un compromesso che vada bene a entrambi",
+          "pl": "Dojdźcie do kompromisu, który oboje zaakceptujecie",
+          "pt": "Cheguem a um acordo que ambos aceitem",
+          "nl": "Bereik een compromis waar jullie allebei mee akkoord gaan",
+          "hr": "Postignite kompromis koji oboma odgovara",
+          "tr": "İkinizin de kabul ettiği bir uzlaşmaya varın",
+          "uk": "Дійди компромісу, який влаштовує обох",
+          "ar": "توصّلا إلى حلّ وسط يقبله كلاكما",
+          "hi": "ऐसे समझौते पर पहुँचिए जो दोनों को मंज़ूर हो",
+          "vi": "Đạt được thỏa thuận cả hai đều chấp nhận",
+          "id": "Capai kompromi yang bisa diterima kalian berdua",
+          "ms": "Capai kompromi yang anda berdua terima",
+          "ko": "두 사람 모두 받아들일 수 있는 타협점을 찾으세요"
+        },
+        "practice": "Lleguen a un acuerdo que ambos acepten",
+        "practice_translations": {
+          "en": "Reach a compromise you both accept",
+          "es": "Lleguen a un acuerdo que ambos acepten",
+          "ja": "お互いに納得できる妥協点を見つけてください",
+          "ko": "두 사람 모두 받아들일 수 있는 타협점을 찾으세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hey, can we talk about something for a minute?",
+      "native_translations": {
+        "en": "Hey, can we talk about something for a minute?",
+        "es": "Oye, ¿podemos hablar de algo un momento?",
+        "fr": "Dis, on peut parler de quelque chose une minute ?",
+        "de": "Hey, können wir kurz über etwas reden?",
+        "it": "Ehi, possiamo parlare un attimo di una cosa?",
+        "pl": "Hej, możemy chwilę o czymś pogadać?",
+        "pt": "Ei, podemos conversar sobre uma coisa rapidinho?",
+        "nl": "Hé, kunnen we even ergens over praten?",
+        "hr": "Hej, možemo li na minutu o nečemu porazgovarati?",
+        "tr": "Hey, bir dakika bir şey konuşabilir miyiz?",
+        "uk": "Слухай, можемо хвилинку дещо обговорити?",
+        "ar": "مرحبًا، هل يمكننا التحدث في أمر ما لدقيقة؟",
+        "hi": "सुनो, क्या हम एक मिनट किसी बात पर बात कर सकते हैं?",
+        "vi": "Này, mình nói chuyện một chút được không?",
+        "id": "Hei, bisa kita bicara sebentar?",
+        "ms": "Hei, boleh kita bercakap sekejap tentang sesuatu?",
+        "ko": "저기, 잠깐 얘기 좀 할 수 있을까요?"
+      },
+      "practice": "Oye, ¿podemos hablar de algo un momento?",
+      "practice_translations": {
+        "en": "Hey, can we talk about something for a minute?",
+        "es": "Oye, ¿podemos hablar de algo un momento?",
+        "ja": "あの、ちょっと話したいことがあるんですが、いいですか。",
+        "ko": "저기, 잠깐 얘기 좀 할 수 있을까요?"
+      }
+    },
+    {
+      "native": "It's been a bit loud here late at night.",
+      "native_translations": {
+        "en": "It's been a bit loud here late at night.",
+        "es": "Últimamente hay bastante ruido aquí por las noches.",
+        "fr": "C'est un peu bruyant ici tard le soir ces temps-ci.",
+        "de": "Es war hier spätabends in letzter Zeit ziemlich laut.",
+        "it": "Ultimamente qui c'è un po' di rumore a tarda notte.",
+        "pl": "Późno w nocy bywa tu trochę głośno.",
+        "pt": "Tem ficado meio barulhento aqui tarde da noite.",
+        "nl": "Het is hier 's avonds laat een beetje luidruchtig.",
+        "hr": "Ovdje je kasno navečer bilo malo bučno.",
+        "tr": "Son zamanlarda gece geç saatlerde burası biraz gürültülü oluyor.",
+        "uk": "Останнім часом тут доволі гучно пізно ввечері.",
+        "ar": "كان المكان صاخبًا بعض الشيء هنا في وقت متأخر من الليل.",
+        "hi": "देर रात यहाँ थोड़ा ज़्यादा शोर हो रहा है।",
+        "vi": "Dạo này đêm khuya ở đây hơi ồn.",
+        "id": "Belakangan di sini agak berisik kalau sudah larut malam.",
+        "ms": "Agak bising di sini lewat malam kebelakangan ini.",
+        "ko": "요즘 밤늦게 좀 시끄러웠어요."
+      },
+      "practice": "Últimamente hay bastante ruido aquí por las noches.",
+      "practice_translations": {
+        "en": "It's been a bit loud here late at night.",
+        "es": "Últimamente hay bastante ruido aquí por las noches.",
+        "ja": "最近、夜遅くに少しうるさいんです。",
+        "ko": "요즘 밤늦게 좀 시끄러웠어요."
+      }
+    },
+    {
+      "native": "I have exams early in the morning, so I need to sleep.",
+      "native_translations": {
+        "en": "I have exams early in the morning, so I need to sleep.",
+        "es": "Tengo exámenes temprano en la mañana y necesito dormir.",
+        "fr": "J'ai des examens tôt le matin, donc j'ai besoin de dormir.",
+        "de": "Ich habe frühmorgens Prüfungen, also muss ich schlafen.",
+        "it": "Ho esami la mattina presto, quindi ho bisogno di dormire.",
+        "pl": "Mam egzaminy wcześnie rano, więc muszę się wyspać.",
+        "pt": "Tenho provas cedo de manhã, então preciso dormir.",
+        "nl": "Ik heb 's ochtends vroeg tentamens, dus ik moet slapen.",
+        "hr": "Imam ispite rano ujutro, pa moram spavati.",
+        "tr": "Sabah erken sınavlarım var, o yüzden uyumam lazım.",
+        "uk": "У мене зранку іспити, тож мені треба виспатися.",
+        "ar": "لديّ امتحانات في الصباح الباكر، لذا أحتاج إلى النوم.",
+        "hi": "मेरी सुबह-सुबह परीक्षाएँ हैं, इसलिए मुझे सोना है।",
+        "vi": "Mình có bài thi từ sáng sớm nên cần ngủ.",
+        "id": "Aku ada ujian pagi-pagi, jadi aku perlu tidur.",
+        "ms": "Saya ada peperiksaan awal pagi, jadi saya perlu tidur.",
+        "ko": "아침 일찍 시험이 있어서 잠을 자야 해요."
+      },
+      "practice": "Tengo exámenes temprano en la mañana y necesito dormir.",
+      "practice_translations": {
+        "en": "I have exams early in the morning, so I need to sleep.",
+        "es": "Tengo exámenes temprano en la mañana y necesito dormir.",
+        "ja": "朝早く試験があるので、寝ないといけないんです。",
+        "ko": "아침 일찍 시험이 있어서 잠을 자야 해요."
+      }
+    },
+    {
+      "native": "What if we keep it quiet after eleven on weeknights?",
+      "native_translations": {
+        "en": "What if we keep it quiet after eleven on weeknights?",
+        "es": "¿Qué te parece si guardamos silencio después de las once entre semana?",
+        "fr": "Et si on faisait silence après vingt-trois heures en semaine ?",
+        "de": "Wie wär's, wenn unter der Woche ab elf Ruhe ist?",
+        "it": "E se nei giorni feriali facessimo silenzio dopo le undici?",
+        "pl": "A gdyby w dni powszednie po jedenastej było cicho?",
+        "pt": "Que tal a gente fazer silêncio depois das onze durante a semana?",
+        "nl": "Wat als we het doordeweeks na elf uur rustig houden?",
+        "hr": "Što kažeš da radnim danom nakon jedanaest bude tiho?",
+        "tr": "Hafta içi saat on birden sonra sessiz olsak nasıl olur?",
+        "uk": "Може, домовимося про тишу після одинадцятої в будні?",
+        "ar": "ما رأيك أن نلتزم بالهدوء بعد الساعة الحادية عشرة في ليالي أيام الأسبوع؟",
+        "hi": "अगर हफ़्ते के दिनों में ग्यारह बजे के बाद शांति रखें तो कैसा रहेगा?",
+        "vi": "Hay là các tối trong tuần mình giữ yên lặng sau mười một giờ nhé?",
+        "id": "Bagaimana kalau di hari kerja kita tenang setelah jam sebelas?",
+        "ms": "Macam mana kalau kita senyap selepas pukul sebelas pada malam hari bekerja?",
+        "ko": "평일에는 밤 11시 이후에 조용히 하는 건 어때요?"
+      },
+      "practice": "¿Qué te parece si guardamos silencio después de las once entre semana?",
+      "practice_translations": {
+        "en": "What if we keep it quiet after eleven on weeknights?",
+        "es": "¿Qué te parece si guardamos silencio después de las once entre semana?",
+        "ja": "平日は夜11時以降は静かにする、というのはどうですか。",
+        "ko": "평일에는 밤 11시 이후에 조용히 하는 건 어때요?"
+      }
+    },
+    {
+      "native": "Your friends are welcome on weekends, of course.",
+      "native_translations": {
+        "en": "Your friends are welcome on weekends, of course.",
+        "es": "Tus amigos pueden venir los fines de semana, claro.",
+        "fr": "Tes amis sont les bienvenus le week-end, bien sûr.",
+        "de": "Am Wochenende sind deine Freunde natürlich willkommen.",
+        "it": "I tuoi amici sono i benvenuti nel fine settimana, ovviamente.",
+        "pl": "Twoi znajomi są oczywiście mile widziani w weekendy.",
+        "pt": "Seus amigos são bem-vindos nos fins de semana, claro.",
+        "nl": "Je vrienden zijn in het weekend natuurlijk welkom.",
+        "hr": "Tvoji prijatelji su, naravno, dobrodošli vikendom.",
+        "tr": "Arkadaşların hafta sonları tabii ki gelebilir.",
+        "uk": "На вихідних твої друзі, звісно, завжди бажані.",
+        "ar": "أصدقاؤك مرحّب بهم في عطلات نهاية الأسبوع بالطبع.",
+        "hi": "वीकेंड पर तो तुम्हारे दोस्तों का बेशक स्वागत है।",
+        "vi": "Tất nhiên cuối tuần bạn bè bạn cứ thoải mái đến chơi.",
+        "id": "Teman-temanmu tentu boleh datang di akhir pekan.",
+        "ms": "Kawan-kawan awak tentu boleh datang pada hujung minggu.",
+        "ko": "물론 주말에는 친구들이 와도 괜찮아요."
+      },
+      "practice": "Tus amigos pueden venir los fines de semana, claro.",
+      "practice_translations": {
+        "en": "Your friends are welcome on weekends, of course.",
+        "es": "Tus amigos pueden venir los fines de semana, claro.",
+        "ja": "もちろん、週末は友達を呼んでも大丈夫ですよ。",
+        "ko": "물론 주말에는 친구들이 와도 괜찮아요."
+      }
+    }
+  ]
+}

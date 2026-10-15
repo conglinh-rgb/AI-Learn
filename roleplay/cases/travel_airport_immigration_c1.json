@@ -1,0 +1,289 @@
+{
+  "id": "travel_airport_immigration_c1",
+  "title": "Checking In for Your Flight",
+  "title_translations": {
+    "en": "Checking In for Your Flight",
+    "es": "Documentar su vuelo",
+    "fr": "L'enregistrement pour votre vol",
+    "de": "Einchecken für den Flug",
+    "it": "Il check-in per il volo",
+    "pl": "Odprawa przed lotem",
+    "pt": "Fazendo o check-in do voo",
+    "nl": "Inchecken voor je vlucht",
+    "hr": "Prijava za let",
+    "tr": "Uçuşunuz İçin Check-in",
+    "uk": "Реєстрація на рейс",
+    "ar": "تسجيل الوصول لرحلتك",
+    "hi": "फ़्लाइट के लिए चेक-इन",
+    "vi": "Làm thủ tục lên máy bay",
+    "id": "Check-in untuk Penerbanganmu",
+    "ms": "Daftar Masuk untuk Penerbangan Anda",
+    "ko": "비행기 탑승 수속하기"
+  },
+  "character": "fox",
+  "scenario": "You arrive at the airport check-in counter with your suitcase. The check-in agent (AI) asks for your passport.",
+  "scenario_translations": {
+    "en": "You arrive at the airport check-in counter with your suitcase. The check-in agent (AI) asks for your passport.",
+    "es": "Llega al mostrador de documentación del aeropuerto con su maleta. El agente de documentación (AI) le pide su pasaporte.",
+    "fr": "Vous arrivez au comptoir d'enregistrement de l'aéroport avec votre valise. L'agent d'enregistrement (AI) vous demande votre passeport.",
+    "de": "Sie kommen mit Ihrem Koffer am Check-in-Schalter des Flughafens an. Die Mitarbeiterin am Check-in (AI) bittet um Ihren Reisepass.",
+    "it": "Arrivi al banco del check-in dell'aeroporto con la valigia. L'addetto al check-in (AI) ti chiede il passaporto.",
+    "pl": "Przychodzisz z walizką do stanowiska odprawy na lotnisku. Pracownica odprawy (AI) prosi o paszport.",
+    "pt": "Você chega ao balcão de check-in do aeroporto com sua mala. O atendente do check-in (AI) pede seu passaporte.",
+    "nl": "Je komt met je koffer aan bij de incheckbalie op het vliegveld. De incheckmedewerker (AI) vraagt om je paspoort.",
+    "hr": "Stižeš na šalter za prijavu u zračnoj luci s kovčegom. Službenik na šalteru (AI) traži tvoju putovnicu.",
+    "tr": "Bavulunuzla havalimanındaki check-in bankosuna geliyorsunuz. Check-in görevlisi (AI) pasaportunuzu istiyor.",
+    "uk": "Ти підходиш до стійки реєстрації в аеропорту з валізою. Працівник реєстрації (AI) просить твій паспорт.",
+    "ar": "تصل إلى مكتب تسجيل الوصول في المطار ومعك حقيبتك. يطلب منك موظف تسجيل الوصول (AI) جواز سفرك.",
+    "hi": "आप अपना सूटकेस लेकर एयरपोर्ट के चेक-इन काउंटर पर पहुँचते हैं। चेक-इन एजेंट (AI) आपका पासपोर्ट माँगते हैं।",
+    "vi": "Bạn đến quầy làm thủ tục ở sân bay với chiếc vali. Nhân viên làm thủ tục (AI) yêu cầu xem hộ chiếu của bạn.",
+    "id": "Kamu tiba di konter check-in bandara dengan kopermu. Petugas check-in (AI) meminta paspormu.",
+    "ms": "Anda tiba di kaunter daftar masuk lapangan terbang dengan beg pakaian anda. Ejen daftar masuk (AI) meminta pasport anda.",
+    "ko": "여행 가방을 들고 공항 체크인 카운터에 도착했습니다. 체크인 직원(AI)이 여권을 달라고 합니다."
+  },
+  "mission": {
+    "native": "Check in for your flight, drop off your bag and ask for a window seat.",
+    "native_translations": {
+      "en": "Check in for your flight, drop off your bag and ask for a window seat.",
+      "es": "Registre su vuelo, entregue su maleta y pida un asiento de ventanilla.",
+      "fr": "Enregistrez-vous pour votre vol, déposez votre bagage et demandez une place côté hublot.",
+      "de": "Checken Sie für Ihren Flug ein, geben Sie Ihr Gepäck auf und bitten Sie um einen Fensterplatz.",
+      "it": "Fai il check-in per il volo, consegna il bagaglio e chiedi un posto vicino al finestrino.",
+      "pl": "Odpraw się na lot, nadaj bagaż i poproś o miejsce przy oknie.",
+      "pt": "Faça o check-in do voo, despache a mala e peça um assento na janela.",
+      "nl": "Check in voor je vlucht, geef je bagage af en vraag om een stoel bij het raam.",
+      "hr": "Prijavi se za let, predaj prtljagu i zatraži sjedalo do prozora.",
+      "tr": "Uçuşunuz için check-in yapın, bavulunuzu teslim edin ve cam kenarı koltuk isteyin.",
+      "uk": "Зареєструйся на рейс, здай багаж і попроси місце біля вікна.",
+      "ar": "سجّل وصولك لرحلتك، وسلّم حقيبتك، واطلب مقعدًا بجانب النافذة.",
+      "hi": "अपनी फ़्लाइट के लिए चेक-इन कीजिए, बैग जमा कीजिए और खिड़की वाली सीट माँगिए।",
+      "vi": "Làm thủ tục cho chuyến bay, gửi hành lý và xin ghế cạnh cửa sổ.",
+      "id": "Lakukan check-in untuk penerbanganmu, titipkan tasmu, dan minta kursi dekat jendela.",
+      "ms": "Daftar masuk untuk penerbangan anda, serahkan beg anda dan minta tempat duduk tepi tingkap.",
+      "ko": "탑승 수속을 하고, 짐을 부치고, 창가 좌석을 요청하세요."
+    },
+    "practice": "Registre su vuelo, entregue su maleta y pida un asiento de ventanilla.",
+    "practice_translations": {
+      "en": "Check in for your flight, drop off your bag and ask for a window seat.",
+      "es": "Registre su vuelo, entregue su maleta y pida un asiento de ventanilla.",
+      "ja": "飛行機のチェックインをして荷物を預け、窓側の席をお願いしてください。",
+      "ko": "탑승 수속을 하고, 짐을 부치고, 창가 좌석을 요청하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Give your name and destination",
+        "native_translations": {
+          "en": "Give your name and destination",
+          "es": "Diga su nombre y su destino",
+          "fr": "Donnez votre nom et votre destination",
+          "de": "Nennen Sie Ihren Namen und Ihr Reiseziel",
+          "it": "Di' il tuo nome e la destinazione",
+          "pl": "Podaj swoje nazwisko i cel podróży",
+          "pt": "Diga seu nome e seu destino",
+          "nl": "Geef je naam en bestemming",
+          "hr": "Reci svoje ime i odredište",
+          "tr": "Adınızı ve gideceğiniz yeri söyleyin",
+          "uk": "Назви своє ім'я й пункт призначення",
+          "ar": "قل اسمك ووجهتك",
+          "hi": "अपना नाम और मंज़िल बताइए",
+          "vi": "Nói tên và điểm đến của bạn",
+          "id": "Sebutkan nama dan tujuanmu",
+          "ms": "Beritahu nama dan destinasi anda",
+          "ko": "이름과 목적지를 말하세요"
+        },
+        "practice": "Diga su nombre y su destino",
+        "practice_translations": {
+          "en": "Give your name and destination",
+          "es": "Diga su nombre y su destino",
+          "ja": "名前と行き先を伝えてください",
+          "ko": "이름과 목적지를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say how many bags you are checking",
+        "native_translations": {
+          "en": "Say how many bags you are checking",
+          "es": "Diga cuántas maletas va a documentar",
+          "fr": "Dites combien de bagages vous enregistrez",
+          "de": "Sagen Sie, wie viele Gepäckstücke Sie aufgeben",
+          "it": "Di' quanti bagagli devi imbarcare",
+          "pl": "Powiedz, ile bagaży nadajesz",
+          "pt": "Diga quantas malas você vai despachar",
+          "nl": "Zeg hoeveel koffers je incheckt",
+          "hr": "Reci koliko komada prtljage predaješ",
+          "tr": "Kaç bavul teslim edeceğinizi söyleyin",
+          "uk": "Скажи, скільки валіз здаєш",
+          "ar": "قل كم حقيبة ستشحن",
+          "hi": "बताइए कि आप कितने बैग चेक-इन कर रहे हैं",
+          "vi": "Nói bạn gửi bao nhiêu kiện hành lý",
+          "id": "Sebutkan berapa tas yang kamu bagasikan",
+          "ms": "Katakan berapa beg yang anda daftarkan",
+          "ko": "부칠 짐이 몇 개인지 말하세요"
+        },
+        "practice": "Diga cuántas maletas va a documentar",
+        "practice_translations": {
+          "en": "Say how many bags you are checking",
+          "es": "Diga cuántas maletas va a documentar",
+          "ja": "預ける荷物の数を伝えてください",
+          "ko": "부칠 짐이 몇 개인지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for a window seat",
+        "native_translations": {
+          "en": "Ask for a window seat",
+          "es": "Pida un asiento de ventanilla",
+          "fr": "Demandez une place côté hublot",
+          "de": "Bitten Sie um einen Fensterplatz",
+          "it": "Chiedi un posto vicino al finestrino",
+          "pl": "Poproś o miejsce przy oknie",
+          "pt": "Peça um assento na janela",
+          "nl": "Vraag om een stoel bij het raam",
+          "hr": "Zatraži sjedalo do prozora",
+          "tr": "Cam kenarı koltuk isteyin",
+          "uk": "Попроси місце біля вікна",
+          "ar": "اطلب مقعدًا بجانب النافذة",
+          "hi": "खिड़की वाली सीट माँगिए",
+          "vi": "Xin ghế cạnh cửa sổ",
+          "id": "Minta kursi dekat jendela",
+          "ms": "Minta tempat duduk tepi tingkap",
+          "ko": "창가 좌석을 요청하세요"
+        },
+        "practice": "Pida un asiento de ventanilla",
+        "practice_translations": {
+          "en": "Ask for a window seat",
+          "es": "Pida un asiento de ventanilla",
+          "ja": "窓側の席をお願いしてください",
+          "ko": "창가 좌석을 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Here's my passport.",
+      "native_translations": {
+        "en": "Here's my passport.",
+        "es": "Aquí tiene mi pasaporte.",
+        "fr": "Voici mon passeport.",
+        "de": "Hier ist mein Reisepass.",
+        "it": "Ecco il mio passaporto.",
+        "pl": "Proszę, oto mój paszport.",
+        "pt": "Aqui está meu passaporte.",
+        "nl": "Hier is mijn paspoort.",
+        "hr": "Izvolite moju putovnicu.",
+        "tr": "Buyurun, pasaportum.",
+        "uk": "Ось мій паспорт.",
+        "ar": "تفضّل جواز سفري.",
+        "hi": "यह रहा मेरा पासपोर्ट।",
+        "vi": "Hộ chiếu của tôi đây.",
+        "id": "Ini paspor saya.",
+        "ms": "Ini pasport saya.",
+        "ko": "여기 제 여권이에요."
+      },
+      "practice": "Aquí tiene mi pasaporte.",
+      "practice_translations": {
+        "en": "Here's my passport.",
+        "es": "Aquí tiene mi pasaporte.",
+        "ja": "パスポートです。",
+        "ko": "여기 제 여권이에요."
+      }
+    },
+    {
+      "native": "I'm checking in one suitcase.",
+      "native_translations": {
+        "en": "I'm checking in one suitcase.",
+        "es": "Voy a documentar una maleta.",
+        "fr": "J'enregistre une valise.",
+        "de": "Ich gebe einen Koffer auf.",
+        "it": "Devo imbarcare una valigia.",
+        "pl": "Nadaję jedną walizkę.",
+        "pt": "Vou despachar uma mala.",
+        "nl": "Ik check één koffer in.",
+        "hr": "Predajem jedan kovčeg.",
+        "tr": "Bir bavul teslim edeceğim.",
+        "uk": "Я здаю одну валізу.",
+        "ar": "سأشحن حقيبة واحدة.",
+        "hi": "मैं एक सूटकेस चेक-इन कर रहा हूँ।",
+        "vi": "Tôi gửi một vali.",
+        "id": "Saya membagasikan satu koper.",
+        "ms": "Saya daftarkan satu beg pakaian.",
+        "ko": "여행 가방 하나 부칠게요."
+      },
+      "practice": "Voy a documentar una maleta.",
+      "practice_translations": {
+        "en": "I'm checking in one suitcase.",
+        "es": "Voy a documentar una maleta.",
+        "ja": "スーツケースを1つ預けます。",
+        "ko": "여행 가방 하나 부칠게요."
+      }
+    },
+    {
+      "native": "Could I have a window seat, please?",
+      "native_translations": {
+        "en": "Could I have a window seat, please?",
+        "es": "¿Me podría dar un asiento de ventanilla, por favor?",
+        "fr": "Pourrais-je avoir une place côté hublot, s'il vous plaît ?",
+        "de": "Könnte ich bitte einen Fensterplatz bekommen?",
+        "it": "Potrei avere un posto vicino al finestrino, per favore?",
+        "pl": "Czy mogę prosić o miejsce przy oknie?",
+        "pt": "Você poderia me dar um assento na janela, por favor?",
+        "nl": "Mag ik een stoel bij het raam?",
+        "hr": "Mogu li dobiti sjedalo do prozora, molim?",
+        "tr": "Cam kenarı bir koltuk alabilir miyim, lütfen?",
+        "uk": "Можна місце біля вікна, будь ласка?",
+        "ar": "هل يمكنني الحصول على مقعد بجانب النافذة، من فضلك؟",
+        "hi": "क्या मुझे खिड़की वाली सीट मिल सकती है, प्लीज़?",
+        "vi": "Cho tôi xin ghế cạnh cửa sổ được không?",
+        "id": "Boleh saya minta kursi dekat jendela?",
+        "ms": "Boleh saya dapat tempat duduk tepi tingkap?",
+        "ko": "창가 좌석으로 주실 수 있나요?"
+      },
+      "practice": "¿Me podría dar un asiento de ventanilla, por favor?",
+      "practice_translations": {
+        "en": "Could I have a window seat, please?",
+        "es": "¿Me podría dar un asiento de ventanilla, por favor?",
+        "ja": "窓側の席をお願いできますか。",
+        "ko": "창가 좌석으로 주실 수 있나요?"
+      }
+    },
+    {
+      "native": "What time does boarding start?",
+      "native_translations": {
+        "en": "What time does boarding start?",
+        "es": "¿A qué hora empieza el embarque?",
+        "fr": "À quelle heure commence l'embarquement ?",
+        "de": "Wann beginnt das Boarding?",
+        "it": "A che ora inizia l'imbarco?",
+        "pl": "O której zaczyna się boarding?",
+        "pt": "Que horas começa o embarque?",
+        "nl": "Hoe laat begint het boarden?",
+        "hr": "U koliko sati počinje ukrcaj?",
+        "tr": "Biniş saat kaçta başlıyor?",
+        "uk": "О котрій починається посадка?",
+        "ar": "في أي ساعة يبدأ الصعود إلى الطائرة؟",
+        "hi": "बोर्डिंग कितने बजे शुरू होगी?",
+        "vi": "Mấy giờ thì bắt đầu lên máy bay?",
+        "id": "Jam berapa boarding dimulai?",
+        "ms": "Pukul berapa masa menaiki pesawat bermula?",
+        "ko": "탑승은 몇 시에 시작하나요?"
+      },
+      "practice": "¿A qué hora empieza el embarque?",
+      "practice_translations": {
+        "en": "What time does boarding start?",
+        "es": "¿A qué hora empieza el embarque?",
+        "ja": "搭乗は何時に始まりますか。",
+        "ko": "탑승은 몇 시에 시작하나요?"
+      }
+    }
+  ]
+}

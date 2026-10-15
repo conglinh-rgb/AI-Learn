@@ -1,0 +1,318 @@
+{
+  "id": "academics_presenting_your_research_findings_c1",
+  "title": "Poster Session Pitch",
+  "title_translations": {
+    "en": "Poster Session Pitch",
+    "es": "Presentación en la sesión de pósteres",
+    "fr": "Présentation de poster",
+    "de": "Pitch bei der Postersession",
+    "it": "Presentazione alla sessione poster",
+    "pl": "Prezentacja przy plakacie",
+    "pt": "Apresentação na sessão de pôsteres",
+    "nl": "Pitch bij de poster",
+    "hr": "Predstavljanje postera",
+    "tr": "Poster Oturumunda Tanıtım",
+    "uk": "Презентація постера",
+    "ar": "عرض سريع في جلسة الملصقات",
+    "hi": "पोस्टर सेशन में पिच",
+    "vi": "Thuyết trình tại khu poster",
+    "id": "Presentasi di Sesi Poster",
+    "ms": "Pembentangan di Sesi Poster",
+    "ko": "포스터 세션 발표"
+  },
+  "character": "fox",
+  "scenario": "You are standing by your poster at a poster session. A curious visitor (AI) stops to read it.",
+  "scenario_translations": {
+    "en": "You are standing by your poster at a poster session. A curious visitor (AI) stops to read it.",
+    "es": "Está junto a su póster en una sesión de pósteres. Un visitante curioso (AI) se detiene a leerlo.",
+    "fr": "Vous vous tenez près de votre poster lors d'une session posters. Un visiteur curieux (AI) s'arrête pour le lire.",
+    "de": "Sie stehen bei einer Postersession neben Ihrem Poster. Eine neugierige Besucherin bzw. ein neugieriger Besucher (AI) bleibt stehen, um es zu lesen.",
+    "it": "Sei accanto al tuo poster durante una sessione poster. Un visitatore curioso (AI) si ferma a leggerlo.",
+    "pl": "Stoisz przy swoim plakacie na sesji posterowej. Zaciekawiony gość (AI) zatrzymuje się, żeby go przeczytać.",
+    "pt": "Você está ao lado do seu pôster em uma sessão de pôsteres. Um visitante curioso (AI) para para ler.",
+    "nl": "Je staat bij je poster tijdens een postersessie. Een nieuwsgierige bezoeker (AI) blijft staan om hem te lezen.",
+    "hr": "Stojiš pokraj svog postera na posterskoj sekciji. Znatiželjni posjetitelj (AI) zastane da ga pročita.",
+    "tr": "Bir poster oturumunda posterinizin yanında duruyorsunuz. Meraklı bir ziyaretçi (AI) okumak için duruyor.",
+    "uk": "Ти стоїш біля свого постера на постерній сесії. Допитливий відвідувач (AI) зупиняється, щоб його прочитати.",
+    "ar": "تقف بجانب ملصقك في جلسة الملصقات العلمية. زائر فضولي (AI) يتوقف ليقرأه.",
+    "hi": "आप पोस्टर सेशन में अपने पोस्टर के पास खड़े हैं। एक जिज्ञासु विज़िटर (AI) उसे पढ़ने के लिए रुकते हैं।",
+    "vi": "Bạn đang đứng cạnh poster của mình trong một phiên trưng bày poster. Một vị khách tò mò (AI) dừng lại đọc.",
+    "id": "Kamu berdiri di samping postermu di sesi poster. Seorang pengunjung yang penasaran (AI) berhenti untuk membacanya.",
+    "ms": "Anda berdiri di sebelah poster anda dalam satu sesi poster. Seorang pengunjung yang ingin tahu (AI) berhenti untuk membacanya.",
+    "ko": "포스터 세션에서 자신의 포스터 옆에 서 있어요. 호기심 많은 방문객(AI)이 멈춰서 포스터를 읽어요."
+  },
+  "mission": {
+    "native": "Welcome the visitor and explain your research in simple words.",
+    "native_translations": {
+      "en": "Welcome the visitor and explain your research in simple words.",
+      "es": "Dé la bienvenida al visitante y explique su investigación con palabras sencillas.",
+      "fr": "Accueillez le visiteur et expliquez vos recherches avec des mots simples.",
+      "de": "Begrüßen Sie die Person und erklären Sie Ihre Forschung in einfachen Worten.",
+      "it": "Accogli il visitatore e spiega la tua ricerca con parole semplici.",
+      "pl": "Przywitaj gościa i wyjaśnij swoje badania prostymi słowami.",
+      "pt": "Receba o visitante e explique sua pesquisa em palavras simples.",
+      "nl": "Verwelkom de bezoeker en leg je onderzoek in eenvoudige woorden uit.",
+      "hr": "Pozdravi posjetitelja i jednostavnim riječima objasni svoje istraživanje.",
+      "tr": "Ziyaretçiyi karşılayın ve araştırmanızı basit kelimelerle anlatın.",
+      "uk": "Привітай відвідувача й поясни своє дослідження простими словами.",
+      "ar": "رحّب بالزائر واشرح بحثك بكلمات بسيطة.",
+      "hi": "विज़िटर का स्वागत कीजिए और आसान शब्दों में अपनी रिसर्च समझाइए।",
+      "vi": "Chào đón vị khách và giải thích nghiên cứu của bạn bằng lời lẽ đơn giản.",
+      "id": "Sambut pengunjung dan jelaskan penelitianmu dengan kata-kata sederhana.",
+      "ms": "Sambut pengunjung itu dan terangkan penyelidikan anda dengan kata-kata yang mudah.",
+      "ko": "방문객을 맞이하고 쉬운 말로 자신의 연구를 설명하세요."
+    },
+    "practice": "Dé la bienvenida al visitante y explique su investigación con palabras sencillas.",
+    "practice_translations": {
+      "en": "Welcome the visitor and explain your research in simple words.",
+      "es": "Dé la bienvenida al visitante y explique su investigación con palabras sencillas.",
+      "ja": "来た人を歓迎して、自分の研究をわかりやすく説明してください。",
+      "ko": "방문객을 맞이하고 쉬운 말로 자신의 연구를 설명하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Welcome the visitor to your poster",
+        "native_translations": {
+          "en": "Welcome the visitor to your poster",
+          "es": "Dé la bienvenida al visitante",
+          "fr": "Accueillez le visiteur devant votre poster",
+          "de": "Begrüßen Sie die Person an Ihrem Poster",
+          "it": "Dai il benvenuto al visitatore al tuo poster",
+          "pl": "Przywitaj gościa przy swoim plakacie",
+          "pt": "Dê as boas-vindas ao visitante no seu pôster",
+          "nl": "Verwelkom de bezoeker bij je poster",
+          "hr": "Poželi posjetitelju dobrodošlicu kod svog postera",
+          "tr": "Ziyaretçiyi posterinize davet edin",
+          "uk": "Привітай відвідувача біля свого постера",
+          "ar": "رحّب بالزائر عند ملصقك",
+          "hi": "विज़िटर का अपने पोस्टर पर स्वागत कीजिए",
+          "vi": "Chào đón khách đến xem poster",
+          "id": "Sambut pengunjung di postermu",
+          "ms": "Sambut pengunjung ke poster anda",
+          "ko": "포스터를 보러 온 방문객을 맞이하세요"
+        },
+        "practice": "Dé la bienvenida al visitante",
+        "practice_translations": {
+          "en": "Welcome the visitor to your poster",
+          "es": "Dé la bienvenida al visitante",
+          "ja": "ポスターに来た人を歓迎してください",
+          "ko": "포스터를 보러 온 방문객을 맞이하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain your research question",
+        "native_translations": {
+          "en": "Explain your research question",
+          "es": "Explique su pregunta de investigación",
+          "fr": "Expliquez votre question de recherche",
+          "de": "Erklären Sie Ihre Forschungsfrage",
+          "it": "Spiega la tua domanda di ricerca",
+          "pl": "Wyjaśnij swoje pytanie badawcze",
+          "pt": "Explique sua pergunta de pesquisa",
+          "nl": "Leg je onderzoeksvraag uit",
+          "hr": "Objasni svoje istraživačko pitanje",
+          "tr": "Araştırma sorunuzu açıklayın",
+          "uk": "Поясни своє дослідницьке запитання",
+          "ar": "اشرح سؤال بحثك",
+          "hi": "अपना रिसर्च प्रश्न समझाइए",
+          "vi": "Giải thích câu hỏi nghiên cứu của bạn",
+          "id": "Jelaskan pertanyaan penelitianmu",
+          "ms": "Terangkan soalan kajian anda",
+          "ko": "연구 질문을 설명하세요"
+        },
+        "practice": "Explique su pregunta de investigación",
+        "practice_translations": {
+          "en": "Explain your research question",
+          "es": "Explique su pregunta de investigación",
+          "ja": "研究課題を説明してください",
+          "ko": "연구 질문을 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Share your main finding",
+        "native_translations": {
+          "en": "Share your main finding",
+          "es": "Comparta su hallazgo principal",
+          "fr": "Présentez votre principal résultat",
+          "de": "Teilen Sie Ihr wichtigstes Ergebnis mit",
+          "it": "Condividi il tuo risultato principale",
+          "pl": "Przedstaw główny wynik",
+          "pt": "Compartilhe seu principal resultado",
+          "nl": "Deel je belangrijkste bevinding",
+          "hr": "Podijeli svoj glavni rezultat",
+          "tr": "Ana bulgunuzu paylaşın",
+          "uk": "Розкажи про головний результат",
+          "ar": "شارك النتيجة الرئيسية",
+          "hi": "अपना मुख्य नतीजा बताइए",
+          "vi": "Chia sẻ phát hiện chính",
+          "id": "Sampaikan temuan utamamu",
+          "ms": "Kongsi dapatan utama anda",
+          "ko": "주요 연구 결과를 알려 주세요"
+        },
+        "practice": "Comparta su hallazgo principal",
+        "practice_translations": {
+          "en": "Share your main finding",
+          "es": "Comparta su hallazgo principal",
+          "ja": "主な結果を紹介してください",
+          "ko": "주요 연구 결과를 알려 주세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, thanks for stopping by! Can I walk you through it?",
+      "native_translations": {
+        "en": "Hi, thanks for stopping by! Can I walk you through it?",
+        "es": "¡Hola, gracias por acercarse! ¿Le explico de qué trata?",
+        "fr": "Bonjour, merci de vous être arrêté ! Je vous le présente ?",
+        "de": "Hallo, danke, dass Sie vorbeischauen! Darf ich es Ihnen kurz erklären?",
+        "it": "Ciao, grazie di esserti fermato! Vuoi che te lo illustri?",
+        "pl": "Dzień dobry, dziękuję, że pan podszedł! Mogę opowiedzieć, o co chodzi?",
+        "pt": "Oi, obrigado por passar aqui! Posso te explicar?",
+        "nl": "Hoi, leuk dat je even komt kijken! Zal ik je er even doorheen leiden?",
+        "hr": "Dobar dan, hvala što ste svratili! Mogu li Vas provesti kroz poster?",
+        "tr": "Merhaba, uğradığınız için teşekkürler! Size anlatmamı ister misiniz?",
+        "uk": "Привіт, дякую, що зупинилися! Розповісти вам про нього?",
+        "ar": "مرحبًا، شكرًا لتوقفك! هل تسمح لي أن أشرحه لك؟",
+        "hi": "नमस्ते, रुकने के लिए धन्यवाद! क्या मैं आपको इसके बारे में बताऊँ?",
+        "vi": "Chào anh/chị, cảm ơn đã ghé qua! Để tôi giới thiệu qua nhé?",
+        "id": "Halo, terima kasih sudah mampir! Boleh saya jelaskan?",
+        "ms": "Hai, terima kasih kerana singgah! Boleh saya terangkan?",
+        "ko": "안녕하세요, 들러 주셔서 감사해요! 제가 설명해 드릴까요?"
+      },
+      "practice": "¡Hola, gracias por acercarse! ¿Le explico de qué trata?",
+      "practice_translations": {
+        "en": "Hi, thanks for stopping by! Can I walk you through it?",
+        "es": "¡Hola, gracias por acercarse! ¿Le explico de qué trata?",
+        "ja": "こんにちは、お立ち寄りいただきありがとうございます！ご説明しましょうか。",
+        "ko": "안녕하세요, 들러 주셔서 감사해요! 제가 설명해 드릴까요?"
+      }
+    },
+    {
+      "native": "My project asks whether music helps students focus.",
+      "native_translations": {
+        "en": "My project asks whether music helps students focus.",
+        "es": "Mi proyecto investiga si la música ayuda a los estudiantes a concentrarse.",
+        "fr": "Mon projet cherche à savoir si la musique aide les étudiants à se concentrer.",
+        "de": "Mein Projekt untersucht, ob Musik Studierenden hilft, sich zu konzentrieren.",
+        "it": "Il mio progetto si chiede se la musica aiuti gli studenti a concentrarsi.",
+        "pl": "Mój projekt sprawdza, czy muzyka pomaga studentom się skupić.",
+        "pt": "Meu projeto investiga se a música ajuda os alunos a se concentrarem.",
+        "nl": "Mijn project onderzoekt of muziek studenten helpt zich te concentreren.",
+        "hr": "Moj projekt istražuje pomaže li glazba studentima da se koncentriraju.",
+        "tr": "Projem, müziğin öğrencilerin odaklanmasına yardımcı olup olmadığını araştırıyor.",
+        "uk": "Мій проєкт досліджує, чи допомагає музика студентам зосередитися.",
+        "ar": "يبحث مشروعي فيما إذا كانت الموسيقى تساعد الطلاب على التركيز.",
+        "hi": "मेरा प्रोजेक्ट यह देखता है कि क्या संगीत से छात्रों को ध्यान लगाने में मदद मिलती है।",
+        "vi": "Dự án của tôi tìm hiểu xem âm nhạc có giúp sinh viên tập trung không.",
+        "id": "Proyek saya meneliti apakah musik membantu siswa lebih fokus.",
+        "ms": "Projek saya mengkaji sama ada muzik membantu pelajar fokus.",
+        "ko": "제 프로젝트는 음악이 학생들의 집중에 도움이 되는지 알아봐요."
+      },
+      "practice": "Mi proyecto investiga si la música ayuda a los estudiantes a concentrarse.",
+      "practice_translations": {
+        "en": "My project asks whether music helps students focus.",
+        "es": "Mi proyecto investiga si la música ayuda a los estudiantes a concentrarse.",
+        "ja": "私の研究は、音楽が学生の集中力を高めるかどうかを調べています。",
+        "ko": "제 프로젝트는 음악이 학생들의 집중에 도움이 되는지 알아봐요."
+      }
+    },
+    {
+      "native": "We tested it with two groups of students.",
+      "native_translations": {
+        "en": "We tested it with two groups of students.",
+        "es": "Lo probamos con dos grupos de estudiantes.",
+        "fr": "Nous l'avons testé avec deux groupes d'étudiants.",
+        "de": "Wir haben es mit zwei Gruppen von Studierenden getestet.",
+        "it": "L'abbiamo testato con due gruppi di studenti.",
+        "pl": "Przetestowaliśmy to na dwóch grupach studentów.",
+        "pt": "Testamos com dois grupos de alunos.",
+        "nl": "We hebben het getest met twee groepen studenten.",
+        "hr": "Testirali smo to na dvije skupine studenata.",
+        "tr": "Bunu iki öğrenci grubuyla test ettik.",
+        "uk": "Ми перевірили це на двох групах студентів.",
+        "ar": "اختبرنا ذلك على مجموعتين من الطلاب.",
+        "hi": "हमने इसे छात्रों के दो ग्रुप पर परखा।",
+        "vi": "Chúng tôi đã thử nghiệm với hai nhóm sinh viên.",
+        "id": "Kami mengujinya dengan dua kelompok siswa.",
+        "ms": "Kami mengujinya dengan dua kumpulan pelajar.",
+        "ko": "두 그룹의 학생들을 대상으로 실험했어요."
+      },
+      "practice": "Lo probamos con dos grupos de estudiantes.",
+      "practice_translations": {
+        "en": "We tested it with two groups of students.",
+        "es": "Lo probamos con dos grupos de estudiantes.",
+        "ja": "2つの学生グループで実験しました。",
+        "ko": "두 그룹의 학생들을 대상으로 실험했어요."
+      }
+    },
+    {
+      "native": "The main finding is that quiet music improved focus.",
+      "native_translations": {
+        "en": "The main finding is that quiet music improved focus.",
+        "es": "El hallazgo principal es que la música suave mejoró la concentración.",
+        "fr": "Le principal résultat, c'est qu'une musique douce améliore la concentration.",
+        "de": "Das wichtigste Ergebnis ist, dass ruhige Musik die Konzentration verbessert hat.",
+        "it": "Il risultato principale è che la musica tranquilla ha migliorato la concentrazione.",
+        "pl": "Główny wniosek jest taki, że cicha muzyka poprawiła koncentrację.",
+        "pt": "O principal resultado é que música tranquila melhorou a concentração.",
+        "nl": "De belangrijkste bevinding is dat rustige muziek de concentratie verbeterde.",
+        "hr": "Glavni rezultat je da tiha glazba poboljšava koncentraciju.",
+        "tr": "Ana bulgu, sakin müziğin odaklanmayı artırdığı.",
+        "uk": "Головний результат: тиха музика покращила концентрацію.",
+        "ar": "النتيجة الرئيسية هي أن الموسيقى الهادئة حسّنت التركيز.",
+        "hi": "मुख्य नतीजा यह है कि धीमे संगीत से ध्यान बेहतर हुआ।",
+        "vi": "Phát hiện chính là nhạc nhẹ giúp tăng khả năng tập trung.",
+        "id": "Temuan utamanya, musik yang tenang meningkatkan fokus.",
+        "ms": "Dapatan utamanya ialah muzik yang tenang meningkatkan fokus.",
+        "ko": "주요 결과는 잔잔한 음악이 집중력을 높였다는 거예요."
+      },
+      "practice": "El hallazgo principal es que la música suave mejoró la concentración.",
+      "practice_translations": {
+        "en": "The main finding is that quiet music improved focus.",
+        "es": "El hallazgo principal es que la música suave mejoró la concentración.",
+        "ja": "主な結果として、静かな音楽で集中力が上がりました。",
+        "ko": "주요 결과는 잔잔한 음악이 집중력을 높였다는 거예요."
+      }
+    },
+    {
+      "native": "Do you have any questions?",
+      "native_translations": {
+        "en": "Do you have any questions?",
+        "es": "¿Tiene alguna pregunta?",
+        "fr": "Avez-vous des questions ?",
+        "de": "Haben Sie Fragen?",
+        "it": "Hai qualche domanda?",
+        "pl": "Czy ma pan jakieś pytania?",
+        "pt": "Você tem alguma pergunta?",
+        "nl": "Heb je nog vragen?",
+        "hr": "Imate li kakvih pitanja?",
+        "tr": "Sorunuz var mı?",
+        "uk": "У вас є запитання?",
+        "ar": "هل لديك أي أسئلة؟",
+        "hi": "क्या आपका कोई सवाल है?",
+        "vi": "Anh/chị có câu hỏi nào không?",
+        "id": "Ada pertanyaan?",
+        "ms": "Ada apa-apa soalan?",
+        "ko": "궁금한 점 있으세요?"
+      },
+      "practice": "¿Tiene alguna pregunta?",
+      "practice_translations": {
+        "en": "Do you have any questions?",
+        "es": "¿Tiene alguna pregunta?",
+        "ja": "何かご質問はありますか。",
+        "ko": "궁금한 점 있으세요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "id": "study_abroad_administration_seeking_help_c3",
+  "title": "Appealing a Late Fee",
+  "title_translations": {
+    "en": "Appealing a Late Fee",
+    "es": "Apelar un recargo por pago tardío",
+    "fr": "Contester des frais de retard",
+    "de": "Einspruch gegen eine Säumnisgebühr",
+    "it": "Contestare una penale per ritardo",
+    "pl": "Odwołanie od opłaty za opóźnienie",
+    "pt": "Contestando uma multa por atraso",
+    "nl": "Bezwaar tegen een boete voor te laat betalen",
+    "hr": "Žalba na zateznu naknadu",
+    "tr": "Gecikme Ücretine İtiraz",
+    "uk": "Оскарження пені за прострочення",
+    "ar": "الاعتراض على غرامة التأخير",
+    "hi": "लेट फ़ीस के ख़िलाफ़ अपील",
+    "vi": "Khiếu nại phí nộp muộn",
+    "id": "Mengajukan Banding atas Denda Keterlambatan",
+    "ms": "Merayu Denda Lewat Bayar",
+    "ko": "연체료 이의 신청"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You were charged a late fee because your scholarship payment arrived late. The finance officer (AI) says the fee cannot be removed.",
+  "scenario_translations": {
+    "en": "You were charged a late fee because your scholarship payment arrived late. The finance officer (AI) says the fee cannot be removed.",
+    "es": "Le cobraron un recargo por pago tardío porque el pago de su beca llegó tarde. El encargado de finanzas (AI) dice que no se puede eliminar.",
+    "fr": "On vous a facturé des frais de retard parce que le versement de votre bourse est arrivé en retard. Le responsable financier (AI) affirme que ces frais ne peuvent pas être annulés.",
+    "de": "Ihnen wurde eine Säumnisgebühr berechnet, weil Ihre Stipendienzahlung zu spät kam. Die Mitarbeiterin der Finanzabteilung (AI) sagt, die Gebühr könne nicht erlassen werden.",
+    "it": "Ti hanno addebitato una penale per ritardo perché il pagamento della tua borsa di studio è arrivato tardi. L'addetto dell'ufficio amministrativo (AI) dice che la penale non si può annullare.",
+    "pl": "Naliczono ci opłatę za opóźnienie, bo twoje stypendium wpłynęło za późno. Pracownik działu finansowego (AI) mówi, że opłaty nie da się anulować.",
+    "pt": "Você foi cobrado com uma multa por atraso porque o pagamento da sua bolsa chegou atrasado. O funcionário do setor financeiro (AI) diz que a multa não pode ser cancelada.",
+    "nl": "Je hebt een boete gekregen voor te laat betalen omdat je beursgeld te laat binnenkwam. De medewerker financiën (AI) zegt dat de boete niet kan worden geschrapt.",
+    "hr": "Naplaćena ti je naknada za kašnjenje jer je uplata stipendije stigla kasno. Službenik u financijskoj službi (AI) kaže da se naknada ne može ukloniti.",
+    "tr": "Burs ödemeniz geç geldiği için size gecikme ücreti yansıtıldı. Mali işler görevlisi (AI) ücretin kaldırılamayacağını söylüyor.",
+    "uk": "Тобі нарахували пеню за прострочення, бо стипендія надійшла із запізненням. Фінансовий працівник (AI) каже, що скасувати пеню не можна.",
+    "ar": "فُرضت عليك غرامة تأخير لأن دفعة منحتك وصلت متأخرة. يقول الموظف المالي (AI) إنه لا يمكن إلغاء الغرامة.",
+    "hi": "आपकी स्कॉलरशिप का पैसा देर से आया, इसलिए आप पर लेट फ़ीस लगा दी गई। फ़ाइनेंस अधिकारी (AI) कहते हैं कि यह फ़ीस हटाई नहीं जा सकती।",
+    "vi": "Bạn bị tính phí nộp muộn vì tiền học bổng đến chậm. Nhân viên tài chính (AI) nói không thể xóa khoản phí này.",
+    "id": "Kamu dikenai denda keterlambatan karena pembayaran beasiswamu datang terlambat. Petugas keuangan (AI) bilang dendanya tidak bisa dihapus.",
+    "ms": "Anda dikenakan denda lewat bayar kerana bayaran biasiswa anda tiba lewat. Pegawai kewangan (AI) berkata denda itu tidak boleh dibatalkan.",
+    "ko": "장학금 입금이 늦어져서 연체료가 부과되었습니다. 재무 담당자(AI)는 연체료를 취소할 수 없다고 말합니다."
+  },
+  "mission": {
+    "native": "Show that the delay was not your fault and get the fee removed or reduced.",
+    "native_translations": {
+      "en": "Show that the delay was not your fault and get the fee removed or reduced.",
+      "es": "Demuestre que el retraso no fue su culpa y consiga que se anule o reduzca el recargo.",
+      "fr": "Montrez que le retard n'était pas de votre faute et obtenez l'annulation ou la réduction des frais.",
+      "de": "Zeigen Sie, dass die Verzögerung nicht Ihre Schuld war, und erreichen Sie, dass die Gebühr erlassen oder reduziert wird.",
+      "it": "Dimostra che il ritardo non è colpa tua e ottieni l'annullamento o la riduzione della penale.",
+      "pl": "Wykaż, że opóźnienie nie było twoją winą, i doprowadź do anulowania lub obniżenia opłaty.",
+      "pt": "Mostre que o atraso não foi culpa sua e consiga cancelar ou reduzir a multa.",
+      "nl": "Laat zien dat de vertraging niet jouw schuld was en zorg dat de boete wordt geschrapt of verlaagd.",
+      "hr": "Pokaži da kašnjenje nije tvoja krivnja i postigni da se naknada ukloni ili smanji.",
+      "tr": "Gecikmenin sizin suçunuz olmadığını gösterin ve ücretin kaldırılmasını ya da düşürülmesini sağlayın.",
+      "uk": "Доведи, що затримка сталася не з твоєї вини, і досягни скасування або зменшення пені.",
+      "ar": "أثبت أن التأخير لم يكن خطأك، واحصل على إلغاء الغرامة أو تخفيضها.",
+      "hi": "दिखाइए कि देरी आपकी ग़लती नहीं थी और फ़ीस हटवाइए या कम करवाइए।",
+      "vi": "Chứng minh việc chậm trễ không phải lỗi của bạn và được xóa hoặc giảm khoản phí.",
+      "id": "Tunjukkan bahwa keterlambatan itu bukan salahmu dan minta dendanya dihapus atau dikurangi.",
+      "ms": "Buktikan bahawa kelewatan itu bukan salah anda dan minta denda itu dibatalkan atau dikurangkan.",
+      "ko": "지연이 당신 잘못이 아니라는 것을 보여 주고 연체료를 취소하거나 줄여 달라고 하세요."
+    },
+    "practice": "Demuestre que el retraso no fue su culpa y consiga que se anule o reduzca el recargo.",
+    "practice_translations": {
+      "en": "Show that the delay was not your fault and get the fee removed or reduced.",
+      "es": "Demuestre que el retraso no fue su culpa y consiga que se anule o reduzca el recargo.",
+      "ja": "遅れたのは自分のせいではないことを示して、延滞料をなくすか減らしてもらってください。",
+      "ko": "지연이 당신 잘못이 아니라는 것을 보여 주고 연체료를 취소하거나 줄여 달라고 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain why the payment was late",
+        "native_translations": {
+          "en": "Explain why the payment was late",
+          "es": "Explique por qué se retrasó el pago",
+          "fr": "Expliquez pourquoi le paiement était en retard",
+          "de": "Erklären Sie, warum die Zahlung zu spät kam",
+          "it": "Spiega perché il pagamento è arrivato in ritardo",
+          "pl": "Wyjaśnij, dlaczego płatność się spóźniła",
+          "pt": "Explique por que o pagamento atrasou",
+          "nl": "Leg uit waarom de betaling te laat was",
+          "hr": "Objasni zašto je uplata kasnila",
+          "tr": "Ödemenin neden geciktiğini açıklayın",
+          "uk": "Поясни, чому оплата запізнилася",
+          "ar": "اشرح سبب تأخر الدفعة",
+          "hi": "बताइए कि भुगतान में देरी क्यों हुई",
+          "vi": "Giải thích vì sao khoản thanh toán bị chậm",
+          "id": "Jelaskan kenapa pembayarannya terlambat",
+          "ms": "Terangkan mengapa bayaran itu lewat",
+          "ko": "납부가 늦어진 이유를 설명하세요"
+        },
+        "practice": "Explique por qué se retrasó el pago",
+        "practice_translations": {
+          "en": "Explain why the payment was late",
+          "es": "Explique por qué se retrasó el pago",
+          "ja": "支払いが遅れた理由を説明してください",
+          "ko": "납부가 늦어진 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Show that the delay was not your fault",
+        "native_translations": {
+          "en": "Show that the delay was not your fault",
+          "es": "Demuestre que el retraso no fue su culpa",
+          "fr": "Montrez que le retard n'était pas de votre faute",
+          "de": "Zeigen Sie, dass die Verzögerung nicht Ihre Schuld war",
+          "it": "Dimostra che il ritardo non è colpa tua",
+          "pl": "Wykaż, że opóźnienie nie było twoją winą",
+          "pt": "Mostre que o atraso não foi culpa sua",
+          "nl": "Laat zien dat de vertraging niet jouw schuld was",
+          "hr": "Pokaži da kašnjenje nije tvoja krivnja",
+          "tr": "Gecikmenin sizin suçunuz olmadığını gösterin",
+          "uk": "Покажи, що затримка сталася не з твоєї вини",
+          "ar": "أثبت أن التأخير لم يكن خطأك",
+          "hi": "दिखाइए कि देरी आपकी ग़लती नहीं थी",
+          "vi": "Chứng minh việc chậm trễ không phải lỗi của bạn",
+          "id": "Tunjukkan bahwa keterlambatan itu bukan salahmu",
+          "ms": "Tunjukkan bahawa kelewatan itu bukan salah anda",
+          "ko": "지연이 자신의 잘못이 아니라는 것을 보여 주세요"
+        },
+        "practice": "Demuestre que el retraso no fue su culpa",
+        "practice_translations": {
+          "en": "Show that the delay was not your fault",
+          "es": "Demuestre que el retraso no fue su culpa",
+          "ja": "遅れたのは自分のせいではないことを示してください",
+          "ko": "지연이 자신의 잘못이 아니라는 것을 보여 주세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask to have the fee removed",
+        "native_translations": {
+          "en": "Ask to have the fee removed",
+          "es": "Pida que se anule el recargo",
+          "fr": "Demandez l'annulation des frais",
+          "de": "Bitten Sie darum, die Gebühr zu erlassen",
+          "it": "Chiedi di annullare la penale",
+          "pl": "Poproś o anulowanie opłaty",
+          "pt": "Peça para cancelar a multa",
+          "nl": "Vraag of de boete geschrapt kan worden",
+          "hr": "Zatraži da se naknada ukloni",
+          "tr": "Ücretin kaldırılmasını isteyin",
+          "uk": "Попроси скасувати пеню",
+          "ar": "اطلب إلغاء الغرامة",
+          "hi": "फ़ीस हटाने का अनुरोध कीजिए",
+          "vi": "Đề nghị xóa khoản phí",
+          "id": "Minta agar dendanya dihapus",
+          "ms": "Minta supaya denda itu dibatalkan",
+          "ko": "연체료를 취소해 달라고 요청하세요"
+        },
+        "practice": "Pida que se anule el recargo",
+        "practice_translations": {
+          "en": "Ask to have the fee removed",
+          "es": "Pida que se anule el recargo",
+          "ja": "延滞料をなくしてもらうようお願いしてください",
+          "ko": "연체료를 취소해 달라고 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a fair solution",
+        "native_translations": {
+          "en": "Agree on a fair solution",
+          "es": "Acuerden una solución justa",
+          "fr": "Mettez-vous d'accord sur une solution équitable",
+          "de": "Einigen Sie sich auf eine faire Lösung",
+          "it": "Concorda una soluzione equa",
+          "pl": "Ustalcie sprawiedliwe rozwiązanie",
+          "pt": "Chegue a uma solução justa",
+          "nl": "Spreek een eerlijke oplossing af",
+          "hr": "Dogovori pošteno rješenje",
+          "tr": "Adil bir çözümde anlaşın",
+          "uk": "Домовся про справедливе рішення",
+          "ar": "اتفق على حلّ عادل",
+          "hi": "एक उचित हल पर सहमत होइए",
+          "vi": "Thống nhất một giải pháp công bằng",
+          "id": "Sepakati solusi yang adil",
+          "ms": "Setuju dengan penyelesaian yang adil",
+          "ko": "공정한 해결책에 합의하세요"
+        },
+        "practice": "Acuerden una solución justa",
+        "practice_translations": {
+          "en": "Agree on a fair solution",
+          "es": "Acuerden una solución justa",
+          "ja": "公平な解決策について合意してください",
+          "ko": "공정한 해결책에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I received a late fee, but I think it's a mistake.",
+      "native_translations": {
+        "en": "I received a late fee, but I think it's a mistake.",
+        "es": "Me cobraron un recargo por pago tardío, pero creo que es un error.",
+        "fr": "On m'a facturé des frais de retard, mais je pense que c'est une erreur.",
+        "de": "Mir wurde eine Säumnisgebühr berechnet, aber ich glaube, das ist ein Fehler.",
+        "it": "Mi è stata addebitata una penale per ritardo, ma credo sia un errore.",
+        "pl": "Naliczono mi opłatę za opóźnienie, ale myślę, że to pomyłka.",
+        "pt": "Recebi uma multa por atraso, mas acho que foi um engano.",
+        "nl": "Ik heb een boete voor te laat betalen gekregen, maar ik denk dat het een vergissing is.",
+        "hr": "Stigla mi je naknada za kašnjenje, ali mislim da je to greška.",
+        "tr": "Bana gecikme ücreti yansıtıldı ama bence bu bir hata.",
+        "uk": "Мені нарахували пеню, але, думаю, це помилка.",
+        "ar": "فُرضت عليّ غرامة تأخير، لكنني أعتقد أنها خطأ.",
+        "hi": "मुझ पर लेट फ़ीस लगी है, लेकिन मुझे लगता है यह ग़लती है।",
+        "vi": "Tôi bị tính phí nộp muộn, nhưng tôi nghĩ có nhầm lẫn.",
+        "id": "Saya dikenai denda keterlambatan, tapi menurut saya ini keliru.",
+        "ms": "Saya dikenakan denda lewat bayar, tetapi saya rasa ia satu kesilapan.",
+        "ko": "연체료가 부과됐는데, 뭔가 착오가 있는 것 같아요."
+      },
+      "practice": "Me cobraron un recargo por pago tardío, pero creo que es un error.",
+      "practice_translations": {
+        "en": "I received a late fee, but I think it's a mistake.",
+        "es": "Me cobraron un recargo por pago tardío, pero creo que es un error.",
+        "ja": "延滞料の請求が来たのですが、間違いだと思います。",
+        "ko": "연체료가 부과됐는데, 뭔가 착오가 있는 것 같아요."
+      }
+    },
+    {
+      "native": "My scholarship payment was delayed by the sponsor.",
+      "native_translations": {
+        "en": "My scholarship payment was delayed by the sponsor.",
+        "es": "La entidad que me otorga la beca retrasó el pago.",
+        "fr": "Le versement de ma bourse a été retardé par l'organisme financeur.",
+        "de": "Meine Stipendienzahlung wurde vom Geldgeber verzögert.",
+        "it": "Il pagamento della mia borsa di studio è stato ritardato dall'ente finanziatore.",
+        "pl": "Wypłata mojego stypendium opóźniła się z winy fundatora.",
+        "pt": "O pagamento da minha bolsa foi atrasado pela instituição patrocinadora.",
+        "nl": "De uitbetaling van mijn beurs werd door de beursverstrekker vertraagd.",
+        "hr": "Uplata moje stipendije kasnila je zbog stipenditora.",
+        "tr": "Burs ödemem, bursu veren kurum tarafından geciktirildi.",
+        "uk": "Мою стипендію затримав спонсор.",
+        "ar": "تأخرت دفعة منحتي من الجهة الراعية.",
+        "hi": "मेरी स्कॉलरशिप का भुगतान स्पॉन्सर की तरफ़ से देर से हुआ।",
+        "vi": "Tiền học bổng của tôi bị đơn vị tài trợ chuyển chậm.",
+        "id": "Pembayaran beasiswa saya ditunda oleh pihak sponsor.",
+        "ms": "Bayaran biasiswa saya dilewatkan oleh penaja.",
+        "ko": "장학 재단 쪽에서 장학금 지급이 늦어졌어요."
+      },
+      "practice": "La entidad que me otorga la beca retrasó el pago.",
+      "practice_translations": {
+        "en": "My scholarship payment was delayed by the sponsor.",
+        "es": "La entidad que me otorga la beca retrasó el pago.",
+        "ja": "スポンサーからの奨学金の支払いが遅れたんです。",
+        "ko": "장학 재단 쪽에서 장학금 지급이 늦어졌어요."
+      }
+    },
+    {
+      "native": "Here is the email confirming the delay.",
+      "native_translations": {
+        "en": "Here is the email confirming the delay.",
+        "es": "Aquí tiene el correo que confirma el retraso.",
+        "fr": "Voici l'e-mail qui confirme le retard.",
+        "de": "Hier ist die E-Mail, die die Verzögerung bestätigt.",
+        "it": "Ecco l'email che conferma il ritardo.",
+        "pl": "Oto e-mail potwierdzający opóźnienie.",
+        "pt": "Aqui está o e-mail que confirma o atraso.",
+        "nl": "Hier is de e-mail die de vertraging bevestigt.",
+        "hr": "Evo e-maila koji potvrđuje kašnjenje.",
+        "tr": "Gecikmeyi doğrulayan e-posta burada.",
+        "uk": "Ось лист, який підтверджує затримку.",
+        "ar": "هذا هو البريد الإلكتروني الذي يؤكد التأخير.",
+        "hi": "यह रहा वह ईमेल जिसमें देरी की पुष्टि है।",
+        "vi": "Đây là email xác nhận việc chậm trễ.",
+        "id": "Ini email yang mengonfirmasi keterlambatannya.",
+        "ms": "Ini e-mel yang mengesahkan kelewatan itu.",
+        "ko": "여기 지연을 확인해 주는 이메일이에요."
+      },
+      "practice": "Aquí tiene el correo que confirma el retraso.",
+      "practice_translations": {
+        "en": "Here is the email confirming the delay.",
+        "es": "Aquí tiene el correo que confirma el retraso.",
+        "ja": "こちらが遅延を確認するメールです。",
+        "ko": "여기 지연을 확인해 주는 이메일이에요."
+      }
+    },
+    {
+      "native": "I understand the rules, but this was out of my control.",
+      "native_translations": {
+        "en": "I understand the rules, but this was out of my control.",
+        "es": "Entiendo las normas, pero esto no dependía de mí.",
+        "fr": "Je comprends le règlement, mais c'était indépendant de ma volonté.",
+        "de": "Ich verstehe die Regeln, aber das lag nicht in meiner Hand.",
+        "it": "Capisco le regole, ma la cosa non dipendeva da me.",
+        "pl": "Rozumiem zasady, ale to było niezależne ode mnie.",
+        "pt": "Entendo as regras, mas isso estava fora do meu controle.",
+        "nl": "Ik begrijp de regels, maar dit lag buiten mijn macht.",
+        "hr": "Razumijem pravila, ali to nije bilo pod mojom kontrolom.",
+        "tr": "Kuralları anlıyorum ama bu benim elimde değildi.",
+        "uk": "Я розумію правила, але це від мене не залежало.",
+        "ar": "أفهم القواعد، لكن هذا كان خارجًا عن إرادتي.",
+        "hi": "मैं नियम समझता हूँ, लेकिन यह मेरे बस में नहीं था।",
+        "vi": "Tôi hiểu quy định, nhưng việc này nằm ngoài khả năng của tôi.",
+        "id": "Saya paham aturannya, tapi ini di luar kendali saya.",
+        "ms": "Saya faham peraturannya, tetapi ini di luar kawalan saya.",
+        "ko": "규정은 이해하지만, 이건 제가 어쩔 수 없는 일이었어요."
+      },
+      "practice": "Entiendo las normas, pero esto no dependía de mí.",
+      "practice_translations": {
+        "en": "I understand the rules, but this was out of my control.",
+        "es": "Entiendo las normas, pero esto no dependía de mí.",
+        "ja": "規則は理解していますが、これは私にはどうしようもないことでした。",
+        "ko": "규정은 이해하지만, 이건 제가 어쩔 수 없는 일이었어요."
+      }
+    },
+    {
+      "native": "Would it be possible to at least reduce the fee?",
+      "native_translations": {
+        "en": "Would it be possible to at least reduce the fee?",
+        "es": "¿Sería posible al menos reducir el recargo?",
+        "fr": "Serait-il possible au moins de réduire les frais ?",
+        "de": "Wäre es möglich, die Gebühr wenigstens zu reduzieren?",
+        "it": "Sarebbe possibile almeno ridurre la penale?",
+        "pl": "Czy byłoby możliwe chociaż obniżenie opłaty?",
+        "pt": "Seria possível pelo menos reduzir a multa?",
+        "nl": "Zou het mogelijk zijn om de boete op zijn minst te verlagen?",
+        "hr": "Bi li bilo moguće barem smanjiti naknadu?",
+        "tr": "En azından ücreti düşürmek mümkün olur mu?",
+        "uk": "Чи можна хоча б зменшити пеню?",
+        "ar": "هل من الممكن على الأقل تخفيض الغرامة؟",
+        "hi": "क्या कम से कम फ़ीस कम करना मुमकिन होगा?",
+        "vi": "Ít nhất có thể giảm khoản phí này được không ạ?",
+        "id": "Apakah mungkin setidaknya dendanya dikurangi?",
+        "ms": "Bolehkah sekurang-kurangnya denda itu dikurangkan?",
+        "ko": "연체료를 조금이라도 줄여 주실 수 있을까요?"
+      },
+      "practice": "¿Sería posible al menos reducir el recargo?",
+      "practice_translations": {
+        "en": "Would it be possible to at least reduce the fee?",
+        "es": "¿Sería posible al menos reducir el recargo?",
+        "ja": "せめて延滞料を減らしていただくことはできないでしょうか。",
+        "ko": "연체료를 조금이라도 줄여 주실 수 있을까요?"
+      }
+    }
+  ]
+}

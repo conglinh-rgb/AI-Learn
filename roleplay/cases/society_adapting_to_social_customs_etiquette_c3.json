@@ -1,0 +1,351 @@
+{
+  "id": "society_adapting_to_social_customs_etiquette_c3",
+  "title": "An Awkward Cultural Misstep",
+  "title_translations": {
+    "en": "An Awkward Cultural Misstep",
+    "es": "Un tropiezo cultural incómodo",
+    "fr": "Un faux pas culturel gênant",
+    "de": "Ein peinlicher kultureller Fehltritt",
+    "it": "Una gaffe culturale imbarazzante",
+    "pl": "Niezręczna wpadka kulturowa",
+    "pt": "Uma gafe cultural constrangedora",
+    "nl": "Een ongemakkelijke culturele misser",
+    "hr": "Neugodan kulturni propust",
+    "tr": "Garip Bir Kültürel Gaf",
+    "uk": "Незручний культурний промах",
+    "ar": "زلّة ثقافية محرجة",
+    "hi": "संस्कृति से जुड़ी एक असहज चूक",
+    "vi": "Một lần lỡ bước văn hóa khó xử",
+    "id": "Salah Langkah Budaya yang Canggung",
+    "ms": "Kesilapan Budaya yang Janggal",
+    "ko": "어색한 문화적 실수"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "At a colleague's dinner party, you started eating before everyone was served. The host (AI) looks upset and the table has gone quiet.",
+  "scenario_translations": {
+    "en": "At a colleague's dinner party, you started eating before everyone was served. The host (AI) looks upset and the table has gone quiet.",
+    "es": "En una cena en casa de un colega, usted empezó a comer antes de que sirvieran a todos. El anfitrión (AI) parece molesto y la mesa quedó en silencio.",
+    "fr": "Lors d'un dîner chez un collègue, vous avez commencé à manger avant que tout le monde soit servi. L'hôte (AI) a l'air contrarié et un silence s'est installé autour de la table.",
+    "de": "Bei einer Einladung zum Abendessen bei einem Kollegen haben Sie angefangen zu essen, bevor alle bedient waren. Der Gastgeber (AI) wirkt verärgert, und am Tisch ist es still geworden.",
+    "it": "A una cena a casa di un collega, hai iniziato a mangiare prima che tutti fossero serviti. Chi ti ospita (AI) sembra contrariato e a tavola è calato il silenzio.",
+    "pl": "Na kolacji u kolegi z pracy zacząłeś jeść, zanim wszyscy dostali jedzenie. Gospodarz (AI) wygląda na urażonego, a przy stole zapadła cisza.",
+    "pt": "Em um jantar na casa de um colega, você começou a comer antes de todos serem servidos. O anfitrião (AI) parece chateado, e a mesa ficou em silêncio.",
+    "nl": "Op een etentje bij een collega begon je te eten voordat iedereen was opgeschept. De gastheer (AI) kijkt beledigd en het is stil geworden aan tafel.",
+    "hr": "Na večeri kod kolege počeo si jesti prije nego što su svi dobili hranu. Domaćin (AI) djeluje uzrujano, a za stolom je zavladala tišina.",
+    "tr": "Bir iş arkadaşınızın akşam yemeği davetinde herkese servis yapılmadan yemeye başladınız. Ev sahibi (AI) üzgün görünüyor ve masaya sessizlik çöktü.",
+    "uk": "На вечері в колеги ти почав їсти ще до того, як усім подали страви. Господар (AI) засмучений, і за столом запала тиша.",
+    "ar": "في حفلة عشاء عند زميل، بدأت الأكل قبل أن يُقدَّم الطعام للجميع. يبدو المضيف (AI) منزعجًا وقد ساد الصمت على المائدة.",
+    "hi": "एक सहकर्मी की डिनर पार्टी में, सबको खाना परोसे जाने से पहले ही आपने खाना शुरू कर दिया। मेज़बान (AI) नाराज़ दिख रहे हैं और मेज़ पर सन्नाटा छा गया है।",
+    "vi": "Tại bữa tiệc tối ở nhà đồng nghiệp, bạn đã ăn trước khi mọi người được dọn món. Chủ nhà (AI) có vẻ phật ý và cả bàn bỗng im lặng.",
+    "id": "Di acara makan malam rekan kerjamu, kamu mulai makan sebelum semua orang mendapat makanan. Tuan rumah (AI) tampak kesal dan meja jadi hening.",
+    "ms": "Di majlis makan malam rakan sekerja, anda mula makan sebelum semua orang dihidangkan. Tuan rumah (AI) kelihatan kecewa dan suasana di meja menjadi senyap.",
+    "ko": "동료의 저녁 모임에서 모두에게 음식이 나오기 전에 먼저 먹기 시작했습니다. 집주인(AI)은 언짢아 보이고 식탁은 조용해졌습니다."
+  },
+  "mission": {
+    "native": "Apologize sincerely, explain the misunderstanding and learn the local custom so it doesn't happen again.",
+    "native_translations": {
+      "en": "Apologize sincerely, explain the misunderstanding and learn the local custom so it doesn't happen again.",
+      "es": "Discúlpese sinceramente, explique el malentendido y aprenda la costumbre local para que no vuelva a pasar.",
+      "fr": "Excusez-vous sincèrement, expliquez le malentendu et découvrez la coutume locale pour que cela ne se reproduise pas.",
+      "de": "Entschuldigen Sie sich aufrichtig, erklären Sie das Missverständnis und lernen Sie den hiesigen Brauch kennen, damit es nicht wieder passiert.",
+      "it": "Scusati sinceramente, spiega il malinteso e impara l'usanza locale perché non succeda più.",
+      "pl": "Szczerze przeproś, wyjaśnij nieporozumienie i poznaj miejscowy zwyczaj, żeby to się nie powtórzyło.",
+      "pt": "Peça desculpas com sinceridade, explique o mal-entendido e aprenda o costume local para que isso não se repita.",
+      "nl": "Bied oprecht je excuses aan, leg het misverstand uit en leer de lokale gewoonte zodat het niet weer gebeurt.",
+      "hr": "Iskreno se ispričaj, objasni nesporazum i nauči lokalni običaj da se to više ne ponovi.",
+      "tr": "İçtenlikle özür dileyin, yanlış anlaşılmayı açıklayın ve bir daha olmaması için yerel geleneği öğrenin.",
+      "uk": "Щиро перепроси, поясни непорозуміння й дізнайся місцевий звичай, щоб таке не повторилося.",
+      "ar": "اعتذر بصدق واشرح سوء الفهم وتعلّم العادة المحلية حتى لا يتكرر ذلك.",
+      "hi": "दिल से माफ़ी माँगिए, ग़लतफ़हमी समझाइए और यहाँ का रिवाज़ सीखिए ताकि ऐसा दोबारा न हो।",
+      "vi": "Chân thành xin lỗi, giải thích sự hiểu lầm và tìm hiểu phong tục địa phương để không lặp lại.",
+      "id": "Minta maaf dengan tulus, jelaskan kesalahpahamannya, dan pelajari kebiasaan setempat agar tidak terulang.",
+      "ms": "Minta maaf dengan ikhlas, terangkan salah faham itu dan pelajari adat setempat supaya ia tidak berulang.",
+      "ko": "진심으로 사과하고, 오해를 설명하고, 다시는 그러지 않도록 이곳의 관습을 배우세요."
+    },
+    "practice": "Discúlpese sinceramente, explique el malentendido y aprenda la costumbre local para que no vuelva a pasar.",
+    "practice_translations": {
+      "en": "Apologize sincerely, explain the misunderstanding and learn the local custom so it doesn't happen again.",
+      "es": "Discúlpese sinceramente, explique el malentendido y aprenda la costumbre local para que no vuelva a pasar.",
+      "ja": "心から謝って誤解を説明し、二度と同じことをしないよう地元の習慣を教わってください。",
+      "ko": "진심으로 사과하고, 오해를 설명하고, 다시는 그러지 않도록 이곳의 관습을 배우세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Apologize for what you did",
+        "native_translations": {
+          "en": "Apologize for what you did",
+          "es": "Discúlpese por lo que hizo",
+          "fr": "Excusez-vous pour ce que vous avez fait",
+          "de": "Entschuldigen Sie sich für Ihr Verhalten",
+          "it": "Scusati per quello che hai fatto",
+          "pl": "Przeproś za to, co zrobiłeś",
+          "pt": "Peça desculpas pelo que você fez",
+          "nl": "Bied je excuses aan voor wat je deed",
+          "hr": "Ispričaj se za svoj postupak",
+          "tr": "Yaptığınız şey için özür dileyin",
+          "uk": "Перепроси за свій вчинок",
+          "ar": "اعتذر عمّا فعلته",
+          "hi": "अपनी ग़लती के लिए माफ़ी माँगिए",
+          "vi": "Xin lỗi về việc bạn đã làm",
+          "id": "Minta maaf atas apa yang kamu lakukan",
+          "ms": "Minta maaf atas perbuatan anda",
+          "ko": "자신이 한 행동에 대해 사과하세요"
+        },
+        "practice": "Discúlpese por lo que hizo",
+        "practice_translations": {
+          "en": "Apologize for what you did",
+          "es": "Discúlpese por lo que hizo",
+          "ja": "自分のしたことを謝ってください",
+          "ko": "자신이 한 행동에 대해 사과하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain the custom in your country",
+        "native_translations": {
+          "en": "Explain the custom in your country",
+          "es": "Explique la costumbre de su país",
+          "fr": "Expliquez la coutume de votre pays",
+          "de": "Erklären Sie den Brauch in Ihrem Land",
+          "it": "Spiega l'usanza del tuo paese",
+          "pl": "Wyjaśnij, jaki zwyczaj panuje w twoim kraju",
+          "pt": "Explique o costume do seu país",
+          "nl": "Leg de gewoonte in jouw land uit",
+          "hr": "Objasni kakav je običaj u tvojoj zemlji",
+          "tr": "Kendi ülkenizdeki geleneği açıklayın",
+          "uk": "Поясни, який звичай у твоїй країні",
+          "ar": "اشرح العادة في بلدك",
+          "hi": "अपने देश का रिवाज़ बताइए",
+          "vi": "Giải thích phong tục ở nước bạn",
+          "id": "Jelaskan kebiasaan di negaramu",
+          "ms": "Terangkan adat di negara anda",
+          "ko": "자기 나라의 관습을 설명하세요"
+        },
+        "practice": "Explique la costumbre de su país",
+        "practice_translations": {
+          "en": "Explain the custom in your country",
+          "es": "Explique la costumbre de su país",
+          "ja": "自分の国の習慣を説明してください",
+          "ko": "자기 나라의 관습을 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask what the right custom is here",
+        "native_translations": {
+          "en": "Ask what the right custom is here",
+          "es": "Pregunte cuál es la costumbre correcta aquí",
+          "fr": "Demandez quelle est la bonne coutume ici",
+          "de": "Fragen Sie, was hier der richtige Brauch ist",
+          "it": "Chiedi qual è l'usanza giusta qui",
+          "pl": "Zapytaj, jaki zwyczaj obowiązuje tutaj",
+          "pt": "Pergunte qual é o costume certo aqui",
+          "nl": "Vraag wat hier de juiste gewoonte is",
+          "hr": "Pitaj kakav je ispravan običaj ovdje",
+          "tr": "Burada doğru geleneğin ne olduğunu sorun",
+          "uk": "Запитай, як тут прийнято",
+          "ar": "اسأل عن العادة الصحيحة هنا",
+          "hi": "पूछिए कि यहाँ सही रिवाज़ क्या है",
+          "vi": "Hỏi phong tục đúng ở đây là gì",
+          "id": "Tanyakan kebiasaan yang benar di sini",
+          "ms": "Tanya apakah adat yang betul di sini",
+          "ko": "이곳의 올바른 관습이 무엇인지 물어보세요"
+        },
+        "practice": "Pregunte cuál es la costumbre correcta aquí",
+        "practice_translations": {
+          "en": "Ask what the right custom is here",
+          "es": "Pregunte cuál es la costumbre correcta aquí",
+          "ja": "ここでの正しい習慣を聞いてください",
+          "ko": "이곳의 올바른 관습이 무엇인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest a way to make up for it",
+        "native_translations": {
+          "en": "Suggest a way to make up for it",
+          "es": "Sugiera una forma de compensarlo",
+          "fr": "Proposez un moyen de vous rattraper",
+          "de": "Schlagen Sie vor, wie Sie es wiedergutmachen können",
+          "it": "Proponi un modo per rimediare",
+          "pl": "Zaproponuj, jak możesz to wynagrodzić",
+          "pt": "Sugira uma forma de se redimir",
+          "nl": "Stel een manier voor om het goed te maken",
+          "hr": "Predloži kako se iskupiti",
+          "tr": "Telafi etmek için bir yol önerin",
+          "uk": "Запропонуй, як загладити провину",
+          "ar": "اقترح طريقة للتعويض عن ذلك",
+          "hi": "भरपाई करने का कोई तरीक़ा सुझाइए",
+          "vi": "Đề xuất một cách để chuộc lỗi",
+          "id": "Usulkan cara untuk menebusnya",
+          "ms": "Cadangkan cara untuk menebus kesilapan",
+          "ko": "실수를 만회할 방법을 제안하세요"
+        },
+        "practice": "Sugiera una forma de compensarlo",
+        "practice_translations": {
+          "en": "Suggest a way to make up for it",
+          "es": "Sugiera una forma de compensarlo",
+          "ja": "埋め合わせの方法を提案してください",
+          "ko": "실수를 만회할 방법을 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm so sorry, I didn't mean to be rude.",
+      "native_translations": {
+        "en": "I'm so sorry, I didn't mean to be rude.",
+        "es": "Lo siento mucho, no quise ser descortés.",
+        "fr": "Je suis vraiment désolé, je ne voulais pas être impoli.",
+        "de": "Es tut mir so leid, ich wollte nicht unhöflich sein.",
+        "it": "Mi dispiace tanto, non volevo essere scortese.",
+        "pl": "Bardzo przepraszam, nie chciałem być niegrzeczny.",
+        "pt": "Me desculpe, não quis ser mal-educado.",
+        "nl": "Het spijt me echt, het was niet mijn bedoeling om onbeleefd te zijn.",
+        "hr": "Jako mi je žao, nije mi bila namjera nikoga uvrijediti.",
+        "tr": "Çok özür dilerim, kaba davranmak istemedim.",
+        "uk": "Мені дуже шкода, я не хотів бути неввічливим.",
+        "ar": "أنا آسف جدًا، لم أقصد أن أكون قليل الذوق.",
+        "hi": "मुझे बहुत अफ़सोस है, मेरा इरादा बदतमीज़ी करने का नहीं था।",
+        "vi": "Tôi thành thật xin lỗi, tôi không cố ý thất lễ.",
+        "id": "Maaf sekali, saya tidak bermaksud tidak sopan.",
+        "ms": "Saya minta maaf sangat, saya tidak berniat untuk bersikap biadab.",
+        "ko": "정말 죄송해요. 무례하게 굴려던 건 아니었어요."
+      },
+      "practice": "Lo siento mucho, no quise ser descortés.",
+      "practice_translations": {
+        "en": "I'm so sorry, I didn't mean to be rude.",
+        "es": "Lo siento mucho, no quise ser descortés.",
+        "ja": "本当に申し訳ありません。失礼なことをするつもりはなかったんです。",
+        "ko": "정말 죄송해요. 무례하게 굴려던 건 아니었어요."
+      }
+    },
+    {
+      "native": "Where I come from, we start eating right away.",
+      "native_translations": {
+        "en": "Where I come from, we start eating right away.",
+        "es": "De donde vengo, empezamos a comer enseguida.",
+        "fr": "Chez moi, on commence à manger tout de suite.",
+        "de": "Bei uns fängt man sofort an zu essen.",
+        "it": "Da dove vengo io, si comincia a mangiare subito.",
+        "pl": "U mnie w kraju zaczyna się jeść od razu.",
+        "pt": "De onde eu venho, a gente começa a comer logo.",
+        "nl": "Waar ik vandaan kom, beginnen we meteen met eten.",
+        "hr": "Tamo odakle dolazim, počinjemo jesti odmah.",
+        "tr": "Benim geldiğim yerde hemen yemeye başlarız.",
+        "uk": "У нас прийнято починати їсти одразу.",
+        "ar": "في بلدي، نبدأ الأكل فورًا.",
+        "hi": "हमारे यहाँ खाना आते ही हम खाना शुरू कर देते हैं।",
+        "vi": "Ở quê tôi, mọi người bắt đầu ăn ngay.",
+        "id": "Di tempat asal saya, kami langsung mulai makan.",
+        "ms": "Di tempat asal saya, kami terus mula makan.",
+        "ko": "저희 나라에서는 음식이 나오면 바로 먹기 시작하거든요."
+      },
+      "practice": "De donde vengo, empezamos a comer enseguida.",
+      "practice_translations": {
+        "en": "Where I come from, we start eating right away.",
+        "es": "De donde vengo, empezamos a comer enseguida.",
+        "ja": "私の国では、すぐに食べ始めるんです。",
+        "ko": "저희 나라에서는 음식이 나오면 바로 먹기 시작하거든요."
+      }
+    },
+    {
+      "native": "Could you tell me what's polite here?",
+      "native_translations": {
+        "en": "Could you tell me what's polite here?",
+        "es": "¿Podría decirme qué se considera educado aquí?",
+        "fr": "Pourriez-vous me dire ce qui se fait ici ?",
+        "de": "Könnten Sie mir sagen, was hier als höflich gilt?",
+        "it": "Potresti dirmi cosa è educato fare qui?",
+        "pl": "Czy możesz mi powiedzieć, co tu uchodzi za grzeczne?",
+        "pt": "Você poderia me dizer o que é considerado educado aqui?",
+        "nl": "Kun je me vertellen wat hier beleefd is?",
+        "hr": "Možete li mi reći što je ovdje pristojno?",
+        "tr": "Burada neyin kibarca olduğunu söyleyebilir misiniz?",
+        "uk": "Підкажіть, будь ласка, як тут заведено?",
+        "ar": "هل يمكنك أن تخبرني ما هو التصرف اللائق هنا؟",
+        "hi": "क्या आप बता सकते हैं कि यहाँ क्या शिष्टाचार माना जाता है?",
+        "vi": "Anh/chị cho tôi biết ở đây thế nào là lịch sự được không?",
+        "id": "Bisa beri tahu saya apa yang dianggap sopan di sini?",
+        "ms": "Boleh beritahu saya apa yang dianggap sopan di sini?",
+        "ko": "여기서는 어떻게 하는 게 예의인지 알려 주실 수 있어요?"
+      },
+      "practice": "¿Podría decirme qué se considera educado aquí?",
+      "practice_translations": {
+        "en": "Could you tell me what's polite here?",
+        "es": "¿Podría decirme qué se considera educado aquí?",
+        "ja": "こちらでは何が礼儀正しいのか教えていただけますか。",
+        "ko": "여기서는 어떻게 하는 게 예의인지 알려 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "I'd love to learn more about your customs.",
+      "native_translations": {
+        "en": "I'd love to learn more about your customs.",
+        "es": "Me encantaría aprender más sobre sus costumbres.",
+        "fr": "J'aimerais beaucoup en apprendre davantage sur vos coutumes.",
+        "de": "Ich würde gern mehr über Ihre Bräuche erfahren.",
+        "it": "Mi piacerebbe molto conoscere meglio le vostre usanze.",
+        "pl": "Chętnie dowiem się więcej o waszych zwyczajach.",
+        "pt": "Eu adoraria aprender mais sobre os seus costumes.",
+        "nl": "Ik wil graag meer leren over jullie gewoonten.",
+        "hr": "Jako me zanimaju vaši običaji.",
+        "tr": "Geleneklerinizi daha çok öğrenmeyi çok isterim.",
+        "uk": "Я б із радістю більше дізнався про ваші звичаї.",
+        "ar": "أود أن أتعلم المزيد عن عاداتكم.",
+        "hi": "मैं आपके रीति-रिवाज़ों के बारे में और जानना चाहूँगा।",
+        "vi": "Tôi rất muốn tìm hiểu thêm về phong tục của mọi người.",
+        "id": "Saya ingin belajar lebih banyak tentang kebiasaan di sini.",
+        "ms": "Saya ingin belajar lebih lanjut tentang adat anda.",
+        "ko": "여기 관습에 대해 더 배우고 싶어요."
+      },
+      "practice": "Me encantaría aprender más sobre sus costumbres.",
+      "practice_translations": {
+        "en": "I'd love to learn more about your customs.",
+        "es": "Me encantaría aprender más sobre sus costumbres.",
+        "ja": "こちらの習慣について、もっと知りたいです。",
+        "ko": "여기 관습에 대해 더 배우고 싶어요."
+      }
+    },
+    {
+      "native": "Please let me help with the dishes.",
+      "native_translations": {
+        "en": "Please let me help with the dishes.",
+        "es": "Por favor, déjeme ayudar a lavar los platos.",
+        "fr": "Laissez-moi vous aider à faire la vaisselle, s'il vous plaît.",
+        "de": "Lassen Sie mich bitte beim Abwasch helfen.",
+        "it": "Lasciami aiutare a lavare i piatti, per favore.",
+        "pl": "Pozwól, że pomogę ci pozmywać.",
+        "pt": "Por favor, deixe-me ajudar com a louça.",
+        "nl": "Laat me alsjeblieft helpen met de afwas.",
+        "hr": "Molim Vas, dopustite mi da pomognem oprati suđe.",
+        "tr": "Lütfen bulaşıklara yardım etmeme izin verin.",
+        "uk": "Дозвольте, я допоможу помити посуд.",
+        "ar": "اسمح لي أن أساعد في غسل الأطباق من فضلك.",
+        "hi": "प्लीज़, मुझे बर्तन धोने में मदद करने दीजिए।",
+        "vi": "Để tôi giúp rửa bát nhé.",
+        "id": "Izinkan saya membantu mencuci piring.",
+        "ms": "Biar saya tolong basuh pinggan.",
+        "ko": "설거지는 제가 도와드릴게요."
+      },
+      "practice": "Por favor, déjeme ayudar a lavar los platos.",
+      "practice_translations": {
+        "en": "Please let me help with the dishes.",
+        "es": "Por favor, déjeme ayudar a lavar los platos.",
+        "ja": "お皿洗いを手伝わせてください。",
+        "ko": "설거지는 제가 도와드릴게요."
+      }
+    }
+  ]
+}

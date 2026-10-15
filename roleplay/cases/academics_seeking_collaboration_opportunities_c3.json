@@ -1,0 +1,351 @@
+{
+  "id": "academics_seeking_collaboration_opportunities_c3",
+  "title": "Negotiating Authorship",
+  "title_translations": {
+    "en": "Negotiating Authorship",
+    "es": "Negociar la autoría",
+    "fr": "Négocier l'ordre des auteurs",
+    "de": "Streit um die Autorschaft",
+    "it": "Negoziare l'ordine degli autori",
+    "pl": "Negocjacje w sprawie autorstwa",
+    "pt": "Negociando a autoria",
+    "nl": "Onderhandelen over auteurschap",
+    "hr": "Pregovori o autorstvu",
+    "tr": "Yazar Sırasını Müzakere Etmek",
+    "uk": "Переговори про авторство",
+    "ar": "التفاوض على ترتيب المؤلفين",
+    "hi": "लेखकों के क्रम पर बातचीत",
+    "vi": "Thương lượng thứ tự tác giả",
+    "id": "Menegosiasikan Urutan Penulis",
+    "ms": "Merundingkan Kepengarangan",
+    "ko": "저자 순서 협상하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your collaborator (AI) wants to be first author on your joint paper, although you did most of the analysis.",
+  "scenario_translations": {
+    "en": "Your collaborator (AI) wants to be first author on your joint paper, although you did most of the analysis.",
+    "es": "Su colaborador (AI) quiere ser el primer autor del artículo conjunto, aunque usted hizo la mayor parte del análisis.",
+    "fr": "Votre collaborateur (AI) veut être premier auteur de votre article commun, alors que vous avez fait l'essentiel de l'analyse.",
+    "de": "Ihre Kooperationspartnerin bzw. Ihr Kooperationspartner (AI) möchte Erstautor Ihres gemeinsamen Artikels sein, obwohl Sie den Großteil der Analyse gemacht haben.",
+    "it": "Il tuo collaboratore (AI) vuole essere primo autore del vostro articolo comune, anche se hai fatto tu gran parte dell'analisi.",
+    "pl": "Twój współpracownik (AI) chce być pierwszym autorem waszego wspólnego artykułu, choć to ty wykonałeś większość analiz.",
+    "pt": "Seu colaborador (AI) quer ser o primeiro autor do artigo conjunto, embora você tenha feito a maior parte da análise.",
+    "nl": "Je samenwerkingspartner (AI) wil eerste auteur zijn van jullie gezamenlijke artikel, hoewel jij het grootste deel van de analyse hebt gedaan.",
+    "hr": "Tvoj suradnik (AI) želi biti prvi autor vašeg zajedničkog članka, iako je većina analize tvoj rad.",
+    "tr": "Analizin çoğunu siz yapmış olsanız da iş birliği yaptığınız kişi (AI) ortak makalenizde birinci yazar olmak istiyor.",
+    "uk": "Твій співавтор (AI) хоче бути першим автором вашої спільної статті, хоча більшу частину аналізу зробив ти.",
+    "ar": "يريد شريكك في البحث (AI) أن يكون المؤلف الأول لورقتكما المشتركة، رغم أنك قمت بمعظم التحليل.",
+    "hi": "आपके सहयोगी (AI) आपके साझा पेपर में पहले लेखक बनना चाहते हैं, जबकि ज़्यादातर विश्लेषण आपने किया है।",
+    "vi": "Người cộng tác (AI) muốn đứng tên tác giả chính trong bài báo chung, dù bạn là người làm phần lớn việc phân tích.",
+    "id": "Kolaboratormu (AI) ingin menjadi penulis pertama di makalah bersama kalian, padahal sebagian besar analisis kamu yang mengerjakan.",
+    "ms": "Rakan kolaborasi anda (AI) mahu menjadi pengarang pertama kertas kerja bersama anda, walaupun anda yang membuat kebanyakan analisis.",
+    "ko": "분석은 대부분 당신이 했는데, 공동 연구자(AI)가 공동 논문의 제1저자가 되고 싶어 해요."
+  },
+  "mission": {
+    "native": "Make the case for your contribution and agree on a fair author order.",
+    "native_translations": {
+      "en": "Make the case for your contribution and agree on a fair author order.",
+      "es": "Defienda su aporte y acuerden un orden de autores justo.",
+      "fr": "Faites valoir votre contribution et mettez-vous d'accord sur un ordre des auteurs équitable.",
+      "de": "Machen Sie Ihren Beitrag deutlich und einigen Sie sich auf eine faire Reihenfolge der Autoren.",
+      "it": "Fai valere il tuo contributo e concordate un ordine degli autori equo.",
+      "pl": "Przedstaw swój wkład i ustalcie sprawiedliwą kolejność autorów.",
+      "pt": "Defenda sua contribuição e cheguem a uma ordem de autoria justa.",
+      "nl": "Maak duidelijk wat jouw bijdrage is en spreek een eerlijke auteursvolgorde af.",
+      "hr": "Argumentiraj svoj doprinos i dogovori pošten redoslijed autora.",
+      "tr": "Katkınızı savunun ve adil bir yazar sırasında anlaşın.",
+      "uk": "Обґрунтуй свій внесок і домовся про справедливий порядок авторів.",
+      "ar": "دافع عن مساهمتك واتفق على ترتيب عادل للمؤلفين.",
+      "hi": "अपने योगदान की बात मज़बूती से रखिए और लेखकों के एक उचित क्रम पर सहमति बनाइए।",
+      "vi": "Nêu rõ đóng góp của bạn và thống nhất thứ tự tác giả công bằng.",
+      "id": "Tunjukkan kontribusimu dan sepakati urutan penulis yang adil.",
+      "ms": "Pertahankan sumbangan anda dan setuju tentang susunan pengarang yang adil.",
+      "ko": "자신의 기여를 주장하고 공정한 저자 순서에 합의하세요."
+    },
+    "practice": "Defienda su aporte y acuerden un orden de autores justo.",
+    "practice_translations": {
+      "en": "Make the case for your contribution and agree on a fair author order.",
+      "es": "Defienda su aporte y acuerden un orden de autores justo.",
+      "ja": "自分の貢献をきちんと主張して、公平な著者順を決めてください。",
+      "ko": "자신의 기여를 주장하고 공정한 저자 순서에 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Bring up the question of author order",
+        "native_translations": {
+          "en": "Bring up the question of author order",
+          "es": "Plantee el tema del orden de autores",
+          "fr": "Abordez la question de l'ordre des auteurs",
+          "de": "Sprechen Sie die Reihenfolge der Autoren an",
+          "it": "Solleva la questione dell'ordine degli autori",
+          "pl": "Poruszcie kwestię kolejności autorów",
+          "pt": "Levante a questão da ordem dos autores",
+          "nl": "Breng de auteursvolgorde ter sprake",
+          "hr": "Pokreni pitanje redoslijeda autora",
+          "tr": "Yazar sırası konusunu açın",
+          "uk": "Підніми питання порядку авторів",
+          "ar": "افتح موضوع ترتيب المؤلفين",
+          "hi": "लेखकों के क्रम का सवाल उठाइए",
+          "vi": "Nêu vấn đề thứ tự tác giả",
+          "id": "Angkat soal urutan penulis",
+          "ms": "Bangkitkan soal susunan pengarang",
+          "ko": "저자 순서 문제를 꺼내세요"
+        },
+        "practice": "Plantee el tema del orden de autores",
+        "practice_translations": {
+          "en": "Bring up the question of author order",
+          "es": "Plantee el tema del orden de autores",
+          "ja": "著者順の話を切り出してください",
+          "ko": "저자 순서 문제를 꺼내세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe your contribution to the paper",
+        "native_translations": {
+          "en": "Describe your contribution to the paper",
+          "es": "Describa su aporte al artículo",
+          "fr": "Décrivez votre contribution à l'article",
+          "de": "Beschreiben Sie Ihren Beitrag zum Artikel",
+          "it": "Descrivi il tuo contributo all'articolo",
+          "pl": "Opisz swój wkład w artykuł",
+          "pt": "Descreva sua contribuição para o artigo",
+          "nl": "Beschrijf je bijdrage aan het artikel",
+          "hr": "Opiši svoj doprinos članku",
+          "tr": "Makaleye katkınızı anlatın",
+          "uk": "Опиши свій внесок у статтю",
+          "ar": "صف مساهمتك في الورقة",
+          "hi": "पेपर में अपना योगदान बताइए",
+          "vi": "Mô tả đóng góp của bạn cho bài báo",
+          "id": "Jelaskan kontribusimu pada makalah",
+          "ms": "Terangkan sumbangan anda kepada kertas kerja",
+          "ko": "논문에 대한 자신의 기여를 설명하세요"
+        },
+        "practice": "Describa su aporte al artículo",
+        "practice_translations": {
+          "en": "Describe your contribution to the paper",
+          "es": "Describa su aporte al artículo",
+          "ja": "論文への自分の貢献を説明してください",
+          "ko": "논문에 대한 자신의 기여를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Propose a fair author order",
+        "native_translations": {
+          "en": "Propose a fair author order",
+          "es": "Proponga un orden de autores justo",
+          "fr": "Proposez un ordre des auteurs équitable",
+          "de": "Schlagen Sie eine faire Reihenfolge vor",
+          "it": "Proponi un ordine degli autori equo",
+          "pl": "Zaproponuj sprawiedliwą kolejność autorów",
+          "pt": "Proponha uma ordem de autoria justa",
+          "nl": "Stel een eerlijke auteursvolgorde voor",
+          "hr": "Predloži pošten redoslijed autora",
+          "tr": "Adil bir yazar sırası önerin",
+          "uk": "Запропонуй справедливий порядок авторів",
+          "ar": "اقترح ترتيبًا عادلًا للمؤلفين",
+          "hi": "लेखकों का एक उचित क्रम सुझाइए",
+          "vi": "Đề xuất một thứ tự tác giả công bằng",
+          "id": "Usulkan urutan penulis yang adil",
+          "ms": "Cadangkan susunan pengarang yang adil",
+          "ko": "공정한 저자 순서를 제안하세요"
+        },
+        "practice": "Proponga un orden de autores justo",
+        "practice_translations": {
+          "en": "Propose a fair author order",
+          "es": "Proponga un orden de autores justo",
+          "ja": "公平な著者順を提案してください",
+          "ko": "공정한 저자 순서를 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on the final author order",
+        "native_translations": {
+          "en": "Agree on the final author order",
+          "es": "Acuerden el orden final de autores",
+          "fr": "Mettez-vous d'accord sur l'ordre définitif des auteurs",
+          "de": "Einigen Sie sich auf die endgültige Reihenfolge",
+          "it": "Concordate l'ordine definitivo degli autori",
+          "pl": "Ustalcie ostateczną kolejność autorów",
+          "pt": "Combinem a ordem final dos autores",
+          "nl": "Spreek de definitieve auteursvolgorde af",
+          "hr": "Dogovori konačan redoslijed autora",
+          "tr": "Son yazar sırasında anlaşın",
+          "uk": "Домовтеся про остаточний порядок авторів",
+          "ar": "اتفق على الترتيب النهائي للمؤلفين",
+          "hi": "लेखकों के अंतिम क्रम पर सहमत होइए",
+          "vi": "Thống nhất thứ tự tác giả cuối cùng",
+          "id": "Sepakati urutan penulis akhir",
+          "ms": "Setuju tentang susunan pengarang muktamad",
+          "ko": "최종 저자 순서에 합의하세요"
+        },
+        "practice": "Acuerden el orden final de autores",
+        "practice_translations": {
+          "en": "Agree on the final author order",
+          "es": "Acuerden el orden final de autores",
+          "ja": "最終的な著者順を決めてください",
+          "ko": "최종 저자 순서에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Before we submit, can we talk about the author order?",
+      "native_translations": {
+        "en": "Before we submit, can we talk about the author order?",
+        "es": "Antes de enviarlo, ¿podemos hablar del orden de autores?",
+        "fr": "Avant de soumettre, peut-on parler de l'ordre des auteurs ?",
+        "de": "Bevor wir einreichen: Können wir über die Reihenfolge der Autoren sprechen?",
+        "it": "Prima di inviarlo, possiamo parlare dell'ordine degli autori?",
+        "pl": "Zanim wyślemy artykuł, możemy porozmawiać o kolejności autorów?",
+        "pt": "Antes de submeter, podemos conversar sobre a ordem dos autores?",
+        "nl": "Kunnen we het over de auteursvolgorde hebben voordat we het indienen?",
+        "hr": "Prije nego što predamo rad, možemo li razgovarati o redoslijedu autora?",
+        "tr": "Göndermeden önce yazar sırasını konuşabilir miyiz?",
+        "uk": "Перш ніж подавати статтю, можемо обговорити порядок авторів?",
+        "ar": "قبل أن نرسل الورقة، هل يمكننا التحدث عن ترتيب المؤلفين؟",
+        "hi": "सबमिट करने से पहले, क्या हम लेखकों के क्रम के बारे में बात कर सकते हैं?",
+        "vi": "Trước khi nộp bài, mình bàn về thứ tự tác giả được không?",
+        "id": "Sebelum kita kirim, bisakah kita bicara soal urutan penulis?",
+        "ms": "Sebelum kita hantar, boleh kita bincang tentang susunan pengarang?",
+        "ko": "투고하기 전에 저자 순서에 대해 이야기할 수 있을까요?"
+      },
+      "practice": "Antes de enviarlo, ¿podemos hablar del orden de autores?",
+      "practice_translations": {
+        "en": "Before we submit, can we talk about the author order?",
+        "es": "Antes de enviarlo, ¿podemos hablar del orden de autores?",
+        "ja": "投稿する前に、著者順について話し合えますか。",
+        "ko": "투고하기 전에 저자 순서에 대해 이야기할 수 있을까요?"
+      }
+    },
+    {
+      "native": "I did most of the analysis and wrote the results section.",
+      "native_translations": {
+        "en": "I did most of the analysis and wrote the results section.",
+        "es": "Yo hice la mayor parte del análisis y escribí la sección de resultados.",
+        "fr": "J'ai fait l'essentiel de l'analyse et rédigé la partie résultats.",
+        "de": "Ich habe den Großteil der Analyse gemacht und den Ergebnisteil geschrieben.",
+        "it": "Ho fatto gran parte dell'analisi e ho scritto la sezione dei risultati.",
+        "pl": "Zrobiłem większość analiz i napisałem część z wynikami.",
+        "pt": "Eu fiz a maior parte da análise e escrevi a seção de resultados.",
+        "nl": "Ik heb het grootste deel van de analyse gedaan en het resultatengedeelte geschreven.",
+        "hr": "Većina analize je moj rad, a moje je i poglavlje s rezultatima.",
+        "tr": "Analizin çoğunu ben yaptım ve bulgular bölümünü ben yazdım.",
+        "uk": "Я зробив більшу частину аналізу й написав розділ із результатами.",
+        "ar": "قمت بمعظم التحليل وكتبت قسم النتائج.",
+        "hi": "ज़्यादातर विश्लेषण मैंने किया है और नतीजों वाला हिस्सा भी मैंने लिखा है।",
+        "vi": "Tôi đã làm phần lớn việc phân tích và viết phần kết quả.",
+        "id": "Saya yang mengerjakan sebagian besar analisis dan menulis bagian hasil.",
+        "ms": "Saya yang membuat kebanyakan analisis dan menulis bahagian keputusan.",
+        "ko": "분석은 대부분 제가 했고 결과 부분도 제가 썼어요."
+      },
+      "practice": "Yo hice la mayor parte del análisis y escribí la sección de resultados.",
+      "practice_translations": {
+        "en": "I did most of the analysis and wrote the results section.",
+        "es": "Yo hice la mayor parte del análisis y escribí la sección de resultados.",
+        "ja": "分析のほとんどを私が行い、結果の章も書きました。",
+        "ko": "분석은 대부분 제가 했고 결과 부분도 제가 썼어요."
+      }
+    },
+    {
+      "native": "I really value your ideas and your guidance.",
+      "native_translations": {
+        "en": "I really value your ideas and your guidance.",
+        "es": "Valoro mucho sus ideas y su orientación.",
+        "fr": "J'apprécie vraiment vos idées et vos conseils.",
+        "de": "Ich schätze Ihre Ideen und Ihre Anleitung wirklich sehr.",
+        "it": "Apprezzo molto le tue idee e la tua guida.",
+        "pl": "Naprawdę cenię twoje pomysły i wskazówki.",
+        "pt": "Eu valorizo muito suas ideias e sua orientação.",
+        "nl": "Ik waardeer je ideeën en je begeleiding echt.",
+        "hr": "Zaista cijenim tvoje ideje i vodstvo.",
+        "tr": "Fikirlerinize ve rehberliğinize gerçekten çok değer veriyorum.",
+        "uk": "Я дуже ціную твої ідеї та поради.",
+        "ar": "أقدّر حقًا أفكارك وتوجيهك.",
+        "hi": "मैं आपके विचारों और आपके मार्गदर्शन की सच में क़द्र करता हूँ।",
+        "vi": "Tôi rất trân trọng ý tưởng và sự hướng dẫn của anh/chị.",
+        "id": "Saya sangat menghargai ide dan bimbingan Anda.",
+        "ms": "Saya sangat menghargai idea dan bimbingan anda.",
+        "ko": "선생님의 아이디어와 지도를 정말 소중하게 생각해요."
+      },
+      "practice": "Valoro mucho sus ideas y su orientación.",
+      "practice_translations": {
+        "en": "I really value your ideas and your guidance.",
+        "es": "Valoro mucho sus ideas y su orientación.",
+        "ja": "あなたのアイデアやご指導にはとても感謝しています。",
+        "ko": "선생님의 아이디어와 지도를 정말 소중하게 생각해요."
+      }
+    },
+    {
+      "native": "What if I'm first author and you're the corresponding author?",
+      "native_translations": {
+        "en": "What if I'm first author and you're the corresponding author?",
+        "es": "¿Qué le parece si yo soy primer autor y usted el autor de correspondencia?",
+        "fr": "Et si j'étais premier auteur et vous l'auteur correspondant ?",
+        "de": "Wie wäre es, wenn ich Erstautor bin und Sie korrespondierender Autor sind?",
+        "it": "E se io fossi primo autore e tu l'autore corrispondente?",
+        "pl": "A gdybym to ja był pierwszym autorem, a ty autorem korespondencyjnym?",
+        "pt": "E se eu for o primeiro autor e você o autor correspondente?",
+        "nl": "Wat als ik eerste auteur ben en jij corresponderend auteur?",
+        "hr": "Što kažeš da ja budem prvi autor, a ti autor za korespondenciju?",
+        "tr": "Ben birinci yazar olsam, siz de sorumlu yazar olsanız nasıl olur?",
+        "uk": "Що, як я буду першим автором, а ти — автором для листування?",
+        "ar": "ما رأيك أن أكون المؤلف الأول وتكون أنت المؤلف المراسل؟",
+        "hi": "अगर मैं पहला लेखक बनूँ और आप कॉरेस्पॉन्डिंग ऑथर, तो कैसा रहेगा?",
+        "vi": "Hay là tôi đứng tên tác giả chính, còn anh/chị là tác giả liên hệ?",
+        "id": "Bagaimana kalau saya penulis pertama dan Anda penulis korespondensi?",
+        "ms": "Bagaimana kalau saya jadi pengarang pertama dan anda pengarang koresponden?",
+        "ko": "제가 제1저자를 하고 선생님이 교신저자를 맡으시면 어떨까요?"
+      },
+      "practice": "¿Qué le parece si yo soy primer autor y usted el autor de correspondencia?",
+      "practice_translations": {
+        "en": "What if I'm first author and you're the corresponding author?",
+        "es": "¿Qué le parece si yo soy primer autor y usted el autor de correspondencia?",
+        "ja": "私が筆頭著者で、あなたが責任著者というのはどうでしょうか。",
+        "ko": "제가 제1저자를 하고 선생님이 교신저자를 맡으시면 어떨까요?"
+      }
+    },
+    {
+      "native": "On the next paper, we could switch the order.",
+      "native_translations": {
+        "en": "On the next paper, we could switch the order.",
+        "es": "En el próximo artículo podríamos invertir el orden.",
+        "fr": "Pour le prochain article, nous pourrions inverser l'ordre.",
+        "de": "Beim nächsten Artikel könnten wir die Reihenfolge tauschen.",
+        "it": "Nel prossimo articolo potremmo invertire l'ordine.",
+        "pl": "Przy następnym artykule możemy zamienić kolejność.",
+        "pt": "No próximo artigo, podemos inverter a ordem.",
+        "nl": "Bij het volgende artikel kunnen we de volgorde omdraaien.",
+        "hr": "U sljedećem radu možemo zamijeniti redoslijed.",
+        "tr": "Bir sonraki makalede sırayı değiştirebiliriz.",
+        "uk": "У наступній статті ми могли б помінятися місцями.",
+        "ar": "في الورقة القادمة، يمكننا تبديل الترتيب.",
+        "hi": "अगले पेपर में हम क्रम बदल सकते हैं।",
+        "vi": "Ở bài báo sau, mình có thể đổi thứ tự.",
+        "id": "Di makalah berikutnya, kita bisa menukar urutannya.",
+        "ms": "Untuk kertas kerja seterusnya, kita boleh tukar susunannya.",
+        "ko": "다음 논문에서는 순서를 바꿀 수도 있어요."
+      },
+      "practice": "En el próximo artículo podríamos invertir el orden.",
+      "practice_translations": {
+        "en": "On the next paper, we could switch the order.",
+        "es": "En el próximo artículo podríamos invertir el orden.",
+        "ja": "次の論文では、順番を入れ替えることもできます。",
+        "ko": "다음 논문에서는 순서를 바꿀 수도 있어요."
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "work_reporting_progress_to_a_manager_c2",
+  "title": "Running Behind Schedule",
+  "title_translations": {
+    "en": "Running Behind Schedule",
+    "es": "Atrasos en el cronograma",
+    "fr": "En retard sur le planning",
+    "de": "Im Verzug",
+    "it": "In ritardo sulla tabella di marcia",
+    "pl": "Opóźnienie w harmonogramie",
+    "pt": "Atrasado no cronograma",
+    "nl": "Achter op schema",
+    "hr": "Kašnjenje s rokom",
+    "tr": "Programın Gerisinde Kalmak",
+    "uk": "Відставання від графіка",
+    "ar": "متأخر عن الجدول الزمني",
+    "hi": "शेड्यूल से पीछे",
+    "vi": "Chậm tiến độ",
+    "id": "Terlambat dari Jadwal",
+    "ms": "Ketinggalan Jadual",
+    "ko": "일정이 밀렸어요"
+  },
+  "character": "fox",
+  "scenario": "Your project is two days behind. Before an important client call, your manager (AI) asks you for a status update.",
+  "scenario_translations": {
+    "en": "Your project is two days behind. Before an important client call, your manager (AI) asks you for a status update.",
+    "es": "Su proyecto lleva dos días de retraso. Antes de una llamada importante con un cliente, su gerente (AI) le pide un informe de estado.",
+    "fr": "Votre projet a deux jours de retard. Avant un appel important avec un client, votre responsable (AI) vous demande où vous en êtes.",
+    "de": "Ihr Projekt liegt zwei Tage im Rückstand. Vor einem wichtigen Kundentermin bittet Ihre Vorgesetzte (AI) Sie um einen Statusbericht.",
+    "it": "Il tuo progetto è in ritardo di due giorni. Prima di un'importante chiamata con un cliente, il tuo responsabile (AI) ti chiede un aggiornamento.",
+    "pl": "Twój projekt ma dwa dni opóźnienia. Przed ważną rozmową z klientem kierownik (AI) prosi cię o aktualny status.",
+    "pt": "Seu projeto está dois dias atrasado. Antes de uma ligação importante com um cliente, seu gestor (AI) pede uma atualização.",
+    "nl": "Je project loopt twee dagen achter. Voor een belangrijk klantgesprek vraagt je manager (AI) je om een statusupdate.",
+    "hr": "Tvoj projekt kasni dva dana. Prije važnog poziva s klijentom nadređeni (AI) traži od tebe izvještaj o stanju.",
+    "tr": "Projeniz iki gün geride. Önemli bir müşteri görüşmesinden önce yöneticiniz (AI) sizden son durumu istiyor.",
+    "uk": "Твій проєкт відстає на два дні. Перед важливим дзвінком із клієнтом керівник (AI) просить тебе розповісти, як справи.",
+    "ar": "مشروعك متأخر يومين. قبل مكالمة مهمة مع أحد العملاء، يطلب منك مديرك (AI) تحديثًا عن سير العمل.",
+    "hi": "आपका प्रोजेक्ट दो दिन पीछे चल रहा है। एक ज़रूरी क्लाइंट कॉल से पहले आपके मैनेजर (AI) आपसे स्टेटस अपडेट माँगते हैं।",
+    "vi": "Dự án của bạn đang chậm hai ngày. Trước một cuộc gọi quan trọng với khách hàng, quản lý (AI) hỏi bạn về tình hình.",
+    "id": "Proyekmu terlambat dua hari. Sebelum telepon penting dengan klien, manajermu (AI) meminta kabar terbaru.",
+    "ms": "Projek anda lewat dua hari. Sebelum panggilan penting dengan pelanggan, pengurus anda (AI) meminta kemas kini status.",
+    "ko": "프로젝트가 이틀 늦어졌어요. 중요한 고객 통화를 앞두고 매니저(AI)가 진행 상황을 물어봅니다."
+  },
+  "mission": {
+    "native": "Explain the delay honestly and give your manager a realistic new plan.",
+    "native_translations": {
+      "en": "Explain the delay honestly and give your manager a realistic new plan.",
+      "es": "Explique el retraso con honestidad y dé a su gerente un nuevo plan realista.",
+      "fr": "Expliquez honnêtement le retard et proposez à votre responsable un nouveau plan réaliste.",
+      "de": "Erklären Sie die Verzögerung ehrlich und legen Sie Ihrer Vorgesetzten einen realistischen neuen Plan vor.",
+      "it": "Spiega il ritardo con sincerità e dai al tuo responsabile un nuovo piano realistico.",
+      "pl": "Szczerze wyjaśnij opóźnienie i przedstaw kierownikowi realistyczny nowy plan.",
+      "pt": "Explique o atraso com honestidade e apresente ao seu gestor um novo plano realista.",
+      "nl": "Leg de vertraging eerlijk uit en geef je manager een realistisch nieuw plan.",
+      "hr": "Iskreno objasni kašnjenje i daj nadređenom realan novi plan.",
+      "tr": "Gecikmeyi dürüstçe açıklayın ve yöneticinize gerçekçi yeni bir plan sunun.",
+      "uk": "Чесно поясни затримку й дай керівникові реалістичний новий план.",
+      "ar": "اشرح التأخير بصدق وقدّم لمديرك خطة جديدة واقعية.",
+      "hi": "ईमानदारी से देरी की वजह बताइए और मैनेजर को एक असली नई योजना दीजिए।",
+      "vi": "Thành thật giải thích lý do chậm trễ và đưa ra kế hoạch mới sát thực tế.",
+      "id": "Jelaskan keterlambatannya dengan jujur dan berikan rencana baru yang realistis kepada manajermu.",
+      "ms": "Terangkan kelewatan dengan jujur dan beri pengurus anda pelan baharu yang realistik.",
+      "ko": "지연된 이유를 솔직하게 설명하고 매니저에게 현실적인 새 계획을 제시하세요."
+    },
+    "practice": "Explique el retraso con honestidad y dé a su gerente un nuevo plan realista.",
+    "practice_translations": {
+      "en": "Explain the delay honestly and give your manager a realistic new plan.",
+      "es": "Explique el retraso con honestidad y dé a su gerente un nuevo plan realista.",
+      "ja": "遅れについて正直に説明し、上司に現実的な新しい計画を示してください。",
+      "ko": "지연된 이유를 솔직하게 설명하고 매니저에게 현실적인 새 계획을 제시하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Admit the project is behind schedule",
+        "native_translations": {
+          "en": "Admit the project is behind schedule",
+          "es": "Admita que el proyecto está atrasado",
+          "fr": "Reconnaissez que le projet a pris du retard",
+          "de": "Geben Sie zu, dass das Projekt im Verzug ist",
+          "it": "Ammetti che il progetto è in ritardo",
+          "pl": "Przyznaj, że projekt jest opóźniony",
+          "pt": "Admita que o projeto está atrasado",
+          "nl": "Geef toe dat het project achterloopt",
+          "hr": "Priznaj da projekt kasni",
+          "tr": "Projenin programın gerisinde olduğunu kabul edin",
+          "uk": "Визнай, що проєкт відстає від графіка",
+          "ar": "اعترف بأن المشروع متأخر عن الجدول",
+          "hi": "मानिए कि प्रोजेक्ट शेड्यूल से पीछे है",
+          "vi": "Thừa nhận dự án đang chậm tiến độ",
+          "id": "Akui bahwa proyeknya terlambat dari jadwal",
+          "ms": "Akui bahawa projek ketinggalan jadual",
+          "ko": "프로젝트가 일정보다 늦어졌다고 인정하세요"
+        },
+        "practice": "Admita que el proyecto está atrasado",
+        "practice_translations": {
+          "en": "Admit the project is behind schedule",
+          "es": "Admita que el proyecto está atrasado",
+          "ja": "プロジェクトが予定より遅れていると認めてください",
+          "ko": "프로젝트가 일정보다 늦어졌다고 인정하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain the reason for the delay",
+        "native_translations": {
+          "en": "Explain the reason for the delay",
+          "es": "Explique el motivo del retraso",
+          "fr": "Expliquez la raison du retard",
+          "de": "Erklären Sie den Grund für die Verzögerung",
+          "it": "Spiega il motivo del ritardo",
+          "pl": "Wyjaśnij przyczynę opóźnienia",
+          "pt": "Explique o motivo do atraso",
+          "nl": "Leg de reden voor de vertraging uit",
+          "hr": "Objasni razlog kašnjenja",
+          "tr": "Gecikmenin nedenini açıklayın",
+          "uk": "Поясни причину затримки",
+          "ar": "اشرح سبب التأخير",
+          "hi": "देरी की वजह बताइए",
+          "vi": "Giải thích lý do chậm trễ",
+          "id": "Jelaskan alasan keterlambatannya",
+          "ms": "Terangkan sebab kelewatan",
+          "ko": "지연된 이유를 설명하세요"
+        },
+        "practice": "Explique el motivo del retraso",
+        "practice_translations": {
+          "en": "Explain the reason for the delay",
+          "es": "Explique el motivo del retraso",
+          "ja": "遅れた理由を説明してください",
+          "ko": "지연된 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Give a realistic new finish date",
+        "native_translations": {
+          "en": "Give a realistic new finish date",
+          "es": "Dé una nueva fecha de entrega realista",
+          "fr": "Donnez une nouvelle date de fin réaliste",
+          "de": "Nennen Sie einen realistischen neuen Fertigstellungstermin",
+          "it": "Indica una nuova data di consegna realistica",
+          "pl": "Podaj realistyczny nowy termin zakończenia",
+          "pt": "Dê uma nova data de entrega realista",
+          "nl": "Geef een realistische nieuwe einddatum",
+          "hr": "Navedi realan novi datum završetka",
+          "tr": "Gerçekçi yeni bir bitiş tarihi verin",
+          "uk": "Назви реалістичну нову дату завершення",
+          "ar": "حدّد موعدًا جديدًا واقعيًا للإنجاز",
+          "hi": "पूरा करने की एक असली नई तारीख़ बताइए",
+          "vi": "Đưa ra ngày hoàn thành mới sát thực tế",
+          "id": "Sebutkan tanggal selesai baru yang realistis",
+          "ms": "Beri tarikh siap baharu yang realistik",
+          "ko": "현실적인 새 완료 날짜를 말하세요"
+        },
+        "practice": "Dé una nueva fecha de entrega realista",
+        "practice_translations": {
+          "en": "Give a realistic new finish date",
+          "es": "Dé una nueva fecha de entrega realista",
+          "ja": "現実的な新しい完了日を伝えてください",
+          "ko": "현실적인 새 완료 날짜를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Say how you will catch up",
+        "native_translations": {
+          "en": "Say how you will catch up",
+          "es": "Diga cómo se va a poner al día",
+          "fr": "Dites comment vous allez rattraper le retard",
+          "de": "Sagen Sie, wie Sie den Rückstand aufholen",
+          "it": "Di' come recupererai il ritardo",
+          "pl": "Powiedz, jak nadrobisz zaległości",
+          "pt": "Diga como você vai recuperar o atraso",
+          "nl": "Zeg hoe je de achterstand gaat inhalen",
+          "hr": "Reci kako ćeš nadoknaditi zaostatak",
+          "tr": "Aradaki farkı nasıl kapatacağınızı söyleyin",
+          "uk": "Скажи, як ти наздоженеш графік",
+          "ar": "قل كيف ستعوّض التأخير",
+          "hi": "बताइए कि आप पिछड़ा काम कैसे पूरा करेंगे",
+          "vi": "Nói bạn sẽ bắt kịp tiến độ thế nào",
+          "id": "Jelaskan bagaimana kamu akan mengejar ketertinggalan",
+          "ms": "Nyatakan cara anda akan mengejar semula",
+          "ko": "어떻게 따라잡을지 말하세요"
+        },
+        "practice": "Diga cómo se va a poner al día",
+        "practice_translations": {
+          "en": "Say how you will catch up",
+          "es": "Diga cómo se va a poner al día",
+          "ja": "どうやって遅れを取り戻すか伝えてください",
+          "ko": "어떻게 따라잡을지 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I have to be honest: we're about two days behind.",
+      "native_translations": {
+        "en": "I have to be honest: we're about two days behind.",
+        "es": "Tengo que ser honesto: vamos unos dos días atrasados.",
+        "fr": "Je dois être honnête : nous avons environ deux jours de retard.",
+        "de": "Ich muss ehrlich sein: Wir liegen etwa zwei Tage zurück.",
+        "it": "Devo essere sincero: siamo indietro di circa due giorni.",
+        "pl": "Muszę być szczery: mamy około dwóch dni opóźnienia.",
+        "pt": "Preciso ser sincero: estamos uns dois dias atrasados.",
+        "nl": "Ik moet eerlijk zijn: we lopen ongeveer twee dagen achter.",
+        "hr": "Moram biti iskren: kasnimo otprilike dva dana.",
+        "tr": "Dürüst olmam gerekirse, yaklaşık iki gün gerideyiz.",
+        "uk": "Мушу бути чесним: ми відстаємо приблизно на два дні.",
+        "ar": "يجب أن أكون صريحًا: نحن متأخرون يومين تقريبًا.",
+        "hi": "मुझे ईमानदारी से कहना होगा: हम लगभग दो दिन पीछे हैं।",
+        "vi": "Tôi phải thành thật: chúng ta đang chậm khoảng hai ngày.",
+        "id": "Saya harus jujur: kita terlambat sekitar dua hari.",
+        "ms": "Saya perlu berterus terang: kita lewat kira-kira dua hari.",
+        "ko": "솔직히 말씀드리면, 이틀 정도 늦어졌어요."
+      },
+      "practice": "Tengo que ser honesto: vamos unos dos días atrasados.",
+      "practice_translations": {
+        "en": "I have to be honest: we're about two days behind.",
+        "es": "Tengo que ser honesto: vamos unos dos días atrasados.",
+        "ja": "正直に申し上げますと、2日ほど遅れています。",
+        "ko": "솔직히 말씀드리면, 이틀 정도 늦어졌어요."
+      }
+    },
+    {
+      "native": "The delay happened because we were waiting for the client's data.",
+      "native_translations": {
+        "en": "The delay happened because we were waiting for the client's data.",
+        "es": "El retraso se debió a que estábamos esperando los datos del cliente.",
+        "fr": "Le retard vient du fait que nous attendions les données du client.",
+        "de": "Die Verzögerung kam, weil wir auf die Daten des Kunden gewartet haben.",
+        "it": "Il ritardo c'è stato perché aspettavamo i dati del cliente.",
+        "pl": "Opóźnienie wynika z tego, że czekaliśmy na dane od klienta.",
+        "pt": "O atraso aconteceu porque estávamos esperando os dados do cliente.",
+        "nl": "De vertraging kwam doordat we op de data van de klant moesten wachten.",
+        "hr": "Do kašnjenja je došlo jer smo čekali klijentove podatke.",
+        "tr": "Gecikme, müşterinin verilerini beklediğimiz için oldu.",
+        "uk": "Затримка сталася, бо ми чекали на дані від клієнта.",
+        "ar": "حدث التأخير لأننا كنا ننتظر بيانات العميل.",
+        "hi": "देरी इसलिए हुई क्योंकि हम क्लाइंट के डेटा का इंतज़ार कर रहे थे।",
+        "vi": "Việc chậm trễ là do chúng tôi phải chờ dữ liệu từ khách hàng.",
+        "id": "Keterlambatannya terjadi karena kita menunggu data dari klien.",
+        "ms": "Kelewatan berlaku kerana kami menunggu data daripada pelanggan.",
+        "ko": "고객 데이터를 기다리느라 늦어졌어요."
+      },
+      "practice": "El retraso se debió a que estábamos esperando los datos del cliente.",
+      "practice_translations": {
+        "en": "The delay happened because we were waiting for the client's data.",
+        "es": "El retraso se debió a que estábamos esperando los datos del cliente.",
+        "ja": "クライアントからのデータを待っていたため、遅れが出てしまいました。",
+        "ko": "고객 데이터를 기다리느라 늦어졌어요."
+      }
+    },
+    {
+      "native": "I can have it ready by Thursday at the latest.",
+      "native_translations": {
+        "en": "I can have it ready by Thursday at the latest.",
+        "es": "Puedo tenerlo listo a más tardar el jueves.",
+        "fr": "Je peux le terminer jeudi au plus tard.",
+        "de": "Ich kann es spätestens bis Donnerstag fertig haben.",
+        "it": "Posso averlo pronto al più tardi entro giovedì.",
+        "pl": "Mogę to mieć gotowe najpóźniej w czwartek.",
+        "pt": "Consigo deixar pronto até quinta, no máximo.",
+        "nl": "Uiterlijk donderdag kan ik het klaar hebben.",
+        "hr": "Mogu to pripremiti najkasnije do četvrtka.",
+        "tr": "En geç perşembeye hazır edebilirim.",
+        "uk": "Я можу підготувати все найпізніше до четверга.",
+        "ar": "يمكنني إنهاؤه بحلول يوم الخميس على أقصى تقدير.",
+        "hi": "मैं इसे ज़्यादा से ज़्यादा गुरुवार तक तैयार कर सकता हूँ।",
+        "vi": "Muộn nhất là thứ Năm tôi sẽ hoàn thành.",
+        "id": "Saya bisa menyelesaikannya paling lambat hari Kamis.",
+        "ms": "Saya boleh siapkannya paling lewat pada hari Khamis.",
+        "ko": "늦어도 목요일까지는 준비할 수 있어요."
+      },
+      "practice": "Puedo tenerlo listo a más tardar el jueves.",
+      "practice_translations": {
+        "en": "I can have it ready by Thursday at the latest.",
+        "es": "Puedo tenerlo listo a más tardar el jueves.",
+        "ja": "遅くとも木曜日までには仕上げられます。",
+        "ko": "늦어도 목요일까지는 준비할 수 있어요."
+      }
+    },
+    {
+      "native": "I'll stay focused on the main features to catch up.",
+      "native_translations": {
+        "en": "I'll stay focused on the main features to catch up.",
+        "es": "Me voy a concentrar en las funciones principales para ponerme al día.",
+        "fr": "Je vais me concentrer sur les fonctionnalités principales pour rattraper le retard.",
+        "de": "Ich konzentriere mich auf die Hauptfunktionen, um aufzuholen.",
+        "it": "Mi concentrerò sulle funzionalità principali per recuperare.",
+        "pl": "Żeby nadrobić, skupię się na głównych funkcjach.",
+        "pt": "Vou me concentrar nas funcionalidades principais para recuperar o atraso.",
+        "nl": "Om de achterstand in te halen, focus ik op de belangrijkste functies.",
+        "hr": "Usredotočit ću se na glavne funkcije da nadoknadim zaostatak.",
+        "tr": "Açığı kapatmak için ana özelliklere odaklanacağım.",
+        "uk": "Щоб надолужити, я зосереджуся на головних функціях.",
+        "ar": "سأركّز على الميزات الرئيسية لتعويض التأخير.",
+        "hi": "पिछड़ा काम पूरा करने के लिए मैं मुख्य फ़ीचर्स पर ध्यान दूँगा।",
+        "vi": "Tôi sẽ tập trung vào các tính năng chính để bắt kịp tiến độ.",
+        "id": "Saya akan fokus pada fitur utama untuk mengejar ketertinggalan.",
+        "ms": "Saya akan fokus pada ciri utama untuk mengejar semula.",
+        "ko": "따라잡기 위해 주요 기능에 집중할게요."
+      },
+      "practice": "Me voy a concentrar en las funciones principales para ponerme al día.",
+      "practice_translations": {
+        "en": "I'll stay focused on the main features to catch up.",
+        "es": "Me voy a concentrar en las funciones principales para ponerme al día.",
+        "ja": "遅れを取り戻すため、主な機能に集中して取り組みます。",
+        "ko": "따라잡기 위해 주요 기능에 집중할게요."
+      }
+    }
+  ]
+}

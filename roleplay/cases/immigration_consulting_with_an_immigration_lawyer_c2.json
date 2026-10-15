@@ -1,0 +1,350 @@
+{
+  "id": "immigration_consulting_with_an_immigration_lawyer_c2",
+  "title": "Getting Your Papers Together",
+  "title_translations": {
+    "en": "Getting Your Papers Together",
+    "es": "Reunir sus documentos",
+    "fr": "Rassembler vos papiers",
+    "de": "Die Unterlagen zusammenstellen",
+    "it": "Mettere insieme i documenti",
+    "pl": "Kompletowanie dokumentów",
+    "pt": "Reunindo seus documentos",
+    "nl": "Je papieren op orde brengen",
+    "hr": "Priprema dokumenata",
+    "tr": "Evraklarınızı Hazırlamak",
+    "uk": "Збираємо документи",
+    "ar": "تجهيز أوراقك",
+    "hi": "अपने काग़ज़ात तैयार करना",
+    "vi": "Chuẩn bị giấy tờ",
+    "id": "Menyiapkan Dokumenmu",
+    "ms": "Menyediakan Dokumen Anda",
+    "ko": "서류 준비하기"
+  },
+  "character": "fox",
+  "scenario": "The immigration lawyer (AI) gives you a list of documents to bring for your application, but you are not sure about some of them.",
+  "scenario_translations": {
+    "en": "The immigration lawyer (AI) gives you a list of documents to bring for your application, but you are not sure about some of them.",
+    "es": "El abogado de inmigración (AI) le da una lista de documentos para su solicitud, pero usted tiene dudas sobre algunos.",
+    "fr": "L'avocat spécialisé en immigration (AI) vous donne une liste de documents à fournir pour votre demande, mais certains vous laissent perplexe.",
+    "de": "Ihre Anwältin bzw. Ihr Anwalt für Einwanderungsrecht (AI) gibt Ihnen eine Liste mit Unterlagen für Ihren Antrag, aber bei einigen sind Sie unsicher.",
+    "it": "L'avvocato per l'immigrazione (AI) ti dà un elenco di documenti da portare per la domanda, ma su alcuni hai dei dubbi.",
+    "pl": "Prawniczka imigracyjna (AI) daje ci listę dokumentów do wniosku, ale co do niektórych nie masz pewności.",
+    "pt": "O advogado de imigração (AI) entrega a você uma lista de documentos para levar para o seu pedido, mas você tem dúvidas sobre alguns deles.",
+    "nl": "De immigratieadvocaat (AI) geeft je een lijst met documenten voor je aanvraag, maar over sommige twijfel je.",
+    "hr": "Imigracijski odvjetnik (AI) daje ti popis dokumenata koje trebaš donijeti za zahtjev, ali neki od njih nisu ti posve jasni.",
+    "tr": "Göçmenlik avukatı (AI) başvurunuz için getirmeniz gereken belgelerin bir listesini veriyor, ama bazılarından emin değilsiniz.",
+    "uk": "Імміграційний юрист (AI) дає тобі список документів для заяви, але щодо деяких із них ти не впевнений.",
+    "ar": "يعطيك محامي الهجرة (AI) قائمة بالمستندات التي يجب إحضارها لطلبك، لكنك غير متأكد من بعضها.",
+    "hi": "इमिग्रेशन वकील (AI) आपको आवेदन के लिए लाने वाले दस्तावेज़ों की एक सूची देते हैं, लेकिन उनमें से कुछ के बारे में आपको पक्का नहीं पता।",
+    "vi": "Luật sư di trú (AI) đưa bạn danh sách giấy tờ cần mang cho hồ sơ, nhưng có vài loại bạn chưa chắc lắm.",
+    "id": "Pengacara imigrasi (AI) memberimu daftar dokumen yang harus dibawa untuk permohonanmu, tapi kamu ragu soal beberapa di antaranya.",
+    "ms": "Peguam imigresen (AI) memberi anda senarai dokumen untuk dibawa bagi permohonan anda, tetapi anda kurang pasti tentang sebahagian daripadanya.",
+    "ko": "이민 변호사(AI)가 신청에 필요한 서류 목록을 주었는데, 그중 몇 가지는 잘 모르겠습니다."
+  },
+  "mission": {
+    "native": "Clear up your doubts about the documents and confirm when you will bring them.",
+    "native_translations": {
+      "en": "Clear up your doubts about the documents and confirm when you will bring them.",
+      "es": "Aclare sus dudas sobre los documentos y confirme cuándo los va a traer.",
+      "fr": "Levez vos doutes sur les documents et confirmez quand vous les apporterez.",
+      "de": "Klären Sie Ihre Fragen zu den Unterlagen und bestätigen Sie, wann Sie sie bringen.",
+      "it": "Chiarisci i tuoi dubbi sui documenti e conferma quando li porterai.",
+      "pl": "Rozwiej wątpliwości co do dokumentów i potwierdź, kiedy je przyniesiesz.",
+      "pt": "Tire suas dúvidas sobre os documentos e confirme quando você vai levá-los.",
+      "nl": "Neem je twijfels over de documenten weg en bevestig wanneer je ze komt brengen.",
+      "hr": "Razjasni nedoumice oko dokumenata i potvrdi kada ćeš ih donijeti.",
+      "tr": "Belgelerle ilgili şüphelerinizi giderin ve onları ne zaman getireceğinizi teyit edin.",
+      "uk": "Розвій сумніви щодо документів і підтверди, коли ти їх принесеш.",
+      "ar": "بدّد شكوكك بشأن المستندات وأكّد موعد إحضارها.",
+      "hi": "दस्तावेज़ों से जुड़े अपने संदेह दूर कीजिए और पक्का कीजिए कि आप उन्हें कब लाएँगे।",
+      "vi": "Giải đáp thắc mắc về giấy tờ và xác nhận khi nào bạn sẽ mang đến.",
+      "id": "Hilangkan keraguanmu soal dokumen dan konfirmasi kapan kamu akan membawanya.",
+      "ms": "Jelaskan keraguan anda tentang dokumen dan sahkan bila anda akan membawanya.",
+      "ko": "서류에 대한 궁금한 점을 해결하고 언제 가져올지 확정하세요."
+    },
+    "practice": "Aclare sus dudas sobre los documentos y confirme cuándo los va a traer.",
+    "practice_translations": {
+      "en": "Clear up your doubts about the documents and confirm when you will bring them.",
+      "es": "Aclare sus dudas sobre los documentos y confirme cuándo los va a traer.",
+      "ja": "書類についての疑問を解消して、いつ持っていくか確認してください。",
+      "ko": "서류에 대한 궁금한 점을 해결하고 언제 가져올지 확정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask which documents you need to bring",
+        "native_translations": {
+          "en": "Ask which documents you need to bring",
+          "es": "Pregunte qué documentos necesita traer",
+          "fr": "Demandez quels documents vous devez apporter",
+          "de": "Fragen Sie, welche Unterlagen Sie mitbringen müssen",
+          "it": "Chiedi quali documenti devi portare",
+          "pl": "Zapytaj, jakie dokumenty musisz przynieść",
+          "pt": "Pergunte quais documentos você precisa levar",
+          "nl": "Vraag welke documenten je moet meenemen",
+          "hr": "Pitaj koje dokumente trebaš donijeti",
+          "tr": "Hangi belgeleri getirmeniz gerektiğini sorun",
+          "uk": "Запитай, які документи потрібно принести",
+          "ar": "اسأل عن المستندات التي يجب إحضارها",
+          "hi": "पूछिए कि कौन-से दस्तावेज़ लाने हैं",
+          "vi": "Hỏi cần mang những giấy tờ nào",
+          "id": "Tanyakan dokumen apa saja yang harus dibawa",
+          "ms": "Tanya dokumen mana yang perlu dibawa",
+          "ko": "어떤 서류를 가져와야 하는지 물어보세요"
+        },
+        "practice": "Pregunte qué documentos necesita traer",
+        "practice_translations": {
+          "en": "Ask which documents you need to bring",
+          "es": "Pregunte qué documentos necesita traer",
+          "ja": "どの書類を持っていく必要があるか聞いてください",
+          "ko": "어떤 서류를 가져와야 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what to do if one is missing",
+        "native_translations": {
+          "en": "Ask what to do if one is missing",
+          "es": "Pregunte qué hacer si le falta uno",
+          "fr": "Demandez quoi faire s'il en manque un",
+          "de": "Fragen Sie, was zu tun ist, wenn eine fehlt",
+          "it": "Chiedi cosa fare se ne manca uno",
+          "pl": "Zapytaj, co zrobić, jeśli jednego brakuje",
+          "pt": "Pergunte o que fazer se faltar algum",
+          "nl": "Vraag wat je moet doen als er een ontbreekt",
+          "hr": "Pitaj što učiniti ako neki nedostaje",
+          "tr": "Biri eksikse ne yapmanız gerektiğini sorun",
+          "uk": "Запитай, що робити, якщо якогось бракує",
+          "ar": "اسأل ماذا تفعل إذا كان أحدها مفقودًا",
+          "hi": "पूछिए कि कोई दस्तावेज़ न हो तो क्या करें",
+          "vi": "Hỏi phải làm gì nếu thiếu một loại giấy tờ",
+          "id": "Tanyakan apa yang harus dilakukan jika ada yang hilang",
+          "ms": "Tanya apa perlu dibuat jika satu dokumen tiada",
+          "ko": "서류 하나가 없으면 어떻게 해야 하는지 물어보세요"
+        },
+        "practice": "Pregunte qué hacer si le falta uno",
+        "practice_translations": {
+          "en": "Ask what to do if one is missing",
+          "es": "Pregunte qué hacer si le falta uno",
+          "ja": "書類が一つ足りない場合どうすればいいか聞いてください",
+          "ko": "서류 하나가 없으면 어떻게 해야 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if documents need translations",
+        "native_translations": {
+          "en": "Ask if documents need translations",
+          "es": "Pregunte si los documentos necesitan traducción",
+          "fr": "Demandez si les documents doivent être traduits",
+          "de": "Fragen Sie, ob Unterlagen übersetzt werden müssen",
+          "it": "Chiedi se i documenti vanno tradotti",
+          "pl": "Zapytaj, czy dokumenty wymagają tłumaczenia",
+          "pt": "Pergunte se os documentos precisam de tradução",
+          "nl": "Vraag of documenten vertaald moeten worden",
+          "hr": "Pitaj trebaju li dokumenti prijevod",
+          "tr": "Belgelerin tercüme edilmesi gerekip gerekmediğini sorun",
+          "uk": "Запитай, чи потрібен переклад документів",
+          "ar": "اسأل إن كانت المستندات تحتاج إلى ترجمة",
+          "hi": "पूछिए कि क्या दस्तावेज़ों का अनुवाद चाहिए",
+          "vi": "Hỏi giấy tờ có cần dịch không",
+          "id": "Tanyakan apakah dokumen perlu diterjemahkan",
+          "ms": "Tanya sama ada dokumen perlu diterjemahkan",
+          "ko": "서류를 번역해야 하는지 물어보세요"
+        },
+        "practice": "Pregunte si los documentos necesitan traducción",
+        "practice_translations": {
+          "en": "Ask if documents need translations",
+          "es": "Pregunte si los documentos necesitan traducción",
+          "ja": "書類に翻訳が必要か聞いてください",
+          "ko": "서류를 번역해야 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Confirm the date to bring them",
+        "native_translations": {
+          "en": "Confirm the date to bring them",
+          "es": "Confirme la fecha para traerlos",
+          "fr": "Confirmez la date à laquelle vous les apporterez",
+          "de": "Bestätigen Sie den Termin für die Abgabe",
+          "it": "Conferma la data in cui li porterai",
+          "pl": "Potwierdź termin ich dostarczenia",
+          "pt": "Confirme a data para entregá-los",
+          "nl": "Bevestig de datum waarop je ze brengt",
+          "hr": "Potvrdi datum kada ćeš ih donijeti",
+          "tr": "Onları getireceğiniz tarihi teyit edin",
+          "uk": "Підтверди дату, коли ти їх принесеш",
+          "ar": "أكّد موعد إحضارها",
+          "hi": "उन्हें लाने की तारीख़ पक्की कीजिए",
+          "vi": "Xác nhận ngày mang giấy tờ đến",
+          "id": "Konfirmasi tanggal untuk membawanya",
+          "ms": "Sahkan tarikh untuk membawanya",
+          "ko": "서류를 가져올 날짜를 확인하세요"
+        },
+        "practice": "Confirme la fecha para traerlos",
+        "practice_translations": {
+          "en": "Confirm the date to bring them",
+          "es": "Confirme la fecha para traerlos",
+          "ja": "書類を持っていく日を確認してください",
+          "ko": "서류를 가져올 날짜를 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Could you go over the list of documents with me?",
+      "native_translations": {
+        "en": "Could you go over the list of documents with me?",
+        "es": "¿Podría revisar conmigo la lista de documentos?",
+        "fr": "Pourriez-vous passer en revue la liste des documents avec moi ?",
+        "de": "Könnten Sie die Liste der Unterlagen mit mir durchgehen?",
+        "it": "Potrebbe rivedere con me l'elenco dei documenti?",
+        "pl": "Czy mogłaby pani przejść ze mną przez listę dokumentów?",
+        "pt": "Você poderia revisar a lista de documentos comigo?",
+        "nl": "Zou u de lijst met documenten met me door kunnen nemen?",
+        "hr": "Možete li sa mnom proći popis dokumenata?",
+        "tr": "Belge listesinin üzerinden benimle birlikte geçebilir misiniz?",
+        "uk": "Чи не могли б ви переглянути зі мною список документів?",
+        "ar": "هل يمكنك مراجعة قائمة المستندات معي؟",
+        "hi": "क्या आप मेरे साथ दस्तावेज़ों की सूची एक बार देख सकते हैं?",
+        "vi": "Luật sư xem qua danh sách giấy tờ cùng tôi được không?",
+        "id": "Bisakah kita periksa daftar dokumennya bersama?",
+        "ms": "Boleh anda semak senarai dokumen ini bersama saya?",
+        "ko": "서류 목록을 저와 같이 한번 봐 주실 수 있어요?"
+      },
+      "practice": "¿Podría revisar conmigo la lista de documentos?",
+      "practice_translations": {
+        "en": "Could you go over the list of documents with me?",
+        "es": "¿Podría revisar conmigo la lista de documentos?",
+        "ja": "書類のリストを一緒に確認していただけますか。",
+        "ko": "서류 목록을 저와 같이 한번 봐 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "I can't find my original birth certificate. What can I do?",
+      "native_translations": {
+        "en": "I can't find my original birth certificate. What can I do?",
+        "es": "No encuentro mi acta de nacimiento original. ¿Qué puedo hacer?",
+        "fr": "Je ne trouve pas mon acte de naissance original. Que puis-je faire ?",
+        "de": "Ich finde meine Original-Geburtsurkunde nicht. Was kann ich tun?",
+        "it": "Non trovo l'originale del mio certificato di nascita. Cosa posso fare?",
+        "pl": "Nie mogę znaleźć oryginału aktu urodzenia. Co mogę zrobić?",
+        "pt": "Não estou encontrando minha certidão de nascimento original. O que posso fazer?",
+        "nl": "Ik kan mijn originele geboorteakte niet vinden. Wat kan ik doen?",
+        "hr": "Ne mogu pronaći izvornik rodnog lista. Što mogu učiniti?",
+        "tr": "Doğum belgemin aslını bulamıyorum. Ne yapabilirim?",
+        "uk": "Я не можу знайти оригінал свідоцтва про народження. Що мені робити?",
+        "ar": "لا أستطيع العثور على شهادة ميلادي الأصلية. ماذا يمكنني أن أفعل؟",
+        "hi": "मुझे अपना असली जन्म प्रमाणपत्र नहीं मिल रहा। मैं क्या कर सकता हूँ?",
+        "vi": "Tôi không tìm thấy bản gốc giấy khai sinh. Tôi phải làm sao?",
+        "id": "Saya tidak bisa menemukan akta kelahiran asli saya. Apa yang bisa saya lakukan?",
+        "ms": "Saya tidak jumpa sijil kelahiran asal saya. Apa yang boleh saya buat?",
+        "ko": "출생증명서 원본을 못 찾겠어요. 어떻게 하면 될까요?"
+      },
+      "practice": "No encuentro mi acta de nacimiento original. ¿Qué puedo hacer?",
+      "practice_translations": {
+        "en": "I can't find my original birth certificate. What can I do?",
+        "es": "No encuentro mi acta de nacimiento original. ¿Qué puedo hacer?",
+        "ja": "出生証明書の原本が見つかりません。どうすればいいでしょうか。",
+        "ko": "출생증명서 원본을 못 찾겠어요. 어떻게 하면 될까요?"
+      }
+    },
+    {
+      "native": "Do my documents need to be translated into English?",
+      "native_translations": {
+        "en": "Do my documents need to be translated into English?",
+        "es": "¿Mis documentos tienen que estar traducidos al inglés?",
+        "fr": "Mes documents doivent-ils être traduits en anglais ?",
+        "de": "Müssen meine Unterlagen ins Englische übersetzt werden?",
+        "it": "I miei documenti devono essere tradotti in inglese?",
+        "pl": "Czy moje dokumenty trzeba przetłumaczyć na angielski?",
+        "pt": "Meus documentos precisam ser traduzidos para o inglês?",
+        "nl": "Moeten mijn documenten in het Engels vertaald worden?",
+        "hr": "Trebaju li moji dokumenti biti prevedeni na engleski?",
+        "tr": "Belgelerimin İngilizceye çevrilmesi gerekiyor mu?",
+        "uk": "Чи потрібно перекладати мої документи англійською?",
+        "ar": "هل يجب ترجمة مستنداتي إلى الإنجليزية؟",
+        "hi": "क्या मेरे दस्तावेज़ों का अंग्रेज़ी में अनुवाद करवाना होगा?",
+        "vi": "Giấy tờ của tôi có cần dịch sang tiếng Anh không?",
+        "id": "Apakah dokumen saya perlu diterjemahkan ke bahasa Inggris?",
+        "ms": "Adakah dokumen saya perlu diterjemahkan ke bahasa Inggeris?",
+        "ko": "제 서류를 영어로 번역해야 하나요?"
+      },
+      "practice": "¿Mis documentos tienen que estar traducidos al inglés?",
+      "practice_translations": {
+        "en": "Do my documents need to be translated into English?",
+        "es": "¿Mis documentos tienen que estar traducidos al inglés?",
+        "ja": "書類は英語に翻訳する必要がありますか。",
+        "ko": "제 서류를 영어로 번역해야 하나요?"
+      }
+    },
+    {
+      "native": "Should I bring copies or the originals?",
+      "native_translations": {
+        "en": "Should I bring copies or the originals?",
+        "es": "¿Debo traer copias o los originales?",
+        "fr": "Dois-je apporter des copies ou les originaux ?",
+        "de": "Soll ich Kopien oder die Originale mitbringen?",
+        "it": "Devo portare le copie o gli originali?",
+        "pl": "Mam przynieść kopie czy oryginały?",
+        "pt": "Devo trazer cópias ou os originais?",
+        "nl": "Moet ik kopieën of de originelen meenemen?",
+        "hr": "Trebam li donijeti preslike ili izvornike?",
+        "tr": "Fotokopileri mi, yoksa asıllarını mı getirmeliyim?",
+        "uk": "Приносити копії чи оригінали?",
+        "ar": "هل أحضر نسخًا أم الأصول؟",
+        "hi": "मुझे कॉपी लानी चाहिए या असली दस्तावेज़?",
+        "vi": "Tôi nên mang bản sao hay bản gốc?",
+        "id": "Saya bawa fotokopi atau yang asli?",
+        "ms": "Patutkah saya bawa salinan atau dokumen asal?",
+        "ko": "사본을 가져와야 하나요, 원본을 가져와야 하나요?"
+      },
+      "practice": "¿Debo traer copias o los originales?",
+      "practice_translations": {
+        "en": "Should I bring copies or the originals?",
+        "es": "¿Debo traer copias o los originales?",
+        "ja": "コピーと原本、どちらを持ってくればいいですか。",
+        "ko": "사본을 가져와야 하나요, 원본을 가져와야 하나요?"
+      }
+    },
+    {
+      "native": "I can bring everything next Monday.",
+      "native_translations": {
+        "en": "I can bring everything next Monday.",
+        "es": "Puedo traer todo el próximo lunes.",
+        "fr": "Je peux tout apporter lundi prochain.",
+        "de": "Ich kann nächsten Montag alles mitbringen.",
+        "it": "Posso portare tutto lunedì prossimo.",
+        "pl": "Mogę przynieść wszystko w przyszły poniedziałek.",
+        "pt": "Posso trazer tudo na próxima segunda-feira.",
+        "nl": "Ik kan alles volgende week maandag brengen.",
+        "hr": "Sve mogu donijeti sljedeći ponedjeljak.",
+        "tr": "Her şeyi gelecek pazartesi getirebilirim.",
+        "uk": "Я можу принести все наступного понеділка.",
+        "ar": "يمكنني إحضار كل شيء يوم الاثنين القادم.",
+        "hi": "मैं अगले सोमवार सब कुछ ला सकता हूँ।",
+        "vi": "Thứ Hai tuần sau tôi có thể mang đủ mọi thứ đến.",
+        "id": "Saya bisa membawa semuanya Senin depan.",
+        "ms": "Saya boleh bawa semuanya Isnin depan.",
+        "ko": "다음 주 월요일에 전부 가져올 수 있어요."
+      },
+      "practice": "Puedo traer todo el próximo lunes.",
+      "practice_translations": {
+        "en": "I can bring everything next Monday.",
+        "es": "Puedo traer todo el próximo lunes.",
+        "ja": "来週の月曜日に全部お持ちできます。",
+        "ko": "다음 주 월요일에 전부 가져올 수 있어요."
+      }
+    }
+  ]
+}

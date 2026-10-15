@@ -1,0 +1,321 @@
+{
+  "id": "work_understanding_job_offers_benefits_c2",
+  "title": "Making Sense of Health Insurance",
+  "title_translations": {
+    "en": "Making Sense of Health Insurance",
+    "es": "Entender el seguro médico",
+    "fr": "Comprendre l'assurance santé",
+    "de": "Die Krankenversicherung verstehen",
+    "it": "Capire l'assicurazione sanitaria",
+    "pl": "Jak zrozumieć ubezpieczenie zdrowotne",
+    "pt": "Entendendo o plano de saúde",
+    "nl": "Wijs worden uit de zorgverzekering",
+    "hr": "Kako razumjeti zdravstveno osiguranje",
+    "tr": "Sağlık Sigortasını Anlamak",
+    "uk": "Розбираємося з медичним страхуванням",
+    "ar": "فهم التأمين الصحي",
+    "hi": "हेल्थ इंश्योरेंस को समझना",
+    "vi": "Tìm hiểu về bảo hiểm y tế",
+    "id": "Memahami Asuransi Kesehatan",
+    "ms": "Memahami Insurans Kesihatan",
+    "ko": "건강 보험 이해하기"
+  },
+  "character": "fox",
+  "scenario": "During onboarding, the benefits specialist (AI) explains the company's health insurance plans, and some of the words are new to you.",
+  "scenario_translations": {
+    "en": "During onboarding, the benefits specialist (AI) explains the company's health insurance plans, and some of the words are new to you.",
+    "es": "Durante la inducción, el especialista en prestaciones (AI) le explica los planes de seguro médico de la empresa, y algunas palabras son nuevas para usted.",
+    "fr": "Pendant votre intégration, le spécialiste des avantages sociaux (AI) vous explique les formules d'assurance santé de l'entreprise, et certains mots sont nouveaux pour vous.",
+    "de": "Beim Onboarding erklärt Ihnen der Spezialist für Sozialleistungen (AI) die Krankenversicherungstarife des Unternehmens, und einige Begriffe sind Ihnen neu.",
+    "it": "Durante l'inserimento, lo specialista dei benefit (AI) ti spiega i piani di assicurazione sanitaria dell'azienda, e alcune parole per te sono nuove.",
+    "pl": "Podczas wdrożenia specjalista ds. benefitów (AI) objaśnia firmowe plany ubezpieczenia zdrowotnego, a niektóre słowa są dla ciebie nowe.",
+    "pt": "Durante a integração, o especialista em benefícios (AI) explica os planos de saúde da empresa, e algumas palavras são novas para você.",
+    "nl": "Tijdens je inwerkperiode legt de specialist arbeidsvoorwaarden (AI) de zorgverzekeringen van het bedrijf uit, en sommige woorden zijn nieuw voor je.",
+    "hr": "Tijekom uvođenja u posao stručnjak za pogodnosti (AI) objašnjava ti planove zdravstvenog osiguranja tvrtke, a neke su ti riječi nove.",
+    "tr": "İşe alışma sürecinde yan haklar uzmanı (AI) şirketin sağlık sigortası planlarını anlatıyor ve bazı kelimeler sizin için yeni.",
+    "uk": "Під час адаптації фахівець із соціального пакета (AI) пояснює плани медичного страхування компанії, і деякі слова тобі незнайомі.",
+    "ar": "خلال فترة الإعداد الوظيفي، يشرح لك أخصائي المزايا (AI) خطط التأمين الصحي في الشركة، وبعض الكلمات جديدة عليك.",
+    "hi": "ऑनबोर्डिंग के दौरान बेनिफ़िट्स स्पेशलिस्ट (AI) कंपनी के हेल्थ इंश्योरेंस प्लान समझाते हैं, और कुछ शब्द आपके लिए नए हैं।",
+    "vi": "Trong buổi hội nhập, chuyên viên phúc lợi (AI) giải thích các gói bảo hiểm y tế của công ty, và có vài từ bạn chưa từng nghe.",
+    "id": "Saat orientasi karyawan baru, staf tunjangan (AI) menjelaskan paket asuransi kesehatan perusahaan, dan beberapa istilahnya masih asing bagimu.",
+    "ms": "Semasa sesi orientasi, pegawai faedah pekerja (AI) menerangkan pelan insurans kesihatan syarikat, dan ada perkataan yang baharu bagi anda.",
+    "ko": "입사 교육 중에 복리후생 담당자(AI)가 회사의 건강 보험 플랜을 설명하는데, 처음 듣는 단어가 있어요."
+  },
+  "mission": {
+    "native": "Ask the questions you need to understand the health plan and choose one.",
+    "native_translations": {
+      "en": "Ask the questions you need to understand the health plan and choose one.",
+      "es": "Haga las preguntas necesarias para entender el plan de salud y elegir uno.",
+      "fr": "Posez les questions nécessaires pour comprendre la couverture santé et en choisir une.",
+      "de": "Stellen Sie die nötigen Fragen, um die Krankenversicherung zu verstehen, und wählen Sie einen Tarif.",
+      "it": "Fai le domande che ti servono per capire il piano sanitario e sceglierne uno.",
+      "pl": "Zadaj pytania potrzebne, żeby zrozumieć plan ubezpieczenia, i wybierz jeden z nich.",
+      "pt": "Faça as perguntas necessárias para entender o plano de saúde e escolher um.",
+      "nl": "Stel de vragen die je nodig hebt om de zorgverzekering te begrijpen en kies er een.",
+      "hr": "Postavi pitanja koja ti trebaju da razumiješ zdravstveni plan i odaberi jedan.",
+      "tr": "Sağlık planını anlamak için gereken soruları sorun ve birini seçin.",
+      "uk": "Постав запитання, щоб розібратися в медичному плані, і обери один.",
+      "ar": "اطرح الأسئلة التي تحتاجها لفهم الخطة الصحية واختر واحدة.",
+      "hi": "हेल्थ प्लान समझने के लिए ज़रूरी सवाल पूछिए और एक प्लान चुनिए।",
+      "vi": "Đặt những câu hỏi cần thiết để hiểu gói bảo hiểm y tế và chọn một gói.",
+      "id": "Ajukan pertanyaan yang kamu perlukan untuk memahami paket asuransinya dan pilih salah satu.",
+      "ms": "Tanya soalan yang perlu untuk memahami pelan kesihatan dan pilih satu.",
+      "ko": "건강 보험 플랜을 이해하는 데 필요한 질문을 하고 하나를 고르세요."
+    },
+    "practice": "Haga las preguntas necesarias para entender el plan de salud y elegir uno.",
+    "practice_translations": {
+      "en": "Ask the questions you need to understand the health plan and choose one.",
+      "es": "Haga las preguntas necesarias para entender el plan de salud y elegir uno.",
+      "ja": "医療保険プランを理解するために必要な質問をして、一つ選んでください。",
+      "ko": "건강 보험 플랜을 이해하는 데 필요한 질문을 하고 하나를 고르세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what a deductible means",
+        "native_translations": {
+          "en": "Ask what a deductible means",
+          "es": "Pregunte qué significa el deducible",
+          "fr": "Demandez ce que signifie une franchise",
+          "de": "Fragen Sie, was eine Selbstbeteiligung ist",
+          "it": "Chiedi cosa significa franchigia",
+          "pl": "Zapytaj, co oznacza udział własny",
+          "pt": "Pergunte o que significa franquia",
+          "nl": "Vraag wat een eigen risico is",
+          "hr": "Pitaj što znači franšiza",
+          "tr": "Muafiyet tutarının ne anlama geldiğini sorun",
+          "uk": "Запитай, що означає франшиза",
+          "ar": "اسأل ما معنى مبلغ التحمّل",
+          "hi": "पूछिए कि डिडक्टिबल का क्या मतलब है",
+          "vi": "Hỏi mức khấu trừ nghĩa là gì",
+          "id": "Tanyakan apa arti deductible",
+          "ms": "Tanya apa maksud deduktibel",
+          "ko": "공제액이 무슨 뜻인지 물어보세요"
+        },
+        "practice": "Pregunte qué significa el deducible",
+        "practice_translations": {
+          "en": "Ask what a deductible means",
+          "es": "Pregunte qué significa el deducible",
+          "ja": "免責額とは何か聞いてください",
+          "ko": "공제액이 무슨 뜻인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how much comes out of your paycheck",
+        "native_translations": {
+          "en": "Ask how much comes out of your paycheck",
+          "es": "Pregunte cuánto se descuenta de su sueldo",
+          "fr": "Demandez combien sera prélevé sur votre salaire",
+          "de": "Fragen Sie, wie viel von Ihrem Gehalt abgezogen wird",
+          "it": "Chiedi quanto ti viene trattenuto dalla busta paga",
+          "pl": "Zapytaj, ile będzie potrącane z wypłaty",
+          "pt": "Pergunte quanto vai ser descontado do seu salário",
+          "nl": "Vraag hoeveel er van je salaris afgaat",
+          "hr": "Pitaj koliko će ti se odbijati od plaće",
+          "tr": "Maaşınızdan ne kadar kesileceğini sorun",
+          "uk": "Запитай, скільки утримуватимуть із зарплати",
+          "ar": "اسأل كم سيُقتطع من راتبك",
+          "hi": "पूछिए कि आपकी तनख़्वाह से कितना कटेगा",
+          "vi": "Hỏi bị trừ bao nhiêu vào lương",
+          "id": "Tanyakan berapa yang dipotong dari gajimu",
+          "ms": "Tanya berapa yang dipotong daripada gaji anda",
+          "ko": "급여에서 얼마가 빠져나가는지 물어보세요"
+        },
+        "practice": "Pregunte cuánto se descuenta de su sueldo",
+        "practice_translations": {
+          "en": "Ask how much comes out of your paycheck",
+          "es": "Pregunte cuánto se descuenta de su sueldo",
+          "ja": "給与からいくら引かれるか聞いてください",
+          "ko": "급여에서 얼마가 빠져나가는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask when your coverage begins",
+        "native_translations": {
+          "en": "Ask when your coverage begins",
+          "es": "Pregunte cuándo empieza su cobertura",
+          "fr": "Demandez quand votre couverture commence",
+          "de": "Fragen Sie, ab wann Sie versichert sind",
+          "it": "Chiedi quando inizia la copertura",
+          "pl": "Zapytaj, od kiedy zaczyna się ochrona",
+          "pt": "Pergunte quando a cobertura começa",
+          "nl": "Vraag wanneer je dekking ingaat",
+          "hr": "Pitaj kada počinje tvoje osiguranje",
+          "tr": "Sigorta kapsamınızın ne zaman başladığını sorun",
+          "uk": "Запитай, коли починає діяти страхування",
+          "ar": "اسأل متى تبدأ تغطيتك التأمينية",
+          "hi": "पूछिए कि आपका कवरेज कब शुरू होगा",
+          "vi": "Hỏi khi nào bảo hiểm bắt đầu có hiệu lực",
+          "id": "Tanyakan kapan pertanggungannya mulai berlaku",
+          "ms": "Tanya bila perlindungan anda bermula",
+          "ko": "보장이 언제 시작되는지 물어보세요"
+        },
+        "practice": "Pregunte cuándo empieza su cobertura",
+        "practice_translations": {
+          "en": "Ask when your coverage begins",
+          "es": "Pregunte cuándo empieza su cobertura",
+          "ja": "保険がいつから適用されるか聞いてください",
+          "ko": "보장이 언제 시작되는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask if you can add a family member",
+        "native_translations": {
+          "en": "Ask if you can add a family member",
+          "es": "Pregunte si puede agregar a un familiar",
+          "fr": "Demandez si vous pouvez ajouter un membre de votre famille",
+          "de": "Fragen Sie, ob Sie ein Familienmitglied mitversichern können",
+          "it": "Chiedi se puoi aggiungere un familiare",
+          "pl": "Zapytaj, czy możesz dodać członka rodziny",
+          "pt": "Pergunte se você pode incluir um familiar",
+          "nl": "Vraag of je een gezinslid kunt toevoegen",
+          "hr": "Pitaj možeš li dodati člana obitelji",
+          "tr": "Bir aile üyesini ekleyip ekleyemeyeceğinizi sorun",
+          "uk": "Запитай, чи можна додати члена сім'ї",
+          "ar": "اسأل إن كان بإمكانك إضافة أحد أفراد عائلتك",
+          "hi": "पूछिए कि क्या आप परिवार के किसी सदस्य को जोड़ सकते हैं",
+          "vi": "Hỏi có thể thêm người nhà vào không",
+          "id": "Tanyakan apakah kamu bisa menambahkan anggota keluarga",
+          "ms": "Tanya sama ada anda boleh menambah ahli keluarga",
+          "ko": "가족을 추가할 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte si puede agregar a un familiar",
+        "practice_translations": {
+          "en": "Ask if you can add a family member",
+          "es": "Pregunte si puede agregar a un familiar",
+          "ja": "家族を加入させられるか聞いてください",
+          "ko": "가족을 추가할 수 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Sorry, what exactly is a deductible?",
+      "native_translations": {
+        "en": "Sorry, what exactly is a deductible?",
+        "es": "Disculpe, ¿qué es exactamente el deducible?",
+        "fr": "Pardon, qu'est-ce qu'une franchise exactement ?",
+        "de": "Entschuldigung, was genau ist eine Selbstbeteiligung?",
+        "it": "Scusi, cos'è esattamente la franchigia?",
+        "pl": "Przepraszam, czym dokładnie jest udział własny?",
+        "pt": "Desculpe, o que é exatamente a franquia?",
+        "nl": "Sorry, wat is een eigen risico precies?",
+        "hr": "Oprostite, što je točno franšiza?",
+        "tr": "Pardon, muafiyet tutarı tam olarak nedir?",
+        "uk": "Вибачте, а що саме таке франшиза?",
+        "ar": "عفوًا، ما المقصود بمبلغ التحمّل بالضبط؟",
+        "hi": "माफ़ कीजिए, डिडक्टिबल असल में क्या होता है?",
+        "vi": "Xin lỗi, chính xác thì mức khấu trừ là gì vậy?",
+        "id": "Maaf, sebenarnya deductible itu apa?",
+        "ms": "Maaf, apa sebenarnya deduktibel?",
+        "ko": "죄송하지만, 공제액이 정확히 뭐예요?"
+      },
+      "practice": "Disculpe, ¿qué es exactamente el deducible?",
+      "practice_translations": {
+        "en": "Sorry, what exactly is a deductible?",
+        "es": "Disculpe, ¿qué es exactamente el deducible?",
+        "ja": "すみません、免責額とは具体的に何ですか。",
+        "ko": "죄송하지만, 공제액이 정확히 뭐예요?"
+      }
+    },
+    {
+      "native": "How much would be taken out of each paycheck?",
+      "native_translations": {
+        "en": "How much would be taken out of each paycheck?",
+        "es": "¿Cuánto me descontarían de cada pago?",
+        "fr": "Combien serait prélevé sur chaque fiche de paie ?",
+        "de": "Wie viel würde von jeder Gehaltszahlung abgezogen?",
+        "it": "Quanto mi verrebbe trattenuto da ogni busta paga?",
+        "pl": "Ile będzie potrącane z każdej wypłaty?",
+        "pt": "Quanto seria descontado de cada salário?",
+        "nl": "Hoeveel gaat er van elk salaris af?",
+        "hr": "Koliko bi mi se odbijalo od svake plaće?",
+        "tr": "Her maaştan ne kadar kesilir?",
+        "uk": "Скільки утримуватимуть із кожної зарплати?",
+        "ar": "كم سيُقتطع من كل راتب؟",
+        "hi": "हर तनख़्वाह से कितना कटेगा?",
+        "vi": "Mỗi kỳ lương sẽ bị trừ bao nhiêu ạ?",
+        "id": "Berapa yang akan dipotong dari setiap gaji?",
+        "ms": "Berapa banyak yang akan dipotong daripada setiap gaji?",
+        "ko": "급여에서 매번 얼마씩 빠져나가나요?"
+      },
+      "practice": "¿Cuánto me descontarían de cada pago?",
+      "practice_translations": {
+        "en": "How much would be taken out of each paycheck?",
+        "es": "¿Cuánto me descontarían de cada pago?",
+        "ja": "毎回の給与から、いくら引かれるのでしょうか。",
+        "ko": "급여에서 매번 얼마씩 빠져나가나요?"
+      }
+    },
+    {
+      "native": "Does the coverage start on my first day?",
+      "native_translations": {
+        "en": "Does the coverage start on my first day?",
+        "es": "¿La cobertura empieza desde mi primer día?",
+        "fr": "La couverture commence-t-elle dès mon premier jour ?",
+        "de": "Beginnt der Versicherungsschutz schon an meinem ersten Tag?",
+        "it": "La copertura inizia dal mio primo giorno?",
+        "pl": "Czy ochrona zaczyna się od pierwszego dnia pracy?",
+        "pt": "A cobertura começa no meu primeiro dia?",
+        "nl": "Gaat de dekking in op mijn eerste werkdag?",
+        "hr": "Počinje li osiguranje od mog prvog radnog dana?",
+        "tr": "Sigorta kapsamı ilk günümde mi başlıyor?",
+        "uk": "Страхування діє з першого робочого дня?",
+        "ar": "هل تبدأ التغطية من يومي الأول؟",
+        "hi": "क्या कवरेज मेरे पहले दिन से शुरू होगा?",
+        "vi": "Bảo hiểm có hiệu lực từ ngày đầu tiên đi làm không ạ?",
+        "id": "Apakah pertanggungannya mulai berlaku di hari pertama saya?",
+        "ms": "Adakah perlindungan bermula pada hari pertama saya?",
+        "ko": "보장은 첫 출근일부터 시작되나요?"
+      },
+      "practice": "¿La cobertura empieza desde mi primer día?",
+      "practice_translations": {
+        "en": "Does the coverage start on my first day?",
+        "es": "¿La cobertura empieza desde mi primer día?",
+        "ja": "保険は初出勤の日から適用されますか。",
+        "ko": "보장은 첫 출근일부터 시작되나요?"
+      }
+    },
+    {
+      "native": "Can I add my spouse to the plan?",
+      "native_translations": {
+        "en": "Can I add my spouse to the plan?",
+        "es": "¿Puedo agregar a mi cónyuge al plan?",
+        "fr": "Puis-je ajouter mon conjoint à la couverture ?",
+        "de": "Kann ich meinen Ehepartner mitversichern?",
+        "it": "Posso aggiungere mio marito al piano?",
+        "pl": "Czy mogę dopisać do planu męża albo żonę?",
+        "pt": "Posso incluir meu marido no plano?",
+        "nl": "Kan ik mijn partner aan de verzekering toevoegen?",
+        "hr": "Mogu li u plan dodati bračnog partnera?",
+        "tr": "Eşimi plana ekleyebilir miyim?",
+        "uk": "Чи можу я додати до плану свого чоловіка чи дружину?",
+        "ar": "هل يمكنني إضافة شريك حياتي إلى الخطة؟",
+        "hi": "क्या मैं अपने जीवनसाथी को प्लान में जोड़ सकता हूँ?",
+        "vi": "Tôi có thể thêm vợ/chồng vào gói bảo hiểm không?",
+        "id": "Bisakah saya menambahkan pasangan saya ke paketnya?",
+        "ms": "Boleh saya tambah pasangan saya ke dalam pelan ini?",
+        "ko": "배우자를 플랜에 추가할 수 있나요?"
+      },
+      "practice": "¿Puedo agregar a mi cónyuge al plan?",
+      "practice_translations": {
+        "en": "Can I add my spouse to the plan?",
+        "es": "¿Puedo agregar a mi cónyuge al plan?",
+        "ja": "配偶者もプランに加入させられますか。",
+        "ko": "배우자를 플랜에 추가할 수 있나요?"
+      }
+    }
+  ]
+}

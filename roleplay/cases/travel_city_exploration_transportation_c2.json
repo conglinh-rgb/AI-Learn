@@ -1,0 +1,321 @@
+{
+  "id": "travel_city_exploration_transportation_c2",
+  "title": "Buying a Transit Pass",
+  "title_translations": {
+    "en": "Buying a Transit Pass",
+    "es": "Comprar un pase de transporte",
+    "fr": "Acheter un pass de transport",
+    "de": "Eine Fahrkarte für den Nahverkehr kaufen",
+    "it": "Comprare un abbonamento ai mezzi",
+    "pl": "Kupno biletu okresowego",
+    "pt": "Comprando um passe de transporte",
+    "nl": "Een ov-pas kopen",
+    "hr": "Kupnja pokazne karte",
+    "tr": "Toplu Taşıma Kartı Almak",
+    "uk": "Купівля проїзного",
+    "ar": "شراء بطاقة مواصلات",
+    "hi": "ट्रांज़िट पास ख़रीदना",
+    "vi": "Mua vé tháng đi lại",
+    "id": "Membeli Kartu Transportasi",
+    "ms": "Membeli Pas Pengangkutan",
+    "ko": "교통 패스 구입하기"
+  },
+  "character": "fox",
+  "scenario": "You want to get around the city by metro and bus for a week. The ticket office clerk (AI) is ready to help you.",
+  "scenario_translations": {
+    "en": "You want to get around the city by metro and bus for a week. The ticket office clerk (AI) is ready to help you.",
+    "es": "Quiere moverse por la ciudad en metro y autobús durante una semana. El empleado de la taquilla (AI) está listo para ayudarle.",
+    "fr": "Vous voulez circuler en ville en métro et en bus pendant une semaine. L'employé du guichet (AI) est prêt à vous aider.",
+    "de": "Sie möchten sich eine Woche lang mit U-Bahn und Bus durch die Stadt bewegen. Der Mitarbeiter am Fahrkartenschalter (AI) ist bereit, Ihnen zu helfen.",
+    "it": "Vuoi girare la città in metro e autobus per una settimana. L'addetto della biglietteria (AI) è pronto ad aiutarti.",
+    "pl": "Chcesz przez tydzień poruszać się po mieście metrem i autobusem. Kasjerka (AI) w punkcie sprzedaży biletów chętnie ci pomoże.",
+    "pt": "Você quer circular pela cidade de metrô e ônibus durante uma semana. O atendente da bilheteria (AI) está pronto para ajudar você.",
+    "nl": "Je wilt een week lang met de metro en de bus door de stad reizen. De medewerker van het kaartjesloket (AI) staat klaar om je te helpen.",
+    "hr": "Tjedan dana želiš se po gradu voziti metroom i autobusom. Službenik na blagajni (AI) spreman je pomoći ti.",
+    "tr": "Bir hafta boyunca şehirde metro ve otobüsle dolaşmak istiyorsunuz. Bilet gişesi görevlisi (AI) size yardım etmeye hazır.",
+    "uk": "Ти хочеш тиждень їздити містом на метро й автобусах. Касир (AI) готовий допомогти.",
+    "ar": "تريد التنقل في المدينة بالمترو والحافلة لمدة أسبوع. موظف مكتب التذاكر (AI) مستعد لمساعدتك.",
+    "hi": "आप एक हफ़्ते तक मेट्रो और बस से शहर घूमना चाहते हैं। टिकट ऑफ़िस के क्लर्क (AI) आपकी मदद के लिए तैयार हैं।",
+    "vi": "Bạn muốn đi lại trong thành phố bằng tàu điện ngầm và xe buýt trong một tuần. Nhân viên bán vé (AI) sẵn sàng giúp bạn.",
+    "id": "Kamu ingin berkeliling kota dengan metro dan bus selama seminggu. Petugas loket tiket (AI) siap membantumu.",
+    "ms": "Anda mahu bergerak di sekitar bandar dengan metro dan bas selama seminggu. Kerani kaunter tiket (AI) sedia membantu anda.",
+    "ko": "일주일 동안 지하철과 버스로 시내를 돌아다니려고 합니다. 매표소 직원(AI)이 도와줄 준비가 되어 있습니다."
+  },
+  "mission": {
+    "native": "Find the best ticket for your week and learn how to use it.",
+    "native_translations": {
+      "en": "Find the best ticket for your week and learn how to use it.",
+      "es": "Encuentre el mejor boleto para su semana y aprenda a usarlo.",
+      "fr": "Trouvez le meilleur titre de transport pour votre semaine et apprenez à l'utiliser.",
+      "de": "Finden Sie die beste Fahrkarte für Ihre Woche und lernen Sie, wie man sie benutzt.",
+      "it": "Trova il biglietto migliore per la tua settimana e scopri come usarlo.",
+      "pl": "Znajdź najlepszy bilet na twój tydzień i dowiedz się, jak z niego korzystać.",
+      "pt": "Encontre o melhor bilhete para a sua semana e aprenda a usá-lo.",
+      "nl": "Vind het beste kaartje voor je week en leer hoe je het gebruikt.",
+      "hr": "Pronađi najbolju kartu za svoj tjedan i saznaj kako se koristi.",
+      "tr": "Haftanız için en uygun bileti bulun ve nasıl kullanılacağını öğrenin.",
+      "uk": "Знайди найкращий квиток на тиждень і дізнайся, як ним користуватися.",
+      "ar": "اعثر على أفضل تذكرة لأسبوعك وتعلّم كيف تستخدمها.",
+      "hi": "अपने हफ़्ते के लिए सबसे अच्छा टिकट ढूँढिए और जानिए कि उसे कैसे इस्तेमाल करें।",
+      "vi": "Tìm loại vé tốt nhất cho tuần của bạn và tìm hiểu cách sử dụng.",
+      "id": "Temukan tiket terbaik untuk seminggu dan pelajari cara memakainya.",
+      "ms": "Cari tiket terbaik untuk minggu anda dan ketahui cara menggunakannya.",
+      "ko": "일주일 동안 쓰기 가장 좋은 표를 찾고 사용 방법을 알아보세요."
+    },
+    "practice": "Encuentre el mejor boleto para su semana y aprenda a usarlo.",
+    "practice_translations": {
+      "en": "Find the best ticket for your week and learn how to use it.",
+      "es": "Encuentre el mejor boleto para su semana y aprenda a usarlo.",
+      "ja": "1週間の滞在に一番合う乗車券を見つけて、使い方を聞いてください。",
+      "ko": "일주일 동안 쓰기 가장 좋은 표를 찾고 사용 방법을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say how long you will use public transport",
+        "native_translations": {
+          "en": "Say how long you will use public transport",
+          "es": "Diga cuánto tiempo usará el transporte público",
+          "fr": "Dites combien de temps vous utiliserez les transports en commun",
+          "de": "Sagen Sie, wie lange Sie öffentliche Verkehrsmittel nutzen werden",
+          "it": "Di' per quanto tempo userai i mezzi pubblici",
+          "pl": "Powiedz, jak długo będziesz korzystać z komunikacji miejskiej",
+          "pt": "Diga por quanto tempo você vai usar o transporte público",
+          "nl": "Zeg hoe lang je het openbaar vervoer gaat gebruiken",
+          "hr": "Reci koliko ćeš dugo koristiti javni prijevoz",
+          "tr": "Toplu taşımayı ne kadar süre kullanacağınızı söyleyin",
+          "uk": "Скажи, скільки часу користуватимешся транспортом",
+          "ar": "قل كم من الوقت ستستخدم المواصلات العامة",
+          "hi": "बताइए कि आप कितने समय तक पब्लिक ट्रांसपोर्ट इस्तेमाल करेंगे",
+          "vi": "Nói bạn sẽ đi phương tiện công cộng trong bao lâu",
+          "id": "Sebutkan berapa lama kamu akan memakai transportasi umum",
+          "ms": "Katakan berapa lama anda akan guna pengangkutan awam",
+          "ko": "대중교통을 얼마나 이용할지 말하세요"
+        },
+        "practice": "Diga cuánto tiempo usará el transporte público",
+        "practice_translations": {
+          "en": "Say how long you will use public transport",
+          "es": "Diga cuánto tiempo usará el transporte público",
+          "ja": "公共交通機関をどのくらいの期間使うか伝えてください",
+          "ko": "대중교통을 얼마나 이용할지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask which pass is the best value",
+        "native_translations": {
+          "en": "Ask which pass is the best value",
+          "es": "Pregunte qué pase le conviene más",
+          "fr": "Demandez quel pass est le plus avantageux",
+          "de": "Fragen Sie, welches Ticket am günstigsten ist",
+          "it": "Chiedi quale abbonamento conviene di più",
+          "pl": "Zapytaj, który bilet jest najbardziej opłacalny",
+          "pt": "Pergunte qual passe tem o melhor custo-benefício",
+          "nl": "Vraag welke pas het voordeligst is",
+          "hr": "Pitaj koja se karta najviše isplati",
+          "tr": "Hangi kartın en avantajlı olduğunu sorun",
+          "uk": "Запитай, який проїзний найвигідніший",
+          "ar": "اسأل أي بطاقة هي الأوفر",
+          "hi": "पूछिए कि कौन-सा पास सबसे किफ़ायती है",
+          "vi": "Hỏi loại vé nào tiết kiệm nhất",
+          "id": "Tanyakan kartu mana yang paling hemat",
+          "ms": "Tanya pas mana yang paling berbaloi",
+          "ko": "어떤 패스가 가장 이득인지 물어보세요"
+        },
+        "practice": "Pregunte qué pase le conviene más",
+        "practice_translations": {
+          "en": "Ask which pass is the best value",
+          "es": "Pregunte qué pase le conviene más",
+          "ja": "どのパスが一番お得か聞いてください",
+          "ko": "어떤 패스가 가장 이득인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Buy the pass",
+        "native_translations": {
+          "en": "Buy the pass",
+          "es": "Compre el pase",
+          "fr": "Achetez le pass",
+          "de": "Kaufen Sie das Ticket",
+          "it": "Compra l'abbonamento",
+          "pl": "Kup bilet",
+          "pt": "Compre o passe",
+          "nl": "Koop de pas",
+          "hr": "Kupi kartu",
+          "tr": "Kartı satın alın",
+          "uk": "Купи проїзний",
+          "ar": "اشترِ البطاقة",
+          "hi": "पास ख़रीदिए",
+          "vi": "Mua vé",
+          "id": "Beli kartunya",
+          "ms": "Beli pas itu",
+          "ko": "패스를 구입하세요"
+        },
+        "practice": "Compre el pase",
+        "practice_translations": {
+          "en": "Buy the pass",
+          "es": "Compre el pase",
+          "ja": "パスを買ってください",
+          "ko": "패스를 구입하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask how to reach the old town",
+        "native_translations": {
+          "en": "Ask how to reach the old town",
+          "es": "Pregunte cómo llegar al casco antiguo",
+          "fr": "Demandez comment aller dans la vieille ville",
+          "de": "Fragen Sie, wie Sie in die Altstadt kommen",
+          "it": "Chiedi come arrivare al centro storico",
+          "pl": "Zapytaj, jak dojechać na stare miasto",
+          "pt": "Pergunte como chegar ao centro histórico",
+          "nl": "Vraag hoe je in de oude binnenstad komt",
+          "hr": "Pitaj kako doći do starog grada",
+          "tr": "Eski şehre nasıl gidileceğini sorun",
+          "uk": "Запитай, як дістатися до старого міста",
+          "ar": "اسأل كيف تصل إلى البلدة القديمة",
+          "hi": "पूछिए कि पुराने शहर तक कैसे पहुँचें",
+          "vi": "Hỏi cách đến khu phố cổ",
+          "id": "Tanyakan cara ke kota tua",
+          "ms": "Tanya cara ke bandar lama",
+          "ko": "구시가지에 가는 방법을 물어보세요"
+        },
+        "practice": "Pregunte cómo llegar al casco antiguo",
+        "practice_translations": {
+          "en": "Ask how to reach the old town",
+          "es": "Pregunte cómo llegar al casco antiguo",
+          "ja": "旧市街への行き方を聞いてください",
+          "ko": "구시가지에 가는 방법을 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'll be here for a week.",
+      "native_translations": {
+        "en": "I'll be here for a week.",
+        "es": "Voy a estar aquí una semana.",
+        "fr": "Je suis ici pour une semaine.",
+        "de": "Ich bin eine Woche hier.",
+        "it": "Resterò qui per una settimana.",
+        "pl": "Będę tu przez tydzień.",
+        "pt": "Vou ficar aqui uma semana.",
+        "nl": "Ik ben hier een week.",
+        "hr": "Ovdje ću biti tjedan dana.",
+        "tr": "Bir hafta burada olacağım.",
+        "uk": "Я буду тут тиждень.",
+        "ar": "سأكون هنا لمدة أسبوع.",
+        "hi": "मैं यहाँ एक हफ़्ते के लिए हूँ।",
+        "vi": "Tôi sẽ ở đây một tuần.",
+        "id": "Saya di sini selama seminggu.",
+        "ms": "Saya akan berada di sini selama seminggu.",
+        "ko": "여기 일주일 동안 있을 거예요."
+      },
+      "practice": "Voy a estar aquí una semana.",
+      "practice_translations": {
+        "en": "I'll be here for a week.",
+        "es": "Voy a estar aquí una semana.",
+        "ja": "1週間ここにいる予定です。",
+        "ko": "여기 일주일 동안 있을 거예요."
+      }
+    },
+    {
+      "native": "Is there a weekly pass?",
+      "native_translations": {
+        "en": "Is there a weekly pass?",
+        "es": "¿Hay un pase semanal?",
+        "fr": "Est-ce qu'il existe un pass hebdomadaire ?",
+        "de": "Gibt es eine Wochenkarte?",
+        "it": "C'è un abbonamento settimanale?",
+        "pl": "Czy jest bilet tygodniowy?",
+        "pt": "Existe um passe semanal?",
+        "nl": "Is er een weekpas?",
+        "hr": "Postoji li tjedna karta?",
+        "tr": "Haftalık bir kart var mı?",
+        "uk": "Чи є тижневий проїзний?",
+        "ar": "هل توجد بطاقة أسبوعية؟",
+        "hi": "क्या कोई साप्ताहिक पास है?",
+        "vi": "Có vé tuần không ạ?",
+        "id": "Apakah ada kartu mingguan?",
+        "ms": "Ada pas mingguan tak?",
+        "ko": "일주일 패스가 있나요?"
+      },
+      "practice": "¿Hay un pase semanal?",
+      "practice_translations": {
+        "en": "Is there a weekly pass?",
+        "es": "¿Hay un pase semanal?",
+        "ja": "1週間のパスはありますか。",
+        "ko": "일주일 패스가 있나요?"
+      }
+    },
+    {
+      "native": "Does it work on buses too?",
+      "native_translations": {
+        "en": "Does it work on buses too?",
+        "es": "¿También sirve para los autobuses?",
+        "fr": "Est-ce qu'il marche aussi dans les bus ?",
+        "de": "Gilt sie auch in Bussen?",
+        "it": "Vale anche sugli autobus?",
+        "pl": "Czy działa też w autobusach?",
+        "pt": "Ele vale nos ônibus também?",
+        "nl": "Werkt die ook in de bus?",
+        "hr": "Vrijedi li i za autobuse?",
+        "tr": "Otobüslerde de geçerli mi?",
+        "uk": "Він діє і в автобусах?",
+        "ar": "هل تصلح للحافلات أيضًا؟",
+        "hi": "क्या यह बसों में भी चलता है?",
+        "vi": "Vé này đi xe buýt được không?",
+        "id": "Apakah bisa dipakai di bus juga?",
+        "ms": "Boleh guna untuk bas juga?",
+        "ko": "버스에서도 쓸 수 있어요?"
+      },
+      "practice": "¿También sirve para los autobuses?",
+      "practice_translations": {
+        "en": "Does it work on buses too?",
+        "es": "¿También sirve para los autobuses?",
+        "ja": "バスでも使えますか。",
+        "ko": "버스에서도 쓸 수 있어요?"
+      }
+    },
+    {
+      "native": "Which line goes to the old town?",
+      "native_translations": {
+        "en": "Which line goes to the old town?",
+        "es": "¿Qué línea va al casco antiguo?",
+        "fr": "Quelle ligne va à la vieille ville ?",
+        "de": "Welche Linie fährt in die Altstadt?",
+        "it": "Quale linea va al centro storico?",
+        "pl": "Która linia jedzie na stare miasto?",
+        "pt": "Qual linha vai para o centro histórico?",
+        "nl": "Welke lijn gaat naar de oude binnenstad?",
+        "hr": "Koja linija vozi do starog grada?",
+        "tr": "Eski şehre hangi hat gidiyor?",
+        "uk": "Яка лінія їде до старого міста?",
+        "ar": "أي خط يذهب إلى البلدة القديمة؟",
+        "hi": "कौन-सी लाइन पुराने शहर जाती है?",
+        "vi": "Tuyến nào đi đến khu phố cổ vậy?",
+        "id": "Jalur mana yang ke kota tua?",
+        "ms": "Laluan mana yang pergi ke bandar lama?",
+        "ko": "구시가지에 가려면 몇 호선을 타야 해요?"
+      },
+      "practice": "¿Qué línea va al casco antiguo?",
+      "practice_translations": {
+        "en": "Which line goes to the old town?",
+        "es": "¿Qué línea va al casco antiguo?",
+        "ja": "旧市街へ行くのは何線ですか。",
+        "ko": "구시가지에 가려면 몇 호선을 타야 해요?"
+      }
+    }
+  ]
+}

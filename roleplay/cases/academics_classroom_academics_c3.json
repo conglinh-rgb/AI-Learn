@@ -1,0 +1,351 @@
+{
+  "id": "academics_classroom_academics_c3",
+  "title": "Asking for an Extension",
+  "title_translations": {
+    "en": "Asking for an Extension",
+    "es": "Pedir una prórroga",
+    "fr": "Demander un délai",
+    "de": "Um Aufschub bitten",
+    "it": "Chiedere una proroga",
+    "pl": "Prośba o przedłużenie terminu",
+    "pt": "Pedindo mais prazo",
+    "nl": "Om uitstel vragen",
+    "hr": "Molba za produljenje roka",
+    "tr": "Ek Süre İstemek",
+    "uk": "Прохання про відстрочку",
+    "ar": "طلب تمديد الموعد النهائي",
+    "hi": "समय बढ़ाने की गुज़ारिश",
+    "vi": "Xin gia hạn bài luận",
+    "id": "Minta Perpanjangan Waktu",
+    "ms": "Meminta Lanjutan Tempoh",
+    "ko": "마감 연장 요청하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your essay is due tomorrow, but you were sick all week. Your professor (AI) is known to be strict about deadlines.",
+  "scenario_translations": {
+    "en": "Your essay is due tomorrow, but you were sick all week. Your professor (AI) is known to be strict about deadlines.",
+    "es": "Su ensayo se entrega mañana, pero estuvo mal de salud toda la semana. Su docente (AI) tiene fama de no ceder con los plazos.",
+    "fr": "Votre dissertation est à rendre demain, mais vous avez été malade toute la semaine. Votre professeur (AI) est connu pour être strict sur les délais.",
+    "de": "Ihre Hausarbeit ist morgen fällig, aber Sie waren die ganze Woche krank. Ihre Professorin bzw. Ihr Professor (AI) gilt bei Fristen als streng.",
+    "it": "Il tuo saggio va consegnato domani, ma sei stato male tutta la settimana. Il tuo professore (AI) è noto per essere severo sulle scadenze.",
+    "pl": "Termin oddania eseju mija jutro, ale cały tydzień byłeś chory. Twój profesor (AI) słynie z tego, że jest surowy w kwestii terminów.",
+    "pt": "Sua redação é para amanhã, mas você ficou doente a semana toda. Seu professor (AI) é conhecido por ser rígido com prazos.",
+    "nl": "Je essay moet morgen worden ingeleverd, maar je was de hele week ziek. Je professor (AI) staat erom bekend streng te zijn met deadlines.",
+    "hr": "Esej moraš predati sutra, ali bolest te držala cijeli tjedan. Tvoj profesor (AI) poznat je po strogim rokovima.",
+    "tr": "Makalenizin teslimi yarın, ama bütün hafta hastaydınız. Hocanız (AI) teslim tarihleri konusunda katı olmasıyla biliniyor.",
+    "uk": "Есе треба здати завтра, але цілий тиждень тебе мучила хвороба. Твій професор (AI) відомий суворим ставленням до дедлайнів.",
+    "ar": "موعد تسليم مقالتك غدًا، لكنك كنت مريضًا طوال الأسبوع. أستاذك (AI) معروف بصرامته في المواعيد النهائية.",
+    "hi": "आपका निबंध कल जमा करना है, लेकिन आप पूरे हफ़्ते बीमार रहे। आपके प्रोफ़ेसर (AI) डेडलाइन को लेकर सख़्त माने जाते हैं।",
+    "vi": "Bài luận của bạn phải nộp vào ngày mai, nhưng bạn bị ốm cả tuần. Giáo sư (AI) của bạn nổi tiếng nghiêm khắc về hạn nộp.",
+    "id": "Esaimu harus dikumpulkan besok, tapi kamu sakit sepanjang minggu. Profesormu (AI) dikenal tegas soal tenggat waktu.",
+    "ms": "Esei anda perlu dihantar esok, tetapi anda sakit sepanjang minggu. Profesor anda (AI) terkenal tegas tentang tarikh akhir.",
+    "ko": "에세이 마감이 내일인데 일주일 내내 아팠어요. 교수님(AI)은 마감에 엄격하기로 유명해요."
+  },
+  "mission": {
+    "native": "Explain your situation and convince the professor to give you more time.",
+    "native_translations": {
+      "en": "Explain your situation and convince the professor to give you more time.",
+      "es": "Explique su situación y convenza al profesor de que le dé más tiempo.",
+      "fr": "Expliquez votre situation et convainquez le professeur de vous accorder plus de temps.",
+      "de": "Erklären Sie Ihre Lage und überzeugen Sie die Lehrkraft, Ihnen mehr Zeit zu geben.",
+      "it": "Spiega la tua situazione e convinci il professore a darti più tempo.",
+      "pl": "Wyjaśnij swoją sytuację i przekonaj profesora, żeby dał ci więcej czasu.",
+      "pt": "Explique sua situação e convença o professor a te dar mais tempo.",
+      "nl": "Leg je situatie uit en overtuig de professor om je meer tijd te geven.",
+      "hr": "Objasni svoju situaciju i uvjeri profesora da ti da više vremena.",
+      "tr": "Durumunuzu açıklayın ve hocayı size daha fazla süre vermeye ikna edin.",
+      "uk": "Поясни свою ситуацію й переконай професора дати тобі більше часу.",
+      "ar": "اشرح وضعك وأقنع الأستاذ بأن يمنحك وقتًا إضافيًا.",
+      "hi": "अपनी स्थिति समझाइए और प्रोफ़ेसर को थोड़ा और समय देने के लिए मनाइए।",
+      "vi": "Giải thích hoàn cảnh và thuyết phục giáo sư cho bạn thêm thời gian.",
+      "id": "Jelaskan situasimu dan yakinkan profesor untuk memberimu waktu tambahan.",
+      "ms": "Terangkan situasi anda dan yakinkan profesor untuk memberi anda lebih masa.",
+      "ko": "상황을 설명하고 교수님이 시간을 더 주시도록 설득하세요."
+    },
+    "practice": "Explique su situación y convenza al profesor de que le dé más tiempo.",
+    "practice_translations": {
+      "en": "Explain your situation and convince the professor to give you more time.",
+      "es": "Explique su situación y convenza al profesor de que le dé más tiempo.",
+      "ja": "事情を説明して、教授に期限を延ばしてもらえるよう説得してください。",
+      "ko": "상황을 설명하고 교수님이 시간을 더 주시도록 설득하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain why you need more time",
+        "native_translations": {
+          "en": "Explain why you need more time",
+          "es": "Explique por qué necesita más tiempo",
+          "fr": "Expliquez pourquoi vous avez besoin de plus de temps",
+          "de": "Erklären Sie, warum Sie mehr Zeit brauchen",
+          "it": "Spiega perché ti serve più tempo",
+          "pl": "Wyjaśnij, dlaczego potrzebujesz więcej czasu",
+          "pt": "Explique por que você precisa de mais tempo",
+          "nl": "Leg uit waarom je meer tijd nodig hebt",
+          "hr": "Objasni zašto ti treba više vremena",
+          "tr": "Neden daha fazla süreye ihtiyacınız olduğunu açıklayın",
+          "uk": "Поясни, чому тобі потрібно більше часу",
+          "ar": "اشرح لماذا تحتاج إلى وقت إضافي",
+          "hi": "बताइए कि आपको और समय क्यों चाहिए",
+          "vi": "Giải thích vì sao bạn cần thêm thời gian",
+          "id": "Jelaskan kenapa kamu butuh waktu tambahan",
+          "ms": "Terangkan mengapa anda perlukan lebih masa",
+          "ko": "왜 시간이 더 필요한지 설명하세요"
+        },
+        "practice": "Explique por qué necesita más tiempo",
+        "practice_translations": {
+          "en": "Explain why you need more time",
+          "es": "Explique por qué necesita más tiempo",
+          "ja": "もっと時間が必要な理由を説明してください",
+          "ko": "왜 시간이 더 필요한지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for a deadline extension",
+        "native_translations": {
+          "en": "Ask for a deadline extension",
+          "es": "Pida una prórroga de la fecha de entrega",
+          "fr": "Demandez un report de la date limite",
+          "de": "Bitten Sie um eine Fristverlängerung",
+          "it": "Chiedi una proroga della scadenza",
+          "pl": "Poproś o przedłużenie terminu",
+          "pt": "Peça uma prorrogação do prazo",
+          "nl": "Vraag om uitstel van de deadline",
+          "hr": "Zamoli za produljenje roka",
+          "tr": "Teslim tarihinin uzatılmasını isteyin",
+          "uk": "Попроси перенести дедлайн",
+          "ar": "اطلب تمديد الموعد النهائي",
+          "hi": "डेडलाइन बढ़ाने की गुज़ारिश कीजिए",
+          "vi": "Xin gia hạn thời hạn nộp bài",
+          "id": "Minta perpanjangan tenggat waktu",
+          "ms": "Minta lanjutan tarikh akhir",
+          "ko": "마감 연장을 요청하세요"
+        },
+        "practice": "Pida una prórroga de la fecha de entrega",
+        "practice_translations": {
+          "en": "Ask for a deadline extension",
+          "es": "Pida una prórroga de la fecha de entrega",
+          "ja": "締め切りの延長をお願いしてください",
+          "ko": "마감 연장을 요청하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Offer a medical note or partial draft",
+        "native_translations": {
+          "en": "Offer a medical note or partial draft",
+          "es": "Ofrezca un justificante médico o un borrador parcial",
+          "fr": "Proposez un certificat médical ou un brouillon partiel",
+          "de": "Bieten Sie ein ärztliches Attest oder einen Teilentwurf an",
+          "it": "Offri un certificato medico o una bozza parziale",
+          "pl": "Zaproponuj zwolnienie lekarskie lub fragment pracy",
+          "pt": "Ofereça um atestado médico ou um rascunho parcial",
+          "nl": "Bied een doktersverklaring of een deel van je concept aan",
+          "hr": "Ponudi liječničku potvrdu ili dio nacrta",
+          "tr": "Doktor raporu veya taslağın bir kısmını göstermeyi teklif edin",
+          "uk": "Запропонуй медичну довідку або чернетку",
+          "ar": "اعرض تقديم تقرير طبي أو مسودة جزئية",
+          "hi": "मेडिकल नोट या अधूरा ड्राफ़्ट दिखाने की पेशकश कीजिए",
+          "vi": "Đề nghị nộp giấy khám bệnh hoặc bản nháp đang làm",
+          "id": "Tawarkan surat dokter atau draf sementara",
+          "ms": "Tawarkan sijil cuti sakit atau draf separa",
+          "ko": "진단서나 작성 중인 초안을 보여 드리겠다고 하세요"
+        },
+        "practice": "Ofrezca un justificante médico o un borrador parcial",
+        "practice_translations": {
+          "en": "Offer a medical note or partial draft",
+          "es": "Ofrezca un justificante médico o un borrador parcial",
+          "ja": "診断書か途中の原稿を見せると申し出てください",
+          "ko": "진단서나 작성 중인 초안을 보여 드리겠다고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a new deadline",
+        "native_translations": {
+          "en": "Agree on a new deadline",
+          "es": "Acuerden una nueva fecha de entrega",
+          "fr": "Mettez-vous d'accord sur une nouvelle date limite",
+          "de": "Einigen Sie sich auf eine neue Frist",
+          "it": "Concordate una nuova scadenza",
+          "pl": "Ustalcie nowy termin",
+          "pt": "Combinem um novo prazo",
+          "nl": "Spreek een nieuwe deadline af",
+          "hr": "Dogovori novi rok",
+          "tr": "Yeni bir teslim tarihinde anlaşın",
+          "uk": "Домовтеся про новий термін",
+          "ar": "اتفق على موعد نهائي جديد",
+          "hi": "नई डेडलाइन पर सहमति बनाइए",
+          "vi": "Thống nhất hạn nộp mới",
+          "id": "Sepakati tenggat waktu yang baru",
+          "ms": "Setuju tentang tarikh akhir baharu",
+          "ko": "새 마감일을 정하세요"
+        },
+        "practice": "Acuerden una nueva fecha de entrega",
+        "practice_translations": {
+          "en": "Agree on a new deadline",
+          "es": "Acuerden una nueva fecha de entrega",
+          "ja": "新しい締め切りを決めてください",
+          "ko": "새 마감일을 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Professor, do you have a moment? It's about the essay.",
+      "native_translations": {
+        "en": "Professor, do you have a moment? It's about the essay.",
+        "es": "Profesor, ¿tiene un momento? Es sobre el ensayo.",
+        "fr": "Excusez-moi, avez-vous un moment ? C'est au sujet de la dissertation.",
+        "de": "Entschuldigung, haben Sie kurz Zeit? Es geht um die Hausarbeit.",
+        "it": "Professore, ha un momento? Si tratta del saggio.",
+        "pl": "Panie profesorze, czy ma pan chwilę? Chodzi o esej.",
+        "pt": "Professor, o senhor tem um minuto? É sobre a redação.",
+        "nl": "Professor, heeft u even? Het gaat over het essay.",
+        "hr": "Profesore, imate li trenutak? Radi se o eseju.",
+        "tr": "Hocam, bir dakikanız var mı? Makaleyle ilgili.",
+        "uk": "Пане професоре, у вас є хвилинка? Це щодо есе.",
+        "ar": "أستاذي، هل لديك لحظة؟ الأمر يتعلق بالمقالة.",
+        "hi": "प्रोफ़ेसर, क्या आपके पास एक मिनट है? निबंध के बारे में बात करनी थी।",
+        "vi": "Thầy/cô ơi, thầy/cô có chút thời gian không ạ? Em muốn hỏi về bài luận.",
+        "id": "Profesor, apa Anda punya waktu sebentar? Ini soal esai.",
+        "ms": "Profesor, ada masa sebentar? Ini tentang esei saya.",
+        "ko": "교수님, 잠깐 시간 괜찮으세요? 에세이 때문에요."
+      },
+      "practice": "Profesor, ¿tiene un momento? Es sobre el ensayo.",
+      "practice_translations": {
+        "en": "Professor, do you have a moment? It's about the essay.",
+        "es": "Profesor, ¿tiene un momento? Es sobre el ensayo.",
+        "ja": "先生、少しよろしいでしょうか。レポートのことなのですが。",
+        "ko": "교수님, 잠깐 시간 괜찮으세요? 에세이 때문에요."
+      }
+    },
+    {
+      "native": "I was sick all week and couldn't finish it.",
+      "native_translations": {
+        "en": "I was sick all week and couldn't finish it.",
+        "es": "Estuve enfermo toda la semana y no pude terminarlo.",
+        "fr": "J'ai été malade toute la semaine et je n'ai pas pu la terminer.",
+        "de": "Ich war die ganze Woche krank und konnte sie nicht fertigstellen.",
+        "it": "Sono stato male tutta la settimana e non sono riuscito a finirlo.",
+        "pl": "Cały tydzień byłem chory i nie zdążyłem go skończyć.",
+        "pt": "Fiquei doente a semana toda e não consegui terminar.",
+        "nl": "Ik was de hele week ziek en heb het niet af kunnen maken.",
+        "hr": "Cijeli tjedan me držala bolest pa esej nije gotov.",
+        "tr": "Bütün hafta hastaydım ve bitiremedim.",
+        "uk": "Я хворів увесь тиждень і не встиг його дописати.",
+        "ar": "كنت مريضًا طوال الأسبوع ولم أتمكن من إنهائها.",
+        "hi": "मैं पूरे हफ़्ते बीमार था और इसे पूरा नहीं कर पाया।",
+        "vi": "Em bị ốm cả tuần nên không làm xong được.",
+        "id": "Saya sakit sepanjang minggu dan tidak bisa menyelesaikannya.",
+        "ms": "Saya sakit sepanjang minggu dan tidak dapat menyiapkannya.",
+        "ko": "일주일 내내 아파서 다 끝내지 못했어요."
+      },
+      "practice": "Estuve enfermo toda la semana y no pude terminarlo.",
+      "practice_translations": {
+        "en": "I was sick all week and couldn't finish it.",
+        "es": "Estuve enfermo toda la semana y no pude terminarlo.",
+        "ja": "一週間ずっと体調を崩していて、終わらせることができませんでした。",
+        "ko": "일주일 내내 아파서 다 끝내지 못했어요."
+      }
+    },
+    {
+      "native": "Would it be possible to have a few more days?",
+      "native_translations": {
+        "en": "Would it be possible to have a few more days?",
+        "es": "¿Sería posible tener unos días más?",
+        "fr": "Serait-il possible d'avoir quelques jours de plus ?",
+        "de": "Wäre es möglich, ein paar Tage mehr zu bekommen?",
+        "it": "Sarebbe possibile avere qualche giorno in più?",
+        "pl": "Czy byłoby możliwe, żebym dostał jeszcze kilka dni?",
+        "pt": "Seria possível ter mais alguns dias?",
+        "nl": "Zou het mogelijk zijn om nog een paar dagen te krijgen?",
+        "hr": "Bi li bilo moguće dobiti još nekoliko dana?",
+        "tr": "Birkaç gün daha alabilmem mümkün mü?",
+        "uk": "Чи можна отримати ще кілька днів?",
+        "ar": "هل من الممكن أن أحصل على بضعة أيام إضافية؟",
+        "hi": "क्या मुझे कुछ दिन और मिल सकते हैं?",
+        "vi": "Em có thể xin thêm vài ngày được không ạ?",
+        "id": "Apakah mungkin saya diberi beberapa hari lagi?",
+        "ms": "Bolehkah saya diberi beberapa hari lagi?",
+        "ko": "며칠만 더 주실 수 있을까요?"
+      },
+      "practice": "¿Sería posible tener unos días más?",
+      "practice_translations": {
+        "en": "Would it be possible to have a few more days?",
+        "es": "¿Sería posible tener unos días más?",
+        "ja": "あと数日いただくことは可能でしょうか。",
+        "ko": "며칠만 더 주실 수 있을까요?"
+      }
+    },
+    {
+      "native": "I have a doctor's note, and I can show you my draft.",
+      "native_translations": {
+        "en": "I have a doctor's note, and I can show you my draft.",
+        "es": "Tengo un justificante médico y puedo mostrarle mi borrador.",
+        "fr": "J'ai un certificat médical et je peux vous montrer mon brouillon.",
+        "de": "Ich habe ein ärztliches Attest und kann Ihnen meinen Entwurf zeigen.",
+        "it": "Ho un certificato medico e posso mostrarle la mia bozza.",
+        "pl": "Mam zaświadczenie od lekarza i mogę pokazać panu wersję roboczą.",
+        "pt": "Tenho um atestado médico e posso mostrar meu rascunho.",
+        "nl": "Ik heb een doktersverklaring en ik kan u mijn concept laten zien.",
+        "hr": "Imam liječničku potvrdu i mogu Vam pokazati nacrt.",
+        "tr": "Doktor raporum var, taslağımı da size gösterebilirim.",
+        "uk": "У мене є довідка від лікаря, і я можу показати вам чернетку.",
+        "ar": "لدي تقرير من الطبيب، ويمكنني أن أريك مسودتي.",
+        "hi": "मेरे पास डॉक्टर का नोट है, और मैं आपको अपना ड्राफ़्ट दिखा सकता हूँ।",
+        "vi": "Em có giấy của bác sĩ, và em có thể cho thầy/cô xem bản nháp.",
+        "id": "Saya punya surat dokter, dan saya bisa menunjukkan draf saya.",
+        "ms": "Saya ada sijil doktor, dan saya boleh tunjukkan draf saya.",
+        "ko": "진단서가 있고, 초안도 보여 드릴 수 있어요."
+      },
+      "practice": "Tengo un justificante médico y puedo mostrarle mi borrador.",
+      "practice_translations": {
+        "en": "I have a doctor's note, and I can show you my draft.",
+        "es": "Tengo un justificante médico y puedo mostrarle mi borrador.",
+        "ja": "診断書がありますし、下書きもお見せできます。",
+        "ko": "진단서가 있고, 초안도 보여 드릴 수 있어요."
+      }
+    },
+    {
+      "native": "I understand if there is a penalty.",
+      "native_translations": {
+        "en": "I understand if there is a penalty.",
+        "es": "Entiendo si hay alguna penalización.",
+        "fr": "Je comprendrais s'il y a une pénalité.",
+        "de": "Ich verstehe, wenn es dafür einen Punktabzug gibt.",
+        "it": "Capisco se ci sarà una penalità.",
+        "pl": "Rozumiem, jeśli będzie za to obniżona ocena.",
+        "pt": "Eu entendo se houver alguma penalidade.",
+        "nl": "Ik begrijp het als daar puntenaftrek tegenover staat.",
+        "hr": "Razumijem ako bude kazne za kašnjenje.",
+        "tr": "Not kesintisi olursa anlayışla karşılarım.",
+        "uk": "Я розумію, якщо буде штраф.",
+        "ar": "أتفهم إن كانت هناك عقوبة على التأخير.",
+        "hi": "अगर इसके लिए कुछ नंबर कटें तो मैं समझता हूँ।",
+        "vi": "Em hiểu nếu bị trừ điểm ạ.",
+        "id": "Saya mengerti kalau ada pengurangan nilai.",
+        "ms": "Saya faham jika ada penalti.",
+        "ko": "감점이 있어도 이해해요."
+      },
+      "practice": "Entiendo si hay alguna penalización.",
+      "practice_translations": {
+        "en": "I understand if there is a penalty.",
+        "es": "Entiendo si hay alguna penalización.",
+        "ja": "減点があるのは承知しています。",
+        "ko": "감점이 있어도 이해해요."
+      }
+    }
+  ]
+}

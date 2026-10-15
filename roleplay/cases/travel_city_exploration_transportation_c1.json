@@ -1,0 +1,289 @@
+{
+  "id": "travel_city_exploration_transportation_c1",
+  "title": "Lost on the Way to the Museum",
+  "title_translations": {
+    "en": "Lost on the Way to the Museum",
+    "es": "Extraviarse camino al museo",
+    "fr": "Perdu sur le chemin du musée",
+    "de": "Verlaufen auf dem Weg zum Museum",
+    "it": "Perso sulla strada per il museo",
+    "pl": "Zgubiony w drodze do muzeum",
+    "pt": "Perdido a caminho do museu",
+    "nl": "Verdwaald op weg naar het museum",
+    "hr": "Izgubljen na putu do muzeja",
+    "tr": "Müzeye Giderken Kayboldunuz",
+    "uk": "Заблукати дорогою до музею",
+    "ar": "ضائع في الطريق إلى المتحف",
+    "hi": "म्यूज़ियम के रास्ते में भटक गए",
+    "vi": "Lạc đường đến bảo tàng",
+    "id": "Tersesat Menuju Museum",
+    "ms": "Sesat dalam Perjalanan ke Muzium",
+    "ko": "박물관 가는 길에 길을 잃다"
+  },
+  "character": "fox",
+  "scenario": "You are lost in the city center while looking for the main museum. A friendly local (AI) stops to help you.",
+  "scenario_translations": {
+    "en": "You are lost in the city center while looking for the main museum. A friendly local (AI) stops to help you.",
+    "es": "Se perdió en el centro de la ciudad buscando el museo principal. Un lugareño amable (AI) se detiene a ayudarle.",
+    "fr": "Vous êtes perdu dans le centre-ville en cherchant le grand musée. Un habitant sympathique (AI) s'arrête pour vous aider.",
+    "de": "Sie haben sich in der Innenstadt verlaufen, während Sie das große Museum suchen. Eine freundliche Einheimische (AI) bleibt stehen, um Ihnen zu helfen.",
+    "it": "Ti sei perso nel centro città mentre cercavi il museo principale. Una persona del posto (AI) molto gentile si ferma ad aiutarti.",
+    "pl": "Zgubiłeś się w centrum miasta, szukając głównego muzeum. Życzliwy mieszkaniec (AI) zatrzymuje się, żeby ci pomóc.",
+    "pt": "Você está perdido no centro da cidade procurando o museu principal. Um morador simpático (AI) para para ajudar você.",
+    "nl": "Je bent verdwaald in het centrum terwijl je het grote museum zoekt. Een vriendelijke local (AI) blijft staan om je te helpen.",
+    "hr": "Tražiš glavni muzej i izgubio si se u središtu grada. Ljubazni mještanin (AI) zastane da ti pomogne.",
+    "tr": "Ana müzeyi ararken şehir merkezinde kayboldunuz. Güler yüzlü bir yerli (AI) size yardım etmek için duruyor.",
+    "uk": "Ти шукаєш головний музей і губишся в центрі міста. Привітний місцевий мешканець (AI) зупиняється, щоб допомогти.",
+    "ar": "أنت تائه في وسط المدينة أثناء بحثك عن المتحف الرئيسي. يتوقف أحد السكان المحليين الودودين (AI) لمساعدتك.",
+    "hi": "आप मुख्य म्यूज़ियम ढूँढते हुए शहर के बीच भटक गए हैं। एक मददगार स्थानीय व्यक्ति (AI) आपकी मदद के लिए रुकते हैं।",
+    "vi": "Bạn bị lạc ở trung tâm thành phố khi đang tìm bảo tàng chính. Một người dân địa phương thân thiện (AI) dừng lại giúp bạn.",
+    "id": "Kamu tersesat di pusat kota saat mencari museum utama. Seorang warga lokal (AI) yang ramah berhenti untuk membantumu.",
+    "ms": "Anda sesat di pusat bandar semasa mencari muzium utama. Seorang penduduk tempatan yang peramah (AI) berhenti untuk membantu anda.",
+    "ko": "중앙 박물관을 찾다가 시내 한복판에서 길을 잃었습니다. 친절한 현지인(AI)이 멈춰 서서 도와주려고 합니다."
+  },
+  "mission": {
+    "native": "Ask how to get to the museum and check how far it is.",
+    "native_translations": {
+      "en": "Ask how to get to the museum and check how far it is.",
+      "es": "Pregunte cómo llegar al museo y confirme qué tan lejos está.",
+      "fr": "Demandez comment aller au musée et vérifiez à quelle distance il se trouve.",
+      "de": "Fragen Sie, wie Sie zum Museum kommen, und erkundigen Sie sich, wie weit es ist.",
+      "it": "Chiedi come arrivare al museo e verifica quanto è lontano.",
+      "pl": "Zapytaj, jak dojść do muzeum, i sprawdź, jak daleko to jest.",
+      "pt": "Pergunte como chegar ao museu e confirme a distância.",
+      "nl": "Vraag hoe je bij het museum komt en check hoe ver het is.",
+      "hr": "Pitaj kako doći do muzeja i provjeri koliko je daleko.",
+      "tr": "Müzeye nasıl gideceğinizi sorun ve ne kadar uzak olduğunu öğrenin.",
+      "uk": "Запитай, як дістатися до музею, і з'ясуй, наскільки це далеко.",
+      "ar": "اسأل كيف تصل إلى المتحف وتأكّد من المسافة.",
+      "hi": "पूछिए कि म्यूज़ियम कैसे पहुँचें और वह कितनी दूर है।",
+      "vi": "Hỏi đường đến bảo tàng và hỏi xem có xa không.",
+      "id": "Tanyakan cara ke museum dan pastikan seberapa jauh jaraknya.",
+      "ms": "Tanya cara ke muzium dan pastikan berapa jauh.",
+      "ko": "박물관에 가는 방법을 묻고 얼마나 먼지 확인하세요."
+    },
+    "practice": "Pregunte cómo llegar al museo y confirme qué tan lejos está.",
+    "practice_translations": {
+      "en": "Ask how to get to the museum and check how far it is.",
+      "es": "Pregunte cómo llegar al museo y confirme qué tan lejos está.",
+      "ja": "博物館への行き方を聞いて、どのくらい遠いか確認してください。",
+      "ko": "박물관에 가는 방법을 묻고 얼마나 먼지 확인하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask where the museum is",
+        "native_translations": {
+          "en": "Ask where the museum is",
+          "es": "Pregunte dónde está el museo",
+          "fr": "Demandez où se trouve le musée",
+          "de": "Fragen Sie, wo das Museum ist",
+          "it": "Chiedi dov'è il museo",
+          "pl": "Zapytaj, gdzie jest muzeum",
+          "pt": "Pergunte onde fica o museu",
+          "nl": "Vraag waar het museum is",
+          "hr": "Pitaj gdje je muzej",
+          "tr": "Müzenin nerede olduğunu sorun",
+          "uk": "Запитай, де музей",
+          "ar": "اسأل أين المتحف",
+          "hi": "पूछिए कि म्यूज़ियम कहाँ है",
+          "vi": "Hỏi bảo tàng ở đâu",
+          "id": "Tanyakan di mana museumnya",
+          "ms": "Tanya di mana muzium itu",
+          "ko": "박물관이 어디 있는지 물어보세요"
+        },
+        "practice": "Pregunte dónde está el museo",
+        "practice_translations": {
+          "en": "Ask where the museum is",
+          "es": "Pregunte dónde está el museo",
+          "ja": "博物館がどこにあるか聞いてください",
+          "ko": "박물관이 어디 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask if you can walk there",
+        "native_translations": {
+          "en": "Ask if you can walk there",
+          "es": "Pregunte si puede llegar caminando",
+          "fr": "Demandez si vous pouvez y aller à pied",
+          "de": "Fragen Sie, ob man zu Fuß hingehen kann",
+          "it": "Chiedi se ci puoi andare a piedi",
+          "pl": "Zapytaj, czy da się tam dojść pieszo",
+          "pt": "Pergunte se dá para ir a pé",
+          "nl": "Vraag of je ernaartoe kunt lopen",
+          "hr": "Pitaj možeš li onamo pješice",
+          "tr": "Oraya yürüyerek gidip gidemeyeceğinizi sorun",
+          "uk": "Запитай, чи можна дійти пішки",
+          "ar": "اسأل إن كان بإمكانك الذهاب سيرًا على الأقدام",
+          "hi": "पूछिए कि क्या आप पैदल वहाँ जा सकते हैं",
+          "vi": "Hỏi có thể đi bộ đến đó không",
+          "id": "Tanyakan apakah kamu bisa jalan kaki ke sana",
+          "ms": "Tanya sama ada anda boleh berjalan kaki ke sana",
+          "ko": "걸어서 갈 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte si puede llegar caminando",
+        "practice_translations": {
+          "en": "Ask if you can walk there",
+          "es": "Pregunte si puede llegar caminando",
+          "ja": "歩いて行けるか聞いてください",
+          "ko": "걸어서 갈 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Repeat the directions to confirm them",
+        "native_translations": {
+          "en": "Repeat the directions to confirm them",
+          "es": "Repita las indicaciones para confirmarlas",
+          "fr": "Répétez l'itinéraire pour le confirmer",
+          "de": "Wiederholen Sie die Wegbeschreibung, um sie zu bestätigen",
+          "it": "Ripeti le indicazioni per confermarle",
+          "pl": "Powtórz wskazówki, żeby się upewnić",
+          "pt": "Repita as indicações para confirmá-las",
+          "nl": "Herhaal de routebeschrijving om hem te bevestigen",
+          "hr": "Ponovi upute da ih potvrdiš",
+          "tr": "Teyit etmek için tarifi tekrarlayın",
+          "uk": "Повтори маршрут, щоб переконатися",
+          "ar": "كرّر الاتجاهات للتأكد منها",
+          "hi": "पक्का करने के लिए रास्ता दोहराइए",
+          "vi": "Nhắc lại lời chỉ đường để xác nhận",
+          "id": "Ulangi petunjuk arahnya untuk memastikan",
+          "ms": "Ulang arah itu untuk mengesahkannya",
+          "ko": "길 안내를 다시 말해서 확인하세요"
+        },
+        "practice": "Repita las indicaciones para confirmarlas",
+        "practice_translations": {
+          "en": "Repeat the directions to confirm them",
+          "es": "Repita las indicaciones para confirmarlas",
+          "ja": "道順を繰り返して確認してください",
+          "ko": "길 안내를 다시 말해서 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, how do I get to the museum?",
+      "native_translations": {
+        "en": "Excuse me, how do I get to the museum?",
+        "es": "Disculpe, ¿cómo llego al museo?",
+        "fr": "Excusez-moi, comment est-ce que je peux aller au musée ?",
+        "de": "Entschuldigung, wie komme ich zum Museum?",
+        "it": "Mi scusi, come arrivo al museo?",
+        "pl": "Przepraszam, jak dojść do muzeum?",
+        "pt": "Com licença, como eu chego ao museu?",
+        "nl": "Pardon, hoe kom ik bij het museum?",
+        "hr": "Oprostite, kako da dođem do muzeja?",
+        "tr": "Affedersiniz, müzeye nasıl gidebilirim?",
+        "uk": "Перепрошую, як дістатися до музею?",
+        "ar": "عفوًا، كيف أصل إلى المتحف؟",
+        "hi": "माफ़ कीजिए, म्यूज़ियम कैसे पहुँचूँ?",
+        "vi": "Xin lỗi, cho tôi hỏi đường đến bảo tàng đi thế nào ạ?",
+        "id": "Permisi, bagaimana cara ke museum?",
+        "ms": "Maaf, bagaimana saya nak ke muzium?",
+        "ko": "실례합니다, 박물관에 어떻게 가요?"
+      },
+      "practice": "Disculpe, ¿cómo llego al museo?",
+      "practice_translations": {
+        "en": "Excuse me, how do I get to the museum?",
+        "es": "Disculpe, ¿cómo llego al museo?",
+        "ja": "すみません、博物館へはどう行けばいいですか。",
+        "ko": "실례합니다, 박물관에 어떻게 가요?"
+      }
+    },
+    {
+      "native": "Is it far from here?",
+      "native_translations": {
+        "en": "Is it far from here?",
+        "es": "¿Está lejos de aquí?",
+        "fr": "C'est loin d'ici ?",
+        "de": "Ist es weit von hier?",
+        "it": "È lontano da qui?",
+        "pl": "Czy to daleko stąd?",
+        "pt": "É longe daqui?",
+        "nl": "Is het ver hiervandaan?",
+        "hr": "Je li daleko odavde?",
+        "tr": "Buraya uzak mı?",
+        "uk": "Це далеко звідси?",
+        "ar": "هل هو بعيد من هنا؟",
+        "hi": "क्या यह यहाँ से दूर है?",
+        "vi": "Từ đây đến đó có xa không?",
+        "id": "Apakah jauh dari sini?",
+        "ms": "Jauh ke dari sini?",
+        "ko": "여기서 멀어요?"
+      },
+      "practice": "¿Está lejos de aquí?",
+      "practice_translations": {
+        "en": "Is it far from here?",
+        "es": "¿Está lejos de aquí?",
+        "ja": "ここから遠いですか。",
+        "ko": "여기서 멀어요?"
+      }
+    },
+    {
+      "native": "So I go straight and turn left at the church?",
+      "native_translations": {
+        "en": "So I go straight and turn left at the church?",
+        "es": "Entonces sigo derecho y doblo a la izquierda en la iglesia, ¿verdad?",
+        "fr": "Donc je vais tout droit et je tourne à gauche à l'église ?",
+        "de": "Also geradeaus und bei der Kirche links abbiegen?",
+        "it": "Quindi vado dritto e giro a sinistra alla chiesa?",
+        "pl": "Czyli idę prosto i skręcam w lewo przy kościele?",
+        "pt": "Então eu sigo reto e viro à esquerda na igreja?",
+        "nl": "Dus ik ga rechtdoor en sla bij de kerk linksaf?",
+        "hr": "Znači, idem ravno i kod crkve skrenem lijevo?",
+        "tr": "Yani düz gidip kilisenin orada sola mı döneceğim?",
+        "uk": "Тобто я йду прямо й повертаю ліворуч біля церкви?",
+        "ar": "إذن أمشي مباشرة ثم أنعطف يسارًا عند الكنيسة؟",
+        "hi": "तो मैं सीधा जाऊँ और चर्च के पास बाएँ मुड़ूँ?",
+        "vi": "Vậy là tôi đi thẳng rồi rẽ trái ở nhà thờ, đúng không?",
+        "id": "Jadi saya jalan lurus lalu belok kiri di gereja?",
+        "ms": "Jadi saya jalan terus dan belok kiri di gereja?",
+        "ko": "그러니까 쭉 가다가 교회에서 왼쪽으로 돌면 되죠?"
+      },
+      "practice": "Entonces sigo derecho y doblo a la izquierda en la iglesia, ¿verdad?",
+      "practice_translations": {
+        "en": "So I go straight and turn left at the church?",
+        "es": "Entonces sigo derecho y doblo a la izquierda en la iglesia, ¿verdad?",
+        "ja": "まっすぐ行って、教会のところを左ですね。",
+        "ko": "그러니까 쭉 가다가 교회에서 왼쪽으로 돌면 되죠?"
+      }
+    },
+    {
+      "native": "Thank you so much for your help!",
+      "native_translations": {
+        "en": "Thank you so much for your help!",
+        "es": "¡Muchas gracias por su ayuda!",
+        "fr": "Merci beaucoup pour votre aide !",
+        "de": "Vielen Dank für Ihre Hilfe!",
+        "it": "Grazie mille per l'aiuto!",
+        "pl": "Bardzo dziękuję za pomoc!",
+        "pt": "Muito obrigado pela ajuda!",
+        "nl": "Heel erg bedankt voor je hulp!",
+        "hr": "Puno Vam hvala na pomoći!",
+        "tr": "Yardımınız için çok teşekkür ederim!",
+        "uk": "Щиро дякую за допомогу!",
+        "ar": "شكرًا جزيلًا على مساعدتك!",
+        "hi": "आपकी मदद के लिए बहुत-बहुत धन्यवाद!",
+        "vi": "Cảm ơn anh/chị rất nhiều!",
+        "id": "Terima kasih banyak atas bantuannya!",
+        "ms": "Terima kasih banyak atas bantuan awak!",
+        "ko": "도와주셔서 정말 감사합니다!"
+      },
+      "practice": "¡Muchas gracias por su ayuda!",
+      "practice_translations": {
+        "en": "Thank you so much for your help!",
+        "es": "¡Muchas gracias por su ayuda!",
+        "ja": "ご親切に、本当にありがとうございます！",
+        "ko": "도와주셔서 정말 감사합니다!"
+      }
+    }
+  ]
+}

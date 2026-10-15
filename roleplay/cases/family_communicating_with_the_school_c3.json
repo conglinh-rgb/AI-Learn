@@ -1,0 +1,351 @@
+{
+  "id": "family_communicating_with_the_school_c3",
+  "title": "A Problem at Recess",
+  "title_translations": {
+    "en": "A Problem at Recess",
+    "es": "Un problema en el recreo",
+    "fr": "Un problème à la récré",
+    "de": "Ein Problem in der Pause",
+    "it": "Un problema durante la ricreazione",
+    "pl": "Problem na przerwie",
+    "pt": "Um problema no recreio",
+    "nl": "Een probleem in de pauze",
+    "hr": "Problem pod odmorom",
+    "tr": "Teneffüste Bir Sorun",
+    "uk": "Проблема на перерві",
+    "ar": "مشكلة في وقت الاستراحة",
+    "hi": "रिसेस में एक समस्या",
+    "vi": "Rắc rối giờ ra chơi",
+    "id": "Masalah Saat Jam Istirahat",
+    "ms": "Masalah Semasa Waktu Rehat",
+    "ko": "쉬는 시간에 생긴 문제"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your child says another student keeps taking their lunch at recess. The principal (AI) thinks it is \"just kids being kids.\"",
+  "scenario_translations": {
+    "en": "Your child says another student keeps taking their lunch at recess. The principal (AI) thinks it is \"just kids being kids.\"",
+    "es": "Su hijo dice que otro estudiante le quita el almuerzo en el recreo una y otra vez. El director (AI) cree que son \"cosas de niños\".",
+    "fr": "Votre enfant dit qu'un autre élève lui prend sans arrêt son déjeuner à la récréation. Le directeur (AI) pense que « ce sont des histoires d'enfants ».",
+    "de": "Ihr Kind erzählt, dass ein anderes Kind ihm in der Pause immer wieder das Pausenbrot wegnimmt. Die Schulleitung (AI) hält das für „ganz normal unter Kindern“.",
+    "it": "Tuo figlio racconta che un altro studente continua a prendergli il pranzo durante la ricreazione. Il preside (AI) pensa che siano \"solo cose da bambini\".",
+    "pl": "Twoje dziecko mówi, że inny uczeń ciągle zabiera mu drugie śniadanie na przerwie. Dyrektor (AI) uważa, że „dzieci już tak mają”.",
+    "pt": "Seu filho diz que outro aluno vive pegando o lanche dele no recreio. O diretor (AI) acha que é \"coisa de criança\".",
+    "nl": "Je kind zegt dat een andere leerling in de pauze steeds zijn lunch afpakt. De directeur (AI) vindt dat 'kinderen nu eenmaal zo zijn'.",
+    "hr": "Tvoje dijete kaže da mu drugi učenik stalno uzima užinu pod odmorom. Ravnatelj (AI) misli da su to „samo dječje stvari”.",
+    "tr": "Çocuğunuz, teneffüste başka bir öğrencinin sürekli yemeğini aldığını söylüyor. Okul müdürü (AI) bunun \"çocukluk işte\" olduğunu düşünüyor.",
+    "uk": "Твоя дитина каже, що інший учень постійно забирає її обід на перерві. Директор (AI) вважає, що «діти є діти».",
+    "ar": "يقول طفلك إن طالبًا آخر يأخذ غداءه باستمرار في وقت الاستراحة. المدير (AI) يرى أن الأمر «مجرد تصرفات أطفال».",
+    "hi": "आपका बच्चा बताता है कि रिसेस में एक दूसरा छात्र बार-बार उसका लंच ले लेता है। प्रिंसिपल (AI) को लगता है कि \"बच्चे तो ऐसे ही होते हैं।\"",
+    "vi": "Con bạn kể rằng có một bạn khác cứ lấy đồ ăn trưa của con vào giờ ra chơi. Hiệu trưởng (AI) cho rằng đó \"chỉ là chuyện trẻ con\".",
+    "id": "Anakmu bilang ada murid lain yang terus mengambil bekalnya saat jam istirahat. Kepala sekolah (AI) menganggapnya \"cuma kenakalan anak-anak\".",
+    "ms": "Anak anda berkata seorang murid lain asyik mengambil bekal makanannya semasa waktu rehat. Guru besar (AI) menganggap itu \"biasalah budak-budak.\"",
+    "ko": "아이가 쉬는 시간마다 다른 학생이 자기 도시락을 가져간다고 해요. 교장 선생님(AI)은 \"애들이 다 그렇죠\"라고 생각해요."
+  },
+  "mission": {
+    "native": "Explain the problem firmly and get the school to take clear action.",
+    "native_translations": {
+      "en": "Explain the problem firmly and get the school to take clear action.",
+      "es": "Explique el problema con firmeza y consiga que la escuela tome medidas claras.",
+      "fr": "Exposez fermement le problème et obtenez de l'école des mesures claires.",
+      "de": "Schildern Sie das Problem mit Nachdruck und sorgen Sie dafür, dass die Schule klare Maßnahmen ergreift.",
+      "it": "Spiega il problema con fermezza e ottieni che la scuola intervenga in modo chiaro.",
+      "pl": "Stanowczo wyjaśnij problem i doprowadź do tego, żeby szkoła podjęła konkretne działania.",
+      "pt": "Explique o problema com firmeza e faça a escola tomar uma atitude clara.",
+      "nl": "Leg het probleem stellig uit en zorg dat de school duidelijk actie onderneemt.",
+      "hr": "Odlučno objasni problem i postigni da škola poduzme konkretne mjere.",
+      "tr": "Sorunu kararlı bir şekilde açıklayın ve okulun net bir adım atmasını sağlayın.",
+      "uk": "Твердо поясни проблему й домовся, щоб школа вжила чітких заходів.",
+      "ar": "اشرح المشكلة بحزم واجعل المدرسة تتخذ إجراءً واضحًا.",
+      "hi": "मज़बूती से समस्या समझाइए और स्कूल से ठोस कार्रवाई करवाइए।",
+      "vi": "Kiên quyết giải thích vấn đề và yêu cầu nhà trường có hành động rõ ràng.",
+      "id": "Jelaskan masalahnya dengan tegas dan buat sekolah mengambil tindakan yang jelas.",
+      "ms": "Terangkan masalah itu dengan tegas dan pastikan sekolah mengambil tindakan yang jelas.",
+      "ko": "문제를 단호하게 설명하고 학교가 분명한 조치를 취하게 하세요."
+    },
+    "practice": "Explique el problema con firmeza y consiga que la escuela tome medidas claras.",
+    "practice_translations": {
+      "en": "Explain the problem firmly and get the school to take clear action.",
+      "es": "Explique el problema con firmeza y consiga que la escuela tome medidas claras.",
+      "ja": "はっきりと問題を説明し、学校に具体的な対応をしてもらってください。",
+      "ko": "문제를 단호하게 설명하고 학교가 분명한 조치를 취하게 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Describe what has been happening to your child",
+        "native_translations": {
+          "en": "Describe what has been happening to your child",
+          "es": "Describa lo que le ha estado pasando a su hijo",
+          "fr": "Décrivez ce qui arrive à votre enfant",
+          "de": "Beschreiben Sie, was Ihrem Kind passiert",
+          "it": "Descrivi cosa sta succedendo a tuo figlio",
+          "pl": "Opisz, co spotyka twoje dziecko",
+          "pt": "Descreva o que está acontecendo com seu filho",
+          "nl": "Beschrijf wat je kind is overkomen",
+          "hr": "Opiši što se događa tvom djetetu",
+          "tr": "Çocuğunuzun başına gelenleri anlatın",
+          "uk": "Опиши, що відбувається з твоєю дитиною",
+          "ar": "صف ما يحدث لطفلك",
+          "hi": "बताइए कि आपके बच्चे के साथ क्या हो रहा है",
+          "vi": "Mô tả những gì đang xảy ra với con bạn",
+          "id": "Ceritakan apa yang dialami anakmu",
+          "ms": "Ceritakan apa yang telah berlaku kepada anak anda",
+          "ko": "아이에게 어떤 일이 있었는지 설명하세요"
+        },
+        "practice": "Describa lo que le ha estado pasando a su hijo",
+        "practice_translations": {
+          "en": "Describe what has been happening to your child",
+          "es": "Describa lo que le ha estado pasando a su hijo",
+          "ja": "子どもに何が起きているか説明してください",
+          "ko": "아이에게 어떤 일이 있었는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain how it affects your child",
+        "native_translations": {
+          "en": "Explain how it affects your child",
+          "es": "Explique cómo le afecta a su hijo",
+          "fr": "Expliquez les conséquences pour votre enfant",
+          "de": "Erklären Sie, wie es Ihr Kind belastet",
+          "it": "Spiega come questo influisce su tuo figlio",
+          "pl": "Wyjaśnij, jak to wpływa na twoje dziecko",
+          "pt": "Explique como isso afeta seu filho",
+          "nl": "Leg uit wat het met je kind doet",
+          "hr": "Objasni kako to utječe na tvoje dijete",
+          "tr": "Bunun çocuğunuzu nasıl etkilediğini açıklayın",
+          "uk": "Поясни, як це впливає на дитину",
+          "ar": "اشرح كيف يؤثر ذلك في طفلك",
+          "hi": "बताइए कि इसका आपके बच्चे पर क्या असर पड़ रहा है",
+          "vi": "Giải thích việc này ảnh hưởng đến con thế nào",
+          "id": "Jelaskan dampaknya bagi anakmu",
+          "ms": "Terangkan bagaimana ia menjejaskan anak anda",
+          "ko": "그 일이 아이에게 어떤 영향을 주는지 설명하세요"
+        },
+        "practice": "Explique cómo le afecta a su hijo",
+        "practice_translations": {
+          "en": "Explain how it affects your child",
+          "es": "Explique cómo le afecta a su hijo",
+          "ja": "それが子どもにどう影響しているか説明してください",
+          "ko": "그 일이 아이에게 어떤 영향을 주는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Respond calmly when the principal downplays it",
+        "native_translations": {
+          "en": "Respond calmly when the principal downplays it",
+          "es": "Responda con calma cuando el director le quite importancia",
+          "fr": "Répondez calmement quand le directeur minimise la situation",
+          "de": "Reagieren Sie ruhig, wenn die Schulleitung es herunterspielt",
+          "it": "Rispondi con calma quando il preside minimizza",
+          "pl": "Odpowiedz spokojnie, gdy dyrektor bagatelizuje sprawę",
+          "pt": "Responda com calma quando o diretor minimizar o problema",
+          "nl": "Reageer rustig als de directeur het bagatelliseert",
+          "hr": "Mirno odgovori kad ravnatelj umanjuje problem",
+          "tr": "Müdür durumu önemsizleştirdiğinde sakince cevap verin",
+          "uk": "Спокійно відповідай, коли директор применшує проблему",
+          "ar": "ردّ بهدوء عندما يقلّل المدير من شأن الأمر",
+          "hi": "जब प्रिंसिपल बात को हल्का करें तो शांति से जवाब दीजिए",
+          "vi": "Bình tĩnh đáp lại khi hiệu trưởng xem nhẹ vấn đề",
+          "id": "Tanggapi dengan tenang saat kepala sekolah menganggapnya sepele",
+          "ms": "Balas dengan tenang apabila guru besar memperkecilkannya",
+          "ko": "교장 선생님이 대수롭지 않게 여기면 침착하게 대응하세요"
+        },
+        "practice": "Responda con calma cuando el director le quite importancia",
+        "practice_translations": {
+          "en": "Respond calmly when the principal downplays it",
+          "es": "Responda con calma cuando el director le quite importancia",
+          "ja": "校長が問題を軽く扱っても、落ち着いて答えてください",
+          "ko": "교장 선생님이 대수롭지 않게 여기면 침착하게 대응하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for a specific plan and a follow-up date",
+        "native_translations": {
+          "en": "Ask for a specific plan and a follow-up date",
+          "es": "Pida un plan concreto y una fecha de seguimiento",
+          "fr": "Demandez un plan précis et une date de suivi",
+          "de": "Bitten Sie um einen konkreten Plan und einen Termin für ein Folgegespräch",
+          "it": "Chiedi un piano concreto e una data per risentirvi",
+          "pl": "Poproś o konkretny plan i termin ponownej rozmowy",
+          "pt": "Peça um plano concreto e uma data para retorno",
+          "nl": "Vraag om een concreet plan en een datum voor een vervolggesprek",
+          "hr": "Zatraži konkretan plan i datum ponovnog razgovora",
+          "tr": "Somut bir plan ve bir takip tarihi isteyin",
+          "uk": "Попроси конкретний план і дату наступної розмови",
+          "ar": "اطلب خطة محددة وموعدًا للمتابعة",
+          "hi": "एक साफ़ योजना और फिर से बात करने की तारीख़ माँगिए",
+          "vi": "Yêu cầu một kế hoạch cụ thể và ngày trao đổi lại",
+          "id": "Minta rencana yang jelas dan tanggal untuk membahasnya lagi",
+          "ms": "Minta pelan yang khusus dan tarikh susulan",
+          "ko": "구체적인 계획과 후속 면담 날짜를 요청하세요"
+        },
+        "practice": "Pida un plan concreto y una fecha de seguimiento",
+        "practice_translations": {
+          "en": "Ask for a specific plan and a follow-up date",
+          "es": "Pida un plan concreto y una fecha de seguimiento",
+          "ja": "具体的な計画と次回の話し合いの日程を求めてください",
+          "ko": "구체적인 계획과 후속 면담 날짜를 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm here because of something serious that's happening at recess.",
+      "native_translations": {
+        "en": "I'm here because of something serious that's happening at recess.",
+        "es": "Vengo por algo serio que está pasando en el recreo.",
+        "fr": "Je viens vous voir pour quelque chose de grave qui se passe à la récréation.",
+        "de": "Ich bin hier, weil in der Pause etwas Ernstes passiert.",
+        "it": "Sono qui per una cosa seria che sta succedendo durante la ricreazione.",
+        "pl": "Przychodzę w poważnej sprawie, która dzieje się na przerwach.",
+        "pt": "Estou aqui por causa de algo sério que está acontecendo no recreio.",
+        "nl": "Ik ben hier vanwege iets ernstigs dat in de pauzes gebeurt.",
+        "hr": "Ovdje sam zbog nečeg ozbiljnog što se događa pod odmorom.",
+        "tr": "Teneffüste yaşanan ciddi bir durum yüzünden buradayım.",
+        "uk": "Я прийшов через серйозну річ, що відбувається на перервах.",
+        "ar": "أنا هنا بسبب أمر خطير يحدث في وقت الاستراحة.",
+        "hi": "मैं रिसेस में हो रही एक गंभीर बात की वजह से यहाँ आया हूँ।",
+        "vi": "Tôi đến đây vì có chuyện nghiêm trọng đang xảy ra vào giờ ra chơi.",
+        "id": "Saya datang karena ada hal serius yang terjadi saat jam istirahat.",
+        "ms": "Saya datang kerana ada perkara serius yang berlaku semasa waktu rehat.",
+        "ko": "쉬는 시간에 일어나고 있는 심각한 일 때문에 왔습니다."
+      },
+      "practice": "Vengo por algo serio que está pasando en el recreo.",
+      "practice_translations": {
+        "en": "I'm here because of something serious that's happening at recess.",
+        "es": "Vengo por algo serio que está pasando en el recreo.",
+        "ja": "休み時間に起きている深刻な問題のことで伺いました。",
+        "ko": "쉬는 시간에 일어나고 있는 심각한 일 때문에 왔습니다."
+      }
+    },
+    {
+      "native": "Another student has taken my son's lunch almost every day this week.",
+      "native_translations": {
+        "en": "Another student has taken my son's lunch almost every day this week.",
+        "es": "Otro alumno le ha quitado el almuerzo a mi hijo casi todos los días esta semana.",
+        "fr": "Un autre élève a pris le déjeuner de mon fils presque tous les jours cette semaine.",
+        "de": "Ein anderes Kind hat meinem Sohn diese Woche fast jeden Tag das Pausenbrot weggenommen.",
+        "it": "Un altro studente ha preso il pranzo di mio figlio quasi ogni giorno questa settimana.",
+        "pl": "Inny uczeń zabierał mojemu synowi drugie śniadanie prawie codziennie w tym tygodniu.",
+        "pt": "Outro aluno pegou o lanche do meu filho quase todos os dias desta semana.",
+        "nl": "Een andere leerling heeft deze week bijna elke dag de lunch van mijn zoon afgepakt.",
+        "hr": "Drugi učenik ovaj je tjedan gotovo svaki dan uzimao užinu mom sinu.",
+        "tr": "Başka bir öğrenci bu hafta neredeyse her gün oğlumun yemeğini aldı.",
+        "uk": "Цього тижня інший учень майже щодня забирав обід мого сина.",
+        "ar": "طالب آخر أخذ غداء ابني كل يوم تقريبًا هذا الأسبوع.",
+        "hi": "इस हफ़्ते लगभग हर दिन एक दूसरे छात्र ने मेरे बेटे का लंच ले लिया।",
+        "vi": "Tuần này, gần như ngày nào cũng có một bạn lấy mất đồ ăn trưa của con trai tôi.",
+        "id": "Minggu ini hampir setiap hari ada murid lain yang mengambil bekal anak saya.",
+        "ms": "Seorang murid lain mengambil bekal makanan anak saya hampir setiap hari minggu ini.",
+        "ko": "이번 주에 거의 매일 다른 학생이 제 아들 도시락을 가져갔어요."
+      },
+      "practice": "Otro alumno le ha quitado el almuerzo a mi hijo casi todos los días esta semana.",
+      "practice_translations": {
+        "en": "Another student has taken my son's lunch almost every day this week.",
+        "es": "Otro alumno le ha quitado el almuerzo a mi hijo casi todos los días esta semana.",
+        "ja": "今週はほぼ毎日、ほかの生徒に息子のお弁当を取られています。",
+        "ko": "이번 주에 거의 매일 다른 학생이 제 아들 도시락을 가져갔어요."
+      }
+    },
+    {
+      "native": "He's hungry in the afternoon and doesn't want to come to school.",
+      "native_translations": {
+        "en": "He's hungry in the afternoon and doesn't want to come to school.",
+        "es": "Tiene hambre en la tarde y no quiere venir a la escuela.",
+        "fr": "Il a faim l'après-midi et ne veut plus venir à l'école.",
+        "de": "Nachmittags hat er Hunger und will nicht mehr in die Schule gehen.",
+        "it": "Il pomeriggio ha fame e non vuole venire a scuola.",
+        "pl": "Po południu jest głodny i nie chce chodzić do szkoły.",
+        "pt": "Ele fica com fome à tarde e não quer mais ir à escola.",
+        "nl": "Hij heeft 's middags honger en wil niet meer naar school.",
+        "hr": "Poslijepodne je gladan i ne želi ići u školu.",
+        "tr": "Öğleden sonra aç kalıyor ve okula gelmek istemiyor.",
+        "uk": "Після обіду він голодний і не хоче ходити до школи.",
+        "ar": "يشعر بالجوع بعد الظهر ولا يريد الذهاب إلى المدرسة.",
+        "hi": "दोपहर में उसे भूख लगती है और वह स्कूल आना नहीं चाहता।",
+        "vi": "Buổi chiều cháu bị đói và không muốn đến trường nữa.",
+        "id": "Dia kelaparan di siang hari dan tidak mau sekolah.",
+        "ms": "Dia lapar pada waktu petang dan tidak mahu ke sekolah.",
+        "ko": "아이가 오후만 되면 배고파하고, 학교에 오기 싫어해요."
+      },
+      "practice": "Tiene hambre en la tarde y no quiere venir a la escuela.",
+      "practice_translations": {
+        "en": "He's hungry in the afternoon and doesn't want to come to school.",
+        "es": "Tiene hambre en la tarde y no quiere venir a la escuela.",
+        "ja": "午後はお腹がすいていて、学校に行きたくないと言っています。",
+        "ko": "아이가 오후만 되면 배고파하고, 학교에 오기 싫어해요."
+      }
+    },
+    {
+      "native": "I understand, but this is more than kids being kids.",
+      "native_translations": {
+        "en": "I understand, but this is more than kids being kids.",
+        "es": "Lo entiendo, pero esto es más que cosas de niños.",
+        "fr": "Je comprends, mais c'est bien plus que des histoires d'enfants.",
+        "de": "Ich verstehe, aber das ist mehr als nur normal unter Kindern.",
+        "it": "Capisco, ma qui non si tratta solo di cose da bambini.",
+        "pl": "Rozumiem, ale to coś więcej niż zwykłe dziecięce zachowanie.",
+        "pt": "Eu entendo, mas isso é mais do que coisa de criança.",
+        "nl": "Ik begrijp het, maar dit is meer dan kinderen die kinderen zijn.",
+        "hr": "Razumijem, ali ovo je više od dječjih stvari.",
+        "tr": "Anlıyorum ama bu çocukluktan öte bir şey.",
+        "uk": "Я розумію, але це не просто дитячі витівки.",
+        "ar": "أتفهم ذلك، لكن الأمر أكبر من مجرد تصرفات أطفال.",
+        "hi": "मैं समझता हूँ, लेकिन यह बच्चों की आम शरारत से कहीं ज़्यादा है।",
+        "vi": "Tôi hiểu, nhưng chuyện này không chỉ là chuyện trẻ con.",
+        "id": "Saya mengerti, tapi ini lebih dari sekadar kenakalan anak-anak.",
+        "ms": "Saya faham, tetapi ini lebih daripada perangai biasa budak-budak.",
+        "ko": "이해는 하지만, 이건 애들이 다 그런 수준이 아니에요."
+      },
+      "practice": "Lo entiendo, pero esto es más que cosas de niños.",
+      "practice_translations": {
+        "en": "I understand, but this is more than kids being kids.",
+        "es": "Lo entiendo, pero esto es más que cosas de niños.",
+        "ja": "おっしゃることはわかりますが、これは子ども同士のよくあることでは済みません。",
+        "ko": "이해는 하지만, 이건 애들이 다 그런 수준이 아니에요."
+      }
+    },
+    {
+      "native": "What exactly will the school do, and when can we talk again?",
+      "native_translations": {
+        "en": "What exactly will the school do, and when can we talk again?",
+        "es": "¿Qué va a hacer exactamente la escuela y cuándo podemos volver a hablar?",
+        "fr": "Que va faire l'école exactement, et quand pourrons-nous en reparler ?",
+        "de": "Was genau wird die Schule unternehmen, und wann können wir wieder sprechen?",
+        "it": "Cosa farà esattamente la scuola, e quando possiamo riparlarne?",
+        "pl": "Co dokładnie zrobi szkoła i kiedy możemy znów porozmawiać?",
+        "pt": "O que exatamente a escola vai fazer, e quando podemos conversar de novo?",
+        "nl": "Wat gaat de school precies doen, en wanneer kunnen we weer praten?",
+        "hr": "Što će točno škola poduzeti i kada možemo ponovno razgovarati?",
+        "tr": "Okul tam olarak ne yapacak ve ne zaman tekrar konuşabiliriz?",
+        "uk": "Що саме зробить школа, і коли ми зможемо поговорити знову?",
+        "ar": "ما الذي ستفعله المدرسة بالضبط، ومتى يمكننا التحدث مجددًا؟",
+        "hi": "स्कूल ठीक-ठीक क्या करेगा, और हम फिर कब बात कर सकते हैं?",
+        "vi": "Cụ thể nhà trường sẽ làm gì, và khi nào chúng ta có thể trao đổi lại?",
+        "id": "Apa tepatnya yang akan dilakukan sekolah, dan kapan kita bisa bicara lagi?",
+        "ms": "Apa sebenarnya yang sekolah akan lakukan, dan bila kita boleh berbincang lagi?",
+        "ko": "학교에서 구체적으로 어떻게 하실 건지, 그리고 언제 다시 이야기할 수 있을까요?"
+      },
+      "practice": "¿Qué va a hacer exactamente la escuela y cuándo podemos volver a hablar?",
+      "practice_translations": {
+        "en": "What exactly will the school do, and when can we talk again?",
+        "es": "¿Qué va a hacer exactamente la escuela y cuándo podemos volver a hablar?",
+        "ja": "学校として具体的に何をしていただけますか。また、次はいつお話しできますか。",
+        "ko": "학교에서 구체적으로 어떻게 하실 건지, 그리고 언제 다시 이야기할 수 있을까요?"
+      }
+    }
+  ]
+}

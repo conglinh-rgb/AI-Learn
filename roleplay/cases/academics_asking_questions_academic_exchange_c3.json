@@ -1,0 +1,351 @@
+{
+  "id": "academics_asking_questions_academic_exchange_c3",
+  "title": "Challenging a Claim",
+  "title_translations": {
+    "en": "Challenging a Claim",
+    "es": "Cuestionar una afirmación",
+    "fr": "Contester une affirmation",
+    "de": "Eine Behauptung hinterfragen",
+    "it": "Contestare un'affermazione",
+    "pl": "Podważenie tezy",
+    "pt": "Questionando uma afirmação",
+    "nl": "Een bewering ter discussie stellen",
+    "hr": "Osporavanje tvrdnje",
+    "tr": "Bir İddiaya İtiraz Etmek",
+    "uk": "Сумнів у твердженні",
+    "ar": "الاعتراض على ادعاء",
+    "hi": "एक दावे को चुनौती",
+    "vi": "Phản biện một nhận định",
+    "id": "Mempertanyakan Sebuah Klaim",
+    "ms": "Mempersoalkan Satu Dakwaan",
+    "ko": "주장에 이의 제기하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "In a seminar, a visiting scholar (AI) makes a strong claim that you think the data does not support.",
+  "scenario_translations": {
+    "en": "In a seminar, a visiting scholar (AI) makes a strong claim that you think the data does not support.",
+    "es": "En un seminario, un académico invitado (AI) hace una afirmación contundente que, en su opinión, los datos no respaldan.",
+    "fr": "Lors d'un séminaire, un chercheur invité (AI) avance une affirmation forte que les données ne confirment pas, selon vous.",
+    "de": "In einem Seminar stellt eine Gastwissenschaftlerin bzw. ein Gastwissenschaftler (AI) eine starke Behauptung auf, die die Daten Ihrer Meinung nach nicht stützen.",
+    "it": "Durante un seminario, uno studioso ospite (AI) fa un'affermazione forte che secondo te i dati non supportano.",
+    "pl": "Na seminarium wizytujący naukowiec (AI) stawia mocną tezę, której twoim zdaniem dane nie potwierdzają.",
+    "pt": "Em um seminário, um pesquisador visitante (AI) faz uma afirmação forte que, na sua opinião, os dados não sustentam.",
+    "nl": "Tijdens een seminar doet een gastonderzoeker (AI) een stellige bewering die volgens jou niet door de data wordt ondersteund.",
+    "hr": "Na seminaru gostujući znanstvenik (AI) iznosi snažnu tvrdnju za koju misliš da je podaci ne potvrđuju.",
+    "tr": "Bir seminerde, misafir bir akademisyen (AI) verilerin desteklemediğini düşündüğünüz iddialı bir görüş ortaya atıyor.",
+    "uk": "На семінарі запрошений науковець (AI) робить сміливе твердження, яке, на твою думку, дані не підтверджують.",
+    "ar": "في ندوة، يطرح باحث زائر (AI) ادعاءً قويًا ترى أن البيانات لا تدعمه.",
+    "hi": "एक सेमिनार में एक अतिथि विद्वान (AI) एक बड़ा दावा करते हैं, जिसका आपके हिसाब से आँकड़े समर्थन नहीं करते।",
+    "vi": "Trong một buổi seminar, một học giả thỉnh giảng (AI) đưa ra một nhận định mạnh mà bạn cho rằng dữ liệu không ủng hộ.",
+    "id": "Dalam seminar, seorang akademisi tamu (AI) membuat klaim tegas yang menurutmu tidak didukung data.",
+    "ms": "Dalam satu seminar, seorang sarjana pelawat (AI) membuat dakwaan yang kuat yang anda rasa tidak disokong oleh data.",
+    "ko": "세미나에서 방문 학자(AI)가 강한 주장을 펼치는데, 당신은 데이터가 그 주장을 뒷받침하지 않는다고 생각해요."
+  },
+  "mission": {
+    "native": "Respectfully question the claim and defend your point of view with evidence.",
+    "native_translations": {
+      "en": "Respectfully question the claim and defend your point of view with evidence.",
+      "es": "Cuestione la afirmación con respeto y defienda su punto de vista con pruebas.",
+      "fr": "Remettez respectueusement en question cette affirmation et défendez votre point de vue avec des preuves.",
+      "de": "Hinterfragen Sie die Behauptung respektvoll und verteidigen Sie Ihre Sichtweise mit Belegen.",
+      "it": "Metti in discussione l'affermazione con rispetto e difendi il tuo punto di vista con le prove.",
+      "pl": "Z szacunkiem zakwestionuj tezę i broń swojego zdania, opierając się na dowodach.",
+      "pt": "Questione a afirmação com respeito e defenda seu ponto de vista com evidências.",
+      "nl": "Stel de bewering respectvol ter discussie en verdedig je standpunt met bewijs.",
+      "hr": "S poštovanjem dovedi tvrdnju u pitanje i obrani svoje stajalište dokazima.",
+      "tr": "İddiayı saygılı bir şekilde sorgulayın ve görüşünüzü kanıtlarla savunun.",
+      "uk": "Шанобливо постав твердження під сумнів і обґрунтуй свою позицію доказами.",
+      "ar": "اعترض على الادعاء باحترام ودافع عن وجهة نظرك بالأدلة.",
+      "hi": "सम्मान के साथ उस दावे पर सवाल उठाइए और सबूतों के साथ अपनी बात रखिए।",
+      "vi": "Lịch sự đặt câu hỏi về nhận định đó và bảo vệ quan điểm của bạn bằng bằng chứng.",
+      "id": "Pertanyakan klaim itu dengan sopan dan pertahankan pendapatmu dengan bukti.",
+      "ms": "Persoalkan dakwaan itu dengan hormat dan pertahankan pandangan anda dengan bukti.",
+      "ko": "정중하게 그 주장에 의문을 제기하고 근거를 들어 자신의 관점을 옹호하세요."
+    },
+    "practice": "Cuestione la afirmación con respeto y defienda su punto de vista con pruebas.",
+    "practice_translations": {
+      "en": "Respectfully question the claim and defend your point of view with evidence.",
+      "es": "Cuestione la afirmación con respeto y defienda su punto de vista con pruebas.",
+      "ja": "その主張に丁寧に疑問を示し、根拠を挙げて自分の考えを主張してください。",
+      "ko": "정중하게 그 주장에 의문을 제기하고 근거를 들어 자신의 관점을 옹호하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Acknowledge a strength of their argument",
+        "native_translations": {
+          "en": "Acknowledge a strength of their argument",
+          "es": "Reconozca un punto fuerte de su argumento",
+          "fr": "Reconnaissez un point fort de son argumentation",
+          "de": "Erkennen Sie eine Stärke der Argumentation an",
+          "it": "Riconosci un punto di forza della sua argomentazione",
+          "pl": "Doceń mocną stronę argumentacji",
+          "pt": "Reconheça um ponto forte do argumento",
+          "nl": "Erken een sterk punt van het betoog",
+          "hr": "Priznaj jednu snagu njegova argumenta",
+          "tr": "Argümanlarının güçlü bir yanını kabul edin",
+          "uk": "Визнай сильну сторону аргументу",
+          "ar": "اعترف بنقطة قوة في حجته",
+          "hi": "उनके तर्क की एक ख़ूबी को स्वीकार कीजिए",
+          "vi": "Ghi nhận một điểm mạnh trong lập luận của họ",
+          "id": "Akui satu kekuatan argumen mereka",
+          "ms": "Akui satu kekuatan hujah mereka",
+          "ko": "상대 주장의 강점을 인정하세요"
+        },
+        "practice": "Reconozca un punto fuerte de su argumento",
+        "practice_translations": {
+          "en": "Acknowledge a strength of their argument",
+          "es": "Reconozca un punto fuerte de su argumento",
+          "ja": "相手の主張の良い点を認めてください",
+          "ko": "상대 주장의 강점을 인정하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "State which claim you question",
+        "native_translations": {
+          "en": "State which claim you question",
+          "es": "Indique qué afirmación pone en duda",
+          "fr": "Indiquez quelle affirmation vous contestez",
+          "de": "Sagen Sie, welche Behauptung Sie infrage stellen",
+          "it": "Di' quale affermazione metti in discussione",
+          "pl": "Powiedz, którą tezę kwestionujesz",
+          "pt": "Diga qual afirmação você questiona",
+          "nl": "Zeg welke bewering je in twijfel trekt",
+          "hr": "Reci koju tvrdnju dovodiš u pitanje",
+          "tr": "Hangi iddiayı sorguladığınızı belirtin",
+          "uk": "Скажи, яке твердження викликає сумнів",
+          "ar": "حدّد الادعاء الذي تشكك فيه",
+          "hi": "बताइए कि आप किस दावे पर सवाल उठा रहे हैं",
+          "vi": "Nói rõ bạn nghi ngờ nhận định nào",
+          "id": "Sebutkan klaim yang kamu pertanyakan",
+          "ms": "Nyatakan dakwaan yang anda persoalkan",
+          "ko": "어떤 주장에 의문이 있는지 말하세요"
+        },
+        "practice": "Indique qué afirmación pone en duda",
+        "practice_translations": {
+          "en": "State which claim you question",
+          "es": "Indique qué afirmación pone en duda",
+          "ja": "どの主張に疑問があるかを伝えてください",
+          "ko": "어떤 주장에 의문이 있는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Give evidence that supports your view",
+        "native_translations": {
+          "en": "Give evidence that supports your view",
+          "es": "Dé pruebas que respalden su postura",
+          "fr": "Donnez des preuves à l'appui de votre point de vue",
+          "de": "Nennen Sie Belege für Ihre Sichtweise",
+          "it": "Porta prove a sostegno della tua opinione",
+          "pl": "Podaj dowody na poparcie swojego zdania",
+          "pt": "Apresente evidências que apoiem sua visão",
+          "nl": "Geef bewijs dat jouw standpunt ondersteunt",
+          "hr": "Navedi dokaze koji podupiru tvoje stajalište",
+          "tr": "Görüşünüzü destekleyen kanıt sunun",
+          "uk": "Наведи докази на підтримку своєї думки",
+          "ar": "قدّم دليلًا يدعم وجهة نظرك",
+          "hi": "अपनी राय के पक्ष में सबूत दीजिए",
+          "vi": "Đưa ra bằng chứng ủng hộ quan điểm của bạn",
+          "id": "Berikan bukti yang mendukung pendapatmu",
+          "ms": "Berikan bukti yang menyokong pandangan anda",
+          "ko": "자신의 관점을 뒷받침하는 근거를 제시하세요"
+        },
+        "practice": "Dé pruebas que respalden su postura",
+        "practice_translations": {
+          "en": "Give evidence that supports your view",
+          "es": "Dé pruebas que respalden su postura",
+          "ja": "自分の考えを裏付ける根拠を示してください",
+          "ko": "자신의 관점을 뒷받침하는 근거를 제시하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask how they would answer your objection",
+        "native_translations": {
+          "en": "Ask how they would answer your objection",
+          "es": "Pregunte cómo respondería a su objeción",
+          "fr": "Demandez comment il répondrait à votre objection",
+          "de": "Fragen Sie, wie man auf Ihren Einwand antworten würde",
+          "it": "Chiedi come risponderebbe alla tua obiezione",
+          "pl": "Zapytaj, jak odpowiedziałby na twój zarzut",
+          "pt": "Pergunte como responderiam à sua objeção",
+          "nl": "Vraag hoe de onderzoeker op je bezwaar zou reageren",
+          "hr": "Pitaj kako bi odgovorio na tvoj prigovor",
+          "tr": "İtirazınıza nasıl cevap vereceklerini sorun",
+          "uk": "Запитай, як би він відповів на твоє заперечення",
+          "ar": "اسأله كيف سيرد على اعتراضك",
+          "hi": "पूछिए कि वे आपकी आपत्ति का क्या जवाब देंगे",
+          "vi": "Hỏi họ sẽ trả lời phản biện của bạn thế nào",
+          "id": "Tanyakan bagaimana mereka menjawab keberatanmu",
+          "ms": "Tanya bagaimana mereka akan menjawab bantahan anda",
+          "ko": "당신의 반론에 어떻게 답할지 물어보세요"
+        },
+        "practice": "Pregunte cómo respondería a su objeción",
+        "practice_translations": {
+          "en": "Ask how they would answer your objection",
+          "es": "Pregunte cómo respondería a su objeción",
+          "ja": "あなたの反論にどう答えるか聞いてください",
+          "ko": "당신의 반론에 어떻게 답할지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I found your argument very convincing overall.",
+      "native_translations": {
+        "en": "I found your argument very convincing overall.",
+        "es": "En general, su argumento me pareció muy convincente.",
+        "fr": "Dans l'ensemble, j'ai trouvé votre argumentation très convaincante.",
+        "de": "Insgesamt fand ich Ihre Argumentation sehr überzeugend.",
+        "it": "Nel complesso ho trovato la sua argomentazione molto convincente.",
+        "pl": "Ogólnie pana argumentacja wydała mi się bardzo przekonująca.",
+        "pt": "No geral, achei seu argumento muito convincente.",
+        "nl": "Over het geheel genomen vond ik uw betoog erg overtuigend.",
+        "hr": "Vaš argument mi je u cjelini vrlo uvjerljiv.",
+        "tr": "Argümanınızı genel olarak çok ikna edici buldum.",
+        "uk": "Загалом ваш аргумент видався мені дуже переконливим.",
+        "ar": "وجدت حجتك مقنعة جدًا بشكل عام.",
+        "hi": "कुल मिलाकर मुझे आपका तर्क काफ़ी ठोस लगा।",
+        "vi": "Nhìn chung tôi thấy lập luận của anh/chị rất thuyết phục.",
+        "id": "Secara keseluruhan, argumen Anda sangat meyakinkan.",
+        "ms": "Secara keseluruhan, saya dapati hujah anda sangat meyakinkan.",
+        "ko": "전반적으로 주장이 아주 설득력 있었어요."
+      },
+      "practice": "En general, su argumento me pareció muy convincente.",
+      "practice_translations": {
+        "en": "I found your argument very convincing overall.",
+        "es": "En general, su argumento me pareció muy convincente.",
+        "ja": "全体として、ご主張にはとても説得力があると思いました。",
+        "ko": "전반적으로 주장이 아주 설득력 있었어요."
+      }
+    },
+    {
+      "native": "However, I'm not sure the data supports that last point.",
+      "native_translations": {
+        "en": "However, I'm not sure the data supports that last point.",
+        "es": "Sin embargo, no estoy seguro de que los datos respalden ese último punto.",
+        "fr": "Cependant, je ne suis pas sûr que les données confirment ce dernier point.",
+        "de": "Ich bin mir allerdings nicht sicher, ob die Daten den letzten Punkt stützen.",
+        "it": "Tuttavia, non sono sicuro che i dati supportino l'ultimo punto.",
+        "pl": "Nie jestem jednak pewien, czy dane potwierdzają ten ostatni punkt.",
+        "pt": "Mas não tenho certeza de que os dados sustentam esse último ponto.",
+        "nl": "Ik weet echter niet zeker of de data dat laatste punt ondersteunen.",
+        "hr": "Ipak, sumnjam da podaci potvrđuju tu posljednju tvrdnju.",
+        "tr": "Ancak verilerin son noktayı desteklediğinden emin değilim.",
+        "uk": "Проте я не впевнений, що дані підтверджують останній пункт.",
+        "ar": "لكنني لست متأكدًا من أن البيانات تدعم النقطة الأخيرة.",
+        "hi": "लेकिन मुझे यक़ीन नहीं है कि आँकड़े उस आख़िरी बात का समर्थन करते हैं।",
+        "vi": "Tuy nhiên, tôi không chắc dữ liệu ủng hộ điểm cuối cùng đó.",
+        "id": "Namun, saya tidak yakin datanya mendukung poin terakhir itu.",
+        "ms": "Namun, saya tidak pasti data menyokong perkara terakhir itu.",
+        "ko": "하지만 데이터가 마지막 논점을 뒷받침하는지는 잘 모르겠어요."
+      },
+      "practice": "Sin embargo, no estoy seguro de que los datos respalden ese último punto.",
+      "practice_translations": {
+        "en": "However, I'm not sure the data supports that last point.",
+        "es": "Sin embargo, no estoy seguro de que los datos respalden ese último punto.",
+        "ja": "ただ、最後の点はデータで裏付けられているのか疑問です。",
+        "ko": "하지만 데이터가 마지막 논점을 뒷받침하는지는 잘 모르겠어요."
+      }
+    },
+    {
+      "native": "Other studies have found the opposite effect.",
+      "native_translations": {
+        "en": "Other studies have found the opposite effect.",
+        "es": "Otros estudios han encontrado el efecto contrario.",
+        "fr": "D'autres études ont trouvé l'effet inverse.",
+        "de": "Andere Studien haben den gegenteiligen Effekt festgestellt.",
+        "it": "Altri studi hanno riscontrato l'effetto opposto.",
+        "pl": "Inne badania wykazały odwrotny efekt.",
+        "pt": "Outros estudos encontraram o efeito oposto.",
+        "nl": "Andere studies hebben het tegenovergestelde effect gevonden.",
+        "hr": "Druga istraživanja pokazala su suprotan učinak.",
+        "tr": "Başka çalışmalar tam tersi bir etki bulmuş.",
+        "uk": "Інші дослідження виявили протилежний ефект.",
+        "ar": "دراسات أخرى توصلت إلى نتيجة معاكسة.",
+        "hi": "दूसरी स्टडीज़ में इसका उल्टा असर पाया गया है।",
+        "vi": "Các nghiên cứu khác lại cho thấy tác động ngược lại.",
+        "id": "Penelitian lain justru menemukan efek sebaliknya.",
+        "ms": "Kajian lain mendapati kesan yang sebaliknya.",
+        "ko": "다른 연구들에서는 정반대의 효과가 나타났어요."
+      },
+      "practice": "Otros estudios han encontrado el efecto contrario.",
+      "practice_translations": {
+        "en": "Other studies have found the opposite effect.",
+        "es": "Otros estudios han encontrado el efecto contrario.",
+        "ja": "ほかの研究では逆の効果が見られています。",
+        "ko": "다른 연구들에서는 정반대의 효과가 나타났어요."
+      }
+    },
+    {
+      "native": "Could the result be explained by another factor?",
+      "native_translations": {
+        "en": "Could the result be explained by another factor?",
+        "es": "¿Podría explicarse el resultado por otro factor?",
+        "fr": "Le résultat pourrait-il s'expliquer par un autre facteur ?",
+        "de": "Könnte das Ergebnis auch durch einen anderen Faktor erklärt werden?",
+        "it": "Il risultato potrebbe dipendere da un altro fattore?",
+        "pl": "Czy ten wynik może wynikać z innego czynnika?",
+        "pt": "O resultado poderia ser explicado por outro fator?",
+        "nl": "Zou het resultaat door een andere factor verklaard kunnen worden?",
+        "hr": "Može li se rezultat objasniti nekim drugim čimbenikom?",
+        "tr": "Sonuç başka bir faktörle açıklanabilir mi?",
+        "uk": "Чи не можна пояснити результат іншим чинником?",
+        "ar": "هل يمكن تفسير النتيجة بعامل آخر؟",
+        "hi": "क्या इस नतीजे की वजह कोई और कारक हो सकता है?",
+        "vi": "Liệu kết quả này có thể do một yếu tố khác gây ra không?",
+        "id": "Mungkinkah hasil itu dijelaskan oleh faktor lain?",
+        "ms": "Mungkinkah keputusan itu dijelaskan oleh faktor lain?",
+        "ko": "그 결과가 다른 요인으로 설명될 수도 있지 않을까요?"
+      },
+      "practice": "¿Podría explicarse el resultado por otro factor?",
+      "practice_translations": {
+        "en": "Could the result be explained by another factor?",
+        "es": "¿Podría explicarse el resultado por otro factor?",
+        "ja": "その結果は、別の要因で説明できるのではないでしょうか。",
+        "ko": "그 결과가 다른 요인으로 설명될 수도 있지 않을까요?"
+      }
+    },
+    {
+      "native": "How would you respond to that concern?",
+      "native_translations": {
+        "en": "How would you respond to that concern?",
+        "es": "¿Cómo respondería a esa inquietud?",
+        "fr": "Que répondriez-vous à cette objection ?",
+        "de": "Wie würden Sie auf diesen Einwand antworten?",
+        "it": "Come risponderebbe a questa obiezione?",
+        "pl": "Jak odniósłby się pan do tej wątpliwości?",
+        "pt": "Como você responderia a essa preocupação?",
+        "nl": "Hoe zou u op dat bezwaar reageren?",
+        "hr": "Kako biste odgovorili na tu primjedbu?",
+        "tr": "Bu endişeye nasıl cevap verirsiniz?",
+        "uk": "Що б ви відповіли на це зауваження?",
+        "ar": "كيف ترد على هذا القلق؟",
+        "hi": "आप इस चिंता का क्या जवाब देंगे?",
+        "vi": "Anh/chị sẽ trả lời mối lo ngại đó như thế nào?",
+        "id": "Bagaimana tanggapan Anda terhadap kekhawatiran itu?",
+        "ms": "Bagaimana anda akan menjawab kebimbangan itu?",
+        "ko": "그런 우려에는 어떻게 답하시겠어요?"
+      },
+      "practice": "¿Cómo respondería a esa inquietud?",
+      "practice_translations": {
+        "en": "How would you respond to that concern?",
+        "es": "¿Cómo respondería a esa inquietud?",
+        "ja": "その懸念について、どのようにお考えですか。",
+        "ko": "그런 우려에는 어떻게 답하시겠어요?"
+      }
+    }
+  ]
+}

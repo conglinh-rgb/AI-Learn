@@ -1,0 +1,351 @@
+{
+  "id": "work_knowing_your_workplace_rights_culture_c3",
+  "title": "Raising a Concern with HR",
+  "title_translations": {
+    "en": "Raising a Concern with HR",
+    "es": "Plantear una inquietud a Recursos Humanos",
+    "fr": "Signaler un problème aux RH",
+    "de": "Ein Anliegen bei der Personalabteilung vorbringen",
+    "it": "Segnalare un problema alle risorse umane",
+    "pl": "Zgłoszenie problemu do działu HR",
+    "pt": "Levando uma preocupação ao RH",
+    "nl": "Een zorg melden bij HR",
+    "hr": "Prijava problema kadrovskoj službi",
+    "tr": "İK'ya Bir Sorunu İletmek",
+    "uk": "Звернення до HR",
+    "ar": "إثارة مشكلة مع الموارد البشرية",
+    "hi": "HR के सामने चिंता रखना",
+    "vi": "Phản ánh vấn đề với phòng nhân sự",
+    "id": "Menyampaikan Keluhan ke HR",
+    "ms": "Mengadu kepada HR",
+    "ko": "인사팀에 고충 제기하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "A coworker keeps making jokes about your accent, and it makes you uncomfortable. You meet with the HR representative (AI) to talk about it.",
+  "scenario_translations": {
+    "en": "A coworker keeps making jokes about your accent, and it makes you uncomfortable. You meet with the HR representative (AI) to talk about it.",
+    "es": "Un compañero de trabajo no deja de hacer bromas sobre su acento, y eso le incomoda. Se reúne con el representante de Recursos Humanos (AI) para hablarlo.",
+    "fr": "Un collègue n'arrête pas de faire des blagues sur votre accent, et cela vous met mal à l'aise. Vous rencontrez la représentante des RH (AI) pour en parler.",
+    "de": "Ein Kollege macht ständig Witze über Ihren Akzent, und das ist Ihnen unangenehm. Sie treffen sich mit der Ansprechpartnerin der Personalabteilung (AI), um darüber zu sprechen.",
+    "it": "Un collega continua a fare battute sul tuo accento e la cosa ti mette a disagio. Incontri il referente delle risorse umane (AI) per parlarne.",
+    "pl": "Kolega z pracy ciągle żartuje z twojego akcentu i czujesz się przez to niekomfortowo. Spotykasz się z przedstawicielką działu HR (AI), żeby o tym porozmawiać.",
+    "pt": "Um colega de trabalho vive fazendo piadas sobre o seu sotaque, e isso deixa você desconfortável. Você se reúne com o representante do RH (AI) para falar sobre isso.",
+    "nl": "Een collega maakt steeds grapjes over je accent, en daar voel je je ongemakkelijk bij. Je hebt een gesprek met de HR-medewerker (AI) om erover te praten.",
+    "hr": "Kolega se stalno šali na račun tvog naglaska i zbog toga ti je neugodno. Sastaješ se s predstavnikom kadrovske službe (AI) kako biste razgovarali o tome.",
+    "tr": "Bir iş arkadaşınız sürekli aksanınızla ilgili şakalar yapıyor ve bu sizi rahatsız ediyor. Bunu konuşmak için İK temsilcisiyle (AI) görüşüyorsunuz.",
+    "uk": "Колега постійно жартує з твого акценту, і тобі від цього незатишно. Ти зустрічаєшся з представником HR (AI), щоб про це поговорити.",
+    "ar": "زميل في العمل لا يتوقف عن إطلاق النكات حول لهجتك، وهذا يزعجك. تلتقي بممثل الموارد البشرية (AI) للتحدث في الأمر.",
+    "hi": "एक सहकर्मी बार-बार आपके लहजे का मज़ाक़ उड़ाता है, और इससे आपको असहज लगता है। आप इस बारे में बात करने के लिए HR प्रतिनिधि (AI) से मिलते हैं।",
+    "vi": "Một đồng nghiệp cứ trêu chọc giọng nói của bạn, khiến bạn thấy không thoải mái. Bạn gặp đại diện phòng nhân sự (AI) để nói về chuyện này.",
+    "id": "Seorang rekan kerja terus bercanda soal logatmu, dan itu membuatmu tidak nyaman. Kamu menemui perwakilan HR (AI) untuk membicarakannya.",
+    "ms": "Seorang rakan sekerja sering berjenaka tentang loghat anda, dan ia membuatkan anda tidak selesa. Anda berjumpa wakil HR (AI) untuk membincangkannya.",
+    "ko": "한 동료가 계속 당신의 억양을 두고 농담을 해서 불편해요. 이 문제를 이야기하려고 인사 담당자(AI)를 만납니다."
+  },
+  "mission": {
+    "native": "Describe the situation clearly and learn how HR will handle your concern.",
+    "native_translations": {
+      "en": "Describe the situation clearly and learn how HR will handle your concern.",
+      "es": "Describa la situación con claridad y averigüe cómo Recursos Humanos manejará su queja.",
+      "fr": "Décrivez clairement la situation et découvrez comment les RH vont traiter votre signalement.",
+      "de": "Schildern Sie die Situation klar und erfahren Sie, wie die Personalabteilung mit Ihrem Anliegen umgeht.",
+      "it": "Descrivi la situazione con chiarezza e scopri come le risorse umane gestiranno la tua segnalazione.",
+      "pl": "Jasno opisz sytuację i dowiedz się, jak dział HR zajmie się twoim zgłoszeniem.",
+      "pt": "Descreva a situação com clareza e descubra como o RH vai tratar a sua queixa.",
+      "nl": "Beschrijf de situatie duidelijk en kom te weten hoe HR met je melding omgaat.",
+      "hr": "Jasno opiši situaciju i saznaj kako će kadrovska služba riješiti tvoj problem.",
+      "tr": "Durumu net bir şekilde anlatın ve İK'nın endişenizi nasıl ele alacağını öğrenin.",
+      "uk": "Чітко опиши ситуацію й дізнайся, як HR розглядатиме твоє звернення.",
+      "ar": "صِف الموقف بوضوح واعرف كيف ستتعامل الموارد البشرية مع شكواك.",
+      "hi": "स्थिति साफ़-साफ़ बताइए और जानिए कि HR आपकी चिंता को कैसे संभालेगा।",
+      "vi": "Mô tả rõ tình huống và tìm hiểu phòng nhân sự sẽ xử lý phản ánh của bạn thế nào.",
+      "id": "Jelaskan situasinya dengan jelas dan cari tahu bagaimana HR akan menangani keluhanmu.",
+      "ms": "Terangkan situasi dengan jelas dan ketahui cara HR akan menangani aduan anda.",
+      "ko": "상황을 분명하게 설명하고 인사팀이 고충을 어떻게 처리할지 알아보세요."
+    },
+    "practice": "Describa la situación con claridad y averigüe cómo Recursos Humanos manejará su queja.",
+    "practice_translations": {
+      "en": "Describe the situation clearly and learn how HR will handle your concern.",
+      "es": "Describa la situación con claridad y averigüe cómo Recursos Humanos manejará su queja.",
+      "ja": "状況をはっきり説明して、人事部がどう対応するか聞いてください。",
+      "ko": "상황을 분명하게 설명하고 인사팀이 고충을 어떻게 처리할지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain what happened and how often",
+        "native_translations": {
+          "en": "Explain what happened and how often",
+          "es": "Explique qué pasó y con qué frecuencia",
+          "fr": "Expliquez ce qui s'est passé et à quelle fréquence",
+          "de": "Erklären Sie, was passiert ist und wie oft",
+          "it": "Spiega cosa è successo e quanto spesso",
+          "pl": "Wyjaśnij, co się dzieje i jak często",
+          "pt": "Explique o que aconteceu e com que frequência",
+          "nl": "Leg uit wat er is gebeurd en hoe vaak",
+          "hr": "Objasni što se dogodilo i koliko često",
+          "tr": "Ne olduğunu ve ne sıklıkla olduğunu açıklayın",
+          "uk": "Поясни, що сталося і як часто це буває",
+          "ar": "اشرح ما حدث وكم مرة",
+          "hi": "बताइए कि क्या हुआ और कितनी बार",
+          "vi": "Giải thích chuyện gì đã xảy ra và thường xuyên đến mức nào",
+          "id": "Jelaskan apa yang terjadi dan seberapa sering",
+          "ms": "Terangkan apa yang berlaku dan berapa kerap",
+          "ko": "무슨 일이 얼마나 자주 있었는지 설명하세요"
+        },
+        "practice": "Explique qué pasó y con qué frecuencia",
+        "practice_translations": {
+          "en": "Explain what happened and how often",
+          "es": "Explique qué pasó y con qué frecuencia",
+          "ja": "何がどのくらいの頻度で起きたか説明してください",
+          "ko": "무슨 일이 얼마나 자주 있었는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say how it affects your work",
+        "native_translations": {
+          "en": "Say how it affects your work",
+          "es": "Diga cómo afecta su trabajo",
+          "fr": "Dites en quoi cela affecte votre travail",
+          "de": "Sagen Sie, wie es sich auf Ihre Arbeit auswirkt",
+          "it": "Di' come influisce sul tuo lavoro",
+          "pl": "Powiedz, jak to wpływa na twoją pracę",
+          "pt": "Diga como isso afeta seu trabalho",
+          "nl": "Zeg wat het met je werk doet",
+          "hr": "Reci kako to utječe na tvoj rad",
+          "tr": "Bunun işinizi nasıl etkilediğini söyleyin",
+          "uk": "Скажи, як це впливає на твою роботу",
+          "ar": "قل كيف يؤثر ذلك على عملك",
+          "hi": "बताइए कि इसका आपके काम पर क्या असर पड़ता है",
+          "vi": "Nói việc này ảnh hưởng đến công việc của bạn thế nào",
+          "id": "Jelaskan dampaknya pada pekerjaanmu",
+          "ms": "Nyatakan bagaimana ia menjejaskan kerja anda",
+          "ko": "그 일이 업무에 어떤 영향을 주는지 말하세요"
+        },
+        "practice": "Diga cómo afecta su trabajo",
+        "practice_translations": {
+          "en": "Say how it affects your work",
+          "es": "Diga cómo afecta su trabajo",
+          "ja": "仕事にどう影響しているか伝えてください",
+          "ko": "그 일이 업무에 어떤 영향을 주는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask what the reporting process is",
+        "native_translations": {
+          "en": "Ask what the reporting process is",
+          "es": "Pregunte cuál es el proceso para reportarlo",
+          "fr": "Demandez quelle est la procédure de signalement",
+          "de": "Fragen Sie, wie das Meldeverfahren abläuft",
+          "it": "Chiedi com'è la procedura di segnalazione",
+          "pl": "Zapytaj, jak wygląda procedura zgłoszenia",
+          "pt": "Pergunte como funciona o processo de denúncia",
+          "nl": "Vraag hoe de meldingsprocedure werkt",
+          "hr": "Pitaj kakav je postupak prijave",
+          "tr": "Bildirim sürecinin nasıl işlediğini sorun",
+          "uk": "Запитай, яка процедура подання скарги",
+          "ar": "اسأل عن إجراءات تقديم البلاغ",
+          "hi": "पूछिए कि शिकायत करने की प्रक्रिया क्या है",
+          "vi": "Hỏi quy trình báo cáo như thế nào",
+          "id": "Tanyakan bagaimana proses pelaporannya",
+          "ms": "Tanya apakah proses membuat aduan",
+          "ko": "신고 절차가 어떻게 되는지 물어보세요"
+        },
+        "practice": "Pregunte cuál es el proceso para reportarlo",
+        "practice_translations": {
+          "en": "Ask what the reporting process is",
+          "es": "Pregunte cuál es el proceso para reportarlo",
+          "ja": "報告の手続きについて聞いてください",
+          "ko": "신고 절차가 어떻게 되는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask if your report will be confidential",
+        "native_translations": {
+          "en": "Ask if your report will be confidential",
+          "es": "Pregunte si su reporte será confidencial",
+          "fr": "Demandez si votre signalement restera confidentiel",
+          "de": "Fragen Sie, ob Ihre Meldung vertraulich behandelt wird",
+          "it": "Chiedi se la tua segnalazione resterà riservata",
+          "pl": "Zapytaj, czy twoje zgłoszenie będzie poufne",
+          "pt": "Pergunte se a sua denúncia será confidencial",
+          "nl": "Vraag of je melding vertrouwelijk blijft",
+          "hr": "Pitaj hoće li tvoja prijava biti povjerljiva",
+          "tr": "Bildiriminizin gizli tutulup tutulmayacağını sorun",
+          "uk": "Запитай, чи буде твоє звернення конфіденційним",
+          "ar": "اسأل إن كان بلاغك سيبقى سريًا",
+          "hi": "पूछिए कि क्या आपकी शिकायत गोपनीय रहेगी",
+          "vi": "Hỏi xem báo cáo của bạn có được giữ bí mật không",
+          "id": "Tanyakan apakah laporanmu akan dirahasiakan",
+          "ms": "Tanya sama ada aduan anda akan dirahsiakan",
+          "ko": "신고 내용이 비밀로 유지되는지 물어보세요"
+        },
+        "practice": "Pregunte si su reporte será confidencial",
+        "practice_translations": {
+          "en": "Ask if your report will be confidential",
+          "es": "Pregunte si su reporte será confidencial",
+          "ja": "報告が秘密にされるか聞いてください",
+          "ko": "신고 내용이 비밀로 유지되는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd like to talk about something that's been happening at work.",
+      "native_translations": {
+        "en": "I'd like to talk about something that's been happening at work.",
+        "es": "Me gustaría hablar de algo que ha estado pasando en el trabajo.",
+        "fr": "J'aimerais vous parler de quelque chose qui se passe au travail.",
+        "de": "Ich möchte über etwas sprechen, das bei der Arbeit passiert.",
+        "it": "Vorrei parlare di una cosa che sta succedendo al lavoro.",
+        "pl": "Chciałbym porozmawiać o czymś, co dzieje się w pracy.",
+        "pt": "Gostaria de falar sobre uma coisa que está acontecendo no trabalho.",
+        "nl": "Ik wil graag praten over iets wat er op het werk speelt.",
+        "hr": "Htio bih razgovarati o nečemu što se događa na poslu.",
+        "tr": "İş yerinde yaşanan bir şey hakkında konuşmak istiyorum.",
+        "uk": "Я хотів би поговорити про те, що відбувається на роботі.",
+        "ar": "أودّ التحدث عن أمر يحدث في العمل.",
+        "hi": "मैं काम पर हो रही एक बात के बारे में बात करना चाहता हूँ।",
+        "vi": "Tôi muốn nói về một chuyện đang xảy ra ở chỗ làm.",
+        "id": "Saya ingin membicarakan sesuatu yang terjadi di tempat kerja.",
+        "ms": "Saya ingin bercakap tentang sesuatu yang berlaku di tempat kerja.",
+        "ko": "회사에서 계속 일어나고 있는 일에 대해 말씀드리고 싶어요."
+      },
+      "practice": "Me gustaría hablar de algo que ha estado pasando en el trabajo.",
+      "practice_translations": {
+        "en": "I'd like to talk about something that's been happening at work.",
+        "es": "Me gustaría hablar de algo que ha estado pasando en el trabajo.",
+        "ja": "職場で起きていることについてご相談したいのですが。",
+        "ko": "회사에서 계속 일어나고 있는 일에 대해 말씀드리고 싶어요."
+      }
+    },
+    {
+      "native": "A coworker makes jokes about my accent almost every day.",
+      "native_translations": {
+        "en": "A coworker makes jokes about my accent almost every day.",
+        "es": "Un compañero hace bromas sobre mi acento casi todos los días.",
+        "fr": "Un collègue fait des blagues sur mon accent presque tous les jours.",
+        "de": "Ein Kollege macht fast jeden Tag Witze über meinen Akzent.",
+        "it": "Un collega fa battute sul mio accento quasi tutti i giorni.",
+        "pl": "Kolega z pracy prawie codziennie żartuje z mojego akcentu.",
+        "pt": "Um colega faz piadas sobre o meu sotaque quase todo dia.",
+        "nl": "Een collega maakt bijna elke dag grapjes over mijn accent.",
+        "hr": "Jedan kolega gotovo se svaki dan šali na račun mog naglaska.",
+        "tr": "Bir iş arkadaşım neredeyse her gün aksanımla ilgili şakalar yapıyor.",
+        "uk": "Колега майже щодня жартує з мого акценту.",
+        "ar": "زميل في العمل يطلق نكاتًا حول لهجتي كل يوم تقريبًا.",
+        "hi": "एक सहकर्मी लगभग हर दिन मेरे लहजे का मज़ाक़ उड़ाता है।",
+        "vi": "Có một đồng nghiệp gần như ngày nào cũng trêu giọng nói của tôi.",
+        "id": "Seorang rekan kerja bercanda soal logat saya hampir setiap hari.",
+        "ms": "Seorang rakan sekerja berjenaka tentang loghat saya hampir setiap hari.",
+        "ko": "한 동료가 거의 매일 제 억양을 두고 농담을 해요."
+      },
+      "practice": "Un compañero hace bromas sobre mi acento casi todos los días.",
+      "practice_translations": {
+        "en": "A coworker makes jokes about my accent almost every day.",
+        "es": "Un compañero hace bromas sobre mi acento casi todos los días.",
+        "ja": "同僚がほぼ毎日、私のなまりをからかう冗談を言うんです。",
+        "ko": "한 동료가 거의 매일 제 억양을 두고 농담을 해요."
+      }
+    },
+    {
+      "native": "It makes me nervous to speak in meetings.",
+      "native_translations": {
+        "en": "It makes me nervous to speak in meetings.",
+        "es": "Me pone nervioso hablar en las reuniones.",
+        "fr": "Ça me rend nerveux de prendre la parole en réunion.",
+        "de": "Dadurch bin ich nervös, wenn ich in Meetings sprechen soll.",
+        "it": "Mi fa sentire nervoso quando devo parlare nelle riunioni.",
+        "pl": "Przez to denerwuję się, kiedy mam mówić na spotkaniach.",
+        "pt": "Isso me deixa nervoso para falar nas reuniões.",
+        "nl": "Daardoor word ik zenuwachtig om in vergaderingen te praten.",
+        "hr": "Zbog toga mi je neugodno govoriti na sastancima.",
+        "tr": "Bu yüzden toplantılarda konuşurken geriliyorum.",
+        "uk": "Через це я нервую, коли треба говорити на нарадах.",
+        "ar": "هذا يجعلني متوترًا عند الكلام في الاجتماعات.",
+        "hi": "इसकी वजह से मुझे मीटिंग में बोलने में घबराहट होती है।",
+        "vi": "Việc đó khiến tôi lo lắng mỗi khi phát biểu trong cuộc họp.",
+        "id": "Itu membuat saya gugup untuk bicara di rapat.",
+        "ms": "Ia membuatkan saya gementar untuk bercakap dalam mesyuarat.",
+        "ko": "그래서 회의 때 말하는 게 긴장돼요."
+      },
+      "practice": "Me pone nervioso hablar en las reuniones.",
+      "practice_translations": {
+        "en": "It makes me nervous to speak in meetings.",
+        "es": "Me pone nervioso hablar en las reuniones.",
+        "ja": "そのせいで、会議で話すのが不安になります。",
+        "ko": "그래서 회의 때 말하는 게 긴장돼요."
+      }
+    },
+    {
+      "native": "What happens after I make a report?",
+      "native_translations": {
+        "en": "What happens after I make a report?",
+        "es": "¿Qué pasa después de que presento un reporte?",
+        "fr": "Que se passe-t-il une fois que j'ai fait un signalement ?",
+        "de": "Was passiert, nachdem ich eine Meldung gemacht habe?",
+        "it": "Cosa succede dopo che faccio una segnalazione?",
+        "pl": "Co się dzieje po złożeniu zgłoszenia?",
+        "pt": "O que acontece depois que eu faço uma denúncia?",
+        "nl": "Wat gebeurt er nadat ik een melding heb gedaan?",
+        "hr": "Što se događa nakon što podnesem prijavu?",
+        "tr": "Bildirimde bulunduktan sonra ne oluyor?",
+        "uk": "Що відбувається після того, як я подам скаргу?",
+        "ar": "ماذا يحدث بعد أن أقدّم البلاغ؟",
+        "hi": "शिकायत करने के बाद क्या होता है?",
+        "vi": "Sau khi tôi báo cáo thì sẽ thế nào?",
+        "id": "Apa yang terjadi setelah saya membuat laporan?",
+        "ms": "Apa yang berlaku selepas saya membuat aduan?",
+        "ko": "신고하고 나면 어떻게 되나요?"
+      },
+      "practice": "¿Qué pasa después de que presento un reporte?",
+      "practice_translations": {
+        "en": "What happens after I make a report?",
+        "es": "¿Qué pasa después de que presento un reporte?",
+        "ja": "報告した後は、どうなるのでしょうか。",
+        "ko": "신고하고 나면 어떻게 되나요?"
+      }
+    },
+    {
+      "native": "Will this conversation stay confidential?",
+      "native_translations": {
+        "en": "Will this conversation stay confidential?",
+        "es": "¿Esta conversación será confidencial?",
+        "fr": "Cette conversation restera-t-elle confidentielle ?",
+        "de": "Bleibt dieses Gespräch vertraulich?",
+        "it": "Questa conversazione resterà riservata?",
+        "pl": "Czy ta rozmowa pozostanie poufna?",
+        "pt": "Esta conversa vai ficar em sigilo?",
+        "nl": "Blijft dit gesprek vertrouwelijk?",
+        "hr": "Hoće li ovaj razgovor ostati povjerljiv?",
+        "tr": "Bu konuşma gizli kalacak mı?",
+        "uk": "Ця розмова залишиться конфіденційною?",
+        "ar": "هل ستبقى هذه المحادثة سرية؟",
+        "hi": "क्या यह बातचीत गोपनीय रहेगी?",
+        "vi": "Cuộc trò chuyện này có được giữ bí mật không?",
+        "id": "Apakah percakapan ini akan dirahasiakan?",
+        "ms": "Adakah perbualan ini akan dirahsiakan?",
+        "ko": "이 대화는 비밀로 지켜지나요?"
+      },
+      "practice": "¿Esta conversación será confidencial?",
+      "practice_translations": {
+        "en": "Will this conversation stay confidential?",
+        "es": "¿Esta conversación será confidencial?",
+        "ja": "この話は秘密にしていただけますか。",
+        "ko": "이 대화는 비밀로 지켜지나요?"
+      }
+    }
+  ]
+}

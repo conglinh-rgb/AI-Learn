@@ -1,0 +1,347 @@
+{
+  "tutors": [
+    {
+      "id": "milo",
+      "name": "Milo",
+      "tagline": "Makes practice fun",
+      "tagline_translations": {
+        "es": "Hace que practicar sea divertido",
+        "fr": "Rend la pratique amusante",
+        "de": "Macht das Üben zum Spaß",
+        "it": "Rende la pratica divertente",
+        "pl": "Sprawia, że ćwiczenie to zabawa",
+        "pt": "Torna a prática divertida",
+        "nl": "Maakt oefenen leuk",
+        "hr": "Čini vježbanje zabavnim",
+        "tr": "Pratiği eğlenceli hale getirir",
+        "uk": "Робить практику веселою",
+        "ar": "يجعل التدريب ممتعًا",
+        "hi": "अभ्यास को मज़ेदार बनाता है",
+        "vi": "Biến việc luyện tập thành niềm vui",
+        "id": "Bikin latihan jadi seru",
+        "ms": "Menjadikan latihan menyeronokkan",
+        "ko": "연습을 즐겁게 만들어 줘요"
+      },
+      "portrait": "file:///android_asset/tutor/milo.webp",
+      "video": "file:///android_asset/tutor/milo.mp4",
+      "avatar": "file:///android_asset/tutor/milo_avatar.webp",
+      "frame": {
+        "width": 360,
+        "top": -84
+      },
+      "fullscreen_frame": {
+        "width": 450,
+        "top": 0
+      },
+      "header_frame": {
+        "left": -20,
+        "top": -44,
+        "width": 240.2
+      },
+      "voice": {
+        "gender": "male",
+        "tone": 1,
+        "pitch": 1.35,
+        "rate": 1.1,
+        "preferred": [
+          "iom",
+          "jad"
+        ]
+      }
+    },
+    {
+      "id": "grace",
+      "name": "Grace",
+      "tagline": "Here to help you speak",
+      "tagline_translations": {
+        "es": "Aquí para ayudarte a hablar",
+        "fr": "Là pour vous aider à parler",
+        "de": "Hilft dir beim Sprechen",
+        "it": "Qui per aiutarti a parlare",
+        "pl": "Pomoże ci mówić",
+        "pt": "Aqui para ajudar você a falar",
+        "nl": "Helpt je om te spreken",
+        "hr": "Tu je da ti pomogne govoriti",
+        "tr": "Konuşmanıza yardımcı olmak için burada",
+        "uk": "Допоможе вам заговорити",
+        "ar": "هنا لتساعدك على التحدث",
+        "hi": "बोलने में आपकी मदद के लिए हाज़िर",
+        "vi": "Luôn sẵn sàng giúp bạn nói",
+        "id": "Siap membantu Anda berbicara",
+        "ms": "Sedia membantu anda bertutur",
+        "ko": "말하기를 도와드려요"
+      },
+      "portrait": "file:///android_asset/tutor/grace.webp",
+      "video": "file:///android_asset/tutor/grace.mp4",
+      "avatar": "file:///android_asset/tutor/grace_avatar.webp",
+      "frame": {
+        "width": 450,
+        "top": 0
+      },
+      "fullscreen_frame": {
+        "width": 450,
+        "top": 0
+      },
+      "header_frame": {
+        "left": -67,
+        "top": -17,
+        "width": 347
+      },
+      "voice": {
+        "gender": "female",
+        "tone": 0.75,
+        "pitch": 1.05,
+        "rate": 1.02,
+        "preferred": [
+          "sfg",
+          "jab"
+        ]
+      }
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "tagline": "Friendly & patient",
+      "tagline_translations": {
+        "es": "Amable y paciente",
+        "fr": "Sympathique et patient",
+        "de": "Freundlich und geduldig",
+        "it": "Cordiale e paziente",
+        "pl": "Przyjazny i cierpliwy",
+        "pt": "Simpático e paciente",
+        "nl": "Vriendelijk en geduldig",
+        "hr": "Prijazan i strpljiv",
+        "tr": "Samimi ve sabırlı",
+        "uk": "Доброзичливий і терплячий",
+        "ar": "ودود وصبور",
+        "hi": "मिलनसार और धैर्यवान",
+        "vi": "Thân thiện và kiên nhẫn",
+        "id": "Ramah dan sabar",
+        "ms": "Mesra dan sabar",
+        "ko": "친근하고 인내심 있어요"
+      },
+      "portrait": "file:///android_asset/tutor/ryan.webp",
+      "video": "file:///android_asset/tutor/ryan.mp4",
+      "avatar": "file:///android_asset/tutor/ryan_avatar.webp",
+      "frame": {
+        "width": 360,
+        "top": 30
+      },
+      "fullscreen_frame": {
+        "width": 419,
+        "top": 55
+      },
+      "header_frame": {
+        "left": -46,
+        "top": 22,
+        "width": 278
+      },
+      "voice": {
+        "gender": "male",
+        "tone": 1,
+        "pitch": 1.12,
+        "rate": 1.04,
+        "preferred": [
+          "iom",
+          "jad"
+        ]
+      }
+    },
+    {
+      "id": "walter",
+      "name": "Walter",
+      "tagline": "Calm and encouraging",
+      "tagline_translations": {
+        "es": "Tranquilo y alentador",
+        "fr": "Calme et encourageant",
+        "de": "Ruhig und ermutigend",
+        "it": "Calmo e incoraggiante",
+        "pl": "Spokojny i motywujący",
+        "pt": "Calmo e encorajador",
+        "nl": "Rustig en bemoedigend",
+        "hr": "Smiren i ohrabrujući",
+        "tr": "Sakin ve cesaretlendirici",
+        "uk": "Спокійний і підбадьорливий",
+        "ar": "هادئ ومشجّع",
+        "hi": "शांत और हौसला बढ़ाने वाला",
+        "vi": "Điềm tĩnh và luôn động viên",
+        "id": "Tenang dan menyemangati",
+        "ms": "Tenang dan memberi semangat",
+        "ko": "차분하고 용기를 북돋아 줘요"
+      },
+      "portrait": "file:///android_asset/tutor/walter.webp",
+      "video": "file:///android_asset/tutor/walter.mp4",
+      "avatar": "file:///android_asset/tutor/walter_avatar.webp",
+      "frame": {
+        "width": 412,
+        "top": 40
+      },
+      "fullscreen_frame": {
+        "width": 463,
+        "top": 37
+      },
+      "header_frame": {
+        "left": -53,
+        "top": 17,
+        "width": 315
+      },
+      "voice": {
+        "gender": "male",
+        "tone": 0,
+        "pitch": 0.72,
+        "rate": 0.78,
+        "preferred": [
+          "tpd",
+          "jac"
+        ]
+      }
+    },
+    {
+      "id": "ivy",
+      "name": "Ivy",
+      "tagline": "Warm and patient",
+      "tagline_translations": {
+        "es": "Cálida y paciente",
+        "fr": "Chaleureuse et patiente",
+        "de": "Herzlich und geduldig",
+        "it": "Calorosa e paziente",
+        "pl": "Ciepła i cierpliwa",
+        "pt": "Acolhedora e paciente",
+        "nl": "Hartelijk en geduldig",
+        "hr": "Topla i strpljiva",
+        "tr": "Sıcakkanlı ve sabırlı",
+        "uk": "Привітна й терпляча",
+        "ar": "دافئة وصبورة",
+        "hi": "स्नेही और धैर्यवान",
+        "vi": "Ấm áp và kiên nhẫn",
+        "id": "Hangat dan sabar",
+        "ms": "Penyayang dan penyabar",
+        "ko": "따뜻하고 인내심 있어요"
+      },
+      "portrait": "file:///android_asset/tutor/ivy.webp",
+      "video": "file:///android_asset/tutor/ivy.mp4",
+      "avatar": "file:///android_asset/tutor/ivy_avatar.webp",
+      "frame": {
+        "width": 393,
+        "top": 50
+      },
+      "fullscreen_frame": {
+        "width": 446,
+        "top": 49
+      },
+      "header_frame": {
+        "left": -51,
+        "top": 25,
+        "width": 315
+      },
+      "voice": {
+        "gender": "female",
+        "tone": 0,
+        "pitch": 0.78,
+        "rate": 0.8,
+        "preferred": [
+          "tpc",
+          "jab"
+        ]
+      }
+    },
+    {
+      "id": "edward",
+      "name": "Edward",
+      "tagline": "Clear and steady",
+      "tagline_translations": {
+        "es": "Claro y constante",
+        "fr": "Clair et posé",
+        "de": "Klar und besonnen",
+        "it": "Chiaro e costante",
+        "pl": "Mówi jasno i spokojnie",
+        "pt": "Claro e constante",
+        "nl": "Duidelijk en evenwichtig",
+        "hr": "Jasan i staložen",
+        "tr": "Net ve istikrarlı",
+        "uk": "Чіткий і врівноважений",
+        "ar": "واضح ومتّزن",
+        "hi": "स्पष्ट और स्थिर",
+        "vi": "Rõ ràng và điềm đạm",
+        "id": "Jelas dan tenang",
+        "ms": "Jelas dan tenang",
+        "ko": "또박또박하고 안정적이에요"
+      },
+      "portrait": "file:///android_asset/tutor/edward.webp",
+      "video": "file:///android_asset/tutor/edward.mp4",
+      "avatar": "file:///android_asset/tutor/edward_avatar.webp",
+      "frame": {
+        "width": 395,
+        "top": 46
+      },
+      "fullscreen_frame": {
+        "width": 446,
+        "top": 49
+      },
+      "header_frame": {
+        "left": -51,
+        "top": 25,
+        "width": 315
+      },
+      "voice": {
+        "gender": "male",
+        "tone": 0.5,
+        "pitch": 0.85,
+        "rate": 0.92,
+        "preferred": [
+          "iol",
+          "jac"
+        ]
+      }
+    },
+    {
+      "id": "sophia",
+      "name": "Sophia",
+      "tagline": "Kind and supportive",
+      "tagline_translations": {
+        "es": "Cariñosa y comprensiva",
+        "fr": "Bienveillante et encourageante",
+        "de": "Liebevoll und unterstützend",
+        "it": "Gentile e premurosa",
+        "pl": "Życzliwa i wspierająca",
+        "pt": "Gentil e solidária",
+        "nl": "Zorgzaam en steunend",
+        "hr": "Ljubazna i puna podrške",
+        "tr": "Nazik ve destekleyici",
+        "uk": "Чуйна й готова підтримати",
+        "ar": "لطيفة وداعمة",
+        "hi": "दयालु और सहयोगी",
+        "vi": "Tốt bụng và luôn hỗ trợ",
+        "id": "Baik hati dan suportif",
+        "ms": "Baik hati dan suka membantu",
+        "ko": "다정하고 든든해요"
+      },
+      "portrait": "file:///android_asset/tutor/sophia.webp",
+      "video": "file:///android_asset/tutor/sophia.mp4",
+      "avatar": "file:///android_asset/tutor/sophia_avatar.webp",
+      "frame": {
+        "width": 393,
+        "top": 49
+      },
+      "fullscreen_frame": {
+        "width": 446,
+        "top": 49
+      },
+      "header_frame": {
+        "left": -51,
+        "top": 25,
+        "width": 315
+      },
+      "voice": {
+        "gender": "female",
+        "tone": 0.25,
+        "pitch": 1,
+        "rate": 0.94,
+        "preferred": [
+          "iob",
+          "htm"
+        ]
+      }
+    }
+  ]
+}

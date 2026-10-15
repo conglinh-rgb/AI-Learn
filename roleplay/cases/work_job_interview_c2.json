@@ -1,0 +1,289 @@
+{
+  "id": "work_job_interview_c2",
+  "title": "Strengths and Weaknesses",
+  "title_translations": {
+    "en": "Strengths and Weaknesses",
+    "es": "Fortalezas y debilidades",
+    "fr": "Points forts et points faibles",
+    "de": "Stärken und Schwächen",
+    "it": "Punti di forza e di debolezza",
+    "pl": "Mocne i słabe strony",
+    "pt": "Pontos fortes e fracos",
+    "nl": "Sterke en zwakke punten",
+    "hr": "Snage i slabosti",
+    "tr": "Güçlü ve Zayıf Yönler",
+    "uk": "Сильні та слабкі сторони",
+    "ar": "نقاط القوة والضعف",
+    "hi": "ख़ूबियाँ और कमज़ोरियाँ",
+    "vi": "Điểm mạnh và điểm yếu",
+    "id": "Kelebihan dan Kekurangan",
+    "ms": "Kekuatan dan Kelemahan",
+    "ko": "강점과 약점"
+  },
+  "character": "fox",
+  "scenario": "The interviewer (AI) wants to know what you are good at, and what you still need to improve.",
+  "scenario_translations": {
+    "en": "The interviewer (AI) wants to know what you are good at, and what you still need to improve.",
+    "es": "El entrevistador (AI) quiere saber cuáles son sus puntos fuertes y qué necesita mejorar todavía.",
+    "fr": "La recruteuse (AI) veut savoir ce que vous faites bien, et ce que vous devez encore améliorer.",
+    "de": "Die Interviewerin (AI) möchte wissen, was Sie gut können und woran Sie noch arbeiten müssen.",
+    "it": "Il selezionatore (AI) vuole sapere in cosa sei bravo e cosa devi ancora migliorare.",
+    "pl": "Rekruter (AI) chce wiedzieć, w czym jesteś dobry, a nad czym musisz jeszcze popracować.",
+    "pt": "O entrevistador (AI) quer saber no que você é bom e o que ainda precisa melhorar.",
+    "nl": "De interviewer (AI) wil weten waar je goed in bent en wat je nog moet verbeteren.",
+    "hr": "Osoba koja vodi razgovor (AI) želi znati u čemu si dobar i što još trebaš poboljšati.",
+    "tr": "Mülakatı yapan kişi (AI) neyde iyi olduğunuzu ve neyi hâlâ geliştirmeniz gerektiğini öğrenmek istiyor.",
+    "uk": "Інтерв'юер (AI) хоче знати, у чому ти сильний і що тобі ще варто покращити.",
+    "ar": "يريد من يجري المقابلة (AI) أن يعرف ما الذي تجيده، وما الذي لا تزال بحاجة إلى تحسينه.",
+    "hi": "इंटरव्यू लेने वाले (AI) जानना चाहते हैं कि आप किसमें अच्छे हैं, और आपको अभी भी किसमें सुधार करना है।",
+    "vi": "Người phỏng vấn (AI) muốn biết bạn giỏi điều gì và điều gì bạn vẫn cần cải thiện.",
+    "id": "Pewawancara (AI) ingin tahu apa keahlianmu, dan apa yang masih perlu kamu tingkatkan.",
+    "ms": "Penemu duga (AI) ingin tahu apa kelebihan anda dan apa yang masih perlu anda perbaiki.",
+    "ko": "면접관(AI)이 당신이 잘하는 것과 아직 개선해야 할 점을 알고 싶어 합니다."
+  },
+  "mission": {
+    "native": "Give one strength with an example and one weakness you are working on.",
+    "native_translations": {
+      "en": "Give one strength with an example and one weakness you are working on.",
+      "es": "Dé una fortaleza con un ejemplo y una debilidad que está mejorando.",
+      "fr": "Citez un point fort avec un exemple et un point faible sur lequel vous travaillez.",
+      "de": "Nennen Sie eine Stärke mit einem Beispiel und eine Schwäche, an der Sie arbeiten.",
+      "it": "Indica un punto di forza con un esempio e un punto debole su cui stai lavorando.",
+      "pl": "Podaj jedną mocną stronę z przykładem i jedną słabość, nad którą pracujesz.",
+      "pt": "Cite um ponto forte com um exemplo e um ponto fraco que você está trabalhando.",
+      "nl": "Noem één sterk punt met een voorbeeld en één zwak punt waar je aan werkt.",
+      "hr": "Navedi jednu snagu s primjerom i jednu slabost na kojoj radiš.",
+      "tr": "Bir örnekle bir güçlü yönünüzü ve üzerinde çalıştığınız bir zayıf yönünüzü anlatın.",
+      "uk": "Назви одну сильну сторону з прикладом і одну слабку, над якою працюєш.",
+      "ar": "اذكر نقطة قوة مع مثال، ونقطة ضعف تعمل على تحسينها.",
+      "hi": "एक उदाहरण के साथ अपनी एक ख़ूबी बताइए और एक कमज़ोरी जिस पर आप काम कर रहे हैं।",
+      "vi": "Nêu một điểm mạnh kèm ví dụ và một điểm yếu bạn đang khắc phục.",
+      "id": "Sebutkan satu kelebihan beserta contohnya dan satu kekurangan yang sedang kamu perbaiki.",
+      "ms": "Nyatakan satu kekuatan beserta contoh dan satu kelemahan yang sedang anda perbaiki.",
+      "ko": "강점 하나를 예시와 함께 말하고, 고쳐 나가고 있는 약점 하나를 말하세요."
+    },
+    "practice": "Dé una fortaleza con un ejemplo y una debilidad que está mejorando.",
+    "practice_translations": {
+      "en": "Give one strength with an example and one weakness you are working on.",
+      "es": "Dé una fortaleza con un ejemplo y una debilidad que está mejorando.",
+      "ja": "強みを一つ例を挙げて話し、改善中の弱みを一つ話してください。",
+      "ko": "강점 하나를 예시와 함께 말하고, 고쳐 나가고 있는 약점 하나를 말하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Name one of your strengths",
+        "native_translations": {
+          "en": "Name one of your strengths",
+          "es": "Nombre una de sus fortalezas",
+          "fr": "Citez l'un de vos points forts",
+          "de": "Nennen Sie eine Ihrer Stärken",
+          "it": "Indica uno dei tuoi punti di forza",
+          "pl": "Wymień jedną ze swoich mocnych stron",
+          "pt": "Cite um dos seus pontos fortes",
+          "nl": "Noem een van je sterke punten",
+          "hr": "Navedi jednu svoju snagu",
+          "tr": "Güçlü yönlerinizden birini söyleyin",
+          "uk": "Назви одну зі своїх сильних сторін",
+          "ar": "اذكر إحدى نقاط قوتك",
+          "hi": "अपनी एक ख़ूबी बताइए",
+          "vi": "Nêu một điểm mạnh của bạn",
+          "id": "Sebutkan salah satu kelebihanmu",
+          "ms": "Nyatakan satu kekuatan anda",
+          "ko": "자신의 강점을 하나 말하세요"
+        },
+        "practice": "Nombre una de sus fortalezas",
+        "practice_translations": {
+          "en": "Name one of your strengths",
+          "es": "Nombre una de sus fortalezas",
+          "ja": "自分の強みを一つ挙げてください",
+          "ko": "자신의 강점을 하나 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Give an example of that strength",
+        "native_translations": {
+          "en": "Give an example of that strength",
+          "es": "Dé un ejemplo de esa fortaleza",
+          "fr": "Donnez un exemple de ce point fort",
+          "de": "Geben Sie ein Beispiel für diese Stärke",
+          "it": "Fai un esempio di quel punto di forza",
+          "pl": "Podaj przykład tej mocnej strony",
+          "pt": "Dê um exemplo desse ponto forte",
+          "nl": "Geef een voorbeeld van dat sterke punt",
+          "hr": "Daj primjer te snage",
+          "tr": "Bu güçlü yöne bir örnek verin",
+          "uk": "Наведи приклад цієї сильної сторони",
+          "ar": "أعطِ مثالًا على نقطة القوة هذه",
+          "hi": "उस ख़ूबी का एक उदाहरण दीजिए",
+          "vi": "Đưa ra ví dụ cho điểm mạnh đó",
+          "id": "Berikan contoh dari kelebihan itu",
+          "ms": "Beri contoh kekuatan itu",
+          "ko": "그 강점의 예를 들어 보세요"
+        },
+        "practice": "Dé un ejemplo de esa fortaleza",
+        "practice_translations": {
+          "en": "Give an example of that strength",
+          "es": "Dé un ejemplo de esa fortaleza",
+          "ja": "その強みの例を挙げてください",
+          "ko": "그 강점의 예를 들어 보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Talk about a weakness you are improving",
+        "native_translations": {
+          "en": "Talk about a weakness you are improving",
+          "es": "Hable de una debilidad que está mejorando",
+          "fr": "Parlez d'un point faible que vous améliorez",
+          "de": "Sprechen Sie über eine Schwäche, an der Sie arbeiten",
+          "it": "Parla di un punto debole che stai migliorando",
+          "pl": "Opowiedz o słabości, nad którą pracujesz",
+          "pt": "Fale sobre um ponto fraco que você está melhorando",
+          "nl": "Vertel over een zwak punt waar je aan werkt",
+          "hr": "Govori o slabosti koju popravljaš",
+          "tr": "Geliştirmekte olduğunuz bir zayıf yönden bahsedin",
+          "uk": "Розкажи про слабку сторону, яку покращуєш",
+          "ar": "تحدّث عن نقطة ضعف تعمل على تحسينها",
+          "hi": "उस कमज़ोरी के बारे में बताइए जिसे आप सुधार रहे हैं",
+          "vi": "Nói về một điểm yếu bạn đang cải thiện",
+          "id": "Ceritakan kekurangan yang sedang kamu perbaiki",
+          "ms": "Ceritakan satu kelemahan yang sedang anda perbaiki",
+          "ko": "개선하고 있는 약점에 대해 말하세요"
+        },
+        "practice": "Hable de una debilidad que está mejorando",
+        "practice_translations": {
+          "en": "Talk about a weakness you are improving",
+          "es": "Hable de una debilidad que está mejorando",
+          "ja": "改善中の弱みについて話してください",
+          "ko": "개선하고 있는 약점에 대해 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for having me. I'm really excited to be here.",
+      "native_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "fr": "Merci de me recevoir. Je suis vraiment ravi d'être ici.",
+        "de": "Vielen Dank für die Einladung. Ich freue mich wirklich, hier zu sein.",
+        "it": "Grazie per avermi ricevuto. Sono davvero felice di essere qui.",
+        "pl": "Dziękuję za zaproszenie. Naprawdę cieszę się, że tu jestem.",
+        "pt": "Obrigado por me receber. Estou muito animado por estar aqui.",
+        "nl": "Bedankt voor de uitnodiging. Ik heb er echt zin in.",
+        "hr": "Hvala Vam na pozivu. Jako se veselim što sam ovdje.",
+        "tr": "Beni davet ettiğiniz için teşekkür ederim. Burada olduğum için çok heyecanlıyım.",
+        "uk": "Дякую, що запросили мене. Я дуже радий бути тут.",
+        "ar": "شكرًا على استضافتي. أنا متحمس حقًا لوجودي هنا.",
+        "hi": "मुझे मौक़ा देने के लिए धन्यवाद। मैं यहाँ आकर सच में उत्साहित हूँ।",
+        "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
+        "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
+        "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      },
+      "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+      "practice_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "ja": "本日はお時間をいただきありがとうございます。お会いできるのを楽しみにしていました。",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      }
+    },
+    {
+      "native": "I have three years of experience in customer service.",
+      "native_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "fr": "J'ai trois ans d'expérience dans le service client.",
+        "de": "Ich habe drei Jahre Erfahrung im Kundenservice.",
+        "it": "Ho tre anni di esperienza nel servizio clienti.",
+        "pl": "Mam trzy lata doświadczenia w obsłudze klienta.",
+        "pt": "Tenho três anos de experiência em atendimento ao cliente.",
+        "nl": "Ik heb drie jaar ervaring in de klantenservice.",
+        "hr": "Imam tri godine iskustva u korisničkoj službi.",
+        "tr": "Müşteri hizmetlerinde üç yıllık deneyimim var.",
+        "uk": "У мене три роки досвіду в обслуговуванні клієнтів.",
+        "ar": "لديّ ثلاث سنوات من الخبرة في خدمة العملاء.",
+        "hi": "मेरे पास कस्टमर सर्विस में तीन साल का अनुभव है।",
+        "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
+        "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
+        "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      },
+      "practice": "Tengo tres años de experiencia en atención al cliente.",
+      "practice_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "ja": "カスタマーサービスで3年の経験があります。",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      }
+    },
+    {
+      "native": "One of my strengths is working well in a team.",
+      "native_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "fr": "L'un de mes points forts, c'est que je travaille bien en équipe.",
+        "de": "Eine meiner Stärken ist, dass ich gut im Team arbeite.",
+        "it": "Uno dei miei punti di forza è lavorare bene in team.",
+        "pl": "Jedną z moich mocnych stron jest dobra praca w zespole.",
+        "pt": "Um dos meus pontos fortes é trabalhar bem em equipe.",
+        "nl": "Een van mijn sterke punten is dat ik goed in een team werk.",
+        "hr": "Jedna od mojih snaga je dobar timski rad.",
+        "tr": "Güçlü yönlerimden biri ekip içinde iyi çalışmak.",
+        "uk": "Одна з моїх сильних сторін — я добре працюю в команді.",
+        "ar": "من نقاط قوتي أنني أعمل جيدًا ضمن فريق.",
+        "hi": "मेरी एक ख़ूबी यह है कि मैं टीम में अच्छे से काम करता हूँ।",
+        "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
+        "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
+        "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      },
+      "practice": "Una de mis fortalezas es trabajar bien en equipo.",
+      "practice_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "ja": "私の強みの一つは、チームでうまく協力できることです。",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      }
+    },
+    {
+      "native": "Could you tell me more about the role?",
+      "native_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "fr": "Pourriez-vous m'en dire plus sur le poste ?",
+        "de": "Könnten Sie mir mehr über die Stelle erzählen?",
+        "it": "Potrebbe dirmi qualcosa in più sul ruolo?",
+        "pl": "Czy mógłby pan powiedzieć więcej o tym stanowisku?",
+        "pt": "Você poderia me contar mais sobre a vaga?",
+        "nl": "Kunt u me meer vertellen over de functie?",
+        "hr": "Možete li mi reći nešto više o radnom mjestu?",
+        "tr": "Pozisyon hakkında biraz daha bilgi verebilir misiniz?",
+        "uk": "Чи могли б ви розповісти більше про цю посаду?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الدور الوظيفي؟",
+        "hi": "क्या आप मुझे इस रोल के बारे में और बता सकते हैं?",
+        "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
+        "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
+        "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      },
+      "practice": "¿Podría contarme más sobre el puesto?",
+      "practice_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "ja": "この仕事について、もう少し詳しく教えていただけますか。",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "study_abroad_off_campus_career_prep_c1",
+  "title": "Opening a Bank Account",
+  "title_translations": {
+    "en": "Opening a Bank Account",
+    "es": "Abrir una cuenta bancaria",
+    "fr": "Ouvrir un compte bancaire",
+    "de": "Ein Bankkonto eröffnen",
+    "it": "Aprire un conto in banca",
+    "pl": "Zakładanie konta w banku",
+    "pt": "Abrindo uma conta no banco",
+    "nl": "Een bankrekening openen",
+    "hr": "Otvaranje bankovnog računa",
+    "tr": "Banka Hesabı Açmak",
+    "uk": "Відкриття банківського рахунку",
+    "ar": "فتح حساب مصرفي",
+    "hi": "बैंक खाता खोलना",
+    "vi": "Mở tài khoản ngân hàng",
+    "id": "Membuka Rekening Bank",
+    "ms": "Membuka Akaun Bank",
+    "ko": "은행 계좌 개설하기"
+  },
+  "character": "fox",
+  "scenario": "You are at a bank near campus. The bank teller (AI) asks how they can help you today.",
+  "scenario_translations": {
+    "en": "You are at a bank near campus. The bank teller (AI) asks how they can help you today.",
+    "es": "Está en un banco cerca del campus. El cajero (AI) le pregunta en qué puede ayudarle hoy.",
+    "fr": "Vous êtes dans une banque près du campus. Le guichetier (AI) vous demande ce qu'il peut faire pour vous aujourd'hui.",
+    "de": "Sie sind in einer Bank in der Nähe des Campus. Der Bankangestellte (AI) fragt, wie er Ihnen heute helfen kann.",
+    "it": "Sei in una banca vicino al campus. Il cassiere (AI) ti chiede come può aiutarti oggi.",
+    "pl": "Jesteś w banku niedaleko kampusu. Pracownik banku (AI) pyta, w czym może ci dziś pomóc.",
+    "pt": "Você está em um banco perto do campus. O caixa (AI) pergunta como pode ajudar você hoje.",
+    "nl": "Je bent bij een bank vlak bij de campus. De baliemedewerker (AI) vraagt waarmee ze je vandaag kunnen helpen.",
+    "hr": "U banci si blizu kampusa. Bankovni službenik (AI) pita kako ti danas može pomoći.",
+    "tr": "Kampüsün yakınındaki bir bankadasınız. Banka gişe görevlisi (AI) bugün size nasıl yardımcı olabileceğini soruyor.",
+    "uk": "Ти в банку біля кампусу. Операціоніст (AI) питає, чим може допомогти.",
+    "ar": "أنت في مصرف قريب من الحرم الجامعي. يسألك موظف الصندوق (AI) كيف يمكنه مساعدتك اليوم.",
+    "hi": "आप कैंपस के पास एक बैंक में हैं। बैंक टेलर (AI) पूछते हैं कि आज वे आपकी क्या मदद कर सकते हैं।",
+    "vi": "Bạn đang ở một ngân hàng gần trường. Giao dịch viên (AI) hỏi hôm nay họ có thể giúp gì cho bạn.",
+    "id": "Kamu berada di bank dekat kampus. Teller bank (AI) bertanya apa yang bisa dibantu hari ini.",
+    "ms": "Anda berada di sebuah bank berhampiran kampus. Juruwang bank (AI) bertanya bagaimana mereka boleh membantu anda hari ini.",
+    "ko": "캠퍼스 근처 은행에 와 있습니다. 은행 직원(AI)이 오늘 무엇을 도와드릴지 묻습니다."
+  },
+  "mission": {
+    "native": "Open a student account and find out what it costs.",
+    "native_translations": {
+      "en": "Open a student account and find out what it costs.",
+      "es": "Abra una cuenta de estudiante y averigüe cuánto cuesta.",
+      "fr": "Ouvrez un compte étudiant et renseignez-vous sur son coût.",
+      "de": "Eröffnen Sie ein Studentenkonto und finden Sie heraus, was es kostet.",
+      "it": "Apri un conto per studenti e scopri quanto costa.",
+      "pl": "Załóż konto studenckie i dowiedz się, ile kosztuje.",
+      "pt": "Abra uma conta universitária e descubra quanto ela custa.",
+      "nl": "Open een studentenrekening en zoek uit wat het kost.",
+      "hr": "Otvori studentski račun i saznaj koliko košta.",
+      "tr": "Bir öğrenci hesabı açın ve bunun maliyetini öğrenin.",
+      "uk": "Відкрий студентський рахунок і дізнайся, скільки це коштує.",
+      "ar": "افتح حسابًا طلابيًا واعرف كم يكلّف.",
+      "hi": "एक स्टूडेंट खाता खोलिए और पता कीजिए कि इसका ख़र्च कितना है।",
+      "vi": "Mở tài khoản sinh viên và tìm hiểu chi phí.",
+      "id": "Buka rekening mahasiswa dan cari tahu biayanya.",
+      "ms": "Buka akaun pelajar dan ketahui kosnya.",
+      "ko": "학생 계좌를 개설하고 비용이 얼마인지 알아보세요."
+    },
+    "practice": "Abra una cuenta de estudiante y averigüe cuánto cuesta.",
+    "practice_translations": {
+      "en": "Open a student account and find out what it costs.",
+      "es": "Abra una cuenta de estudiante y averigüe cuánto cuesta.",
+      "ja": "学生口座を開いて、費用について聞いてください。",
+      "ko": "학생 계좌를 개설하고 비용이 얼마인지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you want to open a student account",
+        "native_translations": {
+          "en": "Say you want to open a student account",
+          "es": "Diga que quiere abrir una cuenta de estudiante",
+          "fr": "Dites que vous voulez ouvrir un compte étudiant",
+          "de": "Sagen Sie, dass Sie ein Studentenkonto eröffnen möchten",
+          "it": "Di' che vuoi aprire un conto per studenti",
+          "pl": "Powiedz, że chcesz założyć konto studenckie",
+          "pt": "Diga que você quer abrir uma conta universitária",
+          "nl": "Zeg dat je een studentenrekening wilt openen",
+          "hr": "Reci da želiš otvoriti studentski račun",
+          "tr": "Öğrenci hesabı açmak istediğinizi söyleyin",
+          "uk": "Скажи, що хочеш відкрити студентський рахунок",
+          "ar": "قل إنك تريد فتح حساب طلابي",
+          "hi": "कहिए कि आप स्टूडेंट खाता खोलना चाहते हैं",
+          "vi": "Nói rằng bạn muốn mở tài khoản sinh viên",
+          "id": "Katakan bahwa kamu ingin membuka rekening mahasiswa",
+          "ms": "Katakan anda mahu membuka akaun pelajar",
+          "ko": "학생 계좌를 개설하고 싶다고 말하세요"
+        },
+        "practice": "Diga que quiere abrir una cuenta de estudiante",
+        "practice_translations": {
+          "en": "Say you want to open a student account",
+          "es": "Diga que quiere abrir una cuenta de estudiante",
+          "ja": "学生口座を開きたいと伝えてください",
+          "ko": "학생 계좌를 개설하고 싶다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask which documents you need",
+        "native_translations": {
+          "en": "Ask which documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "fr": "Demandez quels documents il vous faut",
+          "de": "Fragen Sie, welche Unterlagen Sie brauchen",
+          "it": "Chiedi quali documenti ti servono",
+          "pl": "Zapytaj, jakie dokumenty są potrzebne",
+          "pt": "Pergunte quais documentos você precisa",
+          "nl": "Vraag welke documenten je nodig hebt",
+          "hr": "Pitaj koji su ti dokumenti potrebni",
+          "tr": "Hangi belgelere ihtiyacınız olduğunu sorun",
+          "uk": "Запитай, які документи потрібні",
+          "ar": "اسأل عن المستندات التي تحتاجها",
+          "hi": "पूछिए कि कौन-से दस्तावेज़ चाहिए",
+          "vi": "Hỏi cần những giấy tờ gì",
+          "id": "Tanyakan dokumen apa yang dibutuhkan",
+          "ms": "Tanya dokumen apa yang anda perlukan",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        },
+        "practice": "Pregunte qué documentos necesita",
+        "practice_translations": {
+          "en": "Ask which documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "ja": "必要な書類を聞いてください",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about monthly fees",
+        "native_translations": {
+          "en": "Ask about monthly fees",
+          "es": "Pregunte por las comisiones mensuales",
+          "fr": "Renseignez-vous sur les frais mensuels",
+          "de": "Fragen Sie nach monatlichen Gebühren",
+          "it": "Chiedi dei costi mensili",
+          "pl": "Zapytaj o miesięczne opłaty",
+          "pt": "Pergunte sobre as tarifas mensais",
+          "nl": "Vraag naar maandelijkse kosten",
+          "hr": "Pitaj za mjesečne naknade",
+          "tr": "Aylık ücretleri sorun",
+          "uk": "Запитай про щомісячну плату",
+          "ar": "اسأل عن الرسوم الشهرية",
+          "hi": "मासिक फ़ीस के बारे में पूछिए",
+          "vi": "Hỏi về phí hằng tháng",
+          "id": "Tanyakan soal biaya bulanan",
+          "ms": "Tanya tentang yuran bulanan",
+          "ko": "월 수수료에 대해 물어보세요"
+        },
+        "practice": "Pregunte por las comisiones mensuales",
+        "practice_translations": {
+          "en": "Ask about monthly fees",
+          "es": "Pregunte por las comisiones mensuales",
+          "ja": "月々の手数料について聞いてください",
+          "ko": "월 수수료에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hello, I'd like to open a student account.",
+      "native_translations": {
+        "en": "Hello, I'd like to open a student account.",
+        "es": "Hola, quisiera abrir una cuenta de estudiante.",
+        "fr": "Bonjour, j'aimerais ouvrir un compte étudiant.",
+        "de": "Guten Tag, ich möchte ein Studentenkonto eröffnen.",
+        "it": "Buongiorno, vorrei aprire un conto per studenti.",
+        "pl": "Dzień dobry, chciałbym założyć konto studenckie.",
+        "pt": "Olá, gostaria de abrir uma conta universitária.",
+        "nl": "Hallo, ik wil graag een studentenrekening openen.",
+        "hr": "Dobar dan, želim otvoriti studentski račun.",
+        "tr": "Merhaba, bir öğrenci hesabı açmak istiyorum.",
+        "uk": "Добрий день, я хотів би відкрити студентський рахунок.",
+        "ar": "مرحبًا، أودّ فتح حساب طلابي.",
+        "hi": "नमस्ते, मैं एक स्टूडेंट खाता खोलना चाहता हूँ।",
+        "vi": "Xin chào, tôi muốn mở tài khoản sinh viên.",
+        "id": "Halo, saya ingin membuka rekening mahasiswa.",
+        "ms": "Helo, saya ingin membuka akaun pelajar.",
+        "ko": "안녕하세요, 학생 계좌를 개설하고 싶어요."
+      },
+      "practice": "Hola, quisiera abrir una cuenta de estudiante.",
+      "practice_translations": {
+        "en": "Hello, I'd like to open a student account.",
+        "es": "Hola, quisiera abrir una cuenta de estudiante.",
+        "ja": "こんにちは、学生口座を開きたいのですが。",
+        "ko": "안녕하세요, 학생 계좌를 개설하고 싶어요."
+      }
+    },
+    {
+      "native": "What documents do I need to bring?",
+      "native_translations": {
+        "en": "What documents do I need to bring?",
+        "es": "¿Qué documentos tengo que traer?",
+        "fr": "Quels documents dois-je apporter ?",
+        "de": "Welche Unterlagen muss ich mitbringen?",
+        "it": "Quali documenti devo portare?",
+        "pl": "Jakie dokumenty muszę przynieść?",
+        "pt": "Quais documentos eu preciso trazer?",
+        "nl": "Welke documenten moet ik meenemen?",
+        "hr": "Koje dokumente trebam donijeti?",
+        "tr": "Hangi belgeleri getirmem gerekiyor?",
+        "uk": "Які документи мені треба принести?",
+        "ar": "ما المستندات التي عليّ إحضارها؟",
+        "hi": "मुझे कौन-से दस्तावेज़ लाने होंगे?",
+        "vi": "Tôi cần mang theo những giấy tờ gì?",
+        "id": "Dokumen apa saja yang perlu saya bawa?",
+        "ms": "Dokumen apa yang perlu saya bawa?",
+        "ko": "어떤 서류를 가져와야 하나요?"
+      },
+      "practice": "¿Qué documentos tengo que traer?",
+      "practice_translations": {
+        "en": "What documents do I need to bring?",
+        "es": "¿Qué documentos tengo que traer?",
+        "ja": "何を持ってくればいいですか。",
+        "ko": "어떤 서류를 가져와야 하나요?"
+      }
+    },
+    {
+      "native": "I have my passport and my enrollment letter.",
+      "native_translations": {
+        "en": "I have my passport and my enrollment letter.",
+        "es": "Tengo mi pasaporte y mi constancia de inscripción.",
+        "fr": "J'ai mon passeport et mon attestation d'inscription.",
+        "de": "Ich habe meinen Reisepass und meine Immatrikulationsbescheinigung dabei.",
+        "it": "Ho il passaporto e il certificato di iscrizione.",
+        "pl": "Mam paszport i zaświadczenie o studiowaniu.",
+        "pt": "Tenho meu passaporte e minha declaração de matrícula.",
+        "nl": "Ik heb mijn paspoort en mijn inschrijvingsbewijs.",
+        "hr": "Imam putovnicu i potvrdu o upisu.",
+        "tr": "Pasaportum ve öğrenci belgem yanımda.",
+        "uk": "У мене є паспорт і довідка про навчання.",
+        "ar": "معي جواز سفري وخطاب القيد.",
+        "hi": "मेरे पास मेरा पासपोर्ट और एनरोलमेंट लेटर है।",
+        "vi": "Tôi có hộ chiếu và giấy xác nhận sinh viên.",
+        "id": "Saya membawa paspor dan surat keterangan terdaftar.",
+        "ms": "Saya ada pasport dan surat pendaftaran saya.",
+        "ko": "여권하고 재학 증명서를 가지고 있어요."
+      },
+      "practice": "Tengo mi pasaporte y mi constancia de inscripción.",
+      "practice_translations": {
+        "en": "I have my passport and my enrollment letter.",
+        "es": "Tengo mi pasaporte y mi constancia de inscripción.",
+        "ja": "パスポートと在学証明書を持っています。",
+        "ko": "여권하고 재학 증명서를 가지고 있어요."
+      }
+    },
+    {
+      "native": "Are there any monthly fees?",
+      "native_translations": {
+        "en": "Are there any monthly fees?",
+        "es": "¿Hay alguna comisión mensual?",
+        "fr": "Y a-t-il des frais mensuels ?",
+        "de": "Gibt es monatliche Gebühren?",
+        "it": "Ci sono costi mensili?",
+        "pl": "Czy są jakieś miesięczne opłaty?",
+        "pt": "Tem alguma tarifa mensal?",
+        "nl": "Zijn er maandelijkse kosten?",
+        "hr": "Postoje li kakve mjesečne naknade?",
+        "tr": "Aylık bir ücret var mı?",
+        "uk": "Чи є якась щомісячна плата?",
+        "ar": "هل هناك أي رسوم شهرية؟",
+        "hi": "क्या कोई मासिक फ़ीस है?",
+        "vi": "Có mất phí hằng tháng không?",
+        "id": "Apakah ada biaya bulanan?",
+        "ms": "Adakah ada yuran bulanan?",
+        "ko": "월 수수료가 있나요?"
+      },
+      "practice": "¿Hay alguna comisión mensual?",
+      "practice_translations": {
+        "en": "Are there any monthly fees?",
+        "es": "¿Hay alguna comisión mensual?",
+        "ja": "月々の手数料はかかりますか。",
+        "ko": "월 수수료가 있나요?"
+      }
+    },
+    {
+      "native": "When will I receive my debit card?",
+      "native_translations": {
+        "en": "When will I receive my debit card?",
+        "es": "¿Cuándo recibiré mi tarjeta de débito?",
+        "fr": "Quand vais-je recevoir ma carte bancaire ?",
+        "de": "Wann bekomme ich meine Debitkarte?",
+        "it": "Quando riceverò la carta di debito?",
+        "pl": "Kiedy dostanę kartę debetową?",
+        "pt": "Quando vou receber meu cartão de débito?",
+        "nl": "Wanneer krijg ik mijn betaalpas?",
+        "hr": "Kada ću dobiti debitnu karticu?",
+        "tr": "Banka kartımı ne zaman alırım?",
+        "uk": "Коли я отримаю дебетову картку?",
+        "ar": "متى سأستلم بطاقة الخصم الخاصة بي؟",
+        "hi": "मुझे मेरा डेबिट कार्ड कब मिलेगा?",
+        "vi": "Khi nào tôi nhận được thẻ ghi nợ?",
+        "id": "Kapan saya akan menerima kartu debit saya?",
+        "ms": "Bilakah saya akan terima kad debit saya?",
+        "ko": "체크카드는 언제 받을 수 있나요?"
+      },
+      "practice": "¿Cuándo recibiré mi tarjeta de débito?",
+      "practice_translations": {
+        "en": "When will I receive my debit card?",
+        "es": "¿Cuándo recibiré mi tarjeta de débito?",
+        "ja": "デビットカードはいつ届きますか。",
+        "ko": "체크카드는 언제 받을 수 있나요?"
+      }
+    }
+  ]
+}

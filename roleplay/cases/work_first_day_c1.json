@@ -1,0 +1,350 @@
+{
+  "id": "work_first_day_c1",
+  "title": "Meeting Your Team",
+  "title_translations": {
+    "en": "Meeting Your Team",
+    "es": "Conocer a su equipo",
+    "fr": "Rencontrer son équipe",
+    "de": "Das Team kennenlernen",
+    "it": "Conoscere il tuo team",
+    "pl": "Poznanie zespołu",
+    "pt": "Conhecendo sua equipe",
+    "nl": "Kennismaken met je team",
+    "hr": "Upoznavanje s timom",
+    "tr": "Ekibinizle Tanışmak",
+    "uk": "Знайомство з командою",
+    "ar": "التعرّف على فريقك",
+    "hi": "अपनी टीम से मुलाक़ात",
+    "vi": "Gặp gỡ đồng nghiệp trong nhóm",
+    "id": "Bertemu Timmu",
+    "ms": "Berkenalan dengan Pasukan Anda",
+    "ko": "팀원들과의 첫 만남"
+  },
+  "character": "fox",
+  "scenario": "It is your first day at a new office. Your manager (AI) welcomes you at the door.",
+  "scenario_translations": {
+    "en": "It is your first day at a new office. Your manager (AI) welcomes you at the door.",
+    "es": "Es su primer día en una oficina nueva. Su gerente (AI) le recibe en la puerta.",
+    "fr": "C'est votre premier jour dans un nouveau bureau. Votre responsable (AI) vous accueille à la porte.",
+    "de": "Es ist Ihr erster Tag in einem neuen Büro. Ihre Vorgesetzte (AI) empfängt Sie an der Tür.",
+    "it": "È il tuo primo giorno in un nuovo ufficio. Il tuo responsabile (AI) ti accoglie alla porta.",
+    "pl": "To twój pierwszy dzień w nowym biurze. Twoja przełożona (AI) wita cię w drzwiach.",
+    "pt": "É o seu primeiro dia em um novo escritório. Seu gestor (AI) recebe você na porta.",
+    "nl": "Het is je eerste dag op een nieuw kantoor. Je manager (AI) verwelkomt je bij de deur.",
+    "hr": "Prvi ti je dan u novom uredu. Tvoj nadređeni (AI) dočekuje te na vratima.",
+    "tr": "Yeni bir ofiste ilk gününüz. Yöneticiniz (AI) sizi kapıda karşılıyor.",
+    "uk": "Це твій перший день у новому офісі. Керівник (AI) зустрічає тебе біля дверей.",
+    "ar": "إنه يومك الأول في مكتب جديد. يرحّب بك مديرك (AI) عند الباب.",
+    "hi": "नए ऑफ़िस में आज आपका पहला दिन है। आपके मैनेजर (AI) दरवाज़े पर आपका स्वागत करते हैं।",
+    "vi": "Hôm nay là ngày đầu tiên của bạn ở văn phòng mới. Quản lý (AI) chào đón bạn ở cửa.",
+    "id": "Hari ini hari pertamamu di kantor baru. Manajermu (AI) menyambutmu di pintu.",
+    "ms": "Hari ini hari pertama anda di pejabat baharu. Pengurus anda (AI) menyambut anda di pintu.",
+    "ko": "새 사무실에 출근한 첫날입니다. 매니저(AI)가 문 앞에서 맞아 줍니다."
+  },
+  "mission": {
+    "native": "Introduce yourself, ask where you will sit and who to ask for help.",
+    "native_translations": {
+      "en": "Introduce yourself, ask where you will sit and who to ask for help.",
+      "es": "Preséntese, pregunte dónde se sentará y a quién pedir ayuda.",
+      "fr": "Présentez-vous, demandez où vous serez installé et à qui demander de l'aide.",
+      "de": "Stellen Sie sich vor und fragen Sie, wo Ihr Platz ist und wen Sie um Hilfe bitten können.",
+      "it": "Presentati, chiedi dove ti siederai e a chi chiedere aiuto.",
+      "pl": "Przedstaw się, zapytaj, gdzie będziesz siedzieć i do kogo zwracać się o pomoc.",
+      "pt": "Apresente-se, pergunte onde você vai se sentar e a quem pedir ajuda.",
+      "nl": "Stel je voor, vraag waar je komt te zitten en bij wie je terechtkunt voor hulp.",
+      "hr": "Predstavi se, pitaj gdje ćeš sjediti i koga možeš pitati za pomoć.",
+      "tr": "Kendinizi tanıtın, nerede oturacağınızı ve yardım için kime başvuracağınızı sorun.",
+      "uk": "Представся, запитай, де ти сидітимеш і до кого звертатися по допомогу.",
+      "ar": "عرّف بنفسك، واسأل أين ستجلس ومن تطلب منه المساعدة.",
+      "hi": "अपना परिचय दीजिए, पूछिए कि आप कहाँ बैठेंगे और मदद के लिए किससे पूछें।",
+      "vi": "Giới thiệu bản thân, hỏi chỗ ngồi của bạn và nên nhờ ai giúp đỡ.",
+      "id": "Perkenalkan dirimu, tanyakan di mana kamu akan duduk dan kepada siapa minta bantuan.",
+      "ms": "Perkenalkan diri, tanya di mana anda akan duduk dan siapa yang boleh dirujuk untuk bantuan.",
+      "ko": "자기소개를 하고, 어디에 앉는지, 도움이 필요할 때 누구에게 물어보면 되는지 물어보세요."
+    },
+    "practice": "Preséntese, pregunte dónde se sentará y a quién pedir ayuda.",
+    "practice_translations": {
+      "en": "Introduce yourself, ask where you will sit and who to ask for help.",
+      "es": "Preséntese, pregunte dónde se sentará y a quién pedir ayuda.",
+      "ja": "自己紹介をして、自分の席の場所と、困ったときに誰に聞けばいいか確認してください。",
+      "ko": "자기소개를 하고, 어디에 앉는지, 도움이 필요할 때 누구에게 물어보면 되는지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Answer the greeting and say how you got there",
+        "native_translations": {
+          "en": "Answer the greeting and say how you got there",
+          "es": "Responda al saludo y diga cómo llegó",
+          "fr": "Répondez à son salut et dites comment vous êtes venu",
+          "de": "Erwidern Sie die Begrüßung und sagen Sie, wie Sie hergekommen sind",
+          "it": "Rispondi al saluto e di' come sei arrivato",
+          "pl": "Odpowiedz na powitanie i powiedz, jak dotarłeś",
+          "pt": "Responda ao cumprimento e diga como você chegou",
+          "nl": "Reageer op de begroeting en vertel hoe je er gekomen bent",
+          "hr": "Odzdravi i reci kako si stigao",
+          "tr": "Selama karşılık verin ve buraya nasıl geldiğinizi söyleyin",
+          "uk": "Відповідай на привітання й розкажи, як ти добирався",
+          "ar": "ردّ على التحية وقل كيف وصلت",
+          "hi": "अभिवादन का जवाब दीजिए और बताइए कि आप यहाँ कैसे पहुँचे",
+          "vi": "Đáp lời chào và kể bạn đến đây bằng cách nào",
+          "id": "Balas sapaannya dan ceritakan bagaimana kamu sampai ke sini",
+          "ms": "Balas ucapan itu dan katakan bagaimana anda datang ke sini",
+          "ko": "인사에 답하고 어떻게 왔는지 말하세요"
+        },
+        "practice": "Responda al saludo y diga cómo llegó",
+        "practice_translations": {
+          "en": "Answer the greeting and say how you got there",
+          "es": "Responda al saludo y diga cómo llegó",
+          "ja": "あいさつに答えて、どうやって来たか伝えてください",
+          "ko": "인사에 답하고 어떻게 왔는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask where your desk is",
+        "native_translations": {
+          "en": "Ask where your desk is",
+          "es": "Pregunte dónde está su escritorio",
+          "fr": "Demandez où se trouve votre bureau",
+          "de": "Fragen Sie, wo Ihr Schreibtisch ist",
+          "it": "Chiedi dov'è la tua scrivania",
+          "pl": "Zapytaj, gdzie jest twoje biurko",
+          "pt": "Pergunte onde fica sua mesa",
+          "nl": "Vraag waar je bureau is",
+          "hr": "Pitaj gdje je tvoj radni stol",
+          "tr": "Masanızın nerede olduğunu sorun",
+          "uk": "Запитай, де твоє робоче місце",
+          "ar": "اسأل أين مكتبك",
+          "hi": "पूछिए कि आपकी डेस्क कहाँ है",
+          "vi": "Hỏi bàn làm việc của bạn ở đâu",
+          "id": "Tanyakan di mana mejamu",
+          "ms": "Tanya di mana meja anda",
+          "ko": "자리가 어디인지 물어보세요"
+        },
+        "practice": "Pregunte dónde está su escritorio",
+        "practice_translations": {
+          "en": "Ask where your desk is",
+          "es": "Pregunte dónde está su escritorio",
+          "ja": "自分の席がどこか聞いてください",
+          "ko": "자리가 어디인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask who can help you with the IT setup",
+        "native_translations": {
+          "en": "Ask who can help you with the IT setup",
+          "es": "Pregunte quién puede ayudarle con la configuración informática",
+          "fr": "Demandez qui peut vous aider à configurer votre matériel informatique",
+          "de": "Fragen Sie, wer Ihnen bei der IT-Einrichtung helfen kann",
+          "it": "Chiedi chi può aiutarti con la configurazione informatica",
+          "pl": "Zapytaj, kto pomoże ci w konfiguracji sprzętu IT",
+          "pt": "Pergunte quem pode ajudar você com a configuração de TI",
+          "nl": "Vraag wie je kan helpen met de IT-installatie",
+          "hr": "Pitaj tko ti može pomoći s postavljanjem IT opreme",
+          "tr": "BT kurulumunda size kimin yardım edebileceğini sorun",
+          "uk": "Запитай, хто допоможе з налаштуванням техніки",
+          "ar": "اسأل من يمكنه مساعدتك في إعداد الأجهزة والأنظمة",
+          "hi": "पूछिए कि IT सेटअप में आपकी मदद कौन कर सकता है",
+          "vi": "Hỏi ai có thể giúp bạn cài đặt máy tính, hệ thống IT",
+          "id": "Tanyakan siapa yang bisa membantu pengaturan IT",
+          "ms": "Tanya siapa yang boleh membantu dengan persediaan IT",
+          "ko": "IT 설정을 누가 도와줄 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte quién puede ayudarle con la configuración informática",
+        "practice_translations": {
+          "en": "Ask who can help you with the IT setup",
+          "es": "Pregunte quién puede ayudarle con la configuración informática",
+          "ja": "ITの設定を誰に手伝ってもらえるか聞いてください",
+          "ko": "IT 설정을 누가 도와줄 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask about the team meeting",
+        "native_translations": {
+          "en": "Ask about the team meeting",
+          "es": "Pregunte por la reunión del equipo",
+          "fr": "Renseignez-vous sur la réunion d'équipe",
+          "de": "Fragen Sie nach dem Teammeeting",
+          "it": "Chiedi informazioni sulla riunione del team",
+          "pl": "Zapytaj o spotkanie zespołu",
+          "pt": "Pergunte sobre a reunião da equipe",
+          "nl": "Vraag naar het teamoverleg",
+          "hr": "Pitaj za sastanak tima",
+          "tr": "Ekip toplantısını sorun",
+          "uk": "Запитай про нараду команди",
+          "ar": "اسأل عن اجتماع الفريق",
+          "hi": "टीम मीटिंग के बारे में पूछिए",
+          "vi": "Hỏi về buổi họp nhóm",
+          "id": "Tanyakan soal rapat tim",
+          "ms": "Tanya tentang mesyuarat pasukan",
+          "ko": "팀 회의에 대해 물어보세요"
+        },
+        "practice": "Pregunte por la reunión del equipo",
+        "practice_translations": {
+          "en": "Ask about the team meeting",
+          "es": "Pregunte por la reunión del equipo",
+          "ja": "チームミーティングについて聞いてください",
+          "ko": "팀 회의에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for having me. I'm really excited to be here.",
+      "native_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "fr": "Merci de m'accueillir. Je suis vraiment ravi d'être ici.",
+        "de": "Vielen Dank, dass ich hier sein darf. Ich freue mich wirklich sehr.",
+        "it": "Grazie per avermi accolto. Sono davvero felice di essere qui.",
+        "pl": "Dziękuję za przyjęcie. Naprawdę cieszę się, że tu jestem.",
+        "pt": "Obrigado por me receber. Estou muito animado por estar aqui.",
+        "nl": "Bedankt voor de uitnodiging. Ik heb er echt zin in.",
+        "hr": "Hvala Vam na dobrodošlici. Jako se veselim što sam ovdje.",
+        "tr": "Beni ağırladığınız için teşekkür ederim. Burada olduğum için çok heyecanlıyım.",
+        "uk": "Дякую, що прийняли мене. Я дуже радий бути тут.",
+        "ar": "شكرًا على استقبالي. أنا متحمس حقًا لوجودي هنا.",
+        "hi": "मुझे मौक़ा देने के लिए धन्यवाद। मैं यहाँ आकर सच में उत्साहित हूँ।",
+        "vi": "Cảm ơn anh/chị đã đón tiếp. Tôi thực sự rất hào hứng được làm việc ở đây.",
+        "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
+        "ms": "Terima kasih kerana menerima saya. Saya sangat teruja berada di sini.",
+        "ko": "불러 주셔서 감사합니다. 여기서 일하게 되어 정말 기뻐요."
+      },
+      "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+      "practice_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "ja": "お迎えいただきありがとうございます。ここで働けるのをとても楽しみにしていました。",
+        "ko": "불러 주셔서 감사합니다. 여기서 일하게 되어 정말 기뻐요."
+      }
+    },
+    {
+      "native": "It's great to be here. I'm ready to learn and contribute.",
+      "native_translations": {
+        "en": "It's great to be here. I'm ready to learn and contribute.",
+        "es": "Es genial estar aquí. Estoy lista para aprender y aportar.",
+        "fr": "Je suis très content d'être là. Je suis prêt à apprendre et à apporter ma contribution.",
+        "de": "Schön, hier zu sein. Ich bin bereit, zu lernen und mitzuarbeiten.",
+        "it": "È bello essere qui. Sono pronto a imparare e a dare il mio contributo.",
+        "pl": "Świetnie tu być. Jestem gotowy się uczyć i działać.",
+        "pt": "É ótimo estar aqui. Estou pronto para aprender e contribuir.",
+        "nl": "Fijn om hier te zijn. Ik ben klaar om te leren en bij te dragen.",
+        "hr": "Drago mi je što sam ovdje. Spreman sam učiti i dati svoj doprinos.",
+        "tr": "Burada olmak harika. Öğrenmeye ve katkıda bulunmaya hazırım.",
+        "uk": "Чудово бути тут. Я готовий навчатися й робити свій внесок.",
+        "ar": "يسعدني أن أكون هنا. أنا مستعد للتعلّم والمساهمة.",
+        "hi": "यहाँ आकर बहुत अच्छा लगा। मैं सीखने और योगदान देने के लिए तैयार हूँ।",
+        "vi": "Rất vui được ở đây. Tôi sẵn sàng học hỏi và đóng góp.",
+        "id": "Senang sekali bisa di sini. Saya siap belajar dan berkontribusi.",
+        "ms": "Seronok berada di sini. Saya sedia untuk belajar dan menyumbang.",
+        "ko": "여기 오게 되어 정말 좋아요. 열심히 배우고 기여할 준비가 되어 있어요."
+      },
+      "practice": "Es genial estar aquí. Estoy lista para aprender y aportar.",
+      "practice_translations": {
+        "en": "It's great to be here. I'm ready to learn and contribute.",
+        "es": "Es genial estar aquí. Estoy lista para aprender y aportar.",
+        "ja": "ここに来られてうれしいです。いろいろ学んで、貢献したいと思います。",
+        "ko": "여기 오게 되어 정말 좋아요. 열심히 배우고 기여할 준비가 되어 있어요."
+      }
+    },
+    {
+      "native": "Regarding the IT setup, where do I need to go?",
+      "native_translations": {
+        "en": "Regarding the IT setup, where do I need to go?",
+        "es": "Sobre la configuración informática, ¿adónde tengo que ir?",
+        "fr": "Pour la configuration informatique, où dois-je aller ?",
+        "de": "Wegen der IT-Einrichtung: Wohin muss ich gehen?",
+        "it": "Per la configurazione informatica, dove devo andare?",
+        "pl": "Jeśli chodzi o konfigurację IT, dokąd mam się udać?",
+        "pt": "Sobre a configuração de TI, aonde eu preciso ir?",
+        "nl": "Waar moet ik zijn voor de IT-installatie?",
+        "hr": "Što se tiče postavljanja IT opreme, kamo trebam otići?",
+        "tr": "BT kurulumu için nereye gitmem gerekiyor?",
+        "uk": "Щодо налаштування техніки — куди мені звернутися?",
+        "ar": "بخصوص إعداد الأجهزة والأنظمة، إلى أين عليّ أن أذهب؟",
+        "hi": "IT सेटअप के लिए मुझे कहाँ जाना होगा?",
+        "vi": "Về việc cài đặt IT, tôi cần đến chỗ nào ạ?",
+        "id": "Untuk pengaturan IT, saya harus ke mana?",
+        "ms": "Tentang persediaan IT, ke mana saya perlu pergi?",
+        "ko": "IT 설정은 어디로 가면 되나요?"
+      },
+      "practice": "Sobre la configuración informática, ¿adónde tengo que ir?",
+      "practice_translations": {
+        "en": "Regarding the IT setup, where do I need to go?",
+        "es": "Sobre la configuración informática, ¿adónde tengo que ir?",
+        "ja": "ITの設定については、どこに行けばいいですか。",
+        "ko": "IT 설정은 어디로 가면 되나요?"
+      }
+    },
+    {
+      "native": "What time is the team meeting?",
+      "native_translations": {
+        "en": "What time is the team meeting?",
+        "es": "¿A qué hora es la reunión del equipo?",
+        "fr": "À quelle heure a lieu la réunion d'équipe ?",
+        "de": "Um wie viel Uhr ist das Teammeeting?",
+        "it": "A che ora è la riunione del team?",
+        "pl": "O której jest spotkanie zespołu?",
+        "pt": "Que horas é a reunião da equipe?",
+        "nl": "Hoe laat is het teamoverleg?",
+        "hr": "U koliko je sati sastanak tima?",
+        "tr": "Ekip toplantısı saat kaçta?",
+        "uk": "О котрій нарада команди?",
+        "ar": "في أي ساعة اجتماع الفريق؟",
+        "hi": "टीम मीटिंग कितने बजे है?",
+        "vi": "Mấy giờ thì họp nhóm ạ?",
+        "id": "Rapat timnya jam berapa?",
+        "ms": "Pukul berapa mesyuarat pasukan?",
+        "ko": "팀 회의는 몇 시예요?"
+      },
+      "practice": "¿A qué hora es la reunión del equipo?",
+      "practice_translations": {
+        "en": "What time is the team meeting?",
+        "es": "¿A qué hora es la reunión del equipo?",
+        "ja": "チームミーティングは何時ですか。",
+        "ko": "팀 회의는 몇 시예요?"
+      }
+    },
+    {
+      "native": "I see, so lunch is at noon. Is there a specific place we're going?",
+      "native_translations": {
+        "en": "I see, so lunch is at noon. Is there a specific place we're going?",
+        "es": "Ya veo, el almuerzo es al mediodía. ¿Vamos a algún sitio en concreto?",
+        "fr": "D'accord, donc le déjeuner est à midi. On va quelque part en particulier ?",
+        "de": "Verstehe, also Mittagessen ist um zwölf. Gehen wir an einen bestimmten Ort?",
+        "it": "Capisco, quindi il pranzo è a mezzogiorno. C'è un posto preciso dove andiamo?",
+        "pl": "Rozumiem, czyli lunch jest w południe. Idziemy w jakieś konkretne miejsce?",
+        "pt": "Entendi, então o almoço é ao meio-dia. Vamos a algum lugar específico?",
+        "nl": "Ik snap het, dus de lunch is om twaalf uur. Gaan we naar een bepaalde plek?",
+        "hr": "Aha, znači ručak je u podne. Idemo li na neko određeno mjesto?",
+        "tr": "Anladım, yani öğle yemeği saat on ikide. Belirli bir yere mi gidiyoruz?",
+        "uk": "Зрозуміло, тобто обід опівдні. Ми підемо в якесь конкретне місце?",
+        "ar": "فهمت، الغداء إذن عند الظهر. هل هناك مكان محدد سنذهب إليه؟",
+        "hi": "अच्छा, तो लंच बारह बजे है। क्या हम किसी ख़ास जगह जा रहे हैं?",
+        "vi": "À, vậy là mười hai giờ ăn trưa. Mình có đi ăn ở chỗ nào cụ thể không ạ?",
+        "id": "Oh begitu, jadi makan siangnya jam dua belas. Apakah kita pergi ke tempat tertentu?",
+        "ms": "Oh begitu, jadi makan tengah hari pada pukul dua belas. Kita pergi ke tempat tertentu ke?",
+        "ko": "아, 점심은 12시군요. 정해진 장소로 가나요?"
+      },
+      "practice": "Ya veo, el almuerzo es al mediodía. ¿Vamos a algún sitio en concreto?",
+      "practice_translations": {
+        "en": "I see, so lunch is at noon. Is there a specific place we're going?",
+        "es": "Ya veo, el almuerzo es al mediodía. ¿Vamos a algún sitio en concreto?",
+        "ja": "なるほど、お昼は12時なんですね。どこか決まったお店に行くんですか。",
+        "ko": "아, 점심은 12시군요. 정해진 장소로 가나요?"
+      }
+    }
+  ]
+}

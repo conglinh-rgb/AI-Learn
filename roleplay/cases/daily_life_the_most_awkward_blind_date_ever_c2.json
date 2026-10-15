@@ -1,0 +1,350 @@
+{
+  "id": "daily_life_the_most_awkward_blind_date_ever_c2",
+  "title": "Wait, We've Met Before?",
+  "title_translations": {
+    "en": "Wait, We've Met Before?",
+    "es": "Un momento, ¿ya nos conocíamos?",
+    "fr": "Attends, on s'est déjà vus ?",
+    "de": "Moment, kennen wir uns?",
+    "it": "Aspetta, ci siamo già visti?",
+    "pl": "Chwila, my się już znamy?",
+    "pt": "Espera, a gente já se conhece?",
+    "nl": "Wacht, kennen wij elkaar al?",
+    "hr": "Čekaj, zar se već znamo?",
+    "tr": "Dur, Biz Tanışıyor muyuz?",
+    "uk": "Стривай, ми вже знайомі?",
+    "ar": "لحظة، هل التقينا من قبل؟",
+    "hi": "रुको, हम पहले मिल चुके हैं?",
+    "vi": "Khoan, mình từng gặp nhau rồi à?",
+    "id": "Tunggu, Kita Pernah Bertemu?",
+    "ms": "Eh, Kita Pernah Jumpa?",
+    "ko": "잠깐, 우리 만난 적 있죠?"
+  },
+  "character": "fox",
+  "scenario": "Halfway through dinner, you realize your blind date (AI) is the person who stole your parking spot this morning, and they recognize you too.",
+  "scenario_translations": {
+    "en": "Halfway through dinner, you realize your blind date (AI) is the person who stole your parking spot this morning, and they recognize you too.",
+    "es": "A mitad de la cena, se da cuenta de que su cita a ciegas (AI) es quien le ganó el lugar de estacionamiento esta mañana, y también se acuerda de usted.",
+    "fr": "Au milieu du dîner, vous réalisez que votre rendez-vous à l'aveugle (AI) est la personne qui vous a volé votre place de parking ce matin, et elle vous reconnaît aussi.",
+    "de": "Mitten beim Abendessen merken Sie, dass Ihr Blind Date (AI) die Person ist, die Ihnen heute Morgen den Parkplatz weggeschnappt hat – und sie erkennt Sie auch.",
+    "it": "A metà cena ti rendi conto che il tuo appuntamento al buio (AI) è la persona che ti ha rubato il parcheggio stamattina, e anche lei ti riconosce.",
+    "pl": "W połowie kolacji orientujesz się, że twoja randka w ciemno (AI) to osoba, która rano zajęła ci miejsce parkingowe, i ona też cię rozpoznaje.",
+    "pt": "No meio do jantar, você percebe que seu par (AI) é a pessoa que roubou sua vaga de estacionamento hoje de manhã, e a pessoa também te reconhece.",
+    "nl": "Halverwege het diner besef je dat je blind date (AI) degene is die vanochtend je parkeerplek inpikte, en ze herkennen jou ook.",
+    "hr": "Usred večere shvatiš da je tvoj spoj naslijepo (AI) osoba koja ti je jutros ukrala parkirno mjesto, a i ona prepoznaje tebe.",
+    "tr": "Akşam yemeğinin ortasında, buluştuğunuz kişinin (AI) bu sabah park yerinizi kapan kişi olduğunu fark ediyorsunuz ve o da sizi tanıyor.",
+    "uk": "Посеред вечері ти розумієш, що твоя пара на побаченні наосліп (AI) — це людина, яка зранку зайняла твоє місце на парковці, і вона теж тебе впізнає.",
+    "ar": "في منتصف العشاء، تدرك أن شريك موعدك الأعمى (AI) هو الشخص الذي أخذ مكان ركن سيارتك هذا الصباح، وهو يتعرف عليك أيضًا.",
+    "hi": "डिनर के बीच में आपको एहसास होता है कि आपकी ब्लाइंड डेट (AI) वही है जिसने आज सुबह आपकी पार्किंग की जगह छीन ली थी, और उन्होंने भी आपको पहचान लिया है।",
+    "vi": "Bữa tối đang diễn ra thì bạn nhận ra người hẹn hò giấu mặt (AI) chính là người đã giành chỗ đậu xe của bạn sáng nay, và họ cũng nhận ra bạn.",
+    "id": "Di tengah makan malam, kamu sadar teman kencan butamu (AI) adalah orang yang merebut tempat parkirmu tadi pagi, dan dia juga mengenalimu.",
+    "ms": "Separuh jalan makan malam, anda sedar pasangan janji temu buta anda (AI) ialah orang yang mencuri tempat letak kereta anda pagi tadi, dan dia juga mengenali anda.",
+    "ko": "저녁 식사 도중, 소개팅 상대(AI)가 오늘 아침 당신의 주차 자리를 가로챈 사람이라는 걸 깨달아요. 상대도 당신을 알아봐요."
+  },
+  "mission": {
+    "native": "Turn the awkward coincidence into a laugh and keep the date going.",
+    "native_translations": {
+      "en": "Turn the awkward coincidence into a laugh and keep the date going.",
+      "es": "Convierta la incómoda coincidencia en una risa y siga con la cita.",
+      "fr": "Transformez cette coïncidence gênante en fou rire et poursuivez le rendez-vous.",
+      "de": "Machen Sie aus dem peinlichen Zufall etwas zum Lachen und retten Sie das Date.",
+      "it": "Trasforma la coincidenza imbarazzante in una risata e porta avanti l'appuntamento.",
+      "pl": "Obróć niezręczny zbieg okoliczności w żart i kontynuuj randkę.",
+      "pt": "Transforme a coincidência constrangedora em risada e continue o encontro.",
+      "nl": "Maak van het ongemakkelijke toeval iets om om te lachen en houd de date gaande.",
+      "hr": "Pretvori neugodnu slučajnost u šalu i nastavi spoj.",
+      "tr": "Bu garip tesadüfü gülünecek bir şeye çevirin ve buluşmayı sürdürün.",
+      "uk": "Перетвори незручний збіг на жарт і продовж побачення.",
+      "ar": "حوّل المصادفة المحرجة إلى ضحكة واستمر في الموعد.",
+      "hi": "इस अजीब संयोग को हँसी में बदलिए और डेट जारी रखिए।",
+      "vi": "Biến sự trùng hợp khó xử thành tiếng cười và tiếp tục buổi hẹn.",
+      "id": "Ubah kebetulan yang canggung ini jadi bahan tawa dan lanjutkan kencannya.",
+      "ms": "Jadikan kebetulan yang janggal itu bahan ketawa dan teruskan janji temu.",
+      "ko": "어색한 우연을 웃음으로 바꾸고 데이트를 이어 가세요."
+    },
+    "practice": "Convierta la incómoda coincidencia en una risa y siga con la cita.",
+    "practice_translations": {
+      "en": "Turn the awkward coincidence into a laugh and keep the date going.",
+      "es": "Convierta la incómoda coincidencia en una risa y siga con la cita.",
+      "ja": "気まずい偶然を笑い話に変えて、デートを続けてください。",
+      "ko": "어색한 우연을 웃음으로 바꾸고 데이트를 이어 가세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Mention that you have met before",
+        "native_translations": {
+          "en": "Mention that you have met before",
+          "es": "Mencione que ya se conocían",
+          "fr": "Mentionnez que vous vous êtes déjà croisés",
+          "de": "Sagen Sie, dass Sie sich schon begegnet sind",
+          "it": "Fai notare che vi siete già incontrati",
+          "pl": "Wspomnij, że już się spotkaliście",
+          "pt": "Comente que vocês já se viram antes",
+          "nl": "Zeg dat jullie elkaar al eens gezien hebben",
+          "hr": "Spomeni da ste se već sreli",
+          "tr": "Daha önce karşılaştığınızı söyleyin",
+          "uk": "Згадай, що ви вже бачилися",
+          "ar": "اذكر أنكما التقيتما من قبل",
+          "hi": "बताइए कि आप पहले मिल चुके हैं",
+          "vi": "Nhắc rằng hai người đã từng gặp nhau",
+          "id": "Sebutkan bahwa kalian pernah bertemu",
+          "ms": "Sebut bahawa anda pernah berjumpa sebelum ini",
+          "ko": "전에 만난 적이 있다고 말하세요"
+        },
+        "practice": "Mencione que ya se conocían",
+        "practice_translations": {
+          "en": "Mention that you have met before",
+          "es": "Mencione que ya se conocían",
+          "ja": "前に会ったことがあると伝えてください",
+          "ko": "전에 만난 적이 있다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe what happened this morning",
+        "native_translations": {
+          "en": "Describe what happened this morning",
+          "es": "Describa lo que pasó esta mañana",
+          "fr": "Racontez ce qui s'est passé ce matin",
+          "de": "Beschreiben Sie, was heute Morgen passiert ist",
+          "it": "Descrivi cosa è successo stamattina",
+          "pl": "Opisz, co wydarzyło się rano",
+          "pt": "Descreva o que aconteceu hoje de manhã",
+          "nl": "Beschrijf wat er vanochtend gebeurde",
+          "hr": "Opiši što se dogodilo jutros",
+          "tr": "Bu sabah ne olduğunu anlatın",
+          "uk": "Опиши, що сталося сьогодні зранку",
+          "ar": "صف ما حدث هذا الصباح",
+          "hi": "बताइए कि आज सुबह क्या हुआ था",
+          "vi": "Kể lại chuyện xảy ra sáng nay",
+          "id": "Ceritakan apa yang terjadi tadi pagi",
+          "ms": "Ceritakan apa yang berlaku pagi tadi",
+          "ko": "오늘 아침에 있었던 일을 이야기하세요"
+        },
+        "practice": "Describa lo que pasó esta mañana",
+        "practice_translations": {
+          "en": "Describe what happened this morning",
+          "es": "Describa lo que pasó esta mañana",
+          "ja": "今朝の出来事を説明してください",
+          "ko": "오늘 아침에 있었던 일을 이야기하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Make a joke to lighten the mood",
+        "native_translations": {
+          "en": "Make a joke to lighten the mood",
+          "es": "Haga una broma para relajar el ambiente",
+          "fr": "Faites une blague pour détendre l'atmosphère",
+          "de": "Machen Sie einen Witz, um die Stimmung aufzulockern",
+          "it": "Fai una battuta per alleggerire l'atmosfera",
+          "pl": "Zażartuj, żeby rozładować atmosferę",
+          "pt": "Faça uma piada para descontrair",
+          "nl": "Maak een grapje om de sfeer te verlichten",
+          "hr": "Našali se da razbiješ napetost",
+          "tr": "Havayı yumuşatmak için bir şaka yapın",
+          "uk": "Пожартуй, щоб розрядити атмосферу",
+          "ar": "قل نكتة لتلطيف الأجواء",
+          "hi": "माहौल हल्का करने के लिए एक मज़ाक़ कीजिए",
+          "vi": "Pha trò để không khí bớt căng thẳng",
+          "id": "Buat lelucon untuk mencairkan suasana",
+          "ms": "Buat jenaka untuk meredakan suasana",
+          "ko": "농담으로 분위기를 풀어 보세요"
+        },
+        "practice": "Haga una broma para relajar el ambiente",
+        "practice_translations": {
+          "en": "Make a joke to lighten the mood",
+          "es": "Haga una broma para relajar el ambiente",
+          "ja": "冗談を言って場を和ませてください",
+          "ko": "농담으로 분위기를 풀어 보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest ordering dessert together",
+        "native_translations": {
+          "en": "Suggest ordering dessert together",
+          "es": "Sugiera pedir un postre juntos",
+          "fr": "Proposez de commander un dessert ensemble",
+          "de": "Schlagen Sie vor, gemeinsam ein Dessert zu bestellen",
+          "it": "Proponi di ordinare un dolce insieme",
+          "pl": "Zaproponuj wspólne zamówienie deseru",
+          "pt": "Sugira pedirem uma sobremesa juntos",
+          "nl": "Stel voor om samen een toetje te bestellen",
+          "hr": "Predloži da zajedno naručite desert",
+          "tr": "Birlikte tatlı sipariş etmeyi önerin",
+          "uk": "Запропонуй разом замовити десерт",
+          "ar": "اقترح أن تطلبا الحلوى معًا",
+          "hi": "साथ में डेज़र्ट ऑर्डर करने का सुझाव दीजिए",
+          "vi": "Gợi ý cùng gọi món tráng miệng",
+          "id": "Usulkan untuk memesan hidangan penutup bersama",
+          "ms": "Cadangkan pesan pencuci mulut bersama",
+          "ko": "디저트를 같이 주문하자고 제안하세요"
+        },
+        "practice": "Sugiera pedir un postre juntos",
+        "practice_translations": {
+          "en": "Suggest ordering dessert together",
+          "es": "Sugiera pedir un postre juntos",
+          "ja": "一緒にデザートを頼もうと提案してください",
+          "ko": "디저트를 같이 주문하자고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Wait a second... haven't we met before?",
+      "native_translations": {
+        "en": "Wait a second... haven't we met before?",
+        "es": "Espera un momento... ¿no nos conocemos ya?",
+        "fr": "Attends une seconde… on ne s'est pas déjà vus ?",
+        "de": "Moment mal ... kennen wir uns nicht?",
+        "it": "Aspetta un attimo... non ci siamo già visti?",
+        "pl": "Sekundkę... czy my się już nie spotkaliśmy?",
+        "pt": "Espera aí... a gente já não se conhece?",
+        "nl": "Wacht eens even... hebben wij elkaar niet eerder ontmoet?",
+        "hr": "Čekaj malo... zar se nismo već negdje sreli?",
+        "tr": "Bir saniye... biz daha önce karşılaşmadık mı?",
+        "uk": "Зачекай-но... ми ж раніше не зустрічалися?",
+        "ar": "لحظة... ألم نلتقِ من قبل؟",
+        "hi": "एक सेकंड रुकिए... क्या हम पहले नहीं मिल चुके?",
+        "vi": "Khoan đã... hình như mình từng gặp nhau rồi thì phải?",
+        "id": "Tunggu sebentar... bukankah kita pernah bertemu?",
+        "ms": "Sekejap... kita pernah jumpa sebelum ini, kan?",
+        "ko": "잠깐만요... 우리 전에 만난 적 있지 않아요?"
+      },
+      "practice": "Espera un momento... ¿no nos conocemos ya?",
+      "practice_translations": {
+        "en": "Wait a second... haven't we met before?",
+        "es": "Espera un momento... ¿no nos conocemos ya?",
+        "ja": "ちょっと待ってください…前にお会いしたことがありませんか。",
+        "ko": "잠깐만요... 우리 전에 만난 적 있지 않아요?"
+      }
+    },
+    {
+      "native": "You took my parking spot this morning!",
+      "native_translations": {
+        "en": "You took my parking spot this morning!",
+        "es": "¡Esta mañana me quitaste el lugar de estacionamiento!",
+        "fr": "C'est toi qui m'as pris ma place de parking ce matin !",
+        "de": "Du hast mir heute Morgen den Parkplatz weggeschnappt!",
+        "it": "Mi hai rubato il parcheggio stamattina!",
+        "pl": "Zajęłaś mi dziś rano miejsce parkingowe!",
+        "pt": "Você pegou minha vaga de estacionamento hoje de manhã!",
+        "nl": "Jij hebt vanochtend mijn parkeerplek ingepikt!",
+        "hr": "Ti si ona osoba koja mi je jutros uzela parkirno mjesto!",
+        "tr": "Bu sabah park yerimi sen kaptın!",
+        "uk": "Це ж ти зайняв моє місце на парковці сьогодні вранці!",
+        "ar": "أنت من أخذ مكان ركن سيارتي هذا الصباح!",
+        "hi": "आज सुबह आपने मेरी पार्किंग की जगह ले ली थी!",
+        "vi": "Sáng nay bạn giành chỗ đậu xe của mình!",
+        "id": "Kamu yang mengambil tempat parkir saya tadi pagi!",
+        "ms": "Awak ambil tempat letak kereta saya pagi tadi!",
+        "ko": "오늘 아침에 제 주차 자리를 가져가셨잖아요!"
+      },
+      "practice": "¡Esta mañana me quitaste el lugar de estacionamiento!",
+      "practice_translations": {
+        "en": "You took my parking spot this morning!",
+        "es": "¡Esta mañana me quitaste el lugar de estacionamiento!",
+        "ja": "今朝、私の駐車スペースを取りましたよね！",
+        "ko": "오늘 아침에 제 주차 자리를 가져가셨잖아요!"
+      }
+    },
+    {
+      "native": "I was so angry, I honked for a full minute.",
+      "native_translations": {
+        "en": "I was so angry, I honked for a full minute.",
+        "es": "Estaba tan enojado que toqué la bocina un minuto entero.",
+        "fr": "J'étais tellement énervé que j'ai klaxonné pendant une minute entière.",
+        "de": "Ich war so sauer, dass ich eine ganze Minute gehupt habe.",
+        "it": "Ero così arrabbiato che ho suonato il clacson per un minuto intero.",
+        "pl": "Byłem taki zły, że trąbiłem przez całą minutę.",
+        "pt": "Fiquei tão bravo que buzinei por um minuto inteiro.",
+        "nl": "Ik was zo boos dat ik een hele minuut heb getoeterd.",
+        "hr": "Toliko me to razljutilo da je truba svirala cijelu minutu.",
+        "tr": "O kadar sinirlendim ki tam bir dakika korna çaldım.",
+        "uk": "Я так розлютився, що сигналив цілу хвилину.",
+        "ar": "كنت غاضبًا جدًا، وأطلقت بوق السيارة دقيقة كاملة.",
+        "hi": "मुझे इतना ग़ुस्सा आया कि मैंने पूरे एक मिनट तक हॉर्न बजाया।",
+        "vi": "Mình tức đến mức bấm còi suốt cả phút.",
+        "id": "Saya kesal sekali sampai membunyikan klakson satu menit penuh.",
+        "ms": "Saya marah sangat sampai saya hon selama seminit penuh.",
+        "ko": "너무 화가 나서 1분 내내 경적을 울렸어요."
+      },
+      "practice": "Estaba tan enojado que toqué la bocina un minuto entero.",
+      "practice_translations": {
+        "en": "I was so angry, I honked for a full minute.",
+        "es": "Estaba tan enojado que toqué la bocina un minuto entero.",
+        "ja": "すごく腹が立って、1分間ずっとクラクションを鳴らしました。",
+        "ko": "너무 화가 나서 1분 내내 경적을 울렸어요."
+      }
+    },
+    {
+      "native": "Well, now you owe me dessert.",
+      "native_translations": {
+        "en": "Well, now you owe me dessert.",
+        "es": "Bueno, ahora me debes el postre.",
+        "fr": "Bon, maintenant tu me dois un dessert.",
+        "de": "Tja, jetzt schuldest du mir ein Dessert.",
+        "it": "Beh, adesso mi devi un dolce.",
+        "pl": "No to teraz jesteś mi winna deser.",
+        "pt": "Bom, agora você me deve uma sobremesa.",
+        "nl": "Nou, dan ben je me nu een toetje schuldig.",
+        "hr": "E pa, sad mi duguješ desert.",
+        "tr": "Eh, artık bana bir tatlı borçlusun.",
+        "uk": "Що ж, тепер ти винен мені десерт.",
+        "ar": "حسنًا، الآن أنت مدين لي بالحلوى.",
+        "hi": "ख़ैर, अब आप पर मेरा एक डेज़र्ट उधार है।",
+        "vi": "Thôi, giờ bạn nợ mình một món tráng miệng đấy.",
+        "id": "Nah, sekarang kamu berutang hidangan penutup ke saya.",
+        "ms": "Jadi, sekarang awak berhutang pencuci mulut dengan saya.",
+        "ko": "그럼 이제 저한테 디저트 사셔야겠네요."
+      },
+      "practice": "Bueno, ahora me debes el postre.",
+      "practice_translations": {
+        "en": "Well, now you owe me dessert.",
+        "es": "Bueno, ahora me debes el postre.",
+        "ja": "じゃあ、デザートをおごってもらわないと。",
+        "ko": "그럼 이제 저한테 디저트 사셔야겠네요."
+      }
+    },
+    {
+      "native": "Should we share something sweet?",
+      "native_translations": {
+        "en": "Should we share something sweet?",
+        "es": "¿Compartimos algo dulce?",
+        "fr": "On partage quelque chose de sucré ?",
+        "de": "Sollen wir uns etwas Süßes teilen?",
+        "it": "Dividiamo qualcosa di dolce?",
+        "pl": "Może podzielimy się czymś słodkim?",
+        "pt": "Vamos dividir um docinho?",
+        "nl": "Zullen we iets zoets delen?",
+        "hr": "Da podijelimo nešto slatko?",
+        "tr": "Tatlı bir şey paylaşalım mı?",
+        "uk": "Може, візьмемо щось солодке на двох?",
+        "ar": "هل نتقاسم شيئًا حلوًا؟",
+        "hi": "क्या हम कुछ मीठा शेयर करें?",
+        "vi": "Mình gọi món gì ngọt ăn chung nhé?",
+        "id": "Bagaimana kalau kita berbagi sesuatu yang manis?",
+        "ms": "Nak kongsi sesuatu yang manis?",
+        "ko": "달달한 거 하나 같이 먹을까요?"
+      },
+      "practice": "¿Compartimos algo dulce?",
+      "practice_translations": {
+        "en": "Should we share something sweet?",
+        "es": "¿Compartimos algo dulce?",
+        "ja": "何か甘いものを一緒に食べませんか。",
+        "ko": "달달한 거 하나 같이 먹을까요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "work_first_day_c2",
+  "title": "Lunch with Colleagues",
+  "title_translations": {
+    "en": "Lunch with Colleagues",
+    "es": "Almuerzo con colegas",
+    "fr": "Déjeuner avec des collègues",
+    "de": "Mittagessen mit Kollegen",
+    "it": "Pranzo con i colleghi",
+    "pl": "Lunch z kolegami z pracy",
+    "pt": "Almoço com os colegas",
+    "nl": "Lunchen met collega's",
+    "hr": "Ručak s kolegama",
+    "tr": "İş Arkadaşlarıyla Öğle Yemeği",
+    "uk": "Обід із колегами",
+    "ar": "الغداء مع الزملاء",
+    "hi": "सहकर्मियों के साथ लंच",
+    "vi": "Ăn trưa cùng đồng nghiệp",
+    "id": "Makan Siang dengan Rekan Kerja",
+    "ms": "Makan Tengah Hari dengan Rakan Sekerja",
+    "ko": "동료들과 점심 식사"
+  },
+  "character": "fox",
+  "scenario": "A colleague (AI) invites you to lunch on your first day and asks about you.",
+  "scenario_translations": {
+    "en": "A colleague (AI) invites you to lunch on your first day and asks about you.",
+    "es": "Un colega (AI) le invita a almorzar en su primer día y le hace preguntas sobre usted.",
+    "fr": "Un collègue (AI) vous invite à déjeuner le jour de votre arrivée et vous pose des questions sur vous.",
+    "de": "Ein Kollege (AI) lädt Sie an Ihrem ersten Tag zum Mittagessen ein und stellt Ihnen Fragen über sich.",
+    "it": "Un collega (AI) ti invita a pranzo il tuo primo giorno e ti fa qualche domanda su di te.",
+    "pl": "Kolega z pracy (AI) zaprasza cię w pierwszym dniu na lunch i wypytuje o ciebie.",
+    "pt": "Um colega (AI) convida você para almoçar no seu primeiro dia e pergunta sobre você.",
+    "nl": "Een collega (AI) nodigt je op je eerste dag uit voor de lunch en vraagt naar jou.",
+    "hr": "Kolega (AI) te prvog dana poziva na ručak i raspituje se o tebi.",
+    "tr": "İlk gününüzde bir iş arkadaşınız (AI) sizi öğle yemeğine davet ediyor ve sizi tanımak istiyor.",
+    "uk": "Колега (AI) запрошує тебе на обід у твій перший день і розпитує про тебе.",
+    "ar": "يدعوك زميل (AI) إلى الغداء في يومك الأول ويسألك عن نفسك.",
+    "hi": "पहले दिन एक सहकर्मी (AI) आपको लंच पर बुलाते हैं और आपके बारे में पूछते हैं।",
+    "vi": "Một đồng nghiệp (AI) mời bạn đi ăn trưa vào ngày đầu tiên và hỏi han về bạn.",
+    "id": "Seorang rekan kerja (AI) mengajakmu makan siang di hari pertamamu dan bertanya tentang dirimu.",
+    "ms": "Seorang rakan sekerja (AI) mengajak anda makan tengah hari pada hari pertama anda dan bertanya tentang diri anda.",
+    "ko": "첫 출근 날 한 동료(AI)가 점심을 같이 먹자고 하며 당신에 대해 묻습니다."
+  },
+  "mission": {
+    "native": "Make small talk and learn one thing about the company culture.",
+    "native_translations": {
+      "en": "Make small talk and learn one thing about the company culture.",
+      "es": "Charle un poco y aprenda algo sobre la cultura de la empresa.",
+      "fr": "Faites la conversation et apprenez une chose sur la culture de l'entreprise.",
+      "de": "Führen Sie Smalltalk und erfahren Sie etwas über die Unternehmenskultur.",
+      "it": "Fai due chiacchiere e scopri una cosa sulla cultura aziendale.",
+      "pl": "Porozmawiaj swobodnie i dowiedz się jednej rzeczy o kulturze firmy.",
+      "pt": "Bata um papo e descubra algo sobre a cultura da empresa.",
+      "nl": "Maak een praatje en leer één ding over de bedrijfscultuur.",
+      "hr": "Opušteno porazgovaraj i saznaj jednu stvar o kulturi tvrtke.",
+      "tr": "Sohbet edin ve şirket kültürü hakkında bir şey öğrenin.",
+      "uk": "Підтримай невимушену розмову й дізнайся щось про корпоративну культуру.",
+      "ar": "تبادل أطراف الحديث وتعرّف على شيء واحد عن ثقافة الشركة.",
+      "hi": "हल्की-फुल्की बातचीत कीजिए और कंपनी की संस्कृति के बारे में एक बात जानिए।",
+      "vi": "Trò chuyện xã giao và tìm hiểu một điều về văn hóa công ty.",
+      "id": "Ngobrol santai dan cari tahu satu hal tentang budaya perusahaan.",
+      "ms": "Berbual santai dan ketahui satu perkara tentang budaya syarikat.",
+      "ko": "가벼운 대화를 나누고 회사 문화에 대해 한 가지를 알아보세요."
+    },
+    "practice": "Charle un poco y aprenda algo sobre la cultura de la empresa.",
+    "practice_translations": {
+      "en": "Make small talk and learn one thing about the company culture.",
+      "es": "Charle un poco y aprenda algo sobre la cultura de la empresa.",
+      "ja": "雑談をして、会社の雰囲気について一つ知ってください。",
+      "ko": "가벼운 대화를 나누고 회사 문화에 대해 한 가지를 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Accept the invitation",
+        "native_translations": {
+          "en": "Accept the invitation",
+          "es": "Acepte la invitación",
+          "fr": "Acceptez l'invitation",
+          "de": "Nehmen Sie die Einladung an",
+          "it": "Accetta l'invito",
+          "pl": "Przyjmij zaproszenie",
+          "pt": "Aceite o convite",
+          "nl": "Neem de uitnodiging aan",
+          "hr": "Prihvati poziv",
+          "tr": "Daveti kabul edin",
+          "uk": "Прийми запрошення",
+          "ar": "اقبل الدعوة",
+          "hi": "न्योता स्वीकार कीजिए",
+          "vi": "Nhận lời mời",
+          "id": "Terima ajakannya",
+          "ms": "Terima pelawaan itu",
+          "ko": "초대를 받아들이세요"
+        },
+        "practice": "Acepte la invitación",
+        "practice_translations": {
+          "en": "Accept the invitation",
+          "es": "Acepte la invitación",
+          "ja": "誘いを受けてください",
+          "ko": "초대를 받아들이세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Share something about yourself",
+        "native_translations": {
+          "en": "Share something about yourself",
+          "es": "Cuente algo sobre usted",
+          "fr": "Racontez quelque chose sur vous",
+          "de": "Erzählen Sie etwas über sich",
+          "it": "Racconta qualcosa di te",
+          "pl": "Opowiedz coś o sobie",
+          "pt": "Conte algo sobre você",
+          "nl": "Vertel iets over jezelf",
+          "hr": "Reci nešto o sebi",
+          "tr": "Kendiniz hakkında bir şey paylaşın",
+          "uk": "Розкажи щось про себе",
+          "ar": "شارك شيئًا عن نفسك",
+          "hi": "अपने बारे में कुछ बताइए",
+          "vi": "Chia sẻ đôi điều về bản thân",
+          "id": "Ceritakan sesuatu tentang dirimu",
+          "ms": "Kongsi sesuatu tentang diri anda",
+          "ko": "자신에 대해 이야기해 보세요"
+        },
+        "practice": "Cuente algo sobre usted",
+        "practice_translations": {
+          "en": "Share something about yourself",
+          "es": "Cuente algo sobre usted",
+          "ja": "自分について何か話してください",
+          "ko": "자신에 대해 이야기해 보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about the company culture",
+        "native_translations": {
+          "en": "Ask about the company culture",
+          "es": "Pregunte por la cultura de la empresa",
+          "fr": "Posez une question sur la culture de l'entreprise",
+          "de": "Fragen Sie nach der Unternehmenskultur",
+          "it": "Chiedi della cultura aziendale",
+          "pl": "Zapytaj o kulturę firmy",
+          "pt": "Pergunte sobre a cultura da empresa",
+          "nl": "Vraag naar de bedrijfscultuur",
+          "hr": "Pitaj o kulturi tvrtke",
+          "tr": "Şirket kültürünü sorun",
+          "uk": "Запитай про корпоративну культуру",
+          "ar": "اسأل عن ثقافة الشركة",
+          "hi": "कंपनी की संस्कृति के बारे में पूछिए",
+          "vi": "Hỏi về văn hóa công ty",
+          "id": "Tanyakan tentang budaya perusahaan",
+          "ms": "Tanya tentang budaya syarikat",
+          "ko": "회사 문화에 대해 물어보세요"
+        },
+        "practice": "Pregunte por la cultura de la empresa",
+        "practice_translations": {
+          "en": "Ask about the company culture",
+          "es": "Pregunte por la cultura de la empresa",
+          "ja": "会社の雰囲気について聞いてください",
+          "ko": "회사 문화에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd love to join you, thanks for asking.",
+      "native_translations": {
+        "en": "I'd love to join you, thanks for asking.",
+        "es": "Me encantaría acompañarte, gracias por invitarme.",
+        "fr": "Avec plaisir, merci de m'avoir invité.",
+        "de": "Sehr gern komme ich mit, danke für die Einladung.",
+        "it": "Vengo volentieri, grazie dell'invito.",
+        "pl": "Chętnie się dołączę, dzięki za zaproszenie.",
+        "pt": "Adoraria ir com você, obrigado pelo convite.",
+        "nl": "Ik ga graag mee, bedankt voor de uitnodiging.",
+        "hr": "Rado ću vam se pridružiti, hvala na pozivu.",
+        "tr": "Seve seve katılırım, davet ettiğin için teşekkürler.",
+        "uk": "Із задоволенням піду з тобою, дякую за запрошення.",
+        "ar": "يسعدني أن أنضم إليك، شكرًا على الدعوة.",
+        "hi": "मुझे आपके साथ चलना अच्छा लगेगा, पूछने के लिए धन्यवाद।",
+        "vi": "Tôi rất sẵn lòng đi cùng, cảm ơn anh/chị đã rủ.",
+        "id": "Saya mau sekali ikut, terima kasih sudah mengajak.",
+        "ms": "Saya suka sekali untuk ikut, terima kasih kerana mengajak.",
+        "ko": "같이 가고 싶어요, 불러 줘서 고마워요."
+      },
+      "practice": "Me encantaría acompañarte, gracias por invitarme.",
+      "practice_translations": {
+        "en": "I'd love to join you, thanks for asking.",
+        "es": "Me encantaría acompañarte, gracias por invitarme.",
+        "ja": "ぜひご一緒させてください。誘ってくれてありがとう。",
+        "ko": "같이 가고 싶어요, 불러 줘서 고마워요."
+      }
+    },
+    {
+      "native": "I just moved here from another city, so everything is still new to me.",
+      "native_translations": {
+        "en": "I just moved here from another city, so everything is still new to me.",
+        "es": "Acabo de mudarme de otra ciudad, así que todo es nuevo para mí.",
+        "fr": "Je viens d'arriver d'une autre ville, alors tout est encore nouveau pour moi.",
+        "de": "Ich bin gerade aus einer anderen Stadt hergezogen, deshalb ist alles noch neu für mich.",
+        "it": "Mi sono appena trasferito qui da un'altra città, quindi per me è ancora tutto nuovo.",
+        "pl": "Właśnie przeprowadziłem się tu z innego miasta, więc wszystko jest dla mnie jeszcze nowe.",
+        "pt": "Acabei de me mudar de outra cidade, então tudo ainda é novo para mim.",
+        "nl": "Ik ben net verhuisd uit een andere stad, dus alles is nog nieuw voor me.",
+        "hr": "Upravo sam se doselio iz drugog grada, pa mi je sve još novo.",
+        "tr": "Başka bir şehirden yeni taşındım, o yüzden her şey benim için hâlâ yeni.",
+        "uk": "Я щойно переїхав сюди з іншого міста, тож усе для мене ще нове.",
+        "ar": "انتقلت للتو إلى هنا من مدينة أخرى، لذا ما زال كل شيء جديدًا بالنسبة لي.",
+        "hi": "मैं अभी-अभी दूसरे शहर से यहाँ आया हूँ, इसलिए मेरे लिए सब कुछ अभी नया है।",
+        "vi": "Tôi vừa chuyển đến đây từ thành phố khác nên mọi thứ vẫn còn mới với tôi.",
+        "id": "Saya baru pindah ke sini dari kota lain, jadi semuanya masih baru buat saya.",
+        "ms": "Saya baru berpindah ke sini dari bandar lain, jadi semuanya masih baharu bagi saya.",
+        "ko": "다른 도시에서 막 이사 와서 아직 모든 게 새로워요."
+      },
+      "practice": "Acabo de mudarme de otra ciudad, así que todo es nuevo para mí.",
+      "practice_translations": {
+        "en": "I just moved here from another city, so everything is still new to me.",
+        "es": "Acabo de mudarme de otra ciudad, así que todo es nuevo para mí.",
+        "ja": "別の街から引っ越してきたばかりなので、まだ何もかもが新鮮です。",
+        "ko": "다른 도시에서 막 이사 와서 아직 모든 게 새로워요."
+      }
+    },
+    {
+      "native": "What's the team culture like here?",
+      "native_translations": {
+        "en": "What's the team culture like here?",
+        "es": "¿Cómo es la cultura del equipo aquí?",
+        "fr": "Quelle est la culture d'équipe ici ?",
+        "de": "Wie ist die Teamkultur hier?",
+        "it": "Com'è la cultura del team qui?",
+        "pl": "Jaka jest tu kultura w zespole?",
+        "pt": "Como é a cultura da equipe aqui?",
+        "nl": "Hoe is de teamcultuur hier?",
+        "hr": "Kakva je kultura u timu ovdje?",
+        "tr": "Burada ekip kültürü nasıl?",
+        "uk": "Яка тут культура в команді?",
+        "ar": "كيف هي ثقافة الفريق هنا؟",
+        "hi": "यहाँ टीम का माहौल कैसा है?",
+        "vi": "Văn hoá làm việc của nhóm ở đây thế nào?",
+        "id": "Seperti apa budaya tim di sini?",
+        "ms": "Bagaimana budaya pasukan di sini?",
+        "ko": "여기 팀 문화는 어때요?"
+      },
+      "practice": "¿Cómo es la cultura del equipo aquí?",
+      "practice_translations": {
+        "en": "What's the team culture like here?",
+        "es": "¿Cómo es la cultura del equipo aquí?",
+        "ja": "ここのチームの雰囲気はどんな感じですか？",
+        "ko": "여기 팀 문화는 어때요?"
+      }
+    },
+    {
+      "native": "Do people usually have lunch together here?",
+      "native_translations": {
+        "en": "Do people usually have lunch together here?",
+        "es": "¿Aquí la gente suele almorzar junta?",
+        "fr": "Ici, les gens déjeunent souvent ensemble ?",
+        "de": "Essen die Leute hier normalerweise zusammen zu Mittag?",
+        "it": "Qui di solito si pranza insieme?",
+        "pl": "Czy ludzie zwykle jedzą tu lunch razem?",
+        "pt": "As pessoas costumam almoçar juntas aqui?",
+        "nl": "Lunchen mensen hier meestal samen?",
+        "hr": "Ručaju li ljudi ovdje obično zajedno?",
+        "tr": "Burada insanlar genelde birlikte mi öğle yemeği yer?",
+        "uk": "Тут люди зазвичай обідають разом?",
+        "ar": "هل يتناول الناس الغداء معًا هنا عادةً؟",
+        "hi": "क्या यहाँ लोग आमतौर पर साथ में लंच करते हैं?",
+        "vi": "Mọi người ở đây thường ăn trưa cùng nhau không?",
+        "id": "Apakah orang-orang di sini biasanya makan siang bersama?",
+        "ms": "Adakah orang di sini biasanya makan tengah hari bersama?",
+        "ko": "여기서는 보통 다 같이 점심을 먹나요?"
+      },
+      "practice": "¿Aquí la gente suele almorzar junta?",
+      "practice_translations": {
+        "en": "Do people usually have lunch together here?",
+        "es": "¿Aquí la gente suele almorzar junta?",
+        "ja": "ここではみんなでお昼を食べることが多いですか？",
+        "ko": "여기서는 보통 다 같이 점심을 먹나요?"
+      }
+    },
+    {
+      "native": "Thanks for lunch, it was really nice getting to know you.",
+      "native_translations": {
+        "en": "Thanks for lunch, it was really nice getting to know you.",
+        "es": "Gracias por el almuerzo, me gustó mucho conocerte.",
+        "fr": "Merci pour le déjeuner, j'ai été ravi de faire ta connaissance.",
+        "de": "Danke fürs Mittagessen, es war sehr schön, dich kennenzulernen.",
+        "it": "Grazie per il pranzo, è stato davvero bello conoscerti.",
+        "pl": "Dzięki za lunch, naprawdę miło było cię poznać.",
+        "pt": "Obrigado pelo almoço, foi muito bom te conhecer.",
+        "nl": "Bedankt voor de lunch, het was echt leuk om je te leren kennen.",
+        "hr": "Hvala na ručku, bilo mi je jako drago upoznati te.",
+        "tr": "Öğle yemeği için teşekkürler, seninle tanışmak gerçekten çok güzeldi.",
+        "uk": "Дякую за обід, було дуже приємно познайомитися.",
+        "ar": "شكرًا على الغداء، سعدت حقًا بالتعرف عليك.",
+        "hi": "लंच के लिए धन्यवाद, आपसे मिलकर सच में अच्छा लगा।",
+        "vi": "Cảm ơn bữa trưa nhé, rất vui được làm quen với anh/chị.",
+        "id": "Terima kasih untuk makan siangnya, senang sekali bisa kenal denganmu.",
+        "ms": "Terima kasih untuk makan tengah hari, sungguh seronok dapat berkenalan dengan anda.",
+        "ko": "점심 고마워요, 알게 되어서 정말 반가웠어요."
+      },
+      "practice": "Gracias por el almuerzo, me gustó mucho conocerte.",
+      "practice_translations": {
+        "en": "Thanks for lunch, it was really nice getting to know you.",
+        "es": "Gracias por el almuerzo, me gustó mucho conocerte.",
+        "ja": "お昼をありがとう。知り合えて本当によかったです。",
+        "ko": "점심 고마워요, 알게 되어서 정말 반가웠어요."
+      }
+    }
+  ]
+}

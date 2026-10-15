@@ -1,0 +1,318 @@
+{
+  "id": "academics_asking_questions_academic_exchange_c1",
+  "title": "Office Hours Visit",
+  "title_translations": {
+    "en": "Office Hours Visit",
+    "es": "Visita en horario de consulta",
+    "fr": "Permanence du professeur",
+    "de": "In der Sprechstunde",
+    "it": "Visita al ricevimento",
+    "pl": "Wizyta na konsultacjach",
+    "pt": "Visita no horário de atendimento",
+    "nl": "Naar het spreekuur",
+    "hr": "Posjet na konzultacijama",
+    "tr": "Görüşme Saatinde Ziyaret",
+    "uk": "Консультація у викладача",
+    "ar": "زيارة في الساعات المكتبية",
+    "hi": "ऑफ़िस आवर्स में मुलाक़ात",
+    "vi": "Gặp trợ giảng giờ tiếp sinh viên",
+    "id": "Datang ke Jam Konsultasi",
+    "ms": "Berjumpa Semasa Waktu Konsultasi",
+    "ko": "면담 시간 찾아가기"
+  },
+  "character": "fox",
+  "scenario": "You did not understand a concept from class, so you visit your teaching assistant (AI) during office hours.",
+  "scenario_translations": {
+    "en": "You did not understand a concept from class, so you visit your teaching assistant (AI) during office hours.",
+    "es": "No entendió un concepto de la clase, así que visita a su asistente de docencia (AI) en su horario de consulta.",
+    "fr": "Vous n'avez pas compris une notion vue en cours, alors vous allez voir votre chargé de TD (AI) pendant sa permanence.",
+    "de": "Sie haben ein Thema aus der Vorlesung nicht verstanden und besuchen deshalb Ihre Tutorin bzw. Ihren Tutor (AI) in der Sprechstunde.",
+    "it": "Non hai capito un concetto della lezione, quindi vai dal tuo tutor (AI) durante l'orario di ricevimento.",
+    "pl": "Nie zrozumiałeś jakiegoś zagadnienia z zajęć, więc idziesz do asystenta prowadzącego (AI) na konsultacje.",
+    "pt": "Você não entendeu um conceito da aula e vai falar com seu monitor (AI) no horário de atendimento.",
+    "nl": "Je begreep een begrip uit het college niet, dus je gaat tijdens het spreekuur naar je studentassistent (AI).",
+    "hr": "Nije ti jasan jedan pojam s predavanja pa posjećuješ asistenta (AI) u vrijeme konzultacija.",
+    "tr": "Derste bir kavramı anlamadınız, bu yüzden görüşme saatinde asistanınızı (AI) ziyaret ediyorsunuz.",
+    "uk": "Тобі незрозуміла тема з заняття, тож ти йдеш до свого асистента викладача (AI) на консультацію.",
+    "ar": "لم تفهم مفهومًا من المحاضرة، فتزور مساعد التدريس (AI) خلال ساعاته المكتبية.",
+    "hi": "क्लास का एक कॉन्सेप्ट आपको समझ नहीं आया, इसलिए आप ऑफ़िस आवर्स में अपने टीचिंग असिस्टेंट (AI) से मिलने जाते हैं।",
+    "vi": "Bạn chưa hiểu một khái niệm trên lớp nên đến gặp trợ giảng (AI) trong giờ tiếp sinh viên.",
+    "id": "Kamu belum paham satu konsep dari kelas, jadi kamu menemui asisten dosen (AI) saat jam konsultasi.",
+    "ms": "Anda tidak faham satu konsep dalam kelas, jadi anda berjumpa pembantu pengajar anda (AI) semasa waktu konsultasi.",
+    "ko": "수업에서 배운 개념을 이해하지 못해서, 면담 시간에 조교(AI)를 찾아갔어요."
+  },
+  "mission": {
+    "native": "Explain what confused you and get help understanding it.",
+    "native_translations": {
+      "en": "Explain what confused you and get help understanding it.",
+      "es": "Explique qué no entendió y consiga ayuda para comprenderlo.",
+      "fr": "Expliquez ce qui vous pose problème et obtenez de l'aide pour le comprendre.",
+      "de": "Erklären Sie, was Sie verwirrt hat, und lassen Sie sich beim Verstehen helfen.",
+      "it": "Spiega cosa non ti è chiaro e fatti aiutare a capirlo.",
+      "pl": "Wyjaśnij, czego nie rozumiesz, i poproś o pomoc.",
+      "pt": "Explique o que te confundiu e peça ajuda para entender.",
+      "nl": "Leg uit wat je niet snapte en krijg hulp om het te begrijpen.",
+      "hr": "Objasni što ti nije jasno i zatraži pomoć da to razumiješ.",
+      "tr": "Kafanızı neyin karıştırdığını açıklayın ve anlamak için yardım alın.",
+      "uk": "Поясни, що тобі незрозуміло, і отримай допомогу.",
+      "ar": "اشرح ما أربكك واحصل على مساعدة لفهمه.",
+      "hi": "बताइए कि आपको क्या उलझन है और उसे समझने में मदद लीजिए।",
+      "vi": "Giải thích chỗ bạn chưa hiểu và nhờ giúp đỡ để hiểu rõ hơn.",
+      "id": "Jelaskan bagian yang membingungkan dan minta bantuan untuk memahaminya.",
+      "ms": "Terangkan apa yang mengelirukan anda dan dapatkan bantuan untuk memahaminya.",
+      "ko": "무엇이 헷갈렸는지 설명하고 이해하도록 도움을 받으세요."
+    },
+    "practice": "Explique qué no entendió y consiga ayuda para comprenderlo.",
+    "practice_translations": {
+      "en": "Explain what confused you and get help understanding it.",
+      "es": "Explique qué no entendió y consiga ayuda para comprenderlo.",
+      "ja": "わからなかったところを説明して、理解できるように助けてもらってください。",
+      "ko": "무엇이 헷갈렸는지 설명하고 이해하도록 도움을 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say which topic confused you",
+        "native_translations": {
+          "en": "Say which topic confused you",
+          "es": "Diga qué tema no entendió",
+          "fr": "Dites quel sujet vous pose problème",
+          "de": "Sagen Sie, welches Thema Sie verwirrt hat",
+          "it": "Di' quale argomento non ti è chiaro",
+          "pl": "Powiedz, który temat był dla ciebie niejasny",
+          "pt": "Diga qual tema te confundiu",
+          "nl": "Zeg welk onderwerp je niet begreep",
+          "hr": "Reci koja te tema zbunila",
+          "tr": "Kafanızı karıştıran konuyu söyleyin",
+          "uk": "Скажи, яка тема тобі незрозуміла",
+          "ar": "قل أي موضوع أربكك",
+          "hi": "बताइए कि कौन-सा विषय आपको समझ नहीं आया",
+          "vi": "Nói chủ đề nào khiến bạn bối rối",
+          "id": "Sebutkan topik yang membuatmu bingung",
+          "ms": "Nyatakan topik yang mengelirukan anda",
+          "ko": "어떤 주제가 헷갈렸는지 말하세요"
+        },
+        "practice": "Diga qué tema no entendió",
+        "practice_translations": {
+          "en": "Say which topic confused you",
+          "es": "Diga qué tema no entendió",
+          "ja": "どのトピックがわからなかったかを伝えてください",
+          "ko": "어떤 주제가 헷갈렸는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for a simple example",
+        "native_translations": {
+          "en": "Ask for a simple example",
+          "es": "Pida un ejemplo sencillo",
+          "fr": "Demandez un exemple simple",
+          "de": "Bitten Sie um ein einfaches Beispiel",
+          "it": "Chiedi un esempio semplice",
+          "pl": "Poproś o prosty przykład",
+          "pt": "Peça um exemplo simples",
+          "nl": "Vraag om een eenvoudig voorbeeld",
+          "hr": "Zatraži jednostavan primjer",
+          "tr": "Basit bir örnek isteyin",
+          "uk": "Попроси простий приклад",
+          "ar": "اطلب مثالًا بسيطًا",
+          "hi": "एक आसान उदाहरण माँगिए",
+          "vi": "Xin một ví dụ đơn giản",
+          "id": "Minta contoh yang sederhana",
+          "ms": "Minta satu contoh yang mudah",
+          "ko": "간단한 예를 들어 달라고 부탁하세요"
+        },
+        "practice": "Pida un ejemplo sencillo",
+        "practice_translations": {
+          "en": "Ask for a simple example",
+          "es": "Pida un ejemplo sencillo",
+          "ja": "簡単な例を挙げてもらうよう頼んでください",
+          "ko": "간단한 예를 들어 달라고 부탁하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for extra reading on the topic",
+        "native_translations": {
+          "en": "Ask for extra reading on the topic",
+          "es": "Pida lecturas adicionales sobre el tema",
+          "fr": "Demandez des lectures complémentaires sur le sujet",
+          "de": "Fragen Sie nach weiterer Literatur zum Thema",
+          "it": "Chiedi letture aggiuntive sull'argomento",
+          "pl": "Poproś o dodatkowe lektury na ten temat",
+          "pt": "Peça leituras extras sobre o tema",
+          "nl": "Vraag om extra leesmateriaal over het onderwerp",
+          "hr": "Zatraži dodatnu literaturu o temi",
+          "tr": "Konuyla ilgili ek okuma önerisi isteyin",
+          "uk": "Попроси додаткову літературу на цю тему",
+          "ar": "اطلب قراءات إضافية عن الموضوع",
+          "hi": "इस विषय पर और पढ़ने की सामग्री माँगिए",
+          "vi": "Xin thêm tài liệu đọc về chủ đề này",
+          "id": "Minta bacaan tambahan tentang topik itu",
+          "ms": "Minta bahan bacaan tambahan tentang topik itu",
+          "ko": "그 주제에 관한 추가 읽기 자료를 물어보세요"
+        },
+        "practice": "Pida lecturas adicionales sobre el tema",
+        "practice_translations": {
+          "en": "Ask for extra reading on the topic",
+          "es": "Pida lecturas adicionales sobre el tema",
+          "ja": "そのトピックの参考文献を聞いてください",
+          "ko": "그 주제에 관한 추가 읽기 자료를 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, do you have a few minutes to help me?",
+      "native_translations": {
+        "en": "Hi, do you have a few minutes to help me?",
+        "es": "Hola, ¿tiene unos minutos para ayudarme?",
+        "fr": "Bonjour, auriez-vous quelques minutes pour m'aider ?",
+        "de": "Hallo, hätten Sie ein paar Minuten Zeit, mir zu helfen?",
+        "it": "Ciao, hai qualche minuto per aiutarmi?",
+        "pl": "Dzień dobry, czy ma pan kilka minut, żeby mi pomóc?",
+        "pt": "Oi, você tem alguns minutos para me ajudar?",
+        "nl": "Hoi, heb je een paar minuutjes om me te helpen?",
+        "hr": "Dobar dan, imate li nekoliko minuta da mi pomognete?",
+        "tr": "Merhaba, bana yardım etmek için birkaç dakikanız var mı?",
+        "uk": "Добрий день, у вас є кілька хвилин, щоб мені допомогти?",
+        "ar": "مرحبًا، هل لديك بضع دقائق لمساعدتي؟",
+        "hi": "नमस्ते, क्या आपके पास मेरी मदद के लिए कुछ मिनट हैं?",
+        "vi": "Chào anh/chị, anh/chị có vài phút giúp em không ạ?",
+        "id": "Halo, apa Anda punya waktu beberapa menit untuk membantu saya?",
+        "ms": "Hai, boleh luangkan beberapa minit untuk bantu saya?",
+        "ko": "안녕하세요, 잠깐 시간 좀 내주실 수 있으세요?"
+      },
+      "practice": "Hola, ¿tiene unos minutos para ayudarme?",
+      "practice_translations": {
+        "en": "Hi, do you have a few minutes to help me?",
+        "es": "Hola, ¿tiene unos minutos para ayudarme?",
+        "ja": "すみません、少しお時間をいただけますか。",
+        "ko": "안녕하세요, 잠깐 시간 좀 내주실 수 있으세요?"
+      }
+    },
+    {
+      "native": "I didn't quite understand the part about supply and demand.",
+      "native_translations": {
+        "en": "I didn't quite understand the part about supply and demand.",
+        "es": "No entendí bien la parte de la oferta y la demanda.",
+        "fr": "Je n'ai pas bien compris la partie sur l'offre et la demande.",
+        "de": "Den Teil über Angebot und Nachfrage habe ich nicht ganz verstanden.",
+        "it": "Non ho capito bene la parte sulla domanda e l'offerta.",
+        "pl": "Nie do końca zrozumiałem część o podaży i popycie.",
+        "pt": "Não entendi muito bem a parte sobre oferta e demanda.",
+        "nl": "Ik begreep het deel over vraag en aanbod niet helemaal.",
+        "hr": "Nije mi baš jasan dio o ponudi i potražnji.",
+        "tr": "Arz ve talep kısmını tam olarak anlayamadım.",
+        "uk": "Я не зовсім зрозумів частину про попит і пропозицію.",
+        "ar": "لم أفهم تمامًا الجزء المتعلق بالعرض والطلب.",
+        "hi": "मुझे सप्लाई और डिमांड वाला हिस्सा ठीक से समझ नहीं आया।",
+        "vi": "Em chưa hiểu lắm phần về cung và cầu.",
+        "id": "Saya kurang paham bagian tentang penawaran dan permintaan.",
+        "ms": "Saya kurang faham bahagian tentang penawaran dan permintaan.",
+        "ko": "수요와 공급 부분을 잘 이해하지 못했어요."
+      },
+      "practice": "No entendí bien la parte de la oferta y la demanda.",
+      "practice_translations": {
+        "en": "I didn't quite understand the part about supply and demand.",
+        "es": "No entendí bien la parte de la oferta y la demanda.",
+        "ja": "需要と供給のところがよくわかりませんでした。",
+        "ko": "수요와 공급 부분을 잘 이해하지 못했어요."
+      }
+    },
+    {
+      "native": "Could you give me a simple example?",
+      "native_translations": {
+        "en": "Could you give me a simple example?",
+        "es": "¿Me podría dar un ejemplo sencillo?",
+        "fr": "Pourriez-vous me donner un exemple simple ?",
+        "de": "Könnten Sie mir ein einfaches Beispiel geben?",
+        "it": "Potresti farmi un esempio semplice?",
+        "pl": "Czy mógłby pan podać prosty przykład?",
+        "pt": "Você poderia me dar um exemplo simples?",
+        "nl": "Kun je me een eenvoudig voorbeeld geven?",
+        "hr": "Možete li mi dati jednostavan primjer?",
+        "tr": "Bana basit bir örnek verebilir misiniz?",
+        "uk": "Чи могли б ви навести простий приклад?",
+        "ar": "هل يمكنك أن تعطيني مثالًا بسيطًا؟",
+        "hi": "क्या आप मुझे एक आसान उदाहरण दे सकते हैं?",
+        "vi": "Anh/chị có thể cho em một ví dụ đơn giản không?",
+        "id": "Bisa berikan saya contoh yang sederhana?",
+        "ms": "Boleh berikan saya satu contoh yang mudah?",
+        "ko": "간단한 예를 하나 들어 주실 수 있어요?"
+      },
+      "practice": "¿Me podría dar un ejemplo sencillo?",
+      "practice_translations": {
+        "en": "Could you give me a simple example?",
+        "es": "¿Me podría dar un ejemplo sencillo?",
+        "ja": "簡単な例を挙げていただけますか。",
+        "ko": "간단한 예를 하나 들어 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "Oh, now it makes sense. Thank you!",
+      "native_translations": {
+        "en": "Oh, now it makes sense. Thank you!",
+        "es": "¡Ah, ahora sí tiene sentido! ¡Gracias!",
+        "fr": "Ah, maintenant je comprends. Merci !",
+        "de": "Ach so, jetzt ergibt das Sinn. Vielen Dank!",
+        "it": "Ah, adesso ha senso. Grazie!",
+        "pl": "Aha, teraz to ma sens. Dziękuję!",
+        "pt": "Ah, agora faz sentido. Obrigado!",
+        "nl": "O, nu snap ik het. Dankjewel!",
+        "hr": "Aha, sad mi je jasno. Hvala Vam!",
+        "tr": "Ha, şimdi anladım. Teşekkür ederim!",
+        "uk": "А, тепер зрозуміло. Дякую!",
+        "ar": "آه، الآن فهمت. شكرًا لك!",
+        "hi": "अच्छा, अब समझ आ गया। धन्यवाद!",
+        "vi": "À, giờ thì em hiểu rồi. Cảm ơn anh/chị!",
+        "id": "Oh, sekarang saya paham. Terima kasih!",
+        "ms": "Oh, sekarang baru saya faham. Terima kasih!",
+        "ko": "아, 이제 이해가 돼요. 감사합니다!"
+      },
+      "practice": "¡Ah, ahora sí tiene sentido! ¡Gracias!",
+      "practice_translations": {
+        "en": "Oh, now it makes sense. Thank you!",
+        "es": "¡Ah, ahora sí tiene sentido! ¡Gracias!",
+        "ja": "ああ、やっとわかりました。ありがとうございます！",
+        "ko": "아, 이제 이해가 돼요. 감사합니다!"
+      }
+    },
+    {
+      "native": "Is there anything else I could read about this?",
+      "native_translations": {
+        "en": "Is there anything else I could read about this?",
+        "es": "¿Hay algo más que pueda leer sobre esto?",
+        "fr": "Y a-t-il autre chose que je pourrais lire à ce sujet ?",
+        "de": "Gibt es noch etwas, das ich dazu lesen könnte?",
+        "it": "C'è qualcos'altro che potrei leggere su questo?",
+        "pl": "Czy jest coś jeszcze, co mógłbym o tym przeczytać?",
+        "pt": "Tem mais alguma coisa que eu possa ler sobre isso?",
+        "nl": "Is er nog iets anders wat ik hierover kan lezen?",
+        "hr": "Mogu li o tome još nešto pročitati?",
+        "tr": "Bu konuda okuyabileceğim başka bir şey var mı?",
+        "uk": "Що ще я міг би про це почитати?",
+        "ar": "هل هناك شيء آخر يمكنني قراءته عن هذا الموضوع؟",
+        "hi": "क्या इस बारे में मैं कुछ और पढ़ सकता हूँ?",
+        "vi": "Có tài liệu nào khác em có thể đọc thêm về phần này không ạ?",
+        "id": "Apa ada bacaan lain tentang ini yang bisa saya pelajari?",
+        "ms": "Ada bahan lain yang boleh saya baca tentang perkara ini?",
+        "ko": "이것에 대해 더 읽어 볼 만한 자료가 있을까요?"
+      },
+      "practice": "¿Hay algo más que pueda leer sobre esto?",
+      "practice_translations": {
+        "en": "Is there anything else I could read about this?",
+        "es": "¿Hay algo más que pueda leer sobre esto?",
+        "ja": "これについて、ほかに読める資料はありますか。",
+        "ko": "이것에 대해 더 읽어 볼 만한 자료가 있을까요?"
+      }
+    }
+  ]
+}

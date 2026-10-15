@@ -1,0 +1,350 @@
+{
+  "id": "academics_seeking_collaboration_opportunities_c2",
+  "title": "Proposing a Joint Project",
+  "title_translations": {
+    "en": "Proposing a Joint Project",
+    "es": "Proponer un proyecto conjunto",
+    "fr": "Proposer un projet commun",
+    "de": "Ein gemeinsames Projekt vorschlagen",
+    "it": "Proporre un progetto comune",
+    "pl": "Propozycja wspólnego projektu",
+    "pt": "Propondo um projeto conjunto",
+    "nl": "Een gezamenlijk project voorstellen",
+    "hr": "Prijedlog zajedničkog projekta",
+    "tr": "Ortak Proje Önermek",
+    "uk": "Пропозиція спільного проєкту",
+    "ar": "اقتراح مشروع مشترك",
+    "hi": "साझा प्रोजेक्ट का प्रस्ताव",
+    "vi": "Đề xuất dự án chung",
+    "id": "Mengusulkan Proyek Bersama",
+    "ms": "Mencadangkan Projek Bersama",
+    "ko": "공동 프로젝트 제안하기"
+  },
+  "character": "fox",
+  "scenario": "You call a researcher (AI) you met at a workshop last month. Their work is close to yours.",
+  "scenario_translations": {
+    "en": "You call a researcher (AI) you met at a workshop last month. Their work is close to yours.",
+    "es": "Llama a un investigador (AI) que conoció en un taller el mes pasado. Su trabajo es muy cercano al suyo.",
+    "fr": "Vous appelez un chercheur (AI) rencontré lors d'un atelier le mois dernier. Ses travaux sont proches des vôtres.",
+    "de": "Sie rufen eine Forscherin bzw. einen Forscher (AI) an, die bzw. den Sie letzten Monat bei einem Workshop kennengelernt haben. Die Arbeit der Person ähnelt Ihrer eigenen.",
+    "it": "Chiami un ricercatore (AI) che hai conosciuto a un workshop il mese scorso. Il suo lavoro è simile al tuo.",
+    "pl": "Dzwonisz do badaczki (AI), którą poznałeś w zeszłym miesiącu na warsztatach. Jej praca jest bliska twojej.",
+    "pt": "Você liga para um pesquisador (AI) que conheceu em um workshop no mês passado. O trabalho dele é parecido com o seu.",
+    "nl": "Je belt een onderzoeker (AI) die je vorige maand op een workshop hebt ontmoet. Hun werk ligt dicht bij het jouwe.",
+    "hr": "Zoveš istraživača (AI) s prošlomjesečne radionice. Njegov rad blizak je tvome.",
+    "tr": "Geçen ay bir çalıştayda tanıştığınız bir araştırmacıyı (AI) arıyorsunuz. Onun çalışmaları sizinkine çok yakın.",
+    "uk": "Ти телефонуєш науковцеві (AI), з яким познайомився на воркшопі минулого місяця. Його робота близька до твоєї.",
+    "ar": "تتصل بباحث (AI) التقيته في ورشة عمل الشهر الماضي. عمله قريب من عملك.",
+    "hi": "आप एक शोधकर्ता (AI) को कॉल करते हैं जिनसे आप पिछले महीने एक वर्कशॉप में मिले थे। उनका काम आपके काम से काफ़ी मिलता-जुलता है।",
+    "vi": "Bạn gọi cho một nhà nghiên cứu (AI) mà bạn đã gặp tại một hội thảo tháng trước. Lĩnh vực của họ rất gần với bạn.",
+    "id": "Kamu menelepon seorang peneliti (AI) yang kamu temui di sebuah lokakarya bulan lalu. Bidang kerjanya dekat dengan bidangmu.",
+    "ms": "Anda menelefon seorang penyelidik (AI) yang anda jumpa di sebuah bengkel bulan lepas. Kerja mereka hampir sama dengan kerja anda.",
+    "ko": "지난달 워크숍에서 만난 연구자(AI)에게 전화해요. 그 사람의 연구가 당신의 연구와 비슷해요."
+  },
+  "mission": {
+    "native": "Propose working on a paper together and plan a first step.",
+    "native_translations": {
+      "en": "Propose working on a paper together and plan a first step.",
+      "es": "Proponga escribir un artículo juntos y planee un primer paso.",
+      "fr": "Proposez de rédiger un article ensemble et planifiez une première étape.",
+      "de": "Schlagen Sie vor, gemeinsam einen Artikel zu schreiben, und planen Sie einen ersten Schritt.",
+      "it": "Proponi di scrivere insieme un articolo e pianifica un primo passo.",
+      "pl": "Zaproponuj wspólne napisanie artykułu i zaplanuj pierwszy krok.",
+      "pt": "Proponha escrever um artigo juntos e planeje um primeiro passo.",
+      "nl": "Stel voor om samen een artikel te schrijven en plan een eerste stap.",
+      "hr": "Predloži zajednički rad na znanstvenom članku i isplaniraj prvi korak.",
+      "tr": "Birlikte bir makale üzerinde çalışmayı önerin ve ilk adımı planlayın.",
+      "uk": "Запропонуй разом написати статтю й сплануй перший крок.",
+      "ar": "اقترح العمل معًا على ورقة بحثية وخطّط لخطوة أولى.",
+      "hi": "साथ मिलकर एक पेपर लिखने का प्रस्ताव रखिए और पहला क़दम तय कीजिए।",
+      "vi": "Đề xuất cùng viết một bài báo và lên kế hoạch cho bước đầu tiên.",
+      "id": "Usulkan untuk menulis makalah bersama dan rencanakan langkah pertama.",
+      "ms": "Cadangkan untuk menulis kertas kerja bersama dan rancang langkah pertama.",
+      "ko": "함께 논문을 쓰자고 제안하고 첫 단계를 계획하세요."
+    },
+    "practice": "Proponga escribir un artículo juntos y planee un primer paso.",
+    "practice_translations": {
+      "en": "Propose working on a paper together and plan a first step.",
+      "es": "Proponga escribir un artículo juntos y planee un primer paso.",
+      "ja": "論文の共同執筆を提案して、最初のステップを決めてください。",
+      "ko": "함께 논문을 쓰자고 제안하고 첫 단계를 계획하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Remind the researcher where you met",
+        "native_translations": {
+          "en": "Remind the researcher where you met",
+          "es": "Recuérdele al investigador dónde se conocieron",
+          "fr": "Rappelez au chercheur où vous vous êtes rencontrés",
+          "de": "Erinnern Sie daran, wo Sie sich kennengelernt haben",
+          "it": "Ricorda al ricercatore dove vi siete conosciuti",
+          "pl": "Przypomnij badaczce, gdzie się poznaliście",
+          "pt": "Lembre o pesquisador de onde vocês se conheceram",
+          "nl": "Herinner de onderzoeker eraan waar jullie elkaar ontmoetten",
+          "hr": "Podsjeti istraživača gdje ste se upoznali",
+          "tr": "Araştırmacıya nerede tanıştığınızı hatırlatın",
+          "uk": "Нагадай, де ви познайомилися",
+          "ar": "ذكّر الباحث بمكان لقائكما",
+          "hi": "शोधकर्ता को याद दिलाइए कि आप कहाँ मिले थे",
+          "vi": "Nhắc nhà nghiên cứu nhớ lại nơi hai người gặp nhau",
+          "id": "Ingatkan peneliti itu di mana kalian bertemu",
+          "ms": "Ingatkan penyelidik itu di mana anda berjumpa",
+          "ko": "어디서 만났는지 상기시켜 드리세요"
+        },
+        "practice": "Recuérdele al investigador dónde se conocieron",
+        "practice_translations": {
+          "en": "Remind the researcher where you met",
+          "es": "Recuérdele al investigador dónde se conocieron",
+          "ja": "どこで会ったかを研究者に思い出してもらってください",
+          "ko": "어디서 만났는지 상기시켜 드리세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Propose writing a paper together",
+        "native_translations": {
+          "en": "Propose writing a paper together",
+          "es": "Proponga escribir un artículo juntos",
+          "fr": "Proposez de rédiger un article ensemble",
+          "de": "Schlagen Sie vor, gemeinsam einen Artikel zu schreiben",
+          "it": "Proponi di scrivere un articolo insieme",
+          "pl": "Zaproponuj wspólne napisanie artykułu",
+          "pt": "Proponha escrever um artigo juntos",
+          "nl": "Stel voor om samen een artikel te schrijven",
+          "hr": "Predloži da zajedno napišete članak",
+          "tr": "Birlikte makale yazmayı önerin",
+          "uk": "Запропонуй написати статтю разом",
+          "ar": "اقترح كتابة ورقة بحثية معًا",
+          "hi": "साथ में पेपर लिखने का प्रस्ताव रखिए",
+          "vi": "Đề xuất cùng viết một bài báo",
+          "id": "Usulkan untuk menulis makalah bersama",
+          "ms": "Cadangkan untuk menulis kertas kerja bersama",
+          "ko": "함께 논문을 쓰자고 제안하세요"
+        },
+        "practice": "Proponga escribir un artículo juntos",
+        "practice_translations": {
+          "en": "Propose writing a paper together",
+          "es": "Proponga escribir un artículo juntos",
+          "ja": "論文の共同執筆を提案してください",
+          "ko": "함께 논문을 쓰자고 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain what each of you would contribute",
+        "native_translations": {
+          "en": "Explain what each of you would contribute",
+          "es": "Explique qué aportaría cada uno",
+          "fr": "Expliquez ce que chacun apporterait",
+          "de": "Erklären Sie, was jede Seite beitragen würde",
+          "it": "Spiega cosa apporterebbe ciascuno di voi",
+          "pl": "Wyjaśnij, co każde z was wniesie",
+          "pt": "Explique com o que cada um contribuiria",
+          "nl": "Leg uit wat ieder van jullie zou bijdragen",
+          "hr": "Objasni čime bi svatko od vas pridonio",
+          "tr": "Her birinizin neye katkı sağlayacağını açıklayın",
+          "uk": "Поясни, хто з вас що зробить",
+          "ar": "اشرح ما سيساهم به كل منكما",
+          "hi": "समझाइए कि आप दोनों क्या योगदान देंगे",
+          "vi": "Giải thích mỗi người sẽ đóng góp phần gì",
+          "id": "Jelaskan kontribusi masing-masing",
+          "ms": "Terangkan sumbangan setiap seorang daripada anda",
+          "ko": "각자 무엇을 맡을지 설명하세요"
+        },
+        "practice": "Explique qué aportaría cada uno",
+        "practice_translations": {
+          "en": "Explain what each of you would contribute",
+          "es": "Explique qué aportaría cada uno",
+          "ja": "それぞれが何を担当するか説明してください",
+          "ko": "각자 무엇을 맡을지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest a first video call",
+        "native_translations": {
+          "en": "Suggest a first video call",
+          "es": "Proponga una primera videollamada",
+          "fr": "Proposez un premier appel vidéo",
+          "de": "Schlagen Sie ein erstes Videotelefonat vor",
+          "it": "Proponi una prima videochiamata",
+          "pl": "Zaproponuj pierwszą rozmowę wideo",
+          "pt": "Sugira uma primeira videochamada",
+          "nl": "Stel een eerste videogesprek voor",
+          "hr": "Predloži prvi videopoziv",
+          "tr": "İlk görüntülü görüşmeyi önerin",
+          "uk": "Запропонуй перший відеодзвінок",
+          "ar": "اقترح مكالمة فيديو أولى",
+          "hi": "पहली वीडियो कॉल का सुझाव दीजिए",
+          "vi": "Đề nghị một cuộc gọi video đầu tiên",
+          "id": "Usulkan panggilan video pertama",
+          "ms": "Cadangkan panggilan video pertama",
+          "ko": "첫 화상 통화를 제안하세요"
+        },
+        "practice": "Proponga una primera videollamada",
+        "practice_translations": {
+          "en": "Suggest a first video call",
+          "es": "Proponga una primera videollamada",
+          "ja": "最初のビデオ通話を提案してください",
+          "ko": "첫 화상 통화를 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "We met at the workshop last month, remember?",
+      "native_translations": {
+        "en": "We met at the workshop last month, remember?",
+        "es": "Nos conocimos en el taller el mes pasado, ¿se acuerda?",
+        "fr": "Nous nous sommes rencontrés à l'atelier le mois dernier, vous vous souvenez ?",
+        "de": "Wir haben uns letzten Monat beim Workshop kennengelernt, erinnern Sie sich?",
+        "it": "Ci siamo conosciuti al workshop il mese scorso, si ricorda?",
+        "pl": "Poznaliśmy się w zeszłym miesiącu na warsztatach, pamięta pani?",
+        "pt": "A gente se conheceu no workshop do mês passado, lembra?",
+        "nl": "We hebben elkaar vorige maand op de workshop ontmoet, weet je nog?",
+        "hr": "Upoznali smo se na radionici prošlog mjeseca, sjećate se?",
+        "tr": "Geçen ay çalıştayda tanışmıştık, hatırladınız mı?",
+        "uk": "Ми познайомилися на воркшопі минулого місяця, пам'ятаєте?",
+        "ar": "التقينا في ورشة العمل الشهر الماضي، أتذكر؟",
+        "hi": "हम पिछले महीने वर्कशॉप में मिले थे, याद है?",
+        "vi": "Mình đã gặp nhau ở hội thảo tháng trước, anh/chị còn nhớ không?",
+        "id": "Kita bertemu di lokakarya bulan lalu, ingat?",
+        "ms": "Kita berjumpa di bengkel bulan lepas, ingat tak?",
+        "ko": "지난달 워크숍에서 만났었는데, 기억하세요?"
+      },
+      "practice": "Nos conocimos en el taller el mes pasado, ¿se acuerda?",
+      "practice_translations": {
+        "en": "We met at the workshop last month, remember?",
+        "es": "Nos conocimos en el taller el mes pasado, ¿se acuerda?",
+        "ja": "先月のワークショップでお会いしましたが、覚えていらっしゃいますか。",
+        "ko": "지난달 워크숍에서 만났었는데, 기억하세요?"
+      }
+    },
+    {
+      "native": "I think our projects could really complement each other.",
+      "native_translations": {
+        "en": "I think our projects could really complement each other.",
+        "es": "Creo que nuestros proyectos podrían complementarse muy bien.",
+        "fr": "Je pense que nos projets pourraient vraiment se compléter.",
+        "de": "Ich glaube, unsere Projekte könnten sich wirklich gut ergänzen.",
+        "it": "Penso che i nostri progetti potrebbero davvero completarsi a vicenda.",
+        "pl": "Myślę, że nasze projekty naprawdę mogłyby się uzupełniać.",
+        "pt": "Acho que nossos projetos podem se complementar muito bem.",
+        "nl": "Ik denk dat onze projecten elkaar echt kunnen aanvullen.",
+        "hr": "Mislim da bi se naši projekti zaista mogli nadopunjavati.",
+        "tr": "Bence projelerimiz birbirini gerçekten tamamlayabilir.",
+        "uk": "Думаю, наші проєкти могли б чудово доповнити один одного.",
+        "ar": "أعتقد أن مشروعينا يمكن أن يكمّل أحدهما الآخر حقًا.",
+        "hi": "मुझे लगता है हमारे प्रोजेक्ट एक-दूसरे के काफ़ी पूरक हो सकते हैं।",
+        "vi": "Tôi nghĩ dự án của chúng ta thực sự có thể bổ trợ cho nhau.",
+        "id": "Menurut saya proyek kita bisa saling melengkapi.",
+        "ms": "Saya rasa projek kita benar-benar boleh saling melengkapi.",
+        "ko": "우리 프로젝트가 서로 정말 잘 보완될 것 같아요."
+      },
+      "practice": "Creo que nuestros proyectos podrían complementarse muy bien.",
+      "practice_translations": {
+        "en": "I think our projects could really complement each other.",
+        "es": "Creo que nuestros proyectos podrían complementarse muy bien.",
+        "ja": "私たちのプロジェクトは、お互いを補い合えると思います。",
+        "ko": "우리 프로젝트가 서로 정말 잘 보완될 것 같아요."
+      }
+    },
+    {
+      "native": "Would you be interested in writing a paper together?",
+      "native_translations": {
+        "en": "Would you be interested in writing a paper together?",
+        "es": "¿Le interesaría escribir un artículo juntos?",
+        "fr": "Seriez-vous intéressé par la rédaction d'un article ensemble ?",
+        "de": "Hätten Sie Interesse, gemeinsam einen Artikel zu schreiben?",
+        "it": "Le interesserebbe scrivere un articolo insieme?",
+        "pl": "Czy byłaby pani zainteresowana wspólnym napisaniem artykułu?",
+        "pt": "Você teria interesse em escrever um artigo juntos?",
+        "nl": "Zou je interesse hebben om samen een artikel te schrijven?",
+        "hr": "Bi li Vas zanimalo da zajedno napišemo članak?",
+        "tr": "Birlikte bir makale yazmak ister misiniz?",
+        "uk": "Чи не хотіли б ви написати статтю разом?",
+        "ar": "هل تهتم بكتابة ورقة بحثية معًا؟",
+        "hi": "क्या आप साथ मिलकर एक पेपर लिखना चाहेंगे?",
+        "vi": "Anh/chị có muốn cùng viết một bài báo không?",
+        "id": "Apakah Anda tertarik menulis makalah bersama?",
+        "ms": "Anda berminat untuk menulis kertas kerja bersama?",
+        "ko": "함께 논문을 써 보실 생각 있으세요?"
+      },
+      "practice": "¿Le interesaría escribir un artículo juntos?",
+      "practice_translations": {
+        "en": "Would you be interested in writing a paper together?",
+        "es": "¿Le interesaría escribir un artículo juntos?",
+        "ja": "一緒に論文を書くことにご興味はありますか。",
+        "ko": "함께 논문을 써 보실 생각 있으세요?"
+      }
+    },
+    {
+      "native": "I could handle the data, and you could lead the theory.",
+      "native_translations": {
+        "en": "I could handle the data, and you could lead the theory.",
+        "es": "Yo podría encargarme de los datos y usted de la parte teórica.",
+        "fr": "Je pourrais m'occuper des données, et vous pourriez piloter la partie théorique.",
+        "de": "Ich könnte mich um die Daten kümmern und Sie die Theorie übernehmen.",
+        "it": "Io potrei occuparmi dei dati e lei potrebbe guidare la parte teorica.",
+        "pl": "Ja mógłbym zająć się danymi, a pani poprowadziłaby część teoretyczną.",
+        "pt": "Eu poderia cuidar dos dados, e você poderia liderar a parte teórica.",
+        "nl": "Ik zou de data kunnen doen en jij zou de theorie kunnen leiden.",
+        "hr": "Ja mogu preuzeti podatke, a Vi teorijski dio.",
+        "tr": "Verilerle ben ilgilenebilirim, teori kısmını da siz yönetebilirsiniz.",
+        "uk": "Я міг би взяти на себе дані, а ви — теорію.",
+        "ar": "يمكنني أن أتولى البيانات، وتقود أنت الجانب النظري.",
+        "hi": "मैं डेटा संभाल सकता हूँ, और आप थ्योरी की अगुवाई कर सकते हैं।",
+        "vi": "Tôi có thể lo phần dữ liệu, còn anh/chị phụ trách phần lý thuyết.",
+        "id": "Saya bisa mengurus datanya, dan Anda bisa memimpin bagian teorinya.",
+        "ms": "Saya boleh uruskan data, dan anda boleh mengetuai bahagian teori.",
+        "ko": "제가 데이터를 맡고, 이론은 선생님이 이끌어 주시면 돼요."
+      },
+      "practice": "Yo podría encargarme de los datos y usted de la parte teórica.",
+      "practice_translations": {
+        "en": "I could handle the data, and you could lead the theory.",
+        "es": "Yo podría encargarme de los datos y usted de la parte teórica.",
+        "ja": "私がデータを担当して、理論はそちらにお任せできればと思います。",
+        "ko": "제가 데이터를 맡고, 이론은 선생님이 이끌어 주시면 돼요."
+      }
+    },
+    {
+      "native": "Are you free for a video call next week?",
+      "native_translations": {
+        "en": "Are you free for a video call next week?",
+        "es": "¿Tiene tiempo para una videollamada la próxima semana?",
+        "fr": "Êtes-vous disponible pour un appel vidéo la semaine prochaine ?",
+        "de": "Hätten Sie nächste Woche Zeit für ein Videotelefonat?",
+        "it": "È libero per una videochiamata la settimana prossima?",
+        "pl": "Czy ma pani czas na rozmowę wideo w przyszłym tygodniu?",
+        "pt": "Você está livre para uma videochamada na semana que vem?",
+        "nl": "Heb je volgende week tijd voor een videogesprek?",
+        "hr": "Imate li sljedeći tjedan vremena za videopoziv?",
+        "tr": "Gelecek hafta görüntülü görüşme için müsait misiniz?",
+        "uk": "Ви маєте час на відеодзвінок наступного тижня?",
+        "ar": "هل أنت متفرغ لمكالمة فيديو الأسبوع القادم؟",
+        "hi": "क्या आप अगले हफ़्ते वीडियो कॉल के लिए फ़्री हैं?",
+        "vi": "Tuần sau anh/chị có rảnh để gọi video không?",
+        "id": "Apakah Anda ada waktu untuk panggilan video minggu depan?",
+        "ms": "Anda lapang untuk panggilan video minggu depan?",
+        "ko": "다음 주에 화상 통화 가능하세요?"
+      },
+      "practice": "¿Tiene tiempo para una videollamada la próxima semana?",
+      "practice_translations": {
+        "en": "Are you free for a video call next week?",
+        "es": "¿Tiene tiempo para una videollamada la próxima semana?",
+        "ja": "来週、ビデオ通話のお時間はありますか。",
+        "ko": "다음 주에 화상 통화 가능하세요?"
+      }
+    }
+  ]
+}

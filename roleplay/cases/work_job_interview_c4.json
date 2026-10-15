@@ -1,0 +1,322 @@
+{
+  "id": "work_job_interview_c4",
+  "title": "Talking About Salary",
+  "title_translations": {
+    "en": "Talking About Salary",
+    "es": "Hablar del salario",
+    "fr": "Parler salaire",
+    "de": "Über das Gehalt sprechen",
+    "it": "Parlare dello stipendio",
+    "pl": "Rozmowa o wynagrodzeniu",
+    "pt": "Falando de salário",
+    "nl": "Praten over salaris",
+    "hr": "Razgovor o plaći",
+    "tr": "Maaş Konuşmak",
+    "uk": "Розмова про зарплату",
+    "ar": "الحديث عن الراتب",
+    "hi": "सैलरी पर बात",
+    "vi": "Bàn chuyện lương",
+    "id": "Membahas Gaji",
+    "ms": "Berbincang Tentang Gaji",
+    "ko": "연봉 이야기하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You got the offer! The manager (AI) proposes a salary a bit lower than you expected.",
+  "scenario_translations": {
+    "en": "You got the offer! The manager (AI) proposes a salary a bit lower than you expected.",
+    "es": "¡Le ofrecieron el puesto! El gerente (AI) propone un salario un poco más bajo de lo que esperaba.",
+    "fr": "Vous avez obtenu le poste ! La responsable (AI) vous propose un salaire un peu inférieur à ce que vous espériez.",
+    "de": "Sie haben das Angebot bekommen! Die Managerin (AI) schlägt ein etwas niedrigeres Gehalt vor, als Sie erwartet hatten.",
+    "it": "Hai ottenuto l'offerta! Il responsabile (AI) propone uno stipendio un po' più basso di quanto ti aspettavi.",
+    "pl": "Dostałeś ofertę! Kierownik (AI) proponuje pensję nieco niższą, niż się spodziewałeś.",
+    "pt": "Você recebeu a proposta! O gestor (AI) oferece um salário um pouco abaixo do que você esperava.",
+    "nl": "Je hebt het aanbod! De manager (AI) stelt een salaris voor dat iets lager is dan je had verwacht.",
+    "hr": "Dobio si ponudu! Voditelj (AI) predlaže plaću nešto nižu od očekivane.",
+    "tr": "Teklifi aldınız! Yönetici (AI) beklediğinizden biraz daha düşük bir maaş öneriyor.",
+    "uk": "Тобі зробили пропозицію! Менеджер (AI) пропонує зарплату трохи нижчу, ніж ти очікував.",
+    "ar": "حصلت على العرض! يقترح المدير (AI) راتبًا أقل قليلًا مما توقعت.",
+    "hi": "आपको ऑफ़र मिल गया! मैनेजर (AI) आपकी उम्मीद से थोड़ी कम सैलरी का प्रस्ताव देते हैं।",
+    "vi": "Bạn đã nhận được lời mời làm việc! Quản lý (AI) đề xuất mức lương hơi thấp hơn bạn mong đợi.",
+    "id": "Kamu mendapat tawarannya! Manajer (AI) mengusulkan gaji yang sedikit lebih rendah dari harapanmu.",
+    "ms": "Anda mendapat tawaran kerja! Pengurus (AI) mencadangkan gaji yang sedikit lebih rendah daripada jangkaan anda.",
+    "ko": "합격 제안을 받았어요! 그런데 매니저(AI)가 기대보다 조금 낮은 연봉을 제시합니다."
+  },
+  "mission": {
+    "native": "Negotiate politely and reach a salary you are happy with.",
+    "native_translations": {
+      "en": "Negotiate politely and reach a salary you are happy with.",
+      "es": "Negocie con cortesía y consiga un salario con el que esté contenta.",
+      "fr": "Négociez poliment et obtenez un salaire qui vous satisfait.",
+      "de": "Verhandeln Sie höflich und erreichen Sie ein Gehalt, mit dem Sie zufrieden sind.",
+      "it": "Negozia con cortesia e arriva a uno stipendio che ti soddisfi.",
+      "pl": "Grzecznie negocjuj i wywalcz pensję, z której będziesz zadowolony.",
+      "pt": "Negocie com educação e chegue a um salário que deixe você satisfeito.",
+      "nl": "Onderhandel beleefd en kom uit op een salaris waar je tevreden mee bent.",
+      "hr": "Pristojno pregovaraj i dogovori plaću kojom ćeš biti zadovoljan.",
+      "tr": "Kibarca pazarlık yapın ve memnun olacağınız bir maaşa ulaşın.",
+      "uk": "Ввічливо поторгуйся й досягни зарплати, яка тебе влаштовує.",
+      "ar": "تفاوض بأدب وتوصّل إلى راتب يرضيك.",
+      "hi": "विनम्रता से बातचीत कीजिए और ऐसी सैलरी तय कीजिए जिससे आप ख़ुश हों।",
+      "vi": "Lịch sự thương lượng và đạt được mức lương bạn hài lòng.",
+      "id": "Bernegosiasilah dengan sopan dan capai gaji yang membuatmu puas.",
+      "ms": "Berunding dengan sopan dan capai gaji yang anda puas hati.",
+      "ko": "정중하게 협상해서 만족할 만한 연봉으로 합의하세요."
+    },
+    "practice": "Negocie con cortesía y consiga un salario con el que esté contenta.",
+    "practice_translations": {
+      "en": "Negotiate politely and reach a salary you are happy with.",
+      "es": "Negocie con cortesía y consiga un salario con el que esté contenta.",
+      "ja": "丁寧に交渉して、納得できる給与にしてください。",
+      "ko": "정중하게 협상해서 만족할 만한 연봉으로 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Thank them for the offer",
+        "native_translations": {
+          "en": "Thank them for the offer",
+          "es": "Agradezca la oferta",
+          "fr": "Remerciez-la pour l'offre",
+          "de": "Bedanken Sie sich für das Angebot",
+          "it": "Ringrazia per l'offerta",
+          "pl": "Podziękuj za ofertę",
+          "pt": "Agradeça pela proposta",
+          "nl": "Bedank voor het aanbod",
+          "hr": "Zahvali na ponudi",
+          "tr": "Teklif için teşekkür edin",
+          "uk": "Подякуй за пропозицію",
+          "ar": "اشكره على العرض",
+          "hi": "ऑफ़र के लिए उन्हें धन्यवाद दीजिए",
+          "vi": "Cảm ơn họ vì lời mời làm việc",
+          "id": "Ucapkan terima kasih atas tawarannya",
+          "ms": "Ucapkan terima kasih atas tawaran itu",
+          "ko": "제안해 주셔서 감사하다고 말하세요"
+        },
+        "practice": "Agradezca la oferta",
+        "practice_translations": {
+          "en": "Thank them for the offer",
+          "es": "Agradezca la oferta",
+          "ja": "採用のお礼を言ってください",
+          "ko": "제안해 주셔서 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say the salary you expected",
+        "native_translations": {
+          "en": "Say the salary you expected",
+          "es": "Diga el salario que esperaba",
+          "fr": "Indiquez le salaire que vous espériez",
+          "de": "Nennen Sie das Gehalt, das Sie erwartet haben",
+          "it": "Di' quale stipendio ti aspettavi",
+          "pl": "Podaj wynagrodzenie, jakiego oczekiwałeś",
+          "pt": "Diga o salário que você esperava",
+          "nl": "Noem het salaris dat je had verwacht",
+          "hr": "Reci kakvu si plaću očekivao",
+          "tr": "Beklediğiniz maaşı söyleyin",
+          "uk": "Назви зарплату, на яку розраховуєш",
+          "ar": "قل الراتب الذي كنت تتوقعه",
+          "hi": "बताइए कि आपको कितनी सैलरी की उम्मीद थी",
+          "vi": "Nói mức lương bạn mong muốn",
+          "id": "Sebutkan gaji yang kamu harapkan",
+          "ms": "Nyatakan gaji yang anda jangkakan",
+          "ko": "기대했던 연봉을 말하세요"
+        },
+        "practice": "Diga el salario que esperaba",
+        "practice_translations": {
+          "en": "Say the salary you expected",
+          "es": "Diga el salario que esperaba",
+          "ja": "希望していた給与を伝えてください",
+          "ko": "기대했던 연봉을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain why you deserve it",
+        "native_translations": {
+          "en": "Explain why you deserve it",
+          "es": "Explique por qué lo merece",
+          "fr": "Expliquez pourquoi vous le méritez",
+          "de": "Erklären Sie, warum Sie es verdienen",
+          "it": "Spiega perché lo meriti",
+          "pl": "Wyjaśnij, dlaczego na nie zasługujesz",
+          "pt": "Explique por que você merece",
+          "nl": "Leg uit waarom je het verdient",
+          "hr": "Objasni zašto je zaslužuješ",
+          "tr": "Bunu neden hak ettiğinizi açıklayın",
+          "uk": "Поясни, чому ти на неї заслуговуєш",
+          "ar": "اشرح لماذا تستحقه",
+          "hi": "समझाइए कि आप इसके हक़दार क्यों हैं",
+          "vi": "Giải thích vì sao bạn xứng đáng với mức đó",
+          "id": "Jelaskan kenapa kamu layak mendapatkannya",
+          "ms": "Terangkan mengapa anda layak mendapatnya",
+          "ko": "그 연봉을 받아야 하는 이유를 설명하세요"
+        },
+        "practice": "Explique por qué lo merece",
+        "practice_translations": {
+          "en": "Explain why you deserve it",
+          "es": "Explique por qué lo merece",
+          "ja": "その給与にふさわしい理由を説明してください",
+          "ko": "그 연봉을 받아야 하는 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on the final offer",
+        "native_translations": {
+          "en": "Agree on the final offer",
+          "es": "Acuerden la oferta final",
+          "fr": "Mettez-vous d'accord sur l'offre finale",
+          "de": "Einigen Sie sich auf das endgültige Angebot",
+          "it": "Concordate l'offerta finale",
+          "pl": "Zaakceptujcie ostateczną ofertę",
+          "pt": "Cheguem a um acordo sobre a proposta final",
+          "nl": "Ga akkoord met het definitieve aanbod",
+          "hr": "Dogovori konačnu ponudu",
+          "tr": "Son teklif üzerinde anlaşın",
+          "uk": "Погодься на остаточну пропозицію",
+          "ar": "اتفق على العرض النهائي",
+          "hi": "अंतिम ऑफ़र पर सहमत होइए",
+          "vi": "Thống nhất lời đề nghị cuối cùng",
+          "id": "Sepakati tawaran akhirnya",
+          "ms": "Setuju dengan tawaran akhir",
+          "ko": "최종 제안에 합의하세요"
+        },
+        "practice": "Acuerden la oferta final",
+        "practice_translations": {
+          "en": "Agree on the final offer",
+          "es": "Acuerden la oferta final",
+          "ja": "最終的な条件に合意してください",
+          "ko": "최종 제안에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for having me. I'm really excited to be here.",
+      "native_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "fr": "Merci de me recevoir. Je suis vraiment ravi d'être ici.",
+        "de": "Vielen Dank für die Einladung. Ich freue mich wirklich, hier zu sein.",
+        "it": "Grazie per avermi ricevuto. Sono davvero felice di essere qui.",
+        "pl": "Dziękuję za zaproszenie. Naprawdę cieszę się, że tu jestem.",
+        "pt": "Obrigado por me receber. Estou muito animado por estar aqui.",
+        "nl": "Bedankt voor de uitnodiging. Ik heb er echt zin in.",
+        "hr": "Hvala Vam na pozivu. Jako se veselim što sam ovdje.",
+        "tr": "Beni davet ettiğiniz için teşekkür ederim. Burada olduğum için çok heyecanlıyım.",
+        "uk": "Дякую, що запросили мене. Я дуже радий бути тут.",
+        "ar": "شكرًا على استضافتي. أنا متحمس حقًا لوجودي هنا.",
+        "hi": "मुझे मौक़ा देने के लिए धन्यवाद। मैं यहाँ आकर सच में उत्साहित हूँ।",
+        "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
+        "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
+        "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      },
+      "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+      "practice_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "ja": "本日はお時間をいただきありがとうございます。お会いできるのを楽しみにしていました。",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      }
+    },
+    {
+      "native": "I have three years of experience in customer service.",
+      "native_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "fr": "J'ai trois ans d'expérience dans le service client.",
+        "de": "Ich habe drei Jahre Erfahrung im Kundenservice.",
+        "it": "Ho tre anni di esperienza nel servizio clienti.",
+        "pl": "Mam trzy lata doświadczenia w obsłudze klienta.",
+        "pt": "Tenho três anos de experiência em atendimento ao cliente.",
+        "nl": "Ik heb drie jaar ervaring in de klantenservice.",
+        "hr": "Imam tri godine iskustva u korisničkoj službi.",
+        "tr": "Müşteri hizmetlerinde üç yıllık deneyimim var.",
+        "uk": "У мене три роки досвіду в обслуговуванні клієнтів.",
+        "ar": "لديّ ثلاث سنوات من الخبرة في خدمة العملاء.",
+        "hi": "मेरे पास कस्टमर सर्विस में तीन साल का अनुभव है।",
+        "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
+        "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
+        "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      },
+      "practice": "Tengo tres años de experiencia en atención al cliente.",
+      "practice_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "ja": "カスタマーサービスで3年の経験があります。",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      }
+    },
+    {
+      "native": "One of my strengths is working well in a team.",
+      "native_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "fr": "L'un de mes points forts, c'est que je travaille bien en équipe.",
+        "de": "Eine meiner Stärken ist, dass ich gut im Team arbeite.",
+        "it": "Uno dei miei punti di forza è lavorare bene in team.",
+        "pl": "Jedną z moich mocnych stron jest dobra praca w zespole.",
+        "pt": "Um dos meus pontos fortes é trabalhar bem em equipe.",
+        "nl": "Een van mijn sterke punten is dat ik goed in een team werk.",
+        "hr": "Jedna od mojih snaga je dobar timski rad.",
+        "tr": "Güçlü yönlerimden biri ekip içinde iyi çalışmak.",
+        "uk": "Одна з моїх сильних сторін — я добре працюю в команді.",
+        "ar": "من نقاط قوتي أنني أعمل جيدًا ضمن فريق.",
+        "hi": "मेरी एक ख़ूबी यह है कि मैं टीम में अच्छे से काम करता हूँ।",
+        "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
+        "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
+        "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      },
+      "practice": "Una de mis fortalezas es trabajar bien en equipo.",
+      "practice_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "ja": "私の強みの一つは、チームでうまく協力できることです。",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      }
+    },
+    {
+      "native": "Could you tell me more about the role?",
+      "native_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "fr": "Pourriez-vous m'en dire plus sur le poste ?",
+        "de": "Könnten Sie mir mehr über die Stelle erzählen?",
+        "it": "Potrebbe dirmi qualcosa in più sul ruolo?",
+        "pl": "Czy mógłby pan powiedzieć więcej o tym stanowisku?",
+        "pt": "Você poderia me contar mais sobre a vaga?",
+        "nl": "Kunt u me meer vertellen over de functie?",
+        "hr": "Možete li mi reći nešto više o radnom mjestu?",
+        "tr": "Pozisyon hakkında biraz daha bilgi verebilir misiniz?",
+        "uk": "Чи могли б ви розповісти більше про цю посаду?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الدور الوظيفي؟",
+        "hi": "क्या आप मुझे इस रोल के बारे में और बता सकते हैं?",
+        "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
+        "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
+        "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      },
+      "practice": "¿Podría contarme más sobre el puesto?",
+      "practice_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "ja": "この仕事について、もう少し詳しく教えていただけますか。",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      }
+    }
+  ]
+}

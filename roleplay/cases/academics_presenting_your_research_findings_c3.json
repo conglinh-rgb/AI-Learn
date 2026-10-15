@@ -1,0 +1,351 @@
+{
+  "id": "academics_presenting_your_research_findings_c3",
+  "title": "Defending Your Results",
+  "title_translations": {
+    "en": "Defending Your Results",
+    "es": "Defender sus resultados",
+    "fr": "Défendre ses résultats",
+    "de": "Die eigenen Ergebnisse verteidigen",
+    "it": "Difendere i tuoi risultati",
+    "pl": "Obrona wyników",
+    "pt": "Defendendo seus resultados",
+    "nl": "Je resultaten verdedigen",
+    "hr": "Obrana rezultata",
+    "tr": "Sonuçlarınızı Savunmak",
+    "uk": "Захист результатів",
+    "ar": "الدفاع عن نتائجك",
+    "hi": "अपने नतीजों का बचाव",
+    "vi": "Bảo vệ kết quả nghiên cứu",
+    "id": "Mempertahankan Hasil Penelitian",
+    "ms": "Mempertahankan Keputusan Anda",
+    "ko": "연구 결과 방어하기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You have just presented your findings. A skeptical reviewer (AI) in the audience says your sample is too small to mean anything.",
+  "scenario_translations": {
+    "en": "You have just presented your findings. A skeptical reviewer (AI) in the audience says your sample is too small to mean anything.",
+    "es": "Acaba de presentar sus hallazgos. Un revisor escéptico (AI) del público dice que su muestra es demasiado pequeña para significar algo.",
+    "fr": "Vous venez de présenter vos résultats. Un évaluateur sceptique (AI) dans le public affirme que votre échantillon est trop petit pour être significatif.",
+    "de": "Sie haben gerade Ihre Ergebnisse präsentiert. Eine skeptische Gutachterin bzw. ein skeptischer Gutachter (AI) im Publikum meint, Ihre Stichprobe sei zu klein, um aussagekräftig zu sein.",
+    "it": "Hai appena presentato i tuoi risultati. Un revisore scettico (AI) tra il pubblico dice che il tuo campione è troppo piccolo per avere significato.",
+    "pl": "Właśnie przedstawiłeś swoje wyniki. Sceptyczny recenzent (AI) na widowni mówi, że twoja próba jest za mała, żeby cokolwiek znaczyła.",
+    "pt": "Você acabou de apresentar seus resultados. Um avaliador cético (AI) na plateia diz que sua amostra é pequena demais para significar alguma coisa.",
+    "nl": "Je hebt net je bevindingen gepresenteerd. Een sceptische reviewer (AI) in het publiek zegt dat je steekproef te klein is om iets te betekenen.",
+    "hr": "Upravo završava tvoje izlaganje rezultata. Skeptični recenzent (AI) u publici kaže da je tvoj uzorak premalen da bi išta značio.",
+    "tr": "Bulgularınızı yeni sundunuz. Dinleyiciler arasındaki şüpheci bir hakem (AI), örnekleminizin bir anlam ifade edemeyecek kadar küçük olduğunu söylüyor.",
+    "uk": "Ти щойно представив свої результати. Скептично налаштований рецензент (AI) у залі каже, що твоя вибірка замала, щоб щось означати.",
+    "ar": "عرضت نتائجك للتو. مراجع متشكك (AI) من الحضور يقول إن عيّنتك أصغر من أن تعني شيئًا.",
+    "hi": "आपने अभी अपने नतीजे पेश किए हैं। दर्शकों में बैठे एक शंकालु समीक्षक (AI) कहते हैं कि आपका सैंपल इतना छोटा है कि उसका कोई मतलब नहीं।",
+    "vi": "Bạn vừa trình bày kết quả nghiên cứu. Một người phản biện đầy hoài nghi (AI) trong khán phòng nói rằng mẫu của bạn quá nhỏ để có ý nghĩa.",
+    "id": "Kamu baru saja mempresentasikan temuanmu. Seorang penelaah yang skeptis (AI) di antara hadirin bilang sampelmu terlalu kecil untuk berarti apa-apa.",
+    "ms": "Anda baru membentangkan dapatan anda. Seorang penilai yang skeptikal (AI) dalam kalangan penonton berkata sampel anda terlalu kecil untuk bermakna.",
+    "ko": "방금 연구 결과를 발표했어요. 청중 속 회의적인 심사위원(AI)이 표본이 너무 작아서 의미가 없다고 말해요."
+  },
+  "mission": {
+    "native": "Stay professional, admit the limitation and defend the value of your results.",
+    "native_translations": {
+      "en": "Stay professional, admit the limitation and defend the value of your results.",
+      "es": "Mantenga la profesionalidad, reconozca la limitación y defienda el valor de sus resultados.",
+      "fr": "Restez professionnel, reconnaissez la limite et défendez la valeur de vos résultats.",
+      "de": "Bleiben Sie professionell, räumen Sie die Einschränkung ein und verteidigen Sie den Wert Ihrer Ergebnisse.",
+      "it": "Resta professionale, ammetti il limite e difendi il valore dei tuoi risultati.",
+      "pl": "Zachowaj profesjonalizm, przyznaj się do ograniczenia i broń wartości swoich wyników.",
+      "pt": "Mantenha o profissionalismo, admita a limitação e defenda o valor dos seus resultados.",
+      "nl": "Blijf professioneel, erken de beperking en verdedig de waarde van je resultaten.",
+      "hr": "Zadrži profesionalnost, priznaj ograničenje i obrani vrijednost svojih rezultata.",
+      "tr": "Profesyonel kalın, sınırlılığı kabul edin ve sonuçlarınızın değerini savunun.",
+      "uk": "Залишайся професійним, визнай обмеження й відстоюй цінність своїх результатів.",
+      "ar": "حافظ على مهنيتك واعترف بالقيد ودافع عن قيمة نتائجك.",
+      "hi": "पेशेवर बने रहिए, कमी को स्वीकार कीजिए और अपने नतीजों की अहमियत का बचाव कीजिए।",
+      "vi": "Giữ thái độ chuyên nghiệp, thừa nhận hạn chế và bảo vệ giá trị của kết quả.",
+      "id": "Tetap profesional, akui keterbatasannya, dan pertahankan nilai hasil penelitianmu.",
+      "ms": "Kekal profesional, akui batasan itu dan pertahankan nilai keputusan anda.",
+      "ko": "침착하고 전문적인 태도로 한계를 인정하고 결과의 가치를 변호하세요."
+    },
+    "practice": "Mantenga la profesionalidad, reconozca la limitación y defienda el valor de sus resultados.",
+    "practice_translations": {
+      "en": "Stay professional, admit the limitation and defend the value of your results.",
+      "es": "Mantenga la profesionalidad, reconozca la limitación y defienda el valor de sus resultados.",
+      "ja": "落ち着いて、研究の限界を認めたうえで、結果の価値を主張してください。",
+      "ko": "침착하고 전문적인 태도로 한계를 인정하고 결과의 가치를 변호하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Thank the reviewer for the question",
+        "native_translations": {
+          "en": "Thank the reviewer for the question",
+          "es": "Agradezca la pregunta al revisor",
+          "fr": "Remerciez l'évaluateur pour sa question",
+          "de": "Bedanken Sie sich für die Frage",
+          "it": "Ringrazia il revisore per la domanda",
+          "pl": "Podziękuj recenzentowi za pytanie",
+          "pt": "Agradeça ao avaliador pela pergunta",
+          "nl": "Bedank de reviewer voor de vraag",
+          "hr": "Zahvali recenzentu na pitanju",
+          "tr": "Soru için hakeme teşekkür edin",
+          "uk": "Подякуй рецензентові за запитання",
+          "ar": "اشكر المراجع على سؤاله",
+          "hi": "समीक्षक को सवाल के लिए धन्यवाद दीजिए",
+          "vi": "Cảm ơn người phản biện vì câu hỏi",
+          "id": "Ucapkan terima kasih kepada penelaah atas pertanyaannya",
+          "ms": "Ucapkan terima kasih kepada penilai atas soalannya",
+          "ko": "심사위원에게 질문에 대해 감사하세요"
+        },
+        "practice": "Agradezca la pregunta al revisor",
+        "practice_translations": {
+          "en": "Thank the reviewer for the question",
+          "es": "Agradezca la pregunta al revisor",
+          "ja": "査読者に質問のお礼を言ってください",
+          "ko": "심사위원에게 질문에 대해 감사하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Admit the limitation of your sample",
+        "native_translations": {
+          "en": "Admit the limitation of your sample",
+          "es": "Reconozca la limitación de su muestra",
+          "fr": "Reconnaissez la limite de votre échantillon",
+          "de": "Räumen Sie die Einschränkung Ihrer Stichprobe ein",
+          "it": "Ammetti il limite del tuo campione",
+          "pl": "Przyznaj, że twoja próba ma ograniczenia",
+          "pt": "Admita a limitação da sua amostra",
+          "nl": "Erken de beperking van je steekproef",
+          "hr": "Priznaj ograničenje svog uzorka",
+          "tr": "Örnekleminizin sınırlılığını kabul edin",
+          "uk": "Визнай обмеження своєї вибірки",
+          "ar": "اعترف بمحدودية عيّنتك",
+          "hi": "अपने सैंपल की कमी स्वीकार कीजिए",
+          "vi": "Thừa nhận hạn chế của mẫu nghiên cứu",
+          "id": "Akui keterbatasan sampelmu",
+          "ms": "Akui batasan sampel anda",
+          "ko": "표본의 한계를 인정하세요"
+        },
+        "practice": "Reconozca la limitación de su muestra",
+        "practice_translations": {
+          "en": "Admit the limitation of your sample",
+          "es": "Reconozca la limitación de su muestra",
+          "ja": "サンプルの限界を認めてください",
+          "ko": "표본의 한계를 인정하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain why your results still matter",
+        "native_translations": {
+          "en": "Explain why your results still matter",
+          "es": "Explique por qué sus resultados siguen siendo relevantes",
+          "fr": "Expliquez pourquoi vos résultats restent importants",
+          "de": "Erklären Sie, warum Ihre Ergebnisse trotzdem wichtig sind",
+          "it": "Spiega perché i tuoi risultati contano comunque",
+          "pl": "Wyjaśnij, dlaczego twoje wyniki wciąż są ważne",
+          "pt": "Explique por que seus resultados ainda importam",
+          "nl": "Leg uit waarom je resultaten toch belangrijk zijn",
+          "hr": "Objasni zašto su tvoji rezultati ipak važni",
+          "tr": "Sonuçlarınızın neden yine de önemli olduğunu açıklayın",
+          "uk": "Поясни, чому твої результати все одно важливі",
+          "ar": "اشرح لماذا تظل نتائجك مهمة",
+          "hi": "समझाइए कि आपके नतीजे फिर भी क्यों अहम हैं",
+          "vi": "Giải thích vì sao kết quả vẫn có giá trị",
+          "id": "Jelaskan kenapa hasilmu tetap penting",
+          "ms": "Terangkan mengapa keputusan anda masih penting",
+          "ko": "그래도 결과가 중요한 이유를 설명하세요"
+        },
+        "practice": "Explique por qué sus resultados siguen siendo relevantes",
+        "practice_translations": {
+          "en": "Explain why your results still matter",
+          "es": "Explique por qué sus resultados siguen siendo relevantes",
+          "ja": "それでも結果が重要な理由を説明してください",
+          "ko": "그래도 결과가 중요한 이유를 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Describe how you will address it next",
+        "native_translations": {
+          "en": "Describe how you will address it next",
+          "es": "Describa cómo lo abordará en el futuro",
+          "fr": "Décrivez comment vous y remédierez ensuite",
+          "de": "Beschreiben Sie, wie Sie das künftig angehen",
+          "it": "Descrivi come lo affronterai in seguito",
+          "pl": "Opisz, jak zajmiesz się tym w kolejnym etapie",
+          "pt": "Descreva como você vai resolver isso a seguir",
+          "nl": "Beschrijf hoe je dit hierna gaat aanpakken",
+          "hr": "Opiši kako ćeš to riješiti u nastavku",
+          "tr": "Bunu bir sonraki aşamada nasıl ele alacağınızı anlatın",
+          "uk": "Опиши, як ти розв'яжеш це надалі",
+          "ar": "صف كيف ستعالج ذلك لاحقًا",
+          "hi": "बताइए कि आगे आप इसे कैसे सुधारेंगे",
+          "vi": "Mô tả cách bạn sẽ khắc phục ở bước tiếp theo",
+          "id": "Jelaskan cara kamu mengatasinya ke depan",
+          "ms": "Terangkan cara anda akan menanganinya seterusnya",
+          "ko": "다음에 이 문제를 어떻게 보완할지 설명하세요"
+        },
+        "practice": "Describa cómo lo abordará en el futuro",
+        "practice_translations": {
+          "en": "Describe how you will address it next",
+          "es": "Describa cómo lo abordará en el futuro",
+          "ja": "今後どう対処するかを説明してください",
+          "ko": "다음에 이 문제를 어떻게 보완할지 설명하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you, that's a fair point.",
+      "native_translations": {
+        "en": "Thank you, that's a fair point.",
+        "es": "Gracias, es una observación válida.",
+        "fr": "Merci, c'est une remarque pertinente.",
+        "de": "Danke, das ist ein berechtigter Einwand.",
+        "it": "Grazie, è un'osservazione giusta.",
+        "pl": "Dziękuję, to słuszna uwaga.",
+        "pt": "Obrigado, é uma observação justa.",
+        "nl": "Dank u, dat is een terecht punt.",
+        "hr": "Hvala, to je opravdana primjedba.",
+        "tr": "Teşekkür ederim, bu yerinde bir tespit.",
+        "uk": "Дякую, це слушне зауваження.",
+        "ar": "شكرًا لك، هذه نقطة وجيهة.",
+        "hi": "धन्यवाद, यह सही बात है।",
+        "vi": "Cảm ơn anh/chị, đó là một ý kiến xác đáng.",
+        "id": "Terima kasih, itu poin yang wajar.",
+        "ms": "Terima kasih, itu pandangan yang wajar.",
+        "ko": "감사합니다, 타당한 지적이에요."
+      },
+      "practice": "Gracias, es una observación válida.",
+      "practice_translations": {
+        "en": "Thank you, that's a fair point.",
+        "es": "Gracias, es una observación válida.",
+        "ja": "ありがとうございます。ごもっともなご指摘です。",
+        "ko": "감사합니다, 타당한 지적이에요."
+      }
+    },
+    {
+      "native": "You're right that the sample is small.",
+      "native_translations": {
+        "en": "You're right that the sample is small.",
+        "es": "Tiene razón en que la muestra es pequeña.",
+        "fr": "Vous avez raison, l'échantillon est petit.",
+        "de": "Sie haben recht, die Stichprobe ist klein.",
+        "it": "Ha ragione, il campione è piccolo.",
+        "pl": "Ma pan rację, że próba jest niewielka.",
+        "pt": "Você tem razão, a amostra é pequena.",
+        "nl": "U heeft gelijk dat de steekproef klein is.",
+        "hr": "U pravu ste, uzorak je malen.",
+        "tr": "Örneklemin küçük olduğu konusunda haklısınız.",
+        "uk": "Ви маєте рацію, вибірка невелика.",
+        "ar": "أنت محق في أن العيّنة صغيرة.",
+        "hi": "आप सही कह रहे हैं कि सैंपल छोटा है।",
+        "vi": "Anh/chị nói đúng, mẫu nghiên cứu còn nhỏ.",
+        "id": "Anda benar bahwa sampelnya kecil.",
+        "ms": "Anda betul, sampelnya memang kecil.",
+        "ko": "말씀하신 대로 표본이 작은 건 맞아요."
+      },
+      "practice": "Tiene razón en que la muestra es pequeña.",
+      "practice_translations": {
+        "en": "You're right that the sample is small.",
+        "es": "Tiene razón en que la muestra es pequeña.",
+        "ja": "おっしゃるとおり、サンプルは小さいです。",
+        "ko": "말씀하신 대로 표본이 작은 건 맞아요."
+      }
+    },
+    {
+      "native": "Even so, the effect was consistent across all groups.",
+      "native_translations": {
+        "en": "Even so, the effect was consistent across all groups.",
+        "es": "Aun así, el efecto fue constante en todos los grupos.",
+        "fr": "Malgré tout, l'effet était constant dans tous les groupes.",
+        "de": "Trotzdem war der Effekt in allen Gruppen gleichbleibend.",
+        "it": "Nonostante ciò, l'effetto è stato costante in tutti i gruppi.",
+        "pl": "Mimo to efekt był spójny we wszystkich grupach.",
+        "pt": "Mesmo assim, o efeito foi consistente em todos os grupos.",
+        "nl": "Toch was het effect in alle groepen consistent.",
+        "hr": "Ipak, učinak je bio dosljedan u svim skupinama.",
+        "tr": "Yine de etki tüm gruplarda tutarlıydı.",
+        "uk": "Попри це, ефект був стабільним у всіх групах.",
+        "ar": "ومع ذلك، كان التأثير ثابتًا في جميع المجموعات.",
+        "hi": "फिर भी, असर सभी ग्रुप में एक जैसा रहा।",
+        "vi": "Dù vậy, tác động này vẫn nhất quán ở tất cả các nhóm.",
+        "id": "Meski begitu, efeknya konsisten di semua kelompok.",
+        "ms": "Walaupun begitu, kesannya konsisten dalam semua kumpulan.",
+        "ko": "그렇더라도 효과는 모든 그룹에서 일관되게 나타났어요."
+      },
+      "practice": "Aun así, el efecto fue constante en todos los grupos.",
+      "practice_translations": {
+        "en": "Even so, the effect was consistent across all groups.",
+        "es": "Aun así, el efecto fue constante en todos los grupos.",
+        "ja": "それでも、効果はすべてのグループで一貫していました。",
+        "ko": "그렇더라도 효과는 모든 그룹에서 일관되게 나타났어요."
+      }
+    },
+    {
+      "native": "This is a pilot study, so the goal was to test the method.",
+      "native_translations": {
+        "en": "This is a pilot study, so the goal was to test the method.",
+        "es": "Es un estudio piloto, así que el objetivo era probar el método.",
+        "fr": "Il s'agit d'une étude pilote, l'objectif était donc de tester la méthode.",
+        "de": "Es handelt sich um eine Pilotstudie, das Ziel war also, die Methode zu testen.",
+        "it": "Si tratta di uno studio pilota, quindi l'obiettivo era testare il metodo.",
+        "pl": "To badanie pilotażowe, więc celem było przetestowanie metody.",
+        "pt": "É um estudo piloto, então o objetivo era testar o método.",
+        "nl": "Dit is een pilotstudie, dus het doel was om de methode te testen.",
+        "hr": "Ovo je pilot-istraživanje, pa je cilj bio testirati metodu.",
+        "tr": "Bu bir pilot çalışma, yani amaç yöntemi test etmekti.",
+        "uk": "Це пілотне дослідження, тож метою було перевірити метод.",
+        "ar": "هذه دراسة تجريبية، لذا كان الهدف اختبار المنهج.",
+        "hi": "यह एक पायलट स्टडी है, इसलिए मक़सद पद्धति को परखना था।",
+        "vi": "Đây là nghiên cứu thử nghiệm, nên mục tiêu là kiểm tra phương pháp.",
+        "id": "Ini studi awal, jadi tujuannya untuk menguji metodenya.",
+        "ms": "Ini kajian rintis, jadi matlamatnya adalah untuk menguji kaedah.",
+        "ko": "이건 예비 연구라서 방법을 검증하는 게 목표였어요."
+      },
+      "practice": "Es un estudio piloto, así que el objetivo era probar el método.",
+      "practice_translations": {
+        "en": "This is a pilot study, so the goal was to test the method.",
+        "es": "Es un estudio piloto, así que el objetivo era probar el método.",
+        "ja": "これは予備研究なので、方法を検証することが目的でした。",
+        "ko": "이건 예비 연구라서 방법을 검증하는 게 목표였어요."
+      }
+    },
+    {
+      "native": "In the next phase, we plan to triple the sample size.",
+      "native_translations": {
+        "en": "In the next phase, we plan to triple the sample size.",
+        "es": "En la siguiente fase pensamos triplicar el tamaño de la muestra.",
+        "fr": "Lors de la prochaine phase, nous prévoyons de tripler la taille de l'échantillon.",
+        "de": "In der nächsten Phase wollen wir die Stichprobe verdreifachen.",
+        "it": "Nella prossima fase prevediamo di triplicare la dimensione del campione.",
+        "pl": "W kolejnym etapie planujemy potroić wielkość próby.",
+        "pt": "Na próxima fase, pretendemos triplicar o tamanho da amostra.",
+        "nl": "In de volgende fase willen we de steekproef verdrievoudigen.",
+        "hr": "U sljedećoj fazi planiramo utrostručiti veličinu uzorka.",
+        "tr": "Bir sonraki aşamada örneklem büyüklüğünü üç katına çıkarmayı planlıyoruz.",
+        "uk": "На наступному етапі ми плануємо збільшити вибірку втричі.",
+        "ar": "في المرحلة التالية، نخطط لمضاعفة حجم العيّنة ثلاث مرات.",
+        "hi": "अगले चरण में हम सैंपल का आकार तीन गुना करने वाले हैं।",
+        "vi": "Ở giai đoạn tiếp theo, chúng tôi dự định tăng cỡ mẫu lên gấp ba.",
+        "id": "Di tahap berikutnya, kami berencana melipatgandakan sampel jadi tiga kali lipat.",
+        "ms": "Dalam fasa seterusnya, kami merancang untuk meningkatkan saiz sampel sebanyak tiga kali ganda.",
+        "ko": "다음 단계에서는 표본 크기를 세 배로 늘릴 계획이에요."
+      },
+      "practice": "En la siguiente fase pensamos triplicar el tamaño de la muestra.",
+      "practice_translations": {
+        "en": "In the next phase, we plan to triple the sample size.",
+        "es": "En la siguiente fase pensamos triplicar el tamaño de la muestra.",
+        "ja": "次の段階では、サンプル数を3倍にする予定です。",
+        "ko": "다음 단계에서는 표본 크기를 세 배로 늘릴 계획이에요."
+      }
+    }
+  ]
+}

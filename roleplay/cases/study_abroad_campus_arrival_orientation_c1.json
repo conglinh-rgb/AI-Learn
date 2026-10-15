@@ -1,0 +1,318 @@
+{
+  "id": "study_abroad_campus_arrival_orientation_c1",
+  "title": "Checking In at the Dorm",
+  "title_translations": {
+    "en": "Checking In at the Dorm",
+    "es": "Registro en la residencia estudiantil",
+    "fr": "S'installer à la résidence",
+    "de": "Einchecken im Wohnheim",
+    "it": "Check-in allo studentato",
+    "pl": "Zameldowanie w akademiku",
+    "pt": "Check-in no alojamento",
+    "nl": "Inchecken in de studentenflat",
+    "hr": "Prijava u studentski dom",
+    "tr": "Yurda Giriş Yapmak",
+    "uk": "Заселення в гуртожиток",
+    "ar": "تسجيل الوصول في السكن الجامعي",
+    "hi": "हॉस्टल में चेक-इन",
+    "vi": "Nhận phòng ký túc xá",
+    "id": "Check-in di Asrama",
+    "ms": "Mendaftar Masuk di Asrama",
+    "ko": "기숙사 체크인"
+  },
+  "character": "fox",
+  "scenario": "You just arrived on campus with your suitcase. The residence hall receptionist (AI) greets you at the front desk.",
+  "scenario_translations": {
+    "en": "You just arrived on campus with your suitcase. The residence hall receptionist (AI) greets you at the front desk.",
+    "es": "Acaba de llegar al campus con su maleta. La recepcionista de la residencia (AI) le saluda en el mostrador.",
+    "fr": "Vous venez d'arriver sur le campus avec votre valise. Le réceptionniste de la résidence universitaire (AI) vous accueille à l'accueil.",
+    "de": "Sie sind gerade mit Ihrem Koffer auf dem Campus angekommen. Die Rezeptionistin des Studentenwohnheims (AI) begrüßt Sie am Empfang.",
+    "it": "Sei appena arrivato al campus con la valigia. Il receptionist della residenza (AI) ti accoglie al bancone.",
+    "pl": "Właśnie przyjechałeś na kampus z walizką. Recepcjonistka w akademiku (AI) wita cię w recepcji.",
+    "pt": "Você acabou de chegar ao campus com sua mala. A recepcionista do alojamento estudantil (AI) recebe você no balcão.",
+    "nl": "Je bent net met je koffer op de campus aangekomen. De receptionist (AI) van de studentenflat begroet je bij de balie.",
+    "hr": "Na kampus stižeš s kovčegom. Recepcionar studentskog doma (AI) dočekuje te na recepciji.",
+    "tr": "Bavulunuzla kampüse yeni geldiniz. Yurt resepsiyonisti (AI) sizi danışmada karşılıyor.",
+    "uk": "Ти щойно з валізою в кампусі. Адміністратор гуртожитку (AI) вітає тебе на рецепції.",
+    "ar": "وصلت للتوّ إلى الحرم الجامعي ومعك حقيبتك. يستقبلك موظف الاستقبال (AI) في السكن الجامعي عند المكتب الأمامي.",
+    "hi": "आप अभी-अभी अपना सूटकेस लेकर कैंपस पहुँचे हैं। हॉस्टल के रिसेप्शनिस्ट (AI) फ़्रंट डेस्क पर आपका स्वागत करते हैं।",
+    "vi": "Bạn vừa đến trường với chiếc vali. Nhân viên lễ tân ký túc xá (AI) chào bạn tại quầy.",
+    "id": "Kamu baru tiba di kampus dengan kopermu. Resepsionis asrama (AI) menyambutmu di meja depan.",
+    "ms": "Anda baru tiba di kampus dengan beg pakaian anda. Penyambut tetamu asrama (AI) menyapa anda di kaunter hadapan.",
+    "ko": "여행 가방을 들고 막 캠퍼스에 도착했습니다. 기숙사 안내 데스크 직원(AI)이 당신을 맞이합니다."
+  },
+  "mission": {
+    "native": "Check in, get your room key and ask how to connect to the Wi-Fi.",
+    "native_translations": {
+      "en": "Check in, get your room key and ask how to connect to the Wi-Fi.",
+      "es": "Regístrese, obtenga la llave de su habitación y pregunte cómo conectarse al wifi.",
+      "fr": "Enregistrez votre arrivée, récupérez la clé de votre chambre et demandez comment vous connecter au Wi-Fi.",
+      "de": "Checken Sie ein, holen Sie Ihren Zimmerschlüssel ab und fragen Sie, wie Sie sich mit dem WLAN verbinden.",
+      "it": "Fai il check-in, ritira la chiave della stanza e chiedi come collegarti al Wi-Fi.",
+      "pl": "Zamelduj się, odbierz klucz do pokoju i zapytaj, jak połączyć się z Wi-Fi.",
+      "pt": "Faça o check-in, pegue a chave do quarto e pergunte como se conectar ao Wi-Fi.",
+      "nl": "Check in, haal je kamersleutel op en vraag hoe je verbinding maakt met de wifi.",
+      "hr": "Prijavi se, preuzmi ključ sobe i pitaj kako se spojiti na Wi-Fi.",
+      "tr": "Giriş yapın, oda anahtarınızı alın ve Wi-Fi'ye nasıl bağlanacağınızı sorun.",
+      "uk": "Заселися, отримай ключ від кімнати й запитай, як підключитися до Wi-Fi.",
+      "ar": "سجّل وصولك، واحصل على مفتاح غرفتك، واسأل كيف تتصل بشبكة Wi-Fi.",
+      "hi": "चेक-इन कीजिए, अपने कमरे की चाबी लीजिए और पूछिए कि वाई-फ़ाई से कैसे जुड़ें।",
+      "vi": "Làm thủ tục nhận phòng, lấy chìa khóa và hỏi cách kết nối Wi-Fi.",
+      "id": "Lakukan check-in, ambil kunci kamarmu, dan tanyakan cara tersambung ke Wi-Fi.",
+      "ms": "Daftar masuk, dapatkan kunci bilik anda dan tanya cara menyambung ke Wi-Fi.",
+      "ko": "체크인하고, 방 열쇠를 받고, 와이파이 연결 방법을 물어보세요."
+    },
+    "practice": "Regístrese, obtenga la llave de su habitación y pregunte cómo conectarse al wifi.",
+    "practice_translations": {
+      "en": "Check in, get your room key and ask how to connect to the Wi-Fi.",
+      "es": "Regístrese, obtenga la llave de su habitación y pregunte cómo conectarse al wifi.",
+      "ja": "チェックインして部屋の鍵を受け取り、Wi-Fiへの接続方法を聞いてください。",
+      "ko": "체크인하고, 방 열쇠를 받고, 와이파이 연결 방법을 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Give your name and say you just arrived",
+        "native_translations": {
+          "en": "Give your name and say you just arrived",
+          "es": "Dé su nombre y diga que acaba de llegar",
+          "fr": "Donnez votre nom et dites que vous venez d'arriver",
+          "de": "Nennen Sie Ihren Namen und sagen Sie, dass Sie gerade angekommen sind",
+          "it": "Di' il tuo nome e che sei appena arrivato",
+          "pl": "Podaj swoje nazwisko i powiedz, że właśnie przyjechałeś",
+          "pt": "Diga seu nome e que você acabou de chegar",
+          "nl": "Geef je naam en zeg dat je net bent aangekomen",
+          "hr": "Reci svoje ime i da tek dolaziš",
+          "tr": "Adınızı verin ve yeni geldiğinizi söyleyin",
+          "uk": "Назви своє ім'я й скажи, що ти щойно з дороги",
+          "ar": "قل اسمك وأنك وصلت للتوّ",
+          "hi": "अपना नाम बताइए और कहिए कि आप अभी पहुँचे हैं",
+          "vi": "Nói tên và cho biết bạn vừa đến",
+          "id": "Sebutkan namamu dan katakan bahwa kamu baru tiba",
+          "ms": "Berikan nama anda dan katakan anda baru tiba",
+          "ko": "이름을 말하고 방금 도착했다고 말하세요"
+        },
+        "practice": "Dé su nombre y diga que acaba de llegar",
+        "practice_translations": {
+          "en": "Give your name and say you just arrived",
+          "es": "Dé su nombre y diga que acaba de llegar",
+          "ja": "名前を伝えて、今着いたところだと言ってください",
+          "ko": "이름을 말하고 방금 도착했다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask for your room key",
+        "native_translations": {
+          "en": "Ask for your room key",
+          "es": "Pida la llave de su habitación",
+          "fr": "Demandez la clé de votre chambre",
+          "de": "Bitten Sie um Ihren Zimmerschlüssel",
+          "it": "Chiedi la chiave della stanza",
+          "pl": "Poproś o klucz do pokoju",
+          "pt": "Peça a chave do seu quarto",
+          "nl": "Vraag om je kamersleutel",
+          "hr": "Zatraži ključ svoje sobe",
+          "tr": "Oda anahtarınızı isteyin",
+          "uk": "Попроси ключ від кімнати",
+          "ar": "اطلب مفتاح غرفتك",
+          "hi": "अपने कमरे की चाबी माँगिए",
+          "vi": "Xin chìa khóa phòng",
+          "id": "Minta kunci kamarmu",
+          "ms": "Minta kunci bilik anda",
+          "ko": "방 열쇠를 달라고 하세요"
+        },
+        "practice": "Pida la llave de su habitación",
+        "practice_translations": {
+          "en": "Ask for your room key",
+          "es": "Pida la llave de su habitación",
+          "ja": "部屋の鍵をお願いしてください",
+          "ko": "방 열쇠를 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how to connect to the Wi-Fi",
+        "native_translations": {
+          "en": "Ask how to connect to the Wi-Fi",
+          "es": "Pregunte cómo conectarse al wifi",
+          "fr": "Demandez comment vous connecter au Wi-Fi",
+          "de": "Fragen Sie, wie Sie sich mit dem WLAN verbinden",
+          "it": "Chiedi come collegarti al Wi-Fi",
+          "pl": "Zapytaj, jak połączyć się z Wi-Fi",
+          "pt": "Pergunte como se conectar ao Wi-Fi",
+          "nl": "Vraag hoe je verbinding maakt met de wifi",
+          "hr": "Pitaj kako se spojiti na Wi-Fi",
+          "tr": "Wi-Fi'ye nasıl bağlanacağınızı sorun",
+          "uk": "Запитай, як підключитися до Wi-Fi",
+          "ar": "اسأل كيف تتصل بشبكة Wi-Fi",
+          "hi": "पूछिए कि वाई-फ़ाई से कैसे जुड़ें",
+          "vi": "Hỏi cách kết nối Wi-Fi",
+          "id": "Tanyakan cara tersambung ke Wi-Fi",
+          "ms": "Tanya cara menyambung ke Wi-Fi",
+          "ko": "와이파이 연결 방법을 물어보세요"
+        },
+        "practice": "Pregunte cómo conectarse al wifi",
+        "practice_translations": {
+          "en": "Ask how to connect to the Wi-Fi",
+          "es": "Pregunte cómo conectarse al wifi",
+          "ja": "Wi-Fiへの接続方法を聞いてください",
+          "ko": "와이파이 연결 방법을 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I'm a new international student. I'm here to check in.",
+      "native_translations": {
+        "en": "Hi, I'm a new international student. I'm here to check in.",
+        "es": "Hola, soy estudiante internacional de nuevo ingreso. Vengo a registrarme.",
+        "fr": "Bonjour, je suis un nouvel étudiant international. Je viens m'enregistrer.",
+        "de": "Hallo, ich bin ein neuer internationaler Student. Ich möchte einchecken.",
+        "it": "Ciao, sono un nuovo studente internazionale. Devo fare il check-in.",
+        "pl": "Dzień dobry, jestem nowym studentem z zagranicy. Chciałbym się zameldować.",
+        "pt": "Oi, sou um novo aluno internacional. Vim fazer o check-in.",
+        "nl": "Hoi, ik ben een nieuwe internationale student. Ik kom inchecken.",
+        "hr": "Dobar dan, dolazim na studij iz inozemstva i trebam se prijaviti.",
+        "tr": "Merhaba, yeni bir uluslararası öğrenciyim. Giriş yapmak için geldim.",
+        "uk": "Привіт, я новий іноземний студент. Я приїхав заселитися.",
+        "ar": "مرحبًا، أنا طالب دولي جديد. جئت لتسجيل الوصول.",
+        "hi": "नमस्ते, मैं एक नया इंटरनेशनल स्टूडेंट हूँ। मैं चेक-इन करने आया हूँ।",
+        "vi": "Chào anh/chị, tôi là sinh viên quốc tế mới. Tôi đến để nhận phòng.",
+        "id": "Halo, saya mahasiswa internasional baru. Saya mau check-in.",
+        "ms": "Hai, saya pelajar antarabangsa baharu. Saya datang untuk mendaftar masuk.",
+        "ko": "안녕하세요, 새로 온 유학생이에요. 체크인하러 왔어요."
+      },
+      "practice": "Hola, soy estudiante internacional de nuevo ingreso. Vengo a registrarme.",
+      "practice_translations": {
+        "en": "Hi, I'm a new international student. I'm here to check in.",
+        "es": "Hola, soy estudiante internacional de nuevo ingreso. Vengo a registrarme.",
+        "ja": "こんにちは、新しい留学生です。チェックインをお願いします。",
+        "ko": "안녕하세요, 새로 온 유학생이에요. 체크인하러 왔어요."
+      }
+    },
+    {
+      "native": "Could I have my room key, please?",
+      "native_translations": {
+        "en": "Could I have my room key, please?",
+        "es": "¿Me podría dar la llave de mi habitación, por favor?",
+        "fr": "Pourrais-je avoir la clé de ma chambre, s'il vous plaît ?",
+        "de": "Könnte ich bitte meinen Zimmerschlüssel bekommen?",
+        "it": "Potrei avere la chiave della mia stanza, per favore?",
+        "pl": "Czy mogę prosić o klucz do pokoju?",
+        "pt": "Você poderia me dar a chave do meu quarto, por favor?",
+        "nl": "Mag ik mijn kamersleutel?",
+        "hr": "Mogu li dobiti ključ sobe, molim?",
+        "tr": "Oda anahtarımı alabilir miyim, lütfen?",
+        "uk": "Можна мені ключ від кімнати, будь ласка?",
+        "ar": "هل يمكنني الحصول على مفتاح غرفتي، من فضلك؟",
+        "hi": "क्या मुझे अपने कमरे की चाबी मिल सकती है, प्लीज़?",
+        "vi": "Cho tôi xin chìa khóa phòng được không?",
+        "id": "Boleh saya minta kunci kamar saya?",
+        "ms": "Boleh saya dapatkan kunci bilik saya?",
+        "ko": "방 열쇠를 받을 수 있을까요?"
+      },
+      "practice": "¿Me podría dar la llave de mi habitación, por favor?",
+      "practice_translations": {
+        "en": "Could I have my room key, please?",
+        "es": "¿Me podría dar la llave de mi habitación, por favor?",
+        "ja": "部屋の鍵をいただけますか。",
+        "ko": "방 열쇠를 받을 수 있을까요?"
+      }
+    },
+    {
+      "native": "What's the Wi-Fi password?",
+      "native_translations": {
+        "en": "What's the Wi-Fi password?",
+        "es": "¿Cuál es la contraseña del wifi?",
+        "fr": "Quel est le mot de passe du Wi-Fi ?",
+        "de": "Wie lautet das WLAN-Passwort?",
+        "it": "Qual è la password del Wi-Fi?",
+        "pl": "Jakie jest hasło do Wi-Fi?",
+        "pt": "Qual é a senha do Wi-Fi?",
+        "nl": "Wat is het wifiwachtwoord?",
+        "hr": "Koja je lozinka za Wi-Fi?",
+        "tr": "Wi-Fi şifresi ne?",
+        "uk": "Який пароль від Wi-Fi?",
+        "ar": "ما كلمة مرور شبكة Wi-Fi؟",
+        "hi": "वाई-फ़ाई का पासवर्ड क्या है?",
+        "vi": "Mật khẩu Wi-Fi là gì vậy?",
+        "id": "Apa kata sandi Wi-Fi-nya?",
+        "ms": "Apakah kata laluan Wi-Fi?",
+        "ko": "와이파이 비밀번호가 뭐예요?"
+      },
+      "practice": "¿Cuál es la contraseña del wifi?",
+      "practice_translations": {
+        "en": "What's the Wi-Fi password?",
+        "es": "¿Cuál es la contraseña del wifi?",
+        "ja": "Wi-Fiのパスワードは何ですか。",
+        "ko": "와이파이 비밀번호가 뭐예요?"
+      }
+    },
+    {
+      "native": "Where is the laundry room?",
+      "native_translations": {
+        "en": "Where is the laundry room?",
+        "es": "¿Dónde está la lavandería?",
+        "fr": "Où se trouve la laverie ?",
+        "de": "Wo ist der Waschraum?",
+        "it": "Dov'è la lavanderia?",
+        "pl": "Gdzie jest pralnia?",
+        "pt": "Onde fica a lavanderia?",
+        "nl": "Waar is de wasruimte?",
+        "hr": "Gdje je praonica rublja?",
+        "tr": "Çamaşırhane nerede?",
+        "uk": "Де тут пральня?",
+        "ar": "أين غرفة الغسيل؟",
+        "hi": "लॉन्ड्री रूम कहाँ है?",
+        "vi": "Phòng giặt đồ ở đâu ạ?",
+        "id": "Di mana ruang cuci?",
+        "ms": "Di manakah bilik dobi?",
+        "ko": "세탁실은 어디에 있어요?"
+      },
+      "practice": "¿Dónde está la lavandería?",
+      "practice_translations": {
+        "en": "Where is the laundry room?",
+        "es": "¿Dónde está la lavandería?",
+        "ja": "ランドリールームはどこですか。",
+        "ko": "세탁실은 어디에 있어요?"
+      }
+    },
+    {
+      "native": "Thank you so much for your help.",
+      "native_translations": {
+        "en": "Thank you so much for your help.",
+        "es": "Muchas gracias por su ayuda.",
+        "fr": "Merci beaucoup pour votre aide.",
+        "de": "Vielen Dank für Ihre Hilfe.",
+        "it": "Grazie mille per l'aiuto.",
+        "pl": "Bardzo dziękuję za pomoc.",
+        "pt": "Muito obrigado pela ajuda.",
+        "nl": "Heel erg bedankt voor je hulp.",
+        "hr": "Puno Vam hvala na pomoći.",
+        "tr": "Yardımınız için çok teşekkür ederim.",
+        "uk": "Щиро дякую за допомогу.",
+        "ar": "شكرًا جزيلًا على مساعدتك.",
+        "hi": "आपकी मदद के लिए बहुत-बहुत धन्यवाद।",
+        "vi": "Cảm ơn anh/chị rất nhiều vì đã giúp đỡ.",
+        "id": "Terima kasih banyak atas bantuannya.",
+        "ms": "Terima kasih banyak atas bantuan anda.",
+        "ko": "도와주셔서 정말 감사해요."
+      },
+      "practice": "Muchas gracias por su ayuda.",
+      "practice_translations": {
+        "en": "Thank you so much for your help.",
+        "es": "Muchas gracias por su ayuda.",
+        "ja": "助けていただいて、本当にありがとうございます。",
+        "ko": "도와주셔서 정말 감사해요."
+      }
+    }
+  ]
+}

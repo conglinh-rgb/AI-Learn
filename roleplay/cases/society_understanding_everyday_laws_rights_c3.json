@@ -1,0 +1,351 @@
+{
+  "id": "society_understanding_everyday_laws_rights_c3",
+  "title": "The Deposit That Never Came Back",
+  "title_translations": {
+    "en": "The Deposit That Never Came Back",
+    "es": "El depósito que nunca volvió",
+    "fr": "La caution jamais rendue",
+    "de": "Die Kaution, die nie zurückkam",
+    "it": "La caparra mai restituita",
+    "pl": "Kaucja, która nigdy nie wróciła",
+    "pt": "O depósito que nunca voltou",
+    "nl": "De borg die nooit terugkwam",
+    "hr": "Polog koji se nikad nije vratio",
+    "tr": "Geri Gelmeyen Depozito",
+    "uk": "Застава, яку так і не повернули",
+    "ar": "التأمين الذي لم يُردّ أبدًا",
+    "hi": "सिक्योरिटी डिपॉज़िट जो कभी वापस नहीं आया",
+    "vi": "Khoản tiền cọc một đi không trở lại",
+    "id": "Uang Jaminan yang Tak Pernah Kembali",
+    "ms": "Deposit yang Tak Kunjung Kembali",
+    "ko": "돌아오지 않는 보증금"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You moved out of your apartment a month ago and left it clean, but your former landlord (AI) is refusing to return your security deposit.",
+  "scenario_translations": {
+    "en": "You moved out of your apartment a month ago and left it clean, but your former landlord (AI) is refusing to return your security deposit.",
+    "es": "Se mudó de su departamento hace un mes y lo dejó limpio, pero su antiguo arrendador (AI) se niega a devolverle el depósito de garantía.",
+    "fr": "Vous avez quitté votre appartement il y a un mois en le laissant propre, mais votre ancien propriétaire (AI) refuse de vous rendre votre dépôt de garantie.",
+    "de": "Sie sind vor einem Monat aus Ihrer Wohnung ausgezogen und haben sie sauber hinterlassen, aber Ihr ehemaliger Vermieter (AI) weigert sich, Ihnen die Kaution zurückzuzahlen.",
+    "it": "Hai lasciato il tuo appartamento un mese fa, pulito e in ordine, ma il tuo ex padrone di casa (AI) si rifiuta di restituirti la caparra.",
+    "pl": "Miesiąc temu wyprowadziłeś się z mieszkania i zostawiłeś je czyste, ale twój były wynajmujący (AI) odmawia zwrotu kaucji.",
+    "pt": "Você saiu do seu apartamento há um mês e o deixou limpo, mas seu antigo proprietário (AI) se recusa a devolver o depósito caução.",
+    "nl": "Je bent een maand geleden uit je appartement vertrokken en hebt het schoon achtergelaten, maar je voormalige verhuurder (AI) weigert je borg terug te betalen.",
+    "hr": "Stan je prije mjesec dana ostao iza tebe čist, ali tvoj bivši stanodavac (AI) odbija ti vratiti polog.",
+    "tr": "Bir ay önce dairenizden temiz bir şekilde taşındınız ama eski ev sahibiniz (AI) depozitonuzu geri vermeyi reddediyor.",
+    "uk": "Місяць тому закінчилася твоя оренда, квартиру залишено чистою, але колишній орендодавець (AI) відмовляється повертати заставу.",
+    "ar": "انتقلت من شقتك قبل شهر وتركتها نظيفة، لكن مالكها السابق (AI) يرفض إعادة مبلغ التأمين إليك.",
+    "hi": "आपने एक महीने पहले अपना अपार्टमेंट साफ़-सुथरा छोड़ा था, लेकिन आपके पुराने मकान-मालिक (AI) आपका सिक्योरिटी डिपॉज़िट लौटाने से मना कर रहे हैं।",
+    "vi": "Bạn đã dọn khỏi căn hộ một tháng trước và để lại nhà sạch sẽ, nhưng chủ nhà cũ (AI) lại không chịu trả tiền cọc.",
+    "id": "Kamu pindah dari apartemenmu sebulan lalu dan meninggalkannya dalam keadaan bersih, tapi mantan pemilik apartemenmu (AI) menolak mengembalikan uang jaminanmu.",
+    "ms": "Anda berpindah keluar dari apartmen sebulan yang lalu dan meninggalkannya dalam keadaan bersih, tetapi bekas tuan rumah anda (AI) enggan memulangkan deposit keselamatan anda.",
+    "ko": "한 달 전에 아파트를 깨끗하게 정리하고 이사 나왔는데, 전 집주인(AI)이 보증금을 돌려주지 않고 있습니다."
+  },
+  "mission": {
+    "native": "Politely but firmly ask for your deposit, answer the landlord's claims and agree on a solution.",
+    "native_translations": {
+      "en": "Politely but firmly ask for your deposit, answer the landlord's claims and agree on a solution.",
+      "es": "Pida su depósito con cortesía pero con firmeza, responda a los reclamos del arrendador y acuerden una solución.",
+      "fr": "Réclamez votre caution poliment mais fermement, répondez aux arguments du propriétaire et mettez-vous d'accord sur une solution.",
+      "de": "Fordern Sie Ihre Kaution höflich, aber bestimmt zurück, reagieren Sie auf die Vorwürfe des Vermieters und einigen Sie sich auf eine Lösung.",
+      "it": "Chiedi la caparra con cortesia ma con fermezza, rispondi alle obiezioni del padrone di casa e concordate una soluzione.",
+      "pl": "Grzecznie, ale stanowczo poproś o kaucję, odpowiedz na zarzuty wynajmującego i ustalcie rozwiązanie.",
+      "pt": "Peça seu depósito com educação, mas com firmeza, responda às alegações do proprietário e cheguem a uma solução.",
+      "nl": "Vraag beleefd maar stellig om je borg, reageer op de beweringen van de verhuurder en spreek een oplossing af.",
+      "hr": "Pristojno, ali odlučno zatraži svoj polog, odgovori na stanodavčeve tvrdnje i dogovori rješenje.",
+      "tr": "Depozitonuzu kibar ama kararlı bir şekilde isteyin, ev sahibinin iddialarına cevap verin ve bir çözümde anlaşın.",
+      "uk": "Ввічливо, але твердо попроси повернути заставу, відповідай на претензії орендодавця й домовтеся про рішення.",
+      "ar": "اطلب مبلغ التأمين بأدب وحزم، وردّ على ادعاءات المالك، واتفقا على حلّ.",
+      "hi": "विनम्र लेकिन मज़बूती से अपना डिपॉज़िट माँगिए, मकान-मालिक के दावों का जवाब दीजिए और किसी हल पर सहमत होइए।",
+      "vi": "Lịch sự nhưng kiên quyết đòi lại tiền cọc, đáp lại các lý lẽ của chủ nhà và thống nhất giải pháp.",
+      "id": "Minta uang jaminanmu dengan sopan tapi tegas, tanggapi klaim pemilik, dan sepakati solusinya.",
+      "ms": "Minta deposit anda dengan sopan tetapi tegas, jawab dakwaan tuan rumah dan setuju dengan satu penyelesaian.",
+      "ko": "정중하지만 단호하게 보증금을 요구하고, 집주인의 주장에 답한 뒤 해결책에 합의하세요."
+    },
+    "practice": "Pida su depósito con cortesía pero con firmeza, responda a los reclamos del arrendador y acuerden una solución.",
+    "practice_translations": {
+      "en": "Politely but firmly ask for your deposit, answer the landlord's claims and agree on a solution.",
+      "es": "Pida su depósito con cortesía pero con firmeza, responda a los reclamos del arrendador y acuerden una solución.",
+      "ja": "丁寧に、でもきっぱりと敷金の返還を求め、大家さんの主張に答えて、解決策を決めてください。",
+      "ko": "정중하지만 단호하게 보증금을 요구하고, 집주인의 주장에 답한 뒤 해결책에 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask when you will get your deposit back",
+        "native_translations": {
+          "en": "Ask when you will get your deposit back",
+          "es": "Pregunte cuándo le devolverán el depósito",
+          "fr": "Demandez quand vous récupérerez votre caution",
+          "de": "Fragen Sie, wann Sie Ihre Kaution zurückbekommen",
+          "it": "Chiedi quando ti restituirà la caparra",
+          "pl": "Zapytaj, kiedy dostaniesz zwrot kaucji",
+          "pt": "Pergunte quando você vai receber o depósito de volta",
+          "nl": "Vraag wanneer je je borg terugkrijgt",
+          "hr": "Pitaj kada ćeš dobiti polog natrag",
+          "tr": "Depozitonuzu ne zaman geri alacağınızı sorun",
+          "uk": "Запитай, коли тобі повернуть заставу",
+          "ar": "اسأل متى ستستردّ مبلغ التأمين",
+          "hi": "पूछिए कि आपका डिपॉज़िट कब वापस मिलेगा",
+          "vi": "Hỏi khi nào bạn được nhận lại tiền cọc",
+          "id": "Tanyakan kapan uang jaminanmu akan dikembalikan",
+          "ms": "Tanya bila anda akan mendapat semula deposit anda",
+          "ko": "보증금을 언제 돌려받을 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte cuándo le devolverán el depósito",
+        "practice_translations": {
+          "en": "Ask when you will get your deposit back",
+          "es": "Pregunte cuándo le devolverán el depósito",
+          "ja": "敷金がいつ返ってくるか聞いてください",
+          "ko": "보증금을 언제 돌려받을 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say you left the apartment in good condition",
+        "native_translations": {
+          "en": "Say you left the apartment in good condition",
+          "es": "Diga que dejó el apartamento en buen estado",
+          "fr": "Dites que vous avez laissé l'appartement en bon état",
+          "de": "Sagen Sie, dass Sie die Wohnung in gutem Zustand hinterlassen haben",
+          "it": "Di' che hai lasciato l'appartamento in buone condizioni",
+          "pl": "Powiedz, że zostawiłeś mieszkanie w dobrym stanie",
+          "pt": "Diga que você deixou o apartamento em bom estado",
+          "nl": "Zeg dat je het appartement in goede staat hebt achtergelaten",
+          "hr": "Reci da je stan ostao u dobrom stanju",
+          "tr": "Daireyi iyi durumda bıraktığınızı söyleyin",
+          "uk": "Скажи, що квартира залишилася в хорошому стані",
+          "ar": "قل إنك تركت الشقة في حالة جيدة",
+          "hi": "बताइए कि आपने अपार्टमेंट अच्छी हालत में छोड़ा था",
+          "vi": "Nói rằng bạn đã để lại căn hộ trong tình trạng tốt",
+          "id": "Katakan bahwa kamu meninggalkan apartemen dalam kondisi baik",
+          "ms": "Katakan anda meninggalkan apartmen dalam keadaan baik",
+          "ko": "아파트를 좋은 상태로 두고 나왔다고 말하세요"
+        },
+        "practice": "Diga que dejó el apartamento en buen estado",
+        "practice_translations": {
+          "en": "Say you left the apartment in good condition",
+          "es": "Diga que dejó el apartamento en buen estado",
+          "ja": "部屋をきれいな状態で出たと伝えてください",
+          "ko": "아파트를 좋은 상태로 두고 나왔다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask for a written list of the deductions",
+        "native_translations": {
+          "en": "Ask for a written list of the deductions",
+          "es": "Pida una lista escrita de los descuentos",
+          "fr": "Demandez une liste écrite des retenues",
+          "de": "Bitten Sie um eine schriftliche Aufstellung der Abzüge",
+          "it": "Chiedi un elenco scritto delle trattenute",
+          "pl": "Poproś o pisemną listę potrąceń",
+          "pt": "Peça uma lista por escrito dos descontos",
+          "nl": "Vraag om een schriftelijke lijst van de inhoudingen",
+          "hr": "Zatraži pisani popis odbitaka",
+          "tr": "Kesintilerin yazılı bir listesini isteyin",
+          "uk": "Попроси письмовий перелік утримань",
+          "ar": "اطلب قائمة مكتوبة بالخصومات",
+          "hi": "कटौतियों की लिखित सूची माँगिए",
+          "vi": "Yêu cầu danh sách các khoản khấu trừ bằng văn bản",
+          "id": "Minta daftar potongan secara tertulis",
+          "ms": "Minta senarai potongan secara bertulis",
+          "ko": "공제 내역을 서면으로 달라고 하세요"
+        },
+        "practice": "Pida una lista escrita de los descuentos",
+        "practice_translations": {
+          "en": "Ask for a written list of the deductions",
+          "es": "Pida una lista escrita de los descuentos",
+          "ja": "差し引かれる項目を書面で求めてください",
+          "ko": "공제 내역을 서면으로 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Propose a deadline for the refund",
+        "native_translations": {
+          "en": "Propose a deadline for the refund",
+          "es": "Proponga una fecha límite para el reembolso",
+          "fr": "Proposez une date limite pour le remboursement",
+          "de": "Schlagen Sie eine Frist für die Rückzahlung vor",
+          "it": "Proponi una scadenza per il rimborso",
+          "pl": "Zaproponuj termin zwrotu",
+          "pt": "Proponha um prazo para a devolução",
+          "nl": "Stel een deadline voor de terugbetaling voor",
+          "hr": "Predloži rok za povrat novca",
+          "tr": "İade için bir son tarih önerin",
+          "uk": "Запропонуй термін повернення коштів",
+          "ar": "اقترح موعدًا نهائيًا لاسترداد المبلغ",
+          "hi": "रिफ़ंड के लिए एक आख़िरी तारीख़ सुझाइए",
+          "vi": "Đề xuất hạn chót để hoàn tiền",
+          "id": "Usulkan tenggat waktu pengembalian dana",
+          "ms": "Cadangkan tarikh akhir untuk bayaran balik",
+          "ko": "환불 기한을 제안하세요"
+        },
+        "practice": "Proponga una fecha límite para el reembolso",
+        "practice_translations": {
+          "en": "Propose a deadline for the refund",
+          "es": "Proponga una fecha límite para el reembolso",
+          "ja": "返金の期限を提案してください",
+          "ko": "환불 기한을 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm calling about my security deposit.",
+      "native_translations": {
+        "en": "I'm calling about my security deposit.",
+        "es": "Le llamo por mi depósito de garantía.",
+        "fr": "J'appelle au sujet de mon dépôt de garantie.",
+        "de": "Ich rufe wegen meiner Kaution an.",
+        "it": "La chiamo per la mia caparra.",
+        "pl": "Dzwonię w sprawie mojej kaucji.",
+        "pt": "Estou ligando por causa do meu depósito caução.",
+        "nl": "Ik bel over mijn borg.",
+        "hr": "Zovem zbog svog pologa.",
+        "tr": "Depozitom hakkında arıyorum.",
+        "uk": "Я телефоную щодо своєї застави.",
+        "ar": "أتصل بخصوص مبلغ التأمين الخاص بي.",
+        "hi": "मैं अपने सिक्योरिटी डिपॉज़िट के बारे में फ़ोन कर रहा हूँ।",
+        "vi": "Tôi gọi để hỏi về khoản tiền cọc của tôi.",
+        "id": "Saya menelepon soal uang jaminan saya.",
+        "ms": "Saya menelefon tentang deposit keselamatan saya.",
+        "ko": "보증금 때문에 전화드렸어요."
+      },
+      "practice": "Le llamo por mi depósito de garantía.",
+      "practice_translations": {
+        "en": "I'm calling about my security deposit.",
+        "es": "Le llamo por mi depósito de garantía.",
+        "ja": "敷金のことでお電話しました。",
+        "ko": "보증금 때문에 전화드렸어요."
+      }
+    },
+    {
+      "native": "I took photos of the apartment when I moved out.",
+      "native_translations": {
+        "en": "I took photos of the apartment when I moved out.",
+        "es": "Tomé fotos del apartamento cuando me mudé.",
+        "fr": "J'ai pris des photos de l'appartement quand je suis parti.",
+        "de": "Ich habe beim Auszug Fotos von der Wohnung gemacht.",
+        "it": "Ho fatto delle foto all'appartamento quando me ne sono andato.",
+        "pl": "Zrobiłem zdjęcia mieszkania, kiedy się wyprowadzałem.",
+        "pt": "Tirei fotos do apartamento quando saí.",
+        "nl": "Ik heb foto's van het appartement gemaakt toen ik vertrok.",
+        "hr": "Imam fotografije stana s dana iseljenja.",
+        "tr": "Taşınırken dairenin fotoğraflarını çektim.",
+        "uk": "Коли я виїжджав, я сфотографував квартиру.",
+        "ar": "التقطت صورًا للشقة عندما غادرتها.",
+        "hi": "घर छोड़ते समय मैंने अपार्टमेंट की फ़ोटो ली थीं।",
+        "vi": "Tôi đã chụp ảnh căn hộ lúc dọn đi.",
+        "id": "Saya memotret apartemennya waktu pindah.",
+        "ms": "Saya ada mengambil gambar apartmen itu semasa saya berpindah keluar.",
+        "ko": "이사 나올 때 아파트 사진을 찍어 뒀어요."
+      },
+      "practice": "Tomé fotos del apartamento cuando me mudé.",
+      "practice_translations": {
+        "en": "I took photos of the apartment when I moved out.",
+        "es": "Tomé fotos del apartamento cuando me mudé.",
+        "ja": "退去するとき、部屋の写真を撮っておきました。",
+        "ko": "이사 나올 때 아파트 사진을 찍어 뒀어요."
+      }
+    },
+    {
+      "native": "That scratch was already there when I moved in.",
+      "native_translations": {
+        "en": "That scratch was already there when I moved in.",
+        "es": "Ese rayón ya estaba cuando llegué.",
+        "fr": "Cette rayure était déjà là quand je suis arrivé.",
+        "de": "Dieser Kratzer war schon da, als ich eingezogen bin.",
+        "it": "Quel graffio c'era già quando sono entrato.",
+        "pl": "Ta rysa była już, kiedy się wprowadzałem.",
+        "pt": "Esse arranhão já estava lá quando eu me mudei.",
+        "nl": "Die kras zat er al toen ik erin trok.",
+        "hr": "Ta ogrebotina postojala je već pri useljenju.",
+        "tr": "O çizik ben taşındığımda zaten vardı.",
+        "uk": "Ця подряпина вже була, коли я заїхав.",
+        "ar": "ذلك الخدش كان موجودًا عندما انتقلت إليها.",
+        "hi": "वह खरोंच तो मेरे आने के समय से ही थी।",
+        "vi": "Vết xước đó đã có từ lúc tôi dọn vào rồi.",
+        "id": "Goresan itu sudah ada waktu saya pindah masuk.",
+        "ms": "Calar itu memang sudah ada semasa saya mula masuk.",
+        "ko": "그 긁힌 자국은 제가 이사 들어왔을 때부터 있었어요."
+      },
+      "practice": "Ese rayón ya estaba cuando llegué.",
+      "practice_translations": {
+        "en": "That scratch was already there when I moved in.",
+        "es": "Ese rayón ya estaba cuando llegué.",
+        "ja": "その傷は、入居したときからありました。",
+        "ko": "그 긁힌 자국은 제가 이사 들어왔을 때부터 있었어요."
+      }
+    },
+    {
+      "native": "Could you send me the deductions in writing?",
+      "native_translations": {
+        "en": "Could you send me the deductions in writing?",
+        "es": "¿Podría enviarme los descuentos por escrito?",
+        "fr": "Pourriez-vous m'envoyer les retenues par écrit ?",
+        "de": "Könnten Sie mir die Abzüge schriftlich schicken?",
+        "it": "Potrebbe mandarmi le trattenute per iscritto?",
+        "pl": "Czy mógłby mi pan przesłać potrącenia na piśmie?",
+        "pt": "Você poderia me enviar os descontos por escrito?",
+        "nl": "Kunt u me de inhoudingen op papier sturen?",
+        "hr": "Možete li mi poslati odbitke u pisanom obliku?",
+        "tr": "Kesintileri bana yazılı olarak gönderebilir misiniz?",
+        "uk": "Могли б ви надіслати мені перелік утримань письмово?",
+        "ar": "هل يمكنك أن ترسل لي الخصومات كتابيًا؟",
+        "hi": "क्या आप मुझे कटौतियाँ लिखकर भेज सकते हैं?",
+        "vi": "Anh/chị có thể gửi cho tôi các khoản khấu trừ bằng văn bản không?",
+        "id": "Bisa kirimkan rincian potongannya secara tertulis?",
+        "ms": "Boleh anda hantar senarai potongan itu secara bertulis?",
+        "ko": "공제 내역을 서면으로 보내 주실 수 있어요?"
+      },
+      "practice": "¿Podría enviarme los descuentos por escrito?",
+      "practice_translations": {
+        "en": "Could you send me the deductions in writing?",
+        "es": "¿Podría enviarme los descuentos por escrito?",
+        "ja": "差し引かれる項目を書面で送っていただけますか。",
+        "ko": "공제 내역을 서면으로 보내 주실 수 있어요?"
+      }
+    },
+    {
+      "native": "I'd like the refund by the end of the month.",
+      "native_translations": {
+        "en": "I'd like the refund by the end of the month.",
+        "es": "Me gustaría recibir el reembolso antes de fin de mes.",
+        "fr": "J'aimerais être remboursé d'ici la fin du mois.",
+        "de": "Ich hätte das Geld gern bis Ende des Monats zurück.",
+        "it": "Vorrei ricevere il rimborso entro la fine del mese.",
+        "pl": "Chciałbym dostać zwrot do końca miesiąca.",
+        "pt": "Gostaria de receber a devolução até o fim do mês.",
+        "nl": "Ik wil het bedrag graag voor het einde van de maand terug hebben.",
+        "hr": "Očekujem povrat novca do kraja mjeseca.",
+        "tr": "İadenin ay sonuna kadar yapılmasını istiyorum.",
+        "uk": "Я хотів би отримати гроші до кінця місяця.",
+        "ar": "أرغب في استرداد المبلغ بحلول نهاية الشهر.",
+        "hi": "मुझे महीने के आख़िर तक रिफ़ंड चाहिए।",
+        "vi": "Tôi muốn được hoàn tiền trước cuối tháng.",
+        "id": "Saya ingin uangnya dikembalikan paling lambat akhir bulan.",
+        "ms": "Saya mahu bayaran balik itu sebelum hujung bulan.",
+        "ko": "이번 달 말까지 환불해 주셨으면 해요."
+      },
+      "practice": "Me gustaría recibir el reembolso antes de fin de mes.",
+      "practice_translations": {
+        "en": "I'd like the refund by the end of the month.",
+        "es": "Me gustaría recibir el reembolso antes de fin de mes.",
+        "ja": "今月末までに返金していただきたいです。",
+        "ko": "이번 달 말까지 환불해 주셨으면 해요."
+      }
+    }
+  ]
+}

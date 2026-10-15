@@ -1,0 +1,351 @@
+{
+  "id": "travel_airport_immigration_c3",
+  "title": "The Suitcase That Never Arrived",
+  "title_translations": {
+    "en": "The Suitcase That Never Arrived",
+    "es": "La maleta que nunca llegó",
+    "fr": "La valise qui n'est jamais arrivée",
+    "de": "Der Koffer, der nie ankam",
+    "it": "La valigia che non è mai arrivata",
+    "pl": "Walizka, która nigdy nie dotarła",
+    "pt": "A mala que nunca chegou",
+    "nl": "De koffer die nooit aankwam",
+    "hr": "Kovčeg koji nikad nije stigao",
+    "tr": "Hiç Gelmeyen Bavul",
+    "uk": "Валіза, яка так і не прибула",
+    "ar": "الحقيبة التي لم تصل أبدًا",
+    "hi": "वह सूटकेस जो कभी आया ही नहीं",
+    "vi": "Chiếc vali không bao giờ tới",
+    "id": "Koper yang Tak Pernah Datang",
+    "ms": "Beg Pakaian yang Tak Pernah Sampai",
+    "ko": "끝내 나오지 않은 여행 가방"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your suitcase never came out at baggage claim. The lost luggage agent (AI) says it could take days and seems in no hurry to help.",
+  "scenario_translations": {
+    "en": "Your suitcase never came out at baggage claim. The lost luggage agent (AI) says it could take days and seems in no hurry to help.",
+    "es": "Su maleta nunca salió en la banda de equipaje. El agente de equipaje extraviado (AI) dice que podría tardar días y no parece tener prisa por ayudarle.",
+    "fr": "Votre valise n'est jamais sortie sur le tapis à bagages. L'agent du service des bagages perdus (AI) dit que cela pourrait prendre des jours et ne semble pas pressé de vous aider.",
+    "de": "Ihr Koffer ist an der Gepäckausgabe nie aufgetaucht. Der Mitarbeiter der Gepäckermittlung (AI) sagt, es könne Tage dauern, und scheint es mit der Hilfe nicht eilig zu haben.",
+    "it": "La tua valigia non è mai uscita al ritiro bagagli. L'addetto ai bagagli smarriti (AI) dice che potrebbero volerci giorni e non sembra avere fretta di aiutarti.",
+    "pl": "Twoja walizka nie pojawiła się na taśmie z bagażami. Pracownik biura bagażu zagubionego (AI) mówi, że to może potrwać kilka dni, i wcale nie spieszy się z pomocą.",
+    "pt": "Sua mala nunca apareceu na esteira de bagagens. O atendente de bagagens extraviadas (AI) diz que pode levar dias e não parece ter pressa em ajudar.",
+    "nl": "Je koffer is nooit op de bagageband verschenen. De medewerker van de afdeling verloren bagage (AI) zegt dat het dagen kan duren en lijkt geen haast te hebben om te helpen.",
+    "hr": "Tvoj kovčeg nikad se nije pojavio na traci za prtljagu. Službenik za izgubljenu prtljagu (AI) kaže da bi moglo potrajati danima i ne žuri mu se pomoći.",
+    "tr": "Bavulunuz bagaj alım bandından hiç çıkmadı. Kayıp bagaj görevlisi (AI) bunun günler sürebileceğini söylüyor ve yardım etmek için hiç acele etmiyor gibi.",
+    "uk": "Твоя валіза так і не з'явилася на видачі багажу. Працівник служби розшуку багажу (AI) каже, що це може тривати кілька днів, і не надто поспішає допомогти.",
+    "ar": "لم تظهر حقيبتك أبدًا عند استلام الأمتعة. يقول موظف الأمتعة المفقودة (AI) إن الأمر قد يستغرق أيامًا ويبدو أنه ليس في عجلة لمساعدتك.",
+    "hi": "बैगेज क्लेम पर आपका सूटकेस निकला ही नहीं। खोए सामान वाले एजेंट (AI) कहते हैं कि इसमें कई दिन लग सकते हैं और उन्हें मदद करने की कोई जल्दी नहीं लगती।",
+    "vi": "Vali của bạn không hề xuất hiện ở băng chuyền hành lý. Nhân viên phụ trách hành lý thất lạc (AI) nói có thể mất vài ngày và có vẻ chẳng vội giúp bạn.",
+    "id": "Kopermu tidak pernah keluar di tempat pengambilan bagasi. Petugas bagasi hilang (AI) bilang prosesnya bisa berhari-hari dan tampak tidak terburu-buru membantu.",
+    "ms": "Beg pakaian anda tidak keluar di tempat tuntutan bagasi. Ejen bagasi hilang (AI) berkata ia mungkin mengambil masa beberapa hari dan nampak tidak tergesa-gesa untuk membantu.",
+    "ko": "수하물 찾는 곳에서 여행 가방이 끝내 나오지 않았습니다. 분실 수하물 담당 직원(AI)은 며칠 걸릴 수 있다며 서두를 생각이 없어 보입니다."
+  },
+  "mission": {
+    "native": "Report your lost bag, describe it in detail and insist on help with essentials until it arrives.",
+    "native_translations": {
+      "en": "Report your lost bag, describe it in detail and insist on help with essentials until it arrives.",
+      "es": "Reporte su maleta perdida, descríbala con detalle e insista en recibir ayuda con lo básico hasta que llegue.",
+      "fr": "Signalez la perte de votre bagage, décrivez-le en détail et insistez pour obtenir de l'aide pour l'essentiel en attendant.",
+      "de": "Melden Sie Ihr verlorenes Gepäck, beschreiben Sie es genau und bestehen Sie auf Unterstützung für das Nötigste, bis es ankommt.",
+      "it": "Denuncia lo smarrimento del bagaglio, descrivilo nei dettagli e insisti per avere un aiuto per le cose essenziali finché non arriva.",
+      "pl": "Zgłoś zaginięcie bagażu, opisz go dokładnie i domagaj się pomocy w zakupie niezbędnych rzeczy do czasu, aż się znajdzie.",
+      "pt": "Registre o extravio da mala, descreva-a em detalhes e insista em receber ajuda com o essencial até ela chegar.",
+      "nl": "Meld je verloren koffer, beschrijf hem in detail en sta erop dat je hulp krijgt voor de eerste levensbehoeften tot hij er is.",
+      "hr": "Prijavi izgubljenu prtljagu, detaljno je opiši i inzistiraj na pomoći za osnovne potrepštine dok ne stigne.",
+      "tr": "Kayıp bavulunuzu bildirin, ayrıntılı olarak tarif edin ve bavul gelene kadar temel ihtiyaçlarınız için yardım konusunda ısrar edin.",
+      "uk": "Повідом про втрату багажу, детально опиши валізу й наполягай на допомозі з найнеобхіднішим, доки її не знайдуть.",
+      "ar": "أبلغ عن حقيبتك المفقودة، وصِفها بالتفصيل، وأصرّ على الحصول على مساعدة لشراء الضروريات حتى تصل.",
+      "hi": "अपने खोए बैग की शिकायत कीजिए, उसका पूरा ब्योरा दीजिए और उसके आने तक ज़रूरी चीज़ों के लिए मदद पर ज़ोर दीजिए।",
+      "vi": "Báo mất hành lý, mô tả chi tiết và yêu cầu hỗ trợ đồ dùng thiết yếu cho đến khi tìm thấy vali.",
+      "id": "Laporkan tasmu yang hilang, jelaskan ciri-cirinya secara rinci, dan desak bantuan untuk kebutuhan pokok sampai tasnya datang.",
+      "ms": "Laporkan beg anda yang hilang, terangkan dengan terperinci dan desak bantuan untuk keperluan asas sehingga ia tiba.",
+      "ko": "가방 분실을 신고하고, 자세히 설명하고, 가방이 올 때까지 필수품에 대한 지원을 강하게 요구하세요."
+    },
+    "practice": "Reporte su maleta perdida, descríbala con detalle e insista en recibir ayuda con lo básico hasta que llegue.",
+    "practice_translations": {
+      "en": "Report your lost bag, describe it in detail and insist on help with essentials until it arrives.",
+      "es": "Reporte su maleta perdida, descríbala con detalle e insista en recibir ayuda con lo básico hasta que llegue.",
+      "ja": "荷物の紛失を届け出て、詳しく特徴を説明し、届くまでの必需品への補償を求めてください。",
+      "ko": "가방 분실을 신고하고, 자세히 설명하고, 가방이 올 때까지 필수품에 대한 지원을 강하게 요구하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Report that your suitcase is missing",
+        "native_translations": {
+          "en": "Report that your suitcase is missing",
+          "es": "Informe que falta su maleta",
+          "fr": "Signalez que votre valise a disparu",
+          "de": "Melden Sie, dass Ihr Koffer fehlt",
+          "it": "Segnala che la tua valigia non è arrivata",
+          "pl": "Zgłoś, że zaginęła twoja walizka",
+          "pt": "Informe que sua mala não chegou",
+          "nl": "Meld dat je koffer ontbreekt",
+          "hr": "Prijavi da ti nedostaje kovčeg",
+          "tr": "Bavulunuzun kayıp olduğunu bildirin",
+          "uk": "Повідом, що твоя валіза зникла",
+          "ar": "أبلغ عن فقدان حقيبتك",
+          "hi": "शिकायत कीजिए कि आपका सूटकेस नहीं मिला",
+          "vi": "Báo rằng vali của bạn bị thất lạc",
+          "id": "Laporkan bahwa kopermu hilang",
+          "ms": "Laporkan bahawa beg pakaian anda hilang",
+          "ko": "여행 가방이 없어졌다고 신고하세요"
+        },
+        "practice": "Informe que falta su maleta",
+        "practice_translations": {
+          "en": "Report that your suitcase is missing",
+          "es": "Informe que falta su maleta",
+          "ja": "スーツケースが見つからないと届け出てください",
+          "ko": "여행 가방이 없어졌다고 신고하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe your suitcase in detail",
+        "native_translations": {
+          "en": "Describe your suitcase in detail",
+          "es": "Describa su maleta con detalle",
+          "fr": "Décrivez votre valise en détail",
+          "de": "Beschreiben Sie Ihren Koffer genau",
+          "it": "Descrivi la tua valigia nei dettagli",
+          "pl": "Dokładnie opisz swoją walizkę",
+          "pt": "Descreva sua mala em detalhes",
+          "nl": "Beschrijf je koffer in detail",
+          "hr": "Detaljno opiši svoj kovčeg",
+          "tr": "Bavulunuzu ayrıntılı olarak tarif edin",
+          "uk": "Детально опиши свою валізу",
+          "ar": "صِف حقيبتك بالتفصيل",
+          "hi": "अपने सूटकेस का पूरा ब्योरा दीजिए",
+          "vi": "Mô tả chi tiết vali của bạn",
+          "id": "Jelaskan ciri-ciri kopermu secara rinci",
+          "ms": "Terangkan beg pakaian anda dengan terperinci",
+          "ko": "여행 가방을 자세히 설명하세요"
+        },
+        "practice": "Describa su maleta con detalle",
+        "practice_translations": {
+          "en": "Describe your suitcase in detail",
+          "es": "Describa su maleta con detalle",
+          "ja": "スーツケースの特徴を詳しく説明してください",
+          "ko": "여행 가방을 자세히 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask where they will deliver it",
+        "native_translations": {
+          "en": "Ask where they will deliver it",
+          "es": "Pregunte dónde se la entregarán",
+          "fr": "Demandez où ils vont la livrer",
+          "de": "Fragen Sie, wohin er geliefert wird",
+          "it": "Chiedi dove te la consegneranno",
+          "pl": "Zapytaj, gdzie ją dostarczą",
+          "pt": "Pergunte onde eles vão entregá-la",
+          "nl": "Vraag waar ze hem gaan bezorgen",
+          "hr": "Pitaj kamo će ga dostaviti",
+          "tr": "Bavulu nereye teslim edeceklerini sorun",
+          "uk": "Запитай, куди її доставлять",
+          "ar": "اسأل إلى أين سيوصلونها",
+          "hi": "पूछिए कि वे उसे कहाँ पहुँचाएँगे",
+          "vi": "Hỏi họ sẽ giao vali đến đâu",
+          "id": "Tanyakan ke mana mereka akan mengantarkannya",
+          "ms": "Tanya ke mana mereka akan menghantarnya",
+          "ko": "어디로 배송해 줄지 물어보세요"
+        },
+        "practice": "Pregunte dónde se la entregarán",
+        "practice_translations": {
+          "en": "Ask where they will deliver it",
+          "es": "Pregunte dónde se la entregarán",
+          "ja": "どこに届けてもらえるか聞いてください",
+          "ko": "어디로 배송해 줄지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for compensation for essentials",
+        "native_translations": {
+          "en": "Ask for compensation for essentials",
+          "es": "Pida una compensación por artículos básicos",
+          "fr": "Demandez un dédommagement pour les achats de première nécessité",
+          "de": "Bitten Sie um eine Entschädigung für das Nötigste",
+          "it": "Chiedi un rimborso per le cose essenziali",
+          "pl": "Poproś o zwrot kosztów niezbędnych rzeczy",
+          "pt": "Peça reembolso pelos itens essenciais",
+          "nl": "Vraag om vergoeding voor de eerste levensbehoeften",
+          "hr": "Zatraži naknadu za osnovne potrepštine",
+          "tr": "Temel ihtiyaçlarınız için tazminat isteyin",
+          "uk": "Попроси компенсацію на найнеобхідніше",
+          "ar": "اطلب تعويضًا عن الضروريات",
+          "hi": "ज़रूरी चीज़ों के लिए मुआवज़ा माँगिए",
+          "vi": "Yêu cầu bồi thường đồ dùng thiết yếu",
+          "id": "Minta ganti rugi untuk kebutuhan pokok",
+          "ms": "Minta pampasan untuk keperluan asas",
+          "ko": "필수품 비용 보상을 요청하세요"
+        },
+        "practice": "Pida una compensación por artículos básicos",
+        "practice_translations": {
+          "en": "Ask for compensation for essentials",
+          "es": "Pida una compensación por artículos básicos",
+          "ja": "必需品の費用の補償を求めてください",
+          "ko": "필수품 비용 보상을 요청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "My suitcase didn't come out on the belt.",
+      "native_translations": {
+        "en": "My suitcase didn't come out on the belt.",
+        "es": "Mi maleta no salió en la banda.",
+        "fr": "Ma valise n'est pas sortie sur le tapis.",
+        "de": "Mein Koffer ist nicht auf dem Band gekommen.",
+        "it": "La mia valigia non è uscita sul nastro.",
+        "pl": "Moja walizka nie pojawiła się na taśmie.",
+        "pt": "Minha mala não saiu na esteira.",
+        "nl": "Mijn koffer is niet op de band gekomen.",
+        "hr": "Moj kovčeg nije izašao na traci.",
+        "tr": "Bavulum banttan çıkmadı.",
+        "uk": "Моя валіза не з'явилася на стрічці.",
+        "ar": "لم تخرج حقيبتي على السير.",
+        "hi": "मेरा सूटकेस बेल्ट पर नहीं आया।",
+        "vi": "Vali của tôi không ra ở băng chuyền.",
+        "id": "Koper saya tidak keluar di ban berjalan.",
+        "ms": "Beg pakaian saya tak keluar di tali sawat.",
+        "ko": "제 여행 가방이 컨베이어 벨트에 안 나왔어요."
+      },
+      "practice": "Mi maleta no salió en la banda.",
+      "practice_translations": {
+        "en": "My suitcase didn't come out on the belt.",
+        "es": "Mi maleta no salió en la banda.",
+        "ja": "スーツケースがターンテーブルに出てきませんでした。",
+        "ko": "제 여행 가방이 컨베이어 벨트에 안 나왔어요."
+      }
+    },
+    {
+      "native": "It's a large blue suitcase with a red tag.",
+      "native_translations": {
+        "en": "It's a large blue suitcase with a red tag.",
+        "es": "Es una maleta grande azul con una etiqueta roja.",
+        "fr": "C'est une grande valise bleue avec une étiquette rouge.",
+        "de": "Es ist ein großer blauer Koffer mit einem roten Anhänger.",
+        "it": "È una valigia grande e blu con un'etichetta rossa.",
+        "pl": "To duża niebieska walizka z czerwoną zawieszką.",
+        "pt": "É uma mala azul grande com uma etiqueta vermelha.",
+        "nl": "Het is een grote blauwe koffer met een rood label.",
+        "hr": "To je veliki plavi kovčeg s crvenom oznakom.",
+        "tr": "Kırmızı etiketli, büyük, mavi bir bavul.",
+        "uk": "Це велика синя валіза з червоною биркою.",
+        "ar": "إنها حقيبة زرقاء كبيرة عليها بطاقة حمراء.",
+        "hi": "यह लाल टैग वाला एक बड़ा नीला सूटकेस है।",
+        "vi": "Đó là một vali lớn màu xanh dương có thẻ màu đỏ.",
+        "id": "Kopernya besar, warna biru, dengan label merah.",
+        "ms": "Ia beg pakaian biru yang besar dengan tag merah.",
+        "ko": "빨간 태그가 달린 큰 파란색 여행 가방이에요."
+      },
+      "practice": "Es una maleta grande azul con una etiqueta roja.",
+      "practice_translations": {
+        "en": "It's a large blue suitcase with a red tag.",
+        "es": "Es una maleta grande azul con una etiqueta roja.",
+        "ja": "赤いタグがついた、大きな青いスーツケースです。",
+        "ko": "빨간 태그가 달린 큰 파란색 여행 가방이에요."
+      }
+    },
+    {
+      "native": "Can you deliver it to my hotel?",
+      "native_translations": {
+        "en": "Can you deliver it to my hotel?",
+        "es": "¿Pueden entregarla en mi hotel?",
+        "fr": "Pouvez-vous la faire livrer à mon hôtel ?",
+        "de": "Können Sie ihn zu meinem Hotel liefern?",
+        "it": "Potete consegnarla al mio hotel?",
+        "pl": "Czy możecie dostarczyć ją do mojego hotelu?",
+        "pt": "Vocês podem entregá-la no meu hotel?",
+        "nl": "Kunt u hem naar mijn hotel laten bezorgen?",
+        "hr": "Možete li ga dostaviti u moj hotel?",
+        "tr": "Otelime teslim edebilir misiniz?",
+        "uk": "Можете доставити її до мого готелю?",
+        "ar": "هل يمكنكم توصيلها إلى فندقي؟",
+        "hi": "क्या आप इसे मेरे होटल पहुँचा सकते हैं?",
+        "vi": "Anh/chị có thể giao đến khách sạn của tôi không?",
+        "id": "Bisakah diantarkan ke hotel saya?",
+        "ms": "Boleh hantar ke hotel saya?",
+        "ko": "제 호텔로 배송해 주실 수 있나요?"
+      },
+      "practice": "¿Pueden entregarla en mi hotel?",
+      "practice_translations": {
+        "en": "Can you deliver it to my hotel?",
+        "es": "¿Pueden entregarla en mi hotel?",
+        "ja": "ホテルに届けていただけますか。",
+        "ko": "제 호텔로 배송해 주실 수 있나요?"
+      }
+    },
+    {
+      "native": "I need to buy some clothes and toiletries.",
+      "native_translations": {
+        "en": "I need to buy some clothes and toiletries.",
+        "es": "Necesito comprar ropa y artículos de aseo.",
+        "fr": "Je dois acheter des vêtements et des articles de toilette.",
+        "de": "Ich muss mir Kleidung und Toilettenartikel kaufen.",
+        "it": "Devo comprare dei vestiti e dei prodotti per l'igiene personale.",
+        "pl": "Muszę kupić trochę ubrań i kosmetyków.",
+        "pt": "Preciso comprar algumas roupas e produtos de higiene.",
+        "nl": "Ik moet wat kleren en toiletspullen kopen.",
+        "hr": "Moram kupiti nešto odjeće i pribor za osobnu higijenu.",
+        "tr": "Biraz kıyafet ve kişisel bakım ürünü almam gerekiyor.",
+        "uk": "Мені треба купити одяг і засоби гігієни.",
+        "ar": "أحتاج إلى شراء بعض الملابس وأدوات النظافة الشخصية.",
+        "hi": "मुझे कुछ कपड़े और टॉयलेटरीज़ ख़रीदनी होंगी।",
+        "vi": "Tôi cần mua ít quần áo và đồ vệ sinh cá nhân.",
+        "id": "Saya perlu membeli beberapa pakaian dan perlengkapan mandi.",
+        "ms": "Saya perlu beli pakaian dan barang mandian.",
+        "ko": "옷이랑 세면도구를 좀 사야 해요."
+      },
+      "practice": "Necesito comprar ropa y artículos de aseo.",
+      "practice_translations": {
+        "en": "I need to buy some clothes and toiletries.",
+        "es": "Necesito comprar ropa y artículos de aseo.",
+        "ja": "服と洗面用具を買わないといけません。",
+        "ko": "옷이랑 세면도구를 좀 사야 해요."
+      }
+    },
+    {
+      "native": "Will the airline cover those expenses?",
+      "native_translations": {
+        "en": "Will the airline cover those expenses?",
+        "es": "¿La aerolínea cubrirá esos gastos?",
+        "fr": "La compagnie aérienne prendra-t-elle ces frais en charge ?",
+        "de": "Übernimmt die Fluggesellschaft diese Kosten?",
+        "it": "La compagnia aerea coprirà queste spese?",
+        "pl": "Czy linia lotnicza pokryje te wydatki?",
+        "pt": "A companhia aérea vai cobrir essas despesas?",
+        "nl": "Vergoedt de luchtvaartmaatschappij die kosten?",
+        "hr": "Hoće li zrakoplovna kompanija pokriti te troškove?",
+        "tr": "Bu masrafları havayolu şirketi karşılayacak mı?",
+        "uk": "Авіакомпанія відшкодує ці витрати?",
+        "ar": "هل ستتحمّل شركة الطيران هذه النفقات؟",
+        "hi": "क्या एयरलाइन वह ख़र्च उठाएगी?",
+        "vi": "Hãng bay có chi trả những khoản đó không?",
+        "id": "Apakah maskapai akan menanggung biaya itu?",
+        "ms": "Adakah syarikat penerbangan akan tanggung perbelanjaan itu?",
+        "ko": "그 비용은 항공사에서 부담해 주나요?"
+      },
+      "practice": "¿La aerolínea cubrirá esos gastos?",
+      "practice_translations": {
+        "en": "Will the airline cover those expenses?",
+        "es": "¿La aerolínea cubrirá esos gastos?",
+        "ja": "その費用は航空会社が負担してくれますか。",
+        "ko": "그 비용은 항공사에서 부담해 주나요?"
+      }
+    }
+  ]
+}

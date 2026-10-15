@@ -1,0 +1,351 @@
+{
+  "id": "travel_city_exploration_transportation_c3",
+  "title": "The Taxi Took the Long Way",
+  "title_translations": {
+    "en": "The Taxi Took the Long Way",
+    "es": "El taxi que dio la vuelta larga",
+    "fr": "Le taxi a fait un détour",
+    "de": "Das Taxi nahm den langen Weg",
+    "it": "Il taxi ha fatto il giro lungo",
+    "pl": "Taksówka pojechała naokoło",
+    "pt": "O táxi pegou o caminho mais longo",
+    "nl": "De taxi nam de lange route",
+    "hr": "Taksi je išao zaobilaznim putem",
+    "tr": "Taksi Uzun Yoldan Gitti",
+    "uk": "Таксі поїхало в об'їзд",
+    "ar": "سيارة الأجرة أخذت الطريق الأطول",
+    "hi": "टैक्सी लंबे रास्ते से ले गई",
+    "vi": "Chiếc taxi đi đường vòng",
+    "id": "Taksi yang Mengambil Jalan Memutar",
+    "ms": "Teksi Ambil Jalan Jauh",
+    "ko": "먼 길로 돌아간 택시"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your taxi ride to the hotel took twice as long as expected. Now the taxi driver (AI) asks for much more than your map app estimated.",
+  "scenario_translations": {
+    "en": "Your taxi ride to the hotel took twice as long as expected. Now the taxi driver (AI) asks for much more than your map app estimated.",
+    "es": "El trayecto en taxi al hotel tardó el doble de lo previsto. Ahora el taxista (AI) le cobra mucho más de lo que calculaba su app de mapas.",
+    "fr": "Votre trajet en taxi jusqu'à l'hôtel a duré deux fois plus longtemps que prévu. Le chauffeur (AI) vous réclame maintenant bien plus que l'estimation de votre appli de cartographie.",
+    "de": "Ihre Taxifahrt zum Hotel hat doppelt so lange gedauert wie erwartet. Jetzt verlangt der Taxifahrer (AI) viel mehr, als Ihre Karten-App geschätzt hat.",
+    "it": "La corsa in taxi fino all'hotel è durata il doppio del previsto. Ora il tassista (AI) ti chiede molto più di quanto stimato dalla tua app di mappe.",
+    "pl": "Kurs taksówką do hotelu trwał dwa razy dłużej, niż się spodziewałeś. Teraz taksówkarz (AI) żąda znacznie więcej, niż szacowała twoja aplikacja z mapą.",
+    "pt": "A corrida de táxi até o hotel demorou o dobro do esperado. Agora o taxista (AI) está cobrando bem mais do que o seu aplicativo de mapas estimou.",
+    "nl": "Je taxirit naar het hotel duurde twee keer zo lang als verwacht. Nu vraagt de taxichauffeur (AI) veel meer dan je kaarten-app had geschat.",
+    "hr": "Vožnja taksijem do hotela trajala je dvostruko dulje od očekivanog. Sada taksist (AI) traži puno više nego što je procijenila tvoja aplikacija s kartama.",
+    "tr": "Otele taksi yolculuğunuz beklenenden iki kat uzun sürdü. Şimdi taksi şoförü (AI) harita uygulamanızın tahmin ettiğinden çok daha fazla para istiyor.",
+    "uk": "Поїздка на таксі до готелю тривала вдвічі довше, ніж очікувалося. Тепер таксист (AI) просить набагато більше, ніж показував застосунок із картами.",
+    "ar": "استغرقت رحلتك بسيارة الأجرة إلى الفندق ضعف الوقت المتوقع. والآن يطلب منك السائق (AI) أكثر بكثير مما قدّره تطبيق الخرائط.",
+    "hi": "होटल तक आपकी टैक्सी की सवारी में उम्मीद से दोगुना समय लगा। अब टैक्सी ड्राइवर (AI) आपके मैप ऐप के अनुमान से कहीं ज़्यादा पैसे माँग रहा है।",
+    "vi": "Chuyến taxi về khách sạn mất gấp đôi thời gian dự kiến. Giờ tài xế taxi (AI) đòi số tiền cao hơn nhiều so với ước tính của ứng dụng bản đồ.",
+    "id": "Perjalanan taksimu ke hotel memakan waktu dua kali lipat dari perkiraan. Sekarang sopir taksi (AI) meminta jauh lebih banyak dari perkiraan aplikasi petamu.",
+    "ms": "Perjalanan teksi anda ke hotel mengambil masa dua kali ganda daripada jangkaan. Kini pemandu teksi (AI) meminta jauh lebih banyak daripada anggaran aplikasi peta anda.",
+    "ko": "호텔까지 가는 택시가 예상보다 두 배나 오래 걸렸습니다. 이제 택시 기사(AI)가 지도 앱의 예상 요금보다 훨씬 많은 돈을 요구합니다."
+  },
+  "mission": {
+    "native": "Question the fare calmly, point out the detour and agree on a fair price.",
+    "native_translations": {
+      "en": "Question the fare calmly, point out the detour and agree on a fair price.",
+      "es": "Cuestione la tarifa con calma, señale el desvío y acuerden un precio justo.",
+      "fr": "Contestez calmement le prix, signalez le détour et mettez-vous d'accord sur un tarif juste.",
+      "de": "Hinterfragen Sie den Fahrpreis ruhig, weisen Sie auf den Umweg hin und einigen Sie sich auf einen fairen Preis.",
+      "it": "Contesta la tariffa con calma, fai notare la deviazione e concordate un prezzo giusto.",
+      "pl": "Spokojnie zakwestionuj opłatę, wskaż objazd i ustalcie uczciwą cenę.",
+      "pt": "Questione o valor com calma, aponte o desvio e cheguem a um preço justo.",
+      "nl": "Stel rustig vragen bij de prijs, wijs op de omweg en spreek een eerlijke prijs af.",
+      "hr": "Mirno dovedi cijenu u pitanje, ukaži na obilazak i dogovori poštenu cijenu.",
+      "tr": "Ücreti sakince sorgulayın, dolambaçlı yolu belirtin ve adil bir fiyatta anlaşın.",
+      "uk": "Спокійно оскарж вартість, вкажи на об'їзд і домовся про справедливу ціну.",
+      "ar": "ناقش الأجرة بهدوء، وأشر إلى الالتفاف في الطريق، واتفق على سعر عادل.",
+      "hi": "शांति से किराए पर सवाल उठाइए, घुमावदार रास्ते की बात बताइए और एक उचित किराए पर सहमत होइए।",
+      "vi": "Bình tĩnh thắc mắc về giá cước, chỉ ra việc đi đường vòng và thống nhất một mức giá hợp lý.",
+      "id": "Pertanyakan tarifnya dengan tenang, tunjukkan jalan memutarnya, dan sepakati harga yang wajar.",
+      "ms": "Persoalkan tambang dengan tenang, tunjukkan lencongan itu dan sepakati harga yang adil.",
+      "ko": "침착하게 요금에 대해 따지고, 돌아온 길을 지적하고, 적정한 가격에 합의하세요."
+    },
+    "practice": "Cuestione la tarifa con calma, señale el desvío y acuerden un precio justo.",
+    "practice_translations": {
+      "en": "Question the fare calmly, point out the detour and agree on a fair price.",
+      "es": "Cuestione la tarifa con calma, señale el desvío y acuerden un precio justo.",
+      "ja": "落ち着いて運賃について質問し、遠回りを指摘して、適正な料金に合意してください。",
+      "ko": "침착하게 요금에 대해 따지고, 돌아온 길을 지적하고, 적정한 가격에 합의하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say the fare seems too high",
+        "native_translations": {
+          "en": "Say the fare seems too high",
+          "es": "Diga que la tarifa parece demasiado alta",
+          "fr": "Dites que le prix vous semble trop élevé",
+          "de": "Sagen Sie, dass Ihnen der Fahrpreis zu hoch erscheint",
+          "it": "Di' che la tariffa ti sembra troppo alta",
+          "pl": "Powiedz, że opłata wydaje się za wysoka",
+          "pt": "Diga que o valor parece alto demais",
+          "nl": "Zeg dat de ritprijs te hoog lijkt",
+          "hr": "Reci da ti se cijena čini previsokom",
+          "tr": "Ücretin çok yüksek göründüğünü söyleyin",
+          "uk": "Скажи, що ціна здається завищеною",
+          "ar": "قل إن الأجرة تبدو مرتفعة جدًا",
+          "hi": "कहिए कि किराया बहुत ज़्यादा लग रहा है",
+          "vi": "Nói rằng giá cước có vẻ quá cao",
+          "id": "Katakan bahwa tarifnya terlalu mahal",
+          "ms": "Katakan tambang itu nampak terlalu mahal",
+          "ko": "요금이 너무 비싼 것 같다고 말하세요"
+        },
+        "practice": "Diga que la tarifa parece demasiado alta",
+        "practice_translations": {
+          "en": "Say the fare seems too high",
+          "es": "Diga que la tarifa parece demasiado alta",
+          "ja": "運賃が高すぎると伝えてください",
+          "ko": "요금이 너무 비싼 것 같다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Point out that the route was longer",
+        "native_translations": {
+          "en": "Point out that the route was longer",
+          "es": "Señale que la ruta fue más larga",
+          "fr": "Signalez que l'itinéraire était plus long",
+          "de": "Weisen Sie darauf hin, dass die Strecke länger war",
+          "it": "Fai notare che il percorso era più lungo",
+          "pl": "Zwróć uwagę, że trasa była dłuższa",
+          "pt": "Aponte que o trajeto foi mais longo",
+          "nl": "Wijs erop dat de route langer was",
+          "hr": "Ukaži na to da je ruta bila dulja",
+          "tr": "Güzergâhın daha uzun olduğunu belirtin",
+          "uk": "Зазнач, що маршрут був довшим",
+          "ar": "أشر إلى أن الطريق كان أطول",
+          "hi": "बताइए कि रास्ता लंबा था",
+          "vi": "Chỉ ra rằng tuyến đường đã dài hơn",
+          "id": "Tunjukkan bahwa rutenya lebih jauh",
+          "ms": "Tunjukkan bahawa laluannya lebih jauh",
+          "ko": "경로가 더 길었다고 지적하세요"
+        },
+        "practice": "Señale que la ruta fue más larga",
+        "practice_translations": {
+          "en": "Point out that the route was longer",
+          "es": "Señale que la ruta fue más larga",
+          "ja": "ルートが遠回りだったと指摘してください",
+          "ko": "경로가 더 길었다고 지적하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask to see the meter or a receipt",
+        "native_translations": {
+          "en": "Ask to see the meter or a receipt",
+          "es": "Pida ver el taxímetro o un recibo",
+          "fr": "Demandez à voir le compteur ou un reçu",
+          "de": "Bitten Sie darum, das Taxameter oder eine Quittung zu sehen",
+          "it": "Chiedi di vedere il tassametro o una ricevuta",
+          "pl": "Poproś o pokazanie taksometru lub paragonu",
+          "pt": "Peça para ver o taxímetro ou um recibo",
+          "nl": "Vraag om de meter of een bonnetje te zien",
+          "hr": "Zatraži da vidiš taksimetar ili račun",
+          "tr": "Taksimetreyi ya da fişi görmek isteyin",
+          "uk": "Попроси показати лічильник або чек",
+          "ar": "اطلب رؤية العدّاد أو إيصالًا",
+          "hi": "मीटर या रसीद दिखाने को कहिए",
+          "vi": "Xin xem đồng hồ tính cước hoặc hóa đơn",
+          "id": "Minta lihat argo atau struknya",
+          "ms": "Minta untuk melihat meter atau resit",
+          "ko": "미터기나 영수증을 보여 달라고 하세요"
+        },
+        "practice": "Pida ver el taxímetro o un recibo",
+        "practice_translations": {
+          "en": "Ask to see the meter or a receipt",
+          "es": "Pida ver el taxímetro o un recibo",
+          "ja": "メーターかレシートを見せてもらうよう頼んでください",
+          "ko": "미터기나 영수증을 보여 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a fair price",
+        "native_translations": {
+          "en": "Agree on a fair price",
+          "es": "Acuerden un precio justo",
+          "fr": "Mettez-vous d'accord sur un prix juste",
+          "de": "Einigen Sie sich auf einen fairen Preis",
+          "it": "Concordate un prezzo giusto",
+          "pl": "Ustalcie uczciwą cenę",
+          "pt": "Cheguem a um preço justo",
+          "nl": "Spreek een eerlijke prijs af",
+          "hr": "Dogovori poštenu cijenu",
+          "tr": "Adil bir fiyatta anlaşın",
+          "uk": "Домовся про справедливу ціну",
+          "ar": "اتفق على سعر عادل",
+          "hi": "एक उचित किराए पर सहमत होइए",
+          "vi": "Thống nhất một mức giá hợp lý",
+          "id": "Sepakati harga yang wajar",
+          "ms": "Sepakati harga yang adil",
+          "ko": "적정한 가격에 합의하세요"
+        },
+        "practice": "Acuerden un precio justo",
+        "practice_translations": {
+          "en": "Agree on a fair price",
+          "es": "Acuerden un precio justo",
+          "ja": "適正な料金に合意してください",
+          "ko": "적정한 가격에 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "That seems like a lot for this ride.",
+      "native_translations": {
+        "en": "That seems like a lot for this ride.",
+        "es": "Me parece mucho para este viaje.",
+        "fr": "Ça me paraît beaucoup pour cette course.",
+        "de": "Das ist ganz schön viel für diese Fahrt.",
+        "it": "Mi sembra tanto per questa corsa.",
+        "pl": "To chyba sporo jak na ten kurs.",
+        "pt": "Isso parece muito para esta corrida.",
+        "nl": "Dat lijkt me veel voor deze rit.",
+        "hr": "To mi se čini puno za ovu vožnju.",
+        "tr": "Bu yolculuk için bu biraz fazla gibi.",
+        "uk": "Як на таку поїздку, це забагато.",
+        "ar": "يبدو هذا كثيرًا بالنسبة لهذه الرحلة.",
+        "hi": "इस सवारी के लिए यह काफ़ी ज़्यादा लग रहा है।",
+        "vi": "Cuốc xe này có vẻ đắt quá.",
+        "id": "Sepertinya itu terlalu mahal untuk perjalanan ini.",
+        "ms": "Mahal sangat untuk perjalanan ini.",
+        "ko": "이 거리치고는 요금이 너무 많이 나온 것 같아요."
+      },
+      "practice": "Me parece mucho para este viaje.",
+      "practice_translations": {
+        "en": "That seems like a lot for this ride.",
+        "es": "Me parece mucho para este viaje.",
+        "ja": "この距離にしては、ちょっと高いと思うのですが。",
+        "ko": "이 거리치고는 요금이 너무 많이 나온 것 같아요."
+      }
+    },
+    {
+      "native": "The app said it would be about half that.",
+      "native_translations": {
+        "en": "The app said it would be about half that.",
+        "es": "La aplicación decía que costaría como la mitad.",
+        "fr": "L'appli indiquait à peu près la moitié.",
+        "de": "Laut App sollte es ungefähr die Hälfte kosten.",
+        "it": "L'app diceva che sarebbe costata circa la metà.",
+        "pl": "Aplikacja pokazywała mniej więcej połowę tego.",
+        "pt": "O aplicativo dizia que seria mais ou menos a metade.",
+        "nl": "De app zei dat het ongeveer de helft zou zijn.",
+        "hr": "Aplikacija je pokazivala otprilike upola manje.",
+        "tr": "Uygulama bunun yaklaşık yarısı kadar tutacağını söylüyordu.",
+        "uk": "Застосунок показував приблизно вдвічі менше.",
+        "ar": "قال التطبيق إنها ستكون نحو نصف هذا المبلغ.",
+        "hi": "ऐप में इसका लगभग आधा दिखा रहा था।",
+        "vi": "Ứng dụng báo chỉ khoảng một nửa số đó thôi.",
+        "id": "Di aplikasi tertulis kira-kira setengahnya.",
+        "ms": "Aplikasi kata harganya lebih kurang separuh daripada itu.",
+        "ko": "앱에서는 그 절반 정도 나온다고 했어요."
+      },
+      "practice": "La aplicación decía que costaría como la mitad.",
+      "practice_translations": {
+        "en": "The app said it would be about half that.",
+        "es": "La aplicación decía que costaría como la mitad.",
+        "ja": "アプリでは、その半分くらいと出ていました。",
+        "ko": "앱에서는 그 절반 정도 나온다고 했어요."
+      }
+    },
+    {
+      "native": "I think we took a longer route.",
+      "native_translations": {
+        "en": "I think we took a longer route.",
+        "es": "Creo que tomamos una ruta más larga.",
+        "fr": "Je crois qu'on a pris un chemin plus long.",
+        "de": "Ich glaube, wir sind einen längeren Weg gefahren.",
+        "it": "Credo che abbiamo fatto un percorso più lungo.",
+        "pl": "Wydaje mi się, że pojechaliśmy dłuższą trasą.",
+        "pt": "Acho que fizemos um caminho mais longo.",
+        "nl": "Ik denk dat we een langere route hebben genomen.",
+        "hr": "Mislim da smo išli duljim putem.",
+        "tr": "Sanırım daha uzun bir yoldan geldik.",
+        "uk": "Здається, ми їхали довшим маршрутом.",
+        "ar": "أعتقد أننا سلكنا طريقًا أطول.",
+        "hi": "मुझे लगता है हम लंबे रास्ते से आए हैं।",
+        "vi": "Tôi nghĩ mình đã đi đường dài hơn.",
+        "id": "Sepertinya kita lewat rute yang lebih jauh.",
+        "ms": "Saya rasa kita ambil jalan yang lebih jauh.",
+        "ko": "더 먼 길로 온 것 같아요."
+      },
+      "practice": "Creo que tomamos una ruta más larga.",
+      "practice_translations": {
+        "en": "I think we took a longer route.",
+        "es": "Creo que tomamos una ruta más larga.",
+        "ja": "遠回りをしたのではないでしょうか。",
+        "ko": "더 먼 길로 온 것 같아요."
+      }
+    },
+    {
+      "native": "Could I have a receipt, please?",
+      "native_translations": {
+        "en": "Could I have a receipt, please?",
+        "es": "¿Me puede dar un recibo, por favor?",
+        "fr": "Pourrais-je avoir un reçu, s'il vous plaît ?",
+        "de": "Könnte ich bitte eine Quittung bekommen?",
+        "it": "Potrei avere una ricevuta, per favore?",
+        "pl": "Czy mogę prosić o paragon?",
+        "pt": "Você poderia me dar um recibo, por favor?",
+        "nl": "Mag ik een bonnetje, alstublieft?",
+        "hr": "Mogu li dobiti račun, molim Vas?",
+        "tr": "Fiş alabilir miyim, lütfen?",
+        "uk": "Можна чек, будь ласка?",
+        "ar": "هل يمكنني الحصول على إيصال، من فضلك؟",
+        "hi": "क्या मुझे रसीद मिल सकती है, प्लीज़?",
+        "vi": "Cho tôi xin hóa đơn được không?",
+        "id": "Boleh saya minta struknya?",
+        "ms": "Boleh saya dapatkan resit?",
+        "ko": "영수증 좀 주시겠어요?"
+      },
+      "practice": "¿Me puede dar un recibo, por favor?",
+      "practice_translations": {
+        "en": "Could I have a receipt, please?",
+        "es": "¿Me puede dar un recibo, por favor?",
+        "ja": "レシートをいただけますか。",
+        "ko": "영수증 좀 주시겠어요?"
+      }
+    },
+    {
+      "native": "I'm happy to pay the normal fare.",
+      "native_translations": {
+        "en": "I'm happy to pay the normal fare.",
+        "es": "Con gusto le pago la tarifa normal.",
+        "fr": "Je veux bien payer le tarif normal.",
+        "de": "Den normalen Fahrpreis zahle ich gern.",
+        "it": "Pago volentieri la tariffa normale.",
+        "pl": "Chętnie zapłacę normalną stawkę.",
+        "pt": "Pago com prazer a tarifa normal.",
+        "nl": "Ik betaal graag het normale tarief.",
+        "hr": "Rado ću platiti uobičajenu cijenu.",
+        "tr": "Normal ücreti seve seve öderim.",
+        "uk": "Я охоче заплачу звичайну ціну.",
+        "ar": "يسعدني أن أدفع الأجرة العادية.",
+        "hi": "मैं सामान्य किराया ख़ुशी से दे दूँगा।",
+        "vi": "Tôi sẵn lòng trả đúng giá bình thường.",
+        "id": "Saya dengan senang hati membayar tarif normal.",
+        "ms": "Saya sanggup bayar tambang biasa.",
+        "ko": "정상 요금은 기꺼이 낼게요."
+      },
+      "practice": "Con gusto le pago la tarifa normal.",
+      "practice_translations": {
+        "en": "I'm happy to pay the normal fare.",
+        "es": "Con gusto le pago la tarifa normal.",
+        "ja": "通常の料金なら喜んでお支払いします。",
+        "ko": "정상 요금은 기꺼이 낼게요."
+      }
+    }
+  ]
+}

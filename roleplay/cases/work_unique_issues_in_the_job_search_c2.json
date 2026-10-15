@@ -1,0 +1,289 @@
+{
+  "id": "work_unique_issues_in_the_job_search_c2",
+  "title": "Explaining the Gap",
+  "title_translations": {
+    "en": "Explaining the Gap",
+    "es": "Explicar el periodo sin trabajo",
+    "fr": "Expliquer le trou dans le CV",
+    "de": "Die Lücke im Lebenslauf erklären",
+    "it": "Spiegare il periodo di pausa",
+    "pl": "Wyjaśnienie przerwy w karierze",
+    "pt": "Explicando a lacuna no currículo",
+    "nl": "Het gat in je cv uitleggen",
+    "hr": "Objašnjavanje praznine u životopisu",
+    "tr": "Boşluğu Açıklamak",
+    "uk": "Пояснення перерви",
+    "ar": "شرح الفجوة",
+    "hi": "करियर में ब्रेक की वजह बताना",
+    "vi": "Giải thích khoảng trống trong sự nghiệp",
+    "id": "Menjelaskan Jeda Karier",
+    "ms": "Menerangkan Jurang Kerjaya",
+    "ko": "경력 공백 설명하기"
+  },
+  "character": "fox",
+  "scenario": "The interviewer (AI) notices a one-year gap in your resume and asks what you were doing during that time.",
+  "scenario_translations": {
+    "en": "The interviewer (AI) notices a one-year gap in your resume and asks what you were doing during that time.",
+    "es": "El entrevistador (AI) nota un vacío de un año en su currículum y le pregunta qué hizo durante ese tiempo.",
+    "fr": "La recruteuse (AI) remarque un trou d'un an dans votre CV et vous demande ce que vous avez fait pendant cette période.",
+    "de": "Der Interviewer (AI) bemerkt eine einjährige Lücke in Ihrem Lebenslauf und fragt, was Sie in dieser Zeit gemacht haben.",
+    "it": "Il selezionatore (AI) nota nel tuo curriculum un vuoto di un anno e ti chiede cosa facevi in quel periodo.",
+    "pl": "Rekruter (AI) zauważa roczną przerwę w twoim CV i pyta, co wtedy robiłeś.",
+    "pt": "O entrevistador (AI) nota uma lacuna de um ano no seu currículo e pergunta o que você estava fazendo nesse período.",
+    "nl": "De interviewer (AI) ziet een gat van een jaar in je cv en vraagt wat je in die tijd deed.",
+    "hr": "Osoba koja vodi razgovor (AI) primjećuje jednogodišnju prazninu u tvom životopisu i pita čime si se tada bavio.",
+    "tr": "Mülakatı yapan kişi (AI) özgeçmişinizde bir yıllık bir boşluk fark ediyor ve o sürede ne yaptığınızı soruyor.",
+    "uk": "Інтерв'юер (AI) помічає у твоєму резюме річну перерву й запитує, чим ти займався в той час.",
+    "ar": "يلاحظ من يجري المقابلة (AI) فجوة مدتها عام في سيرتك الذاتية ويسألك عمّا كنت تفعله خلال تلك الفترة.",
+    "hi": "इंटरव्यू लेने वाले (AI) आपके रिज़्यूमे में एक साल का ब्रेक देखते हैं और पूछते हैं कि उस दौरान आप क्या कर रहे थे।",
+    "vi": "Người phỏng vấn (AI) để ý thấy CV của bạn có một khoảng trống một năm và hỏi bạn đã làm gì trong thời gian đó.",
+    "id": "Pewawancara (AI) melihat ada jeda satu tahun di CV-mu dan bertanya apa yang kamu lakukan selama itu.",
+    "ms": "Penemu duga (AI) perasan jurang setahun dalam resume anda dan bertanya apa yang anda lakukan dalam tempoh itu.",
+    "ko": "면접관(AI)이 이력서에서 1년의 공백을 발견하고 그동안 무엇을 했는지 물어봅니다."
+  },
+  "mission": {
+    "native": "Explain your career gap briefly and show that you are ready to work again.",
+    "native_translations": {
+      "en": "Explain your career gap briefly and show that you are ready to work again.",
+      "es": "Explique brevemente la pausa en su carrera y muestre que ya puede volver a trabajar.",
+      "fr": "Expliquez brièvement cette interruption de carrière et montrez que vous êtes prêt à reprendre le travail.",
+      "de": "Erklären Sie Ihre berufliche Pause kurz und zeigen Sie, dass Sie bereit sind, wieder zu arbeiten.",
+      "it": "Spiega brevemente la pausa nella tua carriera e dimostra di essere pronto a tornare a lavorare.",
+      "pl": "Krótko wyjaśnij przerwę w karierze i pokaż, że jesteś gotowy wrócić do pracy.",
+      "pt": "Explique brevemente a pausa na sua carreira e mostre que você está pronto para voltar a trabalhar.",
+      "nl": "Leg kort het gat in je loopbaan uit en laat zien dat je klaar bent om weer aan het werk te gaan.",
+      "hr": "Ukratko objasni prekid u karijeri i pokaži da si spreman ponovno raditi.",
+      "tr": "Kariyerinizdeki boşluğu kısaca açıklayın ve yeniden çalışmaya hazır olduğunuzu gösterin.",
+      "uk": "Коротко поясни перерву в кар'єрі й покажи, що ти знову готовий до роботи.",
+      "ar": "اشرح الفجوة في مسيرتك المهنية باختصار وأظهر أنك مستعد للعودة إلى العمل.",
+      "hi": "अपने करियर ब्रेक के बारे में संक्षेप में बताइए और दिखाइए कि आप फिर से काम के लिए तैयार हैं।",
+      "vi": "Giải thích ngắn gọn về khoảng trống sự nghiệp và cho thấy bạn đã sẵn sàng đi làm lại.",
+      "id": "Jelaskan jeda kariermu secara singkat dan tunjukkan bahwa kamu siap bekerja lagi.",
+      "ms": "Terangkan jurang kerjaya anda secara ringkas dan tunjukkan bahawa anda bersedia untuk bekerja semula.",
+      "ko": "경력 공백을 간단히 설명하고 다시 일할 준비가 되었다는 것을 보여 주세요."
+    },
+    "practice": "Explique brevemente la pausa en su carrera y muestre que ya puede volver a trabajar.",
+    "practice_translations": {
+      "en": "Explain your career gap briefly and show that you are ready to work again.",
+      "es": "Explique brevemente la pausa en su carrera y muestre que ya puede volver a trabajar.",
+      "ja": "職歴の空白期間を簡単に説明して、また働く準備ができていることを伝えてください。",
+      "ko": "경력 공백을 간단히 설명하고 다시 일할 준비가 되었다는 것을 보여 주세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain briefly why you took time off",
+        "native_translations": {
+          "en": "Explain briefly why you took time off",
+          "es": "Explique brevemente por qué se tomó un tiempo libre",
+          "fr": "Expliquez brièvement pourquoi vous avez fait une pause",
+          "de": "Erklären Sie kurz, warum Sie eine Auszeit genommen haben",
+          "it": "Spiega brevemente perché ti sei preso una pausa",
+          "pl": "Krótko wyjaśnij, dlaczego zrobiłeś przerwę",
+          "pt": "Explique brevemente por que você fez uma pausa",
+          "nl": "Leg kort uit waarom je een pauze nam",
+          "hr": "Ukratko objasni zašto si uzeo stanku",
+          "tr": "Neden ara verdiğinizi kısaca açıklayın",
+          "uk": "Коротко поясни, чому ти брав перерву",
+          "ar": "اشرح باختصار لماذا أخذت استراحة",
+          "hi": "संक्षेप में बताइए कि आपने ब्रेक क्यों लिया",
+          "vi": "Giải thích ngắn gọn vì sao bạn tạm nghỉ",
+          "id": "Jelaskan singkat kenapa kamu rehat",
+          "ms": "Terangkan secara ringkas mengapa anda berehat daripada kerja",
+          "ko": "일을 쉬었던 이유를 간단히 설명하세요"
+        },
+        "practice": "Explique brevemente por qué se tomó un tiempo libre",
+        "practice_translations": {
+          "en": "Explain briefly why you took time off",
+          "es": "Explique brevemente por qué se tomó un tiempo libre",
+          "ja": "休んでいた理由を簡単に説明してください",
+          "ko": "일을 쉬었던 이유를 간단히 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Mention something you did during that time",
+        "native_translations": {
+          "en": "Mention something you did during that time",
+          "es": "Mencione algo que hizo durante ese tiempo",
+          "fr": "Mentionnez une chose que vous avez faite pendant cette période",
+          "de": "Erwähnen Sie etwas, das Sie in dieser Zeit gemacht haben",
+          "it": "Menziona qualcosa che hai fatto in quel periodo",
+          "pl": "Wspomnij o czymś, co robiłeś w tym czasie",
+          "pt": "Mencione algo que você fez nesse período",
+          "nl": "Noem iets wat je in die tijd hebt gedaan",
+          "hr": "Spomeni nešto što si radio u to vrijeme",
+          "tr": "O süre içinde yaptığınız bir şeyden bahsedin",
+          "uk": "Згадай, чим займався в цей час",
+          "ar": "اذكر شيئًا فعلته خلال تلك الفترة",
+          "hi": "उस दौरान आपने जो कुछ किया, उसका ज़िक्र कीजिए",
+          "vi": "Nhắc đến một việc bạn đã làm trong thời gian đó",
+          "id": "Sebutkan sesuatu yang kamu lakukan selama itu",
+          "ms": "Sebut sesuatu yang anda lakukan dalam tempoh itu",
+          "ko": "그 기간에 한 일을 하나 말하세요"
+        },
+        "practice": "Mencione algo que hizo durante ese tiempo",
+        "practice_translations": {
+          "en": "Mention something you did during that time",
+          "es": "Mencione algo que hizo durante ese tiempo",
+          "ja": "その間にしたことを話してください",
+          "ko": "그 기간에 한 일을 하나 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say why you are ready to return",
+        "native_translations": {
+          "en": "Say why you are ready to return",
+          "es": "Diga por qué ya puede volver al trabajo",
+          "fr": "Dites pourquoi vous êtes prêt à reprendre",
+          "de": "Sagen Sie, warum Sie bereit für den Wiedereinstieg sind",
+          "it": "Di' perché sei pronto a tornare",
+          "pl": "Powiedz, dlaczego jesteś gotowy wrócić",
+          "pt": "Diga por que você está pronto para voltar",
+          "nl": "Zeg waarom je klaar bent om terug te keren",
+          "hr": "Reci zašto si spreman za povratak",
+          "tr": "Neden geri dönmeye hazır olduğunuzu söyleyin",
+          "uk": "Скажи, чому ти готовий повернутися",
+          "ar": "قل لماذا أنت مستعد للعودة",
+          "hi": "बताइए कि आप वापस आने के लिए क्यों तैयार हैं",
+          "vi": "Nói vì sao bạn đã sẵn sàng quay lại",
+          "id": "Katakan kenapa kamu siap kembali bekerja",
+          "ms": "Nyatakan mengapa anda bersedia untuk kembali",
+          "ko": "다시 일할 준비가 된 이유를 말하세요"
+        },
+        "practice": "Diga por qué ya puede volver al trabajo",
+        "practice_translations": {
+          "en": "Say why you are ready to return",
+          "es": "Diga por qué ya puede volver al trabajo",
+          "ja": "復帰する準備ができている理由を伝えてください",
+          "ko": "다시 일할 준비가 된 이유를 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I took a year off to take care of a family member.",
+      "native_translations": {
+        "en": "I took a year off to take care of a family member.",
+        "es": "Me tomé un año para cuidar a un familiar.",
+        "fr": "J'ai pris un an de pause pour m'occuper d'un membre de ma famille.",
+        "de": "Ich habe ein Jahr Auszeit genommen, um mich um ein Familienmitglied zu kümmern.",
+        "it": "Mi sono preso un anno di pausa per assistere un familiare.",
+        "pl": "Wziąłem rok przerwy, żeby zaopiekować się członkiem rodziny.",
+        "pt": "Tirei um ano para cuidar de um familiar.",
+        "nl": "Ik heb een jaar vrij genomen om voor een familielid te zorgen.",
+        "hr": "Uzeo sam godinu dana stanke kako bih se brinuo o članu obitelji.",
+        "tr": "Bir aile üyeme bakmak için bir yıl ara verdim.",
+        "uk": "Я взяв рік перерви, щоб доглядати за членом родини.",
+        "ar": "أخذت استراحة لمدة عام لرعاية أحد أفراد عائلتي.",
+        "hi": "परिवार के एक सदस्य की देखभाल के लिए मैंने एक साल का ब्रेक लिया था।",
+        "vi": "Tôi đã nghỉ một năm để chăm sóc người nhà.",
+        "id": "Saya rehat setahun untuk merawat anggota keluarga.",
+        "ms": "Saya berehat setahun untuk menjaga ahli keluarga.",
+        "ko": "가족을 돌보느라 1년 동안 일을 쉬었어요."
+      },
+      "practice": "Me tomé un año para cuidar a un familiar.",
+      "practice_translations": {
+        "en": "I took a year off to take care of a family member.",
+        "es": "Me tomé un año para cuidar a un familiar.",
+        "ja": "家族の介護のため、1年間仕事を離れていました。",
+        "ko": "가족을 돌보느라 1년 동안 일을 쉬었어요."
+      }
+    },
+    {
+      "native": "During that time, I also took an online course in accounting.",
+      "native_translations": {
+        "en": "During that time, I also took an online course in accounting.",
+        "es": "Durante ese tiempo, también hice un curso en línea de contabilidad.",
+        "fr": "Pendant cette période, j'ai aussi suivi une formation en ligne en comptabilité.",
+        "de": "In dieser Zeit habe ich außerdem einen Online-Kurs in Buchhaltung gemacht.",
+        "it": "In quel periodo ho anche seguito un corso online di contabilità.",
+        "pl": "W tym czasie zrobiłem też kurs online z księgowości.",
+        "pt": "Nesse período, também fiz um curso online de contabilidade.",
+        "nl": "In die tijd heb ik ook een online cursus boekhouden gevolgd.",
+        "hr": "U to vrijeme završio sam i online tečaj računovodstva.",
+        "tr": "O süre içinde internetten bir muhasebe kursu da aldım.",
+        "uk": "За цей час я також пройшов онлайн-курс із бухгалтерії.",
+        "ar": "خلال تلك الفترة، أخذت أيضًا دورة عبر الإنترنت في المحاسبة.",
+        "hi": "उस दौरान मैंने अकाउंटिंग का एक ऑनलाइन कोर्स भी किया।",
+        "vi": "Trong thời gian đó, tôi cũng học một khóa kế toán trực tuyến.",
+        "id": "Selama itu, saya juga mengikuti kursus akuntansi online.",
+        "ms": "Dalam tempoh itu, saya juga mengikuti kursus perakaunan dalam talian.",
+        "ko": "그동안 온라인으로 회계 강좌도 들었어요."
+      },
+      "practice": "Durante ese tiempo, también hice un curso en línea de contabilidad.",
+      "practice_translations": {
+        "en": "During that time, I also took an online course in accounting.",
+        "es": "Durante ese tiempo, también hice un curso en línea de contabilidad.",
+        "ja": "その間に、会計のオンライン講座も受講しました。",
+        "ko": "그동안 온라인으로 회계 강좌도 들었어요."
+      }
+    },
+    {
+      "native": "That situation is resolved now, and I'm ready to focus on my career.",
+      "native_translations": {
+        "en": "That situation is resolved now, and I'm ready to focus on my career.",
+        "es": "Esa situación ya está resuelta y estoy listo para concentrarme en mi carrera.",
+        "fr": "Cette situation est réglée maintenant, et je suis prêt à me concentrer sur ma carrière.",
+        "de": "Diese Situation ist jetzt geklärt, und ich bin bereit, mich auf meine Karriere zu konzentrieren.",
+        "it": "Ora quella situazione è risolta e sono pronto a concentrarmi sulla mia carriera.",
+        "pl": "Ta sytuacja jest już rozwiązana i jestem gotowy skupić się na karierze.",
+        "pt": "Essa situação já está resolvida, e estou pronto para me dedicar à minha carreira.",
+        "nl": "Die situatie is nu opgelost, en ik ben klaar om me op mijn loopbaan te richten.",
+        "hr": "Ta je situacija sada riješena i spreman sam se posvetiti karijeri.",
+        "tr": "O durum artık çözüldü ve kariyerime odaklanmaya hazırım.",
+        "uk": "Тепер ця ситуація вирішена, і я готовий зосередитися на кар'єрі.",
+        "ar": "لقد حُلّ ذلك الوضع الآن، وأنا مستعد للتركيز على مسيرتي المهنية.",
+        "hi": "अब वह स्थिति सुलझ गई है, और मैं अपने करियर पर ध्यान देने के लिए तैयार हूँ।",
+        "vi": "Chuyện đó giờ đã ổn rồi, và tôi sẵn sàng tập trung cho sự nghiệp.",
+        "id": "Situasi itu sekarang sudah selesai, dan saya siap fokus pada karier saya.",
+        "ms": "Keadaan itu sudah selesai sekarang, dan saya bersedia untuk fokus pada kerjaya saya.",
+        "ko": "그 일은 이제 해결됐고, 제 경력에 집중할 준비가 됐어요."
+      },
+      "practice": "Esa situación ya está resuelta y estoy listo para concentrarme en mi carrera.",
+      "practice_translations": {
+        "en": "That situation is resolved now, and I'm ready to focus on my career.",
+        "es": "Esa situación ya está resuelta y estoy listo para concentrarme en mi carrera.",
+        "ja": "その問題はもう解決したので、仕事に集中できます。",
+        "ko": "그 일은 이제 해결됐고, 제 경력에 집중할 준비가 됐어요."
+      }
+    },
+    {
+      "native": "I think that experience made me more organized.",
+      "native_translations": {
+        "en": "I think that experience made me more organized.",
+        "es": "Creo que esa experiencia me hizo más organizado.",
+        "fr": "Je pense que cette expérience m'a rendu plus organisé.",
+        "de": "Ich glaube, diese Erfahrung hat mich organisierter gemacht.",
+        "it": "Credo che quell'esperienza mi abbia reso più organizzato.",
+        "pl": "Myślę, że to doświadczenie nauczyło mnie lepszej organizacji.",
+        "pt": "Acho que essa experiência me deixou mais organizado.",
+        "nl": "Ik denk dat die ervaring me beter georganiseerd heeft gemaakt.",
+        "hr": "Mislim da me to iskustvo naučilo bolje se organizirati.",
+        "tr": "Bence o deneyim beni daha düzenli biri yaptı.",
+        "uk": "Думаю, цей досвід зробив мене організованішим.",
+        "ar": "أعتقد أن تلك التجربة جعلتني أكثر تنظيمًا.",
+        "hi": "मुझे लगता है उस अनुभव ने मुझे ज़्यादा व्यवस्थित बनाया है।",
+        "vi": "Tôi nghĩ trải nghiệm đó giúp tôi ngăn nắp hơn.",
+        "id": "Menurut saya pengalaman itu membuat saya lebih teratur.",
+        "ms": "Saya rasa pengalaman itu menjadikan saya lebih teratur.",
+        "ko": "그 경험 덕분에 더 체계적인 사람이 된 것 같아요."
+      },
+      "practice": "Creo que esa experiencia me hizo más organizado.",
+      "practice_translations": {
+        "en": "I think that experience made me more organized.",
+        "es": "Creo que esa experiencia me hizo más organizado.",
+        "ja": "その経験を通して、以前より計画的に動けるようになったと思います。",
+        "ko": "그 경험 덕분에 더 체계적인 사람이 된 것 같아요."
+      }
+    }
+  ]
+}

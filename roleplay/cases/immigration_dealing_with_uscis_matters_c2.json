@@ -1,0 +1,321 @@
+{
+  "id": "immigration_dealing_with_uscis_matters_c2",
+  "title": "Checking on a Delayed Case",
+  "title_translations": {
+    "en": "Checking on a Delayed Case",
+    "es": "Consultar un caso retrasado",
+    "fr": "Relancer un dossier en retard",
+    "de": "Nachfragen bei einem verzögerten Fall",
+    "it": "Verificare una pratica in ritardo",
+    "pl": "Pytanie o opóźnioną sprawę",
+    "pt": "Consultando um caso atrasado",
+    "nl": "Navragen over een vertraagde zaak",
+    "hr": "Provjera slučaja koji kasni",
+    "tr": "Geciken Bir Dosyayı Sormak",
+    "uk": "Справа, що затягнулася",
+    "ar": "الاستفسار عن قضية متأخرة",
+    "hi": "अटके हुए केस की जानकारी",
+    "vi": "Hỏi về hồ sơ bị chậm",
+    "id": "Menanyakan Kasus yang Tertunda",
+    "ms": "Menyemak Kes yang Tertangguh",
+    "ko": "지연된 사건 확인하기"
+  },
+  "character": "fox",
+  "scenario": "Your case has been pending much longer than the usual processing time. You call the contact center, and an agent (AI) takes your call.",
+  "scenario_translations": {
+    "en": "Your case has been pending much longer than the usual processing time. You call the contact center, and an agent (AI) takes your call.",
+    "es": "Su caso lleva pendiente mucho más tiempo que el plazo de trámite habitual. Llama al centro de contacto y un agente (AI) toma su llamada.",
+    "fr": "Votre dossier est en attente depuis bien plus longtemps que le délai de traitement habituel. Vous appelez le centre de contact, et un agent (AI) prend votre appel.",
+    "de": "Ihr Fall ist schon viel länger in Bearbeitung als üblich. Sie rufen das Kontaktzentrum an, und ein Mitarbeiter (AI) nimmt Ihren Anruf entgegen.",
+    "it": "La tua pratica è in sospeso da molto più tempo rispetto ai normali tempi di elaborazione. Chiami il centro assistenza e un operatore (AI) risponde alla tua chiamata.",
+    "pl": "Twoja sprawa czeka na rozpatrzenie znacznie dłużej niż zwykle. Dzwonisz na infolinię i odbiera konsultantka (AI).",
+    "pt": "Seu caso está pendente há muito mais tempo que o prazo normal de processamento. Você liga para a central de atendimento, e um atendente (AI) atende a ligação.",
+    "nl": "Je zaak ligt al veel langer dan de gebruikelijke behandeltijd te wachten. Je belt het contactcenter en een medewerker (AI) neemt je gesprek aan.",
+    "hr": "Tvoj je slučaj na čekanju puno dulje od uobičajenog roka obrade. Zoveš kontaktni centar i poziv preuzima službenik (AI).",
+    "tr": "Dosyanız normal işlem süresinden çok daha uzun süredir bekliyor. Çağrı merkezini arıyorsunuz ve bir temsilci (AI) aramanızı yanıtlıyor.",
+    "uk": "Твою справу розглядають набагато довше, ніж зазвичай. Ти телефонуєш у контакт-центр, і твій дзвінок приймає оператор (AI).",
+    "ar": "قضيتك معلّقة منذ مدة أطول بكثير من مدة المعالجة المعتادة. تتصل بمركز الاتصال، ويتلقى مكالمتك موظف (AI).",
+    "hi": "आपका केस आमतौर पर लगने वाले समय से कहीं ज़्यादा समय से लंबित है। आप कॉन्टैक्ट सेंटर में फ़ोन करते हैं, और एक एजेंट (AI) आपकी कॉल लेते हैं।",
+    "vi": "Hồ sơ của bạn đã chờ xử lý lâu hơn nhiều so với thời gian thông thường. Bạn gọi đến trung tâm liên lạc và một nhân viên (AI) nhận cuộc gọi.",
+    "id": "Kasusmu sudah tertunda jauh lebih lama dari waktu proses biasanya. Kamu menelepon pusat layanan, dan seorang petugas (AI) menerima teleponmu.",
+    "ms": "Kes anda telah tertangguh jauh lebih lama daripada tempoh pemprosesan biasa. Anda menelefon pusat panggilan, dan seorang ejen (AI) menjawab panggilan anda.",
+    "ko": "당신의 사건이 일반 처리 기간보다 훨씬 오래 계류 중입니다. 고객센터에 전화하자 상담원(AI)이 전화를 받습니다."
+  },
+  "mission": {
+    "native": "Explain that your case is delayed and find out how to request a review.",
+    "native_translations": {
+      "en": "Explain that your case is delayed and find out how to request a review.",
+      "es": "Explique que su caso está retrasado y averigüe cómo solicitar una revisión.",
+      "fr": "Expliquez que votre dossier a pris du retard et renseignez-vous sur la façon de demander un réexamen.",
+      "de": "Erklären Sie, dass sich Ihr Fall verzögert, und finden Sie heraus, wie Sie eine Überprüfung beantragen können.",
+      "it": "Spiega che la tua pratica è in ritardo e scopri come chiedere una verifica.",
+      "pl": "Wyjaśnij, że twoja sprawa jest opóźniona, i dowiedz się, jak poprosić o jej sprawdzenie.",
+      "pt": "Explique que seu caso está atrasado e descubra como pedir uma revisão.",
+      "nl": "Leg uit dat je zaak vertraagd is en vraag hoe je om een controle kunt verzoeken.",
+      "hr": "Objasni da tvoj slučaj kasni i saznaj kako zatražiti provjeru.",
+      "tr": "Dosyanızın geciktiğini açıklayın ve nasıl inceleme talep edebileceğinizi öğrenin.",
+      "uk": "Поясни, що твоя справа затримується, і дізнайся, як подати запит на перевірку.",
+      "ar": "اشرح أن قضيتك متأخرة واعرف كيف تطلب مراجعتها.",
+      "hi": "बताइए कि आपके केस में देरी हो रही है और पता कीजिए कि समीक्षा का अनुरोध कैसे करें।",
+      "vi": "Giải thích rằng hồ sơ của bạn bị chậm và tìm hiểu cách yêu cầu xem xét.",
+      "id": "Jelaskan bahwa kasusmu tertunda dan cari tahu cara mengajukan peninjauan.",
+      "ms": "Terangkan bahawa kes anda tertangguh dan ketahui cara memohon semakan.",
+      "ko": "사건이 지연되고 있다고 설명하고 검토를 요청하는 방법을 알아보세요."
+    },
+    "practice": "Explique que su caso está retrasado y averigüe cómo solicitar una revisión.",
+    "practice_translations": {
+      "en": "Explain that your case is delayed and find out how to request a review.",
+      "es": "Explique que su caso está retrasado y averigüe cómo solicitar una revisión.",
+      "ja": "手続きが遅れていることを説明して、確認を依頼する方法を聞いてください。",
+      "ko": "사건이 지연되고 있다고 설명하고 검토를 요청하는 방법을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you are calling about a delayed case",
+        "native_translations": {
+          "en": "Say you are calling about a delayed case",
+          "es": "Diga que llama por un caso retrasado",
+          "fr": "Dites que vous appelez au sujet d'un dossier en retard",
+          "de": "Sagen Sie, dass Sie wegen eines verzögerten Falls anrufen",
+          "it": "Di' che chiami per una pratica in ritardo",
+          "pl": "Powiedz, że dzwonisz w sprawie opóźnionej sprawy",
+          "pt": "Diga que está ligando sobre um caso atrasado",
+          "nl": "Zeg dat je belt over een vertraagde zaak",
+          "hr": "Reci da zoveš zbog slučaja koji kasni",
+          "tr": "Geciken bir dosya için aradığınızı söyleyin",
+          "uk": "Скажи, що телефонуєш щодо затриманої справи",
+          "ar": "قل إنك تتصل بخصوص قضية متأخرة",
+          "hi": "कहिए कि आप एक अटके हुए केस के बारे में फ़ोन कर रहे हैं",
+          "vi": "Nói bạn gọi về một hồ sơ bị chậm",
+          "id": "Katakan bahwa kamu menelepon soal kasus yang tertunda",
+          "ms": "Katakan anda menelefon tentang kes yang tertangguh",
+          "ko": "지연된 사건 때문에 전화했다고 말하세요"
+        },
+        "practice": "Diga que llama por un caso retrasado",
+        "practice_translations": {
+          "en": "Say you are calling about a delayed case",
+          "es": "Diga que llama por un caso retrasado",
+          "ja": "手続きの遅れについて電話したと伝えてください",
+          "ko": "지연된 사건 때문에 전화했다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Give your receipt number",
+        "native_translations": {
+          "en": "Give your receipt number",
+          "es": "Dé su número de recibo",
+          "fr": "Donnez votre numéro de récépissé",
+          "de": "Nennen Sie Ihre Eingangsnummer",
+          "it": "Fornisci il tuo numero di ricevuta",
+          "pl": "Podaj numer potwierdzenia",
+          "pt": "Informe o número do seu recibo",
+          "nl": "Geef je ontvangstnummer",
+          "hr": "Navedi broj potvrde o primitku",
+          "tr": "Başvuru numaranızı verin",
+          "uk": "Назви номер своєї квитанції",
+          "ar": "أعطِ رقم الإيصال",
+          "hi": "अपना रसीद नंबर बताइए",
+          "vi": "Cung cấp số biên nhận",
+          "id": "Sebutkan nomor tanda terimamu",
+          "ms": "Berikan nombor resit anda",
+          "ko": "접수 번호를 알려 주세요"
+        },
+        "practice": "Dé su número de recibo",
+        "practice_translations": {
+          "en": "Give your receipt number",
+          "es": "Dé su número de recibo",
+          "ja": "受付番号を伝えてください",
+          "ko": "접수 번호를 알려 주세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say how long the case has been pending",
+        "native_translations": {
+          "en": "Say how long the case has been pending",
+          "es": "Diga cuánto tiempo lleva pendiente el caso",
+          "fr": "Dites depuis combien de temps le dossier est en attente",
+          "de": "Sagen Sie, wie lange der Fall schon in Bearbeitung ist",
+          "it": "Di' da quanto tempo la pratica è in sospeso",
+          "pl": "Powiedz, jak długo sprawa czeka na rozpatrzenie",
+          "pt": "Diga há quanto tempo o caso está pendente",
+          "nl": "Zeg hoe lang de zaak al loopt",
+          "hr": "Reci koliko je dugo slučaj na čekanju",
+          "tr": "Dosyanın ne kadar süredir beklediğini söyleyin",
+          "uk": "Скажи, скільки часу справа на розгляді",
+          "ar": "قل منذ متى والقضية معلّقة",
+          "hi": "बताइए कि केस कितने समय से लंबित है",
+          "vi": "Nói hồ sơ đã chờ xử lý bao lâu",
+          "id": "Sebutkan sudah berapa lama kasusnya tertunda",
+          "ms": "Katakan berapa lama kes itu telah tertangguh",
+          "ko": "사건이 얼마나 오래 계류 중인지 말하세요"
+        },
+        "practice": "Diga cuánto tiempo lleva pendiente el caso",
+        "practice_translations": {
+          "en": "Say how long the case has been pending",
+          "es": "Diga cuánto tiempo lleva pendiente el caso",
+          "ja": "どのくらい審査中のままか伝えてください",
+          "ko": "사건이 얼마나 오래 계류 중인지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask how to request a case inquiry",
+        "native_translations": {
+          "en": "Ask how to request a case inquiry",
+          "es": "Pregunte cómo solicitar una consulta sobre el caso",
+          "fr": "Demandez comment faire une demande de renseignements sur le dossier",
+          "de": "Fragen Sie, wie Sie eine Sachstandsanfrage stellen können",
+          "it": "Chiedi come presentare una richiesta di informazioni sulla pratica",
+          "pl": "Zapytaj, jak złożyć zapytanie w sprawie",
+          "pt": "Pergunte como abrir uma consulta sobre o caso",
+          "nl": "Vraag hoe je een navraag over je zaak kunt indienen",
+          "hr": "Pitaj kako podnijeti upit o slučaju",
+          "tr": "Dosya sorgusu talebini nasıl yapacağınızı sorun",
+          "uk": "Запитай, як подати запит щодо справи",
+          "ar": "اسأل كيف تقدّم استفسارًا عن القضية",
+          "hi": "पूछिए कि केस इन्क्वायरी का अनुरोध कैसे करें",
+          "vi": "Hỏi cách gửi yêu cầu tra hỏi hồ sơ",
+          "id": "Tanyakan cara mengajukan pertanyaan resmi tentang kasusmu",
+          "ms": "Tanya cara membuat pertanyaan tentang kes",
+          "ko": "사건 문의를 요청하는 방법을 물어보세요"
+        },
+        "practice": "Pregunte cómo solicitar una consulta sobre el caso",
+        "practice_translations": {
+          "en": "Ask how to request a case inquiry",
+          "es": "Pregunte cómo solicitar una consulta sobre el caso",
+          "ja": "問い合わせの申請方法を聞いてください",
+          "ko": "사건 문의를 요청하는 방법을 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm calling because my case is taking longer than normal.",
+      "native_translations": {
+        "en": "I'm calling because my case is taking longer than normal.",
+        "es": "Llamo porque mi caso está tardando más de lo normal.",
+        "fr": "J'appelle parce que mon dossier prend plus de temps que la normale.",
+        "de": "Ich rufe an, weil die Bearbeitung meines Falls länger dauert als normal.",
+        "it": "Chiamo perché la mia pratica sta richiedendo più tempo del normale.",
+        "pl": "Dzwonię, bo moja sprawa trwa dłużej niż zwykle.",
+        "pt": "Estou ligando porque meu caso está demorando mais que o normal.",
+        "nl": "Ik bel omdat mijn zaak langer duurt dan normaal.",
+        "hr": "Zovem jer se moj slučaj rješava dulje nego inače.",
+        "tr": "Dosyam normalden uzun sürdüğü için arıyorum.",
+        "uk": "Я телефоную, бо моя справа розглядається довше, ніж зазвичай.",
+        "ar": "أتصل لأن قضيتي تستغرق وقتًا أطول من المعتاد.",
+        "hi": "मैं इसलिए फ़ोन कर रहा हूँ क्योंकि मेरे केस में सामान्य से ज़्यादा समय लग रहा है।",
+        "vi": "Tôi gọi vì hồ sơ của tôi đang bị chậm hơn bình thường.",
+        "id": "Saya menelepon karena kasus saya memakan waktu lebih lama dari biasanya.",
+        "ms": "Saya menelefon kerana kes saya mengambil masa lebih lama daripada biasa.",
+        "ko": "제 사건이 평소보다 오래 걸려서 전화드렸어요."
+      },
+      "practice": "Llamo porque mi caso está tardando más de lo normal.",
+      "practice_translations": {
+        "en": "I'm calling because my case is taking longer than normal.",
+        "es": "Llamo porque mi caso está tardando más de lo normal.",
+        "ja": "手続きに通常より時間がかかっているので、お電話しました。",
+        "ko": "제 사건이 평소보다 오래 걸려서 전화드렸어요."
+      }
+    },
+    {
+      "native": "Of course, here is my receipt number.",
+      "native_translations": {
+        "en": "Of course, here is my receipt number.",
+        "es": "Claro, aquí tiene mi número de recibo.",
+        "fr": "Bien sûr, voici mon numéro de récépissé.",
+        "de": "Natürlich, hier ist meine Eingangsnummer.",
+        "it": "Certo, ecco il mio numero di ricevuta.",
+        "pl": "Oczywiście, oto mój numer potwierdzenia.",
+        "pt": "Claro, aqui está o número do meu recibo.",
+        "nl": "Natuurlijk, hier is mijn ontvangstnummer.",
+        "hr": "Naravno, evo broja moje potvrde o primitku.",
+        "tr": "Tabii, başvuru numaram şu.",
+        "uk": "Звісно, ось номер моєї квитанції.",
+        "ar": "بالتأكيد، هذا رقم الإيصال الخاص بي.",
+        "hi": "ज़रूर, यह रहा मेरा रसीद नंबर।",
+        "vi": "Vâng, đây là số biên nhận của tôi.",
+        "id": "Tentu, ini nomor tanda terima saya.",
+        "ms": "Sudah tentu, ini nombor resit saya.",
+        "ko": "네, 여기 제 접수 번호예요."
+      },
+      "practice": "Claro, aquí tiene mi número de recibo.",
+      "practice_translations": {
+        "en": "Of course, here is my receipt number.",
+        "es": "Claro, aquí tiene mi número de recibo.",
+        "ja": "はい、受付番号はこちらです。",
+        "ko": "네, 여기 제 접수 번호예요."
+      }
+    },
+    {
+      "native": "I filed my application eleven months ago.",
+      "native_translations": {
+        "en": "I filed my application eleven months ago.",
+        "es": "Presenté mi solicitud hace once meses.",
+        "fr": "J'ai déposé ma demande il y a onze mois.",
+        "de": "Ich habe meinen Antrag vor elf Monaten eingereicht.",
+        "it": "Ho presentato la domanda undici mesi fa.",
+        "pl": "Złożyłem wniosek jedenaście miesięcy temu.",
+        "pt": "Enviei meu pedido há onze meses.",
+        "nl": "Ik heb mijn aanvraag elf maanden geleden ingediend.",
+        "hr": "Zahtjev je podnesen prije jedanaest mjeseci.",
+        "tr": "Başvurumu on bir ay önce yaptım.",
+        "uk": "Я подав заяву одинадцять місяців тому.",
+        "ar": "قدّمت طلبي قبل أحد عشر شهرًا.",
+        "hi": "मैंने ग्यारह महीने पहले अपना आवेदन जमा किया था।",
+        "vi": "Tôi đã nộp đơn cách đây mười một tháng.",
+        "id": "Saya mengajukan permohonan sebelas bulan yang lalu.",
+        "ms": "Saya menghantar permohonan saya sebelas bulan yang lalu.",
+        "ko": "11개월 전에 신청서를 제출했어요."
+      },
+      "practice": "Presenté mi solicitud hace once meses.",
+      "practice_translations": {
+        "en": "I filed my application eleven months ago.",
+        "es": "Presenté mi solicitud hace once meses.",
+        "ja": "11か月前に申請しました。",
+        "ko": "11개월 전에 신청서를 제출했어요."
+      }
+    },
+    {
+      "native": "Is there a way to submit an inquiry about my case?",
+      "native_translations": {
+        "en": "Is there a way to submit an inquiry about my case?",
+        "es": "¿Hay alguna manera de presentar una consulta sobre mi caso?",
+        "fr": "Est-il possible d'envoyer une demande de renseignements sur mon dossier ?",
+        "de": "Gibt es eine Möglichkeit, eine Anfrage zu meinem Fall zu stellen?",
+        "it": "C'è un modo per inviare una richiesta di informazioni sulla mia pratica?",
+        "pl": "Czy mogę złożyć zapytanie w sprawie mojego wniosku?",
+        "pt": "Existe alguma forma de abrir uma consulta sobre o meu caso?",
+        "nl": "Is er een manier om een navraag over mijn zaak in te dienen?",
+        "hr": "Mogu li nekako podnijeti upit o svom slučaju?",
+        "tr": "Dosyamla ilgili bir sorgu talebi göndermenin bir yolu var mı?",
+        "uk": "Чи можна подати запит щодо моєї справи?",
+        "ar": "هل هناك طريقة لتقديم استفسار عن قضيتي؟",
+        "hi": "क्या मेरे केस के बारे में इन्क्वायरी भेजने का कोई तरीक़ा है?",
+        "vi": "Có cách nào để gửi yêu cầu tra hỏi về hồ sơ của tôi không?",
+        "id": "Apakah ada cara untuk mengajukan pertanyaan resmi tentang kasus saya?",
+        "ms": "Adakah cara untuk menghantar pertanyaan tentang kes saya?",
+        "ko": "제 사건에 대해 문의를 넣을 방법이 있을까요?"
+      },
+      "practice": "¿Hay alguna manera de presentar una consulta sobre mi caso?",
+      "practice_translations": {
+        "en": "Is there a way to submit an inquiry about my case?",
+        "es": "¿Hay alguna manera de presentar una consulta sobre mi caso?",
+        "ja": "私の手続きについて問い合わせを出す方法はありますか。",
+        "ko": "제 사건에 대해 문의를 넣을 방법이 있을까요?"
+      }
+    }
+  ]
+}

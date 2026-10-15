@@ -1,0 +1,350 @@
+{
+  "id": "study_abroad_daily_social_life_c2",
+  "title": "Joining a Student Club",
+  "title_translations": {
+    "en": "Joining a Student Club",
+    "es": "Unirse a un club estudiantil",
+    "fr": "Rejoindre une association étudiante",
+    "de": "Einem Studentenclub beitreten",
+    "it": "Entrare in un club studentesco",
+    "pl": "Dołączenie do koła studenckiego",
+    "pt": "Entrando em um clube estudantil",
+    "nl": "Lid worden van een studentenvereniging",
+    "hr": "Učlanjenje u studentski klub",
+    "tr": "Bir Öğrenci Kulübüne Katılmak",
+    "uk": "Вступ до студентського клубу",
+    "ar": "الانضمام إلى نادٍ طلابي",
+    "hi": "स्टूडेंट क्लब से जुड़ना",
+    "vi": "Tham gia câu lạc bộ sinh viên",
+    "id": "Bergabung dengan Klub Mahasiswa",
+    "ms": "Menyertai Kelab Pelajar",
+    "ko": "학생 동아리 가입하기"
+  },
+  "character": "fox",
+  "scenario": "At the club fair, a member of the hiking club (AI) invites you to their table.",
+  "scenario_translations": {
+    "en": "At the club fair, a member of the hiking club (AI) invites you to their table.",
+    "es": "En la feria de clubes, un miembro del club de senderismo (AI) le invita a acercarse a su mesa.",
+    "fr": "Au forum des associations, un membre du club de randonnée (AI) vous invite à venir à son stand.",
+    "de": "Auf der Vereinsmesse lädt Sie ein Mitglied des Wanderclubs (AI) an seinen Stand ein.",
+    "it": "Alla fiera dei club, un membro del club di escursionismo (AI) ti invita al suo stand.",
+    "pl": "Na targach kół studenckich członkini klubu turystycznego (AI) zaprasza cię do swojego stoiska.",
+    "pt": "Na feira de clubes, um membro do clube de trilhas (AI) convida você até a mesa deles.",
+    "nl": "Op de verenigingenmarkt nodigt een lid van de wandelclub (AI) je uit bij hun kraam.",
+    "hr": "Na sajmu studentskih klubova član planinarskog kluba (AI) poziva te do njihova štanda.",
+    "tr": "Kulüp fuarında doğa yürüyüşü kulübünün bir üyesi (AI) sizi masalarına davet ediyor.",
+    "uk": "На ярмарку клубів учасник туристичного клубу (AI) запрошує тебе до їхнього столу.",
+    "ar": "في معرض الأندية، يدعوك عضو في نادي المشي الجبلي (AI) إلى طاولتهم.",
+    "hi": "क्लब फ़ेयर में हाइकिंग क्लब के एक सदस्य (AI) आपको अपनी टेबल पर बुलाते हैं।",
+    "vi": "Tại ngày hội câu lạc bộ, một thành viên của câu lạc bộ leo núi (AI) mời bạn ghé qua bàn của họ.",
+    "id": "Di pameran klub, seorang anggota klub pendaki (AI) mengajakmu mampir ke mejanya.",
+    "ms": "Di pameran kelab, seorang ahli kelab mendaki (AI) mengajak anda ke meja mereka.",
+    "ko": "동아리 박람회에서 등산 동아리 회원(AI)이 자기네 부스로 오라고 권합니다."
+  },
+  "mission": {
+    "native": "Learn about the club and sign up for its next activity.",
+    "native_translations": {
+      "en": "Learn about the club and sign up for its next activity.",
+      "es": "Infórmese sobre el club e inscríbase en su próxima actividad.",
+      "fr": "Renseignez-vous sur le club et inscrivez-vous à sa prochaine activité.",
+      "de": "Informieren Sie sich über den Club und melden Sie sich für die nächste Aktivität an.",
+      "it": "Informati sul club e iscriviti alla prossima attività.",
+      "pl": "Dowiedz się czegoś o klubie i zapisz się na jego najbliższe wydarzenie.",
+      "pt": "Conheça o clube e inscreva-se na próxima atividade.",
+      "nl": "Kom meer te weten over de club en schrijf je in voor de volgende activiteit.",
+      "hr": "Saznaj više o klubu i prijavi se na njegovu sljedeću aktivnost.",
+      "tr": "Kulüp hakkında bilgi alın ve bir sonraki etkinliğine kaydolun.",
+      "uk": "Дізнайся про клуб і запишися на його наступний захід.",
+      "ar": "تعرّف على النادي وسجّل في نشاطه القادم.",
+      "hi": "क्लब के बारे में जानिए और उसकी अगली गतिविधि के लिए साइन अप कीजिए।",
+      "vi": "Tìm hiểu về câu lạc bộ và đăng ký hoạt động tiếp theo.",
+      "id": "Pelajari tentang klub itu dan daftar untuk kegiatan berikutnya.",
+      "ms": "Ketahui tentang kelab itu dan daftar untuk aktiviti seterusnya.",
+      "ko": "동아리에 대해 알아보고 다음 활동에 신청하세요."
+    },
+    "practice": "Infórmese sobre el club e inscríbase en su próxima actividad.",
+    "practice_translations": {
+      "en": "Learn about the club and sign up for its next activity.",
+      "es": "Infórmese sobre el club e inscríbase en su próxima actividad.",
+      "ja": "サークルについて聞いて、次の活動に申し込んでください。",
+      "ko": "동아리에 대해 알아보고 다음 활동에 신청하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what the club does",
+        "native_translations": {
+          "en": "Ask what the club does",
+          "es": "Pregunte qué hace el club",
+          "fr": "Demandez ce que fait le club",
+          "de": "Fragen Sie, was der Club macht",
+          "it": "Chiedi di cosa si occupa il club",
+          "pl": "Zapytaj, czym zajmuje się klub",
+          "pt": "Pergunte o que o clube faz",
+          "nl": "Vraag wat de club doet",
+          "hr": "Pitaj čime se klub bavi",
+          "tr": "Kulübün ne yaptığını sorun",
+          "uk": "Запитай, чим займається клуб",
+          "ar": "اسأل عمّا يفعله النادي",
+          "hi": "पूछिए कि क्लब क्या करता है",
+          "vi": "Hỏi câu lạc bộ hoạt động gì",
+          "id": "Tanyakan apa saja kegiatan klubnya",
+          "ms": "Tanya apa yang kelab itu lakukan",
+          "ko": "동아리에서 무엇을 하는지 물어보세요"
+        },
+        "practice": "Pregunte qué hace el club",
+        "practice_translations": {
+          "en": "Ask what the club does",
+          "es": "Pregunte qué hace el club",
+          "ja": "サークルの活動内容を聞いてください",
+          "ko": "동아리에서 무엇을 하는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how often the members meet",
+        "native_translations": {
+          "en": "Ask how often the members meet",
+          "es": "Pregunte con qué frecuencia se reúnen los miembros",
+          "fr": "Demandez à quelle fréquence les membres se retrouvent",
+          "de": "Fragen Sie, wie oft sich die Mitglieder treffen",
+          "it": "Chiedi ogni quanto si incontrano i membri",
+          "pl": "Zapytaj, jak często spotykają się członkowie",
+          "pt": "Pergunte com que frequência os membros se encontram",
+          "nl": "Vraag hoe vaak de leden samenkomen",
+          "hr": "Pitaj koliko se često članovi okupljaju",
+          "tr": "Üyelerin ne sıklıkla buluştuğunu sorun",
+          "uk": "Запитай, як часто збираються учасники",
+          "ar": "اسأل كم مرة يلتقي الأعضاء",
+          "hi": "पूछिए कि सदस्य कितनी बार मिलते हैं",
+          "vi": "Hỏi các thành viên gặp nhau bao lâu một lần",
+          "id": "Tanyakan seberapa sering anggotanya berkumpul",
+          "ms": "Tanya berapa kerap ahli berjumpa",
+          "ko": "회원들이 얼마나 자주 모이는지 물어보세요"
+        },
+        "practice": "Pregunte con qué frecuencia se reúnen los miembros",
+        "practice_translations": {
+          "en": "Ask how often the members meet",
+          "es": "Pregunte con qué frecuencia se reúnen los miembros",
+          "ja": "メンバーがどのくらいの頻度で集まるか聞いてください",
+          "ko": "회원들이 얼마나 자주 모이는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if there is a membership fee",
+        "native_translations": {
+          "en": "Ask if there is a membership fee",
+          "es": "Pregunte si hay que pagar una cuota",
+          "fr": "Demandez s'il y a une cotisation",
+          "de": "Fragen Sie, ob es einen Mitgliedsbeitrag gibt",
+          "it": "Chiedi se c'è una quota di iscrizione",
+          "pl": "Zapytaj, czy jest składka członkowska",
+          "pt": "Pergunte se há uma taxa de adesão",
+          "nl": "Vraag of er contributie is",
+          "hr": "Pitaj plaća li se članarina",
+          "tr": "Üyelik ücreti olup olmadığını sorun",
+          "uk": "Запитай, чи є членський внесок",
+          "ar": "اسأل إن كانت هناك رسوم عضوية",
+          "hi": "पूछिए कि क्या कोई मेंबरशिप फ़ीस है",
+          "vi": "Hỏi có phí thành viên không",
+          "id": "Tanyakan apakah ada iuran anggota",
+          "ms": "Tanya sama ada ada yuran keahlian",
+          "ko": "회비가 있는지 물어보세요"
+        },
+        "practice": "Pregunte si hay que pagar una cuota",
+        "practice_translations": {
+          "en": "Ask if there is a membership fee",
+          "es": "Pregunte si hay que pagar una cuota",
+          "ja": "会費があるか聞いてください",
+          "ko": "회비가 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Sign up for the next event",
+        "native_translations": {
+          "en": "Sign up for the next event",
+          "es": "Inscríbase en la próxima actividad",
+          "fr": "Inscrivez-vous au prochain événement",
+          "de": "Melden Sie sich für die nächste Veranstaltung an",
+          "it": "Iscriviti al prossimo evento",
+          "pl": "Zapisz się na najbliższe wydarzenie",
+          "pt": "Inscreva-se no próximo evento",
+          "nl": "Schrijf je in voor het volgende evenement",
+          "hr": "Prijavi se na sljedeće događanje",
+          "tr": "Bir sonraki etkinliğe kaydolun",
+          "uk": "Запишися на наступний захід",
+          "ar": "سجّل في الفعالية القادمة",
+          "hi": "अगले इवेंट के लिए साइन अप कीजिए",
+          "vi": "Đăng ký sự kiện tiếp theo",
+          "id": "Daftar untuk acara berikutnya",
+          "ms": "Daftar untuk acara seterusnya",
+          "ko": "다음 행사에 신청하세요"
+        },
+        "practice": "Inscríbase en la próxima actividad",
+        "practice_translations": {
+          "en": "Sign up for the next event",
+          "es": "Inscríbase en la próxima actividad",
+          "ja": "次のイベントに申し込んでください",
+          "ko": "다음 행사에 신청하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi! What kind of activities does your club do?",
+      "native_translations": {
+        "en": "Hi! What kind of activities does your club do?",
+        "es": "¡Hola! ¿Qué tipo de actividades hace su club?",
+        "fr": "Salut ! Quel genre d'activités fait votre club ?",
+        "de": "Hi! Was für Aktivitäten macht euer Club?",
+        "it": "Ciao! Che tipo di attività fa il vostro club?",
+        "pl": "Cześć! Czym zajmuje się wasz klub?",
+        "pt": "Oi! Que tipo de atividades o clube de vocês faz?",
+        "nl": "Hoi! Wat voor activiteiten doet jullie club?",
+        "hr": "Bok! Kakve aktivnosti ima vaš klub?",
+        "tr": "Merhaba! Kulübünüz ne tür etkinlikler yapıyor?",
+        "uk": "Привіт! Чим займається ваш клуб?",
+        "ar": "مرحبًا! ما نوع الأنشطة التي يقوم بها ناديكم؟",
+        "hi": "हाय! आपका क्लब किस तरह की गतिविधियाँ करता है?",
+        "vi": "Chào bạn! Câu lạc bộ của bạn có những hoạt động gì vậy?",
+        "id": "Hai! Klub kalian kegiatannya apa saja?",
+        "ms": "Hai! Apa jenis aktiviti yang kelab awak buat?",
+        "ko": "안녕하세요! 동아리에서 어떤 활동을 해요?"
+      },
+      "practice": "¡Hola! ¿Qué tipo de actividades hace su club?",
+      "practice_translations": {
+        "en": "Hi! What kind of activities does your club do?",
+        "es": "¡Hola! ¿Qué tipo de actividades hace su club?",
+        "ja": "こんにちは！このサークルではどんな活動をしているんですか。",
+        "ko": "안녕하세요! 동아리에서 어떤 활동을 해요?"
+      }
+    },
+    {
+      "native": "How often do you meet?",
+      "native_translations": {
+        "en": "How often do you meet?",
+        "es": "¿Cada cuánto se reúnen?",
+        "fr": "Vous vous retrouvez tous les combien ?",
+        "de": "Wie oft trefft ihr euch?",
+        "it": "Ogni quanto vi incontrate?",
+        "pl": "Jak często się spotykacie?",
+        "pt": "Com que frequência vocês se encontram?",
+        "nl": "Hoe vaak komen jullie samen?",
+        "hr": "Koliko se često okupljate?",
+        "tr": "Ne sıklıkla buluşuyorsunuz?",
+        "uk": "Як часто ви збираєтеся?",
+        "ar": "كم مرة تلتقون؟",
+        "hi": "आप लोग कितनी बार मिलते हैं?",
+        "vi": "Các bạn gặp nhau bao lâu một lần?",
+        "id": "Seberapa sering kalian berkumpul?",
+        "ms": "Berapa kerap kamu berjumpa?",
+        "ko": "얼마나 자주 모여요?"
+      },
+      "practice": "¿Cada cuánto se reúnen?",
+      "practice_translations": {
+        "en": "How often do you meet?",
+        "es": "¿Cada cuánto se reúnen?",
+        "ja": "どのくらいの頻度で集まっていますか。",
+        "ko": "얼마나 자주 모여요?"
+      }
+    },
+    {
+      "native": "Do I need to pay a membership fee?",
+      "native_translations": {
+        "en": "Do I need to pay a membership fee?",
+        "es": "¿Tengo que pagar alguna cuota?",
+        "fr": "Est-ce qu'il faut payer une cotisation ?",
+        "de": "Muss ich einen Mitgliedsbeitrag zahlen?",
+        "it": "Devo pagare una quota di iscrizione?",
+        "pl": "Czy muszę płacić składkę członkowską?",
+        "pt": "Preciso pagar uma taxa de adesão?",
+        "nl": "Moet ik contributie betalen?",
+        "hr": "Trebam li platiti članarinu?",
+        "tr": "Üyelik ücreti ödemem gerekiyor mu?",
+        "uk": "Треба сплачувати членський внесок?",
+        "ar": "هل عليّ دفع رسوم عضوية؟",
+        "hi": "क्या मुझे मेंबरशिप फ़ीस देनी होगी?",
+        "vi": "Mình có phải đóng phí thành viên không?",
+        "id": "Apakah saya perlu membayar iuran anggota?",
+        "ms": "Adakah saya perlu bayar yuran keahlian?",
+        "ko": "회비를 내야 하나요?"
+      },
+      "practice": "¿Tengo que pagar alguna cuota?",
+      "practice_translations": {
+        "en": "Do I need to pay a membership fee?",
+        "es": "¿Tengo que pagar alguna cuota?",
+        "ja": "会費は払う必要がありますか。",
+        "ko": "회비를 내야 하나요?"
+      }
+    },
+    {
+      "native": "I've never hiked before. Is that okay?",
+      "native_translations": {
+        "en": "I've never hiked before. Is that okay?",
+        "es": "Nunca he hecho senderismo. ¿Hay algún problema?",
+        "fr": "Je n'ai jamais fait de randonnée. Ce n'est pas grave ?",
+        "de": "Ich bin noch nie gewandert. Ist das okay?",
+        "it": "Non ho mai fatto escursionismo. Va bene lo stesso?",
+        "pl": "Nigdy wcześniej nie chodziłem po górach. Czy to problem?",
+        "pt": "Nunca fiz trilha antes. Tem problema?",
+        "nl": "Ik heb nog nooit een wandeltocht gemaakt. Is dat oké?",
+        "hr": "Nemam iskustva s planinarenjem. Je li to u redu?",
+        "tr": "Daha önce hiç doğa yürüyüşü yapmadım. Sorun olur mu?",
+        "uk": "Я ніколи не ходив у походи. Це нічого?",
+        "ar": "لم أمارس المشي الجبلي من قبل. هل هذا مقبول؟",
+        "hi": "मैंने पहले कभी हाइकिंग नहीं की। क्या यह ठीक है?",
+        "vi": "Mình chưa leo núi bao giờ. Vậy có sao không?",
+        "id": "Saya belum pernah mendaki. Tidak apa-apa?",
+        "ms": "Saya tak pernah mendaki sebelum ini. Tak apa ke?",
+        "ko": "등산을 한 번도 안 해 봤는데 괜찮아요?"
+      },
+      "practice": "Nunca he hecho senderismo. ¿Hay algún problema?",
+      "practice_translations": {
+        "en": "I've never hiked before. Is that okay?",
+        "es": "Nunca he hecho senderismo. ¿Hay algún problema?",
+        "ja": "ハイキングは一度もしたことがないんですが、大丈夫ですか。",
+        "ko": "등산을 한 번도 안 해 봤는데 괜찮아요?"
+      }
+    },
+    {
+      "native": "Count me in for the next trip!",
+      "native_translations": {
+        "en": "Count me in for the next trip!",
+        "es": "¡Cuenten conmigo para la próxima salida!",
+        "fr": "Comptez sur moi pour la prochaine sortie !",
+        "de": "Bei der nächsten Tour bin ich dabei!",
+        "it": "Per la prossima uscita contate su di me!",
+        "pl": "Zapisz mnie na najbliższy wyjazd!",
+        "pt": "Podem contar comigo na próxima saída!",
+        "nl": "Ik doe mee met de volgende tocht!",
+        "hr": "Računajte na mene za sljedeći izlet!",
+        "tr": "Bir sonraki geziye beni de yazın!",
+        "uk": "Запишіть мене на наступний похід!",
+        "ar": "سجّلوني في الرحلة القادمة!",
+        "hi": "अगली ट्रिप के लिए मेरा नाम लिख लीजिए!",
+        "vi": "Chuyến đi tới cho mình tham gia với nhé!",
+        "id": "Ikutkan saya di perjalanan berikutnya!",
+        "ms": "Kira saya sekali untuk trip seterusnya!",
+        "ko": "다음 산행에 저도 끼워 주세요!"
+      },
+      "practice": "¡Cuenten conmigo para la próxima salida!",
+      "practice_translations": {
+        "en": "Count me in for the next trip!",
+        "es": "¡Cuenten conmigo para la próxima salida!",
+        "ja": "次の山行にぜひ参加させてください！",
+        "ko": "다음 산행에 저도 끼워 주세요!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "academics_classroom_academics_c1",
+  "title": "First Day of Class",
+  "title_translations": {
+    "en": "First Day of Class",
+    "es": "Primer día de clase",
+    "fr": "Premier jour de cours",
+    "de": "Der erste Vorlesungstag",
+    "it": "Primo giorno di lezione",
+    "pl": "Pierwszy dzień zajęć",
+    "pt": "Primeiro dia de aula",
+    "nl": "Eerste collegedag",
+    "hr": "Prvi dan nastave",
+    "tr": "Dersin İlk Günü",
+    "uk": "Перше заняття",
+    "ar": "اليوم الأول في الصف",
+    "hi": "क्लास का पहला दिन",
+    "vi": "Ngày đầu tiên đi học",
+    "id": "Hari Pertama Kuliah",
+    "ms": "Hari Pertama Kelas",
+    "ko": "첫 수업 날"
+  },
+  "character": "fox",
+  "scenario": "Your first lecture has just ended. Your professor (AI) is packing up at the front of the room.",
+  "scenario_translations": {
+    "en": "Your first lecture has just ended. Your professor (AI) is packing up at the front of the room.",
+    "es": "Su primera clase acaba de terminar. Su docente (AI) está recogiendo sus cosas al frente del salón.",
+    "fr": "Votre premier cours magistral vient de se terminer. Votre professeur (AI) range ses affaires à l'avant de la salle.",
+    "de": "Ihre erste Vorlesung ist gerade zu Ende. Ihre Professorin bzw. Ihr Professor (AI) packt vorne im Raum zusammen.",
+    "it": "La tua prima lezione è appena finita. Il tuo professore (AI) sta mettendo via le sue cose davanti all'aula.",
+    "pl": "Właśnie skończył się twój pierwszy wykład. Twój profesor (AI) pakuje rzeczy z przodu sali.",
+    "pt": "Sua primeira aula acabou de terminar. Seu professor (AI) está guardando as coisas na frente da sala.",
+    "nl": "Je eerste college is net afgelopen. Je professor (AI) pakt voor in de zaal zijn spullen in.",
+    "hr": "Tvoje prvo predavanje upravo je završilo. Tvoj profesor (AI) sprema stvari ispred dvorane.",
+    "tr": "İlk dersiniz yeni bitti. Hocanız (AI) sınıfın önünde eşyalarını topluyor.",
+    "uk": "Твоя перша лекція щойно закінчилася. Професор (AI) збирає речі біля кафедри.",
+    "ar": "انتهت محاضرتك الأولى للتو. أستاذك (AI) يجمع أغراضه في مقدمة القاعة.",
+    "hi": "आपका पहला लेक्चर अभी ख़त्म हुआ है। आपके प्रोफ़ेसर (AI) कमरे के आगे अपना सामान समेट रहे हैं।",
+    "vi": "Buổi học đầu tiên của bạn vừa kết thúc. Giáo sư (AI) đang thu dọn đồ ở đầu lớp.",
+    "id": "Kuliah pertamamu baru saja selesai. Profesormu (AI) sedang membereskan barang di depan kelas.",
+    "ms": "Kuliah pertama anda baru tamat. Profesor anda (AI) sedang mengemas barang di hadapan bilik.",
+    "ko": "첫 강의가 방금 끝났어요. 교수님(AI)이 강의실 앞에서 짐을 챙기고 계세요."
+  },
+  "mission": {
+    "native": "Introduce yourself and find out where the syllabus and office hours are.",
+    "native_translations": {
+      "en": "Introduce yourself and find out where the syllabus and office hours are.",
+      "es": "Preséntese y averigüe dónde están el programa del curso y el horario de atención.",
+      "fr": "Présentez-vous et renseignez-vous sur le programme du cours et les horaires de permanence.",
+      "de": "Stellen Sie sich vor und finden Sie heraus, wo es den Kursplan gibt und wann Sprechstunde ist.",
+      "it": "Presentati e scopri dove trovare il programma del corso e l'orario di ricevimento.",
+      "pl": "Przedstaw się i dowiedz się, gdzie jest sylabus i kiedy są konsultacje.",
+      "pt": "Apresente-se e descubra onde estão o plano de ensino e o horário de atendimento.",
+      "nl": "Stel je voor en zoek uit waar de syllabus is en wanneer het spreekuur is.",
+      "hr": "Predstavi se i saznaj gdje su izvedbeni plan i termini konzultacija.",
+      "tr": "Kendinizi tanıtın ve ders izlencesinin nerede olduğunu ve görüşme saatlerini öğrenin.",
+      "uk": "Познайомся й дізнайся, де знайти програму курсу та коли консультації.",
+      "ar": "عرّف بنفسك واعرف أين تجد المنهج الدراسي ومواعيد الساعات المكتبية.",
+      "hi": "अपना परिचय दीजिए और पता कीजिए कि सिलेबस कहाँ मिलेगा और ऑफ़िस आवर्स कब हैं।",
+      "vi": "Giới thiệu bản thân và hỏi xem đề cương môn học và giờ tiếp sinh viên ở đâu.",
+      "id": "Perkenalkan diri dan cari tahu di mana silabus dan kapan jam konsultasinya.",
+      "ms": "Perkenalkan diri anda dan ketahui di mana sukatan pelajaran dan bila waktu konsultasi.",
+      "ko": "자기소개를 하고 강의계획서와 면담 시간을 알아보세요."
+    },
+    "practice": "Preséntese y averigüe dónde están el programa del curso y el horario de atención.",
+    "practice_translations": {
+      "en": "Introduce yourself and find out where the syllabus and office hours are.",
+      "es": "Preséntese y averigüe dónde están el programa del curso y el horario de atención.",
+      "ja": "自己紹介をして、シラバスの場所とオフィスアワーを確認してください。",
+      "ko": "자기소개를 하고 강의계획서와 면담 시간을 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Introduce yourself to the professor",
+        "native_translations": {
+          "en": "Introduce yourself to the professor",
+          "es": "Preséntese al profesor",
+          "fr": "Présentez-vous au professeur",
+          "de": "Stellen Sie sich der Lehrkraft vor",
+          "it": "Presentati al professore",
+          "pl": "Przedstaw się profesorowi",
+          "pt": "Apresente-se ao professor",
+          "nl": "Stel je voor aan de professor",
+          "hr": "Predstavi se profesoru",
+          "tr": "Kendinizi hocaya tanıtın",
+          "uk": "Представся професорові",
+          "ar": "عرّف بنفسك للأستاذ",
+          "hi": "प्रोफ़ेसर को अपना परिचय दीजिए",
+          "vi": "Giới thiệu bản thân với giáo sư",
+          "id": "Perkenalkan dirimu kepada profesor",
+          "ms": "Perkenalkan diri anda kepada profesor",
+          "ko": "교수님께 자기소개를 하세요"
+        },
+        "practice": "Preséntese al profesor",
+        "practice_translations": {
+          "en": "Introduce yourself to the professor",
+          "es": "Preséntese al profesor",
+          "ja": "教授に自己紹介してください",
+          "ko": "교수님께 자기소개를 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask where to find the syllabus",
+        "native_translations": {
+          "en": "Ask where to find the syllabus",
+          "es": "Pregunte dónde encontrar el programa del curso",
+          "fr": "Demandez où trouver le programme du cours",
+          "de": "Fragen Sie, wo Sie den Kursplan finden",
+          "it": "Chiedi dove trovare il programma del corso",
+          "pl": "Zapytaj, gdzie znaleźć sylabus",
+          "pt": "Pergunte onde encontrar o plano de ensino",
+          "nl": "Vraag waar je de syllabus kunt vinden",
+          "hr": "Pitaj gdje se nalazi izvedbeni plan",
+          "tr": "Ders izlencesini nerede bulacağınızı sorun",
+          "uk": "Запитай, де знайти програму курсу",
+          "ar": "اسأل أين تجد المنهج الدراسي",
+          "hi": "पूछिए कि सिलेबस कहाँ मिलेगा",
+          "vi": "Hỏi nơi tìm đề cương môn học",
+          "id": "Tanyakan di mana bisa menemukan silabus",
+          "ms": "Tanya di mana boleh dapatkan sukatan pelajaran",
+          "ko": "강의계획서를 어디서 볼 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte dónde encontrar el programa del curso",
+        "practice_translations": {
+          "en": "Ask where to find the syllabus",
+          "es": "Pregunte dónde encontrar el programa del curso",
+          "ja": "シラバスがどこにあるか聞いてください",
+          "ko": "강의계획서를 어디서 볼 수 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about office hours",
+        "native_translations": {
+          "en": "Ask about office hours",
+          "es": "Pregunte por el horario de atención",
+          "fr": "Renseignez-vous sur les horaires de permanence",
+          "de": "Fragen Sie nach der Sprechstunde",
+          "it": "Chiedi dell'orario di ricevimento",
+          "pl": "Zapytaj o godziny konsultacji",
+          "pt": "Pergunte sobre o horário de atendimento",
+          "nl": "Vraag naar het spreekuur",
+          "hr": "Pitaj za termine konzultacija",
+          "tr": "Görüşme saatlerini sorun",
+          "uk": "Запитай про години консультацій",
+          "ar": "اسأل عن الساعات المكتبية",
+          "hi": "ऑफ़िस आवर्स के बारे में पूछिए",
+          "vi": "Hỏi về giờ tiếp sinh viên",
+          "id": "Tanyakan tentang jam konsultasi",
+          "ms": "Tanya tentang waktu konsultasi",
+          "ko": "면담 시간에 대해 물어보세요"
+        },
+        "practice": "Pregunte por el horario de atención",
+        "practice_translations": {
+          "en": "Ask about office hours",
+          "es": "Pregunte por el horario de atención",
+          "ja": "オフィスアワーについて聞いてください",
+          "ko": "면담 시간에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, professor. I'm a new exchange student.",
+      "native_translations": {
+        "en": "Excuse me, professor. I'm a new exchange student.",
+        "es": "Disculpe, profesor. Soy estudiante de intercambio y acabo de llegar.",
+        "fr": "Excusez-moi, madame / monsieur. Je suis un nouvel étudiant en échange.",
+        "de": "Entschuldigung, Herr Professor/Frau Professorin. Ich bin neu hier im Austauschprogramm.",
+        "it": "Mi scusi, professore. Sono un nuovo studente in scambio.",
+        "pl": "Przepraszam, panie profesorze. Jestem nowym studentem z wymiany.",
+        "pt": "Com licença, professor. Sou estudante de intercâmbio e acabei de chegar.",
+        "nl": "Pardon, professor. Ik ben een nieuwe uitwisselingsstudent.",
+        "hr": "Oprostite, profesore. Ovdje sam na studentskoj razmjeni od ovog semestra.",
+        "tr": "Affedersiniz hocam. Ben yeni bir değişim öğrencisiyim.",
+        "uk": "Перепрошую, пане професоре. Я новий студент за обміном.",
+        "ar": "عفوًا يا أستاذ، أنا طالب تبادل جديد.",
+        "hi": "माफ़ कीजिए, प्रोफ़ेसर। मैं एक नया एक्सचेंज स्टूडेंट हूँ।",
+        "vi": "Thầy/cô ơi, cho em hỏi chút ạ. Em là sinh viên trao đổi mới.",
+        "id": "Permisi, Profesor. Saya mahasiswa pertukaran yang baru.",
+        "ms": "Maaf, profesor. Saya pelajar pertukaran baharu.",
+        "ko": "실례합니다, 교수님. 저는 새로 온 교환학생이에요."
+      },
+      "practice": "Disculpe, profesor. Soy estudiante de intercambio y acabo de llegar.",
+      "practice_translations": {
+        "en": "Excuse me, professor. I'm a new exchange student.",
+        "es": "Disculpe, profesor. Soy estudiante de intercambio y acabo de llegar.",
+        "ja": "失礼します、先生。新しく来た交換留学生です。",
+        "ko": "실례합니다, 교수님. 저는 새로 온 교환학생이에요."
+      }
+    },
+    {
+      "native": "I really enjoyed today's lecture.",
+      "native_translations": {
+        "en": "I really enjoyed today's lecture.",
+        "es": "Me gustó mucho la clase de hoy.",
+        "fr": "J'ai beaucoup aimé le cours d'aujourd'hui.",
+        "de": "Die heutige Vorlesung hat mir sehr gut gefallen.",
+        "it": "La lezione di oggi mi è piaciuta molto.",
+        "pl": "Dzisiejszy wykład bardzo mi się podobał.",
+        "pt": "Gostei muito da aula de hoje.",
+        "nl": "Ik vond het college van vandaag heel boeiend.",
+        "hr": "Današnje predavanje mi se jako svidjelo.",
+        "tr": "Bugünkü dersi gerçekten çok beğendim.",
+        "uk": "Мені дуже сподобалася сьогоднішня лекція.",
+        "ar": "استمتعت كثيرًا بمحاضرة اليوم.",
+        "hi": "मुझे आज का लेक्चर बहुत अच्छा लगा।",
+        "vi": "Em rất thích bài giảng hôm nay.",
+        "id": "Saya sangat menikmati kuliah hari ini.",
+        "ms": "Saya sangat seronok dengan kuliah hari ini.",
+        "ko": "오늘 강의 정말 재미있었어요."
+      },
+      "practice": "Me gustó mucho la clase de hoy.",
+      "practice_translations": {
+        "en": "I really enjoyed today's lecture.",
+        "es": "Me gustó mucho la clase de hoy.",
+        "ja": "今日の講義はとても面白かったです。",
+        "ko": "오늘 강의 정말 재미있었어요."
+      }
+    },
+    {
+      "native": "Where can I find the syllabus?",
+      "native_translations": {
+        "en": "Where can I find the syllabus?",
+        "es": "¿Dónde puedo encontrar el programa del curso?",
+        "fr": "Où puis-je trouver le programme du cours ?",
+        "de": "Wo finde ich den Kursplan?",
+        "it": "Dove posso trovare il programma del corso?",
+        "pl": "Gdzie mogę znaleźć sylabus?",
+        "pt": "Onde posso encontrar o plano de ensino?",
+        "nl": "Waar kan ik de syllabus vinden?",
+        "hr": "Gdje mogu pronaći izvedbeni plan?",
+        "tr": "Ders izlencesini nerede bulabilirim?",
+        "uk": "Де я можу знайти програму курсу?",
+        "ar": "أين يمكنني أن أجد المنهج الدراسي؟",
+        "hi": "सिलेबस मुझे कहाँ मिलेगा?",
+        "vi": "Em có thể tìm đề cương môn học ở đâu ạ?",
+        "id": "Di mana saya bisa menemukan silabusnya?",
+        "ms": "Di mana saya boleh dapatkan sukatan pelajaran?",
+        "ko": "강의계획서는 어디서 볼 수 있어요?"
+      },
+      "practice": "¿Dónde puedo encontrar el programa del curso?",
+      "practice_translations": {
+        "en": "Where can I find the syllabus?",
+        "es": "¿Dónde puedo encontrar el programa del curso?",
+        "ja": "シラバスはどこで見られますか。",
+        "ko": "강의계획서는 어디서 볼 수 있어요?"
+      }
+    },
+    {
+      "native": "When are your office hours?",
+      "native_translations": {
+        "en": "When are your office hours?",
+        "es": "¿Cuál es su horario de atención?",
+        "fr": "Quels sont vos horaires de permanence ?",
+        "de": "Wann ist Ihre Sprechstunde?",
+        "it": "Qual è il suo orario di ricevimento?",
+        "pl": "Kiedy ma pan konsultacje?",
+        "pt": "Qual é o seu horário de atendimento?",
+        "nl": "Wanneer is uw spreekuur?",
+        "hr": "Kada su Vaše konzultacije?",
+        "tr": "Görüşme saatleriniz ne zaman?",
+        "uk": "Коли у вас консультації?",
+        "ar": "متى ساعاتك المكتبية؟",
+        "hi": "आपके ऑफ़िस आवर्स कब होते हैं?",
+        "vi": "Giờ tiếp sinh viên của thầy/cô là khi nào ạ?",
+        "id": "Kapan jam konsultasi Anda?",
+        "ms": "Bila waktu konsultasi profesor?",
+        "ko": "면담 시간은 언제예요?"
+      },
+      "practice": "¿Cuál es su horario de atención?",
+      "practice_translations": {
+        "en": "When are your office hours?",
+        "es": "¿Cuál es su horario de atención?",
+        "ja": "オフィスアワーはいつですか。",
+        "ko": "면담 시간은 언제예요?"
+      }
+    },
+    {
+      "native": "Thank you, see you next week.",
+      "native_translations": {
+        "en": "Thank you, see you next week.",
+        "es": "Gracias, nos vemos la próxima semana.",
+        "fr": "Merci, à la semaine prochaine.",
+        "de": "Danke, bis nächste Woche.",
+        "it": "Grazie, a settimana prossima.",
+        "pl": "Dziękuję, do zobaczenia w przyszłym tygodniu.",
+        "pt": "Obrigado, até semana que vem.",
+        "nl": "Dank u wel, tot volgende week.",
+        "hr": "Hvala Vam, vidimo se sljedeći tjedan.",
+        "tr": "Teşekkür ederim, haftaya görüşürüz.",
+        "uk": "Дякую, до зустрічі наступного тижня.",
+        "ar": "شكرًا لك، أراك الأسبوع القادم.",
+        "hi": "धन्यवाद, अगले हफ़्ते मिलते हैं।",
+        "vi": "Em cảm ơn thầy/cô, hẹn gặp lại tuần sau ạ.",
+        "id": "Terima kasih, sampai jumpa minggu depan.",
+        "ms": "Terima kasih, jumpa minggu depan.",
+        "ko": "감사합니다, 다음 주에 뵙겠습니다."
+      },
+      "practice": "Gracias, nos vemos la próxima semana.",
+      "practice_translations": {
+        "en": "Thank you, see you next week.",
+        "es": "Gracias, nos vemos la próxima semana.",
+        "ja": "ありがとうございました。また来週よろしくお願いします。",
+        "ko": "감사합니다, 다음 주에 뵙겠습니다."
+      }
+    }
+  ]
+}

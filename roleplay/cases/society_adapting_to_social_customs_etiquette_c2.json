@@ -1,0 +1,321 @@
+{
+  "id": "society_adapting_to_social_customs_etiquette_c2",
+  "title": "Meeting a Friend's Family",
+  "title_translations": {
+    "en": "Meeting a Friend's Family",
+    "es": "Conocer a la familia de una amistad",
+    "fr": "Rencontrer la famille d'un ami",
+    "de": "Die Familie eines Freundes kennenlernen",
+    "it": "Conoscere la famiglia di un amico",
+    "pl": "Poznanie rodziny przyjaciela",
+    "pt": "Conhecendo a família de um amigo",
+    "nl": "De familie van een vriend ontmoeten",
+    "hr": "Upoznavanje prijateljeve obitelji",
+    "tr": "Bir Arkadaşın Ailesiyle Tanışmak",
+    "uk": "Знайомство з родиною друга",
+    "ar": "لقاء عائلة صديق",
+    "hi": "दोस्त के परिवार से मुलाक़ात",
+    "vi": "Gặp gia đình của bạn thân",
+    "id": "Bertemu Keluarga Teman",
+    "ms": "Berjumpa Keluarga Kawan",
+    "ko": "친구 가족과의 만남"
+  },
+  "character": "fox",
+  "scenario": "At a family celebration, your friend's grandmother (AI) greets you. She is curious about you and where you come from.",
+  "scenario_translations": {
+    "en": "At a family celebration, your friend's grandmother (AI) greets you. She is curious about you and where you come from.",
+    "es": "En una celebración familiar, la abuela de su amistad (AI) le da la bienvenida. Siente curiosidad por usted y por su lugar de origen.",
+    "fr": "Lors d'une fête de famille, la grand-mère de votre ami (AI) vous accueille. Elle est curieuse de vous connaître et de savoir d'où vous venez.",
+    "de": "Bei einer Familienfeier begrüßt Sie die Großmutter Ihres Freundes (AI). Sie ist neugierig auf Sie und möchte wissen, woher Sie kommen.",
+    "it": "A una festa di famiglia, la nonna del tuo amico (AI) ti saluta. È curiosa di sapere chi sei e da dove vieni.",
+    "pl": "Na rodzinnej uroczystości wita cię babcia twojego przyjaciela (AI). Jest ciekawa, kim jesteś i skąd pochodzisz.",
+    "pt": "Em uma festa de família, a avó do seu amigo (AI) cumprimenta você. Ela está curiosa sobre você e sobre de onde você vem.",
+    "nl": "Op een familiefeest begroet de oma van je vriend (AI) je. Ze is nieuwsgierig naar wie je bent en waar je vandaan komt.",
+    "hr": "Na obiteljskoj proslavi pozdravlja te baka (AI) tvog prijatelja. Zanima je tko si i odakle dolaziš.",
+    "tr": "Bir aile kutlamasında arkadaşınızın büyükannesi (AI) sizi karşılıyor. Sizi ve nereden geldiğinizi merak ediyor.",
+    "uk": "На сімейному святі тебе вітає бабуся твого друга (AI). Їй цікаво дізнатися про тебе і звідки ти родом.",
+    "ar": "في احتفال عائلي، ترحب بك جدة صديقك (AI). إنها فضولية لمعرفة المزيد عنك وعن بلدك.",
+    "hi": "एक पारिवारिक समारोह में आपके दोस्त की दादी (AI) आपका स्वागत करती हैं। वे आपके बारे में और आप कहाँ से हैं, यह जानने को उत्सुक हैं।",
+    "vi": "Tại một buổi họp mặt gia đình, bà của bạn bạn (AI) chào bạn. Bà tò mò muốn biết về bạn và nơi bạn đến.",
+    "id": "Di sebuah acara keluarga, nenek temanmu (AI) menyapamu. Dia penasaran tentang dirimu dan dari mana asalmu.",
+    "ms": "Di sebuah majlis keluarga, nenek kawan anda (AI) menyapa anda. Dia ingin tahu tentang diri anda dan dari mana anda berasal.",
+    "ko": "가족 행사에서 친구의 할머니(AI)가 당신을 반겨 줍니다. 할머니는 당신이 어떤 사람이고 어디에서 왔는지 궁금해합니다."
+  },
+  "mission": {
+    "native": "Introduce yourself respectfully, answer her questions and ask about a family tradition.",
+    "native_translations": {
+      "en": "Introduce yourself respectfully, answer her questions and ask about a family tradition.",
+      "es": "Preséntese con respeto, responda a sus preguntas y pregunte por una tradición familiar.",
+      "fr": "Présentez-vous avec respect, répondez à ses questions et renseignez-vous sur une tradition familiale.",
+      "de": "Stellen Sie sich respektvoll vor, beantworten Sie ihre Fragen und fragen Sie nach einer Familientradition.",
+      "it": "Presentati con rispetto, rispondi alle sue domande e chiedi di una tradizione di famiglia.",
+      "pl": "Przedstaw się z szacunkiem, odpowiedz na jej pytania i zapytaj o rodzinną tradycję.",
+      "pt": "Apresente-se com respeito, responda às perguntas dela e pergunte sobre uma tradição da família.",
+      "nl": "Stel je respectvol voor, beantwoord haar vragen en vraag naar een familietraditie.",
+      "hr": "Predstavi se s poštovanjem, odgovori na njezina pitanja i pitaj o jednoj obiteljskoj tradiciji.",
+      "tr": "Kendinizi saygılı bir şekilde tanıtın, sorularını cevaplayın ve bir aile geleneğini sorun.",
+      "uk": "Шанобливо представся, дай відповідь на її запитання й запитай про сімейну традицію.",
+      "ar": "عرّف بنفسك باحترام وأجب عن أسئلتها واسأل عن تقليد عائلي.",
+      "hi": "सम्मान से अपना परिचय दीजिए, उनके सवालों का जवाब दीजिए और किसी पारिवारिक परंपरा के बारे में पूछिए।",
+      "vi": "Lễ phép giới thiệu bản thân, trả lời câu hỏi của bà và hỏi về một truyền thống gia đình.",
+      "id": "Perkenalkan dirimu dengan sopan, jawab pertanyaannya, dan tanyakan tentang tradisi keluarga.",
+      "ms": "Perkenalkan diri dengan hormat, jawab soalannya dan tanya tentang satu tradisi keluarga.",
+      "ko": "예의 바르게 자기소개를 하고, 할머니의 질문에 답한 뒤 가족 전통에 대해 물어보세요."
+    },
+    "practice": "Preséntese con respeto, responda a sus preguntas y pregunte por una tradición familiar.",
+    "practice_translations": {
+      "en": "Introduce yourself respectfully, answer her questions and ask about a family tradition.",
+      "es": "Preséntese con respeto, responda a sus preguntas y pregunte por una tradición familiar.",
+      "ja": "礼儀正しく自己紹介し、質問に答えて、家族の伝統について聞いてください。",
+      "ko": "예의 바르게 자기소개를 하고, 할머니의 질문에 답한 뒤 가족 전통에 대해 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Introduce yourself respectfully",
+        "native_translations": {
+          "en": "Introduce yourself respectfully",
+          "es": "Preséntese con respeto",
+          "fr": "Présentez-vous avec respect",
+          "de": "Stellen Sie sich respektvoll vor",
+          "it": "Presentati con rispetto",
+          "pl": "Przedstaw się z szacunkiem",
+          "pt": "Apresente-se com respeito",
+          "nl": "Stel je respectvol voor",
+          "hr": "Predstavi se s poštovanjem",
+          "tr": "Kendinizi saygılı bir şekilde tanıtın",
+          "uk": "Шанобливо представся",
+          "ar": "عرّف بنفسك باحترام",
+          "hi": "सम्मान से अपना परिचय दीजिए",
+          "vi": "Lễ phép giới thiệu bản thân",
+          "id": "Perkenalkan dirimu dengan sopan",
+          "ms": "Perkenalkan diri anda dengan hormat",
+          "ko": "예의 바르게 자기소개를 하세요"
+        },
+        "practice": "Preséntese con respeto",
+        "practice_translations": {
+          "en": "Introduce yourself respectfully",
+          "es": "Preséntese con respeto",
+          "ja": "礼儀正しく自己紹介してください",
+          "ko": "예의 바르게 자기소개를 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say where you are from",
+        "native_translations": {
+          "en": "Say where you are from",
+          "es": "Diga de dónde es",
+          "fr": "Dites d'où vous venez",
+          "de": "Sagen Sie, woher Sie kommen",
+          "it": "Di' da dove vieni",
+          "pl": "Powiedz, skąd pochodzisz",
+          "pt": "Diga de onde você é",
+          "nl": "Zeg waar je vandaan komt",
+          "hr": "Reci odakle si",
+          "tr": "Nereli olduğunuzu söyleyin",
+          "uk": "Скажи, звідки ти родом",
+          "ar": "قل من أين أنت",
+          "hi": "बताइए कि आप कहाँ से हैं",
+          "vi": "Nói bạn đến từ đâu",
+          "id": "Sebutkan dari mana asalmu",
+          "ms": "Katakan dari mana anda berasal",
+          "ko": "어디에서 왔는지 말하세요"
+        },
+        "practice": "Diga de dónde es",
+        "practice_translations": {
+          "en": "Say where you are from",
+          "es": "Diga de dónde es",
+          "ja": "出身地を伝えてください",
+          "ko": "어디에서 왔는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about a family tradition",
+        "native_translations": {
+          "en": "Ask about a family tradition",
+          "es": "Pregunte por una tradición familiar",
+          "fr": "Posez une question sur une tradition familiale",
+          "de": "Fragen Sie nach einer Familientradition",
+          "it": "Chiedi di una tradizione di famiglia",
+          "pl": "Zapytaj o rodzinną tradycję",
+          "pt": "Pergunte sobre uma tradição da família",
+          "nl": "Vraag naar een familietraditie",
+          "hr": "Pitaj o obiteljskoj tradiciji",
+          "tr": "Bir aile geleneğini sorun",
+          "uk": "Запитай про сімейну традицію",
+          "ar": "اسأل عن تقليد عائلي",
+          "hi": "किसी पारिवारिक परंपरा के बारे में पूछिए",
+          "vi": "Hỏi về một truyền thống gia đình",
+          "id": "Tanyakan tentang tradisi keluarga",
+          "ms": "Tanya tentang satu tradisi keluarga",
+          "ko": "가족 전통에 대해 물어보세요"
+        },
+        "practice": "Pregunte por una tradición familiar",
+        "practice_translations": {
+          "en": "Ask about a family tradition",
+          "es": "Pregunte por una tradición familiar",
+          "ja": "家族の伝統について聞いてください",
+          "ko": "가족 전통에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Thank her for the warm welcome",
+        "native_translations": {
+          "en": "Thank her for the warm welcome",
+          "es": "Agradézcale la cálida bienvenida",
+          "fr": "Remerciez-la pour son accueil chaleureux",
+          "de": "Bedanken Sie sich für den herzlichen Empfang",
+          "it": "Ringraziala per la calorosa accoglienza",
+          "pl": "Podziękuj jej za ciepłe przyjęcie",
+          "pt": "Agradeça pela recepção calorosa",
+          "nl": "Bedank haar voor het warme welkom",
+          "hr": "Zahvali joj na toploj dobrodošlici",
+          "tr": "Sıcak karşılaması için ona teşekkür edin",
+          "uk": "Подякуй їй за теплий прийом",
+          "ar": "اشكرها على الترحيب الحار",
+          "hi": "गर्मजोशी से स्वागत के लिए उन्हें धन्यवाद दीजिए",
+          "vi": "Cảm ơn bà vì đã đón tiếp nồng hậu",
+          "id": "Ucapkan terima kasih atas sambutan hangatnya",
+          "ms": "Ucapkan terima kasih atas sambutan mesranya",
+          "ko": "따뜻하게 맞아 주셔서 감사하다고 말하세요"
+        },
+        "practice": "Agradézcale la cálida bienvenida",
+        "practice_translations": {
+          "en": "Thank her for the warm welcome",
+          "es": "Agradézcale la cálida bienvenida",
+          "ja": "温かく迎えてもらったお礼を言ってください",
+          "ko": "따뜻하게 맞아 주셔서 감사하다고 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "It's a pleasure to meet you, ma'am.",
+      "native_translations": {
+        "en": "It's a pleasure to meet you, ma'am.",
+        "es": "Es un placer conocerla, señora.",
+        "fr": "Enchanté de faire votre connaissance, madame.",
+        "de": "Es freut mich sehr, Sie kennenzulernen.",
+        "it": "È un piacere conoscerla, signora.",
+        "pl": "Bardzo mi miło panią poznać.",
+        "pt": "É um prazer conhecer a senhora.",
+        "nl": "Aangenaam kennis met u te maken, mevrouw.",
+        "hr": "Drago mi je što smo se upoznali, gospođo.",
+        "tr": "Tanıştığımıza çok memnun oldum, efendim.",
+        "uk": "Дуже приємно з вами познайомитися, пані.",
+        "ar": "تشرفت بلقائك يا سيدتي.",
+        "hi": "आपसे मिलकर बहुत ख़ुशी हुई, जी।",
+        "vi": "Cháu rất vui được gặp bà ạ.",
+        "id": "Senang sekali bertemu dengan Ibu.",
+        "ms": "Gembira dapat berjumpa dengan puan.",
+        "ko": "만나 뵙게 되어 반갑습니다."
+      },
+      "practice": "Es un placer conocerla, señora.",
+      "practice_translations": {
+        "en": "It's a pleasure to meet you, ma'am.",
+        "es": "Es un placer conocerla, señora.",
+        "ja": "はじめまして。お会いできて光栄です。",
+        "ko": "만나 뵙게 되어 반갑습니다."
+      }
+    },
+    {
+      "native": "I come from a small town by the sea.",
+      "native_translations": {
+        "en": "I come from a small town by the sea.",
+        "es": "Vengo de un pueblo pequeño junto al mar.",
+        "fr": "Je viens d'une petite ville au bord de la mer.",
+        "de": "Ich komme aus einer kleinen Stadt am Meer.",
+        "it": "Vengo da una piccola città sul mare.",
+        "pl": "Pochodzę z małego miasteczka nad morzem.",
+        "pt": "Venho de uma cidadezinha no litoral.",
+        "nl": "Ik kom uit een klein stadje aan zee.",
+        "hr": "Dolazim iz malog mjesta uz more.",
+        "tr": "Deniz kenarında küçük bir kasabadan geliyorum.",
+        "uk": "Я родом із невеликого містечка біля моря.",
+        "ar": "أنا من بلدة صغيرة على البحر.",
+        "hi": "मैं समुद्र किनारे के एक छोटे-से शहर से हूँ।",
+        "vi": "Cháu đến từ một thị trấn nhỏ ven biển ạ.",
+        "id": "Saya berasal dari kota kecil di tepi laut.",
+        "ms": "Saya berasal dari sebuah pekan kecil di tepi laut.",
+        "ko": "저는 바닷가의 작은 마을에서 왔어요."
+      },
+      "practice": "Vengo de un pueblo pequeño junto al mar.",
+      "practice_translations": {
+        "en": "I come from a small town by the sea.",
+        "es": "Vengo de un pueblo pequeño junto al mar.",
+        "ja": "海の近くの小さな町の出身です。",
+        "ko": "저는 바닷가의 작은 마을에서 왔어요."
+      }
+    },
+    {
+      "native": "How do you usually celebrate this day?",
+      "native_translations": {
+        "en": "How do you usually celebrate this day?",
+        "es": "¿Cómo suelen celebrar este día?",
+        "fr": "Comment célébrez-vous habituellement cette journée ?",
+        "de": "Wie feiern Sie diesen Tag normalerweise?",
+        "it": "Come festeggiate di solito questo giorno?",
+        "pl": "Jak zwykle obchodzicie ten dzień?",
+        "pt": "Como vocês costumam comemorar este dia?",
+        "nl": "Hoe vieren jullie deze dag meestal?",
+        "hr": "Kako obično slavite ovaj dan?",
+        "tr": "Bu günü genelde nasıl kutlarsınız?",
+        "uk": "Як ви зазвичай святкуєте цей день?",
+        "ar": "كيف تحتفلون عادةً بهذا اليوم؟",
+        "hi": "आप लोग आमतौर पर यह दिन कैसे मनाते हैं?",
+        "vi": "Ngày này gia đình mình thường tổ chức thế nào ạ?",
+        "id": "Biasanya hari ini dirayakan dengan cara apa?",
+        "ms": "Biasanya bagaimana keluarga puan meraikan hari ini?",
+        "ko": "이날은 보통 어떻게 보내세요?"
+      },
+      "practice": "¿Cómo suelen celebrar este día?",
+      "practice_translations": {
+        "en": "How do you usually celebrate this day?",
+        "es": "¿Cómo suelen celebrar este día?",
+        "ja": "この日はいつもどのようにお祝いされるんですか。",
+        "ko": "이날은 보통 어떻게 보내세요?"
+      }
+    },
+    {
+      "native": "Thank you for making me feel at home.",
+      "native_translations": {
+        "en": "Thank you for making me feel at home.",
+        "es": "Gracias por hacerme sentir como en casa.",
+        "fr": "Merci de me faire sentir comme chez moi.",
+        "de": "Danke, dass ich mich hier wie zu Hause fühlen darf.",
+        "it": "Grazie per avermi fatto sentire a casa.",
+        "pl": "Dziękuję, że czuję się tu jak w domu.",
+        "pt": "Obrigado por me fazer sentir em casa.",
+        "nl": "Dank u wel dat ik me hier zo thuis voel.",
+        "hr": "Hvala Vam što se ovdje osjećam kao kod kuće.",
+        "tr": "Kendimi evimde hissettirdiğiniz için teşekkür ederim.",
+        "uk": "Дякую, що я почуваюся у вас як удома.",
+        "ar": "شكرًا لأنك جعلتني أشعر وكأنني في بيتي.",
+        "hi": "मुझे अपनापन महसूस कराने के लिए धन्यवाद।",
+        "vi": "Cháu cảm ơn bà đã cho cháu cảm giác như ở nhà ạ.",
+        "id": "Terima kasih sudah membuat saya merasa seperti di rumah sendiri.",
+        "ms": "Terima kasih kerana membuat saya berasa seperti di rumah sendiri.",
+        "ko": "편하게 대해 주셔서 감사해요."
+      },
+      "practice": "Gracias por hacerme sentir como en casa.",
+      "practice_translations": {
+        "en": "Thank you for making me feel at home.",
+        "es": "Gracias por hacerme sentir como en casa.",
+        "ja": "温かく迎えてくださって、ありがとうございます。",
+        "ko": "편하게 대해 주셔서 감사해요."
+      }
+    }
+  ]
+}

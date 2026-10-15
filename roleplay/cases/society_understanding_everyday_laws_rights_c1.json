@@ -1,0 +1,289 @@
+{
+  "id": "society_understanding_everyday_laws_rights_c1",
+  "title": "The Mysterious Parking Ticket",
+  "title_translations": {
+    "en": "The Mysterious Parking Ticket",
+    "es": "La misteriosa multa de estacionamiento",
+    "fr": "La mystérieuse contravention",
+    "de": "Der mysteriöse Strafzettel",
+    "it": "La misteriosa multa per divieto di sosta",
+    "pl": "Tajemniczy mandat za parkowanie",
+    "pt": "A misteriosa multa de estacionamento",
+    "nl": "De mysterieuze parkeerbon",
+    "hr": "Misteriozna kazna za parkiranje",
+    "tr": "Gizemli Park Cezası",
+    "uk": "Таємничий штраф за паркування",
+    "ar": "مخالفة الوقوف الغامضة",
+    "hi": "रहस्यमय पार्किंग टिकट",
+    "vi": "Tấm vé phạt đỗ xe bí ẩn",
+    "id": "Tilang Parkir yang Misterius",
+    "ms": "Saman Letak Kereta yang Misteri",
+    "ko": "수상한 주차 딱지"
+  },
+  "character": "fox",
+  "scenario": "You come back to your car and find a parking ticket on the windshield. The parking officer (AI) who wrote it is still on the street.",
+  "scenario_translations": {
+    "en": "You come back to your car and find a parking ticket on the windshield. The parking officer (AI) who wrote it is still on the street.",
+    "es": "Regresa a su auto y encuentra una multa de estacionamiento en el parabrisas. El agente de tránsito (AI) que la puso todavía está en la calle.",
+    "fr": "En revenant à votre voiture, vous trouvez une contravention sur le pare-brise. L'agent de stationnement (AI) qui l'a dressée est encore dans la rue.",
+    "de": "Sie kommen zu Ihrem Auto zurück und finden einen Strafzettel an der Windschutzscheibe. Die Politesse (AI), die ihn ausgestellt hat, ist noch auf der Straße.",
+    "it": "Torni alla tua auto e trovi una multa per divieto di sosta sul parabrezza. L'ausiliario del traffico (AI) che l'ha fatta è ancora in strada.",
+    "pl": "Wracasz do samochodu i znajdujesz za wycieraczką mandat za parkowanie. Strażnik miejski (AI), który go wystawił, wciąż jest na ulicy.",
+    "pt": "Você volta para o seu carro e encontra uma multa de estacionamento no para-brisa. O agente de trânsito (AI) que aplicou a multa ainda está na rua.",
+    "nl": "Je komt terug bij je auto en vindt een parkeerbon achter je ruitenwisser. De parkeerwachter (AI) die hem heeft uitgeschreven, staat nog op straat.",
+    "hr": "Vraćaš se do automobila i na vjetrobranu nalaziš kaznu za parkiranje. Prometni redar (AI) koji ju je napisao još je na ulici.",
+    "tr": "Arabanıza döndüğünüzde ön camda bir park cezası buluyorsunuz. Cezayı yazan park görevlisi (AI) hâlâ sokakta.",
+    "uk": "Ти повертаєшся до авто й бачиш на лобовому склі штраф за паркування. Інспектор з паркування (AI), який його виписав, ще на вулиці.",
+    "ar": "تعود إلى سيارتك فتجد مخالفة وقوف على الزجاج الأمامي. موظف المرور (AI) الذي حرّرها لا يزال في الشارع.",
+    "hi": "आप अपनी कार पर लौटते हैं और विंडशील्ड पर पार्किंग टिकट पाते हैं। टिकट लिखने वाले पार्किंग अधिकारी (AI) अभी भी सड़क पर हैं।",
+    "vi": "Bạn quay lại xe và thấy một tấm vé phạt đỗ xe trên kính chắn gió. Nhân viên kiểm soát đỗ xe (AI) đã viết vé phạt vẫn còn ở ngoài phố.",
+    "id": "Kamu kembali ke mobil dan menemukan surat tilang parkir di kaca depan. Petugas parkir (AI) yang menulisnya masih ada di jalan.",
+    "ms": "Anda kembali ke kereta dan mendapati saman letak kereta di cermin hadapan. Pegawai tempat letak kereta (AI) yang mengeluarkannya masih berada di jalan itu.",
+    "ko": "차로 돌아와 보니 앞유리에 주차 위반 딱지가 붙어 있습니다. 딱지를 뗀 주차 단속원(AI)이 아직 거리에 있습니다."
+  },
+  "mission": {
+    "native": "Ask the officer why you got the ticket and how to pay it.",
+    "native_translations": {
+      "en": "Ask the officer why you got the ticket and how to pay it.",
+      "es": "Pregunte al agente por qué recibió la multa y cómo pagarla.",
+      "fr": "Demandez à l'agent pourquoi vous avez reçu cette contravention et comment la payer.",
+      "de": "Fragen Sie die Politesse, warum Sie den Strafzettel bekommen haben und wie Sie ihn bezahlen.",
+      "it": "Chiedi all'ausiliario perché hai preso la multa e come pagarla.",
+      "pl": "Zapytaj strażnika, dlaczego dostałeś mandat i jak go zapłacić.",
+      "pt": "Pergunte ao agente por que você levou a multa e como pagá-la.",
+      "nl": "Vraag de parkeerwachter waarom je de bon hebt gekregen en hoe je hem kunt betalen.",
+      "hr": "Pitaj redara zbog čega je kazna i kako je platiti.",
+      "tr": "Görevliye cezayı neden aldığınızı ve nasıl ödeyeceğinizi sorun.",
+      "uk": "Запитай інспектора, за що штраф і як його сплатити.",
+      "ar": "اسأل الموظف لماذا حصلت على المخالفة وكيف تدفعها.",
+      "hi": "अधिकारी से पूछिए कि आपको टिकट क्यों मिला और इसे कैसे भरना है।",
+      "vi": "Hỏi nhân viên vì sao bạn bị phạt và cách nộp phạt.",
+      "id": "Tanyakan kepada petugas kenapa kamu kena tilang dan cara membayarnya.",
+      "ms": "Tanya pegawai itu mengapa anda disaman dan cara membayarnya.",
+      "ko": "단속원에게 왜 딱지를 받았는지, 어떻게 내면 되는지 물어보세요."
+    },
+    "practice": "Pregunte al agente por qué recibió la multa y cómo pagarla.",
+    "practice_translations": {
+      "en": "Ask the officer why you got the ticket and how to pay it.",
+      "es": "Pregunte al agente por qué recibió la multa y cómo pagarla.",
+      "ja": "警察官に違反切符を切られた理由と支払い方法を聞いてください。",
+      "ko": "단속원에게 왜 딱지를 받았는지, 어떻게 내면 되는지 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask why you received the ticket",
+        "native_translations": {
+          "en": "Ask why you received the ticket",
+          "es": "Pregunte por qué recibió la multa",
+          "fr": "Demandez pourquoi vous avez reçu la contravention",
+          "de": "Fragen Sie, warum Sie den Strafzettel bekommen haben",
+          "it": "Chiedi perché hai ricevuto la multa",
+          "pl": "Zapytaj, dlaczego dostałeś mandat",
+          "pt": "Pergunte por que você recebeu a multa",
+          "nl": "Vraag waarom je de bon hebt gekregen",
+          "hr": "Pitaj zbog čega je kazna",
+          "tr": "Cezayı neden aldığınızı sorun",
+          "uk": "Запитай, за що тебе оштрафували",
+          "ar": "اسأل لماذا حصلت على المخالفة",
+          "hi": "पूछिए कि आपको टिकट क्यों मिला",
+          "vi": "Hỏi vì sao bạn bị phạt",
+          "id": "Tanyakan kenapa kamu kena tilang",
+          "ms": "Tanya mengapa anda menerima saman itu",
+          "ko": "왜 딱지를 받았는지 물어보세요"
+        },
+        "practice": "Pregunte por qué recibió la multa",
+        "practice_translations": {
+          "en": "Ask why you received the ticket",
+          "es": "Pregunte por qué recibió la multa",
+          "ja": "違反切符を切られた理由を聞いてください",
+          "ko": "왜 딱지를 받았는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how much the fine is",
+        "native_translations": {
+          "en": "Ask how much the fine is",
+          "es": "Pregunte cuánto es la multa",
+          "fr": "Demandez le montant de l'amende",
+          "de": "Fragen Sie, wie hoch das Bußgeld ist",
+          "it": "Chiedi a quanto ammonta la multa",
+          "pl": "Zapytaj, jaka jest wysokość grzywny",
+          "pt": "Pergunte qual é o valor da multa",
+          "nl": "Vraag hoe hoog de boete is",
+          "hr": "Pitaj koliko iznosi kazna",
+          "tr": "Cezanın ne kadar olduğunu sorun",
+          "uk": "Запитай, яка сума штрафу",
+          "ar": "اسأل عن قيمة الغرامة",
+          "hi": "पूछिए कि जुर्माना कितना है",
+          "vi": "Hỏi tiền phạt là bao nhiêu",
+          "id": "Tanyakan berapa dendanya",
+          "ms": "Tanya berapa jumlah dendanya",
+          "ko": "벌금이 얼마인지 물어보세요"
+        },
+        "practice": "Pregunte cuánto es la multa",
+        "practice_translations": {
+          "en": "Ask how much the fine is",
+          "es": "Pregunte cuánto es la multa",
+          "ja": "罰金がいくらか聞いてください",
+          "ko": "벌금이 얼마인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how and where to pay it",
+        "native_translations": {
+          "en": "Ask how and where to pay it",
+          "es": "Pregunte cómo y dónde pagarla",
+          "fr": "Demandez comment et où la payer",
+          "de": "Fragen Sie, wie und wo Sie es bezahlen können",
+          "it": "Chiedi come e dove pagarla",
+          "pl": "Zapytaj, jak i gdzie go zapłacić",
+          "pt": "Pergunte como e onde pagá-la",
+          "nl": "Vraag hoe en waar je kunt betalen",
+          "hr": "Pitaj kako i gdje je platiti",
+          "tr": "Cezayı nasıl ve nerede ödeyeceğinizi sorun",
+          "uk": "Запитай, як і де його сплатити",
+          "ar": "اسأل كيف وأين تدفعها",
+          "hi": "पूछिए कि इसे कैसे और कहाँ भरना है",
+          "vi": "Hỏi nộp phạt ở đâu và bằng cách nào",
+          "id": "Tanyakan cara dan tempat membayarnya",
+          "ms": "Tanya bagaimana dan di mana untuk membayarnya",
+          "ko": "어떻게, 어디서 내는지 물어보세요"
+        },
+        "practice": "Pregunte cómo y dónde pagarla",
+        "practice_translations": {
+          "en": "Ask how and where to pay it",
+          "es": "Pregunte cómo y dónde pagarla",
+          "ja": "どこでどうやって支払うか聞いてください",
+          "ko": "어떻게, 어디서 내는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, officer, why did I get this ticket?",
+      "native_translations": {
+        "en": "Excuse me, officer, why did I get this ticket?",
+        "es": "Disculpe, oficial, ¿por qué me pusieron esta multa?",
+        "fr": "Excusez-moi, monsieur l'agent, pourquoi ai-je reçu cette contravention ?",
+        "de": "Entschuldigung, warum habe ich diesen Strafzettel bekommen?",
+        "it": "Mi scusi, agente, perché ho preso questa multa?",
+        "pl": "Przepraszam, dlaczego dostałem ten mandat?",
+        "pt": "Com licença, seu guarda, por que eu levei esta multa?",
+        "nl": "Pardon, waarom heb ik deze bon gekregen?",
+        "hr": "Oprostite, zbog čega je ova kazna?",
+        "tr": "Affedersiniz memur bey, bu cezayı neden aldım?",
+        "uk": "Перепрошую, пане інспекторе, за що мені цей штраф?",
+        "ar": "عفوًا يا سيدي، لماذا حصلت على هذه المخالفة؟",
+        "hi": "माफ़ कीजिए, ऑफ़िसर, मुझे यह टिकट क्यों मिला?",
+        "vi": "Xin lỗi anh/chị, sao tôi lại bị phạt vậy?",
+        "id": "Permisi, Pak, kenapa saya kena tilang ini?",
+        "ms": "Maaf, encik, kenapa saya dapat saman ini?",
+        "ko": "실례합니다, 제가 왜 이 딱지를 받은 건가요?"
+      },
+      "practice": "Disculpe, oficial, ¿por qué me pusieron esta multa?",
+      "practice_translations": {
+        "en": "Excuse me, officer, why did I get this ticket?",
+        "es": "Disculpe, oficial, ¿por qué me pusieron esta multa?",
+        "ja": "すみません、どうしてこの違反切符を切られたのでしょうか。",
+        "ko": "실례합니다, 제가 왜 이 딱지를 받은 건가요?"
+      }
+    },
+    {
+      "native": "I didn't see the no-parking sign.",
+      "native_translations": {
+        "en": "I didn't see the no-parking sign.",
+        "es": "No vi la señal de prohibido estacionar.",
+        "fr": "Je n'ai pas vu le panneau d'interdiction de stationner.",
+        "de": "Ich habe das Parkverbotsschild nicht gesehen.",
+        "it": "Non ho visto il cartello di divieto di sosta.",
+        "pl": "Nie zauważyłem znaku zakazu parkowania.",
+        "pt": "Eu não vi a placa de proibido estacionar.",
+        "nl": "Ik had het parkeerverbodsbord niet gezien.",
+        "hr": "Znak zabrane parkiranja mi je promaknuo.",
+        "tr": "Park yasağı levhasını görmedim.",
+        "uk": "Я не бачив знака «Стоянку заборонено».",
+        "ar": "لم أرَ لافتة منع الوقوف.",
+        "hi": "मैंने नो-पार्किंग का बोर्ड नहीं देखा।",
+        "vi": "Tôi không thấy biển cấm đỗ xe.",
+        "id": "Saya tidak melihat rambu dilarang parkir.",
+        "ms": "Saya tidak nampak papan tanda larangan meletak kenderaan.",
+        "ko": "주차 금지 표지판을 못 봤어요."
+      },
+      "practice": "No vi la señal de prohibido estacionar.",
+      "practice_translations": {
+        "en": "I didn't see the no-parking sign.",
+        "es": "No vi la señal de prohibido estacionar.",
+        "ja": "駐車禁止の標識に気づきませんでした。",
+        "ko": "주차 금지 표지판을 못 봤어요."
+      }
+    },
+    {
+      "native": "How much is the fine?",
+      "native_translations": {
+        "en": "How much is the fine?",
+        "es": "¿De cuánto es la multa?",
+        "fr": "Combien coûte l'amende ?",
+        "de": "Wie hoch ist das Bußgeld?",
+        "it": "Quanto costa la multa?",
+        "pl": "Ile wynosi grzywna?",
+        "pt": "Qual é o valor da multa?",
+        "nl": "Hoe hoog is de boete?",
+        "hr": "Koliko iznosi kazna?",
+        "tr": "Ceza ne kadar?",
+        "uk": "Яка сума штрафу?",
+        "ar": "كم قيمة الغرامة؟",
+        "hi": "जुर्माना कितना है?",
+        "vi": "Tiền phạt là bao nhiêu vậy?",
+        "id": "Berapa dendanya?",
+        "ms": "Berapa dendanya?",
+        "ko": "벌금이 얼마예요?"
+      },
+      "practice": "¿De cuánto es la multa?",
+      "practice_translations": {
+        "en": "How much is the fine?",
+        "es": "¿De cuánto es la multa?",
+        "ja": "罰金はいくらですか。",
+        "ko": "벌금이 얼마예요?"
+      }
+    },
+    {
+      "native": "Can I pay it online?",
+      "native_translations": {
+        "en": "Can I pay it online?",
+        "es": "¿Puedo pagarla en línea?",
+        "fr": "Est-ce que je peux la payer en ligne ?",
+        "de": "Kann ich es online bezahlen?",
+        "it": "Posso pagarla online?",
+        "pl": "Czy mogę zapłacić przez internet?",
+        "pt": "Posso pagar pela internet?",
+        "nl": "Kan ik online betalen?",
+        "hr": "Mogu li je platiti putem interneta?",
+        "tr": "İnternetten ödeyebilir miyim?",
+        "uk": "Можна сплатити онлайн?",
+        "ar": "هل يمكنني دفعها عبر الإنترنت؟",
+        "hi": "क्या मैं इसे ऑनलाइन भर सकता हूँ?",
+        "vi": "Tôi có thể nộp phạt trực tuyến không?",
+        "id": "Apakah bisa dibayar secara online?",
+        "ms": "Bolehkah saya bayar dalam talian?",
+        "ko": "온라인으로 낼 수 있어요?"
+      },
+      "practice": "¿Puedo pagarla en línea?",
+      "practice_translations": {
+        "en": "Can I pay it online?",
+        "es": "¿Puedo pagarla en línea?",
+        "ja": "オンラインで支払えますか。",
+        "ko": "온라인으로 낼 수 있어요?"
+      }
+    }
+  ]
+}

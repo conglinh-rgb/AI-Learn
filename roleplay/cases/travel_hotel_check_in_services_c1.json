@@ -1,0 +1,289 @@
+{
+  "id": "travel_hotel_check_in_services_c1",
+  "title": "Checking In at the Hotel",
+  "title_translations": {
+    "en": "Checking In at the Hotel",
+    "es": "Registrarse en el hotel",
+    "fr": "L'arrivée à l'hôtel",
+    "de": "Einchecken im Hotel",
+    "it": "Il check-in in hotel",
+    "pl": "Zameldowanie w hotelu",
+    "pt": "Fazendo o check-in no hotel",
+    "nl": "Inchecken in het hotel",
+    "hr": "Prijava u hotel",
+    "tr": "Otele Giriş Yapmak",
+    "uk": "Заселення в готель",
+    "ar": "تسجيل الوصول في الفندق",
+    "hi": "होटल में चेक-इन",
+    "vi": "Nhận phòng khách sạn",
+    "id": "Check-in di Hotel",
+    "ms": "Daftar Masuk di Hotel",
+    "ko": "호텔 체크인하기"
+  },
+  "character": "fox",
+  "scenario": "You arrive at your hotel after a long trip. The receptionist (AI) welcomes you at the front desk.",
+  "scenario_translations": {
+    "en": "You arrive at your hotel after a long trip. The receptionist (AI) welcomes you at the front desk.",
+    "es": "Llega a su hotel después de un viaje largo. La recepcionista (AI) le da la bienvenida en el mostrador.",
+    "fr": "Vous arrivez à votre hôtel après un long voyage. La réceptionniste (AI) vous accueille à la réception.",
+    "de": "Sie kommen nach einer langen Reise in Ihrem Hotel an. Die Rezeptionistin (AI) begrüßt Sie an der Rezeption.",
+    "it": "Arrivi in hotel dopo un lungo viaggio. Il receptionist (AI) ti accoglie alla reception.",
+    "pl": "Po długiej podróży docierasz do hotelu. Recepcjonistka (AI) wita cię w recepcji.",
+    "pt": "Você chega ao seu hotel depois de uma longa viagem. A recepcionista (AI) recebe você no balcão.",
+    "nl": "Je komt na een lange reis aan bij je hotel. De receptioniste (AI) verwelkomt je bij de balie.",
+    "hr": "Nakon dugog puta stižeš u hotel. Recepcionar (AI) dočekuje te na recepciji.",
+    "tr": "Uzun bir yolculuktan sonra otelinize varıyorsunuz. Resepsiyonist (AI) sizi resepsiyonda karşılıyor.",
+    "uk": "Після довгої дороги ти приїжджаєш до готелю. Адміністратор (AI) вітає тебе на рецепції.",
+    "ar": "تصل إلى فندقك بعد رحلة طويلة. يرحّب بك موظف الاستقبال (AI) عند مكتب الاستقبال.",
+    "hi": "लंबे सफ़र के बाद आप अपने होटल पहुँचते हैं। रिसेप्शनिस्ट (AI) फ़्रंट डेस्क पर आपका स्वागत करते हैं।",
+    "vi": "Bạn đến khách sạn sau một chuyến đi dài. Lễ tân (AI) chào đón bạn tại quầy.",
+    "id": "Kamu tiba di hotel setelah perjalanan panjang. Resepsionis (AI) menyambutmu di meja depan.",
+    "ms": "Anda tiba di hotel selepas perjalanan yang panjang. Penyambut tetamu (AI) menyambut anda di kaunter hadapan.",
+    "ko": "긴 여행 끝에 호텔에 도착했습니다. 프런트 직원(AI)이 프런트에서 맞이합니다."
+  },
+  "mission": {
+    "native": "Check in with your reservation and ask about breakfast.",
+    "native_translations": {
+      "en": "Check in with your reservation and ask about breakfast.",
+      "es": "Haga el check-in con su reserva y pregunte por el desayuno.",
+      "fr": "Présentez votre réservation pour vous enregistrer et renseignez-vous sur le petit-déjeuner.",
+      "de": "Checken Sie mit Ihrer Reservierung ein und fragen Sie nach dem Frühstück.",
+      "it": "Fai il check-in con la tua prenotazione e chiedi informazioni sulla colazione.",
+      "pl": "Zamelduj się na podstawie rezerwacji i zapytaj o śniadanie.",
+      "pt": "Faça o check-in com a sua reserva e pergunte sobre o café da manhã.",
+      "nl": "Check in met je reservering en vraag naar het ontbijt.",
+      "hr": "Prijavi se sa svojom rezervacijom i pitaj za doručak.",
+      "tr": "Rezervasyonunuzla giriş yapın ve kahvaltıyı sorun.",
+      "uk": "Заселися за своїм бронюванням і запитай про сніданок.",
+      "ar": "سجّل وصولك بحجزك واسأل عن الفطور.",
+      "hi": "अपनी बुकिंग के साथ चेक-इन कीजिए और नाश्ते के बारे में पूछिए।",
+      "vi": "Nhận phòng theo đặt chỗ và hỏi về bữa sáng.",
+      "id": "Lakukan check-in dengan reservasimu dan tanyakan soal sarapan.",
+      "ms": "Daftar masuk dengan tempahan anda dan tanya tentang sarapan.",
+      "ko": "예약 내역으로 체크인하고 조식에 대해 물어보세요."
+    },
+    "practice": "Haga el check-in con su reserva y pregunte por el desayuno.",
+    "practice_translations": {
+      "en": "Check in with your reservation and ask about breakfast.",
+      "es": "Haga el check-in con su reserva y pregunte por el desayuno.",
+      "ja": "予約した名前でチェックインして、朝食について聞いてください。",
+      "ko": "예약 내역으로 체크인하고 조식에 대해 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say you have a reservation",
+        "native_translations": {
+          "en": "Say you have a reservation",
+          "es": "Diga que tiene una reserva",
+          "fr": "Dites que vous avez une réservation",
+          "de": "Sagen Sie, dass Sie eine Reservierung haben",
+          "it": "Di' che hai una prenotazione",
+          "pl": "Powiedz, że masz rezerwację",
+          "pt": "Diga que você tem uma reserva",
+          "nl": "Zeg dat je een reservering hebt",
+          "hr": "Reci da imaš rezervaciju",
+          "tr": "Rezervasyonunuz olduğunu söyleyin",
+          "uk": "Скажи, що в тебе є бронювання",
+          "ar": "قل إن لديك حجزًا",
+          "hi": "कहिए कि आपकी बुकिंग है",
+          "vi": "Nói rằng bạn đã đặt phòng",
+          "id": "Katakan bahwa kamu sudah reservasi",
+          "ms": "Katakan anda ada tempahan",
+          "ko": "예약했다고 말하세요"
+        },
+        "practice": "Diga que tiene una reserva",
+        "practice_translations": {
+          "en": "Say you have a reservation",
+          "es": "Diga que tiene una reserva",
+          "ja": "予約していると伝えてください",
+          "ko": "예약했다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Give the name on the booking",
+        "native_translations": {
+          "en": "Give the name on the booking",
+          "es": "Dé el nombre de la reserva",
+          "fr": "Donnez le nom figurant sur la réservation",
+          "de": "Nennen Sie den Namen, auf den die Buchung läuft",
+          "it": "Di' il nome della prenotazione",
+          "pl": "Podaj nazwisko, na które jest rezerwacja",
+          "pt": "Diga o nome que está na reserva",
+          "nl": "Geef de naam van de boeking",
+          "hr": "Reci ime na koje glasi rezervacija",
+          "tr": "Rezervasyondaki ismi söyleyin",
+          "uk": "Назви ім'я, на яке зроблено бронювання",
+          "ar": "قل الاسم المسجّل في الحجز",
+          "hi": "बुकिंग पर लिखा नाम बताइए",
+          "vi": "Cho biết tên người đặt phòng",
+          "id": "Sebutkan nama yang tercantum di pemesanan",
+          "ms": "Beri nama pada tempahan",
+          "ko": "예약자 이름을 말하세요"
+        },
+        "practice": "Dé el nombre de la reserva",
+        "practice_translations": {
+          "en": "Give the name on the booking",
+          "es": "Dé el nombre de la reserva",
+          "ja": "予約の名前を伝えてください",
+          "ko": "예약자 이름을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if breakfast is included",
+        "native_translations": {
+          "en": "Ask if breakfast is included",
+          "es": "Pregunte si el desayuno está incluido",
+          "fr": "Demandez si le petit-déjeuner est compris",
+          "de": "Fragen Sie, ob das Frühstück inbegriffen ist",
+          "it": "Chiedi se la colazione è inclusa",
+          "pl": "Zapytaj, czy śniadanie jest wliczone",
+          "pt": "Pergunte se o café da manhã está incluído",
+          "nl": "Vraag of het ontbijt inbegrepen is",
+          "hr": "Pitaj je li doručak uključen",
+          "tr": "Kahvaltının dahil olup olmadığını sorun",
+          "uk": "Запитай, чи входить сніданок",
+          "ar": "اسأل إن كان الفطور مشمولًا",
+          "hi": "पूछिए कि क्या नाश्ता शामिल है",
+          "vi": "Hỏi có bao gồm bữa sáng không",
+          "id": "Tanyakan apakah sudah termasuk sarapan",
+          "ms": "Tanya sama ada sarapan disertakan",
+          "ko": "조식이 포함되어 있는지 물어보세요"
+        },
+        "practice": "Pregunte si el desayuno está incluido",
+        "practice_translations": {
+          "en": "Ask if breakfast is included",
+          "es": "Pregunte si el desayuno está incluido",
+          "ja": "朝食が含まれているか聞いてください",
+          "ko": "조식이 포함되어 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I have a reservation for three nights.",
+      "native_translations": {
+        "en": "Hi, I have a reservation for three nights.",
+        "es": "Hola, tengo una reserva para tres noches.",
+        "fr": "Bonjour, j'ai une réservation pour trois nuits.",
+        "de": "Guten Tag, ich habe eine Reservierung für drei Nächte.",
+        "it": "Buongiorno, ho una prenotazione per tre notti.",
+        "pl": "Dzień dobry, mam rezerwację na trzy noce.",
+        "pt": "Oi, tenho uma reserva para três noites.",
+        "nl": "Hallo, ik heb een reservering voor drie nachten.",
+        "hr": "Dobar dan, imam rezervaciju za tri noći.",
+        "tr": "Merhaba, üç gecelik bir rezervasyonum var.",
+        "uk": "Добрий день, у мене бронювання на три ночі.",
+        "ar": "مرحبًا، لديّ حجز لثلاث ليالٍ.",
+        "hi": "नमस्ते, मेरी तीन रातों की बुकिंग है।",
+        "vi": "Chào anh/chị, tôi đã đặt phòng ba đêm.",
+        "id": "Halo, saya sudah reservasi untuk tiga malam.",
+        "ms": "Hai, saya ada tempahan untuk tiga malam.",
+        "ko": "안녕하세요, 3박 예약했어요."
+      },
+      "practice": "Hola, tengo una reserva para tres noches.",
+      "practice_translations": {
+        "en": "Hi, I have a reservation for three nights.",
+        "es": "Hola, tengo una reserva para tres noches.",
+        "ja": "こんにちは、3泊で予約しています。",
+        "ko": "안녕하세요, 3박 예약했어요."
+      }
+    },
+    {
+      "native": "The reservation is under my name.",
+      "native_translations": {
+        "en": "The reservation is under my name.",
+        "es": "La reserva está a mi nombre.",
+        "fr": "La réservation est à mon nom.",
+        "de": "Die Reservierung läuft auf meinen Namen.",
+        "it": "La prenotazione è a mio nome.",
+        "pl": "Rezerwacja jest na moje nazwisko.",
+        "pt": "A reserva está no meu nome.",
+        "nl": "De reservering staat op mijn naam.",
+        "hr": "Rezervacija glasi na moje ime.",
+        "tr": "Rezervasyon benim adıma.",
+        "uk": "Бронювання на моє ім'я.",
+        "ar": "الحجز باسمي.",
+        "hi": "बुकिंग मेरे नाम पर है।",
+        "vi": "Phòng được đặt dưới tên tôi.",
+        "id": "Reservasinya atas nama saya.",
+        "ms": "Tempahan itu atas nama saya.",
+        "ko": "제 이름으로 예약되어 있어요."
+      },
+      "practice": "La reserva está a mi nombre.",
+      "practice_translations": {
+        "en": "The reservation is under my name.",
+        "es": "La reserva está a mi nombre.",
+        "ja": "私の名前で予約しています。",
+        "ko": "제 이름으로 예약되어 있어요."
+      }
+    },
+    {
+      "native": "Is breakfast included?",
+      "native_translations": {
+        "en": "Is breakfast included?",
+        "es": "¿El desayuno está incluido?",
+        "fr": "Le petit-déjeuner est-il compris ?",
+        "de": "Ist das Frühstück inbegriffen?",
+        "it": "La colazione è inclusa?",
+        "pl": "Czy śniadanie jest wliczone w cenę?",
+        "pt": "O café da manhã está incluído?",
+        "nl": "Is het ontbijt inbegrepen?",
+        "hr": "Je li doručak uključen?",
+        "tr": "Kahvaltı dahil mi?",
+        "uk": "Сніданок входить у вартість?",
+        "ar": "هل الفطور مشمول؟",
+        "hi": "क्या नाश्ता शामिल है?",
+        "vi": "Giá phòng có bao gồm bữa sáng không?",
+        "id": "Apakah sudah termasuk sarapan?",
+        "ms": "Adakah sarapan disertakan?",
+        "ko": "조식 포함인가요?"
+      },
+      "practice": "¿El desayuno está incluido?",
+      "practice_translations": {
+        "en": "Is breakfast included?",
+        "es": "¿El desayuno está incluido?",
+        "ja": "朝食は含まれていますか。",
+        "ko": "조식 포함인가요?"
+      }
+    },
+    {
+      "native": "What's the Wi-Fi password?",
+      "native_translations": {
+        "en": "What's the Wi-Fi password?",
+        "es": "¿Cuál es la contraseña del wifi?",
+        "fr": "Quel est le mot de passe du Wi-Fi ?",
+        "de": "Wie lautet das WLAN-Passwort?",
+        "it": "Qual è la password del Wi-Fi?",
+        "pl": "Jakie jest hasło do Wi-Fi?",
+        "pt": "Qual é a senha do Wi-Fi?",
+        "nl": "Wat is het wifiwachtwoord?",
+        "hr": "Koja je lozinka za Wi-Fi?",
+        "tr": "Wi-Fi şifresi ne?",
+        "uk": "Який пароль від Wi-Fi?",
+        "ar": "ما كلمة مرور شبكة Wi-Fi؟",
+        "hi": "वाई-फ़ाई का पासवर्ड क्या है?",
+        "vi": "Mật khẩu Wi-Fi là gì vậy?",
+        "id": "Apa kata sandi Wi-Fi-nya?",
+        "ms": "Apa kata laluan Wi-Fi?",
+        "ko": "와이파이 비밀번호가 뭐예요?"
+      },
+      "practice": "¿Cuál es la contraseña del wifi?",
+      "practice_translations": {
+        "en": "What's the Wi-Fi password?",
+        "es": "¿Cuál es la contraseña del wifi?",
+        "ja": "Wi-Fiのパスワードは何ですか。",
+        "ko": "와이파이 비밀번호가 뭐예요?"
+      }
+    }
+  ]
+}

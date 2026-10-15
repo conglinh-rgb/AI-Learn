@@ -1,0 +1,289 @@
+{
+  "id": "work_understanding_job_offers_benefits_c1",
+  "title": "Reading the Offer Letter",
+  "title_translations": {
+    "en": "Reading the Offer Letter",
+    "es": "Leer la carta de oferta",
+    "fr": "Lire la lettre d'offre",
+    "de": "Das Angebotsschreiben lesen",
+    "it": "Leggere la lettera di offerta",
+    "pl": "Czytanie oferty pracy",
+    "pt": "Lendo a carta-proposta",
+    "nl": "De aanbiedingsbrief lezen",
+    "hr": "Čitanje ponude za posao",
+    "tr": "Teklif Mektubunu Okumak",
+    "uk": "Читаємо лист із пропозицією",
+    "ar": "قراءة خطاب العرض الوظيفي",
+    "hi": "ऑफ़र लेटर पढ़ना",
+    "vi": "Đọc thư mời làm việc",
+    "id": "Membaca Surat Penawaran Kerja",
+    "ms": "Membaca Surat Tawaran",
+    "ko": "채용 제안서 읽기"
+  },
+  "character": "fox",
+  "scenario": "You just received a job offer letter. The HR representative (AI) calls to see if you have any questions.",
+  "scenario_translations": {
+    "en": "You just received a job offer letter. The HR representative (AI) calls to see if you have any questions.",
+    "es": "Acaba de recibir una carta de oferta de trabajo. El representante de Recursos Humanos (AI) le llama para ver si tiene preguntas.",
+    "fr": "Vous venez de recevoir une offre d'emploi par écrit. La chargée des RH (AI) vous appelle pour savoir si vous avez des questions.",
+    "de": "Sie haben gerade ein schriftliches Jobangebot erhalten. Die Ansprechpartnerin aus der Personalabteilung (AI) ruft an, um zu fragen, ob Sie Fragen haben.",
+    "it": "Hai appena ricevuto una lettera di offerta di lavoro. Il referente delle risorse umane (AI) ti chiama per sapere se hai domande.",
+    "pl": "Właśnie dostałeś pisemną ofertę pracy. Przedstawicielka działu HR (AI) dzwoni, żeby sprawdzić, czy masz jakieś pytania.",
+    "pt": "Você acabou de receber uma carta com uma proposta de emprego. O representante do RH (AI) liga para saber se você tem alguma dúvida.",
+    "nl": "Je hebt net een aanbiedingsbrief voor een baan gekregen. De HR-medewerker (AI) belt om te horen of je nog vragen hebt.",
+    "hr": "Upravo si dobio pisanu ponudu za posao. Predstavnik kadrovske službe (AI) zove da provjeri imaš li pitanja.",
+    "tr": "Az önce bir iş teklif mektubu aldınız. İK temsilcisi (AI) sorunuz olup olmadığını öğrenmek için arıyor.",
+    "uk": "Тобі щойно надіслали лист із пропозицією роботи. Представник HR (AI) телефонує, щоб дізнатися, чи є в тебе запитання.",
+    "ar": "استلمت للتوّ خطاب عرض وظيفي. يتصل بك ممثل الموارد البشرية (AI) ليعرف إن كانت لديك أي أسئلة.",
+    "hi": "आपको अभी-अभी नौकरी का ऑफ़र लेटर मिला है। HR प्रतिनिधि (AI) यह जानने के लिए फ़ोन करते हैं कि क्या आपके कोई सवाल हैं।",
+    "vi": "Bạn vừa nhận được thư mời làm việc. Đại diện phòng nhân sự (AI) gọi điện hỏi xem bạn có thắc mắc gì không.",
+    "id": "Kamu baru menerima surat penawaran kerja. Perwakilan HR (AI) menelepon untuk menanyakan apakah kamu punya pertanyaan.",
+    "ms": "Anda baru menerima surat tawaran kerja. Wakil HR (AI) menelefon untuk bertanya sama ada anda ada soalan.",
+    "ko": "방금 채용 제안서를 받았어요. 인사 담당자(AI)가 궁금한 점이 있는지 전화로 물어봅니다."
+  },
+  "mission": {
+    "native": "Ask the HR representative the basic questions you have about the offer.",
+    "native_translations": {
+      "en": "Ask the HR representative the basic questions you have about the offer.",
+      "es": "Haga al representante de Recursos Humanos las preguntas básicas que tiene sobre la oferta.",
+      "fr": "Posez à la chargée des RH les questions de base que vous avez sur l'offre.",
+      "de": "Stellen Sie der Ansprechpartnerin aus der Personalabteilung Ihre grundlegenden Fragen zum Angebot.",
+      "it": "Fai al referente delle risorse umane le domande di base che hai sull'offerta.",
+      "pl": "Zadaj przedstawicielce HR podstawowe pytania dotyczące oferty.",
+      "pt": "Faça ao representante do RH as perguntas básicas que você tem sobre a proposta.",
+      "nl": "Stel de HR-medewerker de basisvragen die je over het aanbod hebt.",
+      "hr": "Postavi predstavniku kadrovske službe osnovna pitanja o ponudi.",
+      "tr": "İK temsilcisine teklifle ilgili temel sorularınızı sorun.",
+      "uk": "Постав представникові HR основні запитання щодо пропозиції.",
+      "ar": "اطرح على ممثل الموارد البشرية أسئلتك الأساسية حول العرض.",
+      "hi": "ऑफ़र के बारे में अपने बुनियादी सवाल HR प्रतिनिधि से पूछिए।",
+      "vi": "Hỏi đại diện phòng nhân sự những câu hỏi cơ bản về lời mời làm việc.",
+      "id": "Ajukan pertanyaan dasar tentang tawaran itu kepada perwakilan HR.",
+      "ms": "Tanya wakil HR soalan asas yang anda ada tentang tawaran itu.",
+      "ko": "인사 담당자에게 제안에 대한 기본적인 질문을 하세요."
+    },
+    "practice": "Haga al representante de Recursos Humanos las preguntas básicas que tiene sobre la oferta.",
+    "practice_translations": {
+      "en": "Ask the HR representative the basic questions you have about the offer.",
+      "es": "Haga al representante de Recursos Humanos las preguntas básicas que tiene sobre la oferta.",
+      "ja": "人事担当者に、内定について基本的な質問をしてください。",
+      "ko": "인사 담당자에게 제안에 대한 기본적인 질문을 하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Thank them for the offer",
+        "native_translations": {
+          "en": "Thank them for the offer",
+          "es": "Agradezca la oferta",
+          "fr": "Remerciez-la pour l'offre",
+          "de": "Bedanken Sie sich für das Angebot",
+          "it": "Ringrazia per l'offerta",
+          "pl": "Podziękuj za ofertę",
+          "pt": "Agradeça pela proposta",
+          "nl": "Bedank voor het aanbod",
+          "hr": "Zahvali na ponudi",
+          "tr": "Teklif için teşekkür edin",
+          "uk": "Подякуй за пропозицію",
+          "ar": "اشكره على العرض",
+          "hi": "ऑफ़र के लिए उन्हें धन्यवाद दीजिए",
+          "vi": "Cảm ơn họ vì lời mời làm việc",
+          "id": "Ucapkan terima kasih atas tawarannya",
+          "ms": "Ucapkan terima kasih atas tawaran itu",
+          "ko": "제안해 주셔서 감사하다고 말하세요"
+        },
+        "practice": "Agradezca la oferta",
+        "practice_translations": {
+          "en": "Thank them for the offer",
+          "es": "Agradezca la oferta",
+          "ja": "内定のお礼を言ってください",
+          "ko": "제안해 주셔서 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask about the start date",
+        "native_translations": {
+          "en": "Ask about the start date",
+          "es": "Pregunte por la fecha de inicio",
+          "fr": "Demandez la date de début",
+          "de": "Fragen Sie nach dem Startdatum",
+          "it": "Chiedi la data di inizio",
+          "pl": "Zapytaj o datę rozpoczęcia pracy",
+          "pt": "Pergunte sobre a data de início",
+          "nl": "Vraag naar de startdatum",
+          "hr": "Pitaj za datum početka rada",
+          "tr": "Başlangıç tarihini sorun",
+          "uk": "Запитай про дату початку роботи",
+          "ar": "اسأل عن تاريخ بدء العمل",
+          "hi": "काम शुरू करने की तारीख़ के बारे में पूछिए",
+          "vi": "Hỏi về ngày bắt đầu đi làm",
+          "id": "Tanyakan tanggal mulai kerja",
+          "ms": "Tanya tentang tarikh mula bekerja",
+          "ko": "입사 날짜를 물어보세요"
+        },
+        "practice": "Pregunte por la fecha de inicio",
+        "practice_translations": {
+          "en": "Ask about the start date",
+          "es": "Pregunte por la fecha de inicio",
+          "ja": "入社日について聞いてください",
+          "ko": "입사 날짜를 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how often you will be paid",
+        "native_translations": {
+          "en": "Ask how often you will be paid",
+          "es": "Pregunte cada cuánto le van a pagar",
+          "fr": "Demandez à quelle fréquence vous serez payé",
+          "de": "Fragen Sie, wie oft Sie bezahlt werden",
+          "it": "Chiedi ogni quanto verrai pagato",
+          "pl": "Zapytaj, jak często będziesz dostawać wypłatę",
+          "pt": "Pergunte com que frequência você vai receber",
+          "nl": "Vraag hoe vaak je wordt uitbetaald",
+          "hr": "Pitaj koliko često ćeš primati plaću",
+          "tr": "Maaşın ne sıklıkla ödeneceğini sorun",
+          "uk": "Запитай, як часто виплачують зарплату",
+          "ar": "اسأل كم مرة ستتقاضى راتبك",
+          "hi": "पूछिए कि तनख़्वाह कितनी बार मिलेगी",
+          "vi": "Hỏi bao lâu bạn được trả lương một lần",
+          "id": "Tanyakan seberapa sering gaji dibayarkan",
+          "ms": "Tanya berapa kerap anda akan dibayar gaji",
+          "ko": "급여를 얼마나 자주 받는지 물어보세요"
+        },
+        "practice": "Pregunte cada cuánto le van a pagar",
+        "practice_translations": {
+          "en": "Ask how often you will be paid",
+          "es": "Pregunte cada cuánto le van a pagar",
+          "ja": "給与の支払い頻度を聞いてください",
+          "ko": "급여를 얼마나 자주 받는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you so much for the offer. I'm very happy.",
+      "native_translations": {
+        "en": "Thank you so much for the offer. I'm very happy.",
+        "es": "Muchas gracias por la oferta. Estoy muy contento.",
+        "fr": "Merci beaucoup pour cette offre. J'en suis très heureux.",
+        "de": "Vielen Dank für das Angebot. Ich freue mich sehr.",
+        "it": "Grazie mille per l'offerta. Sono molto contento.",
+        "pl": "Bardzo dziękuję za ofertę. Bardzo się cieszę.",
+        "pt": "Muito obrigado pela proposta. Estou muito feliz.",
+        "nl": "Heel erg bedankt voor het aanbod. Ik ben er heel blij mee.",
+        "hr": "Puno Vam hvala na ponudi. Jako sam sretan.",
+        "tr": "Teklifiniz için çok teşekkür ederim. Çok mutluyum.",
+        "uk": "Щиро дякую за пропозицію. Я дуже радий.",
+        "ar": "شكرًا جزيلًا على العرض. أنا سعيد جدًا.",
+        "hi": "ऑफ़र के लिए बहुत-बहुत धन्यवाद। मैं बहुत ख़ुश हूँ।",
+        "vi": "Cảm ơn anh/chị rất nhiều vì lời mời. Tôi rất vui.",
+        "id": "Terima kasih banyak atas tawarannya. Saya sangat senang.",
+        "ms": "Terima kasih banyak atas tawaran ini. Saya sangat gembira.",
+        "ko": "제안해 주셔서 정말 감사해요. 너무 기뻐요."
+      },
+      "practice": "Muchas gracias por la oferta. Estoy muy contento.",
+      "practice_translations": {
+        "en": "Thank you so much for the offer. I'm very happy.",
+        "es": "Muchas gracias por la oferta. Estoy muy contento.",
+        "ja": "内定をいただき、本当にありがとうございます。とてもうれしいです。",
+        "ko": "제안해 주셔서 정말 감사해요. 너무 기뻐요."
+      }
+    },
+    {
+      "native": "When would my first day be?",
+      "native_translations": {
+        "en": "When would my first day be?",
+        "es": "¿Cuándo sería mi primer día?",
+        "fr": "Quel serait mon premier jour ?",
+        "de": "Wann wäre mein erster Arbeitstag?",
+        "it": "Quando sarebbe il mio primo giorno?",
+        "pl": "Kiedy byłby mój pierwszy dzień?",
+        "pt": "Quando seria o meu primeiro dia?",
+        "nl": "Wanneer zou mijn eerste werkdag zijn?",
+        "hr": "Kada bi bio moj prvi radni dan?",
+        "tr": "İlk iş günüm ne zaman olur?",
+        "uk": "Коли буде мій перший робочий день?",
+        "ar": "متى سيكون يومي الأول؟",
+        "hi": "मेरा पहला दिन कब होगा?",
+        "vi": "Ngày đầu tiên đi làm của tôi là khi nào ạ?",
+        "id": "Kapan hari pertama saya?",
+        "ms": "Bilakah hari pertama saya?",
+        "ko": "첫 출근일은 언제인가요?"
+      },
+      "practice": "¿Cuándo sería mi primer día?",
+      "practice_translations": {
+        "en": "When would my first day be?",
+        "es": "¿Cuándo sería mi primer día?",
+        "ja": "初出勤はいつになりますか。",
+        "ko": "첫 출근일은 언제인가요?"
+      }
+    },
+    {
+      "native": "Will I be paid every two weeks or once a month?",
+      "native_translations": {
+        "en": "Will I be paid every two weeks or once a month?",
+        "es": "¿Me pagarán cada dos semanas o una vez al mes?",
+        "fr": "Serai-je payé toutes les deux semaines ou une fois par mois ?",
+        "de": "Werde ich alle zwei Wochen oder einmal im Monat bezahlt?",
+        "it": "Sarò pagato ogni due settimane o una volta al mese?",
+        "pl": "Czy wypłata będzie co dwa tygodnie, czy raz w miesiącu?",
+        "pt": "Vou receber a cada duas semanas ou uma vez por mês?",
+        "nl": "Word ik om de twee weken of eens per maand betaald?",
+        "hr": "Hoće li se plaća isplaćivati svaka dva tjedna ili jednom mjesečno?",
+        "tr": "Maaşım iki haftada bir mi yoksa ayda bir mi ödenecek?",
+        "uk": "Зарплату виплачуватимуть кожні два тижні чи раз на місяць?",
+        "ar": "هل سأتقاضى راتبي كل أسبوعين أم مرة في الشهر؟",
+        "hi": "मुझे तनख़्वाह हर दो हफ़्ते में मिलेगी या महीने में एक बार?",
+        "vi": "Tôi sẽ được trả lương hai tuần một lần hay mỗi tháng một lần ạ?",
+        "id": "Apakah gaji dibayar setiap dua minggu atau sebulan sekali?",
+        "ms": "Adakah saya dibayar setiap dua minggu atau sebulan sekali?",
+        "ko": "급여는 2주마다 받나요, 아니면 한 달에 한 번 받나요?"
+      },
+      "practice": "¿Me pagarán cada dos semanas o una vez al mes?",
+      "practice_translations": {
+        "en": "Will I be paid every two weeks or once a month?",
+        "es": "¿Me pagarán cada dos semanas o una vez al mes?",
+        "ja": "給与は2週間ごとですか、それとも月1回ですか。",
+        "ko": "급여는 2주마다 받나요, 아니면 한 달에 한 번 받나요?"
+      }
+    },
+    {
+      "native": "Could you send me that information by email?",
+      "native_translations": {
+        "en": "Could you send me that information by email?",
+        "es": "¿Me podría enviar esa información por correo electrónico?",
+        "fr": "Pourriez-vous m'envoyer ces informations par e-mail ?",
+        "de": "Könnten Sie mir diese Informationen per E-Mail schicken?",
+        "it": "Potrebbe mandarmi queste informazioni via email?",
+        "pl": "Czy mogłaby mi pani przesłać te informacje mailem?",
+        "pt": "Você poderia me mandar essas informações por e-mail?",
+        "nl": "Kunt u me die informatie per e-mail sturen?",
+        "hr": "Možete li mi te informacije poslati e-mailom?",
+        "tr": "Bu bilgileri bana e-postayla gönderebilir misiniz?",
+        "uk": "Чи могли б ви надіслати цю інформацію електронною поштою?",
+        "ar": "هل يمكنك إرسال هذه المعلومات إليّ بالبريد الإلكتروني؟",
+        "hi": "क्या आप मुझे यह जानकारी ईमेल पर भेज सकते हैं?",
+        "vi": "Anh/chị gửi thông tin đó cho tôi qua email được không?",
+        "id": "Bisa kirimkan informasi itu lewat email?",
+        "ms": "Boleh hantar maklumat itu kepada saya melalui e-mel?",
+        "ko": "그 내용을 이메일로 보내 주실 수 있나요?"
+      },
+      "practice": "¿Me podría enviar esa información por correo electrónico?",
+      "practice_translations": {
+        "en": "Could you send me that information by email?",
+        "es": "¿Me podría enviar esa información por correo electrónico?",
+        "ja": "その情報をメールで送っていただけますか。",
+        "ko": "그 내용을 이메일로 보내 주실 수 있나요?"
+      }
+    }
+  ]
+}

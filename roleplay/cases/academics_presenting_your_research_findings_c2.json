@@ -1,0 +1,350 @@
+{
+  "id": "academics_presenting_your_research_findings_c2",
+  "title": "Lab Meeting Update",
+  "title_translations": {
+    "en": "Lab Meeting Update",
+    "es": "Informe en la reunión del laboratorio",
+    "fr": "Point en réunion de labo",
+    "de": "Update beim Laborteamtreffen",
+    "it": "Aggiornamento alla riunione di laboratorio",
+    "pl": "Spotkanie zespołu badawczego",
+    "pt": "Atualização na reunião do laboratório",
+    "nl": "Update in het laboverleg",
+    "hr": "Novosti na sastanku laboratorija",
+    "tr": "Laboratuvar Toplantısında Güncelleme",
+    "uk": "Звіт на засіданні лабораторії",
+    "ar": "تحديث في اجتماع المختبر",
+    "hi": "लैब मीटिंग में अपडेट",
+    "vi": "Cập nhật trong buổi họp lab",
+    "id": "Update di Rapat Lab",
+    "ms": "Kemas Kini Mesyuarat Makmal",
+    "ko": "연구실 회의 보고"
+  },
+  "character": "fox",
+  "scenario": "It is the weekly lab meeting. Your supervisor (AI) asks you to update the group on your progress.",
+  "scenario_translations": {
+    "en": "It is the weekly lab meeting. Your supervisor (AI) asks you to update the group on your progress.",
+    "es": "Es la reunión semanal del laboratorio. Su supervisor (AI) le pide que ponga al día al grupo sobre su avance.",
+    "fr": "C'est la réunion hebdomadaire du labo. Votre directeur de recherche (AI) vous demande de faire le point sur vos avancées devant le groupe.",
+    "de": "Es ist das wöchentliche Laborteamtreffen. Ihre Betreuerin bzw. Ihr Betreuer (AI) bittet Sie, die Gruppe über Ihren Fortschritt zu informieren.",
+    "it": "È la riunione settimanale del laboratorio. Il tuo supervisore (AI) ti chiede di aggiornare il gruppo sui tuoi progressi.",
+    "pl": "Trwa cotygodniowe spotkanie zespołu. Twój promotor (AI) prosi, żebyś opowiedział grupie o swoich postępach.",
+    "pt": "É a reunião semanal do laboratório. Seu orientador (AI) pede que você atualize o grupo sobre seu progresso.",
+    "nl": "Het is het wekelijkse laboverleg. Je begeleider (AI) vraagt je de groep bij te praten over je voortgang.",
+    "hr": "Tjedni je sastanak laboratorija. Tvoj mentor (AI) traži da grupu izvijestiš o svom napretku.",
+    "tr": "Haftalık laboratuvar toplantısı. Danışmanınız (AI) sizden gruba ilerlemenizi anlatmanızı istiyor.",
+    "uk": "Щотижневе засідання лабораторії. Твій науковий керівник (AI) просить розповісти групі про твій прогрес.",
+    "ar": "إنه الاجتماع الأسبوعي للمختبر. يطلب منك مشرفك (AI) أن تطلع المجموعة على تقدمك.",
+    "hi": "साप्ताहिक लैब मीटिंग चल रही है। आपके सुपरवाइज़र (AI) आपसे ग्रुप को अपनी प्रगति बताने को कहते हैं।",
+    "vi": "Đang là buổi họp lab hằng tuần. Người hướng dẫn (AI) yêu cầu bạn báo cáo tiến độ cho cả nhóm.",
+    "id": "Sedang ada rapat lab mingguan. Pembimbingmu (AI) memintamu menyampaikan progres kepada kelompok.",
+    "ms": "Sekarang mesyuarat makmal mingguan. Penyelia anda (AI) meminta anda memaklumkan kemajuan anda kepada kumpulan.",
+    "ko": "주간 연구실 회의 시간이에요. 지도교수님(AI)이 진행 상황을 팀에 공유해 달라고 하세요."
+  },
+  "mission": {
+    "native": "Report your progress, share a problem and get advice on what to do next.",
+    "native_translations": {
+      "en": "Report your progress, share a problem and get advice on what to do next.",
+      "es": "Informe sobre su avance, comparta un problema y pida consejo sobre qué hacer después.",
+      "fr": "Présentez vos avancées, exposez un problème et obtenez des conseils pour la suite.",
+      "de": "Berichten Sie über Ihren Fortschritt, schildern Sie ein Problem und holen Sie sich Rat für die nächsten Schritte.",
+      "it": "Riferisci i tuoi progressi, esponi un problema e ricevi consigli su cosa fare dopo.",
+      "pl": "Zrelacjonuj postępy, przedstaw problem i poproś o radę, co dalej.",
+      "pt": "Relate seu progresso, conte um problema e peça conselhos sobre os próximos passos.",
+      "nl": "Rapporteer je voortgang, deel een probleem en vraag advies over de volgende stap.",
+      "hr": "Izvijesti o napretku, iznesi jedan problem i zatraži savjet što dalje.",
+      "tr": "İlerlemenizi aktarın, bir sorunu paylaşın ve sonraki adım için tavsiye alın.",
+      "uk": "Розкажи про прогрес, поділися проблемою та отримай пораду щодо наступних кроків.",
+      "ar": "أبلغ عن تقدمك وشارك مشكلة واحصل على نصيحة بشأن الخطوة التالية.",
+      "hi": "अपनी प्रगति बताइए, एक समस्या साझा कीजिए और आगे क्या करना है उस पर सलाह लीजिए।",
+      "vi": "Báo cáo tiến độ, nêu một vấn đề và xin lời khuyên về bước tiếp theo.",
+      "id": "Laporkan progresmu, sampaikan satu masalah, dan minta saran untuk langkah berikutnya.",
+      "ms": "Laporkan kemajuan anda, kongsi satu masalah dan dapatkan nasihat tentang langkah seterusnya.",
+      "ko": "진행 상황을 보고하고, 문제를 공유하고, 다음 단계에 대한 조언을 받으세요."
+    },
+    "practice": "Informe sobre su avance, comparta un problema y pida consejo sobre qué hacer después.",
+    "practice_translations": {
+      "en": "Report your progress, share a problem and get advice on what to do next.",
+      "es": "Informe sobre su avance, comparta un problema y pida consejo sobre qué hacer después.",
+      "ja": "進み具合を報告し、問題を伝えて、次にすべきことについてアドバイスをもらってください。",
+      "ko": "진행 상황을 보고하고, 문제를 공유하고, 다음 단계에 대한 조언을 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Summarize what you did this week",
+        "native_translations": {
+          "en": "Summarize what you did this week",
+          "es": "Resuma lo que hizo esta semana",
+          "fr": "Résumez ce que vous avez fait cette semaine",
+          "de": "Fassen Sie zusammen, was Sie diese Woche gemacht haben",
+          "it": "Riassumi cosa hai fatto questa settimana",
+          "pl": "Podsumuj, co zrobiłeś w tym tygodniu",
+          "pt": "Resuma o que você fez nesta semana",
+          "nl": "Vat samen wat je deze week hebt gedaan",
+          "hr": "Sažmi svoj rad u ovom tjednu",
+          "tr": "Bu hafta yaptıklarınızı özetleyin",
+          "uk": "Підсумуй, що ти зробив за тиждень",
+          "ar": "لخّص ما قمت به هذا الأسبوع",
+          "hi": "इस हफ़्ते आपने जो किया उसका सार बताइए",
+          "vi": "Tóm tắt những gì bạn đã làm tuần này",
+          "id": "Rangkum apa yang kamu kerjakan minggu ini",
+          "ms": "Ringkaskan apa yang anda buat minggu ini",
+          "ko": "이번 주에 한 일을 요약하세요"
+        },
+        "practice": "Resuma lo que hizo esta semana",
+        "practice_translations": {
+          "en": "Summarize what you did this week",
+          "es": "Resuma lo que hizo esta semana",
+          "ja": "今週やったことをまとめてください",
+          "ko": "이번 주에 한 일을 요약하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Present your latest results",
+        "native_translations": {
+          "en": "Present your latest results",
+          "es": "Presente sus resultados más recientes",
+          "fr": "Présentez vos derniers résultats",
+          "de": "Stellen Sie Ihre neuesten Ergebnisse vor",
+          "it": "Presenta i tuoi ultimi risultati",
+          "pl": "Przedstaw najnowsze wyniki",
+          "pt": "Apresente seus resultados mais recentes",
+          "nl": "Presenteer je nieuwste resultaten",
+          "hr": "Predstavi svoje najnovije rezultate",
+          "tr": "En son sonuçlarınızı sunun",
+          "uk": "Представ свої останні результати",
+          "ar": "اعرض أحدث نتائجك",
+          "hi": "अपने ताज़ा नतीजे पेश कीजिए",
+          "vi": "Trình bày kết quả mới nhất",
+          "id": "Sampaikan hasil terbarumu",
+          "ms": "Bentangkan keputusan terbaharu anda",
+          "ko": "최신 결과를 발표하세요"
+        },
+        "practice": "Presente sus resultados más recientes",
+        "practice_translations": {
+          "en": "Present your latest results",
+          "es": "Presente sus resultados más recientes",
+          "ja": "最新の結果を発表してください",
+          "ko": "최신 결과를 발표하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Mention a problem you ran into",
+        "native_translations": {
+          "en": "Mention a problem you ran into",
+          "es": "Mencione un problema que tuvo",
+          "fr": "Mentionnez un problème que vous avez rencontré",
+          "de": "Nennen Sie ein Problem, auf das Sie gestoßen sind",
+          "it": "Menziona un problema che hai incontrato",
+          "pl": "Wspomnij o problemie, na który trafiłeś",
+          "pt": "Mencione um problema que você encontrou",
+          "nl": "Noem een probleem waar je tegenaan liep",
+          "hr": "Spomeni problem koji se pojavio",
+          "tr": "Karşılaştığınız bir sorundan bahsedin",
+          "uk": "Згадай проблему, з якою зіткнувся",
+          "ar": "اذكر مشكلة واجهتها",
+          "hi": "आई हुई एक समस्या का ज़िक्र कीजिए",
+          "vi": "Nêu một vấn đề bạn gặp phải",
+          "id": "Sebutkan masalah yang kamu hadapi",
+          "ms": "Sebut satu masalah yang anda hadapi",
+          "ko": "겪은 문제를 하나 말하세요"
+        },
+        "practice": "Mencione un problema que tuvo",
+        "practice_translations": {
+          "en": "Mention a problem you ran into",
+          "es": "Mencione un problema que tuvo",
+          "ja": "困った問題について話してください",
+          "ko": "겪은 문제를 하나 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for advice on next steps",
+        "native_translations": {
+          "en": "Ask for advice on next steps",
+          "es": "Pida consejo sobre los próximos pasos",
+          "fr": "Demandez conseil pour les prochaines étapes",
+          "de": "Fragen Sie nach Rat für die nächsten Schritte",
+          "it": "Chiedi consigli sui prossimi passi",
+          "pl": "Poproś o radę co do dalszych kroków",
+          "pt": "Peça conselhos sobre os próximos passos",
+          "nl": "Vraag advies over de volgende stappen",
+          "hr": "Zatraži savjet o sljedećim koracima",
+          "tr": "Sonraki adımlar için tavsiye isteyin",
+          "uk": "Попроси поради щодо наступних кроків",
+          "ar": "اطلب نصيحة بشأن الخطوات التالية",
+          "hi": "अगले क़दमों पर सलाह माँगिए",
+          "vi": "Xin lời khuyên cho các bước tiếp theo",
+          "id": "Minta saran untuk langkah berikutnya",
+          "ms": "Minta nasihat tentang langkah seterusnya",
+          "ko": "다음 단계에 대한 조언을 구하세요"
+        },
+        "practice": "Pida consejo sobre los próximos pasos",
+        "practice_translations": {
+          "en": "Ask for advice on next steps",
+          "es": "Pida consejo sobre los próximos pasos",
+          "ja": "次のステップについてアドバイスを求めてください",
+          "ko": "다음 단계에 대한 조언을 구하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "This week I finished collecting the survey data.",
+      "native_translations": {
+        "en": "This week I finished collecting the survey data.",
+        "es": "Esta semana terminé de recopilar los datos de la encuesta.",
+        "fr": "Cette semaine, j'ai terminé la collecte des données de l'enquête.",
+        "de": "Diese Woche habe ich die Erhebung der Umfragedaten abgeschlossen.",
+        "it": "Questa settimana ho finito di raccogliere i dati del sondaggio.",
+        "pl": "W tym tygodniu skończyłem zbierać dane z ankiety.",
+        "pt": "Nesta semana terminei de coletar os dados da pesquisa.",
+        "nl": "Deze week ben ik klaar met het verzamelen van de enquêtedata.",
+        "hr": "Ovaj tjedan je prikupljanje podataka iz ankete gotovo.",
+        "tr": "Bu hafta anket verilerini toplamayı bitirdim.",
+        "uk": "Цього тижня я завершив збір даних опитування.",
+        "ar": "هذا الأسبوع انتهيت من جمع بيانات الاستبيان.",
+        "hi": "इस हफ़्ते मैंने सर्वे का डेटा इकट्ठा करना पूरा कर लिया।",
+        "vi": "Tuần này em đã thu thập xong dữ liệu khảo sát.",
+        "id": "Minggu ini saya sudah selesai mengumpulkan data survei.",
+        "ms": "Minggu ini saya sudah selesai mengumpul data tinjauan.",
+        "ko": "이번 주에 설문 데이터 수집을 마쳤어요."
+      },
+      "practice": "Esta semana terminé de recopilar los datos de la encuesta.",
+      "practice_translations": {
+        "en": "This week I finished collecting the survey data.",
+        "es": "Esta semana terminé de recopilar los datos de la encuesta.",
+        "ja": "今週はアンケートのデータ収集を終えました。",
+        "ko": "이번 주에 설문 데이터 수집을 마쳤어요."
+      }
+    },
+    {
+      "native": "As you can see on this chart, the trend is clear.",
+      "native_translations": {
+        "en": "As you can see on this chart, the trend is clear.",
+        "es": "Como pueden ver en esta gráfica, la tendencia es clara.",
+        "fr": "Comme vous pouvez le voir sur ce graphique, la tendance est claire.",
+        "de": "Wie Sie in diesem Diagramm sehen, ist der Trend eindeutig.",
+        "it": "Come potete vedere in questo grafico, la tendenza è chiara.",
+        "pl": "Jak widać na tym wykresie, trend jest wyraźny.",
+        "pt": "Como vocês podem ver neste gráfico, a tendência é clara.",
+        "nl": "Zoals je in deze grafiek ziet, is de trend duidelijk.",
+        "hr": "Kao što vidite na ovom grafikonu, trend je jasan.",
+        "tr": "Bu grafikte gördüğünüz gibi eğilim net.",
+        "uk": "Як бачите на цьому графіку, тенденція очевидна.",
+        "ar": "كما ترون في هذا الرسم البياني، الاتجاه واضح.",
+        "hi": "जैसा कि आप इस चार्ट में देख सकते हैं, रुझान साफ़ है।",
+        "vi": "Như mọi người thấy trên biểu đồ này, xu hướng rất rõ ràng.",
+        "id": "Seperti yang terlihat di grafik ini, trennya jelas.",
+        "ms": "Seperti yang anda lihat pada carta ini, trendnya jelas.",
+        "ko": "이 차트에서 보시는 것처럼 경향이 뚜렷해요."
+      },
+      "practice": "Como pueden ver en esta gráfica, la tendencia es clara.",
+      "practice_translations": {
+        "en": "As you can see on this chart, the trend is clear.",
+        "es": "Como pueden ver en esta gráfica, la tendencia es clara.",
+        "ja": "このグラフのとおり、傾向ははっきりしています。",
+        "ko": "이 차트에서 보시는 것처럼 경향이 뚜렷해요."
+      }
+    },
+    {
+      "native": "One problem is that some responses were incomplete.",
+      "native_translations": {
+        "en": "One problem is that some responses were incomplete.",
+        "es": "Un problema es que algunas respuestas estaban incompletas.",
+        "fr": "Un problème, c'est que certaines réponses étaient incomplètes.",
+        "de": "Ein Problem ist, dass einige Antworten unvollständig waren.",
+        "it": "Un problema è che alcune risposte erano incomplete.",
+        "pl": "Problem w tym, że część odpowiedzi była niekompletna.",
+        "pt": "Um problema é que algumas respostas estavam incompletas.",
+        "nl": "Een probleem is dat sommige antwoorden onvolledig waren.",
+        "hr": "Jedan je problem što su neki odgovori nepotpuni.",
+        "tr": "Bir sorun, bazı yanıtların eksik olması.",
+        "uk": "Одна проблема в тому, що деякі відповіді неповні.",
+        "ar": "إحدى المشكلات أن بعض الإجابات كانت غير مكتملة.",
+        "hi": "एक समस्या यह है कि कुछ जवाब अधूरे थे।",
+        "vi": "Một vấn đề là có một số câu trả lời chưa đầy đủ.",
+        "id": "Satu masalahnya, beberapa jawaban tidak lengkap.",
+        "ms": "Satu masalahnya ialah sesetengah jawapan tidak lengkap.",
+        "ko": "한 가지 문제는 일부 응답이 불완전하다는 거예요."
+      },
+      "practice": "Un problema es que algunas respuestas estaban incompletas.",
+      "practice_translations": {
+        "en": "One problem is that some responses were incomplete.",
+        "es": "Un problema es que algunas respuestas estaban incompletas.",
+        "ja": "問題は、一部の回答が不完全だったことです。",
+        "ko": "한 가지 문제는 일부 응답이 불완전하다는 거예요."
+      }
+    },
+    {
+      "native": "Should I remove those responses or keep them?",
+      "native_translations": {
+        "en": "Should I remove those responses or keep them?",
+        "es": "¿Debería eliminar esas respuestas o conservarlas?",
+        "fr": "Est-ce que je dois supprimer ces réponses ou les garder ?",
+        "de": "Soll ich diese Antworten entfernen oder behalten?",
+        "it": "Devo eliminare quelle risposte o tenerle?",
+        "pl": "Czy powinienem usunąć te odpowiedzi, czy je zostawić?",
+        "pt": "Devo remover essas respostas ou mantê-las?",
+        "nl": "Moet ik die antwoorden verwijderen of houden?",
+        "hr": "Trebam li te odgovore ukloniti ili ih zadržati?",
+        "tr": "Bu yanıtları çıkarayım mı, yoksa tutayım mı?",
+        "uk": "Мені видалити ці відповіді чи залишити їх?",
+        "ar": "هل أحذف تلك الإجابات أم أحتفظ بها؟",
+        "hi": "क्या मैं उन जवाबों को हटा दूँ या रहने दूँ?",
+        "vi": "Em nên loại bỏ những câu trả lời đó hay giữ lại ạ?",
+        "id": "Sebaiknya jawaban itu saya hapus atau tetap disimpan?",
+        "ms": "Patutkah saya buang jawapan itu atau simpan?",
+        "ko": "그 응답들을 빼야 할까요, 아니면 남겨야 할까요?"
+      },
+      "practice": "¿Debería eliminar esas respuestas o conservarlas?",
+      "practice_translations": {
+        "en": "Should I remove those responses or keep them?",
+        "es": "¿Debería eliminar esas respuestas o conservarlas?",
+        "ja": "それらの回答は除外すべきでしょうか、それとも残すべきでしょうか。",
+        "ko": "그 응답들을 빼야 할까요, 아니면 남겨야 할까요?"
+      }
+    },
+    {
+      "native": "What would you suggest as the next step?",
+      "native_translations": {
+        "en": "What would you suggest as the next step?",
+        "es": "¿Qué me sugiere como siguiente paso?",
+        "fr": "Que me conseilleriez-vous comme prochaine étape ?",
+        "de": "Was würden Sie als nächsten Schritt vorschlagen?",
+        "it": "Quale suggerirebbe come prossimo passo?",
+        "pl": "Co by pan zaproponował jako następny krok?",
+        "pt": "O que você sugere como próximo passo?",
+        "nl": "Wat zou je als volgende stap voorstellen?",
+        "hr": "Što biste predložili kao sljedeći korak?",
+        "tr": "Sonraki adım olarak ne önerirsiniz?",
+        "uk": "Що б ви порадили як наступний крок?",
+        "ar": "ما الذي تقترحه كخطوة تالية؟",
+        "hi": "आपके हिसाब से अगला क़दम क्या होना चाहिए?",
+        "vi": "Thầy/cô gợi ý bước tiếp theo em nên làm gì ạ?",
+        "id": "Menurut Anda, apa langkah berikutnya?",
+        "ms": "Apa yang anda cadangkan sebagai langkah seterusnya?",
+        "ko": "다음 단계로 무엇을 하면 좋을까요?"
+      },
+      "practice": "¿Qué me sugiere como siguiente paso?",
+      "practice_translations": {
+        "en": "What would you suggest as the next step?",
+        "es": "¿Qué me sugiere como siguiente paso?",
+        "ja": "次のステップとして、何をすればよいと思われますか。",
+        "ko": "다음 단계로 무엇을 하면 좋을까요?"
+      }
+    }
+  ]
+}

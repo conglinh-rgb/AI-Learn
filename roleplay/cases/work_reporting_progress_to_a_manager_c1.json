@@ -1,0 +1,289 @@
+{
+  "id": "work_reporting_progress_to_a_manager_c1",
+  "title": "The Weekly Check-In",
+  "title_translations": {
+    "en": "The Weekly Check-In",
+    "es": "El seguimiento semanal",
+    "fr": "Le point hebdomadaire",
+    "de": "Das wöchentliche Update",
+    "it": "Il punto settimanale",
+    "pl": "Cotygodniowa rozmowa",
+    "pt": "A reunião semanal de acompanhamento",
+    "nl": "Het wekelijkse overleg",
+    "hr": "Tjedni pregled",
+    "tr": "Haftalık Durum Görüşmesi",
+    "uk": "Щотижнева зустріч",
+    "ar": "المتابعة الأسبوعية",
+    "hi": "साप्ताहिक चेक-इन",
+    "vi": "Buổi cập nhật hằng tuần",
+    "id": "Laporan Mingguan",
+    "ms": "Semakan Mingguan",
+    "ko": "주간 점검"
+  },
+  "character": "fox",
+  "scenario": "Your manager (AI) stops by your desk for a quick weekly check-in about your project.",
+  "scenario_translations": {
+    "en": "Your manager (AI) stops by your desk for a quick weekly check-in about your project.",
+    "es": "Su gerente (AI) pasa por su escritorio para el breve seguimiento semanal de su proyecto.",
+    "fr": "Votre responsable (AI) passe à votre bureau pour un rapide point hebdomadaire sur votre projet.",
+    "de": "Ihre Vorgesetzte (AI) kommt für ein kurzes wöchentliches Update zu Ihrem Projekt an Ihrem Schreibtisch vorbei.",
+    "it": "Il tuo responsabile (AI) passa alla tua scrivania per un rapido punto settimanale sul tuo progetto.",
+    "pl": "Twoja kierowniczka (AI) zagląda do twojego biurka na krótką cotygodniową rozmowę o projekcie.",
+    "pt": "Seu gestor (AI) passa na sua mesa para uma rápida conversa semanal sobre o seu projeto.",
+    "nl": "Je manager (AI) komt even langs bij je bureau voor een korte wekelijkse update over je project.",
+    "hr": "Tvoj nadređeni (AI) svraća do tvog stola na kratki tjedni pregled projekta.",
+    "tr": "Yöneticiniz (AI) projeniz hakkında kısa bir haftalık durum görüşmesi için masanıza uğruyor.",
+    "uk": "Керівник (AI) підходить до твого столу для короткої щотижневої розмови про твій проєкт.",
+    "ar": "يمرّ مديرك (AI) بمكتبك لمتابعة أسبوعية سريعة حول مشروعك.",
+    "hi": "आपके मैनेजर (AI) आपके प्रोजेक्ट पर एक छोटे साप्ताहिक चेक-इन के लिए आपकी डेस्क पर आते हैं।",
+    "vi": "Quản lý (AI) ghé qua bàn bạn để cập nhật nhanh tình hình dự án hằng tuần.",
+    "id": "Manajermu (AI) mampir ke mejamu untuk laporan mingguan singkat tentang proyekmu.",
+    "ms": "Pengurus anda (AI) singgah di meja anda untuk semakan mingguan ringkas tentang projek anda.",
+    "ko": "매니저(AI)가 프로젝트에 대한 간단한 주간 점검을 위해 당신의 자리에 들릅니다."
+  },
+  "mission": {
+    "native": "Give a short update on what you finished and what comes next.",
+    "native_translations": {
+      "en": "Give a short update on what you finished and what comes next.",
+      "es": "Dé una breve actualización de lo que terminó y de lo que sigue.",
+      "fr": "Faites un bref point sur ce que vous avez terminé et sur la suite.",
+      "de": "Geben Sie ein kurzes Update dazu, was Sie abgeschlossen haben und was als Nächstes ansteht.",
+      "it": "Fai un breve aggiornamento su cosa hai finito e cosa viene dopo.",
+      "pl": "Krótko opowiedz, co skończyłeś i co będzie dalej.",
+      "pt": "Dê uma atualização rápida sobre o que você terminou e o que vem a seguir.",
+      "nl": "Geef een korte update over wat je hebt afgerond en wat er nu komt.",
+      "hr": "Ukratko reci što si završio i što slijedi.",
+      "tr": "Neyi bitirdiğiniz ve sırada ne olduğu hakkında kısa bir bilgi verin.",
+      "uk": "Коротко розкажи, що ти завершив і що буде далі.",
+      "ar": "قدّم تحديثًا قصيرًا عمّا أنجزته وما هو التالي.",
+      "hi": "संक्षेप में बताइए कि आपने क्या पूरा किया और आगे क्या करना है।",
+      "vi": "Cập nhật ngắn gọn những gì bạn đã xong và việc tiếp theo.",
+      "id": "Berikan kabar singkat tentang apa yang sudah selesai dan apa langkah berikutnya.",
+      "ms": "Beri kemas kini ringkas tentang apa yang sudah siap dan apa yang seterusnya.",
+      "ko": "끝낸 일과 다음에 할 일을 간단히 보고하세요."
+    },
+    "practice": "Dé una breve actualización de lo que terminó y de lo que sigue.",
+    "practice_translations": {
+      "en": "Give a short update on what you finished and what comes next.",
+      "es": "Dé una breve actualización de lo que terminó y de lo que sigue.",
+      "ja": "終わった仕事と次にやることを簡単に報告してください。",
+      "ko": "끝낸 일과 다음에 할 일을 간단히 보고하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say what you finished this week",
+        "native_translations": {
+          "en": "Say what you finished this week",
+          "es": "Diga lo que terminó esta semana",
+          "fr": "Dites ce que vous avez terminé cette semaine",
+          "de": "Sagen Sie, was Sie diese Woche abgeschlossen haben",
+          "it": "Di' cosa hai finito questa settimana",
+          "pl": "Powiedz, co skończyłeś w tym tygodniu",
+          "pt": "Diga o que você terminou esta semana",
+          "nl": "Zeg wat je deze week hebt afgerond",
+          "hr": "Reci što si završio ovaj tjedan",
+          "tr": "Bu hafta neyi bitirdiğinizi söyleyin",
+          "uk": "Скажи, що ти завершив цього тижня",
+          "ar": "قل ما أنجزته هذا الأسبوع",
+          "hi": "बताइए कि इस हफ़्ते आपने क्या पूरा किया",
+          "vi": "Nói những gì bạn đã hoàn thành tuần này",
+          "id": "Sebutkan apa yang kamu selesaikan minggu ini",
+          "ms": "Nyatakan apa yang anda siapkan minggu ini",
+          "ko": "이번 주에 끝낸 일을 말하세요"
+        },
+        "practice": "Diga lo que terminó esta semana",
+        "practice_translations": {
+          "en": "Say what you finished this week",
+          "es": "Diga lo que terminó esta semana",
+          "ja": "今週終わったことを伝えてください",
+          "ko": "이번 주에 끝낸 일을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say what you will work on next",
+        "native_translations": {
+          "en": "Say what you will work on next",
+          "es": "Diga en qué trabajará después",
+          "fr": "Dites sur quoi vous allez travailler ensuite",
+          "de": "Sagen Sie, woran Sie als Nächstes arbeiten",
+          "it": "Di' a cosa lavorerai dopo",
+          "pl": "Powiedz, czym zajmiesz się dalej",
+          "pt": "Diga no que você vai trabalhar em seguida",
+          "nl": "Zeg waar je hierna aan gaat werken",
+          "hr": "Reci na čemu ćeš raditi sljedeće",
+          "tr": "Sırada ne üzerinde çalışacağınızı söyleyin",
+          "uk": "Скажи, над чим працюватимеш далі",
+          "ar": "قل ما ستعمل عليه بعد ذلك",
+          "hi": "बताइए कि आगे आप किस पर काम करेंगे",
+          "vi": "Nói việc bạn sẽ làm tiếp theo",
+          "id": "Sebutkan apa yang akan kamu kerjakan selanjutnya",
+          "ms": "Nyatakan apa yang akan anda buat seterusnya",
+          "ko": "다음에 할 일을 말하세요"
+        },
+        "practice": "Diga en qué trabajará después",
+        "practice_translations": {
+          "en": "Say what you will work on next",
+          "es": "Diga en qué trabajará después",
+          "ja": "次に取り組むことを伝えてください",
+          "ko": "다음에 할 일을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if they have any feedback",
+        "native_translations": {
+          "en": "Ask if they have any feedback",
+          "es": "Pregunte si tiene algún comentario",
+          "fr": "Demandez s'il a des retours à vous faire",
+          "de": "Fragen Sie, ob sie Feedback für Sie hat",
+          "it": "Chiedi se ha qualche feedback",
+          "pl": "Zapytaj, czy ma jakieś uwagi",
+          "pt": "Pergunte se ele tem algum feedback",
+          "nl": "Vraag of je manager feedback heeft",
+          "hr": "Pitaj ima li kakvih povratnih informacija",
+          "tr": "Geri bildirimi olup olmadığını sorun",
+          "uk": "Запитай, чи є в керівника зауваження",
+          "ar": "اسأل إن كانت لديه أي ملاحظات",
+          "hi": "पूछिए कि क्या उनका कोई फ़ीडबैक है",
+          "vi": "Hỏi xem họ có góp ý gì không",
+          "id": "Tanyakan apakah dia punya masukan",
+          "ms": "Tanya sama ada mereka ada maklum balas",
+          "ko": "피드백이 있는지 물어보세요"
+        },
+        "practice": "Pregunte si tiene algún comentario",
+        "practice_translations": {
+          "en": "Ask if they have any feedback",
+          "es": "Pregunte si tiene algún comentario",
+          "ja": "何かフィードバックがあるか聞いてください",
+          "ko": "피드백이 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "This week I finished the customer survey.",
+      "native_translations": {
+        "en": "This week I finished the customer survey.",
+        "es": "Esta semana terminé la encuesta a los clientes.",
+        "fr": "Cette semaine, j'ai terminé l'enquête auprès des clients.",
+        "de": "Diese Woche habe ich die Kundenumfrage abgeschlossen.",
+        "it": "Questa settimana ho finito il sondaggio sui clienti.",
+        "pl": "W tym tygodniu skończyłem ankietę dla klientów.",
+        "pt": "Esta semana eu terminei a pesquisa com os clientes.",
+        "nl": "Deze week heb ik de klantenenquête afgerond.",
+        "hr": "Ovaj tjedan dovršena je anketa za korisnike.",
+        "tr": "Bu hafta müşteri anketini bitirdim.",
+        "uk": "Цього тижня я завершив опитування клієнтів.",
+        "ar": "أنهيت هذا الأسبوع استبيان العملاء.",
+        "hi": "इस हफ़्ते मैंने कस्टमर सर्वे पूरा कर लिया।",
+        "vi": "Tuần này tôi đã hoàn thành khảo sát khách hàng.",
+        "id": "Minggu ini saya sudah menyelesaikan survei pelanggan.",
+        "ms": "Minggu ini saya sudah siapkan tinjauan pelanggan.",
+        "ko": "이번 주에 고객 설문 조사를 끝냈어요."
+      },
+      "practice": "Esta semana terminé la encuesta a los clientes.",
+      "practice_translations": {
+        "en": "This week I finished the customer survey.",
+        "es": "Esta semana terminé la encuesta a los clientes.",
+        "ja": "今週は顧客アンケートを終えました。",
+        "ko": "이번 주에 고객 설문 조사를 끝냈어요."
+      }
+    },
+    {
+      "native": "Next, I'm going to analyze the results.",
+      "native_translations": {
+        "en": "Next, I'm going to analyze the results.",
+        "es": "Ahora voy a analizar los resultados.",
+        "fr": "Ensuite, je vais analyser les résultats.",
+        "de": "Als Nächstes werte ich die Ergebnisse aus.",
+        "it": "Adesso analizzerò i risultati.",
+        "pl": "Teraz zajmę się analizą wyników.",
+        "pt": "Agora vou analisar os resultados.",
+        "nl": "Hierna ga ik de resultaten analyseren.",
+        "hr": "Sljedeće ću analizirati rezultate.",
+        "tr": "Sırada sonuçları analiz etmek var.",
+        "uk": "Далі я проаналізую результати.",
+        "ar": "بعد ذلك، سأحلّل النتائج.",
+        "hi": "अब मैं नतीजों का विश्लेषण करूँगा।",
+        "vi": "Tiếp theo, tôi sẽ phân tích kết quả.",
+        "id": "Selanjutnya, saya akan menganalisis hasilnya.",
+        "ms": "Seterusnya, saya akan menganalisis keputusannya.",
+        "ko": "다음으로 결과를 분석할 거예요."
+      },
+      "practice": "Ahora voy a analizar los resultados.",
+      "practice_translations": {
+        "en": "Next, I'm going to analyze the results.",
+        "es": "Ahora voy a analizar los resultados.",
+        "ja": "次は、その結果を分析する予定です。",
+        "ko": "다음으로 결과를 분석할 거예요."
+      }
+    },
+    {
+      "native": "Everything is on track so far.",
+      "native_translations": {
+        "en": "Everything is on track so far.",
+        "es": "Hasta ahora, todo va según lo previsto.",
+        "fr": "Jusqu'ici, tout se déroule comme prévu.",
+        "de": "Bisher läuft alles nach Plan.",
+        "it": "Finora è tutto nei tempi.",
+        "pl": "Na razie wszystko idzie zgodnie z planem.",
+        "pt": "Até agora está tudo dentro do prazo.",
+        "nl": "Tot nu toe loopt alles volgens planning.",
+        "hr": "Zasad sve ide prema planu.",
+        "tr": "Şu ana kadar her şey planlandığı gibi gidiyor.",
+        "uk": "Поки що все йде за планом.",
+        "ar": "كل شيء يسير وفق الخطة حتى الآن.",
+        "hi": "अब तक सब कुछ समय पर चल रहा है।",
+        "vi": "Đến giờ mọi thứ vẫn đúng tiến độ.",
+        "id": "Sejauh ini semuanya sesuai jadwal.",
+        "ms": "Setakat ini semuanya berjalan lancar.",
+        "ko": "지금까지는 모두 계획대로 진행되고 있어요."
+      },
+      "practice": "Hasta ahora, todo va según lo previsto.",
+      "practice_translations": {
+        "en": "Everything is on track so far.",
+        "es": "Hasta ahora, todo va según lo previsto.",
+        "ja": "今のところ、すべて予定どおりです。",
+        "ko": "지금까지는 모두 계획대로 진행되고 있어요."
+      }
+    },
+    {
+      "native": "Is there anything you'd like me to change?",
+      "native_translations": {
+        "en": "Is there anything you'd like me to change?",
+        "es": "¿Hay algo que le gustaría que cambiara?",
+        "fr": "Y a-t-il quelque chose que vous aimeriez que je change ?",
+        "de": "Gibt es etwas, das ich ändern soll?",
+        "it": "C'è qualcosa che vorrebbe che cambiassi?",
+        "pl": "Czy chciałaby pani, żebym coś zmienił?",
+        "pt": "Tem alguma coisa que você gostaria que eu mudasse?",
+        "nl": "Is er iets wat je anders zou willen?",
+        "hr": "Želite li da nešto promijenim?",
+        "tr": "Değiştirmemi istediğiniz bir şey var mı?",
+        "uk": "Чи хотіли б ви, щоб я щось змінив?",
+        "ar": "هل هناك أي شيء تودّ أن أغيّره؟",
+        "hi": "क्या आप चाहते हैं कि मैं कुछ बदलूँ?",
+        "vi": "Anh/chị có muốn tôi thay đổi gì không?",
+        "id": "Ada yang ingin Anda ubah?",
+        "ms": "Ada apa-apa yang anda mahu saya ubah?",
+        "ko": "제가 바꿨으면 하는 부분이 있으세요?"
+      },
+      "practice": "¿Hay algo que le gustaría que cambiara?",
+      "practice_translations": {
+        "en": "Is there anything you'd like me to change?",
+        "es": "¿Hay algo que le gustaría que cambiara?",
+        "ja": "何か変更してほしい点はありますか。",
+        "ko": "제가 바꿨으면 하는 부분이 있으세요?"
+      }
+    }
+  ]
+}

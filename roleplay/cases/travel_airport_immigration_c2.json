@@ -1,0 +1,321 @@
+{
+  "id": "travel_airport_immigration_c2",
+  "title": "Questions at Passport Control",
+  "title_translations": {
+    "en": "Questions at Passport Control",
+    "es": "Preguntas en el control de pasaportes",
+    "fr": "Questions au contrôle des passeports",
+    "de": "Fragen bei der Passkontrolle",
+    "it": "Domande al controllo passaporti",
+    "pl": "Pytania na kontroli paszportowej",
+    "pt": "Perguntas no controle de passaportes",
+    "nl": "Vragen bij de paspoortcontrole",
+    "hr": "Pitanja na kontroli putovnica",
+    "tr": "Pasaport Kontrolünde Sorular",
+    "uk": "Запитання на паспортному контролі",
+    "ar": "أسئلة عند مراقبة الجوازات",
+    "hi": "पासपोर्ट कंट्रोल पर सवाल",
+    "vi": "Trả lời câu hỏi tại quầy kiểm soát hộ chiếu",
+    "id": "Pertanyaan di Pemeriksaan Paspor",
+    "ms": "Soalan di Kaunter Imigresen",
+    "ko": "입국 심사대에서의 질문"
+  },
+  "character": "fox",
+  "scenario": "You have just landed in a new country. The immigration officer (AI) looks at your passport and starts asking questions.",
+  "scenario_translations": {
+    "en": "You have just landed in a new country. The immigration officer (AI) looks at your passport and starts asking questions.",
+    "es": "Acaba de aterrizar en un país nuevo. El agente de migración (AI) revisa su pasaporte y empieza a hacerle preguntas.",
+    "fr": "Vous venez d'atterrir dans un nouveau pays. L'agent de l'immigration (AI) examine votre passeport et commence à vous poser des questions.",
+    "de": "Sie sind gerade in einem neuen Land gelandet. Der Grenzbeamte (AI) sieht sich Ihren Reisepass an und beginnt, Ihnen Fragen zu stellen.",
+    "it": "Sei appena atterrato in un nuovo paese. L'agente dell'immigrazione (AI) guarda il tuo passaporto e inizia a farti domande.",
+    "pl": "Właśnie wylądowałeś w nowym kraju. Funkcjonariusz straży granicznej (AI) ogląda twój paszport i zaczyna zadawać pytania.",
+    "pt": "Você acabou de desembarcar em um novo país. O agente de imigração (AI) olha seu passaporte e começa a fazer perguntas.",
+    "nl": "Je bent net geland in een nieuw land. De douanebeambte (AI) bekijkt je paspoort en begint vragen te stellen.",
+    "hr": "Tvoj avion upravo je sletio u novu zemlju. Granični policajac (AI) gleda tvoju putovnicu i počinje postavljati pitanja.",
+    "tr": "Yeni bir ülkeye henüz iniş yaptınız. Pasaport kontrol memuru (AI) pasaportunuza bakıyor ve soru sormaya başlıyor.",
+    "uk": "Твій літак щойно приземлився в новій країні. Прикордонник (AI) дивиться твій паспорт і починає ставити запитання.",
+    "ar": "هبطت للتوّ في بلد جديد. ينظر ضابط الجوازات (AI) إلى جواز سفرك ويبدأ بطرح الأسئلة.",
+    "hi": "आप अभी-अभी एक नए देश में उतरे हैं। इमिग्रेशन अधिकारी (AI) आपका पासपोर्ट देखते हैं और सवाल पूछने लगते हैं।",
+    "vi": "Bạn vừa hạ cánh xuống một đất nước mới. Nhân viên xuất nhập cảnh (AI) xem hộ chiếu và bắt đầu đặt câu hỏi.",
+    "id": "Kamu baru saja mendarat di negara baru. Petugas imigrasi (AI) memeriksa paspormu dan mulai bertanya.",
+    "ms": "Anda baru sahaja mendarat di negara baharu. Pegawai imigresen (AI) melihat pasport anda dan mula bertanya soalan.",
+    "ko": "새로운 나라에 막 도착했습니다. 입국 심사관(AI)이 여권을 보더니 질문을 하기 시작합니다."
+  },
+  "mission": {
+    "native": "Answer the officer clearly about the purpose and length of your stay.",
+    "native_translations": {
+      "en": "Answer the officer clearly about the purpose and length of your stay.",
+      "es": "Responda con claridad al oficial sobre el motivo y la duración de su estancia.",
+      "fr": "Répondez clairement à l'agent sur le motif et la durée de votre séjour.",
+      "de": "Beantworten Sie die Fragen des Beamten zu Zweck und Dauer Ihres Aufenthalts klar.",
+      "it": "Rispondi chiaramente all'agente sul motivo e sulla durata del tuo soggiorno.",
+      "pl": "Jasno odpowiedz funkcjonariuszowi na pytania o cel i długość pobytu.",
+      "pt": "Responda com clareza ao agente sobre o motivo e a duração da sua estadia.",
+      "nl": "Beantwoord duidelijk de vragen van de beambte over het doel en de duur van je verblijf.",
+      "hr": "Jasno odgovori službeniku o svrsi i trajanju svog boravka.",
+      "tr": "Memura kalışınızın amacı ve süresi hakkında net cevaplar verin.",
+      "uk": "Чітко відповідай прикордоннику про мету й тривалість перебування.",
+      "ar": "أجب الضابط بوضوح عن غرض إقامتك ومدتها.",
+      "hi": "अपनी यात्रा के मक़सद और रुकने की अवधि के बारे में अधिकारी को साफ़ जवाब दीजिए।",
+      "vi": "Trả lời rõ ràng về mục đích và thời gian lưu trú của bạn.",
+      "id": "Jawab pertanyaan petugas dengan jelas tentang tujuan dan lama kunjunganmu.",
+      "ms": "Jawab pegawai itu dengan jelas tentang tujuan dan tempoh penginapan anda.",
+      "ko": "체류 목적과 기간에 대해 심사관에게 분명하게 답하세요."
+    },
+    "practice": "Responda con claridad al oficial sobre el motivo y la duración de su estancia.",
+    "practice_translations": {
+      "en": "Answer the officer clearly about the purpose and length of your stay.",
+      "es": "Responda con claridad al oficial sobre el motivo y la duración de su estancia.",
+      "ja": "入国審査官に、滞在の目的と期間をはっきり答えてください。",
+      "ko": "체류 목적과 기간에 대해 심사관에게 분명하게 답하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say the purpose of your trip",
+        "native_translations": {
+          "en": "Say the purpose of your trip",
+          "es": "Diga el motivo de su viaje",
+          "fr": "Indiquez le motif de votre voyage",
+          "de": "Nennen Sie den Zweck Ihrer Reise",
+          "it": "Di' il motivo del tuo viaggio",
+          "pl": "Podaj cel podróży",
+          "pt": "Diga o motivo da sua viagem",
+          "nl": "Noem het doel van je reis",
+          "hr": "Reci koja je svrha tvog putovanja",
+          "tr": "Seyahatinizin amacını söyleyin",
+          "uk": "Назви мету поїздки",
+          "ar": "قل ما غرض رحلتك",
+          "hi": "अपनी यात्रा का मक़सद बताइए",
+          "vi": "Nói mục đích chuyến đi",
+          "id": "Sebutkan tujuan perjalananmu",
+          "ms": "Nyatakan tujuan perjalanan anda",
+          "ko": "여행 목적을 말하세요"
+        },
+        "practice": "Diga el motivo de su viaje",
+        "practice_translations": {
+          "en": "Say the purpose of your trip",
+          "es": "Diga el motivo de su viaje",
+          "ja": "旅行の目的を伝えてください",
+          "ko": "여행 목적을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say how long you will stay",
+        "native_translations": {
+          "en": "Say how long you will stay",
+          "es": "Diga cuánto tiempo se quedará",
+          "fr": "Dites combien de temps vous restez",
+          "de": "Sagen Sie, wie lange Sie bleiben",
+          "it": "Di' quanto tempo resterai",
+          "pl": "Powiedz, jak długo zostaniesz",
+          "pt": "Diga quanto tempo você vai ficar",
+          "nl": "Zeg hoe lang je blijft",
+          "hr": "Reci koliko ćeš dugo ostati",
+          "tr": "Ne kadar kalacağınızı söyleyin",
+          "uk": "Скажи, скільки часу пробудеш",
+          "ar": "قل كم ستبقى",
+          "hi": "बताइए कि आप कितने दिन रुकेंगे",
+          "vi": "Nói bạn sẽ ở lại bao lâu",
+          "id": "Sebutkan berapa lama kamu akan tinggal",
+          "ms": "Katakan berapa lama anda akan tinggal",
+          "ko": "얼마나 머물 예정인지 말하세요"
+        },
+        "practice": "Diga cuánto tiempo se quedará",
+        "practice_translations": {
+          "en": "Say how long you will stay",
+          "es": "Diga cuánto tiempo se quedará",
+          "ja": "滞在期間を伝えてください",
+          "ko": "얼마나 머물 예정인지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say where you will be staying",
+        "native_translations": {
+          "en": "Say where you will be staying",
+          "es": "Diga dónde se va a hospedar",
+          "fr": "Dites où vous allez loger",
+          "de": "Sagen Sie, wo Sie wohnen werden",
+          "it": "Di' dove alloggerai",
+          "pl": "Powiedz, gdzie się zatrzymasz",
+          "pt": "Diga onde você vai se hospedar",
+          "nl": "Zeg waar je verblijft",
+          "hr": "Reci gdje ćeš odsjesti",
+          "tr": "Nerede kalacağınızı söyleyin",
+          "uk": "Скажи, де зупинишся",
+          "ar": "قل أين ستقيم",
+          "hi": "बताइए कि आप कहाँ ठहरेंगे",
+          "vi": "Nói bạn sẽ ở đâu",
+          "id": "Sebutkan di mana kamu akan menginap",
+          "ms": "Katakan di mana anda akan menginap",
+          "ko": "어디에 묵을 예정인지 말하세요"
+        },
+        "practice": "Diga dónde se va a hospedar",
+        "practice_translations": {
+          "en": "Say where you will be staying",
+          "es": "Diga dónde se va a hospedar",
+          "ja": "滞在先を伝えてください",
+          "ko": "어디에 묵을 예정인지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Mention your return ticket",
+        "native_translations": {
+          "en": "Mention your return ticket",
+          "es": "Mencione su boleto de regreso",
+          "fr": "Mentionnez votre billet retour",
+          "de": "Erwähnen Sie Ihr Rückflugticket",
+          "it": "Menziona il biglietto di ritorno",
+          "pl": "Wspomnij o bilecie powrotnym",
+          "pt": "Mencione sua passagem de volta",
+          "nl": "Noem je retourticket",
+          "hr": "Spomeni povratnu kartu",
+          "tr": "Dönüş biletinizden bahsedin",
+          "uk": "Згадай про зворотний квиток",
+          "ar": "اذكر تذكرة العودة",
+          "hi": "अपने वापसी टिकट का ज़िक्र कीजिए",
+          "vi": "Nhắc đến vé khứ hồi của bạn",
+          "id": "Sebutkan tiket pulangmu",
+          "ms": "Sebut tentang tiket pulang anda",
+          "ko": "돌아가는 항공권이 있다고 말하세요"
+        },
+        "practice": "Mencione su boleto de regreso",
+        "practice_translations": {
+          "en": "Mention your return ticket",
+          "es": "Mencione su boleto de regreso",
+          "ja": "帰りの航空券があることを伝えてください",
+          "ko": "돌아가는 항공권이 있다고 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm here on vacation.",
+      "native_translations": {
+        "en": "I'm here on vacation.",
+        "es": "Estoy aquí de vacaciones.",
+        "fr": "Je suis ici en vacances.",
+        "de": "Ich mache hier Urlaub.",
+        "it": "Sono qui in vacanza.",
+        "pl": "Przyjechałem na wakacje.",
+        "pt": "Estou aqui de férias.",
+        "nl": "Ik ben hier op vakantie.",
+        "hr": "Ovdje sam na odmoru.",
+        "tr": "Tatil için buradayım.",
+        "uk": "Я приїхав у відпустку.",
+        "ar": "أنا هنا في إجازة.",
+        "hi": "मैं यहाँ छुट्टियाँ मनाने आया हूँ।",
+        "vi": "Tôi đến đây để du lịch.",
+        "id": "Saya ke sini untuk berlibur.",
+        "ms": "Saya datang untuk bercuti.",
+        "ko": "휴가차 왔습니다."
+      },
+      "practice": "Estoy aquí de vacaciones.",
+      "practice_translations": {
+        "en": "I'm here on vacation.",
+        "es": "Estoy aquí de vacaciones.",
+        "ja": "観光で来ました。",
+        "ko": "휴가차 왔습니다."
+      }
+    },
+    {
+      "native": "I'll be staying for two weeks.",
+      "native_translations": {
+        "en": "I'll be staying for two weeks.",
+        "es": "Me voy a quedar dos semanas.",
+        "fr": "Je reste deux semaines.",
+        "de": "Ich bleibe zwei Wochen.",
+        "it": "Resterò per due settimane.",
+        "pl": "Zostanę dwa tygodnie.",
+        "pt": "Vou ficar duas semanas.",
+        "nl": "Ik blijf twee weken.",
+        "hr": "Ostajem dva tjedna.",
+        "tr": "İki hafta kalacağım.",
+        "uk": "Я пробуду тут два тижні.",
+        "ar": "سأبقى لمدة أسبوعين.",
+        "hi": "मैं दो हफ़्ते रुकूँगा।",
+        "vi": "Tôi sẽ ở lại hai tuần.",
+        "id": "Saya akan tinggal selama dua minggu.",
+        "ms": "Saya akan tinggal selama dua minggu.",
+        "ko": "2주 동안 머물 예정입니다."
+      },
+      "practice": "Me voy a quedar dos semanas.",
+      "practice_translations": {
+        "en": "I'll be staying for two weeks.",
+        "es": "Me voy a quedar dos semanas.",
+        "ja": "2週間滞在します。",
+        "ko": "2주 동안 머물 예정입니다."
+      }
+    },
+    {
+      "native": "I'm staying at a hotel downtown.",
+      "native_translations": {
+        "en": "I'm staying at a hotel downtown.",
+        "es": "Me hospedo en un hotel en el centro.",
+        "fr": "Je loge dans un hôtel du centre-ville.",
+        "de": "Ich wohne in einem Hotel in der Innenstadt.",
+        "it": "Alloggio in un hotel in centro.",
+        "pl": "Zatrzymuję się w hotelu w centrum.",
+        "pt": "Vou me hospedar em um hotel no centro.",
+        "nl": "Ik verblijf in een hotel in het centrum.",
+        "hr": "Odsjedam u hotelu u centru grada.",
+        "tr": "Şehir merkezinde bir otelde kalıyorum.",
+        "uk": "Я зупинюся в готелі в центрі.",
+        "ar": "سأقيم في فندق في وسط المدينة.",
+        "hi": "मैं शहर के बीच एक होटल में ठहरा हूँ।",
+        "vi": "Tôi ở một khách sạn trong trung tâm thành phố.",
+        "id": "Saya menginap di hotel di pusat kota.",
+        "ms": "Saya menginap di sebuah hotel di pusat bandar.",
+        "ko": "시내에 있는 호텔에 묵을 예정입니다."
+      },
+      "practice": "Me hospedo en un hotel en el centro.",
+      "practice_translations": {
+        "en": "I'm staying at a hotel downtown.",
+        "es": "Me hospedo en un hotel en el centro.",
+        "ja": "ダウンタウンのホテルに泊まります。",
+        "ko": "시내에 있는 호텔에 묵을 예정입니다."
+      }
+    },
+    {
+      "native": "Here is my return ticket.",
+      "native_translations": {
+        "en": "Here is my return ticket.",
+        "es": "Aquí está mi boleto de regreso.",
+        "fr": "Voici mon billet retour.",
+        "de": "Hier ist mein Rückflugticket.",
+        "it": "Ecco il mio biglietto di ritorno.",
+        "pl": "Oto mój bilet powrotny.",
+        "pt": "Aqui está minha passagem de volta.",
+        "nl": "Hier is mijn retourticket.",
+        "hr": "Izvolite moju povratnu kartu.",
+        "tr": "Dönüş biletim burada.",
+        "uk": "Ось мій зворотний квиток.",
+        "ar": "هذه تذكرة العودة الخاصة بي.",
+        "hi": "यह रहा मेरा वापसी टिकट।",
+        "vi": "Đây là vé chiều về của tôi.",
+        "id": "Ini tiket pulang saya.",
+        "ms": "Ini tiket pulang saya.",
+        "ko": "여기 돌아가는 항공권입니다."
+      },
+      "practice": "Aquí está mi boleto de regreso.",
+      "practice_translations": {
+        "en": "Here is my return ticket.",
+        "es": "Aquí está mi boleto de regreso.",
+        "ja": "こちらが帰りの航空券です。",
+        "ko": "여기 돌아가는 항공권입니다."
+      }
+    }
+  ]
+}

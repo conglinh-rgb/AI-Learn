@@ -1,0 +1,318 @@
+{
+  "id": "study_abroad_administration_seeking_help_c1",
+  "title": "At the International Office",
+  "title_translations": {
+    "en": "At the International Office",
+    "es": "En la oficina internacional",
+    "fr": "Au bureau des relations internationales",
+    "de": "Im International Office",
+    "it": "All'ufficio internazionale",
+    "pl": "W biurze współpracy międzynarodowej",
+    "pt": "No escritório internacional",
+    "nl": "Bij het International Office",
+    "hr": "U uredu za međunarodne studente",
+    "tr": "Uluslararası Ofiste",
+    "uk": "У міжнародному відділі",
+    "ar": "في مكتب الطلاب الدوليين",
+    "hi": "इंटरनेशनल ऑफ़िस में",
+    "vi": "Tại văn phòng sinh viên quốc tế",
+    "id": "Di Kantor Internasional",
+    "ms": "Di Pejabat Antarabangsa",
+    "ko": "국제처에서"
+  },
+  "character": "fox",
+  "scenario": "You need an enrollment letter to open a bank account. A staff member (AI) at the international office can help you.",
+  "scenario_translations": {
+    "en": "You need an enrollment letter to open a bank account. A staff member (AI) at the international office can help you.",
+    "es": "Necesita una constancia de inscripción para abrir una cuenta bancaria. Un empleado (AI) de la oficina internacional puede ayudarle.",
+    "fr": "Vous avez besoin d'une attestation d'inscription pour ouvrir un compte bancaire. Un membre du personnel (AI) du bureau des relations internationales peut vous aider.",
+    "de": "Sie brauchen eine Immatrikulationsbescheinigung, um ein Bankkonto zu eröffnen. Eine Mitarbeiterin (AI) im International Office kann Ihnen helfen.",
+    "it": "Ti serve un certificato di iscrizione per aprire un conto in banca. Un addetto (AI) dell'ufficio internazionale può aiutarti.",
+    "pl": "Potrzebujesz zaświadczenia o studiowaniu, żeby otworzyć konto w banku. Pracownica biura współpracy międzynarodowej (AI) może ci pomóc.",
+    "pt": "Você precisa de uma declaração de matrícula para abrir uma conta no banco. Um funcionário (AI) do escritório internacional pode ajudar você.",
+    "nl": "Je hebt een inschrijvingsbewijs nodig om een bankrekening te openen. Een medewerker (AI) van het International Office kan je helpen.",
+    "hr": "Trebaš potvrdu o upisu za otvaranje bankovnog računa. Djelatnik (AI) ureda za međunarodne studente može ti pomoći.",
+    "tr": "Banka hesabı açmak için bir öğrenci belgesine ihtiyacınız var. Uluslararası ofisteki bir görevli (AI) size yardımcı olabilir.",
+    "uk": "Тобі потрібна довідка про навчання, щоб відкрити банківський рахунок. Працівник міжнародного відділу (AI) може допомогти.",
+    "ar": "تحتاج إلى خطاب قيد لفتح حساب مصرفي. يمكن لموظف (AI) في مكتب الطلاب الدوليين مساعدتك.",
+    "hi": "बैंक खाता खोलने के लिए आपको एक एनरोलमेंट लेटर चाहिए। इंटरनेशनल ऑफ़िस के एक स्टाफ़ सदस्य (AI) आपकी मदद कर सकते हैं।",
+    "vi": "Bạn cần giấy xác nhận sinh viên để mở tài khoản ngân hàng. Một nhân viên (AI) tại văn phòng sinh viên quốc tế có thể giúp bạn.",
+    "id": "Kamu butuh surat keterangan terdaftar untuk membuka rekening bank. Seorang staf (AI) di kantor internasional bisa membantumu.",
+    "ms": "Anda memerlukan surat pengesahan pendaftaran untuk membuka akaun bank. Seorang kakitangan (AI) di pejabat antarabangsa boleh membantu anda.",
+    "ko": "은행 계좌를 개설하려면 재학 증명서가 필요합니다. 국제처 직원(AI)이 도와줄 수 있습니다."
+  },
+  "mission": {
+    "native": "Request the letter and find out when and where to pick it up.",
+    "native_translations": {
+      "en": "Request the letter and find out when and where to pick it up.",
+      "es": "Solicite la carta y averigüe cuándo y dónde recogerla.",
+      "fr": "Demandez l'attestation et renseignez-vous sur quand et où la récupérer.",
+      "de": "Beantragen Sie die Bescheinigung und finden Sie heraus, wann und wo Sie sie abholen können.",
+      "it": "Richiedi il certificato e scopri quando e dove ritirarlo.",
+      "pl": "Poproś o zaświadczenie i dowiedz się, kiedy i gdzie je odebrać.",
+      "pt": "Solicite a declaração e descubra quando e onde retirá-la.",
+      "nl": "Vraag het bewijs aan en zoek uit wanneer en waar je het kunt ophalen.",
+      "hr": "Zatraži potvrdu i saznaj kada je i gdje možeš preuzeti.",
+      "tr": "Belgeyi talep edin ve ne zaman, nereden alabileceğinizi öğrenin.",
+      "uk": "Замов довідку й дізнайся, коли і де її забрати.",
+      "ar": "اطلب الخطاب واعرف متى وأين تستلمه.",
+      "hi": "लेटर का अनुरोध कीजिए और पता कीजिए कि उसे कब और कहाँ से लेना है।",
+      "vi": "Xin giấy xác nhận và hỏi khi nào, ở đâu có thể nhận.",
+      "id": "Ajukan permintaan surat itu dan cari tahu kapan dan di mana mengambilnya.",
+      "ms": "Minta surat itu dan ketahui bila dan di mana untuk mengambilnya.",
+      "ko": "증명서를 요청하고 언제 어디서 받을 수 있는지 알아보세요."
+    },
+    "practice": "Solicite la carta y averigüe cuándo y dónde recogerla.",
+    "practice_translations": {
+      "en": "Request the letter and find out when and where to pick it up.",
+      "es": "Solicite la carta y averigüe cuándo y dónde recogerla.",
+      "ja": "証明書を申請して、いつどこで受け取れるか聞いてください。",
+      "ko": "증명서를 요청하고 언제 어디서 받을 수 있는지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say which document you need",
+        "native_translations": {
+          "en": "Say which document you need",
+          "es": "Diga qué documento necesita",
+          "fr": "Dites de quel document vous avez besoin",
+          "de": "Sagen Sie, welches Dokument Sie brauchen",
+          "it": "Di' quale documento ti serve",
+          "pl": "Powiedz, jakiego dokumentu potrzebujesz",
+          "pt": "Diga qual documento você precisa",
+          "nl": "Zeg welk document je nodig hebt",
+          "hr": "Reci koji ti dokument treba",
+          "tr": "Hangi belgeye ihtiyacınız olduğunu söyleyin",
+          "uk": "Скажи, який документ тобі потрібен",
+          "ar": "قل ما المستند الذي تحتاجه",
+          "hi": "बताइए कि आपको कौन-सा दस्तावेज़ चाहिए",
+          "vi": "Nói bạn cần loại giấy tờ nào",
+          "id": "Sebutkan dokumen yang kamu butuhkan",
+          "ms": "Katakan dokumen apa yang anda perlukan",
+          "ko": "필요한 서류가 무엇인지 말하세요"
+        },
+        "practice": "Diga qué documento necesita",
+        "practice_translations": {
+          "en": "Say which document you need",
+          "es": "Diga qué documento necesita",
+          "ja": "どの書類が必要か伝えてください",
+          "ko": "필요한 서류가 무엇인지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask how long it will take",
+        "native_translations": {
+          "en": "Ask how long it will take",
+          "es": "Pregunte cuánto tiempo tardará",
+          "fr": "Demandez combien de temps cela prendra",
+          "de": "Fragen Sie, wie lange es dauert",
+          "it": "Chiedi quanto tempo ci vorrà",
+          "pl": "Zapytaj, ile to potrwa",
+          "pt": "Pergunte quanto tempo vai demorar",
+          "nl": "Vraag hoe lang het duurt",
+          "hr": "Pitaj koliko će to trajati",
+          "tr": "Ne kadar süreceğini sorun",
+          "uk": "Запитай, скільки часу це займе",
+          "ar": "اسأل كم سيستغرق ذلك من الوقت",
+          "hi": "पूछिए कि इसमें कितना समय लगेगा",
+          "vi": "Hỏi mất bao lâu",
+          "id": "Tanyakan berapa lama prosesnya",
+          "ms": "Tanya berapa lama masa yang diambil",
+          "ko": "얼마나 걸리는지 물어보세요"
+        },
+        "practice": "Pregunte cuánto tiempo tardará",
+        "practice_translations": {
+          "en": "Ask how long it will take",
+          "es": "Pregunte cuánto tiempo tardará",
+          "ja": "どのくらい時間がかかるか聞いてください",
+          "ko": "얼마나 걸리는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask where to pick it up",
+        "native_translations": {
+          "en": "Ask where to pick it up",
+          "es": "Pregunte dónde recogerlo",
+          "fr": "Demandez où la récupérer",
+          "de": "Fragen Sie, wo Sie es abholen können",
+          "it": "Chiedi dove ritirarlo",
+          "pl": "Zapytaj, gdzie je odebrać",
+          "pt": "Pergunte onde retirá-la",
+          "nl": "Vraag waar je het kunt ophalen",
+          "hr": "Pitaj gdje je možeš preuzeti",
+          "tr": "Nereden alacağınızı sorun",
+          "uk": "Запитай, де її забрати",
+          "ar": "اسأل أين تستلمه",
+          "hi": "पूछिए कि उसे कहाँ से लेना है",
+          "vi": "Hỏi nhận giấy ở đâu",
+          "id": "Tanyakan di mana mengambilnya",
+          "ms": "Tanya di mana untuk mengambilnya",
+          "ko": "어디서 받을 수 있는지 물어보세요"
+        },
+        "practice": "Pregunte dónde recogerlo",
+        "practice_translations": {
+          "en": "Ask where to pick it up",
+          "es": "Pregunte dónde recogerlo",
+          "ja": "どこで受け取るか聞いてください",
+          "ko": "어디서 받을 수 있는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Good morning. I need an enrollment letter, please.",
+      "native_translations": {
+        "en": "Good morning. I need an enrollment letter, please.",
+        "es": "Buenos días. Necesito una constancia de inscripción, por favor.",
+        "fr": "Bonjour. J'aurais besoin d'une attestation d'inscription, s'il vous plaît.",
+        "de": "Guten Morgen. Ich bräuchte bitte eine Immatrikulationsbescheinigung.",
+        "it": "Buongiorno. Avrei bisogno di un certificato di iscrizione, per favore.",
+        "pl": "Dzień dobry. Potrzebuję zaświadczenia o studiowaniu.",
+        "pt": "Bom dia. Preciso de uma declaração de matrícula, por favor.",
+        "nl": "Goedemorgen. Ik heb een inschrijvingsbewijs nodig.",
+        "hr": "Dobro jutro. Trebala bi mi potvrda o upisu, molim.",
+        "tr": "Günaydın. Bir öğrenci belgesine ihtiyacım var, lütfen.",
+        "uk": "Доброго ранку. Мені потрібна довідка про навчання, будь ласка.",
+        "ar": "صباح الخير. أحتاج إلى خطاب قيد، من فضلك.",
+        "hi": "गुड मॉर्निंग। मुझे एक एनरोलमेंट लेटर चाहिए, प्लीज़।",
+        "vi": "Chào buổi sáng. Tôi cần xin giấy xác nhận sinh viên ạ.",
+        "id": "Selamat pagi. Saya butuh surat keterangan terdaftar.",
+        "ms": "Selamat pagi. Saya perlukan surat pengesahan pendaftaran.",
+        "ko": "안녕하세요. 재학 증명서가 필요해요."
+      },
+      "practice": "Buenos días. Necesito una constancia de inscripción, por favor.",
+      "practice_translations": {
+        "en": "Good morning. I need an enrollment letter, please.",
+        "es": "Buenos días. Necesito una constancia de inscripción, por favor.",
+        "ja": "おはようございます。在学証明書をお願いしたいのですが。",
+        "ko": "안녕하세요. 재학 증명서가 필요해요."
+      }
+    },
+    {
+      "native": "It's for opening a bank account.",
+      "native_translations": {
+        "en": "It's for opening a bank account.",
+        "es": "Es para abrir una cuenta bancaria.",
+        "fr": "C'est pour ouvrir un compte bancaire.",
+        "de": "Sie ist für die Eröffnung eines Bankkontos.",
+        "it": "Serve per aprire un conto in banca.",
+        "pl": "To do założenia konta w banku.",
+        "pt": "É para abrir uma conta no banco.",
+        "nl": "Het is om een bankrekening te openen.",
+        "hr": "Treba mi za otvaranje bankovnog računa.",
+        "tr": "Banka hesabı açmak için.",
+        "uk": "Це для відкриття банківського рахунку.",
+        "ar": "إنه لفتح حساب مصرفي.",
+        "hi": "यह बैंक खाता खोलने के लिए है।",
+        "vi": "Để tôi mở tài khoản ngân hàng.",
+        "id": "Ini untuk membuka rekening bank.",
+        "ms": "Ia untuk membuka akaun bank.",
+        "ko": "은행 계좌를 만들려고요."
+      },
+      "practice": "Es para abrir una cuenta bancaria.",
+      "practice_translations": {
+        "en": "It's for opening a bank account.",
+        "es": "Es para abrir una cuenta bancaria.",
+        "ja": "銀行口座を開くために必要なんです。",
+        "ko": "은행 계좌를 만들려고요."
+      }
+    },
+    {
+      "native": "How long will it take to get it?",
+      "native_translations": {
+        "en": "How long will it take to get it?",
+        "es": "¿Cuánto tiempo tardará en estar lista?",
+        "fr": "Combien de temps faut-il pour l'obtenir ?",
+        "de": "Wie lange dauert es, bis ich sie bekomme?",
+        "it": "Quanto tempo ci vuole per averlo?",
+        "pl": "Ile trzeba czekać na zaświadczenie?",
+        "pt": "Quanto tempo demora para ficar pronta?",
+        "nl": "Hoe lang duurt het voordat ik het krijg?",
+        "hr": "Koliko će trebati da je dobijem?",
+        "tr": "Almam ne kadar sürer?",
+        "uk": "Скільки часу знадобиться, щоб її отримати?",
+        "ar": "كم من الوقت يستغرق الحصول عليه؟",
+        "hi": "इसे मिलने में कितना समय लगेगा?",
+        "vi": "Bao lâu thì tôi nhận được giấy ạ?",
+        "id": "Berapa lama sampai suratnya jadi?",
+        "ms": "Berapa lama masa yang diperlukan untuk mendapatkannya?",
+        "ko": "받는 데 얼마나 걸려요?"
+      },
+      "practice": "¿Cuánto tiempo tardará en estar lista?",
+      "practice_translations": {
+        "en": "How long will it take to get it?",
+        "es": "¿Cuánto tiempo tardará en estar lista?",
+        "ja": "受け取るまでにどのくらいかかりますか。",
+        "ko": "받는 데 얼마나 걸려요?"
+      }
+    },
+    {
+      "native": "Do I pick it up here, or will you email it to me?",
+      "native_translations": {
+        "en": "Do I pick it up here, or will you email it to me?",
+        "es": "¿La recojo aquí o me la envían por correo electrónico?",
+        "fr": "Je viens la chercher ici, ou vous me l'envoyez par e-mail ?",
+        "de": "Hole ich sie hier ab, oder schicken Sie sie mir per E-Mail?",
+        "it": "Lo ritiro qui o me lo mandate via email?",
+        "pl": "Mam je odebrać tutaj, czy prześle mi je pani mailem?",
+        "pt": "Eu retiro aqui ou vocês me mandam por e-mail?",
+        "nl": "Haal ik het hier op, of mailt u het naar me?",
+        "hr": "Preuzimam li je ovdje ili ćete mi je poslati e-mailom?",
+        "tr": "Buradan mı alacağım, yoksa bana e-postayla mı göndereceksiniz?",
+        "uk": "Мені забрати її тут чи ви надішлете її електронною поштою?",
+        "ar": "هل أستلمه من هنا، أم سترسلونه إليّ بالبريد الإلكتروني؟",
+        "hi": "क्या मैं इसे यहीं से लूँ, या आप मुझे ईमेल कर देंगे?",
+        "vi": "Tôi đến đây nhận hay anh/chị sẽ gửi qua email cho tôi?",
+        "id": "Saya ambil di sini, atau akan dikirim lewat email?",
+        "ms": "Saya ambil di sini, atau anda akan e-melkannya kepada saya?",
+        "ko": "여기서 받아 가나요, 아니면 이메일로 보내 주시나요?"
+      },
+      "practice": "¿La recojo aquí o me la envían por correo electrónico?",
+      "practice_translations": {
+        "en": "Do I pick it up here, or will you email it to me?",
+        "es": "¿La recojo aquí o me la envían por correo electrónico?",
+        "ja": "こちらで受け取るのでしょうか、それともメールで送っていただけますか。",
+        "ko": "여기서 받아 가나요, 아니면 이메일로 보내 주시나요?"
+      }
+    },
+    {
+      "native": "Here is my student ID.",
+      "native_translations": {
+        "en": "Here is my student ID.",
+        "es": "Aquí tiene mi credencial de estudiante.",
+        "fr": "Voici ma carte d'étudiant.",
+        "de": "Hier ist mein Studierendenausweis.",
+        "it": "Ecco il mio tesserino universitario.",
+        "pl": "Oto moja legitymacja studencka.",
+        "pt": "Aqui está minha carteirinha de estudante.",
+        "nl": "Hier is mijn studentenkaart.",
+        "hr": "Izvolite moju studentsku iskaznicu.",
+        "tr": "Buyurun, öğrenci kartım.",
+        "uk": "Ось мій студентський квиток.",
+        "ar": "هذه بطاقتي الجامعية.",
+        "hi": "यह रहा मेरा स्टूडेंट आईडी।",
+        "vi": "Đây là thẻ sinh viên của tôi.",
+        "id": "Ini kartu mahasiswa saya.",
+        "ms": "Ini kad pelajar saya.",
+        "ko": "여기 제 학생증이에요."
+      },
+      "practice": "Aquí tiene mi credencial de estudiante.",
+      "practice_translations": {
+        "en": "Here is my student ID.",
+        "es": "Aquí tiene mi credencial de estudiante.",
+        "ja": "こちらが学生証です。",
+        "ko": "여기 제 학생증이에요."
+      }
+    }
+  ]
+}

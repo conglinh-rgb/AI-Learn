@@ -1,0 +1,350 @@
+{
+  "id": "travel_dining_shopping_incidents_c2",
+  "title": "Bargaining at the Street Market",
+  "title_translations": {
+    "en": "Bargaining at the Street Market",
+    "es": "Regatear en el mercado callejero",
+    "fr": "Marchander au marché",
+    "de": "Feilschen auf dem Straßenmarkt",
+    "it": "Contrattare al mercato di strada",
+    "pl": "Targowanie się na ulicznym targu",
+    "pt": "Pechinchando na feira de rua",
+    "nl": "Afdingen op de straatmarkt",
+    "hr": "Cjenkanje na uličnoj tržnici",
+    "tr": "Sokak Pazarında Pazarlık",
+    "uk": "Торг на вуличному ринку",
+    "ar": "المساومة في سوق الشارع",
+    "hi": "बाज़ार में मोल-भाव",
+    "vi": "Mặc cả ở chợ đường phố",
+    "id": "Menawar di Pasar Jalanan",
+    "ms": "Tawar-menawar di Pasar Jalanan",
+    "ko": "길거리 시장에서 흥정하기"
+  },
+  "character": "fox",
+  "scenario": "At a busy street market you find a handmade bag you love. The vendor (AI) quotes you a high price.",
+  "scenario_translations": {
+    "en": "At a busy street market you find a handmade bag you love. The vendor (AI) quotes you a high price.",
+    "es": "En un mercado callejero muy concurrido encuentra una bolsa hecha a mano que le encanta. El vendedor (AI) le da un precio alto.",
+    "fr": "Sur un marché animé, vous trouvez un sac fait main qui vous plaît beaucoup. Le vendeur (AI) vous annonce un prix élevé.",
+    "de": "Auf einem belebten Straßenmarkt finden Sie eine handgemachte Tasche, die Ihnen sehr gefällt. Der Verkäufer (AI) nennt Ihnen einen hohen Preis.",
+    "it": "In un affollato mercato di strada trovi una borsa fatta a mano che ti piace tantissimo. Il venditore (AI) ti dice un prezzo alto.",
+    "pl": "Na gwarnym targu znajdujesz ręcznie robioną torbę, która bardzo ci się podoba. Sprzedawca (AI) podaje wysoką cenę.",
+    "pt": "Em uma feira de rua movimentada, você encontra uma bolsa artesanal que adora. O vendedor (AI) diz um preço alto.",
+    "nl": "Op een drukke straatmarkt vind je een handgemaakte tas die je prachtig vindt. De verkoper (AI) noemt een hoge prijs.",
+    "hr": "Na prepunoj uličnoj tržnici pronalaziš ručno izrađenu torbu koja ti se jako sviđa. Prodavač (AI) ti kaže visoku cijenu.",
+    "tr": "Kalabalık bir sokak pazarında çok beğendiğiniz el yapımı bir çanta buluyorsunuz. Satıcı (AI) size yüksek bir fiyat söylüyor.",
+    "uk": "На жвавому вуличному ринку ти бачиш сумку ручної роботи, яка тобі дуже подобається. Продавець (AI) називає високу ціну.",
+    "ar": "في سوق شارع مزدحم تجد حقيبة يدوية الصنع أعجبتك كثيرًا. يعرض عليك البائع (AI) سعرًا مرتفعًا.",
+    "hi": "एक भीड़-भाड़ वाले बाज़ार में आपको एक हाथ से बना बैग बहुत पसंद आता है। दुकानदार (AI) आपको ऊँची क़ीमत बताता है।",
+    "vi": "Tại một khu chợ đường phố đông đúc, bạn thấy một chiếc túi thủ công rất ưng ý. Người bán (AI) báo cho bạn một giá cao.",
+    "id": "Di pasar jalanan yang ramai, kamu menemukan tas buatan tangan yang kamu suka. Penjualnya (AI) menyebut harga yang tinggi.",
+    "ms": "Di sebuah pasar jalanan yang sibuk, anda menjumpai beg buatan tangan yang anda suka. Penjual (AI) meletakkan harga yang tinggi.",
+    "ko": "북적이는 길거리 시장에서 마음에 쏙 드는 수제 가방을 발견했습니다. 상인(AI)이 비싼 가격을 부릅니다."
+  },
+  "mission": {
+    "native": "Ask about the bag, bargain for a better price and make the purchase.",
+    "native_translations": {
+      "en": "Ask about the bag, bargain for a better price and make the purchase.",
+      "es": "Pregunte por el bolso, regatee un mejor precio y haga la compra.",
+      "fr": "Renseignez-vous sur le sac, négociez un meilleur prix et faites votre achat.",
+      "de": "Fragen Sie nach der Tasche, handeln Sie einen besseren Preis aus und kaufen Sie sie.",
+      "it": "Chiedi informazioni sulla borsa, contratta per un prezzo migliore e completa l'acquisto.",
+      "pl": "Zapytaj o torbę, potarguj się o lepszą cenę i ją kup.",
+      "pt": "Pergunte sobre a bolsa, pechinche um preço melhor e faça a compra.",
+      "nl": "Vraag naar de tas, ding af voor een betere prijs en koop hem.",
+      "hr": "Raspitaj se o torbi, cjenkaj se za bolju cijenu i kupi je.",
+      "tr": "Çantayı sorun, daha iyi bir fiyat için pazarlık yapın ve satın alın.",
+      "uk": "Розпитай про сумку, поторгуйся за кращу ціну й купи її.",
+      "ar": "اسأل عن الحقيبة، وساوم على سعر أفضل، وأتمّ عملية الشراء.",
+      "hi": "बैग के बारे में पूछिए, बेहतर क़ीमत के लिए मोल-भाव कीजिए और उसे ख़रीदिए।",
+      "vi": "Hỏi về chiếc túi, mặc cả để được giá tốt hơn và mua hàng.",
+      "id": "Tanyakan tentang tasnya, tawar harga yang lebih baik, dan beli tasnya.",
+      "ms": "Tanya tentang beg itu, tawar harga yang lebih baik dan buat pembelian.",
+      "ko": "가방에 대해 물어보고, 더 싼 가격으로 흥정해서 구입하세요."
+    },
+    "practice": "Pregunte por el bolso, regatee un mejor precio y haga la compra.",
+    "practice_translations": {
+      "en": "Ask about the bag, bargain for a better price and make the purchase.",
+      "es": "Pregunte por el bolso, regatee un mejor precio y haga la compra.",
+      "ja": "バッグについて聞いて、値段を交渉してから買ってください。",
+      "ko": "가방에 대해 물어보고, 더 싼 가격으로 흥정해서 구입하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask how much the bag costs",
+        "native_translations": {
+          "en": "Ask how much the bag costs",
+          "es": "Pregunte cuánto cuesta el bolso",
+          "fr": "Demandez combien coûte le sac",
+          "de": "Fragen Sie, wie viel die Tasche kostet",
+          "it": "Chiedi quanto costa la borsa",
+          "pl": "Zapytaj, ile kosztuje torba",
+          "pt": "Pergunte quanto custa a bolsa",
+          "nl": "Vraag hoeveel de tas kost",
+          "hr": "Pitaj koliko košta torba",
+          "tr": "Çantanın fiyatını sorun",
+          "uk": "Запитай, скільки коштує сумка",
+          "ar": "اسأل كم سعر الحقيبة",
+          "hi": "पूछिए कि बैग कितने का है",
+          "vi": "Hỏi chiếc túi giá bao nhiêu",
+          "id": "Tanyakan harga tasnya",
+          "ms": "Tanya berapa harga beg itu",
+          "ko": "가방이 얼마인지 물어보세요"
+        },
+        "practice": "Pregunte cuánto cuesta el bolso",
+        "practice_translations": {
+          "en": "Ask how much the bag costs",
+          "es": "Pregunte cuánto cuesta el bolso",
+          "ja": "バッグの値段を聞いてください",
+          "ko": "가방이 얼마인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Offer a lower price",
+        "native_translations": {
+          "en": "Offer a lower price",
+          "es": "Ofrezca un precio más bajo",
+          "fr": "Proposez un prix plus bas",
+          "de": "Bieten Sie einen niedrigeren Preis an",
+          "it": "Offri un prezzo più basso",
+          "pl": "Zaproponuj niższą cenę",
+          "pt": "Ofereça um preço mais baixo",
+          "nl": "Bied een lagere prijs",
+          "hr": "Ponudi nižu cijenu",
+          "tr": "Daha düşük bir fiyat teklif edin",
+          "uk": "Запропонуй нижчу ціну",
+          "ar": "اعرض سعرًا أقل",
+          "hi": "कम क़ीमत का प्रस्ताव दीजिए",
+          "vi": "Trả một mức giá thấp hơn",
+          "id": "Tawarkan harga yang lebih rendah",
+          "ms": "Tawarkan harga yang lebih rendah",
+          "ko": "더 낮은 가격을 제시하세요"
+        },
+        "practice": "Ofrezca un precio más bajo",
+        "practice_translations": {
+          "en": "Offer a lower price",
+          "es": "Ofrezca un precio más bajo",
+          "ja": "もっと安い値段を提案してください",
+          "ko": "더 낮은 가격을 제시하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Accept or make a final offer",
+        "native_translations": {
+          "en": "Accept or make a final offer",
+          "es": "Acepte o haga una última oferta",
+          "fr": "Acceptez ou faites une dernière offre",
+          "de": "Nehmen Sie an oder machen Sie ein letztes Angebot",
+          "it": "Accetta o fai un'offerta finale",
+          "pl": "Zaakceptuj cenę albo złóż ostateczną ofertę",
+          "pt": "Aceite ou faça uma oferta final",
+          "nl": "Ga akkoord of doe een laatste bod",
+          "hr": "Prihvati ili daj konačnu ponudu",
+          "tr": "Kabul edin ya da son teklifinizi verin",
+          "uk": "Погодься або зроби останню пропозицію",
+          "ar": "اقبل أو قدّم عرضًا نهائيًا",
+          "hi": "क़ीमत मान लीजिए या आख़िरी प्रस्ताव दीजिए",
+          "vi": "Đồng ý hoặc đưa ra giá cuối cùng",
+          "id": "Terima harganya atau beri tawaran terakhir",
+          "ms": "Terima atau buat tawaran akhir",
+          "ko": "가격을 받아들이거나 마지막 가격을 제시하세요"
+        },
+        "practice": "Acepte o haga una última oferta",
+        "practice_translations": {
+          "en": "Accept or make a final offer",
+          "es": "Acepte o haga una última oferta",
+          "ja": "受け入れるか、最終的な値段を提案してください",
+          "ko": "가격을 받아들이거나 마지막 가격을 제시하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask if they accept cards",
+        "native_translations": {
+          "en": "Ask if they accept cards",
+          "es": "Pregunte si aceptan tarjeta",
+          "fr": "Demandez s'il accepte la carte",
+          "de": "Fragen Sie, ob Karten akzeptiert werden",
+          "it": "Chiedi se accetta le carte",
+          "pl": "Zapytaj, czy można płacić kartą",
+          "pt": "Pergunte se aceitam cartão",
+          "nl": "Vraag of je met een kaart kunt betalen",
+          "hr": "Pitaj primaju li kartice",
+          "tr": "Kart kabul edip etmediklerini sorun",
+          "uk": "Запитай, чи можна платити карткою",
+          "ar": "اسأل إن كانوا يقبلون البطاقات",
+          "hi": "पूछिए कि क्या वे कार्ड लेते हैं",
+          "vi": "Hỏi có nhận thanh toán bằng thẻ không",
+          "id": "Tanyakan apakah bisa bayar pakai kartu",
+          "ms": "Tanya sama ada mereka terima kad",
+          "ko": "카드 결제가 되는지 물어보세요"
+        },
+        "practice": "Pregunte si aceptan tarjeta",
+        "practice_translations": {
+          "en": "Ask if they accept cards",
+          "es": "Pregunte si aceptan tarjeta",
+          "ja": "カードが使えるか聞いてください",
+          "ko": "카드 결제가 되는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "How much is this bag?",
+      "native_translations": {
+        "en": "How much is this bag?",
+        "es": "¿Cuánto cuesta este bolso?",
+        "fr": "Combien coûte ce sac ?",
+        "de": "Wie viel kostet diese Tasche?",
+        "it": "Quanto costa questa borsa?",
+        "pl": "Ile kosztuje ta torba?",
+        "pt": "Quanto custa esta bolsa?",
+        "nl": "Hoeveel kost deze tas?",
+        "hr": "Koliko košta ova torba?",
+        "tr": "Bu çanta ne kadar?",
+        "uk": "Скільки коштує ця сумка?",
+        "ar": "كم سعر هذه الحقيبة؟",
+        "hi": "यह बैग कितने का है?",
+        "vi": "Chiếc túi này bao nhiêu tiền vậy?",
+        "id": "Tas ini harganya berapa?",
+        "ms": "Berapa harga beg ini?",
+        "ko": "이 가방 얼마예요?"
+      },
+      "practice": "¿Cuánto cuesta este bolso?",
+      "practice_translations": {
+        "en": "How much is this bag?",
+        "es": "¿Cuánto cuesta este bolso?",
+        "ja": "このバッグはいくらですか。",
+        "ko": "이 가방 얼마예요?"
+      }
+    },
+    {
+      "native": "That's a bit expensive for me.",
+      "native_translations": {
+        "en": "That's a bit expensive for me.",
+        "es": "Es un poco caro para mí.",
+        "fr": "C'est un peu cher pour moi.",
+        "de": "Das ist mir ein bisschen zu teuer.",
+        "it": "È un po' cara per me.",
+        "pl": "To trochę za drogo jak dla mnie.",
+        "pt": "Está um pouco cara para mim.",
+        "nl": "Dat is een beetje duur voor mij.",
+        "hr": "To mi je malo preskupo.",
+        "tr": "Benim için biraz pahalı.",
+        "uk": "Для мене це трохи дорого.",
+        "ar": "هذا غالٍ قليلًا بالنسبة لي.",
+        "hi": "यह मेरे लिए थोड़ा महँगा है।",
+        "vi": "Giá này hơi đắt với tôi.",
+        "id": "Itu agak mahal untuk saya.",
+        "ms": "Mahal sikit untuk saya.",
+        "ko": "저한테는 좀 비싸네요."
+      },
+      "practice": "Es un poco caro para mí.",
+      "practice_translations": {
+        "en": "That's a bit expensive for me.",
+        "es": "Es un poco caro para mí.",
+        "ja": "私にはちょっと高いですね。",
+        "ko": "저한테는 좀 비싸네요."
+      }
+    },
+    {
+      "native": "Would you take twenty for it?",
+      "native_translations": {
+        "en": "Would you take twenty for it?",
+        "es": "¿Me lo deja en veinte?",
+        "fr": "Vous me le laisseriez à vingt ?",
+        "de": "Würden Sie sie mir für zwanzig geben?",
+        "it": "Me la darebbe per venti?",
+        "pl": "Odda ją pan za dwadzieścia?",
+        "pt": "Você faria por vinte?",
+        "nl": "Wilt u er twintig voor?",
+        "hr": "Biste li je dali za dvadeset?",
+        "tr": "Yirmiye verir misiniz?",
+        "uk": "Віддасте за двадцять?",
+        "ar": "هل تقبل بعشرين مقابلها؟",
+        "hi": "क्या आप इसे बीस में देंगे?",
+        "vi": "Hai mươi được không?",
+        "id": "Boleh dua puluh saja?",
+        "ms": "Boleh dua puluh?",
+        "ko": "20에 주시면 안 될까요?"
+      },
+      "practice": "¿Me lo deja en veinte?",
+      "practice_translations": {
+        "en": "Would you take twenty for it?",
+        "es": "¿Me lo deja en veinte?",
+        "ja": "20でどうですか。",
+        "ko": "20에 주시면 안 될까요?"
+      }
+    },
+    {
+      "native": "Okay, it's a deal!",
+      "native_translations": {
+        "en": "Okay, it's a deal!",
+        "es": "¡Está bien, trato hecho!",
+        "fr": "D'accord, marché conclu !",
+        "de": "Okay, abgemacht!",
+        "it": "Va bene, affare fatto!",
+        "pl": "Dobrze, umowa stoi!",
+        "pt": "Tá bom, fechado!",
+        "nl": "Oké, afgesproken!",
+        "hr": "Dobro, dogovoreno!",
+        "tr": "Tamam, anlaştık!",
+        "uk": "Гаразд, домовилися!",
+        "ar": "حسنًا، اتفقنا!",
+        "hi": "ठीक है, डील पक्की!",
+        "vi": "Được rồi, chốt nhé!",
+        "id": "Oke, sepakat!",
+        "ms": "Okey, jadi!",
+        "ko": "좋아요, 그렇게 해요!"
+      },
+      "practice": "¡Está bien, trato hecho!",
+      "practice_translations": {
+        "en": "Okay, it's a deal!",
+        "es": "¡Está bien, trato hecho!",
+        "ja": "わかりました、それで決まりです！",
+        "ko": "좋아요, 그렇게 해요!"
+      }
+    },
+    {
+      "native": "Can I pay by card?",
+      "native_translations": {
+        "en": "Can I pay by card?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "fr": "Je peux payer par carte ?",
+        "de": "Kann ich mit Karte zahlen?",
+        "it": "Posso pagare con la carta?",
+        "pl": "Mogę zapłacić kartą?",
+        "pt": "Posso pagar no cartão?",
+        "nl": "Kan ik met mijn kaart betalen?",
+        "hr": "Mogu li platiti karticom?",
+        "tr": "Kartla ödeyebilir miyim?",
+        "uk": "Можна заплатити карткою?",
+        "ar": "هل يمكنني الدفع بالبطاقة؟",
+        "hi": "क्या मैं कार्ड से भुगतान कर सकता हूँ?",
+        "vi": "Tôi trả bằng thẻ được không?",
+        "id": "Bisa bayar pakai kartu?",
+        "ms": "Boleh saya bayar guna kad?",
+        "ko": "카드로 계산해도 돼요?"
+      },
+      "practice": "¿Puedo pagar con tarjeta?",
+      "practice_translations": {
+        "en": "Can I pay by card?",
+        "es": "¿Puedo pagar con tarjeta?",
+        "ja": "カードで払えますか。",
+        "ko": "카드로 계산해도 돼요?"
+      }
+    }
+  ]
+}

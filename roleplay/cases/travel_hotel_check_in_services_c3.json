@@ -1,0 +1,351 @@
+{
+  "id": "travel_hotel_check_in_services_c3",
+  "title": "The Room Isn't What I Booked",
+  "title_translations": {
+    "en": "The Room Isn't What I Booked",
+    "es": "La habitación no es la que reservé",
+    "fr": "Ce n'est pas la chambre que j'ai réservée",
+    "de": "Das ist nicht das Zimmer, das ich gebucht habe",
+    "it": "Non è la camera che ho prenotato",
+    "pl": "To nie ten pokój, który rezerwowałem",
+    "pt": "O quarto não é o que eu reservei",
+    "nl": "Dit is niet de kamer die ik heb geboekt",
+    "hr": "Soba nije ono što sam rezervirao",
+    "tr": "Ayırttığım Oda Bu Değil",
+    "uk": "Це не той номер, який я бронював",
+    "ar": "الغرفة ليست ما حجزته",
+    "hi": "यह वह कमरा नहीं जो मैंने बुक किया था",
+    "vi": "Phòng không giống như tôi đã đặt",
+    "id": "Kamarnya Tidak Sesuai Pesanan",
+    "ms": "Bilik Ini Bukan yang Saya Tempah",
+    "ko": "예약한 방이 아니에요"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You booked a quiet room with a sea view, but you got a small room facing a noisy street. The receptionist (AI) says the hotel is fully booked.",
+  "scenario_translations": {
+    "en": "You booked a quiet room with a sea view, but you got a small room facing a noisy street. The receptionist (AI) says the hotel is fully booked.",
+    "es": "Reservó una habitación tranquila con vista al mar, pero le dieron una pequeña que da a una calle ruidosa. La recepcionista (AI) dice que el hotel está lleno.",
+    "fr": "Vous avez réservé une chambre calme avec vue sur la mer, mais on vous a donné une petite chambre donnant sur une rue bruyante. La réceptionniste (AI) dit que l'hôtel est complet.",
+    "de": "Sie haben ein ruhiges Zimmer mit Meerblick gebucht, aber ein kleines Zimmer zu einer lauten Straße hin bekommen. Die Rezeptionistin (AI) sagt, das Hotel sei ausgebucht.",
+    "it": "Hai prenotato una camera tranquilla con vista mare, ma ti hanno dato una cameretta che dà su una strada rumorosa. Il receptionist (AI) dice che l'hotel è al completo.",
+    "pl": "Zarezerwowałeś cichy pokój z widokiem na morze, a dostałeś mały pokój od strony hałaśliwej ulicy. Recepcjonista (AI) mówi, że hotel jest pełny.",
+    "pt": "Você reservou um quarto silencioso com vista para o mar, mas recebeu um quarto pequeno virado para uma rua barulhenta. A recepcionista (AI) diz que o hotel está lotado.",
+    "nl": "Je had een rustige kamer met zeezicht geboekt, maar je kreeg een kleine kamer aan een lawaaiige straat. De receptionist (AI) zegt dat het hotel volgeboekt is.",
+    "hr": "Rezervirao si mirnu sobu s pogledom na more, a dobio si malu sobu prema bučnoj ulici. Recepcionar (AI) kaže da je hotel potpuno popunjen.",
+    "tr": "Deniz manzaralı sessiz bir oda ayırttınız ama gürültülü bir sokağa bakan küçük bir oda verildi. Resepsiyonist (AI) otelin tamamen dolu olduğunu söylüyor.",
+    "uk": "У твоєму бронюванні тихий номер із видом на море, а тобі дають маленький номер з вікнами на гучну вулицю. Адміністратор (AI) каже, що вільних номерів немає.",
+    "ar": "حجزت غرفة هادئة مطلة على البحر، لكنك حصلت على غرفة صغيرة تطل على شارع صاخب. يقول موظف الاستقبال (AI) إن الفندق محجوز بالكامل.",
+    "hi": "आपने समुद्र के नज़ारे वाला एक शांत कमरा बुक किया था, लेकिन आपको शोर-शराबे वाली सड़क की तरफ़ एक छोटा कमरा मिला है। रिसेप्शनिस्ट (AI) कहते हैं कि होटल पूरी तरह भरा हुआ है।",
+    "vi": "Bạn đã đặt một phòng yên tĩnh nhìn ra biển, nhưng lại nhận được một phòng nhỏ hướng ra con phố ồn ào. Lễ tân (AI) nói khách sạn đã kín phòng.",
+    "id": "Kamu memesan kamar yang tenang dengan pemandangan laut, tapi malah mendapat kamar kecil yang menghadap jalan yang bising. Resepsionis (AI) bilang hotelnya sudah penuh.",
+    "ms": "Anda menempah bilik yang tenang dengan pemandangan laut, tetapi anda mendapat bilik kecil menghadap jalan yang bising. Penyambut tetamu (AI) berkata hotel sudah penuh.",
+    "ko": "바다가 보이는 조용한 방을 예약했는데, 시끄러운 도로 쪽 작은 방을 받았습니다. 프런트 직원(AI)은 호텔이 만실이라고 합니다."
+  },
+  "mission": {
+    "native": "Complain politely, show what you booked and negotiate a fair solution.",
+    "native_translations": {
+      "en": "Complain politely, show what you booked and negotiate a fair solution.",
+      "es": "Reclame con cortesía, muestre lo que reservó y negocie una solución justa.",
+      "fr": "Plaignez-vous poliment, montrez ce que vous avez réservé et négociez une solution équitable.",
+      "de": "Beschweren Sie sich höflich, zeigen Sie, was Sie gebucht haben, und handeln Sie eine faire Lösung aus.",
+      "it": "Lamentati con cortesia, mostra cosa avevi prenotato e negozia una soluzione giusta.",
+      "pl": "Grzecznie złóż reklamację, pokaż, co zarezerwowałeś, i wynegocjuj uczciwe rozwiązanie.",
+      "pt": "Reclame com educação, mostre o que você reservou e negocie uma solução justa.",
+      "nl": "Klaag beleefd, laat zien wat je had geboekt en onderhandel over een eerlijke oplossing.",
+      "hr": "Pristojno se požali, pokaži što si rezervirao i dogovori pošteno rješenje.",
+      "tr": "Kibarca şikâyet edin, ne ayırttığınızı gösterin ve adil bir çözüm için pazarlık yapın.",
+      "uk": "Ввічливо поскаржся, покажи своє бронювання й домовся про справедливе рішення.",
+      "ar": "اشتكِ بأدب، وأظهر ما حجزته، وتفاوض على حلّ عادل.",
+      "hi": "विनम्रता से शिकायत कीजिए, दिखाइए कि आपने क्या बुक किया था और एक उचित हल पर बातचीत कीजिए।",
+      "vi": "Lịch sự phàn nàn, cho xem phòng bạn đã đặt và thương lượng một giải pháp hợp lý.",
+      "id": "Sampaikan keluhan dengan sopan, tunjukkan apa yang kamu pesan, dan negosiasikan solusi yang adil.",
+      "ms": "Buat aduan dengan sopan, tunjukkan apa yang anda tempah dan runding penyelesaian yang adil.",
+      "ko": "정중하게 항의하고, 예약한 내용을 보여 주고, 공정한 해결책을 협상하세요."
+    },
+    "practice": "Reclame con cortesía, muestre lo que reservó y negocie una solución justa.",
+    "practice_translations": {
+      "en": "Complain politely, show what you booked and negotiate a fair solution.",
+      "es": "Reclame con cortesía, muestre lo que reservó y negocie una solución justa.",
+      "ja": "丁寧に苦情を伝え、予約内容を示して、納得できる解決策を交渉してください。",
+      "ko": "정중하게 항의하고, 예약한 내용을 보여 주고, 공정한 해결책을 협상하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Explain what is wrong with the room",
+        "native_translations": {
+          "en": "Explain what is wrong with the room",
+          "es": "Explique qué está mal con la habitación",
+          "fr": "Expliquez ce qui ne va pas avec la chambre",
+          "de": "Erklären Sie, was mit dem Zimmer nicht stimmt",
+          "it": "Spiega cosa non va nella camera",
+          "pl": "Wyjaśnij, co jest nie tak z pokojem",
+          "pt": "Explique o que há de errado com o quarto",
+          "nl": "Leg uit wat er mis is met de kamer",
+          "hr": "Objasni što nije u redu sa sobom",
+          "tr": "Odada neyin yanlış olduğunu açıklayın",
+          "uk": "Поясни, що не так із номером",
+          "ar": "اشرح ما المشكلة في الغرفة",
+          "hi": "बताइए कि कमरे में क्या गड़बड़ है",
+          "vi": "Giải thích phòng có vấn đề gì",
+          "id": "Jelaskan apa masalah kamarnya",
+          "ms": "Terangkan apa yang tidak kena dengan bilik itu",
+          "ko": "방에 어떤 문제가 있는지 설명하세요"
+        },
+        "practice": "Explique qué está mal con la habitación",
+        "practice_translations": {
+          "en": "Explain what is wrong with the room",
+          "es": "Explique qué está mal con la habitación",
+          "ja": "部屋の何が問題か説明してください",
+          "ko": "방에 어떤 문제가 있는지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say what you originally booked",
+        "native_translations": {
+          "en": "Say what you originally booked",
+          "es": "Diga lo que reservó originalmente",
+          "fr": "Dites ce que vous aviez réservé à l'origine",
+          "de": "Sagen Sie, was Sie ursprünglich gebucht haben",
+          "it": "Di' cosa avevi prenotato in origine",
+          "pl": "Powiedz, co pierwotnie zarezerwowałeś",
+          "pt": "Diga o que você tinha reservado",
+          "nl": "Zeg wat je oorspronkelijk had geboekt",
+          "hr": "Reci što si prvotno rezervirao",
+          "tr": "Başlangıçta ne ayırttığınızı söyleyin",
+          "uk": "Скажи, що було у твоєму бронюванні",
+          "ar": "قل ما الذي حجزته في الأصل",
+          "hi": "बताइए कि आपने असल में क्या बुक किया था",
+          "vi": "Nói phòng bạn đã đặt ban đầu",
+          "id": "Sebutkan apa yang awalnya kamu pesan",
+          "ms": "Katakan apa yang anda tempah pada asalnya",
+          "ko": "원래 어떤 방을 예약했는지 말하세요"
+        },
+        "practice": "Diga lo que reservó originalmente",
+        "practice_translations": {
+          "en": "Say what you originally booked",
+          "es": "Diga lo que reservó originalmente",
+          "ja": "もともと何を予約したか伝えてください",
+          "ko": "원래 어떤 방을 예약했는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Politely reject the first offer",
+        "native_translations": {
+          "en": "Politely reject the first offer",
+          "es": "Rechace con cortesía la primera oferta",
+          "fr": "Refusez poliment la première proposition",
+          "de": "Lehnen Sie das erste Angebot höflich ab",
+          "it": "Rifiuta con cortesia la prima offerta",
+          "pl": "Grzecznie odrzuć pierwszą propozycję",
+          "pt": "Recuse com educação a primeira oferta",
+          "nl": "Wijs het eerste aanbod beleefd af",
+          "hr": "Pristojno odbij prvu ponudu",
+          "tr": "İlk teklifi kibarca reddedin",
+          "uk": "Ввічливо відхили першу пропозицію",
+          "ar": "ارفض العرض الأول بأدب",
+          "hi": "पहला प्रस्ताव विनम्रता से ठुकराइए",
+          "vi": "Lịch sự từ chối lời đề nghị đầu tiên",
+          "id": "Tolak tawaran pertama dengan sopan",
+          "ms": "Tolak tawaran pertama dengan sopan",
+          "ko": "첫 번째 제안을 정중하게 거절하세요"
+        },
+        "practice": "Rechace con cortesía la primera oferta",
+        "practice_translations": {
+          "en": "Politely reject the first offer",
+          "es": "Rechace con cortesía la primera oferta",
+          "ja": "最初の提案を丁寧に断ってください",
+          "ko": "첫 번째 제안을 정중하게 거절하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Negotiate a room change or a discount",
+        "native_translations": {
+          "en": "Negotiate a room change or a discount",
+          "es": "Negocie un cambio de habitación o un descuento",
+          "fr": "Négociez un changement de chambre ou une réduction",
+          "de": "Verhandeln Sie über einen Zimmerwechsel oder einen Preisnachlass",
+          "it": "Negozia un cambio di camera o uno sconto",
+          "pl": "Wynegocjuj zmianę pokoju albo zniżkę",
+          "pt": "Negocie uma troca de quarto ou um desconto",
+          "nl": "Onderhandel over een andere kamer of korting",
+          "hr": "Dogovori promjenu sobe ili popust",
+          "tr": "Oda değişikliği ya da indirim için pazarlık yapın",
+          "uk": "Домовся про інший номер або знижку",
+          "ar": "تفاوض على تغيير الغرفة أو الحصول على خصم",
+          "hi": "कमरा बदलने या छूट के लिए बातचीत कीजिए",
+          "vi": "Thương lượng đổi phòng hoặc giảm giá",
+          "id": "Negosiasikan pindah kamar atau potongan harga",
+          "ms": "Runding pertukaran bilik atau diskaun",
+          "ko": "방 변경이나 할인을 협상하세요"
+        },
+        "practice": "Negocie un cambio de habitación o un descuento",
+        "practice_translations": {
+          "en": "Negotiate a room change or a discount",
+          "es": "Negocie un cambio de habitación o un descuento",
+          "ja": "部屋の変更か割引を交渉してください",
+          "ko": "방 변경이나 할인을 협상하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'm afraid this isn't the room I booked.",
+      "native_translations": {
+        "en": "I'm afraid this isn't the room I booked.",
+        "es": "Me temo que esta no es la habitación que reservé.",
+        "fr": "Je crains que ce ne soit pas la chambre que j'ai réservée.",
+        "de": "Ich fürchte, das ist nicht das Zimmer, das ich gebucht habe.",
+        "it": "Temo che questa non sia la camera che ho prenotato.",
+        "pl": "Obawiam się, że to nie jest pokój, który zarezerwowałem.",
+        "pt": "Infelizmente, este não é o quarto que eu reservei.",
+        "nl": "Ik ben bang dat dit niet de kamer is die ik heb geboekt.",
+        "hr": "Bojim se da ovo nije soba koju sam rezervirao.",
+        "tr": "Korkarım bu benim ayırttığım oda değil.",
+        "uk": "Боюся, це не той номер, який я бронював.",
+        "ar": "أخشى أن هذه ليست الغرفة التي حجزتها.",
+        "hi": "माफ़ कीजिए, लेकिन यह वह कमरा नहीं है जो मैंने बुक किया था।",
+        "vi": "Tôi e là đây không phải phòng tôi đã đặt.",
+        "id": "Maaf, sepertinya ini bukan kamar yang saya pesan.",
+        "ms": "Maaf, ini bukan bilik yang saya tempah.",
+        "ko": "죄송하지만 이 방은 제가 예약한 방이 아니에요."
+      },
+      "practice": "Me temo que esta no es la habitación que reservé.",
+      "practice_translations": {
+        "en": "I'm afraid this isn't the room I booked.",
+        "es": "Me temo que esta no es la habitación que reservé.",
+        "ja": "申し訳ないのですが、予約した部屋と違うようです。",
+        "ko": "죄송하지만 이 방은 제가 예약한 방이 아니에요."
+      }
+    },
+    {
+      "native": "My confirmation says a sea-view room.",
+      "native_translations": {
+        "en": "My confirmation says a sea-view room.",
+        "es": "Mi confirmación dice habitación con vista al mar.",
+        "fr": "Ma confirmation indique une chambre avec vue sur la mer.",
+        "de": "In meiner Bestätigung steht ein Zimmer mit Meerblick.",
+        "it": "Nella mia conferma c'è scritto camera con vista mare.",
+        "pl": "W potwierdzeniu jest pokój z widokiem na morze.",
+        "pt": "Na minha confirmação diz quarto com vista para o mar.",
+        "nl": "Op mijn bevestiging staat een kamer met zeezicht.",
+        "hr": "U mojoj potvrdi piše soba s pogledom na more.",
+        "tr": "Onay belgemde deniz manzaralı oda yazıyor.",
+        "uk": "У моєму підтвердженні вказано номер із видом на море.",
+        "ar": "في تأكيد الحجز غرفة مطلة على البحر.",
+        "hi": "मेरे कन्फ़र्मेशन में समुद्र के नज़ारे वाला कमरा लिखा है।",
+        "vi": "Xác nhận đặt phòng của tôi ghi là phòng nhìn ra biển.",
+        "id": "Di konfirmasi saya tertulis kamar dengan pemandangan laut.",
+        "ms": "Pengesahan saya menyatakan bilik dengan pemandangan laut.",
+        "ko": "예약 확인서에는 오션뷰 객실이라고 되어 있어요."
+      },
+      "practice": "Mi confirmación dice habitación con vista al mar.",
+      "practice_translations": {
+        "en": "My confirmation says a sea-view room.",
+        "es": "Mi confirmación dice habitación con vista al mar.",
+        "ja": "確認書には海の見える部屋と書いてあります。",
+        "ko": "예약 확인서에는 오션뷰 객실이라고 되어 있어요."
+      }
+    },
+    {
+      "native": "The street noise is too loud to sleep.",
+      "native_translations": {
+        "en": "The street noise is too loud to sleep.",
+        "es": "Con el ruido de la calle no puedo dormir.",
+        "fr": "Le bruit de la rue est trop fort pour dormir.",
+        "de": "Der Straßenlärm ist zu laut zum Schlafen.",
+        "it": "Il rumore della strada è troppo forte per dormire.",
+        "pl": "Hałas z ulicy nie pozwala spać.",
+        "pt": "O barulho da rua está alto demais para dormir.",
+        "nl": "Het straatlawaai is te hard om te kunnen slapen.",
+        "hr": "Buka s ulice je preglasna za spavanje.",
+        "tr": "Sokak gürültüsü uyuyamayacağım kadar yüksek.",
+        "uk": "Шум із вулиці такий гучний, що неможливо спати.",
+        "ar": "ضجيج الشارع عالٍ جدًا ولا أستطيع النوم.",
+        "hi": "सड़क का शोर इतना ज़्यादा है कि नींद नहीं आ सकती।",
+        "vi": "Tiếng ồn ngoài phố lớn quá, tôi không ngủ được.",
+        "id": "Suara jalannya terlalu bising untuk tidur.",
+        "ms": "Bunyi bising jalan terlalu kuat untuk tidur.",
+        "ko": "도로 소음이 너무 커서 잠을 못 자겠어요."
+      },
+      "practice": "Con el ruido de la calle no puedo dormir.",
+      "practice_translations": {
+        "en": "The street noise is too loud to sleep.",
+        "es": "Con el ruido de la calle no puedo dormir.",
+        "ja": "外の騒音がうるさくて眠れません。",
+        "ko": "도로 소음이 너무 커서 잠을 못 자겠어요."
+      }
+    },
+    {
+      "native": "I appreciate the offer, but that's not enough.",
+      "native_translations": {
+        "en": "I appreciate the offer, but that's not enough.",
+        "es": "Le agradezco la oferta, pero no es suficiente.",
+        "fr": "Merci pour la proposition, mais ce n'est pas suffisant.",
+        "de": "Danke für das Angebot, aber das reicht mir nicht.",
+        "it": "Apprezzo l'offerta, ma non è sufficiente.",
+        "pl": "Doceniam propozycję, ale to za mało.",
+        "pt": "Agradeço a oferta, mas não é suficiente.",
+        "nl": "Ik waardeer het aanbod, maar dat is niet genoeg.",
+        "hr": "Cijenim ponudu, ali to nije dovoljno.",
+        "tr": "Teklifiniz için teşekkür ederim ama bu yeterli değil.",
+        "uk": "Дякую за пропозицію, але цього недостатньо.",
+        "ar": "أقدّر العرض، لكنه ليس كافيًا.",
+        "hi": "आपके प्रस्ताव के लिए शुक्रिया, लेकिन यह काफ़ी नहीं है।",
+        "vi": "Cảm ơn lời đề nghị, nhưng như vậy chưa đủ.",
+        "id": "Saya menghargai tawarannya, tapi itu belum cukup.",
+        "ms": "Saya hargai tawaran itu, tetapi itu tidak mencukupi.",
+        "ko": "제안은 감사하지만, 그걸로는 부족해요."
+      },
+      "practice": "Le agradezco la oferta, pero no es suficiente.",
+      "practice_translations": {
+        "en": "I appreciate the offer, but that's not enough.",
+        "es": "Le agradezco la oferta, pero no es suficiente.",
+        "ja": "ご提案はありがたいのですが、それでは足りません。",
+        "ko": "제안은 감사하지만, 그걸로는 부족해요."
+      }
+    },
+    {
+      "native": "Could you move me tomorrow or give me a discount?",
+      "native_translations": {
+        "en": "Could you move me tomorrow or give me a discount?",
+        "es": "¿Podría cambiarme mañana o hacerme un descuento?",
+        "fr": "Pourriez-vous me changer de chambre demain ou m'accorder une réduction ?",
+        "de": "Könnten Sie mich morgen umziehen lassen oder mir einen Preisnachlass geben?",
+        "it": "Potrebbe spostarmi domani o farmi uno sconto?",
+        "pl": "Czy mogą mnie państwo jutro przenieść albo dać zniżkę?",
+        "pt": "Vocês poderiam me trocar de quarto amanhã ou me dar um desconto?",
+        "nl": "Kunt u me morgen verplaatsen of me korting geven?",
+        "hr": "Možete li me sutra premjestiti ili mi dati popust?",
+        "tr": "Beni yarın başka bir odaya geçirebilir ya da indirim yapabilir misiniz?",
+        "uk": "Чи могли б ви переселити мене завтра або надати знижку?",
+        "ar": "هل يمكنكم نقلي غدًا أو منحي خصمًا؟",
+        "hi": "क्या आप कल मेरा कमरा बदल सकते हैं या मुझे कुछ छूट दे सकते हैं?",
+        "vi": "Ngày mai anh/chị chuyển phòng cho tôi hoặc giảm giá được không?",
+        "id": "Bisakah saya dipindahkan besok atau diberi potongan harga?",
+        "ms": "Boleh pindahkan saya esok atau beri saya diskaun?",
+        "ko": "내일 방을 옮겨 주시거나 할인해 주실 수 있을까요?"
+      },
+      "practice": "¿Podría cambiarme mañana o hacerme un descuento?",
+      "practice_translations": {
+        "en": "Could you move me tomorrow or give me a discount?",
+        "es": "¿Podría cambiarme mañana o hacerme un descuento?",
+        "ja": "明日、部屋を移していただくか、割引をしていただけますか。",
+        "ko": "내일 방을 옮겨 주시거나 할인해 주실 수 있을까요?"
+      }
+    }
+  ]
+}

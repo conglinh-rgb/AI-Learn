@@ -1,0 +1,289 @@
+{
+  "id": "work_job_interview_c1",
+  "title": "Tell Me About Yourself",
+  "title_translations": {
+    "en": "Tell Me About Yourself",
+    "es": "Hábleme de usted",
+    "fr": "Parlez-moi de vous",
+    "de": "Erzählen Sie etwas über sich",
+    "it": "Parlami di te",
+    "pl": "Opowiedz mi o sobie",
+    "pt": "Fale sobre você",
+    "nl": "Vertel eens iets over jezelf",
+    "hr": "Recite mi nešto o sebi",
+    "tr": "Bana Kendinizden Bahsedin",
+    "uk": "Розкажіть про себе",
+    "ar": "حدّثني عن نفسك",
+    "hi": "अपने बारे में बताइए",
+    "vi": "Hãy giới thiệu về bản thân bạn",
+    "id": "Ceritakan tentang Dirimu",
+    "ms": "Ceritakan Tentang Diri Anda",
+    "ko": "자기소개를 해 보세요"
+  },
+  "character": "fox",
+  "scenario": "You are at the first interview for a job you really want. The hiring manager (AI) starts with the classic question.",
+  "scenario_translations": {
+    "en": "You are at the first interview for a job you really want. The hiring manager (AI) starts with the classic question.",
+    "es": "Está en la primera entrevista para un trabajo que desea mucho. El responsable de contratación (AI) empieza con la pregunta clásica.",
+    "fr": "Vous passez le premier entretien pour un poste qui vous tient vraiment à cœur. La responsable du recrutement (AI) commence par la question classique.",
+    "de": "Sie sind beim ersten Vorstellungsgespräch für eine Stelle, die Sie unbedingt wollen. Die Personalverantwortliche (AI) beginnt mit der klassischen Frage.",
+    "it": "Sei al primo colloquio per un lavoro che desideri davvero. Il selezionatore (AI) inizia con la classica domanda.",
+    "pl": "Jesteś na pierwszej rozmowie o pracę, na której bardzo ci zależy. Rekruterka (AI) zaczyna od klasycznego pytania.",
+    "pt": "Você está na primeira entrevista para uma vaga que quer muito. O recrutador (AI) começa com a pergunta clássica.",
+    "nl": "Je zit in het eerste gesprek voor een baan die je heel graag wilt. De recruiter (AI) begint met de klassieke vraag.",
+    "hr": "Na prvom si razgovoru za posao koji jako želiš. Voditelj zapošljavanja (AI) počinje klasičnim pitanjem.",
+    "tr": "Gerçekten istediğiniz bir işin ilk mülakatındasınız. İşe alım yöneticisi (AI) klasik soruyla başlıyor.",
+    "uk": "Ти на першій співбесіді на роботу, яку дуже хочеш отримати. Менеджер із найму (AI) починає з класичного запитання.",
+    "ar": "أنت في المقابلة الأولى لوظيفة تريدها حقًا. يبدأ مدير التوظيف (AI) بالسؤال التقليدي.",
+    "hi": "आप एक ऐसी नौकरी के पहले इंटरव्यू में हैं जो आप सच में चाहते हैं। हायरिंग मैनेजर (AI) एक जाने-पहचाने सवाल से शुरुआत करते हैं।",
+    "vi": "Bạn đang ở vòng phỏng vấn đầu tiên cho công việc bạn rất muốn. Người phụ trách tuyển dụng (AI) mở đầu bằng câu hỏi kinh điển.",
+    "id": "Kamu sedang menjalani wawancara pertama untuk pekerjaan yang sangat kamu inginkan. Manajer perekrutan (AI) memulai dengan pertanyaan klasik.",
+    "ms": "Anda berada di temu duga pertama untuk kerja yang sangat anda idamkan. Pengurus pengambilan (AI) bermula dengan soalan klasik.",
+    "ko": "정말 원하는 회사의 1차 면접 자리입니다. 채용 담당자(AI)가 전형적인 질문으로 시작합니다."
+  },
+  "mission": {
+    "native": "Introduce yourself clearly and connect your experience to the job.",
+    "native_translations": {
+      "en": "Introduce yourself clearly and connect your experience to the job.",
+      "es": "Preséntese con claridad y relacione su experiencia con el puesto.",
+      "fr": "Présentez-vous clairement et reliez votre expérience au poste.",
+      "de": "Stellen Sie sich klar vor und verbinden Sie Ihre Erfahrung mit der Stelle.",
+      "it": "Presentati con chiarezza e collega la tua esperienza al lavoro.",
+      "pl": "Przedstaw się jasno i powiąż swoje doświadczenie ze stanowiskiem.",
+      "pt": "Apresente-se com clareza e relacione sua experiência com a vaga.",
+      "nl": "Stel je duidelijk voor en koppel je ervaring aan de functie.",
+      "hr": "Jasno se predstavi i poveži svoje iskustvo s poslom.",
+      "tr": "Kendinizi net bir şekilde tanıtın ve deneyiminizi işle ilişkilendirin.",
+      "uk": "Чітко представся й пов'яжи свій досвід із посадою.",
+      "ar": "عرّف بنفسك بوضوح واربط خبرتك بالوظيفة.",
+      "hi": "साफ़-साफ़ अपना परिचय दीजिए और अपने अनुभव को इस नौकरी से जोड़िए।",
+      "vi": "Giới thiệu bản thân rõ ràng và liên hệ kinh nghiệm của bạn với công việc.",
+      "id": "Perkenalkan dirimu dengan jelas dan kaitkan pengalamanmu dengan pekerjaannya.",
+      "ms": "Perkenalkan diri dengan jelas dan kaitkan pengalaman anda dengan kerja itu.",
+      "ko": "자신을 분명하게 소개하고 경력을 이 직무와 연결해서 말하세요."
+    },
+    "practice": "Preséntese con claridad y relacione su experiencia con el puesto.",
+    "practice_translations": {
+      "en": "Introduce yourself clearly and connect your experience to the job.",
+      "es": "Preséntese con claridad y relacione su experiencia con el puesto.",
+      "ja": "はっきりと自己紹介して、自分の経験を仕事に結びつけてください。",
+      "ko": "자신을 분명하게 소개하고 경력을 이 직무와 연결해서 말하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Greet the interviewer and thank them",
+        "native_translations": {
+          "en": "Greet the interviewer and thank them",
+          "es": "Salude al entrevistador y dele las gracias",
+          "fr": "Saluez la personne qui vous reçoit et remerciez-la",
+          "de": "Begrüßen Sie Ihr Gegenüber und bedanken Sie sich",
+          "it": "Saluta chi ti fa il colloquio e ringrazialo",
+          "pl": "Przywitaj się z rekruterką i podziękuj jej",
+          "pt": "Cumprimente o entrevistador e agradeça",
+          "nl": "Begroet de interviewer en bedank hem",
+          "hr": "Pozdravi osobu koja vodi razgovor i zahvali joj",
+          "tr": "Mülakatı yapan kişiyi selamlayın ve teşekkür edin",
+          "uk": "Привітайся й подякуй інтерв'юерові",
+          "ar": "حيِّ من يجري المقابلة واشكره",
+          "hi": "इंटरव्यू लेने वाले का अभिवादन कीजिए और धन्यवाद दीजिए",
+          "vi": "Chào và cảm ơn người phỏng vấn",
+          "id": "Sapa pewawancara dan ucapkan terima kasih",
+          "ms": "Sapa penemu duga dan ucapkan terima kasih",
+          "ko": "면접관에게 인사하고 감사하다고 말하세요"
+        },
+        "practice": "Salude al entrevistador y dele las gracias",
+        "practice_translations": {
+          "en": "Greet the interviewer and thank them",
+          "es": "Salude al entrevistador y dele las gracias",
+          "ja": "面接官にあいさつしてお礼を言ってください",
+          "ko": "면접관에게 인사하고 감사하다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Talk about your experience",
+        "native_translations": {
+          "en": "Talk about your experience",
+          "es": "Hable de su experiencia",
+          "fr": "Parlez de votre expérience",
+          "de": "Sprechen Sie über Ihre Erfahrung",
+          "it": "Parla della tua esperienza",
+          "pl": "Opowiedz o swoim doświadczeniu",
+          "pt": "Fale sobre sua experiência",
+          "nl": "Vertel over je ervaring",
+          "hr": "Govori o svom iskustvu",
+          "tr": "Deneyiminizden bahsedin",
+          "uk": "Розкажи про свій досвід",
+          "ar": "تحدّث عن خبرتك",
+          "hi": "अपने अनुभव के बारे में बताइए",
+          "vi": "Nói về kinh nghiệm của bạn",
+          "id": "Ceritakan pengalamanmu",
+          "ms": "Ceritakan tentang pengalaman anda",
+          "ko": "경력에 대해 이야기하세요"
+        },
+        "practice": "Hable de su experiencia",
+        "practice_translations": {
+          "en": "Talk about your experience",
+          "es": "Hable de su experiencia",
+          "ja": "自分の経験について話してください",
+          "ko": "경력에 대해 이야기하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say why you want this job",
+        "native_translations": {
+          "en": "Say why you want this job",
+          "es": "Diga por qué quiere este trabajo",
+          "fr": "Dites pourquoi vous voulez ce poste",
+          "de": "Sagen Sie, warum Sie diese Stelle möchten",
+          "it": "Di' perché vuoi questo lavoro",
+          "pl": "Powiedz, dlaczego chcesz tę pracę",
+          "pt": "Diga por que você quer esta vaga",
+          "nl": "Zeg waarom je deze baan wilt",
+          "hr": "Reci zašto želiš ovaj posao",
+          "tr": "Bu işi neden istediğinizi söyleyin",
+          "uk": "Скажи, чому хочеш цю роботу",
+          "ar": "قل لماذا تريد هذه الوظيفة",
+          "hi": "बताइए कि आपको यह नौकरी क्यों चाहिए",
+          "vi": "Nói vì sao bạn muốn làm công việc này",
+          "id": "Katakan kenapa kamu menginginkan pekerjaan ini",
+          "ms": "Katakan mengapa anda mahu kerja ini",
+          "ko": "이 일을 하고 싶은 이유를 말하세요"
+        },
+        "practice": "Diga por qué quiere este trabajo",
+        "practice_translations": {
+          "en": "Say why you want this job",
+          "es": "Diga por qué quiere este trabajo",
+          "ja": "この仕事を希望する理由を伝えてください",
+          "ko": "이 일을 하고 싶은 이유를 말하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for having me. I'm really excited to be here.",
+      "native_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "fr": "Merci de me recevoir. Je suis vraiment ravi d'être ici.",
+        "de": "Vielen Dank für die Einladung. Ich freue mich wirklich, hier zu sein.",
+        "it": "Grazie per avermi ricevuto. Sono davvero felice di essere qui.",
+        "pl": "Dziękuję za zaproszenie. Naprawdę cieszę się, że tu jestem.",
+        "pt": "Obrigado por me receber. Estou muito animado por estar aqui.",
+        "nl": "Bedankt voor de uitnodiging. Ik heb er echt zin in.",
+        "hr": "Hvala Vam na pozivu. Jako se veselim što sam ovdje.",
+        "tr": "Beni davet ettiğiniz için teşekkür ederim. Burada olduğum için çok heyecanlıyım.",
+        "uk": "Дякую, що запросили мене. Я дуже радий бути тут.",
+        "ar": "شكرًا على استضافتي. أنا متحمس حقًا لوجودي هنا.",
+        "hi": "मुझे मौक़ा देने के लिए धन्यवाद। मैं यहाँ आकर सच में उत्साहित हूँ।",
+        "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
+        "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
+        "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      },
+      "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+      "practice_translations": {
+        "en": "Thank you for having me. I'm really excited to be here.",
+        "es": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
+        "ja": "本日はお時間をいただきありがとうございます。お会いできるのを楽しみにしていました。",
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+      }
+    },
+    {
+      "native": "I have three years of experience in customer service.",
+      "native_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "fr": "J'ai trois ans d'expérience dans le service client.",
+        "de": "Ich habe drei Jahre Erfahrung im Kundenservice.",
+        "it": "Ho tre anni di esperienza nel servizio clienti.",
+        "pl": "Mam trzy lata doświadczenia w obsłudze klienta.",
+        "pt": "Tenho três anos de experiência em atendimento ao cliente.",
+        "nl": "Ik heb drie jaar ervaring in de klantenservice.",
+        "hr": "Imam tri godine iskustva u korisničkoj službi.",
+        "tr": "Müşteri hizmetlerinde üç yıllık deneyimim var.",
+        "uk": "У мене три роки досвіду в обслуговуванні клієнтів.",
+        "ar": "لديّ ثلاث سنوات من الخبرة في خدمة العملاء.",
+        "hi": "मेरे पास कस्टमर सर्विस में तीन साल का अनुभव है।",
+        "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
+        "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
+        "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      },
+      "practice": "Tengo tres años de experiencia en atención al cliente.",
+      "practice_translations": {
+        "en": "I have three years of experience in customer service.",
+        "es": "Tengo tres años de experiencia en atención al cliente.",
+        "ja": "カスタマーサービスで3年の経験があります。",
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+      }
+    },
+    {
+      "native": "One of my strengths is working well in a team.",
+      "native_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "fr": "L'un de mes points forts, c'est que je travaille bien en équipe.",
+        "de": "Eine meiner Stärken ist, dass ich gut im Team arbeite.",
+        "it": "Uno dei miei punti di forza è lavorare bene in team.",
+        "pl": "Jedną z moich mocnych stron jest dobra praca w zespole.",
+        "pt": "Um dos meus pontos fortes é trabalhar bem em equipe.",
+        "nl": "Een van mijn sterke punten is dat ik goed in een team werk.",
+        "hr": "Jedna od mojih snaga je dobar timski rad.",
+        "tr": "Güçlü yönlerimden biri ekip içinde iyi çalışmak.",
+        "uk": "Одна з моїх сильних сторін — я добре працюю в команді.",
+        "ar": "من نقاط قوتي أنني أعمل جيدًا ضمن فريق.",
+        "hi": "मेरी एक ख़ूबी यह है कि मैं टीम में अच्छे से काम करता हूँ।",
+        "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
+        "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
+        "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      },
+      "practice": "Una de mis fortalezas es trabajar bien en equipo.",
+      "practice_translations": {
+        "en": "One of my strengths is working well in a team.",
+        "es": "Una de mis fortalezas es trabajar bien en equipo.",
+        "ja": "私の強みの一つは、チームでうまく協力できることです。",
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+      }
+    },
+    {
+      "native": "Could you tell me more about the role?",
+      "native_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "fr": "Pourriez-vous m'en dire plus sur le poste ?",
+        "de": "Könnten Sie mir mehr über die Stelle erzählen?",
+        "it": "Potrebbe dirmi qualcosa in più sul ruolo?",
+        "pl": "Czy mogłaby pani powiedzieć więcej o tym stanowisku?",
+        "pt": "Você poderia me contar mais sobre a vaga?",
+        "nl": "Kunt u me meer vertellen over de functie?",
+        "hr": "Možete li mi reći nešto više o radnom mjestu?",
+        "tr": "Pozisyon hakkında biraz daha bilgi verebilir misiniz?",
+        "uk": "Чи могли б ви розповісти більше про цю посаду?",
+        "ar": "هل يمكنك أن تخبرني المزيد عن الدور الوظيفي؟",
+        "hi": "क्या आप मुझे इस रोल के बारे में और बता सकते हैं?",
+        "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
+        "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
+        "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      },
+      "practice": "¿Podría contarme más sobre el puesto?",
+      "practice_translations": {
+        "en": "Could you tell me more about the role?",
+        "es": "¿Podría contarme más sobre el puesto?",
+        "ja": "この仕事について、もう少し詳しく教えていただけますか。",
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+      }
+    }
+  ]
+}

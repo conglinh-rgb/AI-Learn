@@ -1,0 +1,289 @@
+{
+  "id": "family_understanding_community_resources_c1",
+  "title": "Family Programs at the Library",
+  "title_translations": {
+    "en": "Family Programs at the Library",
+    "es": "Programas familiares en la biblioteca",
+    "fr": "Activités familiales à la bibliothèque",
+    "de": "Familienangebote in der Bibliothek",
+    "it": "Attività per famiglie in biblioteca",
+    "pl": "Zajęcia dla rodzin w bibliotece",
+    "pt": "Programas para famílias na biblioteca",
+    "nl": "Gezinsprogramma's in de bibliotheek",
+    "hr": "Obiteljski programi u knjižnici",
+    "tr": "Kütüphanede Aile Programları",
+    "uk": "Сімейні програми в бібліотеці",
+    "ar": "برامج عائلية في المكتبة",
+    "hi": "लाइब्रेरी में परिवार के लिए कार्यक्रम",
+    "vi": "Chương trình gia đình tại thư viện",
+    "id": "Program Keluarga di Perpustakaan",
+    "ms": "Program Keluarga di Perpustakaan",
+    "ko": "도서관의 가족 프로그램"
+  },
+  "character": "fox",
+  "scenario": "You just moved to a new town and visit the public library for the first time. The librarian (AI) helps you sign up.",
+  "scenario_translations": {
+    "en": "You just moved to a new town and visit the public library for the first time. The librarian (AI) helps you sign up.",
+    "es": "Acaba de mudarse a una ciudad nueva y visita la biblioteca pública por primera vez. El bibliotecario (AI) le ayuda a registrarse.",
+    "fr": "Vous venez d'emménager dans une nouvelle ville et vous allez à la bibliothèque municipale pour la première fois. Le bibliothécaire (AI) vous aide à vous inscrire.",
+    "de": "Sie sind gerade in eine neue Stadt gezogen und besuchen zum ersten Mal die Stadtbibliothek. Die Bibliothekarin bzw. der Bibliothekar (AI) hilft Ihnen bei der Anmeldung.",
+    "it": "Ti sei appena trasferito in una nuova città e visiti la biblioteca pubblica per la prima volta. Il bibliotecario (AI) ti aiuta a iscriverti.",
+    "pl": "Właśnie przeprowadziłeś się do nowego miasta i po raz pierwszy odwiedzasz bibliotekę publiczną. Bibliotekarka (AI) pomaga ci się zapisać.",
+    "pt": "Você acabou de se mudar para uma nova cidade e vai à biblioteca pública pela primeira vez. O bibliotecário (AI) ajuda você a se cadastrar.",
+    "nl": "Je bent net naar een nieuwe stad verhuisd en gaat voor het eerst naar de openbare bibliotheek. De bibliothecaris (AI) helpt je je in te schrijven.",
+    "hr": "Novi grad tek ti postaje dom i prvi put posjećuješ gradsku knjižnicu. Knjižničar (AI) pomaže ti da se učlaniš.",
+    "tr": "Yeni bir şehre taşındınız ve halk kütüphanesini ilk kez ziyaret ediyorsunuz. Kütüphaneci (AI) kayıt olmanıza yardım ediyor.",
+    "uk": "Ти щойно переїжджаєш до нового міста й уперше приходиш до публічної бібліотеки. Бібліотекар (AI) допомагає тобі записатися.",
+    "ar": "انتقلت للتو إلى مدينة جديدة وتزور المكتبة العامة لأول مرة. أمين المكتبة (AI) يساعدك على التسجيل.",
+    "hi": "आप अभी-अभी एक नए शहर में आए हैं और पहली बार पब्लिक लाइब्रेरी जाते हैं। लाइब्रेरियन (AI) साइन अप करने में आपकी मदद करते हैं।",
+    "vi": "Bạn vừa chuyển đến một thị trấn mới và lần đầu đến thư viện công cộng. Thủ thư (AI) giúp bạn đăng ký.",
+    "id": "Kamu baru pindah ke kota baru dan pertama kali mengunjungi perpustakaan umum. Pustakawan (AI) membantumu mendaftar.",
+    "ms": "Anda baru berpindah ke bandar baharu dan melawat perpustakaan awam buat kali pertama. Pustakawan (AI) membantu anda mendaftar.",
+    "ko": "새 동네로 막 이사 와서 처음으로 공공 도서관에 갔어요. 사서(AI)가 회원 가입을 도와줘요."
+  },
+  "mission": {
+    "native": "Get a library card and find out what the library offers for families.",
+    "native_translations": {
+      "en": "Get a library card and find out what the library offers for families.",
+      "es": "Obtenga una credencial de la biblioteca y averigüe qué ofrece para las familias.",
+      "fr": "Obtenez une carte de bibliothèque et découvrez ce que la bibliothèque propose aux familles.",
+      "de": "Holen Sie sich einen Bibliotheksausweis und finden Sie heraus, was die Bibliothek für Familien anbietet.",
+      "it": "Ottieni la tessera della biblioteca e scopri cosa offre la biblioteca alle famiglie.",
+      "pl": "Wyrób kartę biblioteczną i dowiedz się, co biblioteka oferuje rodzinom.",
+      "pt": "Faça o cartão da biblioteca e descubra o que a biblioteca oferece para famílias.",
+      "nl": "Vraag een bibliotheekpas aan en ontdek wat de bibliotheek voor gezinnen biedt.",
+      "hr": "Izvadi člansku iskaznicu i saznaj što knjižnica nudi obiteljima.",
+      "tr": "Kütüphane kartı alın ve kütüphanenin aileler için neler sunduğunu öğrenin.",
+      "uk": "Отримай читацький квиток і дізнайся, що бібліотека пропонує для сімей.",
+      "ar": "احصل على بطاقة مكتبة واعرف ما تقدمه المكتبة للعائلات.",
+      "hi": "लाइब्रेरी कार्ड बनवाइए और पता कीजिए कि लाइब्रेरी परिवारों के लिए क्या-क्या देती है।",
+      "vi": "Làm thẻ thư viện và tìm hiểu thư viện có những gì dành cho gia đình.",
+      "id": "Buat kartu perpustakaan dan cari tahu apa saja yang ditawarkan perpustakaan untuk keluarga.",
+      "ms": "Dapatkan kad perpustakaan dan ketahui apa yang ditawarkan perpustakaan untuk keluarga.",
+      "ko": "도서관 카드를 만들고 도서관에 어떤 가족 프로그램이 있는지 알아보세요."
+    },
+    "practice": "Obtenga una credencial de la biblioteca y averigüe qué ofrece para las familias.",
+    "practice_translations": {
+      "en": "Get a library card and find out what the library offers for families.",
+      "es": "Obtenga una credencial de la biblioteca y averigüe qué ofrece para las familias.",
+      "ja": "図書館カードを作って、家族向けのサービスについて聞いてください。",
+      "ko": "도서관 카드를 만들고 도서관에 어떤 가족 프로그램이 있는지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say that you want a library card",
+        "native_translations": {
+          "en": "Say that you want a library card",
+          "es": "Diga que quiere una credencial de la biblioteca",
+          "fr": "Dites que vous voulez une carte de bibliothèque",
+          "de": "Sagen Sie, dass Sie einen Bibliotheksausweis möchten",
+          "it": "Di' che vuoi la tessera della biblioteca",
+          "pl": "Powiedz, że chcesz założyć kartę biblioteczną",
+          "pt": "Diga que você quer um cartão da biblioteca",
+          "nl": "Zeg dat je een bibliotheekpas wilt",
+          "hr": "Reci da želiš člansku iskaznicu",
+          "tr": "Kütüphane kartı istediğinizi söyleyin",
+          "uk": "Скажи, що хочеш отримати читацький квиток",
+          "ar": "قل إنك تريد بطاقة مكتبة",
+          "hi": "कहिए कि आपको लाइब्रेरी कार्ड चाहिए",
+          "vi": "Nói rằng bạn muốn làm thẻ thư viện",
+          "id": "Katakan bahwa kamu ingin membuat kartu perpustakaan",
+          "ms": "Katakan bahawa anda mahu kad perpustakaan",
+          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+        },
+        "practice": "Diga que quiere una credencial de la biblioteca",
+        "practice_translations": {
+          "en": "Say that you want a library card",
+          "es": "Diga que quiere una credencial de la biblioteca",
+          "ja": "図書館カードを作りたいと伝えてください",
+          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask what documents you need",
+        "native_translations": {
+          "en": "Ask what documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "fr": "Demandez quels documents il vous faut",
+          "de": "Fragen Sie, welche Unterlagen Sie brauchen",
+          "it": "Chiedi quali documenti ti servono",
+          "pl": "Zapytaj, jakie dokumenty są potrzebne",
+          "pt": "Pergunte quais documentos você precisa",
+          "nl": "Vraag welke documenten je nodig hebt",
+          "hr": "Pitaj koji su ti dokumenti potrebni",
+          "tr": "Hangi belgelere ihtiyacınız olduğunu sorun",
+          "uk": "Запитай, які документи потрібні",
+          "ar": "اسأل عن المستندات التي تحتاجها",
+          "hi": "पूछिए कि कौन-से दस्तावेज़ चाहिए",
+          "vi": "Hỏi cần những giấy tờ gì",
+          "id": "Tanyakan dokumen apa yang dibutuhkan",
+          "ms": "Tanya dokumen apa yang anda perlukan",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        },
+        "practice": "Pregunte qué documentos necesita",
+        "practice_translations": {
+          "en": "Ask what documents you need",
+          "es": "Pregunte qué documentos necesita",
+          "ja": "必要な書類を聞いてください",
+          "ko": "어떤 서류가 필요한지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask about free programs for children",
+        "native_translations": {
+          "en": "Ask about free programs for children",
+          "es": "Pregunte por programas gratuitos para niños",
+          "fr": "Renseignez-vous sur les activités gratuites pour enfants",
+          "de": "Fragen Sie nach kostenlosen Angeboten für Kinder",
+          "it": "Chiedi delle attività gratuite per bambini",
+          "pl": "Zapytaj o bezpłatne zajęcia dla dzieci",
+          "pt": "Pergunte sobre programas gratuitos para crianças",
+          "nl": "Vraag naar gratis activiteiten voor kinderen",
+          "hr": "Pitaj za besplatne programe za djecu",
+          "tr": "Çocuklar için ücretsiz programları sorun",
+          "uk": "Запитай про безкоштовні програми для дітей",
+          "ar": "اسأل عن البرامج المجانية للأطفال",
+          "hi": "बच्चों के लिए मुफ़्त कार्यक्रमों के बारे में पूछिए",
+          "vi": "Hỏi về các chương trình miễn phí cho trẻ em",
+          "id": "Tanyakan tentang program gratis untuk anak-anak",
+          "ms": "Tanya tentang program percuma untuk kanak-kanak",
+          "ko": "아이들을 위한 무료 프로그램에 대해 물어보세요"
+        },
+        "practice": "Pregunte por programas gratuitos para niños",
+        "practice_translations": {
+          "en": "Ask about free programs for children",
+          "es": "Pregunte por programas gratuitos para niños",
+          "ja": "子ども向けの無料プログラムについて聞いてください",
+          "ko": "아이들을 위한 무료 프로그램에 대해 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hi, I just moved here and I'd like a library card.",
+      "native_translations": {
+        "en": "Hi, I just moved here and I'd like a library card.",
+        "es": "Hola, acabo de mudarme aquí y quisiera una credencial de la biblioteca.",
+        "fr": "Bonjour, je viens d'emménager et j'aimerais une carte de bibliothèque.",
+        "de": "Hallo, ich bin gerade hierhergezogen und hätte gern einen Bibliotheksausweis.",
+        "it": "Buongiorno, mi sono appena trasferito qui e vorrei la tessera della biblioteca.",
+        "pl": "Dzień dobry, właśnie się tu przeprowadziłem i chciałbym założyć kartę biblioteczną.",
+        "pt": "Oi, acabei de me mudar para cá e gostaria de fazer o cartão da biblioteca.",
+        "nl": "Hallo, ik ben hier net komen wonen en ik wil graag een bibliotheekpas.",
+        "hr": "Dobar dan, tek od nedavno živim ovdje i želim se učlaniti u knjižnicu.",
+        "tr": "Merhaba, buraya yeni taşındım ve kütüphane kartı almak istiyorum.",
+        "uk": "Добрий день, я щойно сюди переїхав і хотів би отримати читацький квиток.",
+        "ar": "مرحبًا، انتقلت إلى هنا للتو وأود الحصول على بطاقة مكتبة.",
+        "hi": "नमस्ते, मैं अभी यहाँ आया हूँ और मुझे लाइब्रेरी कार्ड चाहिए।",
+        "vi": "Chào anh/chị, tôi mới chuyển đến đây và muốn làm thẻ thư viện.",
+        "id": "Halo, saya baru pindah ke sini dan ingin membuat kartu perpustakaan.",
+        "ms": "Hai, saya baru berpindah ke sini dan saya ingin membuat kad perpustakaan.",
+        "ko": "안녕하세요, 여기로 막 이사 왔는데 도서관 카드를 만들고 싶어요."
+      },
+      "practice": "Hola, acabo de mudarme aquí y quisiera una credencial de la biblioteca.",
+      "practice_translations": {
+        "en": "Hi, I just moved here and I'd like a library card.",
+        "es": "Hola, acabo de mudarme aquí y quisiera una credencial de la biblioteca.",
+        "ja": "こんにちは。最近引っ越してきたので、図書館カードを作りたいのですが。",
+        "ko": "안녕하세요, 여기로 막 이사 왔는데 도서관 카드를 만들고 싶어요."
+      }
+    },
+    {
+      "native": "What do I need to bring?",
+      "native_translations": {
+        "en": "What do I need to bring?",
+        "es": "¿Qué necesito traer?",
+        "fr": "Qu'est-ce que je dois apporter ?",
+        "de": "Was muss ich mitbringen?",
+        "it": "Cosa devo portare?",
+        "pl": "Co muszę ze sobą przynieść?",
+        "pt": "O que eu preciso trazer?",
+        "nl": "Wat moet ik meenemen?",
+        "hr": "Što trebam donijeti?",
+        "tr": "Yanımda ne getirmem gerekiyor?",
+        "uk": "Що мені потрібно принести?",
+        "ar": "ماذا يجب أن أحضر؟",
+        "hi": "मुझे क्या-क्या लाना होगा?",
+        "vi": "Tôi cần mang theo những gì?",
+        "id": "Apa saja yang perlu saya bawa?",
+        "ms": "Apa yang perlu saya bawa?",
+        "ko": "뭘 가져와야 하나요?"
+      },
+      "practice": "¿Qué necesito traer?",
+      "practice_translations": {
+        "en": "What do I need to bring?",
+        "es": "¿Qué necesito traer?",
+        "ja": "何を持ってくればいいですか。",
+        "ko": "뭘 가져와야 하나요?"
+      }
+    },
+    {
+      "native": "Is a utility bill okay as proof of address?",
+      "native_translations": {
+        "en": "Is a utility bill okay as proof of address?",
+        "es": "¿Sirve un recibo de luz como comprobante de domicilio?",
+        "fr": "Une facture d'électricité, ça va comme justificatif de domicile ?",
+        "de": "Reicht eine Nebenkostenabrechnung als Adressnachweis?",
+        "it": "Una bolletta va bene come prova di residenza?",
+        "pl": "Czy rachunek za media wystarczy jako potwierdzenie adresu?",
+        "pt": "Uma conta de luz serve como comprovante de endereço?",
+        "nl": "Is een energierekening goed als bewijs van adres?",
+        "hr": "Može li račun za režije poslužiti kao dokaz adrese?",
+        "tr": "Adres kanıtı olarak fatura olur mu?",
+        "uk": "Чи підійде рахунок за комунальні послуги як підтвердження адреси?",
+        "ar": "هل تكفي فاتورة خدمات كإثبات للعنوان؟",
+        "hi": "क्या पते के सबूत के तौर पर बिजली का बिल चलेगा?",
+        "vi": "Hóa đơn điện nước có dùng làm giấy xác nhận địa chỉ được không?",
+        "id": "Apakah tagihan listrik bisa dipakai sebagai bukti alamat?",
+        "ms": "Bolehkah bil utiliti digunakan sebagai bukti alamat?",
+        "ko": "공과금 고지서도 주소 증명으로 괜찮나요?"
+      },
+      "practice": "¿Sirve un recibo de luz como comprobante de domicilio?",
+      "practice_translations": {
+        "en": "Is a utility bill okay as proof of address?",
+        "es": "¿Sirve un recibo de luz como comprobante de domicilio?",
+        "ja": "住所の証明として、公共料金の請求書でも大丈夫ですか。",
+        "ko": "공과금 고지서도 주소 증명으로 괜찮나요?"
+      }
+    },
+    {
+      "native": "Do you have any free activities for kids?",
+      "native_translations": {
+        "en": "Do you have any free activities for kids?",
+        "es": "¿Tienen actividades gratuitas para niños?",
+        "fr": "Avez-vous des activités gratuites pour les enfants ?",
+        "de": "Haben Sie kostenlose Aktivitäten für Kinder?",
+        "it": "Avete attività gratuite per bambini?",
+        "pl": "Czy macie jakieś bezpłatne zajęcia dla dzieci?",
+        "pt": "Vocês têm alguma atividade gratuita para crianças?",
+        "nl": "Hebben jullie gratis activiteiten voor kinderen?",
+        "hr": "Imate li kakve besplatne aktivnosti za djecu?",
+        "tr": "Çocuklar için ücretsiz etkinlikleriniz var mı?",
+        "uk": "У вас є безкоштовні заняття для дітей?",
+        "ar": "هل لديكم أنشطة مجانية للأطفال؟",
+        "hi": "क्या आपके यहाँ बच्चों के लिए कोई मुफ़्त गतिविधियाँ हैं?",
+        "vi": "Ở đây có hoạt động miễn phí nào cho trẻ em không?",
+        "id": "Apakah ada kegiatan gratis untuk anak-anak?",
+        "ms": "Adakah anda ada aktiviti percuma untuk kanak-kanak?",
+        "ko": "아이들을 위한 무료 활동이 있나요?"
+      },
+      "practice": "¿Tienen actividades gratuitas para niños?",
+      "practice_translations": {
+        "en": "Do you have any free activities for kids?",
+        "es": "¿Tienen actividades gratuitas para niños?",
+        "ja": "子ども向けの無料の活動はありますか。",
+        "ko": "아이들을 위한 무료 활동이 있나요?"
+      }
+    }
+  ]
+}

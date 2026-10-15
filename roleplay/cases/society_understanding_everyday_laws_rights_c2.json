@@ -1,0 +1,321 @@
+{
+  "id": "society_understanding_everyday_laws_rights_c2",
+  "title": "Pulled Over on the Way Home",
+  "title_translations": {
+    "en": "Pulled Over on the Way Home",
+    "es": "Una parada policial camino a casa",
+    "fr": "Arrêté sur le chemin du retour",
+    "de": "Angehalten auf dem Heimweg",
+    "it": "Fermato sulla strada di casa",
+    "pl": "Zatrzymany w drodze do domu",
+    "pt": "Parado no caminho de casa",
+    "nl": "Aangehouden op weg naar huis",
+    "hr": "Zaustavljanje na putu kući",
+    "tr": "Eve Dönerken Durduruldunuz",
+    "uk": "Зупинка дорогою додому",
+    "ar": "أوقفتك الشرطة في طريق العودة",
+    "hi": "घर लौटते समय पुलिस ने रोका",
+    "vi": "Bị dừng xe trên đường về nhà",
+    "id": "Dihentikan Polisi Saat Pulang",
+    "ms": "Ditahan Polis dalam Perjalanan Pulang",
+    "ko": "귀갓길 검문"
+  },
+  "character": "fox",
+  "scenario": "You are driving home at night when a police officer (AI) pulls you over on a quiet road and walks up to your window.",
+  "scenario_translations": {
+    "en": "You are driving home at night when a police officer (AI) pulls you over on a quiet road and walks up to your window.",
+    "es": "Maneja de regreso a casa de noche cuando un policía (AI) le indica que se detenga en un camino tranquilo y se acerca a su ventanilla.",
+    "fr": "Vous rentrez chez vous en voiture le soir quand un policier (AI) vous fait signe de vous arrêter sur une route tranquille et s'approche de votre vitre.",
+    "de": "Sie fahren nachts nach Hause, als ein Polizist (AI) Sie auf einer ruhigen Straße anhält und zu Ihrem Fenster kommt.",
+    "it": "Stai tornando a casa in auto di notte quando un agente di polizia (AI) ti ferma su una strada tranquilla e si avvicina al finestrino.",
+    "pl": "Wracasz nocą samochodem do domu, gdy na pustej drodze zatrzymuje cię policjant (AI) i podchodzi do twojego okna.",
+    "pt": "Você está voltando para casa de carro à noite quando um policial (AI) manda você parar em uma rua tranquila e se aproxima da sua janela.",
+    "nl": "Je rijdt 's avonds naar huis wanneer een politieagent (AI) je op een rustige weg aanhoudt en naar je raampje loopt.",
+    "hr": "Noću se voziš kući kad te policajac (AI) zaustavi na mirnoj cesti i priđe tvom prozoru.",
+    "tr": "Gece eve dönerken sakin bir yolda bir polis memuru (AI) sizi kenara çekiyor ve camınıza doğru yürüyor.",
+    "uk": "Ти їдеш уночі додому, коли поліцейський (AI) зупиняє тебе на тихій дорозі й підходить до вікна.",
+    "ar": "أنت تقود سيارتك عائدًا إلى المنزل ليلًا عندما يوقفك شرطي (AI) على طريق هادئ ويقترب من نافذتك.",
+    "hi": "आप रात में गाड़ी चलाकर घर लौट रहे हैं, तभी एक सुनसान सड़क पर एक पुलिस अधिकारी (AI) आपको रोकते हैं और आपकी खिड़की के पास आते हैं।",
+    "vi": "Bạn đang lái xe về nhà vào ban đêm thì một cảnh sát (AI) ra hiệu dừng xe trên một con đường vắng và bước đến cửa sổ xe bạn.",
+    "id": "Kamu sedang menyetir pulang di malam hari ketika seorang polisi (AI) menghentikanmu di jalan yang sepi dan mendekati jendelamu.",
+    "ms": "Anda sedang memandu pulang pada waktu malam apabila seorang pegawai polis (AI) menahan anda di jalan yang sunyi dan berjalan ke tingkap kereta anda.",
+    "ko": "밤에 운전해서 집에 가는데, 한적한 도로에서 경찰관(AI)이 차를 세우고 창문 쪽으로 걸어옵니다."
+  },
+  "mission": {
+    "native": "Stay calm, show your documents and find out why you were stopped.",
+    "native_translations": {
+      "en": "Stay calm, show your documents and find out why you were stopped.",
+      "es": "Mantenga la calma, muestre sus documentos y averigüe por qué lo detuvieron.",
+      "fr": "Restez calme, montrez vos papiers et découvrez pourquoi vous avez été arrêté.",
+      "de": "Bleiben Sie ruhig, zeigen Sie Ihre Papiere und finden Sie heraus, warum Sie angehalten wurden.",
+      "it": "Mantieni la calma, mostra i documenti e scopri perché ti hanno fermato.",
+      "pl": "Zachowaj spokój, pokaż dokumenty i dowiedz się, dlaczego cię zatrzymano.",
+      "pt": "Mantenha a calma, mostre seus documentos e descubra por que você foi parado.",
+      "nl": "Blijf kalm, laat je papieren zien en zoek uit waarom je bent aangehouden.",
+      "hr": "Smireno pokaži dokumente i saznaj razlog zaustavljanja.",
+      "tr": "Sakin kalın, belgelerinizi gösterin ve neden durdurulduğunuzu öğrenin.",
+      "uk": "Зберігай спокій, покажи документи й з'ясуй, чому тебе зупинили.",
+      "ar": "حافظ على هدوئك، وأظهر مستنداتك، واعرف سبب إيقافك.",
+      "hi": "शांत रहिए, अपने दस्तावेज़ दिखाइए और पता कीजिए कि आपको क्यों रोका गया।",
+      "vi": "Giữ bình tĩnh, xuất trình giấy tờ và tìm hiểu lý do bạn bị dừng xe.",
+      "id": "Tetap tenang, tunjukkan dokumenmu, dan cari tahu kenapa kamu dihentikan.",
+      "ms": "Bertenang, tunjukkan dokumen anda dan ketahui mengapa anda ditahan.",
+      "ko": "침착하게 서류를 보여 주고 왜 차를 세웠는지 알아보세요."
+    },
+    "practice": "Mantenga la calma, muestre sus documentos y averigüe por qué lo detuvieron.",
+    "practice_translations": {
+      "en": "Stay calm, show your documents and find out why you were stopped.",
+      "es": "Mantenga la calma, muestre sus documentos y averigüe por qué lo detuvieron.",
+      "ja": "落ち着いて書類を見せ、止められた理由を聞いてください。",
+      "ko": "침착하게 서류를 보여 주고 왜 차를 세웠는지 알아보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Greet the officer politely",
+        "native_translations": {
+          "en": "Greet the officer politely",
+          "es": "Salude al oficial con cortesía",
+          "fr": "Saluez poliment le policier",
+          "de": "Begrüßen Sie den Polizisten höflich",
+          "it": "Saluta l'agente con cortesia",
+          "pl": "Grzecznie przywitaj się z policjantem",
+          "pt": "Cumprimente o policial com educação",
+          "nl": "Begroet de agent beleefd",
+          "hr": "Pristojno pozdravi policajca",
+          "tr": "Memuru kibarca selamlayın",
+          "uk": "Ввічливо привітайся з поліцейським",
+          "ar": "حيِّ الشرطي بأدب",
+          "hi": "अधिकारी का विनम्रता से अभिवादन कीजिए",
+          "vi": "Lịch sự chào cảnh sát",
+          "id": "Sapa petugas dengan sopan",
+          "ms": "Sapa pegawai itu dengan sopan",
+          "ko": "경찰관에게 정중하게 인사하세요"
+        },
+        "practice": "Salude al oficial con cortesía",
+        "practice_translations": {
+          "en": "Greet the officer politely",
+          "es": "Salude al oficial con cortesía",
+          "ja": "警察官に丁寧にあいさつしてください",
+          "ko": "경찰관에게 정중하게 인사하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask why you were stopped",
+        "native_translations": {
+          "en": "Ask why you were stopped",
+          "es": "Pregunte por qué lo detuvieron",
+          "fr": "Demandez pourquoi vous avez été arrêté",
+          "de": "Fragen Sie, warum Sie angehalten wurden",
+          "it": "Chiedi perché ti hanno fermato",
+          "pl": "Zapytaj, dlaczego cię zatrzymano",
+          "pt": "Pergunte por que você foi parado",
+          "nl": "Vraag waarom je bent aangehouden",
+          "hr": "Pitaj zašto te zaustavio",
+          "tr": "Neden durdurulduğunuzu sorun",
+          "uk": "Запитай, чому тебе зупинили",
+          "ar": "اسأل لماذا أُوقفت",
+          "hi": "पूछिए कि आपको क्यों रोका गया",
+          "vi": "Hỏi vì sao bạn bị dừng xe",
+          "id": "Tanyakan kenapa kamu dihentikan",
+          "ms": "Tanya mengapa anda ditahan",
+          "ko": "왜 차를 세웠는지 물어보세요"
+        },
+        "practice": "Pregunte por qué lo detuvieron",
+        "practice_translations": {
+          "en": "Ask why you were stopped",
+          "es": "Pregunte por qué lo detuvieron",
+          "ja": "止められた理由を聞いてください",
+          "ko": "왜 차를 세웠는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Say where your license and registration are",
+        "native_translations": {
+          "en": "Say where your license and registration are",
+          "es": "Diga dónde tiene su licencia y su registro",
+          "fr": "Dites où se trouvent votre permis et votre carte grise",
+          "de": "Sagen Sie, wo Ihr Führerschein und Ihr Fahrzeugschein sind",
+          "it": "Di' dove si trovano la patente e il libretto",
+          "pl": "Powiedz, gdzie masz prawo jazdy i dowód rejestracyjny",
+          "pt": "Diga onde estão sua habilitação e o documento do carro",
+          "nl": "Zeg waar je rijbewijs en kentekenbewijs zijn",
+          "hr": "Reci gdje su ti vozačka i prometna dozvola",
+          "tr": "Ehliyetinizin ve ruhsatınızın nerede olduğunu söyleyin",
+          "uk": "Скажи, де твоє посвідчення водія й техпаспорт",
+          "ar": "قل أين رخصتك واستمارة السيارة",
+          "hi": "बताइए कि आपका लाइसेंस और रजिस्ट्रेशन कहाँ है",
+          "vi": "Nói giấy phép lái xe và đăng ký xe để ở đâu",
+          "id": "Sebutkan di mana SIM dan STNK-mu",
+          "ms": "Katakan di mana lesen dan dokumen pendaftaran kenderaan anda",
+          "ko": "면허증과 차량 등록증이 어디 있는지 말하세요"
+        },
+        "practice": "Diga dónde tiene su licencia y su registro",
+        "practice_translations": {
+          "en": "Say where your license and registration are",
+          "es": "Diga dónde tiene su licencia y su registro",
+          "ja": "免許証と車検証がどこにあるか伝えてください",
+          "ko": "면허증과 차량 등록증이 어디 있는지 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask what happens next",
+        "native_translations": {
+          "en": "Ask what happens next",
+          "es": "Pregunte qué pasará después",
+          "fr": "Demandez ce qui va se passer ensuite",
+          "de": "Fragen Sie, wie es jetzt weitergeht",
+          "it": "Chiedi cosa succede adesso",
+          "pl": "Zapytaj, co będzie dalej",
+          "pt": "Pergunte o que acontece agora",
+          "nl": "Vraag wat er nu gebeurt",
+          "hr": "Pitaj što slijedi",
+          "tr": "Bundan sonra ne olacağını sorun",
+          "uk": "Запитай, що буде далі",
+          "ar": "اسأل عمّا سيحدث بعد ذلك",
+          "hi": "पूछिए कि आगे क्या होगा",
+          "vi": "Hỏi chuyện gì sẽ xảy ra tiếp theo",
+          "id": "Tanyakan apa yang terjadi selanjutnya",
+          "ms": "Tanya apa yang akan berlaku seterusnya",
+          "ko": "이제 어떻게 되는지 물어보세요"
+        },
+        "practice": "Pregunte qué pasará después",
+        "practice_translations": {
+          "en": "Ask what happens next",
+          "es": "Pregunte qué pasará después",
+          "ja": "この後どうなるか聞いてください",
+          "ko": "이제 어떻게 되는지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Good evening, officer. Is there a problem?",
+      "native_translations": {
+        "en": "Good evening, officer. Is there a problem?",
+        "es": "Buenas noches, oficial. ¿Hay algún problema?",
+        "fr": "Bonsoir, monsieur l'agent. Il y a un problème ?",
+        "de": "Guten Abend. Gibt es ein Problem?",
+        "it": "Buonasera, agente. C'è qualche problema?",
+        "pl": "Dobry wieczór, panie władzo. Czy coś się stało?",
+        "pt": "Boa noite, seu guarda. Algum problema?",
+        "nl": "Goedenavond, agent. Is er iets aan de hand?",
+        "hr": "Dobra večer. Je li nešto u neredu?",
+        "tr": "İyi akşamlar memur bey. Bir sorun mu var?",
+        "uk": "Добрий вечір. Щось сталося?",
+        "ar": "مساء الخير يا سيدي. هل هناك مشكلة؟",
+        "hi": "गुड ईवनिंग, ऑफ़िसर। कोई समस्या है?",
+        "vi": "Chào anh/chị cảnh sát. Có vấn đề gì không ạ?",
+        "id": "Selamat malam, Pak. Ada masalah apa?",
+        "ms": "Selamat malam, encik. Ada masalah apa?",
+        "ko": "안녕하세요, 경찰관님. 무슨 문제가 있나요?"
+      },
+      "practice": "Buenas noches, oficial. ¿Hay algún problema?",
+      "practice_translations": {
+        "en": "Good evening, officer. Is there a problem?",
+        "es": "Buenas noches, oficial. ¿Hay algún problema?",
+        "ja": "こんばんは。何か問題がありましたか。",
+        "ko": "안녕하세요, 경찰관님. 무슨 문제가 있나요?"
+      }
+    },
+    {
+      "native": "My license is in my wallet. May I get it?",
+      "native_translations": {
+        "en": "My license is in my wallet. May I get it?",
+        "es": "Mi licencia está en mi billetera. ¿Puedo sacarla?",
+        "fr": "Mon permis est dans mon portefeuille. Je peux le prendre ?",
+        "de": "Mein Führerschein ist in meinem Portemonnaie. Darf ich ihn herausholen?",
+        "it": "La patente è nel portafoglio. Posso prenderla?",
+        "pl": "Prawo jazdy mam w portfelu. Czy mogę po nie sięgnąć?",
+        "pt": "Minha habilitação está na carteira. Posso pegar?",
+        "nl": "Mijn rijbewijs zit in mijn portemonnee. Mag ik het pakken?",
+        "hr": "Vozačka mi je u novčaniku. Smijem li je izvaditi?",
+        "tr": "Ehliyetim cüzdanımda. Çıkarabilir miyim?",
+        "uk": "Посвідчення в гаманці. Можна його дістати?",
+        "ar": "رخصتي في محفظتي. هل يمكنني إخراجها؟",
+        "hi": "मेरा लाइसेंस मेरे बटुए में है। क्या मैं उसे निकाल लूँ?",
+        "vi": "Bằng lái của tôi ở trong ví. Tôi lấy ra được không?",
+        "id": "SIM saya ada di dompet. Boleh saya ambil?",
+        "ms": "Lesen saya ada dalam dompet. Boleh saya ambil?",
+        "ko": "면허증은 지갑에 있어요. 꺼내도 될까요?"
+      },
+      "practice": "Mi licencia está en mi billetera. ¿Puedo sacarla?",
+      "practice_translations": {
+        "en": "My license is in my wallet. May I get it?",
+        "es": "Mi licencia está en mi billetera. ¿Puedo sacarla?",
+        "ja": "免許証は財布の中にあります。取り出してもいいですか。",
+        "ko": "면허증은 지갑에 있어요. 꺼내도 될까요?"
+      }
+    },
+    {
+      "native": "I'm sorry, I didn't realize I was going that fast.",
+      "native_translations": {
+        "en": "I'm sorry, I didn't realize I was going that fast.",
+        "es": "Lo siento, no me di cuenta de que iba tan rápido.",
+        "fr": "Je suis désolé, je ne me suis pas rendu compte que j'allais si vite.",
+        "de": "Entschuldigung, mir war nicht bewusst, dass ich so schnell gefahren bin.",
+        "it": "Mi dispiace, non mi ero accorto di andare così veloce.",
+        "pl": "Przepraszam, nie zdawałem sobie sprawy, że jadę tak szybko.",
+        "pt": "Desculpe, não percebi que estava tão rápido.",
+        "nl": "Sorry, ik had niet door dat ik zo hard reed.",
+        "hr": "Oprostite, nije mi bilo jasno da vozim tako brzo.",
+        "tr": "Özür dilerim, bu kadar hızlı gittiğimin farkında değildim.",
+        "uk": "Вибачте, я не помітив, що їду так швидко.",
+        "ar": "أنا آسف، لم أنتبه إلى أنني كنت مسرعًا إلى هذا الحد.",
+        "hi": "माफ़ कीजिए, मुझे पता नहीं चला कि मैं इतनी तेज़ चला रहा था।",
+        "vi": "Xin lỗi, tôi không để ý là mình chạy nhanh vậy.",
+        "id": "Maaf, saya tidak sadar saya melaju secepat itu.",
+        "ms": "Maaf, saya tidak sedar saya memandu selaju itu.",
+        "ko": "죄송해요, 그렇게 빨리 달리는 줄 몰랐어요."
+      },
+      "practice": "Lo siento, no me di cuenta de que iba tan rápido.",
+      "practice_translations": {
+        "en": "I'm sorry, I didn't realize I was going that fast.",
+        "es": "Lo siento, no me di cuenta de que iba tan rápido.",
+        "ja": "すみません、そんなにスピードが出ているとは気づきませんでした。",
+        "ko": "죄송해요, 그렇게 빨리 달리는 줄 몰랐어요."
+      }
+    },
+    {
+      "native": "Will I get a ticket or just a warning?",
+      "native_translations": {
+        "en": "Will I get a ticket or just a warning?",
+        "es": "¿Me va a poner una multa o solo una advertencia?",
+        "fr": "Est-ce que j'aurai une amende ou juste un avertissement ?",
+        "de": "Bekomme ich einen Strafzettel oder nur eine Verwarnung?",
+        "it": "Mi farà la multa o solo un avvertimento?",
+        "pl": "Dostanę mandat czy tylko pouczenie?",
+        "pt": "Vou levar uma multa ou só uma advertência?",
+        "nl": "Krijg ik een boete of alleen een waarschuwing?",
+        "hr": "Hoću li dobiti kaznu ili samo upozorenje?",
+        "tr": "Ceza mı alacağım, yoksa sadece uyarı mı?",
+        "uk": "Мені випишуть штраф чи тільки попередження?",
+        "ar": "هل سأحصل على مخالفة أم مجرد تحذير؟",
+        "hi": "क्या मुझे टिकट मिलेगा या सिर्फ़ चेतावनी?",
+        "vi": "Tôi sẽ bị phạt hay chỉ bị nhắc nhở thôi?",
+        "id": "Apakah saya akan ditilang atau hanya diberi peringatan?",
+        "ms": "Adakah saya akan disaman atau hanya diberi amaran?",
+        "ko": "딱지를 받게 되나요, 아니면 경고만 받나요?"
+      },
+      "practice": "¿Me va a poner una multa o solo una advertencia?",
+      "practice_translations": {
+        "en": "Will I get a ticket or just a warning?",
+        "es": "¿Me va a poner una multa o solo una advertencia?",
+        "ja": "違反切符になりますか、それとも警告だけですか。",
+        "ko": "딱지를 받게 되나요, 아니면 경고만 받나요?"
+      }
+    }
+  ]
+}

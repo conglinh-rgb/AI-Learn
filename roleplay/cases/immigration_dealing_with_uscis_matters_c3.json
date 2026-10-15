@@ -1,0 +1,322 @@
+{
+  "id": "immigration_dealing_with_uscis_matters_c3",
+  "title": "Face to Face with the Officer",
+  "title_translations": {
+    "en": "Face to Face with the Officer",
+    "es": "Cara a cara en la entrevista",
+    "fr": "Face à l'agent",
+    "de": "Auge in Auge mit dem Sachbearbeiter",
+    "it": "Faccia a faccia con il funzionario",
+    "pl": "Twarzą w twarz z urzędnikiem",
+    "pt": "Frente a frente com o oficial",
+    "nl": "Oog in oog met de ambtenaar",
+    "hr": "Licem u lice sa službenikom",
+    "tr": "Memurla Yüz Yüze",
+    "uk": "Віч-на-віч з інспектором",
+    "ar": "وجهًا لوجه مع الموظف المختص",
+    "hi": "अधिकारी के आमने-सामने",
+    "vi": "Đối mặt với viên chức",
+    "id": "Berhadapan Langsung dengan Petugas",
+    "ms": "Bersemuka dengan Pegawai",
+    "ko": "심사관과의 대면 인터뷰"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "At your interview, the officer (AI) asks detailed questions about your application, and one of the dates doesn't match your records.",
+  "scenario_translations": {
+    "en": "At your interview, the officer (AI) asks detailed questions about your application, and one of the dates doesn't match your records.",
+    "es": "En su entrevista, el oficial (AI) le hace preguntas detalladas sobre su solicitud, y una de las fechas no coincide con sus registros.",
+    "fr": "Lors de votre entretien, l'agent (AI) vous pose des questions détaillées sur votre demande, et l'une des dates ne correspond pas à vos documents.",
+    "de": "Bei Ihrem Interview stellt Ihnen der Sachbearbeiter (AI) detaillierte Fragen zu Ihrem Antrag, und eines der Daten stimmt nicht mit Ihren Unterlagen überein.",
+    "it": "Al colloquio, il funzionario (AI) ti fa domande dettagliate sulla tua domanda, e una delle date non corrisponde ai tuoi documenti.",
+    "pl": "Podczas rozmowy urzędnik (AI) zadaje szczegółowe pytania o twój wniosek, a jedna z dat nie zgadza się z twoimi dokumentami.",
+    "pt": "Na sua entrevista, o oficial (AI) faz perguntas detalhadas sobre seu pedido, e uma das datas não bate com os seus registros.",
+    "nl": "Tijdens je gesprek stelt de ambtenaar (AI) gedetailleerde vragen over je aanvraag, en een van de datums klopt niet met je gegevens.",
+    "hr": "Na razgovoru ti službenik (AI) postavlja detaljna pitanja o zahtjevu, a jedan se datum ne poklapa s tvojom dokumentacijom.",
+    "tr": "Mülakatınızda memur (AI) başvurunuzla ilgili ayrıntılı sorular soruyor ve tarihlerden biri kayıtlarınızla uyuşmuyor.",
+    "uk": "На співбесіді інспектор (AI) ставить детальні запитання про твою заяву, і одна з дат не збігається з твоїми документами.",
+    "ar": "في مقابلتك، يطرح الموظف المختص (AI) أسئلة مفصلة عن طلبك، وأحد التواريخ لا يتطابق مع سجلاتك.",
+    "hi": "इंटरव्यू में अधिकारी (AI) आपके आवेदन के बारे में बारीकी से सवाल पूछते हैं, और एक तारीख़ आपके रिकॉर्ड से मेल नहीं खाती।",
+    "vi": "Tại buổi phỏng vấn, viên chức (AI) hỏi chi tiết về hồ sơ của bạn, và có một ngày tháng không khớp với giấy tờ của bạn.",
+    "id": "Saat wawancara, petugas (AI) mengajukan pertanyaan rinci tentang permohonanmu, dan salah satu tanggalnya tidak cocok dengan catatanmu.",
+    "ms": "Semasa temu duga anda, pegawai (AI) bertanya soalan terperinci tentang permohonan anda, dan salah satu tarikh tidak sepadan dengan rekod anda.",
+    "ko": "인터뷰에서 심사관(AI)이 신청서에 대해 자세히 질문하는데, 날짜 하나가 당신의 기록과 맞지 않습니다."
+  },
+  "mission": {
+    "native": "Answer the officer's questions clearly and politely clear up the confusing date.",
+    "native_translations": {
+      "en": "Answer the officer's questions clearly and politely clear up the confusing date.",
+      "es": "Responda con claridad las preguntas del oficial y aclare con cortesía la fecha que causa confusión.",
+      "fr": "Répondez clairement aux questions de l'agent et dissipez poliment le malentendu sur la date.",
+      "de": "Beantworten Sie die Fragen des Sachbearbeiters klar und klären Sie das verwirrende Datum höflich auf.",
+      "it": "Rispondi chiaramente alle domande del funzionario e chiarisci con gentilezza la data che crea confusione.",
+      "pl": "Jasno odpowiadaj na pytania urzędnika i grzecznie wyjaśnij niejasność z datą.",
+      "pt": "Responda às perguntas do oficial com clareza e esclareça com educação a data confusa.",
+      "nl": "Beantwoord de vragen van de ambtenaar duidelijk en zoek de verwarrende datum beleefd uit.",
+      "hr": "Jasno odgovori na službenikova pitanja i pristojno razjasni sporni datum.",
+      "tr": "Memurun sorularını net bir şekilde cevaplayın ve kafa karıştıran tarihi kibarca açıklığa kavuşturun.",
+      "uk": "Чітко відповідай на запитання інспектора й ввічливо проясни плутанину з датою.",
+      "ar": "أجب عن أسئلة الموظف بوضوح ووضّح التاريخ الملتبس بأدب.",
+      "hi": "अधिकारी के सवालों का साफ़ जवाब दीजिए और उलझन वाली तारीख़ को विनम्रता से स्पष्ट कीजिए।",
+      "vi": "Trả lời rõ ràng các câu hỏi của viên chức và lịch sự làm rõ ngày tháng gây nhầm lẫn.",
+      "id": "Jawab pertanyaan petugas dengan jelas dan luruskan tanggal yang membingungkan dengan sopan.",
+      "ms": "Jawab soalan pegawai dengan jelas dan jelaskan tarikh yang mengelirukan itu dengan sopan.",
+      "ko": "심사관의 질문에 명확하게 답하고, 헷갈리는 날짜를 정중하게 바로잡으세요."
+    },
+    "practice": "Responda con claridad las preguntas del oficial y aclare con cortesía la fecha que causa confusión.",
+    "practice_translations": {
+      "en": "Answer the officer's questions clearly and politely clear up the confusing date.",
+      "es": "Responda con claridad las preguntas del oficial y aclare con cortesía la fecha que causa confusión.",
+      "ja": "担当官の質問にはっきり答え、合わない日付について丁寧に説明してください。",
+      "ko": "심사관의 질문에 명확하게 답하고, 헷갈리는 날짜를 정중하게 바로잡으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Confirm your full name and address",
+        "native_translations": {
+          "en": "Confirm your full name and address",
+          "es": "Confirme su nombre completo y su dirección",
+          "fr": "Confirmez votre nom complet et votre adresse",
+          "de": "Bestätigen Sie Ihren vollständigen Namen und Ihre Adresse",
+          "it": "Conferma il tuo nome completo e il tuo indirizzo",
+          "pl": "Potwierdź swoje imię, nazwisko i adres",
+          "pt": "Confirme seu nome completo e endereço",
+          "nl": "Bevestig je volledige naam en adres",
+          "hr": "Potvrdi svoje puno ime i adresu",
+          "tr": "Tam adınızı ve adresinizi teyit edin",
+          "uk": "Підтверди своє повне ім'я та адресу",
+          "ar": "أكّد اسمك الكامل وعنوانك",
+          "hi": "अपना पूरा नाम और पता पक्का कीजिए",
+          "vi": "Xác nhận họ tên đầy đủ và địa chỉ",
+          "id": "Konfirmasi nama lengkap dan alamatmu",
+          "ms": "Sahkan nama penuh dan alamat anda",
+          "ko": "성명과 주소를 확인하세요"
+        },
+        "practice": "Confirme su nombre completo y su dirección",
+        "practice_translations": {
+          "en": "Confirm your full name and address",
+          "es": "Confirme su nombre completo y su dirección",
+          "ja": "氏名と住所を確認してください",
+          "ko": "성명과 주소를 확인하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Describe your current job",
+        "native_translations": {
+          "en": "Describe your current job",
+          "es": "Describa su trabajo actual",
+          "fr": "Décrivez votre emploi actuel",
+          "de": "Beschreiben Sie Ihre aktuelle Arbeit",
+          "it": "Descrivi il tuo lavoro attuale",
+          "pl": "Opisz swoją obecną pracę",
+          "pt": "Descreva seu trabalho atual",
+          "nl": "Beschrijf je huidige baan",
+          "hr": "Opiši svoj trenutačni posao",
+          "tr": "Şu anki işinizi anlatın",
+          "uk": "Опиши свою теперішню роботу",
+          "ar": "صف عملك الحالي",
+          "hi": "अपनी मौजूदा नौकरी के बारे में बताइए",
+          "vi": "Mô tả công việc hiện tại của bạn",
+          "id": "Jelaskan pekerjaanmu saat ini",
+          "ms": "Terangkan pekerjaan anda sekarang",
+          "ko": "현재 하는 일을 설명하세요"
+        },
+        "practice": "Describa su trabajo actual",
+        "practice_translations": {
+          "en": "Describe your current job",
+          "es": "Describa su trabajo actual",
+          "ja": "今の仕事について説明してください",
+          "ko": "현재 하는 일을 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the officer to repeat a question",
+        "native_translations": {
+          "en": "Ask the officer to repeat a question",
+          "es": "Pida al oficial que repita una pregunta",
+          "fr": "Demandez à l'agent de répéter une question",
+          "de": "Bitten Sie den Sachbearbeiter, eine Frage zu wiederholen",
+          "it": "Chiedi al funzionario di ripetere una domanda",
+          "pl": "Poproś urzędnika o powtórzenie pytania",
+          "pt": "Peça ao oficial para repetir uma pergunta",
+          "nl": "Vraag de ambtenaar een vraag te herhalen",
+          "hr": "Zamoli službenika da ponovi pitanje",
+          "tr": "Memurdan bir soruyu tekrarlamasını isteyin",
+          "uk": "Попроси інспектора повторити запитання",
+          "ar": "اطلب من الموظف تكرار سؤال",
+          "hi": "अधिकारी से सवाल दोहराने को कहिए",
+          "vi": "Nhờ viên chức nhắc lại câu hỏi",
+          "id": "Minta petugas mengulangi pertanyaan",
+          "ms": "Minta pegawai mengulang soalan",
+          "ko": "심사관에게 질문을 다시 해 달라고 하세요"
+        },
+        "practice": "Pida al oficial que repita una pregunta",
+        "practice_translations": {
+          "en": "Ask the officer to repeat a question",
+          "es": "Pida al oficial que repita una pregunta",
+          "ja": "質問をもう一度言ってもらうよう頼んでください",
+          "ko": "심사관에게 질문을 다시 해 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Clarify the date that doesn't match",
+        "native_translations": {
+          "en": "Clarify the date that doesn't match",
+          "es": "Aclare la fecha que no coincide",
+          "fr": "Clarifiez la date qui ne correspond pas",
+          "de": "Klären Sie das Datum, das nicht übereinstimmt",
+          "it": "Chiarisci la data che non corrisponde",
+          "pl": "Wyjaśnij datę, która się nie zgadza",
+          "pt": "Esclareça a data que não bate",
+          "nl": "Verduidelijk de datum die niet klopt",
+          "hr": "Razjasni datum koji se ne poklapa",
+          "tr": "Uyuşmayan tarihi açıklığa kavuşturun",
+          "uk": "Уточни дату, яка не збігається",
+          "ar": "وضّح التاريخ غير المتطابق",
+          "hi": "मेल न खाने वाली तारीख़ स्पष्ट कीजिए",
+          "vi": "Làm rõ ngày tháng không khớp",
+          "id": "Jelaskan tanggal yang tidak cocok",
+          "ms": "Jelaskan tarikh yang tidak sepadan",
+          "ko": "맞지 않는 날짜를 바로잡으세요"
+        },
+        "practice": "Aclare la fecha que no coincide",
+        "practice_translations": {
+          "en": "Clarify the date that doesn't match",
+          "es": "Aclare la fecha que no coincide",
+          "ja": "合わない日付について説明してください",
+          "ko": "맞지 않는 날짜를 바로잡으세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Yes, my full name is on the application, and I still live at that address.",
+      "native_translations": {
+        "en": "Yes, my full name is on the application, and I still live at that address.",
+        "es": "Sí, mi nombre completo está en la solicitud y sigo viviendo en esa dirección.",
+        "fr": "Oui, mon nom complet figure sur la demande, et j'habite toujours à cette adresse.",
+        "de": "Ja, mein vollständiger Name steht im Antrag, und ich wohne noch unter dieser Adresse.",
+        "it": "Sì, il mio nome completo è sulla domanda e abito ancora a quell'indirizzo.",
+        "pl": "Tak, moje pełne imię i nazwisko jest we wniosku i nadal mieszkam pod tym adresem.",
+        "pt": "Sim, meu nome completo está no pedido, e eu ainda moro nesse endereço.",
+        "nl": "Ja, mijn volledige naam staat op de aanvraag, en ik woon nog steeds op dat adres.",
+        "hr": "Da, moje puno ime je na zahtjevu i još uvijek živim na toj adresi.",
+        "tr": "Evet, tam adım başvuruda yazıyor ve hâlâ o adreste oturuyorum.",
+        "uk": "Так, моє повне ім'я вказане в заяві, і я досі живу за цією адресою.",
+        "ar": "نعم، اسمي الكامل مكتوب في الطلب، وما زلت أسكن في ذلك العنوان.",
+        "hi": "जी हाँ, मेरा पूरा नाम आवेदन पर है, और मैं अब भी उसी पते पर रहता हूँ।",
+        "vi": "Vâng, họ tên đầy đủ của tôi có trong đơn, và tôi vẫn sống ở địa chỉ đó.",
+        "id": "Ya, nama lengkap saya ada di permohonan, dan saya masih tinggal di alamat itu.",
+        "ms": "Ya, nama penuh saya ada dalam permohonan, dan saya masih tinggal di alamat itu.",
+        "ko": "네, 신청서에 제 성명이 적혀 있고, 지금도 그 주소에 살고 있습니다."
+      },
+      "practice": "Sí, mi nombre completo está en la solicitud y sigo viviendo en esa dirección.",
+      "practice_translations": {
+        "en": "Yes, my full name is on the application, and I still live at that address.",
+        "es": "Sí, mi nombre completo está en la solicitud y sigo viviendo en esa dirección.",
+        "ja": "はい、申請書の氏名で間違いありません。今もその住所に住んでいます。",
+        "ko": "네, 신청서에 제 성명이 적혀 있고, 지금도 그 주소에 살고 있습니다."
+      }
+    },
+    {
+      "native": "I work as a cook at a restaurant downtown.",
+      "native_translations": {
+        "en": "I work as a cook at a restaurant downtown.",
+        "es": "Trabajo como cocinero en un restaurante del centro.",
+        "fr": "Je travaille comme cuisinier dans un restaurant du centre-ville.",
+        "de": "Ich arbeite als Koch in einem Restaurant in der Innenstadt.",
+        "it": "Lavoro come cuoco in un ristorante in centro.",
+        "pl": "Pracuję jako kucharz w restauracji w centrum.",
+        "pt": "Trabalho como cozinheiro em um restaurante no centro.",
+        "nl": "Ik werk als kok in een restaurant in het centrum.",
+        "hr": "Radim kao kuhar u restoranu u centru grada.",
+        "tr": "Şehir merkezindeki bir restoranda aşçı olarak çalışıyorum.",
+        "uk": "Я працюю кухарем у ресторані в центрі міста.",
+        "ar": "أعمل طباخًا في مطعم وسط المدينة.",
+        "hi": "मैं शहर के बीच एक रेस्टोरेंट में कुक का काम करता हूँ।",
+        "vi": "Tôi làm đầu bếp ở một nhà hàng trong trung tâm thành phố.",
+        "id": "Saya bekerja sebagai juru masak di sebuah restoran di pusat kota.",
+        "ms": "Saya bekerja sebagai tukang masak di sebuah restoran di pusat bandar.",
+        "ko": "시내에 있는 식당에서 요리사로 일하고 있습니다."
+      },
+      "practice": "Trabajo como cocinero en un restaurante del centro.",
+      "practice_translations": {
+        "en": "I work as a cook at a restaurant downtown.",
+        "es": "Trabajo como cocinero en un restaurante del centro.",
+        "ja": "ダウンタウンのレストランで料理人として働いています。",
+        "ko": "시내에 있는 식당에서 요리사로 일하고 있습니다."
+      }
+    },
+    {
+      "native": "I'm sorry, could you repeat the question, please?",
+      "native_translations": {
+        "en": "I'm sorry, could you repeat the question, please?",
+        "es": "Disculpe, ¿podría repetir la pregunta, por favor?",
+        "fr": "Excusez-moi, pourriez-vous répéter la question, s'il vous plaît ?",
+        "de": "Entschuldigung, könnten Sie die Frage bitte wiederholen?",
+        "it": "Mi scusi, potrebbe ripetere la domanda, per favore?",
+        "pl": "Przepraszam, czy mógłby pan powtórzyć pytanie?",
+        "pt": "Desculpe, o senhor poderia repetir a pergunta, por favor?",
+        "nl": "Sorry, kunt u de vraag herhalen?",
+        "hr": "Oprostite, možete li ponoviti pitanje, molim Vas?",
+        "tr": "Özür dilerim, soruyu tekrar edebilir misiniz, lütfen?",
+        "uk": "Перепрошую, чи не могли б ви повторити запитання?",
+        "ar": "عفوًا، هل يمكنك تكرار السؤال من فضلك؟",
+        "hi": "माफ़ कीजिए, क्या आप प्लीज़ सवाल दोहरा सकते हैं?",
+        "vi": "Xin lỗi, anh/chị có thể nhắc lại câu hỏi được không?",
+        "id": "Maaf, bisa tolong ulangi pertanyaannya?",
+        "ms": "Maaf, boleh anda ulang soalan itu?",
+        "ko": "죄송하지만, 질문을 다시 한번 해 주시겠어요?"
+      },
+      "practice": "Disculpe, ¿podría repetir la pregunta, por favor?",
+      "practice_translations": {
+        "en": "I'm sorry, could you repeat the question, please?",
+        "es": "Disculpe, ¿podría repetir la pregunta, por favor?",
+        "ja": "申し訳ありません、もう一度質問していただけますか。",
+        "ko": "죄송하지만, 질문을 다시 한번 해 주시겠어요?"
+      }
+    },
+    {
+      "native": "I made a mistake with that date. The correct date is in this document.",
+      "native_translations": {
+        "en": "I made a mistake with that date. The correct date is in this document.",
+        "es": "Me equivoqué con esa fecha. La fecha correcta está en este documento.",
+        "fr": "Je me suis trompé sur cette date. La bonne date figure dans ce document.",
+        "de": "Bei diesem Datum habe ich mich vertan. Das richtige Datum steht in diesem Dokument.",
+        "it": "Ho sbagliato quella data. La data corretta è in questo documento.",
+        "pl": "Pomyliłem się z tą datą. Prawidłowa data jest w tym dokumencie.",
+        "pt": "Eu me enganei nessa data. A data correta está neste documento.",
+        "nl": "Ik heb me vergist in die datum. De juiste datum staat in dit document.",
+        "hr": "S tim datumom potkrala mi se pogreška. Točan datum je u ovom dokumentu.",
+        "tr": "O tarihte bir hata yaptım. Doğru tarih bu belgede yazıyor.",
+        "uk": "Я помилився з цією датою. Правильна дата є в цьому документі.",
+        "ar": "أخطأت في ذلك التاريخ. التاريخ الصحيح موجود في هذا المستند.",
+        "hi": "उस तारीख़ में मुझसे ग़लती हो गई थी। सही तारीख़ इस दस्तावेज़ में है।",
+        "vi": "Tôi đã ghi nhầm ngày đó. Ngày chính xác có trong giấy tờ này.",
+        "id": "Saya salah menulis tanggal itu. Tanggal yang benar ada di dokumen ini.",
+        "ms": "Saya tersilap tentang tarikh itu. Tarikh yang betul ada dalam dokumen ini.",
+        "ko": "그 날짜는 제가 잘못 적었습니다. 정확한 날짜는 이 서류에 있습니다."
+      },
+      "practice": "Me equivoqué con esa fecha. La fecha correcta está en este documento.",
+      "practice_translations": {
+        "en": "I made a mistake with that date. The correct date is in this document.",
+        "es": "Me equivoqué con esa fecha. La fecha correcta está en este documento.",
+        "ja": "その日付は私の間違いでした。正しい日付はこちらの書類に書いてあります。",
+        "ko": "그 날짜는 제가 잘못 적었습니다. 정확한 날짜는 이 서류에 있습니다."
+      }
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "work_reporting_progress_to_a_manager_c3",
+  "title": "Too Much on Your Plate",
+  "title_translations": {
+    "en": "Too Much on Your Plate",
+    "es": "Demasiado trabajo encima",
+    "fr": "Trop de choses sur le feu",
+    "de": "Zu viel auf dem Tisch",
+    "it": "Troppe cose da fare",
+    "pl": "Za dużo na głowie",
+    "pt": "Coisa demais para fazer",
+    "nl": "Te veel op je bord",
+    "hr": "Previše obaveza",
+    "tr": "İşler Üst Üste Bindi",
+    "uk": "Забагато на тарілці",
+    "ar": "مهام تفوق طاقتك",
+    "hi": "काम का बहुत ज़्यादा बोझ",
+    "vi": "Quá nhiều việc cùng lúc",
+    "id": "Pekerjaan Terlalu Menumpuk",
+    "ms": "Terlalu Banyak Kerja",
+    "ko": "일이 너무 많아요"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "Your schedule is already full, but your manager (AI) wants to give you an urgent new task this week.",
+  "scenario_translations": {
+    "en": "Your schedule is already full, but your manager (AI) wants to give you an urgent new task this week.",
+    "es": "Su agenda ya está llena, pero su gerente (AI) quiere asignarle una tarea urgente nueva esta semana.",
+    "fr": "Votre planning est déjà plein, mais votre responsable (AI) veut vous confier une nouvelle tâche urgente cette semaine.",
+    "de": "Ihr Terminplan ist schon voll, aber Ihre Vorgesetzte (AI) möchte Ihnen diese Woche eine neue dringende Aufgabe geben.",
+    "it": "La tua agenda è già piena, ma il tuo responsabile (AI) vuole darti un nuovo compito urgente questa settimana.",
+    "pl": "Twój grafik jest już pełny, ale kierownik (AI) chce ci dać w tym tygodniu nowe pilne zadanie.",
+    "pt": "Sua agenda já está cheia, mas seu gestor (AI) quer passar uma nova tarefa urgente para você esta semana.",
+    "nl": "Je planning zit al vol, maar je manager (AI) wil je deze week een nieuwe dringende taak geven.",
+    "hr": "Raspored ti je već pun, ali nadređeni (AI) ti ovaj tjedan želi dati novi hitan zadatak.",
+    "tr": "Programınız zaten dolu ama yöneticiniz (AI) bu hafta size acil yeni bir görev vermek istiyor.",
+    "uk": "Твій графік уже заповнений, але керівник (AI) хоче дати тобі нове термінове завдання цього тижня.",
+    "ar": "جدولك ممتلئ بالفعل، لكن مديرك (AI) يريد أن يكلّفك بمهمة عاجلة جديدة هذا الأسبوع.",
+    "hi": "आपका शेड्यूल पहले से भरा हुआ है, लेकिन आपके मैनेजर (AI) इस हफ़्ते आपको एक नया ज़रूरी काम देना चाहते हैं।",
+    "vi": "Lịch làm việc của bạn đã kín, nhưng quản lý (AI) lại muốn giao thêm cho bạn một việc gấp trong tuần này.",
+    "id": "Jadwalmu sudah penuh, tapi manajermu (AI) ingin memberimu tugas baru yang mendesak minggu ini.",
+    "ms": "Jadual anda sudah penuh, tetapi pengurus anda (AI) mahu memberi anda tugas baharu yang segera minggu ini.",
+    "ko": "일정이 이미 꽉 찼는데, 매니저(AI)가 이번 주에 급한 새 업무를 맡기려고 합니다."
+  },
+  "mission": {
+    "native": "Explain your workload and agree with your manager on clear priorities.",
+    "native_translations": {
+      "en": "Explain your workload and agree with your manager on clear priorities.",
+      "es": "Explique su carga de trabajo y acuerde con su gerente prioridades claras.",
+      "fr": "Expliquez votre charge de travail et fixez avec votre responsable des priorités claires.",
+      "de": "Erklären Sie Ihre Arbeitsbelastung und legen Sie mit Ihrer Vorgesetzten klare Prioritäten fest.",
+      "it": "Spiega il tuo carico di lavoro e concorda con il tuo responsabile priorità chiare.",
+      "pl": "Wyjaśnij, ile masz pracy, i ustal z kierownikiem jasne priorytety.",
+      "pt": "Explique sua carga de trabalho e combine com seu gestor prioridades claras.",
+      "nl": "Leg uit hoeveel werk je hebt en spreek met je manager duidelijke prioriteiten af.",
+      "hr": "Objasni koliko si opterećen i dogovori s nadređenim jasne prioritete.",
+      "tr": "İş yükünüzü açıklayın ve yöneticinizle net öncelikler üzerinde anlaşın.",
+      "uk": "Поясни своє навантаження й домовтеся з керівником про чіткі пріоритети.",
+      "ar": "اشرح حجم عملك واتفق مع مديرك على أولويات واضحة.",
+      "hi": "अपने काम का बोझ समझाइए और मैनेजर के साथ साफ़ प्राथमिकताएँ तय कीजिए।",
+      "vi": "Giải thích khối lượng công việc và thống nhất với quản lý về thứ tự ưu tiên rõ ràng.",
+      "id": "Jelaskan beban kerjamu dan sepakati prioritas yang jelas dengan manajermu.",
+      "ms": "Terangkan beban kerja anda dan setuju dengan pengurus tentang keutamaan yang jelas.",
+      "ko": "업무량을 설명하고 매니저와 명확한 우선순위를 정하세요."
+    },
+    "practice": "Explique su carga de trabajo y acuerde con su gerente prioridades claras.",
+    "practice_translations": {
+      "en": "Explain your workload and agree with your manager on clear priorities.",
+      "es": "Explique su carga de trabajo y acuerde con su gerente prioridades claras.",
+      "ja": "自分の仕事量を説明して、上司とはっきりした優先順位を決めてください。",
+      "ko": "업무량을 설명하고 매니저와 명확한 우선순위를 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "List what you are working on now",
+        "native_translations": {
+          "en": "List what you are working on now",
+          "es": "Enumere en qué está trabajando ahora",
+          "fr": "Énumérez ce sur quoi vous travaillez actuellement",
+          "de": "Zählen Sie auf, woran Sie gerade arbeiten",
+          "it": "Elenca le cose su cui stai lavorando ora",
+          "pl": "Wymień, nad czym teraz pracujesz",
+          "pt": "Liste no que você está trabalhando agora",
+          "nl": "Noem waar je nu aan werkt",
+          "hr": "Nabroji na čemu trenutačno radiš",
+          "tr": "Şu anda üzerinde çalıştığınız işleri sıralayın",
+          "uk": "Перелічи, над чим ти зараз працюєш",
+          "ar": "اذكر ما تعمل عليه الآن",
+          "hi": "बताइए कि आप अभी किन कामों पर लगे हैं",
+          "vi": "Liệt kê những việc bạn đang làm",
+          "id": "Sebutkan apa saja yang sedang kamu kerjakan",
+          "ms": "Senaraikan apa yang sedang anda kerjakan",
+          "ko": "지금 하고 있는 일을 나열하세요"
+        },
+        "practice": "Enumere en qué está trabajando ahora",
+        "practice_translations": {
+          "en": "List what you are working on now",
+          "es": "Enumere en qué está trabajando ahora",
+          "ja": "今取り組んでいることを挙げてください",
+          "ko": "지금 하고 있는 일을 나열하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain you can't finish everything on time",
+        "native_translations": {
+          "en": "Explain you can't finish everything on time",
+          "es": "Explique que no puede terminar todo a tiempo",
+          "fr": "Expliquez que vous ne pouvez pas tout terminer à temps",
+          "de": "Erklären Sie, dass Sie nicht alles rechtzeitig schaffen",
+          "it": "Spiega che non riesci a finire tutto in tempo",
+          "pl": "Wyjaśnij, że nie zdążysz zrobić wszystkiego na czas",
+          "pt": "Explique que não vai conseguir terminar tudo no prazo",
+          "nl": "Leg uit dat je niet alles op tijd af kunt krijgen",
+          "hr": "Objasni da ne možeš sve završiti na vrijeme",
+          "tr": "Her şeyi zamanında bitiremeyeceğinizi açıklayın",
+          "uk": "Поясни, що не встигнеш усе вчасно",
+          "ar": "اشرح أنك لا تستطيع إنهاء كل شيء في الوقت المحدد",
+          "hi": "समझाइए कि आप सब कुछ समय पर पूरा नहीं कर सकते",
+          "vi": "Giải thích rằng bạn không thể làm xong mọi việc đúng hạn",
+          "id": "Jelaskan bahwa kamu tidak bisa menyelesaikan semuanya tepat waktu",
+          "ms": "Terangkan bahawa anda tidak dapat siapkan semuanya tepat pada masa",
+          "ko": "모든 일을 제시간에 끝낼 수 없다고 설명하세요"
+        },
+        "practice": "Explique que no puede terminar todo a tiempo",
+        "practice_translations": {
+          "en": "Explain you can't finish everything on time",
+          "es": "Explique que no puede terminar todo a tiempo",
+          "ja": "すべてを期限内に終えられないと説明してください",
+          "ko": "모든 일을 제시간에 끝낼 수 없다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask which task is the top priority",
+        "native_translations": {
+          "en": "Ask which task is the top priority",
+          "es": "Pregunte qué tarea es la prioridad principal",
+          "fr": "Demandez quelle tâche est la plus prioritaire",
+          "de": "Fragen Sie, welche Aufgabe oberste Priorität hat",
+          "it": "Chiedi quale compito ha la priorità",
+          "pl": "Zapytaj, które zadanie jest najważniejsze",
+          "pt": "Pergunte qual tarefa é a prioridade",
+          "nl": "Vraag welke taak de hoogste prioriteit heeft",
+          "hr": "Pitaj koji je zadatak glavni prioritet",
+          "tr": "Hangi görevin en öncelikli olduğunu sorun",
+          "uk": "Запитай, яке завдання найпріоритетніше",
+          "ar": "اسأل أي مهمة لها الأولوية القصوى",
+          "hi": "पूछिए कि सबसे ज़रूरी काम कौन-सा है",
+          "vi": "Hỏi việc nào được ưu tiên hàng đầu",
+          "id": "Tanyakan tugas mana yang paling prioritas",
+          "ms": "Tanya tugas mana yang paling utama",
+          "ko": "어떤 업무가 가장 우선인지 물어보세요"
+        },
+        "practice": "Pregunte qué tarea es la prioridad principal",
+        "practice_translations": {
+          "en": "Ask which task is the top priority",
+          "es": "Pregunte qué tarea es la prioridad principal",
+          "ja": "どの仕事が最優先か聞いてください",
+          "ko": "어떤 업무가 가장 우선인지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Suggest moving one deadline",
+        "native_translations": {
+          "en": "Suggest moving one deadline",
+          "es": "Sugiera mover una fecha de entrega",
+          "fr": "Proposez de repousser une échéance",
+          "de": "Schlagen Sie vor, eine Frist zu verschieben",
+          "it": "Proponi di spostare una scadenza",
+          "pl": "Zaproponuj przesunięcie jednego terminu",
+          "pt": "Sugira adiar um prazo",
+          "nl": "Stel voor om één deadline te verschuiven",
+          "hr": "Predloži pomicanje jednog roka",
+          "tr": "Bir teslim tarihini ertelemeyi önerin",
+          "uk": "Запропонуй перенести один дедлайн",
+          "ar": "اقترح تأجيل أحد المواعيد النهائية",
+          "hi": "किसी एक डेडलाइन को आगे बढ़ाने का सुझाव दीजिए",
+          "vi": "Đề xuất dời một hạn chót",
+          "id": "Usulkan untuk memundurkan satu tenggat waktu",
+          "ms": "Cadangkan untuk menangguhkan satu tarikh akhir",
+          "ko": "마감일 하나를 미루자고 제안하세요"
+        },
+        "practice": "Sugiera mover una fecha de entrega",
+        "practice_translations": {
+          "en": "Suggest moving one deadline",
+          "es": "Sugiera mover una fecha de entrega",
+          "ja": "締め切りを一つずらすことを提案してください",
+          "ko": "마감일 하나를 미루자고 제안하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Right now I'm working on the budget and the training plan.",
+      "native_translations": {
+        "en": "Right now I'm working on the budget and the training plan.",
+        "es": "Ahora mismo estoy trabajando en el presupuesto y en el plan de capacitación.",
+        "fr": "En ce moment, je travaille sur le budget et le plan de formation.",
+        "de": "Im Moment arbeite ich am Budget und am Schulungsplan.",
+        "it": "In questo momento sto lavorando al budget e al piano di formazione.",
+        "pl": "Teraz pracuję nad budżetem i planem szkoleń.",
+        "pt": "No momento estou trabalhando no orçamento e no plano de treinamento.",
+        "nl": "Op dit moment werk ik aan de begroting en het trainingsplan.",
+        "hr": "Trenutačno radim na proračunu i planu obuke.",
+        "tr": "Şu anda bütçe ve eğitim planı üzerinde çalışıyorum.",
+        "uk": "Зараз я працюю над бюджетом і планом навчання.",
+        "ar": "أعمل حاليًا على الميزانية وخطة التدريب.",
+        "hi": "अभी मैं बजट और ट्रेनिंग प्लान पर काम कर रहा हूँ।",
+        "vi": "Hiện tôi đang làm ngân sách và kế hoạch đào tạo.",
+        "id": "Saat ini saya sedang mengerjakan anggaran dan rencana pelatihan.",
+        "ms": "Sekarang saya sedang menguruskan bajet dan pelan latihan.",
+        "ko": "지금은 예산안과 교육 계획을 작업하고 있어요."
+      },
+      "practice": "Ahora mismo estoy trabajando en el presupuesto y en el plan de capacitación.",
+      "practice_translations": {
+        "en": "Right now I'm working on the budget and the training plan.",
+        "es": "Ahora mismo estoy trabajando en el presupuesto y en el plan de capacitación.",
+        "ja": "今は予算と研修計画に取り組んでいます。",
+        "ko": "지금은 예산안과 교육 계획을 작업하고 있어요."
+      }
+    },
+    {
+      "native": "I want to do a good job, but I can't finish all three this week.",
+      "native_translations": {
+        "en": "I want to do a good job, but I can't finish all three this week.",
+        "es": "Quiero hacer un buen trabajo, pero no puedo terminar los tres esta semana.",
+        "fr": "Je veux bien faire mon travail, mais je ne peux pas terminer les trois cette semaine.",
+        "de": "Ich möchte gute Arbeit leisten, aber alle drei schaffe ich diese Woche nicht.",
+        "it": "Voglio fare un buon lavoro, ma questa settimana non riesco a finire tutte e tre le cose.",
+        "pl": "Chcę wykonać dobrą robotę, ale nie skończę wszystkich trzech rzeczy w tym tygodniu.",
+        "pt": "Quero fazer um bom trabalho, mas não consigo terminar as três coisas esta semana.",
+        "nl": "Ik wil het goed doen, maar ik krijg deze week niet alle drie af.",
+        "hr": "Želim dobro obaviti posao, ali ovaj tjedan ne mogu završiti sva tri zadatka.",
+        "tr": "İyi bir iş çıkarmak istiyorum ama bu hafta üçünü birden bitiremem.",
+        "uk": "Я хочу зробити все якісно, але не встигну всі три цього тижня.",
+        "ar": "أريد أن أؤدي عملي على أكمل وجه، لكنني لا أستطيع إنهاء المهام الثلاث هذا الأسبوع.",
+        "hi": "मैं अच्छा काम करना चाहता हूँ, लेकिन इस हफ़्ते तीनों काम पूरे नहीं कर सकता।",
+        "vi": "Tôi muốn làm thật tốt, nhưng tuần này tôi không thể xong cả ba việc.",
+        "id": "Saya ingin bekerja dengan baik, tapi saya tidak bisa menyelesaikan ketiganya minggu ini.",
+        "ms": "Saya mahu buat kerja dengan baik, tetapi saya tak dapat siapkan ketiga-tiganya minggu ini.",
+        "ko": "잘하고 싶지만, 이번 주에 세 가지를 다 끝낼 수는 없어요."
+      },
+      "practice": "Quiero hacer un buen trabajo, pero no puedo terminar los tres esta semana.",
+      "practice_translations": {
+        "en": "I want to do a good job, but I can't finish all three this week.",
+        "es": "Quiero hacer un buen trabajo, pero no puedo terminar los tres esta semana.",
+        "ja": "きちんと仕上げたいのですが、今週中に3つすべては終えられません。",
+        "ko": "잘하고 싶지만, 이번 주에 세 가지를 다 끝낼 수는 없어요."
+      }
+    },
+    {
+      "native": "Which of these is most important to you?",
+      "native_translations": {
+        "en": "Which of these is most important to you?",
+        "es": "¿Cuál de estas es la más importante para usted?",
+        "fr": "Laquelle de ces tâches est la plus importante pour vous ?",
+        "de": "Welche davon ist Ihnen am wichtigsten?",
+        "it": "Quale di queste è più importante per lei?",
+        "pl": "Które z nich jest dla pana najważniejsze?",
+        "pt": "Qual delas é mais importante para você?",
+        "nl": "Welke hiervan is voor jou het belangrijkst?",
+        "hr": "Što Vam je od ovoga najvažnije?",
+        "tr": "Bunlardan hangisi sizin için en önemli?",
+        "uk": "Що з цього для вас найважливіше?",
+        "ar": "أيّ هذه المهام هي الأهم بالنسبة لك؟",
+        "hi": "आपके लिए इनमें से सबसे ज़रूरी कौन-सा है?",
+        "vi": "Trong số này, việc nào quan trọng nhất với anh/chị?",
+        "id": "Mana yang paling penting menurut Anda?",
+        "ms": "Yang mana satu paling penting bagi anda?",
+        "ko": "이 중에서 어떤 게 가장 중요하세요?"
+      },
+      "practice": "¿Cuál de estas es la más importante para usted?",
+      "practice_translations": {
+        "en": "Which of these is most important to you?",
+        "es": "¿Cuál de estas es la más importante para usted?",
+        "ja": "この中で、どれが一番重要でしょうか。",
+        "ko": "이 중에서 어떤 게 가장 중요하세요?"
+      }
+    },
+    {
+      "native": "Could we move the training plan to next Friday?",
+      "native_translations": {
+        "en": "Could we move the training plan to next Friday?",
+        "es": "¿Podríamos pasar el plan de capacitación al próximo viernes?",
+        "fr": "Pourrait-on repousser le plan de formation à vendredi prochain ?",
+        "de": "Könnten wir den Schulungsplan auf nächsten Freitag verschieben?",
+        "it": "Potremmo spostare il piano di formazione a venerdì prossimo?",
+        "pl": "Czy moglibyśmy przesunąć plan szkoleń na przyszły piątek?",
+        "pt": "Podemos passar o plano de treinamento para a próxima sexta?",
+        "nl": "Kunnen we het trainingsplan naar volgende week vrijdag verschuiven?",
+        "hr": "Možemo li plan obuke pomaknuti na sljedeći petak?",
+        "tr": "Eğitim planını gelecek cumaya erteleyebilir miyiz?",
+        "uk": "Чи можемо ми перенести план навчання на наступну п'ятницю?",
+        "ar": "هل يمكننا تأجيل خطة التدريب إلى يوم الجمعة القادم؟",
+        "hi": "क्या हम ट्रेनिंग प्लान को अगले शुक्रवार तक बढ़ा सकते हैं?",
+        "vi": "Mình dời kế hoạch đào tạo sang thứ Sáu tuần sau được không?",
+        "id": "Bisakah rencana pelatihannya dimundurkan ke Jumat depan?",
+        "ms": "Boleh kita tangguhkan pelan latihan ke Jumaat depan?",
+        "ko": "교육 계획은 다음 주 금요일로 미뤄도 될까요?"
+      },
+      "practice": "¿Podríamos pasar el plan de capacitación al próximo viernes?",
+      "practice_translations": {
+        "en": "Could we move the training plan to next Friday?",
+        "es": "¿Podríamos pasar el plan de capacitación al próximo viernes?",
+        "ja": "研修計画は来週の金曜日にずらしてもよろしいでしょうか。",
+        "ko": "교육 계획은 다음 주 금요일로 미뤄도 될까요?"
+      }
+    }
+  ]
+}

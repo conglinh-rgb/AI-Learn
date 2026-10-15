@@ -1,0 +1,350 @@
+{
+  "id": "family_understanding_community_resources_c2",
+  "title": "Signing Up at the Community Center",
+  "title_translations": {
+    "en": "Signing Up at the Community Center",
+    "es": "Inscribirse en el centro comunitario",
+    "fr": "Inscription au centre socioculturel",
+    "de": "Anmeldung im Gemeindezentrum",
+    "it": "Iscriversi al centro civico",
+    "pl": "Zapisy w domu kultury",
+    "pt": "Inscrição no centro comunitário",
+    "nl": "Inschrijven bij het buurthuis",
+    "hr": "Upis u društveni centar",
+    "tr": "Toplum Merkezine Kayıt Olmak",
+    "uk": "Запис у громадському центрі",
+    "ar": "التسجيل في المركز المجتمعي",
+    "hi": "कम्युनिटी सेंटर में साइन अप",
+    "vi": "Đăng ký tại trung tâm cộng đồng",
+    "id": "Mendaftar di Pusat Komunitas",
+    "ms": "Mendaftar di Pusat Komuniti",
+    "ko": "주민센터 프로그램 등록하기"
+  },
+  "character": "fox",
+  "scenario": "You visit the local community center, where a staff member (AI) explains the classes and activities for families.",
+  "scenario_translations": {
+    "en": "You visit the local community center, where a staff member (AI) explains the classes and activities for families.",
+    "es": "Visita el centro comunitario local, donde un empleado (AI) le explica las clases y actividades para familias.",
+    "fr": "Vous vous rendez au centre socioculturel du quartier, où un membre du personnel (AI) vous présente les cours et activités pour les familles.",
+    "de": "Sie besuchen das Gemeindezentrum vor Ort, wo eine Mitarbeiterin bzw. ein Mitarbeiter (AI) die Kurse und Aktivitäten für Familien erklärt.",
+    "it": "Visiti il centro civico del quartiere, dove un membro del personale (AI) ti spiega i corsi e le attività per le famiglie.",
+    "pl": "Odwiedzasz lokalny dom kultury, gdzie pracownik (AI) opowiada o zajęciach i aktywnościach dla rodzin.",
+    "pt": "Você visita o centro comunitário do bairro, onde um funcionário (AI) explica as aulas e atividades para famílias.",
+    "nl": "Je gaat langs bij het buurthuis, waar een medewerker (AI) de cursussen en activiteiten voor gezinnen uitlegt.",
+    "hr": "Posjećuješ lokalni društveni centar, gdje ti djelatnik (AI) objašnjava tečajeve i aktivnosti za obitelji.",
+    "tr": "Yerel toplum merkezini ziyaret ediyorsunuz. Bir görevli (AI) aileler için kursları ve etkinlikleri anlatıyor.",
+    "uk": "Ти приходиш до місцевого громадського центру, де працівник (AI) розповідає про заняття й заходи для сімей.",
+    "ar": "تزور المركز المجتمعي المحلي، حيث يشرح لك أحد الموظفين (AI) الدروس والأنشطة المتاحة للعائلات.",
+    "hi": "आप अपने इलाक़े के कम्युनिटी सेंटर जाते हैं, जहाँ एक स्टाफ़ सदस्य (AI) परिवारों के लिए क्लास और गतिविधियों के बारे में बताते हैं।",
+    "vi": "Bạn đến trung tâm cộng đồng ở địa phương, nơi một nhân viên (AI) giới thiệu các lớp học và hoạt động dành cho gia đình.",
+    "id": "Kamu mengunjungi pusat komunitas setempat, dan seorang staf (AI) menjelaskan kelas dan kegiatan untuk keluarga.",
+    "ms": "Anda melawat pusat komuniti setempat, di mana seorang kakitangan (AI) menerangkan kelas dan aktiviti untuk keluarga.",
+    "ko": "동네 주민센터를 방문하자 직원(AI)이 가족을 위한 강좌와 활동을 설명해 줍니다."
+  },
+  "mission": {
+    "native": "Find a class that fits your schedule and sign up for it.",
+    "native_translations": {
+      "en": "Find a class that fits your schedule and sign up for it.",
+      "es": "Encuentre una clase que se ajuste a su horario e inscríbase.",
+      "fr": "Trouvez un cours adapté à votre emploi du temps et inscrivez-vous.",
+      "de": "Finden Sie einen Kurs, der in Ihren Zeitplan passt, und melden Sie sich an.",
+      "it": "Trova un corso adatto ai tuoi orari e iscriviti.",
+      "pl": "Znajdź zajęcia, które pasują do twojego planu dnia, i zapisz się na nie.",
+      "pt": "Encontre uma aula que se encaixe na sua agenda e faça a inscrição.",
+      "nl": "Vind een cursus die in je planning past en schrijf je in.",
+      "hr": "Pronađi tečaj koji ti odgovara po rasporedu i upiši se.",
+      "tr": "Programınıza uyan bir kurs bulun ve kaydolun.",
+      "uk": "Знайди заняття, яке вписується у твій розклад, і запишися на нього.",
+      "ar": "اعثر على دورة تناسب جدولك وسجّل فيها.",
+      "hi": "अपने शेड्यूल के हिसाब से कोई क्लास ढूँढिए और उसमें साइन अप कीजिए।",
+      "vi": "Tìm một lớp học phù hợp với lịch của bạn và đăng ký.",
+      "id": "Temukan kelas yang cocok dengan jadwalmu dan daftarlah.",
+      "ms": "Cari kelas yang sesuai dengan jadual anda dan daftar untuknya.",
+      "ko": "일정에 맞는 강좌를 찾아서 등록하세요."
+    },
+    "practice": "Encuentre una clase que se ajuste a su horario e inscríbase.",
+    "practice_translations": {
+      "en": "Find a class that fits your schedule and sign up for it.",
+      "es": "Encuentre una clase que se ajuste a su horario e inscríbase.",
+      "ja": "自分の予定に合う講座を見つけて申し込んでください。",
+      "ko": "일정에 맞는 강좌를 찾아서 등록하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what classes are available",
+        "native_translations": {
+          "en": "Ask what classes are available",
+          "es": "Pregunte qué clases hay disponibles",
+          "fr": "Demandez quels cours sont proposés",
+          "de": "Fragen Sie, welche Kurse es gibt",
+          "it": "Chiedi quali corsi sono disponibili",
+          "pl": "Zapytaj, jakie zajęcia są dostępne",
+          "pt": "Pergunte quais aulas estão disponíveis",
+          "nl": "Vraag welke cursussen er zijn",
+          "hr": "Pitaj koji su tečajevi dostupni",
+          "tr": "Hangi kursların olduğunu sorun",
+          "uk": "Запитай, які є заняття",
+          "ar": "اسأل عن الدورات المتاحة",
+          "hi": "पूछिए कि कौन-सी क्लास उपलब्ध हैं",
+          "vi": "Hỏi hiện có những lớp nào",
+          "id": "Tanyakan kelas apa saja yang tersedia",
+          "ms": "Tanya kelas apa yang ada",
+          "ko": "어떤 강좌가 있는지 물어보세요"
+        },
+        "practice": "Pregunte qué clases hay disponibles",
+        "practice_translations": {
+          "en": "Ask what classes are available",
+          "es": "Pregunte qué clases hay disponibles",
+          "ja": "どんな講座があるか聞いてください",
+          "ko": "어떤 강좌가 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say which days and times work for you",
+        "native_translations": {
+          "en": "Say which days and times work for you",
+          "es": "Diga qué días y horarios le convienen",
+          "fr": "Dites quels jours et horaires vous conviennent",
+          "de": "Sagen Sie, welche Tage und Uhrzeiten Ihnen passen",
+          "it": "Di' quali giorni e orari ti vanno bene",
+          "pl": "Powiedz, jakie dni i godziny ci pasują",
+          "pt": "Diga quais dias e horários funcionam para você",
+          "nl": "Zeg welke dagen en tijden je uitkomen",
+          "hr": "Reci koji ti dani i termini odgovaraju",
+          "tr": "Hangi gün ve saatlerin size uygun olduğunu söyleyin",
+          "uk": "Скажи, які дні та години тобі підходять",
+          "ar": "قل ما الأيام والأوقات المناسبة لك",
+          "hi": "बताइए कि आपके लिए कौन-से दिन और समय ठीक हैं",
+          "vi": "Nói ngày và giờ nào phù hợp với bạn",
+          "id": "Sebutkan hari dan jam yang cocok untukmu",
+          "ms": "Katakan hari dan masa yang sesuai untuk anda",
+          "ko": "가능한 요일과 시간을 말하세요"
+        },
+        "practice": "Diga qué días y horarios le convienen",
+        "practice_translations": {
+          "en": "Say which days and times work for you",
+          "es": "Diga qué días y horarios le convienen",
+          "ja": "都合のいい曜日と時間を伝えてください",
+          "ko": "가능한 요일과 시간을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask if there is a cost or a waiting list",
+        "native_translations": {
+          "en": "Ask if there is a cost or a waiting list",
+          "es": "Pregunte si tiene costo o si hay lista de espera",
+          "fr": "Demandez s'il y a des frais ou une liste d'attente",
+          "de": "Fragen Sie nach Kosten oder einer Warteliste",
+          "it": "Chiedi se c'è un costo o una lista d'attesa",
+          "pl": "Zapytaj, czy są płatne albo czy jest lista oczekujących",
+          "pt": "Pergunte se há alguma taxa ou lista de espera",
+          "nl": "Vraag of er kosten of een wachtlijst zijn",
+          "hr": "Pitaj naplaćuje li se i postoji li lista čekanja",
+          "tr": "Ücret veya bekleme listesi olup olmadığını sorun",
+          "uk": "Запитай, чи це платно і чи є черга",
+          "ar": "اسأل إن كانت هناك رسوم أو قائمة انتظار",
+          "hi": "पूछिए कि क्या कोई फ़ीस या वेटिंग लिस्ट है",
+          "vi": "Hỏi có mất phí hay phải chờ danh sách không",
+          "id": "Tanyakan apakah ada biaya atau daftar tunggu",
+          "ms": "Tanya sama ada ada bayaran atau senarai menunggu",
+          "ko": "비용이나 대기자 명단이 있는지 물어보세요"
+        },
+        "practice": "Pregunte si tiene costo o si hay lista de espera",
+        "practice_translations": {
+          "en": "Ask if there is a cost or a waiting list",
+          "es": "Pregunte si tiene costo o si hay lista de espera",
+          "ja": "費用やキャンセル待ちがあるか聞いてください",
+          "ko": "비용이나 대기자 명단이 있는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Sign up for one class",
+        "native_translations": {
+          "en": "Sign up for one class",
+          "es": "Inscríbase en una clase",
+          "fr": "Inscrivez-vous à un cours",
+          "de": "Melden Sie sich für einen Kurs an",
+          "it": "Iscriviti a un corso",
+          "pl": "Zapisz się na jedne zajęcia",
+          "pt": "Inscreva-se em uma aula",
+          "nl": "Schrijf je in voor één cursus",
+          "hr": "Upiši se na jedan tečaj",
+          "tr": "Bir kursa kaydolun",
+          "uk": "Запишися на одне заняття",
+          "ar": "سجّل في دورة واحدة",
+          "hi": "किसी एक क्लास में साइन अप कीजिए",
+          "vi": "Đăng ký một lớp học",
+          "id": "Daftar ke satu kelas",
+          "ms": "Daftar untuk satu kelas",
+          "ko": "강좌 하나에 등록하세요"
+        },
+        "practice": "Inscríbase en una clase",
+        "practice_translations": {
+          "en": "Sign up for one class",
+          "es": "Inscríbase en una clase",
+          "ja": "講座を一つ申し込んでください",
+          "ko": "강좌 하나에 등록하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "What kinds of classes do you offer here?",
+      "native_translations": {
+        "en": "What kinds of classes do you offer here?",
+        "es": "¿Qué tipo de clases ofrecen aquí?",
+        "fr": "Quels types de cours proposez-vous ici ?",
+        "de": "Welche Kurse bieten Sie hier an?",
+        "it": "Che tipo di corsi offrite qui?",
+        "pl": "Jakie zajęcia tu prowadzicie?",
+        "pt": "Que tipos de aula vocês oferecem aqui?",
+        "nl": "Wat voor cursussen bieden jullie hier aan?",
+        "hr": "Kakve tečajeve ovdje nudite?",
+        "tr": "Burada ne tür kurslar veriyorsunuz?",
+        "uk": "Які заняття у вас тут є?",
+        "ar": "ما أنواع الدورات التي تقدمونها هنا؟",
+        "hi": "आपके यहाँ किस तरह की क्लास होती हैं?",
+        "vi": "Ở đây có những loại lớp học nào vậy?",
+        "id": "Kelas apa saja yang ada di sini?",
+        "ms": "Apakah jenis kelas yang ditawarkan di sini?",
+        "ko": "여기에는 어떤 강좌들이 있어요?"
+      },
+      "practice": "¿Qué tipo de clases ofrecen aquí?",
+      "practice_translations": {
+        "en": "What kinds of classes do you offer here?",
+        "es": "¿Qué tipo de clases ofrecen aquí?",
+        "ja": "こちらではどんな講座がありますか。",
+        "ko": "여기에는 어떤 강좌들이 있어요?"
+      }
+    },
+    {
+      "native": "I'm only free on weekday evenings.",
+      "native_translations": {
+        "en": "I'm only free on weekday evenings.",
+        "es": "Solo tengo tiempo entre semana por las tardes.",
+        "fr": "Je ne suis disponible qu'en soirée en semaine.",
+        "de": "Ich habe nur unter der Woche abends Zeit.",
+        "it": "Sono libero solo la sera nei giorni feriali.",
+        "pl": "Mam czas tylko w dni powszednie wieczorem.",
+        "pt": "Só tenho tempo livre à noite, durante a semana.",
+        "nl": "Ik kan alleen doordeweeks 's avonds.",
+        "hr": "Vremena imam samo radnim danom navečer.",
+        "tr": "Sadece hafta içi akşamları müsaitim.",
+        "uk": "Я вільний лише в будні ввечері.",
+        "ar": "أنا متفرغ فقط في أمسيات أيام الأسبوع.",
+        "hi": "मैं सिर्फ़ हफ़्ते के दिनों में शाम को ख़ाली रहता हूँ।",
+        "vi": "Tôi chỉ rảnh vào buổi tối các ngày trong tuần.",
+        "id": "Saya hanya bisa di malam hari kerja.",
+        "ms": "Saya hanya lapang pada waktu petang hari bekerja.",
+        "ko": "저는 평일 저녁에만 시간이 돼요."
+      },
+      "practice": "Solo tengo tiempo entre semana por las tardes.",
+      "practice_translations": {
+        "en": "I'm only free on weekday evenings.",
+        "es": "Solo tengo tiempo entre semana por las tardes.",
+        "ja": "平日の夜しか空いていないんです。",
+        "ko": "저는 평일 저녁에만 시간이 돼요."
+      }
+    },
+    {
+      "native": "Is it free, or is there a fee?",
+      "native_translations": {
+        "en": "Is it free, or is there a fee?",
+        "es": "¿Es gratis o hay que pagar?",
+        "fr": "C'est gratuit, ou il y a des frais ?",
+        "de": "Ist das kostenlos, oder gibt es eine Gebühr?",
+        "it": "È gratuito o c'è una quota?",
+        "pl": "Czy to jest bezpłatne, czy trzeba płacić?",
+        "pt": "É gratuito ou tem alguma taxa?",
+        "nl": "Is het gratis of moet ik betalen?",
+        "hr": "Je li besplatno ili se plaća?",
+        "tr": "Ücretsiz mi, yoksa bir ücreti var mı?",
+        "uk": "Це безкоштовно чи платно?",
+        "ar": "هل هي مجانية أم هناك رسوم؟",
+        "hi": "क्या यह मुफ़्त है, या कोई फ़ीस है?",
+        "vi": "Lớp này miễn phí hay có tính phí?",
+        "id": "Apakah gratis, atau ada biayanya?",
+        "ms": "Adakah ia percuma, atau ada bayaran?",
+        "ko": "무료인가요, 아니면 수강료가 있나요?"
+      },
+      "practice": "¿Es gratis o hay que pagar?",
+      "practice_translations": {
+        "en": "Is it free, or is there a fee?",
+        "es": "¿Es gratis o hay que pagar?",
+        "ja": "無料ですか、それとも費用がかかりますか。",
+        "ko": "무료인가요, 아니면 수강료가 있나요?"
+      }
+    },
+    {
+      "native": "Is there a waiting list?",
+      "native_translations": {
+        "en": "Is there a waiting list?",
+        "es": "¿Hay lista de espera?",
+        "fr": "Y a-t-il une liste d'attente ?",
+        "de": "Gibt es eine Warteliste?",
+        "it": "C'è una lista d'attesa?",
+        "pl": "Czy jest lista oczekujących?",
+        "pt": "Tem lista de espera?",
+        "nl": "Is er een wachtlijst?",
+        "hr": "Postoji li lista čekanja?",
+        "tr": "Bekleme listesi var mı?",
+        "uk": "Чи є лист очікування?",
+        "ar": "هل هناك قائمة انتظار؟",
+        "hi": "क्या कोई वेटिंग लिस्ट है?",
+        "vi": "Có phải xếp vào danh sách chờ không?",
+        "id": "Apakah ada daftar tunggu?",
+        "ms": "Adakah ada senarai menunggu?",
+        "ko": "대기자 명단이 있나요?"
+      },
+      "practice": "¿Hay lista de espera?",
+      "practice_translations": {
+        "en": "Is there a waiting list?",
+        "es": "¿Hay lista de espera?",
+        "ja": "キャンセル待ちはありますか。",
+        "ko": "대기자 명단이 있나요?"
+      }
+    },
+    {
+      "native": "Great, I'd like to sign up for the cooking class.",
+      "native_translations": {
+        "en": "Great, I'd like to sign up for the cooking class.",
+        "es": "Perfecto, quisiera inscribirme en la clase de cocina.",
+        "fr": "Super, j'aimerais m'inscrire au cours de cuisine.",
+        "de": "Super, ich möchte mich für den Kochkurs anmelden.",
+        "it": "Perfetto, vorrei iscrivermi al corso di cucina.",
+        "pl": "Świetnie, chciałbym się zapisać na kurs gotowania.",
+        "pt": "Ótimo, eu gostaria de me inscrever na aula de culinária.",
+        "nl": "Top, ik wil me graag inschrijven voor de kookcursus.",
+        "hr": "Super, želim se upisati na tečaj kuhanja.",
+        "tr": "Harika, yemek kursuna kaydolmak istiyorum.",
+        "uk": "Чудово, я хотів би записатися на кулінарні курси.",
+        "ar": "رائع، أود التسجيل في دورة الطبخ.",
+        "hi": "बढ़िया, मैं कुकिंग क्लास में साइन अप करना चाहता हूँ।",
+        "vi": "Tuyệt quá, tôi muốn đăng ký lớp nấu ăn.",
+        "id": "Bagus, saya mau mendaftar kelas memasak.",
+        "ms": "Bagus, saya ingin mendaftar untuk kelas memasak.",
+        "ko": "좋아요, 요리 강좌에 등록하고 싶어요."
+      },
+      "practice": "Perfecto, quisiera inscribirme en la clase de cocina.",
+      "practice_translations": {
+        "en": "Great, I'd like to sign up for the cooking class.",
+        "es": "Perfecto, quisiera inscribirme en la clase de cocina.",
+        "ja": "よかった、料理教室に申し込みたいです。",
+        "ko": "좋아요, 요리 강좌에 등록하고 싶어요."
+      }
+    }
+  ]
+}

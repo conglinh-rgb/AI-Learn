@@ -1,0 +1,289 @@
+{
+  "id": "travel_pre_trip_prep_booking_c1",
+  "title": "Booking a Weekend Getaway",
+  "title_translations": {
+    "en": "Booking a Weekend Getaway",
+    "es": "Reservar una escapada de fin de semana",
+    "fr": "Réserver une escapade le week-end",
+    "de": "Einen Wochenendtrip buchen",
+    "it": "Prenotare un weekend fuori porta",
+    "pl": "Rezerwacja weekendowego wypadu",
+    "pt": "Reservando uma escapada de fim de semana",
+    "nl": "Een weekendje weg boeken",
+    "hr": "Rezervacija vikend-bijega",
+    "tr": "Hafta Sonu Kaçamağı Ayarlamak",
+    "uk": "Бронювання поїздки на вихідні",
+    "ar": "حجز عطلة نهاية أسبوع",
+    "hi": "वीकेंड ट्रिप की बुकिंग",
+    "vi": "Đặt chuyến đi chơi cuối tuần",
+    "id": "Memesan Liburan Akhir Pekan",
+    "ms": "Menempah Percutian Hujung Minggu",
+    "ko": "주말여행 예약하기"
+  },
+  "character": "fox",
+  "scenario": "You call a travel agency to plan a short weekend trip. The travel agent (AI) answers the phone.",
+  "scenario_translations": {
+    "en": "You call a travel agency to plan a short weekend trip. The travel agent (AI) answers the phone.",
+    "es": "Llama a una agencia de viajes para planear un viaje corto de fin de semana. El agente de viajes (AI) contesta el teléfono.",
+    "fr": "Vous appelez une agence de voyages pour organiser un court séjour le week-end. L'agent de voyages (AI) décroche.",
+    "de": "Sie rufen in einem Reisebüro an, um einen kurzen Wochenendausflug zu planen. Die Reiseberaterin (AI) nimmt den Anruf entgegen.",
+    "it": "Chiami un'agenzia di viaggi per organizzare un breve viaggio nel fine settimana. L'agente di viaggio (AI) risponde al telefono.",
+    "pl": "Dzwonisz do biura podróży, żeby zaplanować krótki weekendowy wyjazd. Telefon odbiera agentka (AI).",
+    "pt": "Você liga para uma agência de viagens para planejar uma viagem curta no fim de semana. O agente de viagens (AI) atende o telefone.",
+    "nl": "Je belt een reisbureau om een kort weekendtripje te plannen. De reisagent (AI) neemt op.",
+    "hr": "Zoveš turističku agenciju kako bi isplanirao kratko putovanje za vikend. Javlja se turistički agent (AI).",
+    "tr": "Kısa bir hafta sonu gezisi planlamak için bir seyahat acentesini arıyorsunuz. Seyahat acentesi görevlisi (AI) telefonu açıyor.",
+    "uk": "Ти телефонуєш у туристичну агенцію, щоб спланувати коротку поїздку на вихідні. Слухавку бере турагент (AI).",
+    "ar": "تتصل بوكالة سفر للتخطيط لرحلة قصيرة في عطلة نهاية الأسبوع. يرد وكيل السفر (AI) على الهاتف.",
+    "hi": "आप एक छोटी वीकेंड ट्रिप की योजना बनाने के लिए एक ट्रैवल एजेंसी को फ़ोन करते हैं। ट्रैवल एजेंट (AI) फ़ोन उठाते हैं।",
+    "vi": "Bạn gọi đến một công ty du lịch để lên kế hoạch cho chuyến đi ngắn cuối tuần. Nhân viên tư vấn du lịch (AI) nghe máy.",
+    "id": "Kamu menelepon agen perjalanan untuk merencanakan liburan singkat akhir pekan. Agen perjalanan (AI) mengangkat telepon.",
+    "ms": "Anda menelefon agensi pelancongan untuk merancang perjalanan hujung minggu yang singkat. Ejen pelancongan (AI) menjawab telefon.",
+    "ko": "짧은 주말여행을 계획하려고 여행사에 전화합니다. 여행사 직원(AI)이 전화를 받습니다."
+  },
+  "mission": {
+    "native": "Tell the agent where and when you want to go, and ask about the price.",
+    "native_translations": {
+      "en": "Tell the agent where and when you want to go, and ask about the price.",
+      "es": "Dígale al agente adónde y cuándo quiere ir, y pregunte por el precio.",
+      "fr": "Dites à l'agent où et quand vous voulez partir, et renseignez-vous sur le prix.",
+      "de": "Sagen Sie der Reiseberaterin, wohin und wann Sie reisen möchten, und fragen Sie nach dem Preis.",
+      "it": "Di' all'agente dove e quando vuoi andare e chiedi il prezzo.",
+      "pl": "Powiedz agentce, dokąd i kiedy chcesz jechać, i zapytaj o cenę.",
+      "pt": "Diga ao agente para onde e quando você quer ir e pergunte o preço.",
+      "nl": "Vertel de reisagent waar en wanneer je heen wilt, en vraag naar de prijs.",
+      "hr": "Reci agentu kamo i kada želiš putovati i pitaj za cijenu.",
+      "tr": "Görevliye nereye ve ne zaman gitmek istediğinizi söyleyin ve fiyatı sorun.",
+      "uk": "Скажи агентові, куди й коли хочеш поїхати, і запитай про ціну.",
+      "ar": "أخبر الوكيل إلى أين ومتى تريد الذهاب، واسأل عن السعر.",
+      "hi": "एजेंट को बताइए कि आप कहाँ और कब जाना चाहते हैं, और क़ीमत के बारे में पूछिए।",
+      "vi": "Cho nhân viên biết bạn muốn đi đâu, khi nào và hỏi giá.",
+      "id": "Beri tahu agen ke mana dan kapan kamu ingin pergi, lalu tanyakan harganya.",
+      "ms": "Beritahu ejen ke mana dan bila anda mahu pergi, dan tanya tentang harga.",
+      "ko": "어디로, 언제 가고 싶은지 직원에게 말하고 가격을 물어보세요."
+    },
+    "practice": "Dígale al agente adónde y cuándo quiere ir, y pregunte por el precio.",
+    "practice_translations": {
+      "en": "Tell the agent where and when you want to go, and ask about the price.",
+      "es": "Dígale al agente adónde y cuándo quiere ir, y pregunte por el precio.",
+      "ja": "旅行会社の担当者に行き先と日程を伝えて、料金を聞いてください。",
+      "ko": "어디로, 언제 가고 싶은지 직원에게 말하고 가격을 물어보세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Say where you want to travel",
+        "native_translations": {
+          "en": "Say where you want to travel",
+          "es": "Diga adónde quiere viajar",
+          "fr": "Dites où vous voulez aller",
+          "de": "Sagen Sie, wohin Sie reisen möchten",
+          "it": "Di' dove vuoi andare",
+          "pl": "Powiedz, dokąd chcesz pojechać",
+          "pt": "Diga para onde você quer viajar",
+          "nl": "Zeg waar je naartoe wilt reizen",
+          "hr": "Reci kamo želiš putovati",
+          "tr": "Nereye seyahat etmek istediğinizi söyleyin",
+          "uk": "Скажи, куди хочеш поїхати",
+          "ar": "قل إلى أين تريد السفر",
+          "hi": "बताइए कि आप कहाँ घूमने जाना चाहते हैं",
+          "vi": "Nói nơi bạn muốn đến",
+          "id": "Sebutkan ke mana kamu ingin bepergian",
+          "ms": "Katakan ke mana anda mahu melancong",
+          "ko": "가고 싶은 여행지를 말하세요"
+        },
+        "practice": "Diga adónde quiere viajar",
+        "practice_translations": {
+          "en": "Say where you want to travel",
+          "es": "Diga adónde quiere viajar",
+          "ja": "どこに旅行したいか伝えてください",
+          "ko": "가고 싶은 여행지를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say your travel dates",
+        "native_translations": {
+          "en": "Say your travel dates",
+          "es": "Diga las fechas de su viaje",
+          "fr": "Donnez vos dates de voyage",
+          "de": "Nennen Sie Ihre Reisedaten",
+          "it": "Di' le date del viaggio",
+          "pl": "Podaj daty podróży",
+          "pt": "Diga as datas da viagem",
+          "nl": "Noem je reisdata",
+          "hr": "Reci datume putovanja",
+          "tr": "Seyahat tarihlerinizi söyleyin",
+          "uk": "Назви дати поїздки",
+          "ar": "قل مواعيد سفرك",
+          "hi": "अपनी यात्रा की तारीख़ें बताइए",
+          "vi": "Nói ngày đi của bạn",
+          "id": "Sebutkan tanggal perjalananmu",
+          "ms": "Beritahu tarikh perjalanan anda",
+          "ko": "여행 날짜를 말하세요"
+        },
+        "practice": "Diga las fechas de su viaje",
+        "practice_translations": {
+          "en": "Say your travel dates",
+          "es": "Diga las fechas de su viaje",
+          "ja": "旅行の日程を伝えてください",
+          "ko": "여행 날짜를 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask how much the trip costs",
+        "native_translations": {
+          "en": "Ask how much the trip costs",
+          "es": "Pregunte cuánto cuesta el viaje",
+          "fr": "Demandez combien coûte le voyage",
+          "de": "Fragen Sie, wie viel die Reise kostet",
+          "it": "Chiedi quanto costa il viaggio",
+          "pl": "Zapytaj, ile kosztuje wyjazd",
+          "pt": "Pergunte quanto custa a viagem",
+          "nl": "Vraag hoeveel de reis kost",
+          "hr": "Pitaj koliko košta putovanje",
+          "tr": "Gezinin ne kadar tuttuğunu sorun",
+          "uk": "Запитай, скільки коштує поїздка",
+          "ar": "اسأل كم تكلّف الرحلة",
+          "hi": "पूछिए कि ट्रिप का ख़र्च कितना होगा",
+          "vi": "Hỏi chuyến đi giá bao nhiêu",
+          "id": "Tanyakan biaya perjalanannya",
+          "ms": "Tanya berapa kos perjalanan itu",
+          "ko": "여행 비용이 얼마인지 물어보세요"
+        },
+        "practice": "Pregunte cuánto cuesta el viaje",
+        "practice_translations": {
+          "en": "Ask how much the trip costs",
+          "es": "Pregunte cuánto cuesta el viaje",
+          "ja": "旅行の費用を聞いてください",
+          "ko": "여행 비용이 얼마인지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd like to book a trip to the coast.",
+      "native_translations": {
+        "en": "I'd like to book a trip to the coast.",
+        "es": "Quisiera reservar un viaje a la costa.",
+        "fr": "J'aimerais réserver un séjour sur la côte.",
+        "de": "Ich möchte eine Reise an die Küste buchen.",
+        "it": "Vorrei prenotare un viaggio al mare.",
+        "pl": "Chciałbym zarezerwować wyjazd nad morze.",
+        "pt": "Gostaria de reservar uma viagem para o litoral.",
+        "nl": "Ik wil graag een reis naar de kust boeken.",
+        "hr": "Htio bih rezervirati putovanje na obalu.",
+        "tr": "Sahile bir gezi ayarlamak istiyorum.",
+        "uk": "Я хотів би забронювати поїздку на узбережжя.",
+        "ar": "أودّ حجز رحلة إلى الساحل.",
+        "hi": "मैं समुद्र किनारे की एक ट्रिप बुक करना चाहता हूँ।",
+        "vi": "Tôi muốn đặt một chuyến đi biển.",
+        "id": "Saya ingin memesan perjalanan ke pantai.",
+        "ms": "Saya ingin menempah perjalanan ke pantai.",
+        "ko": "바닷가로 가는 여행을 예약하고 싶어요."
+      },
+      "practice": "Quisiera reservar un viaje a la costa.",
+      "practice_translations": {
+        "en": "I'd like to book a trip to the coast.",
+        "es": "Quisiera reservar un viaje a la costa.",
+        "ja": "海辺への旅行を予約したいのですが。",
+        "ko": "바닷가로 가는 여행을 예약하고 싶어요."
+      }
+    },
+    {
+      "native": "We want to leave on Friday and come back on Sunday.",
+      "native_translations": {
+        "en": "We want to leave on Friday and come back on Sunday.",
+        "es": "Queremos salir el viernes y volver el domingo.",
+        "fr": "Nous voulons partir vendredi et revenir dimanche.",
+        "de": "Wir möchten am Freitag los und am Sonntag zurück.",
+        "it": "Vogliamo partire venerdì e tornare domenica.",
+        "pl": "Chcemy wyjechać w piątek i wrócić w niedzielę.",
+        "pt": "Queremos ir na sexta e voltar no domingo.",
+        "nl": "We willen vrijdag vertrekken en zondag terugkomen.",
+        "hr": "Željeli bismo otići u petak i vratiti se u nedjelju.",
+        "tr": "Cuma günü gidip pazar günü dönmek istiyoruz.",
+        "uk": "Ми хочемо виїхати в п'ятницю й повернутися в неділю.",
+        "ar": "نريد المغادرة يوم الجمعة والعودة يوم الأحد.",
+        "hi": "हम शुक्रवार को निकलकर रविवार को वापस आना चाहते हैं।",
+        "vi": "Chúng tôi muốn đi vào thứ Sáu và về vào Chủ nhật.",
+        "id": "Kami ingin berangkat hari Jumat dan pulang hari Minggu.",
+        "ms": "Kami mahu bertolak pada hari Jumaat dan pulang pada hari Ahad.",
+        "ko": "금요일에 출발해서 일요일에 돌아오고 싶어요."
+      },
+      "practice": "Queremos salir el viernes y volver el domingo.",
+      "practice_translations": {
+        "en": "We want to leave on Friday and come back on Sunday.",
+        "es": "Queremos salir el viernes y volver el domingo.",
+        "ja": "金曜日に出発して、日曜日に帰りたいです。",
+        "ko": "금요일에 출발해서 일요일에 돌아오고 싶어요."
+      }
+    },
+    {
+      "native": "How much would that be in total?",
+      "native_translations": {
+        "en": "How much would that be in total?",
+        "es": "¿Cuánto sería en total?",
+        "fr": "Combien cela coûterait-il au total ?",
+        "de": "Wie viel würde das insgesamt kosten?",
+        "it": "Quanto verrebbe in totale?",
+        "pl": "Ile by to wyniosło w sumie?",
+        "pt": "Quanto ficaria no total?",
+        "nl": "Hoeveel zou dat in totaal zijn?",
+        "hr": "Koliko bi to ukupno koštalo?",
+        "tr": "Toplamda ne kadar tutar?",
+        "uk": "Скільки це коштуватиме загалом?",
+        "ar": "كم سيكون المبلغ الإجمالي؟",
+        "hi": "कुल मिलाकर कितना ख़र्च होगा?",
+        "vi": "Tổng cộng hết bao nhiêu tiền ạ?",
+        "id": "Totalnya jadi berapa?",
+        "ms": "Berapa jumlah keseluruhannya?",
+        "ko": "전부 해서 얼마예요?"
+      },
+      "practice": "¿Cuánto sería en total?",
+      "practice_translations": {
+        "en": "How much would that be in total?",
+        "es": "¿Cuánto sería en total?",
+        "ja": "全部でおいくらになりますか。",
+        "ko": "전부 해서 얼마예요?"
+      }
+    },
+    {
+      "native": "Is the hotel included?",
+      "native_translations": {
+        "en": "Is the hotel included?",
+        "es": "¿El hotel está incluido?",
+        "fr": "L'hôtel est-il compris ?",
+        "de": "Ist das Hotel inbegriffen?",
+        "it": "L'hotel è incluso?",
+        "pl": "Czy hotel jest wliczony?",
+        "pt": "O hotel está incluído?",
+        "nl": "Is het hotel inbegrepen?",
+        "hr": "Je li hotel uključen?",
+        "tr": "Otel dahil mi?",
+        "uk": "Готель входить у вартість?",
+        "ar": "هل الفندق مشمول؟",
+        "hi": "क्या होटल शामिल है?",
+        "vi": "Có bao gồm khách sạn không?",
+        "id": "Apakah sudah termasuk hotel?",
+        "ms": "Adakah hotel disertakan?",
+        "ko": "호텔도 포함되어 있나요?"
+      },
+      "practice": "¿El hotel está incluido?",
+      "practice_translations": {
+        "en": "Is the hotel included?",
+        "es": "¿El hotel está incluido?",
+        "ja": "ホテル代も含まれていますか。",
+        "ko": "호텔도 포함되어 있나요?"
+      }
+    }
+  ]
+}

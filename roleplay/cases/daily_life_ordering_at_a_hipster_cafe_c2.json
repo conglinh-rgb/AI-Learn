@@ -1,0 +1,321 @@
+{
+  "id": "daily_life_ordering_at_a_hipster_cafe_c2",
+  "title": "The Moonlight Forest Dream Mystery",
+  "title_translations": {
+    "en": "The Moonlight Forest Dream Mystery",
+    "es": "El misterio del \"Sueño del Bosque a la Luz de la Luna\"",
+    "fr": "Le mystère du Rêve de forêt au clair de lune",
+    "de": "Das Rätsel um den „Mondschein-Waldtraum“",
+    "it": "Il mistero del Sogno nella foresta al chiaro di luna",
+    "pl": "Zagadka „Snu w księżycowym lesie”",
+    "pt": "O mistério do Sonho da Floresta ao Luar",
+    "nl": "Het mysterie van de Maanlicht Bosdroom",
+    "hr": "Misterij „Snova mjesečeve šume”",
+    "tr": "Ay Işığı Orman Rüyası Gizemi",
+    "uk": "Загадка «Мрії місячного лісу»",
+    "ar": "لغز «حلم غابة ضوء القمر»",
+    "hi": "मूनलाइट फ़ॉरेस्ट ड्रीम का रहस्य",
+    "vi": "Bí ẩn \"Giấc mơ rừng trăng\"",
+    "id": "Misteri Moonlight Forest Dream",
+    "ms": "Misteri Moonlight Forest Dream",
+    "ko": "문라이트 포레스트 드림의 미스터리"
+  },
+  "character": "fox",
+  "scenario": "Every drink on the menu has a strange name like \"Moonlight Forest Dream,\" and the barista (AI) expects you to know what they are.",
+  "scenario_translations": {
+    "en": "Every drink on the menu has a strange name like \"Moonlight Forest Dream,\" and the barista (AI) expects you to know what they are.",
+    "es": "Todas las bebidas del menú tienen nombres extraños como \"Sueño del Bosque a la Luz de la Luna\", y el barista (AI) espera que usted sepa qué son.",
+    "fr": "Toutes les boissons de la carte ont des noms bizarres comme « Rêve de forêt au clair de lune », et le barista (AI) s'attend à ce que vous sachiez ce que c'est.",
+    "de": "Jedes Getränk auf der Karte hat einen seltsamen Namen wie „Mondschein-Waldtraum“, und die Barista bzw. der Barista (AI) erwartet, dass Sie wissen, was das ist.",
+    "it": "Ogni bevanda del menu ha un nome strano come \"Sogno nella foresta al chiaro di luna\", e il barista (AI) si aspetta che tu sappia cosa sono.",
+    "pl": "Każdy napój w menu ma dziwną nazwę w stylu „Sen w księżycowym lesie”, a barista (AI) oczekuje, że wiesz, co to jest.",
+    "pt": "Todas as bebidas do cardápio têm nomes estranhos como \"Sonho da Floresta ao Luar\", e o barista (AI) espera que você saiba o que são.",
+    "nl": "Elk drankje op de kaart heeft een vreemde naam zoals 'Maanlicht Bosdroom', en de barista (AI) verwacht dat je weet wat het is.",
+    "hr": "Svako piće na jelovniku ima čudan naziv poput „San mjesečeve šume”, a barista (AI) očekuje da znaš što je što.",
+    "tr": "Menüdeki her içeceğin \"Ay Işığı Orman Rüyası\" gibi tuhaf bir adı var ve barista (AI) bunların ne olduğunu bilmenizi bekliyor.",
+    "uk": "Кожен напій у меню має дивну назву на кшталт «Мрія місячного лісу», а бариста (AI) чекає, що ти знаєш, що це таке.",
+    "ar": "كل مشروب في القائمة له اسم غريب مثل «حلم غابة ضوء القمر»، والباريستا (AI) يتوقع أن تعرف ما هي.",
+    "hi": "मेन्यू में हर ड्रिंक का नाम अजीब है, जैसे \"मूनलाइट फ़ॉरेस्ट ड्रीम\", और बरिस्ता (AI) मानकर चलता है कि आपको पता है वे क्या हैं।",
+    "vi": "Mọi đồ uống trong thực đơn đều có tên kỳ lạ như \"Giấc mơ rừng trăng\", và nhân viên pha chế (AI) nghĩ rằng bạn phải biết chúng là gì.",
+    "id": "Setiap minuman di menu punya nama aneh seperti \"Moonlight Forest Dream\", dan barista (AI) mengira kamu tahu semuanya.",
+    "ms": "Setiap minuman dalam menu mempunyai nama pelik seperti \"Moonlight Forest Dream\", dan barista (AI) menyangka anda tahu apa semuanya.",
+    "ko": "메뉴에 있는 음료마다 \"문라이트 포레스트 드림\" 같은 이상한 이름이 붙어 있는데, 바리스타(AI)는 당신이 다 알 거라고 생각해요."
+  },
+  "mission": {
+    "native": "Find out what is in a drink and order one that fits your taste.",
+    "native_translations": {
+      "en": "Find out what is in a drink and order one that fits your taste.",
+      "es": "Averigüe qué lleva una bebida y pida una que vaya con su gusto.",
+      "fr": "Découvrez ce que contient une boisson et commandez-en une qui vous plaît.",
+      "de": "Finden Sie heraus, was in einem Getränk ist, und bestellen Sie eines, das Ihrem Geschmack entspricht.",
+      "it": "Scopri cosa c'è in una bevanda e ordinane una adatta ai tuoi gusti.",
+      "pl": "Dowiedz się, co jest w napoju, i zamów taki, który ci posmakuje.",
+      "pt": "Descubra o que tem em uma bebida e peça uma que combine com seu gosto.",
+      "nl": "Zoek uit wat er in een drankje zit en bestel er een die bij je smaak past.",
+      "hr": "Saznaj što sadrži jedno piće i naruči ono koje ti odgovara.",
+      "tr": "Bir içeceğin içinde ne olduğunu öğrenin ve damak zevkinize uygun birini sipariş edin.",
+      "uk": "Дізнайся, з чого складається напій, і замов той, що тобі до смаку.",
+      "ar": "اعرف مكونات أحد المشروبات واطلب مشروبًا يناسب ذوقك.",
+      "hi": "पता कीजिए कि एक ड्रिंक में क्या है और अपनी पसंद के हिसाब से एक ऑर्डर कीजिए।",
+      "vi": "Tìm hiểu thành phần của một đồ uống và gọi món hợp khẩu vị của bạn.",
+      "id": "Cari tahu isi sebuah minuman dan pesan yang sesuai seleramu.",
+      "ms": "Ketahui apa kandungan sesuatu minuman dan pesan satu yang sesuai dengan citarasa anda.",
+      "ko": "음료에 무엇이 들어가는지 알아보고 입맛에 맞는 음료를 주문하세요."
+    },
+    "practice": "Averigüe qué lleva una bebida y pida una que vaya con su gusto.",
+    "practice_translations": {
+      "en": "Find out what is in a drink and order one that fits your taste.",
+      "es": "Averigüe qué lleva una bebida y pida una que vaya con su gusto.",
+      "ja": "ドリンクに何が入っているか聞いて、好みに合うものを注文してください。",
+      "ko": "음료에 무엇이 들어가는지 알아보고 입맛에 맞는 음료를 주문하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what is in one of the drinks",
+        "native_translations": {
+          "en": "Ask what is in one of the drinks",
+          "es": "Pregunte qué lleva una de las bebidas",
+          "fr": "Demandez ce que contient l'une des boissons",
+          "de": "Fragen Sie, was in einem der Getränke ist",
+          "it": "Chiedi cosa c'è in una delle bevande",
+          "pl": "Zapytaj, co jest w jednym z napojów",
+          "pt": "Pergunte o que tem em uma das bebidas",
+          "nl": "Vraag wat er in een van de drankjes zit",
+          "hr": "Pitaj što sadrži jedno od pića",
+          "tr": "İçeceklerden birinin içinde ne olduğunu sorun",
+          "uk": "Запитай, що входить до одного з напоїв",
+          "ar": "اسأل عن مكونات أحد المشروبات",
+          "hi": "पूछिए कि किसी एक ड्रिंक में क्या है",
+          "vi": "Hỏi thành phần của một loại đồ uống",
+          "id": "Tanyakan isi salah satu minuman",
+          "ms": "Tanya apa kandungan salah satu minuman",
+          "ko": "음료 하나에 무엇이 들어가는지 물어보세요"
+        },
+        "practice": "Pregunte qué lleva una de las bebidas",
+        "practice_translations": {
+          "en": "Ask what is in one of the drinks",
+          "es": "Pregunte qué lleva una de las bebidas",
+          "ja": "ドリンクの一つに何が入っているか聞いてください",
+          "ko": "음료 하나에 무엇이 들어가는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Say which flavors you like or dislike",
+        "native_translations": {
+          "en": "Say which flavors you like or dislike",
+          "es": "Diga qué sabores le gustan o no le gustan",
+          "fr": "Dites quelles saveurs vous aimez ou n'aimez pas",
+          "de": "Sagen Sie, welche Geschmacksrichtungen Sie mögen oder nicht mögen",
+          "it": "Di' quali sapori ti piacciono o non ti piacciono",
+          "pl": "Powiedz, jakie smaki lubisz, a jakich nie",
+          "pt": "Diga de quais sabores você gosta ou não gosta",
+          "nl": "Zeg welke smaken je wel of niet lekker vindt",
+          "hr": "Reci koje okuse voliš, a koje ne",
+          "tr": "Hangi tatları sevip sevmediğinizi söyleyin",
+          "uk": "Скажи, які смаки тобі подобаються чи ні",
+          "ar": "قل ما النكهات التي تحبها أو لا تحبها",
+          "hi": "बताइए कि आपको कौन-से स्वाद पसंद या नापसंद हैं",
+          "vi": "Nói vị bạn thích hoặc không thích",
+          "id": "Sebutkan rasa yang kamu suka atau tidak suka",
+          "ms": "Katakan perisa yang anda suka atau tidak suka",
+          "ko": "좋아하는 맛이나 싫어하는 맛을 말하세요"
+        },
+        "practice": "Diga qué sabores le gustan o no le gustan",
+        "practice_translations": {
+          "en": "Say which flavors you like or dislike",
+          "es": "Diga qué sabores le gustan o no le gustan",
+          "ja": "好きな味と苦手な味を伝えてください",
+          "ko": "좋아하는 맛이나 싫어하는 맛을 말하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask the barista for a recommendation",
+        "native_translations": {
+          "en": "Ask the barista for a recommendation",
+          "es": "Pida una recomendación al barista",
+          "fr": "Demandez une recommandation au barista",
+          "de": "Bitten Sie um eine Empfehlung",
+          "it": "Chiedi un consiglio al barista",
+          "pl": "Poproś baristę o polecenie czegoś",
+          "pt": "Peça uma recomendação ao barista",
+          "nl": "Vraag de barista om een aanrader",
+          "hr": "Zamoli baristu za preporuku",
+          "tr": "Baristadan bir öneri isteyin",
+          "uk": "Попроси бариста щось порадити",
+          "ar": "اطلب توصية من الباريستا",
+          "hi": "बरिस्ता से कोई सुझाव माँगिए",
+          "vi": "Nhờ nhân viên pha chế gợi ý",
+          "id": "Minta rekomendasi dari barista",
+          "ms": "Minta cadangan daripada barista",
+          "ko": "바리스타에게 추천해 달라고 하세요"
+        },
+        "practice": "Pida una recomendación al barista",
+        "practice_translations": {
+          "en": "Ask the barista for a recommendation",
+          "es": "Pida una recomendación al barista",
+          "ja": "バリスタにおすすめを聞いてください",
+          "ko": "바리스타에게 추천해 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Order the drink with one change",
+        "native_translations": {
+          "en": "Order the drink with one change",
+          "es": "Pida la bebida con un cambio",
+          "fr": "Commandez la boisson avec une modification",
+          "de": "Bestellen Sie das Getränk mit einer Änderung",
+          "it": "Ordina la bevanda con una modifica",
+          "pl": "Zamów napój z jedną zmianą",
+          "pt": "Peça a bebida com uma alteração",
+          "nl": "Bestel het drankje met één aanpassing",
+          "hr": "Naruči piće s jednom izmjenom",
+          "tr": "İçeceği tek bir değişiklikle sipariş edin",
+          "uk": "Замов напій з однією зміною",
+          "ar": "اطلب المشروب مع تعديل واحد",
+          "hi": "एक बदलाव के साथ ड्रिंक ऑर्डर कीजिए",
+          "vi": "Gọi đồ uống kèm một thay đổi",
+          "id": "Pesan minuman dengan satu perubahan",
+          "ms": "Pesan minuman itu dengan satu perubahan",
+          "ko": "한 가지를 바꿔서 음료를 주문하세요"
+        },
+        "practice": "Pida la bebida con un cambio",
+        "practice_translations": {
+          "en": "Order the drink with one change",
+          "es": "Pida la bebida con un cambio",
+          "ja": "一つだけ変更してドリンクを注文してください",
+          "ko": "한 가지를 바꿔서 음료를 주문하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Sorry, what exactly is in the Moonlight Forest Dream?",
+      "native_translations": {
+        "en": "Sorry, what exactly is in the Moonlight Forest Dream?",
+        "es": "Perdón, ¿qué lleva exactamente el Sueño del Bosque Lunar?",
+        "fr": "Pardon, qu'y a-t-il exactement dans le Rêve de forêt au clair de lune ?",
+        "de": "Entschuldigung, was genau ist im „Mondschein-Waldtraum“?",
+        "it": "Scusa, cosa c'è esattamente nel Sogno nella foresta al chiaro di luna?",
+        "pl": "Przepraszam, co dokładnie jest w „Śnie w księżycowym lesie”?",
+        "pt": "Desculpe, o que exatamente tem no Sonho da Floresta ao Luar?",
+        "nl": "Sorry, wat zit er precies in de Maanlicht Bosdroom?",
+        "hr": "Oprostite, što je točno u „Snu mjesečeve šume”?",
+        "tr": "Pardon, Ay Işığı Orman Rüyası'nın içinde tam olarak ne var?",
+        "uk": "Вибачте, а що саме входить до «Мрії місячного лісу»?",
+        "ar": "عفوًا، ما الذي يحتويه «حلم غابة ضوء القمر» بالضبط؟",
+        "hi": "माफ़ कीजिए, मूनलाइट फ़ॉरेस्ट ड्रीम में असल में क्या होता है?",
+        "vi": "Xin lỗi, chính xác thì \"Giấc mơ rừng trăng\" có gì trong đó vậy?",
+        "id": "Maaf, sebenarnya Moonlight Forest Dream itu isinya apa?",
+        "ms": "Maaf, apa sebenarnya kandungan Moonlight Forest Dream?",
+        "ko": "죄송한데, 문라이트 포레스트 드림에는 정확히 뭐가 들어가요?"
+      },
+      "practice": "Perdón, ¿qué lleva exactamente el Sueño del Bosque Lunar?",
+      "practice_translations": {
+        "en": "Sorry, what exactly is in the Moonlight Forest Dream?",
+        "es": "Perdón, ¿qué lleva exactamente el Sueño del Bosque Lunar?",
+        "ja": "すみません、「ムーンライト・フォレスト・ドリーム」には何が入っているんですか。",
+        "ko": "죄송한데, 문라이트 포레스트 드림에는 정확히 뭐가 들어가요?"
+      }
+    },
+    {
+      "native": "I like sweet drinks, but I don't like mint.",
+      "native_translations": {
+        "en": "I like sweet drinks, but I don't like mint.",
+        "es": "Me gustan las bebidas dulces, pero no me gusta la menta.",
+        "fr": "J'aime les boissons sucrées, mais je n'aime pas la menthe.",
+        "de": "Ich mag süße Getränke, aber keine Minze.",
+        "it": "Mi piacciono le bevande dolci, ma non mi piace la menta.",
+        "pl": "Lubię słodkie napoje, ale nie lubię mięty.",
+        "pt": "Eu gosto de bebidas doces, mas não gosto de menta.",
+        "nl": "Ik hou van zoete drankjes, maar niet van munt.",
+        "hr": "Volim slatka pića, ali ne volim metvicu.",
+        "tr": "Tatlı içecekleri severim ama naneyi sevmem.",
+        "uk": "Я люблю солодкі напої, але не люблю м'яту.",
+        "ar": "أحب المشروبات الحلوة، لكني لا أحب النعناع.",
+        "hi": "मुझे मीठी ड्रिंक्स पसंद हैं, लेकिन पुदीना पसंद नहीं।",
+        "vi": "Tôi thích đồ uống ngọt, nhưng không thích bạc hà.",
+        "id": "Saya suka minuman manis, tapi tidak suka mint.",
+        "ms": "Saya suka minuman manis, tetapi saya tidak suka pudina.",
+        "ko": "단 음료는 좋아하는데 민트는 안 좋아해요."
+      },
+      "practice": "Me gustan las bebidas dulces, pero no me gusta la menta.",
+      "practice_translations": {
+        "en": "I like sweet drinks, but I don't like mint.",
+        "es": "Me gustan las bebidas dulces, pero no me gusta la menta.",
+        "ja": "甘い飲み物は好きですが、ミントは苦手です。",
+        "ko": "단 음료는 좋아하는데 민트는 안 좋아해요."
+      }
+    },
+    {
+      "native": "What would you recommend for me?",
+      "native_translations": {
+        "en": "What would you recommend for me?",
+        "es": "¿Qué me recomienda?",
+        "fr": "Qu'est-ce que vous me recommanderiez ?",
+        "de": "Was würden Sie mir empfehlen?",
+        "it": "Cosa mi consiglieresti?",
+        "pl": "Co by mi pan polecił?",
+        "pt": "O que você me recomendaria?",
+        "nl": "Wat zou je mij aanraden?",
+        "hr": "Što biste mi preporučili?",
+        "tr": "Bana ne önerirsiniz?",
+        "uk": "Що б ви мені порадили?",
+        "ar": "ماذا تنصحني أن أطلب؟",
+        "hi": "आप मेरे लिए क्या सुझाएँगे?",
+        "vi": "Bạn gợi ý món nào cho tôi?",
+        "id": "Apa yang Anda rekomendasikan untuk saya?",
+        "ms": "Apa yang awak cadangkan untuk saya?",
+        "ko": "저한테 뭘 추천해 주시겠어요?"
+      },
+      "practice": "¿Qué me recomienda?",
+      "practice_translations": {
+        "en": "What would you recommend for me?",
+        "es": "¿Qué me recomienda?",
+        "ja": "私には何がおすすめですか。",
+        "ko": "저한테 뭘 추천해 주시겠어요?"
+      }
+    },
+    {
+      "native": "Can I have it with oat milk instead?",
+      "native_translations": {
+        "en": "Can I have it with oat milk instead?",
+        "es": "¿Me la puede preparar con leche de avena?",
+        "fr": "Je peux l'avoir avec du lait d'avoine à la place ?",
+        "de": "Kann ich das stattdessen mit Hafermilch haben?",
+        "it": "Posso averlo con latte d'avena invece?",
+        "pl": "Czy mogę prosić z mlekiem owsianym?",
+        "pt": "Pode ser com leite de aveia?",
+        "nl": "Mag ik die met havermelk?",
+        "hr": "Može li umjesto toga sa zobenim mlijekom?",
+        "tr": "Onun yerine yulaf sütüyle olabilir mi?",
+        "uk": "Можна натомість із вівсяним молоком?",
+        "ar": "هل يمكنني أن آخذه بحليب الشوفان بدلًا من ذلك؟",
+        "hi": "क्या मुझे इसकी जगह ओट मिल्क के साथ मिल सकती है?",
+        "vi": "Cho tôi đổi sang sữa yến mạch được không?",
+        "id": "Boleh pakai susu oat saja?",
+        "ms": "Boleh saya dapatkannya dengan susu oat?",
+        "ko": "대신 귀리 우유로 바꿔 주실 수 있어요?"
+      },
+      "practice": "¿Me la puede preparar con leche de avena?",
+      "practice_translations": {
+        "en": "Can I have it with oat milk instead?",
+        "es": "¿Me la puede preparar con leche de avena?",
+        "ja": "代わりにオーツミルクにしてもらえますか。",
+        "ko": "대신 귀리 우유로 바꿔 주실 수 있어요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "id": "academics_asking_questions_academic_exchange_c2",
+  "title": "Q&A After a Talk",
+  "title_translations": {
+    "en": "Q&A After a Talk",
+    "es": "Preguntas tras una charla",
+    "fr": "Questions après une conférence",
+    "de": "Fragerunde nach dem Vortrag",
+    "it": "Domande dopo un intervento",
+    "pl": "Pytania po wykładzie",
+    "pt": "Perguntas depois da palestra",
+    "nl": "Vragenronde na een lezing",
+    "hr": "Pitanja nakon predavanja",
+    "tr": "Konuşma Sonrası Soru-Cevap",
+    "uk": "Запитання після доповіді",
+    "ar": "أسئلة وأجوبة بعد محاضرة",
+    "hi": "टॉक के बाद सवाल-जवाब",
+    "vi": "Hỏi đáp sau buổi thuyết trình",
+    "id": "Tanya Jawab Setelah Presentasi",
+    "ms": "Sesi Soal Jawab Selepas Ceramah",
+    "ko": "강연 후 질의응답"
+  },
+  "character": "fox",
+  "scenario": "A guest speaker (AI) has just given a seminar talk and opens the floor for questions.",
+  "scenario_translations": {
+    "en": "A guest speaker (AI) has just given a seminar talk and opens the floor for questions.",
+    "es": "Un ponente invitado (AI) acaba de dar una charla en un seminario y abre la ronda de preguntas.",
+    "fr": "Un intervenant invité (AI) vient de donner une conférence et ouvre la séance de questions.",
+    "de": "Eine Gastrednerin bzw. ein Gastredner (AI) hat gerade einen Seminarvortrag gehalten und eröffnet die Fragerunde.",
+    "it": "Un relatore ospite (AI) ha appena tenuto un seminario e apre alle domande del pubblico.",
+    "pl": "Gościnny prelegent (AI) właśnie skończył wystąpienie na seminarium i zaprasza do zadawania pytań.",
+    "pt": "Um palestrante convidado (AI) acabou de dar uma palestra no seminário e abre espaço para perguntas.",
+    "nl": "Een gastspreker (AI) heeft net een seminarlezing gegeven en geeft het woord aan de zaal voor vragen.",
+    "hr": "Gostujući predavač (AI) upravo je održao seminarsko predavanje i otvara prostor za pitanja.",
+    "tr": "Konuk bir konuşmacı (AI) seminer konuşmasını yeni bitirdi ve soruları almaya başlıyor.",
+    "uk": "Запрошений доповідач (AI) щойно виступив на семінарі й пропонує поставити запитання.",
+    "ar": "انتهى متحدث ضيف (AI) للتو من محاضرة في ندوة وفتح باب الأسئلة.",
+    "hi": "एक अतिथि वक्ता (AI) ने अभी-अभी सेमिनार में अपनी बात रखी है और अब सवाल पूछने का मौक़ा दे रहे हैं।",
+    "vi": "Một diễn giả khách mời (AI) vừa kết thúc bài nói trong buổi hội thảo và mời mọi người đặt câu hỏi.",
+    "id": "Seorang pembicara tamu (AI) baru saja memberikan materi seminar dan membuka sesi tanya jawab.",
+    "ms": "Seorang penceramah jemputan (AI) baru selesai menyampaikan ceramah seminar dan membuka sesi soal jawab.",
+    "ko": "초청 연사(AI)가 방금 세미나 강연을 마치고 질문을 받기 시작했어요."
+  },
+  "mission": {
+    "native": "Ask a clear question about the talk and follow up on the answer.",
+    "native_translations": {
+      "en": "Ask a clear question about the talk and follow up on the answer.",
+      "es": "Haga una pregunta clara sobre la charla y profundice en la respuesta.",
+      "fr": "Posez une question claire sur la conférence et rebondissez sur la réponse.",
+      "de": "Stellen Sie eine klare Frage zum Vortrag und haken Sie bei der Antwort nach.",
+      "it": "Fai una domanda chiara sull'intervento e approfondisci la risposta.",
+      "pl": "Zadaj jasne pytanie o wystąpienie i dopytaj o odpowiedź.",
+      "pt": "Faça uma pergunta clara sobre a palestra e aprofunde a resposta.",
+      "nl": "Stel een duidelijke vraag over de lezing en ga door op het antwoord.",
+      "hr": "Postavi jasno pitanje o predavanju i nadoveži se na odgovor.",
+      "tr": "Konuşmayla ilgili net bir soru sorun ve cevabın ardından bir soru daha sorun.",
+      "uk": "Постав чітке запитання про доповідь і уточни відповідь.",
+      "ar": "اطرح سؤالًا واضحًا عن المحاضرة وتابع الإجابة بسؤال آخر.",
+      "hi": "टॉक के बारे में एक साफ़ सवाल पूछिए और जवाब पर आगे बात कीजिए।",
+      "vi": "Đặt một câu hỏi rõ ràng về bài nói và hỏi thêm dựa trên câu trả lời.",
+      "id": "Ajukan pertanyaan yang jelas tentang materi dan tanggapi jawabannya.",
+      "ms": "Tanya soalan yang jelas tentang ceramah itu dan susuli jawapannya.",
+      "ko": "강연에 대해 명확한 질문을 하고 답변에 이어서 질문하세요."
+    },
+    "practice": "Haga una pregunta clara sobre la charla y profundice en la respuesta.",
+    "practice_translations": {
+      "en": "Ask a clear question about the talk and follow up on the answer.",
+      "es": "Haga una pregunta clara sobre la charla y profundice en la respuesta.",
+      "ja": "発表について明確な質問をして、その答えにさらに質問してください。",
+      "ko": "강연에 대해 명확한 질문을 하고 답변에 이어서 질문하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Thank the speaker for the talk",
+        "native_translations": {
+          "en": "Thank the speaker for the talk",
+          "es": "Agradezca la charla al ponente",
+          "fr": "Remerciez l'intervenant pour sa conférence",
+          "de": "Bedanken Sie sich für den Vortrag",
+          "it": "Ringrazia il relatore per l'intervento",
+          "pl": "Podziękuj prelegentowi za wystąpienie",
+          "pt": "Agradeça ao palestrante pela palestra",
+          "nl": "Bedank de spreker voor de lezing",
+          "hr": "Zahvali predavaču na predavanju",
+          "tr": "Konuşma için konuşmacıya teşekkür edin",
+          "uk": "Подякуй доповідачеві за виступ",
+          "ar": "اشكر المتحدث على المحاضرة",
+          "hi": "वक्ता को टॉक के लिए धन्यवाद दीजिए",
+          "vi": "Cảm ơn diễn giả vì bài nói",
+          "id": "Ucapkan terima kasih kepada pembicara atas materinya",
+          "ms": "Ucapkan terima kasih kepada penceramah atas ceramahnya",
+          "ko": "연사에게 강연에 대해 감사 인사를 하세요"
+        },
+        "practice": "Agradezca la charla al ponente",
+        "practice_translations": {
+          "en": "Thank the speaker for the talk",
+          "es": "Agradezca la charla al ponente",
+          "ja": "発表者に発表のお礼を言ってください",
+          "ko": "연사에게 강연에 대해 감사 인사를 하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Ask about the speaker's research method",
+        "native_translations": {
+          "en": "Ask about the speaker's research method",
+          "es": "Pregunte por el método de investigación del ponente",
+          "fr": "Posez une question sur sa méthode de recherche",
+          "de": "Fragen Sie nach der Forschungsmethode",
+          "it": "Chiedi del metodo di ricerca del relatore",
+          "pl": "Zapytaj o metodę badawczą prelegenta",
+          "pt": "Pergunte sobre o método de pesquisa do palestrante",
+          "nl": "Vraag naar de onderzoeksmethode van de spreker",
+          "hr": "Pitaj o predavačevoj istraživačkoj metodi",
+          "tr": "Konuşmacının araştırma yöntemini sorun",
+          "uk": "Запитай про метод дослідження",
+          "ar": "اسأل عن منهج المتحدث في البحث",
+          "hi": "वक्ता की रिसर्च पद्धति के बारे में पूछिए",
+          "vi": "Hỏi về phương pháp nghiên cứu của diễn giả",
+          "id": "Tanyakan metode penelitian pembicara",
+          "ms": "Tanya tentang kaedah kajian penceramah",
+          "ko": "연사의 연구 방법에 대해 물어보세요"
+        },
+        "practice": "Pregunte por el método de investigación del ponente",
+        "practice_translations": {
+          "en": "Ask about the speaker's research method",
+          "es": "Pregunte por el método de investigación del ponente",
+          "ja": "発表者の研究方法について質問してください",
+          "ko": "연사의 연구 방법에 대해 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask a follow-up question about the answer",
+        "native_translations": {
+          "en": "Ask a follow-up question about the answer",
+          "es": "Haga una pregunta de seguimiento sobre la respuesta",
+          "fr": "Posez une question complémentaire sur la réponse",
+          "de": "Stellen Sie eine Anschlussfrage zur Antwort",
+          "it": "Fai una domanda di approfondimento sulla risposta",
+          "pl": "Zadaj pytanie uzupełniające do odpowiedzi",
+          "pt": "Faça uma pergunta complementar sobre a resposta",
+          "nl": "Stel een vervolgvraag over het antwoord",
+          "hr": "Postavi dodatno pitanje o odgovoru",
+          "tr": "Cevapla ilgili ek bir soru sorun",
+          "uk": "Постав уточнювальне запитання щодо відповіді",
+          "ar": "اطرح سؤال متابعة عن الإجابة",
+          "hi": "जवाब पर एक और सवाल पूछिए",
+          "vi": "Hỏi thêm một câu về câu trả lời",
+          "id": "Ajukan pertanyaan lanjutan tentang jawabannya",
+          "ms": "Tanya soalan susulan tentang jawapannya",
+          "ko": "답변에 대해 후속 질문을 하세요"
+        },
+        "practice": "Haga una pregunta de seguimiento sobre la respuesta",
+        "practice_translations": {
+          "en": "Ask a follow-up question about the answer",
+          "es": "Haga una pregunta de seguimiento sobre la respuesta",
+          "ja": "答えについて追加の質問をしてください",
+          "ko": "답변에 대해 후속 질문을 하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Thank you for a really interesting talk.",
+      "native_translations": {
+        "en": "Thank you for a really interesting talk.",
+        "es": "Gracias por una charla muy interesante.",
+        "fr": "Merci pour cette conférence vraiment intéressante.",
+        "de": "Vielen Dank für den wirklich interessanten Vortrag.",
+        "it": "Grazie per l'intervento davvero interessante.",
+        "pl": "Dziękuję za naprawdę ciekawe wystąpienie.",
+        "pt": "Obrigado pela palestra, foi muito interessante.",
+        "nl": "Bedankt voor een heel interessante lezing.",
+        "hr": "Hvala Vam na zaista zanimljivom predavanju.",
+        "tr": "Gerçekten çok ilginç bir konuşma için teşekkür ederim.",
+        "uk": "Дякую за справді цікаву доповідь.",
+        "ar": "شكرًا لك على محاضرة ممتعة حقًا.",
+        "hi": "इतनी दिलचस्प टॉक के लिए धन्यवाद।",
+        "vi": "Cảm ơn anh/chị vì bài nói rất thú vị.",
+        "id": "Terima kasih atas materinya, sangat menarik.",
+        "ms": "Terima kasih atas ceramah yang sangat menarik.",
+        "ko": "정말 흥미로운 강연 감사합니다."
+      },
+      "practice": "Gracias por una charla muy interesante.",
+      "practice_translations": {
+        "en": "Thank you for a really interesting talk.",
+        "es": "Gracias por una charla muy interesante.",
+        "ja": "大変興味深いご発表をありがとうございました。",
+        "ko": "정말 흥미로운 강연 감사합니다."
+      }
+    },
+    {
+      "native": "I have a question about your method.",
+      "native_translations": {
+        "en": "I have a question about your method.",
+        "es": "Tengo una pregunta sobre su metodología.",
+        "fr": "J'ai une question sur votre méthode.",
+        "de": "Ich habe eine Frage zu Ihrer Methode.",
+        "it": "Ho una domanda sul suo metodo.",
+        "pl": "Mam pytanie dotyczące pana metody.",
+        "pt": "Tenho uma pergunta sobre o seu método.",
+        "nl": "Ik heb een vraag over uw methode.",
+        "hr": "Imam pitanje o Vašoj metodi.",
+        "tr": "Yönteminizle ilgili bir sorum var.",
+        "uk": "У мене запитання щодо вашого методу.",
+        "ar": "لدي سؤال عن منهجك.",
+        "hi": "आपकी पद्धति के बारे में मेरा एक सवाल है।",
+        "vi": "Tôi có một câu hỏi về phương pháp của anh/chị.",
+        "id": "Saya punya pertanyaan tentang metode Anda.",
+        "ms": "Saya ada soalan tentang kaedah anda.",
+        "ko": "연구 방법에 대해 질문이 있어요."
+      },
+      "practice": "Tengo una pregunta sobre su metodología.",
+      "practice_translations": {
+        "en": "I have a question about your method.",
+        "es": "Tengo una pregunta sobre su metodología.",
+        "ja": "研究方法について質問があります。",
+        "ko": "연구 방법에 대해 질문이 있어요."
+      }
+    },
+    {
+      "native": "How did you choose the participants for your study?",
+      "native_translations": {
+        "en": "How did you choose the participants for your study?",
+        "es": "¿Cómo eligió a los participantes de su estudio?",
+        "fr": "Comment avez-vous choisi les participants de votre étude ?",
+        "de": "Wie haben Sie die Teilnehmenden für Ihre Studie ausgewählt?",
+        "it": "Come ha scelto i partecipanti al suo studio?",
+        "pl": "Jak dobierał pan uczestników badania?",
+        "pt": "Como vocês escolheram os participantes do estudo?",
+        "nl": "Hoe heeft u de deelnemers voor uw onderzoek gekozen?",
+        "hr": "Kako ste odabrali sudionike istraživanja?",
+        "tr": "Çalışmanızın katılımcılarını nasıl seçtiniz?",
+        "uk": "Як ви обирали учасників для свого дослідження?",
+        "ar": "كيف اخترت المشاركين في دراستك؟",
+        "hi": "आपने अपनी स्टडी के प्रतिभागियों को कैसे चुना?",
+        "vi": "Anh/chị đã chọn người tham gia nghiên cứu như thế nào?",
+        "id": "Bagaimana Anda memilih partisipan untuk penelitian Anda?",
+        "ms": "Bagaimana anda memilih peserta untuk kajian anda?",
+        "ko": "연구 참가자는 어떻게 선정하셨어요?"
+      },
+      "practice": "¿Cómo eligió a los participantes de su estudio?",
+      "practice_translations": {
+        "en": "How did you choose the participants for your study?",
+        "es": "¿Cómo eligió a los participantes de su estudio?",
+        "ja": "研究の参加者はどのように選ばれたのですか。",
+        "ko": "연구 참가자는 어떻게 선정하셨어요?"
+      }
+    },
+    {
+      "native": "Just to follow up on that, did you notice any differences by age?",
+      "native_translations": {
+        "en": "Just to follow up on that, did you notice any differences by age?",
+        "es": "Para profundizar en eso, ¿notó alguna diferencia por edad?",
+        "fr": "Pour rebondir là-dessus, avez-vous remarqué des différences selon l'âge ?",
+        "de": "Um da noch mal nachzuhaken: Haben Sie Unterschiede nach Alter festgestellt?",
+        "it": "Per approfondire questo punto, ha notato differenze in base all'età?",
+        "pl": "Nawiązując do tego: czy zauważył pan jakieś różnice w zależności od wieku?",
+        "pt": "Só para complementar, vocês notaram alguma diferença por idade?",
+        "nl": "Om daarop door te gaan: zag u verschillen naar leeftijd?",
+        "hr": "Samo da se nadovežem, jeste li primijetili razlike prema dobi?",
+        "tr": "Bununla ilgili bir şey daha sormak istiyorum: yaşa göre farklılıklar fark ettiniz mi?",
+        "uk": "Щоб уточнити: чи помітили ви якісь відмінності за віком?",
+        "ar": "متابعةً لذلك، هل لاحظت أي اختلافات حسب العمر؟",
+        "hi": "इसी से जुड़ा एक सवाल — क्या आपको उम्र के हिसाब से कोई फ़र्क़ दिखा?",
+        "vi": "Tôi muốn hỏi thêm về điểm đó, anh/chị có thấy khác biệt nào theo độ tuổi không?",
+        "id": "Menyambung hal itu, apakah Anda melihat perbedaan berdasarkan usia?",
+        "ms": "Sebagai susulan, adakah anda perasan apa-apa perbezaan mengikut umur?",
+        "ko": "그와 관련해서 하나 더 여쭤보면, 나이에 따른 차이도 있었나요?"
+      },
+      "practice": "Para profundizar en eso, ¿notó alguna diferencia por edad?",
+      "practice_translations": {
+        "en": "Just to follow up on that, did you notice any differences by age?",
+        "es": "Para profundizar en eso, ¿notó alguna diferencia por edad?",
+        "ja": "その点についてもう一つお聞きしますが、年齢による違いはありましたか。",
+        "ko": "그와 관련해서 하나 더 여쭤보면, 나이에 따른 차이도 있었나요?"
+      }
+    },
+    {
+      "native": "That's very helpful, thank you.",
+      "native_translations": {
+        "en": "That's very helpful, thank you.",
+        "es": "Me es muy útil, gracias.",
+        "fr": "C'est très utile, merci.",
+        "de": "Das ist sehr hilfreich, danke.",
+        "it": "È stato molto utile, grazie.",
+        "pl": "To bardzo pomocne, dziękuję.",
+        "pt": "Isso ajuda muito, obrigado.",
+        "nl": "Dat is heel nuttig, dank u wel.",
+        "hr": "To mi puno pomaže, hvala Vam.",
+        "tr": "Bu çok faydalı oldu, teşekkür ederim.",
+        "uk": "Це дуже корисно, дякую.",
+        "ar": "هذا مفيد جدًا، شكرًا لك.",
+        "hi": "यह बहुत काम का है, धन्यवाद।",
+        "vi": "Điều đó rất hữu ích, cảm ơn anh/chị.",
+        "id": "Itu sangat membantu, terima kasih.",
+        "ms": "Itu sangat membantu, terima kasih.",
+        "ko": "정말 도움이 됐어요, 감사합니다."
+      },
+      "practice": "Me es muy útil, gracias.",
+      "practice_translations": {
+        "en": "That's very helpful, thank you.",
+        "es": "Me es muy útil, gracias.",
+        "ja": "とても参考になりました。ありがとうございます。",
+        "ko": "정말 도움이 됐어요, 감사합니다."
+      }
+    }
+  ]
+}

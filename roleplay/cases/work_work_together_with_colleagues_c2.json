@@ -1,0 +1,321 @@
+{
+  "id": "work_work_together_with_colleagues_c2",
+  "title": "Waiting on a Teammate",
+  "title_translations": {
+    "en": "Waiting on a Teammate",
+    "es": "Esperando a alguien del equipo",
+    "fr": "En attendant un coéquipier",
+    "de": "Warten auf den Teamkollegen",
+    "it": "In attesa di un collega",
+    "pl": "Czekanie na członka zespołu",
+    "pt": "Esperando um colega de equipe",
+    "nl": "Wachten op een teamgenoot",
+    "hr": "Čekanje na člana tima",
+    "tr": "Takım Arkadaşını Beklemek",
+    "uk": "Чекаючи на колегу",
+    "ar": "في انتظار زميل الفريق",
+    "hi": "टीम के साथी का इंतज़ार",
+    "vi": "Chờ đồng đội",
+    "id": "Menunggu Rekan Setim",
+    "ms": "Menunggu Rakan Sepasukan",
+    "ko": "팀원을 기다리며"
+  },
+  "character": "fox",
+  "scenario": "Your teammate (AI) still hasn't sent their part of the report, and you can't finish yours without it. The deadline is tomorrow.",
+  "scenario_translations": {
+    "en": "Your teammate (AI) still hasn't sent their part of the report, and you can't finish yours without it. The deadline is tomorrow.",
+    "es": "Su compañero de equipo (AI) todavía no ha enviado su parte del informe, y usted no puede terminar la suya sin ella. La fecha límite es mañana.",
+    "fr": "Votre coéquipier (AI) n'a toujours pas envoyé sa partie du rapport, et vous ne pouvez pas terminer la vôtre sans elle. La date limite est demain.",
+    "de": "Ihr Teamkollege (AI) hat seinen Teil des Berichts immer noch nicht geschickt, und ohne ihn können Sie Ihren nicht fertigstellen. Die Abgabe ist morgen.",
+    "it": "Il tuo collega di team (AI) non ha ancora mandato la sua parte del report, e senza quella non puoi finire la tua. La scadenza è domani.",
+    "pl": "Twoja koleżanka z zespołu (AI) wciąż nie przesłała swojej części raportu, a ty nie możesz bez niej skończyć swojej. Termin mija jutro.",
+    "pt": "Seu colega de equipe (AI) ainda não enviou a parte dele do relatório, e você não consegue terminar a sua sem ela. O prazo é amanhã.",
+    "nl": "Je teamgenoot (AI) heeft zijn deel van het rapport nog steeds niet gestuurd, en jij kunt het jouwe niet afmaken zonder. De deadline is morgen.",
+    "hr": "Tvoj kolega iz tima (AI) još nije poslao svoj dio izvještaja, a bez toga ne možeš završiti svoj. Rok je sutra.",
+    "tr": "Takım arkadaşınız (AI) rapordaki kendi kısmını hâlâ göndermedi ve siz o olmadan kendi kısmınızı bitiremiyorsunuz. Teslim tarihi yarın.",
+    "uk": "Твій колега по команді (AI) досі не надіслав свою частину звіту, а без неї ти не можеш завершити свою. Дедлайн — завтра.",
+    "ar": "لم يرسل زميلك في الفريق (AI) جزءه من التقرير بعد، ولا يمكنك إنهاء جزئك من دونه. الموعد النهائي غدًا.",
+    "hi": "आपके टीम के साथी (AI) ने अभी तक रिपोर्ट का अपना हिस्सा नहीं भेजा है, और उसके बिना आप अपना हिस्सा पूरा नहीं कर सकते। डेडलाइन कल है।",
+    "vi": "Đồng đội (AI) vẫn chưa gửi phần báo cáo của họ, và bạn không thể hoàn thành phần của mình nếu thiếu nó. Hạn chót là ngày mai.",
+    "id": "Rekan setimmu (AI) belum juga mengirim bagian laporannya, dan kamu tidak bisa menyelesaikan bagianmu tanpa itu. Tenggatnya besok.",
+    "ms": "Rakan sepasukan anda (AI) masih belum menghantar bahagian laporannya, dan anda tidak dapat menyiapkan bahagian anda tanpanya. Tarikh akhirnya esok.",
+    "ko": "팀원(AI)이 아직 보고서 담당 부분을 보내지 않아서, 당신은 자기 부분을 끝낼 수가 없어요. 마감은 내일이에요."
+  },
+  "mission": {
+    "native": "Find out what is going on and agree on when your teammate will send their part.",
+    "native_translations": {
+      "en": "Find out what is going on and agree on when your teammate will send their part.",
+      "es": "Averigüe qué pasa y acuerde cuándo su compañero enviará su parte.",
+      "fr": "Découvrez ce qui se passe et convenez du moment où votre coéquipier enverra sa partie.",
+      "de": "Finden Sie heraus, was los ist, und vereinbaren Sie, wann Ihr Teamkollege seinen Teil schickt.",
+      "it": "Scopri cosa sta succedendo e concorda quando il tuo collega manderà la sua parte.",
+      "pl": "Dowiedz się, co się dzieje, i ustalcie, kiedy koleżanka prześle swoją część.",
+      "pt": "Descubra o que está acontecendo e combine quando seu colega vai enviar a parte dele.",
+      "nl": "Zoek uit wat er aan de hand is en spreek af wanneer je teamgenoot zijn deel stuurt.",
+      "hr": "Saznaj što se događa i dogovori kada će kolega poslati svoj dio.",
+      "tr": "Neler olup bittiğini öğrenin ve takım arkadaşınızın kendi kısmını ne zaman göndereceği konusunda anlaşın.",
+      "uk": "З'ясуй, що відбувається, і домовтеся, коли колега надішле свою частину.",
+      "ar": "اعرف ما الذي يحدث واتفقا على موعد إرسال زميلك لجزئه.",
+      "hi": "पता कीजिए कि क्या हो रहा है और तय कीजिए कि साथी अपना हिस्सा कब भेजेंगे।",
+      "vi": "Tìm hiểu chuyện gì đang xảy ra và thống nhất khi nào đồng đội sẽ gửi phần của họ.",
+      "id": "Cari tahu apa yang terjadi dan sepakati kapan rekan setimmu akan mengirim bagiannya.",
+      "ms": "Ketahui apa yang berlaku dan setuju bila rakan sepasukan anda akan menghantar bahagiannya.",
+      "ko": "무슨 일인지 알아보고 팀원이 언제 자기 부분을 보낼지 정하세요."
+    },
+    "practice": "Averigüe qué pasa y acuerde cuándo su compañero enviará su parte.",
+    "practice_translations": {
+      "en": "Find out what is going on and agree on when your teammate will send their part.",
+      "es": "Averigüe qué pasa y acuerde cuándo su compañero enviará su parte.",
+      "ja": "状況を確認して、チームメイトがいつ担当部分を送るか決めてください。",
+      "ko": "무슨 일인지 알아보고 팀원이 언제 자기 부분을 보낼지 정하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask how their part of the report is going",
+        "native_translations": {
+          "en": "Ask how their part of the report is going",
+          "es": "Pregunte cómo va su parte del informe",
+          "fr": "Demandez où il en est de sa partie du rapport",
+          "de": "Fragen Sie, wie es mit seinem Teil des Berichts läuft",
+          "it": "Chiedi come sta andando la sua parte del report",
+          "pl": "Zapytaj, jak idzie jej część raportu",
+          "pt": "Pergunte como está indo a parte dele do relatório",
+          "nl": "Vraag hoe het met zijn deel van het rapport gaat",
+          "hr": "Pitaj kako napreduje njegov dio izvještaja",
+          "tr": "Rapordaki kısmının nasıl gittiğini sorun",
+          "uk": "Запитай, як просувається його частина звіту",
+          "ar": "اسأل كيف يسير جزؤه من التقرير",
+          "hi": "पूछिए कि रिपोर्ट का उनका हिस्सा कैसा चल रहा है",
+          "vi": "Hỏi phần báo cáo của họ đến đâu rồi",
+          "id": "Tanyakan bagaimana perkembangan bagian laporannya",
+          "ms": "Tanya perkembangan bahagian laporannya",
+          "ko": "보고서 담당 부분이 어떻게 되어 가는지 물어보세요"
+        },
+        "practice": "Pregunte cómo va su parte del informe",
+        "practice_translations": {
+          "en": "Ask how their part of the report is going",
+          "es": "Pregunte cómo va su parte del informe",
+          "ja": "報告書の担当部分の進み具合を聞いてください",
+          "ko": "보고서 담당 부분이 어떻게 되어 가는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that you need it to finish",
+        "native_translations": {
+          "en": "Explain that you need it to finish",
+          "es": "Explique que la necesita para terminar",
+          "fr": "Expliquez que vous en avez besoin pour terminer",
+          "de": "Erklären Sie, dass Sie ihn brauchen, um fertig zu werden",
+          "it": "Spiega che ti serve per finire",
+          "pl": "Wyjaśnij, że potrzebujesz jej, żeby skończyć",
+          "pt": "Explique que você precisa dela para terminar",
+          "nl": "Leg uit dat je het nodig hebt om af te ronden",
+          "hr": "Objasni da ti treba kako bi završio",
+          "tr": "Bitirmek için buna ihtiyacınız olduğunu açıklayın",
+          "uk": "Поясни, що вона потрібна тобі для завершення",
+          "ar": "اشرح أنك تحتاجه لتنهي عملك",
+          "hi": "समझाइए कि काम पूरा करने के लिए आपको उसकी ज़रूरत है",
+          "vi": "Giải thích rằng bạn cần phần đó để hoàn thành",
+          "id": "Jelaskan bahwa kamu membutuhkannya untuk menyelesaikan tugasmu",
+          "ms": "Terangkan bahawa anda memerlukannya untuk siapkan kerja",
+          "ko": "그게 있어야 끝낼 수 있다고 설명하세요"
+        },
+        "practice": "Explique que la necesita para terminar",
+        "practice_translations": {
+          "en": "Explain that you need it to finish",
+          "es": "Explique que la necesita para terminar",
+          "ja": "仕上げるのにそれが必要だと説明してください",
+          "ko": "그게 있어야 끝낼 수 있다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Offer to help with the hardest section",
+        "native_translations": {
+          "en": "Offer to help with the hardest section",
+          "es": "Ofrezca ayuda con la sección más difícil",
+          "fr": "Proposez de l'aider sur la section la plus difficile",
+          "de": "Bieten Sie Hilfe beim schwierigsten Abschnitt an",
+          "it": "Offriti di aiutare con la sezione più difficile",
+          "pl": "Zaproponuj pomoc przy najtrudniejszej części",
+          "pt": "Ofereça ajuda com a parte mais difícil",
+          "nl": "Bied aan te helpen met het moeilijkste deel",
+          "hr": "Ponudi pomoć s najtežim dijelom",
+          "tr": "En zor bölümde yardım etmeyi teklif edin",
+          "uk": "Запропонуй допомогти з найскладнішим розділом",
+          "ar": "اعرض المساعدة في القسم الأصعب",
+          "hi": "सबसे मुश्किल हिस्से में मदद की पेशकश कीजिए",
+          "vi": "Đề nghị giúp phần khó nhất",
+          "id": "Tawarkan bantuan untuk bagian yang paling sulit",
+          "ms": "Tawarkan bantuan untuk bahagian yang paling sukar",
+          "ko": "가장 어려운 부분을 도와주겠다고 제안하세요"
+        },
+        "practice": "Ofrezca ayuda con la sección más difícil",
+        "practice_translations": {
+          "en": "Offer to help with the hardest section",
+          "es": "Ofrezca ayuda con la sección más difícil",
+          "ja": "一番難しい部分を手伝うと申し出てください",
+          "ko": "가장 어려운 부분을 도와주겠다고 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a time to receive it",
+        "native_translations": {
+          "en": "Agree on a time to receive it",
+          "es": "Acuerden una hora para recibirla",
+          "fr": "Convenez d'une heure à laquelle vous la recevrez",
+          "de": "Vereinbaren Sie eine Uhrzeit, bis wann Sie ihn bekommen",
+          "it": "Concordate un orario per riceverla",
+          "pl": "Ustalcie, kiedy ją dostaniesz",
+          "pt": "Combinem um horário para você recebê-la",
+          "nl": "Spreek een tijd af waarop je het krijgt",
+          "hr": "Dogovori do kada ćeš ga dobiti",
+          "tr": "Ne zaman alacağınız konusunda bir saatte anlaşın",
+          "uk": "Домовтеся, коли ти її отримаєш",
+          "ar": "اتفقا على موعد لاستلامه",
+          "hi": "उसे पाने का एक समय तय कीजिए",
+          "vi": "Thống nhất thời gian nhận phần báo cáo",
+          "id": "Sepakati jam untuk menerimanya",
+          "ms": "Setuju tentang masa untuk menerimanya",
+          "ko": "받을 시간을 정하세요"
+        },
+        "practice": "Acuerden una hora para recibirla",
+        "practice_translations": {
+          "en": "Agree on a time to receive it",
+          "es": "Acuerden una hora para recibirla",
+          "ja": "受け取る時間を決めてください",
+          "ko": "받을 시간을 정하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Hey, how is your part of the report coming along?",
+      "native_translations": {
+        "en": "Hey, how is your part of the report coming along?",
+        "es": "Oye, ¿cómo vas con tu parte del informe?",
+        "fr": "Salut, comment avance ta partie du rapport ?",
+        "de": "Hey, wie kommst du mit deinem Teil des Berichts voran?",
+        "it": "Ehi, come procede la tua parte del report?",
+        "pl": "Hej, jak idzie twoja część raportu?",
+        "pt": "Ei, como está indo a sua parte do relatório?",
+        "nl": "Hé, hoe gaat het met jouw deel van het rapport?",
+        "hr": "Hej, kako napreduje tvoj dio izvještaja?",
+        "tr": "Selam, rapordaki kısmın nasıl gidiyor?",
+        "uk": "Привіт, як просувається твоя частина звіту?",
+        "ar": "مرحبًا، كيف يسير جزؤك من التقرير؟",
+        "hi": "सुनिए, रिपोर्ट का आपका हिस्सा कैसा चल रहा है?",
+        "vi": "Này, phần báo cáo của bạn đến đâu rồi?",
+        "id": "Hei, bagaimana perkembangan bagian laporanmu?",
+        "ms": "Hai, bagaimana perkembangan bahagian laporan anda?",
+        "ko": "저기, 보고서 맡은 부분은 잘되어 가요?"
+      },
+      "practice": "Oye, ¿cómo vas con tu parte del informe?",
+      "practice_translations": {
+        "en": "Hey, how is your part of the report coming along?",
+        "es": "Oye, ¿cómo vas con tu parte del informe?",
+        "ja": "報告書の担当部分、進み具合はどうですか。",
+        "ko": "저기, 보고서 맡은 부분은 잘되어 가요?"
+      }
+    },
+    {
+      "native": "I can't finish my section until I have your numbers.",
+      "native_translations": {
+        "en": "I can't finish my section until I have your numbers.",
+        "es": "No puedo terminar mi sección hasta tener tus números.",
+        "fr": "Je ne peux pas terminer ma section tant que je n'ai pas tes chiffres.",
+        "de": "Ich kann meinen Abschnitt erst fertig machen, wenn ich deine Zahlen habe.",
+        "it": "Non posso finire la mia sezione finché non ho i tuoi numeri.",
+        "pl": "Nie mogę skończyć swojej części, dopóki nie dostanę twoich liczb.",
+        "pt": "Não consigo terminar a minha parte até ter os seus números.",
+        "nl": "Ik kan mijn deel niet afmaken tot ik jouw cijfers heb.",
+        "hr": "Ne mogu završiti svoj dio dok ne dobijem tvoje brojke.",
+        "tr": "Senin rakamların gelmeden kendi bölümümü bitiremiyorum.",
+        "uk": "Я не можу закінчити свій розділ без твоїх цифр.",
+        "ar": "لا أستطيع إنهاء قسمي حتى تصلني أرقامك.",
+        "hi": "आपके आँकड़ों के बिना मैं अपना हिस्सा पूरा नहीं कर सकता।",
+        "vi": "Mình không thể làm xong phần của mình nếu chưa có số liệu của bạn.",
+        "id": "Saya tidak bisa menyelesaikan bagian saya sebelum ada angka darimu.",
+        "ms": "Saya tak boleh siapkan bahagian saya sehingga saya dapat angka anda.",
+        "ko": "그 수치가 있어야 제 부분을 끝낼 수 있어요."
+      },
+      "practice": "No puedo terminar mi sección hasta tener tus números.",
+      "practice_translations": {
+        "en": "I can't finish my section until I have your numbers.",
+        "es": "No puedo terminar mi sección hasta tener tus números.",
+        "ja": "そちらの数字がないと、私の部分が仕上げられないんです。",
+        "ko": "그 수치가 있어야 제 부분을 끝낼 수 있어요."
+      }
+    },
+    {
+      "native": "Is there anything I can do to help?",
+      "native_translations": {
+        "en": "Is there anything I can do to help?",
+        "es": "¿Hay algo en lo que te pueda ayudar?",
+        "fr": "Est-ce que je peux t'aider en quoi que ce soit ?",
+        "de": "Kann ich dir irgendwie helfen?",
+        "it": "Posso fare qualcosa per aiutarti?",
+        "pl": "Czy mogę jakoś pomóc?",
+        "pt": "Tem alguma coisa que eu possa fazer para ajudar?",
+        "nl": "Kan ik ergens mee helpen?",
+        "hr": "Mogu li ti nekako pomoći?",
+        "tr": "Yardım edebileceğim bir şey var mı?",
+        "uk": "Чим я можу допомогти?",
+        "ar": "هل هناك أي شيء يمكنني فعله للمساعدة؟",
+        "hi": "क्या मैं किसी तरह मदद कर सकता हूँ?",
+        "vi": "Mình có thể giúp gì không?",
+        "id": "Ada yang bisa saya bantu?",
+        "ms": "Ada apa-apa yang saya boleh bantu?",
+        "ko": "제가 도울 수 있는 게 있을까요?"
+      },
+      "practice": "¿Hay algo en lo que te pueda ayudar?",
+      "practice_translations": {
+        "en": "Is there anything I can do to help?",
+        "es": "¿Hay algo en lo que te pueda ayudar?",
+        "ja": "何か手伝えることはありますか。",
+        "ko": "제가 도울 수 있는 게 있을까요?"
+      }
+    },
+    {
+      "native": "Could you send it to me by three o'clock?",
+      "native_translations": {
+        "en": "Could you send it to me by three o'clock?",
+        "es": "¿Me lo podrías enviar antes de las tres?",
+        "fr": "Tu pourrais me l'envoyer avant quinze heures ?",
+        "de": "Könntest du es mir bis drei Uhr schicken?",
+        "it": "Potresti mandarmela entro le tre?",
+        "pl": "Czy mogłabyś mi ją przesłać do trzeciej?",
+        "pt": "Você poderia me mandar até as três?",
+        "nl": "Kun je het me voor drie uur sturen?",
+        "hr": "Možeš li mi to poslati do tri sata?",
+        "tr": "Saat üçe kadar bana gönderebilir misin?",
+        "uk": "Можеш надіслати її мені до третьої години?",
+        "ar": "هل يمكنك إرساله إليّ بحلول الساعة الثالثة؟",
+        "hi": "क्या आप इसे तीन बजे तक भेज सकते हैं?",
+        "vi": "Bạn gửi cho mình trước ba giờ được không?",
+        "id": "Bisa kirimkan ke saya paling lambat jam tiga?",
+        "ms": "Boleh hantar kepada saya sebelum pukul tiga?",
+        "ko": "3시까지 보내 주실 수 있어요?"
+      },
+      "practice": "¿Me lo podrías enviar antes de las tres?",
+      "practice_translations": {
+        "en": "Could you send it to me by three o'clock?",
+        "es": "¿Me lo podrías enviar antes de las tres?",
+        "ja": "3時までに送ってもらえますか。",
+        "ko": "3시까지 보내 주실 수 있어요?"
+      }
+    }
+  ]
+}

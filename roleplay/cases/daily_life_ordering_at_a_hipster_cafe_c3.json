@@ -1,0 +1,351 @@
+{
+  "id": "daily_life_ordering_at_a_hipster_cafe_c3",
+  "title": "The Barista Who Judges Your Order",
+  "title_translations": {
+    "en": "The Barista Who Judges Your Order",
+    "es": "El barista que juzga su pedido",
+    "fr": "Le barista qui juge votre commande",
+    "de": "Barista mit Urteil",
+    "it": "Il barista che giudica il tuo ordine",
+    "pl": "Barista, który ocenia twoje zamówienie",
+    "pt": "O barista que julga seu pedido",
+    "nl": "De barista die je bestelling veroordeelt",
+    "hr": "Barista koji osuđuje tvoju narudžbu",
+    "tr": "Siparişinizi Yargılayan Barista",
+    "uk": "Бариста, який засуджує твоє замовлення",
+    "ar": "الباريستا الذي يحكم على طلبك",
+    "hi": "आपके ऑर्डर को परखने वाला बरिस्ता",
+    "vi": "Nhân viên pha chế phán xét món bạn gọi",
+    "id": "Barista yang Menghakimi Pesananmu",
+    "ms": "Barista yang Menilai Pesanan Anda",
+    "ko": "주문을 평가하는 바리스타"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "You order a caramel latte with extra sugar, but the snobbish barista (AI) refuses because it would \"ruin the beans\" and keeps pushing a bitter single-origin coffee.",
+  "scenario_translations": {
+    "en": "You order a caramel latte with extra sugar, but the snobbish barista (AI) refuses because it would \"ruin the beans\" and keeps pushing a bitter single-origin coffee.",
+    "es": "Pide un latte de caramelo con azúcar extra, pero el barista presumido (AI) se niega porque \"arruinaría los granos\" y sigue insistiendo en un café de origen único muy amargo.",
+    "fr": "Vous commandez un latte caramel avec du sucre en plus, mais le barista snob (AI) refuse car cela « gâcherait les grains » et insiste pour vous vendre un café d'origine unique bien amer.",
+    "de": "Sie bestellen einen Karamell-Latte mit extra Zucker, aber die versnobte Barista bzw. der versnobte Barista (AI) weigert sich, weil das „die Bohnen ruinieren“ würde, und drängt Ihnen einen bitteren Single-Origin-Kaffee auf.",
+    "it": "Ordini un latte macchiato al caramello con zucchero extra, ma il barista snob (AI) si rifiuta perché \"rovinerebbe i chicchi\" e continua a proporti un caffè monorigine amaro.",
+    "pl": "Zamawiasz karmelowe latte z dodatkowym cukrem, ale snobistyczny barista (AI) odmawia, bo to by „zniszczyło ziarna”, i uparcie wciska ci gorzką kawę single origin.",
+    "pt": "Você pede um latte de caramelo com açúcar extra, mas o barista esnobe (AI) se recusa porque isso \"estragaria os grãos\" e insiste em um café amargo de origem única.",
+    "nl": "Je bestelt een karamellatte met extra suiker, maar de snobistische barista (AI) weigert omdat het 'de bonen zou verpesten' en blijft een bittere single-origin koffie aanprijzen.",
+    "hr": "Naručuješ latte s karamelom i dodatnim šećerom, ali umišljeni barista (AI) odbija jer bi to „uništilo kavu” i stalno ti nudi gorku kavu jednog podrijetla.",
+    "tr": "Ekstra şekerli bir karamel latte sipariş ediyorsunuz, ama burnu havada barista (AI) bunun \"çekirdekleri mahvedeceğini\" söyleyerek reddediyor ve ısrarla acı, tek kökenli bir kahve öneriyor.",
+    "uk": "Ти замовляєш карамельне лате з додатковим цукром, але зарозумілий бариста (AI) відмовляється, бо це «зіпсує зерна», і далі нав'язує гірку каву одного походження.",
+    "ar": "تطلب لاتيه بالكراميل مع سكر إضافي، لكن الباريستا المتعالي (AI) يرفض لأن ذلك «سيفسد البن»، ويواصل الإلحاح عليك بقهوة مُرّة أحادية المصدر.",
+    "hi": "आप एक्स्ट्रा चीनी वाली कैरामेल लाटे ऑर्डर करते हैं, लेकिन घमंडी बरिस्ता (AI) मना कर देता है क्योंकि इससे \"बीन्स बर्बाद\" हो जाएँगी, और बार-बार एक कड़वी सिंगल-ओरिजिन कॉफ़ी पर ज़ोर देता है।",
+    "vi": "Bạn gọi một ly latte caramel thêm đường, nhưng nhân viên pha chế kiêu kỳ (AI) từ chối vì như vậy sẽ \"phí hạt cà phê\" và cứ nài bạn uống loại cà phê đơn nguồn đắng ngắt.",
+    "id": "Kamu memesan caramel latte dengan ekstra gula, tapi barista (AI) yang sok itu menolak karena katanya akan \"merusak biji kopinya\" dan terus menawarkan kopi single-origin yang pahit.",
+    "ms": "Anda memesan latte karamel dengan gula tambahan, tetapi barista (AI) yang sombong enggan kerana ia akan \"merosakkan biji kopi\" dan terus mendesak anda mencuba kopi pahit dari satu asal.",
+    "ko": "설탕을 추가한 캐러멜 라테를 주문했는데, 거만한 바리스타(AI)가 \"원두를 망친다\"며 거절하고 쓴 싱글 오리진 커피만 계속 권해요."
+  },
+  "mission": {
+    "native": "Stand your ground politely and get the drink you actually want.",
+    "native_translations": {
+      "en": "Stand your ground politely and get the drink you actually want.",
+      "es": "Mantenga su postura con cortesía y consiga la bebida que realmente quiere.",
+      "fr": "Tenez bon poliment et obtenez la boisson que vous voulez vraiment.",
+      "de": "Bleiben Sie höflich standhaft und bekommen Sie das Getränk, das Sie wirklich wollen.",
+      "it": "Non cedere, con gentilezza, e ottieni la bevanda che vuoi davvero.",
+      "pl": "Grzecznie, ale stanowczo obstawaj przy swoim i dostań napój, którego naprawdę chcesz.",
+      "pt": "Mantenha sua posição com educação e consiga a bebida que você realmente quer.",
+      "nl": "Houd beleefd voet bij stuk en krijg het drankje dat je echt wilt.",
+      "hr": "Pristojno ostani pri svome i dobij piće koje zaista želiš.",
+      "tr": "Kibarca geri adım atmayın ve gerçekten istediğiniz içeceği alın.",
+      "uk": "Ввічливо стій на своєму й отримай напій, який ти справді хочеш.",
+      "ar": "تمسّك بموقفك بأدب واحصل على المشروب الذي تريده فعلًا.",
+      "hi": "विनम्रता से अपनी बात पर डटे रहिए और वही ड्रिंक लीजिए जो आप सच में चाहते हैं।",
+      "vi": "Lịch sự giữ vững lập trường và có được đúng đồ uống bạn muốn.",
+      "id": "Pertahankan pendapatmu dengan sopan dan dapatkan minuman yang benar-benar kamu mau.",
+      "ms": "Pertahankan pendirian anda dengan sopan dan dapatkan minuman yang anda benar-benar mahu.",
+      "ko": "정중하게 입장을 지키고 정말 원하는 음료를 받으세요."
+    },
+    "practice": "Mantenga su postura con cortesía y consiga la bebida que realmente quiere.",
+    "practice_translations": {
+      "en": "Stand your ground politely and get the drink you actually want.",
+      "es": "Mantenga su postura con cortesía y consiga la bebida que realmente quiere.",
+      "ja": "丁寧に、でも譲らずに、本当に飲みたいドリンクを手に入れてください。",
+      "ko": "정중하게 입장을 지키고 정말 원하는 음료를 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Order your drink clearly",
+        "native_translations": {
+          "en": "Order your drink clearly",
+          "es": "Pida su bebida con claridad",
+          "fr": "Commandez clairement votre boisson",
+          "de": "Bestellen Sie Ihr Getränk klar und deutlich",
+          "it": "Ordina la tua bevanda in modo chiaro",
+          "pl": "Wyraźnie zamów swój napój",
+          "pt": "Faça seu pedido com clareza",
+          "nl": "Bestel je drankje duidelijk",
+          "hr": "Jasno naruči svoje piće",
+          "tr": "İçeceğinizi net bir şekilde sipariş edin",
+          "uk": "Чітко замов свій напій",
+          "ar": "اطلب مشروبك بوضوح",
+          "hi": "अपनी ड्रिंक साफ़-साफ़ ऑर्डर कीजिए",
+          "vi": "Gọi đồ uống của bạn một cách rõ ràng",
+          "id": "Pesan minumanmu dengan jelas",
+          "ms": "Pesan minuman anda dengan jelas",
+          "ko": "음료를 분명하게 주문하세요"
+        },
+        "practice": "Pida su bebida con claridad",
+        "practice_translations": {
+          "en": "Order your drink clearly",
+          "es": "Pida su bebida con claridad",
+          "ja": "はっきりとドリンクを注文してください",
+          "ko": "음료를 분명하게 주문하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Politely decline the barista's suggestion",
+        "native_translations": {
+          "en": "Politely decline the barista's suggestion",
+          "es": "Rechace con cortesía la sugerencia del barista",
+          "fr": "Déclinez poliment la suggestion du barista",
+          "de": "Lehnen Sie den Vorschlag höflich ab",
+          "it": "Rifiuta con gentilezza il suggerimento del barista",
+          "pl": "Grzecznie odrzuć propozycję baristy",
+          "pt": "Recuse com educação a sugestão do barista",
+          "nl": "Wijs de suggestie van de barista beleefd af",
+          "hr": "Pristojno odbij baristin prijedlog",
+          "tr": "Baristanın önerisini kibarca reddedin",
+          "uk": "Ввічливо відмовся від пропозиції бариста",
+          "ar": "ارفض اقتراح الباريستا بأدب",
+          "hi": "बरिस्ता का सुझाव विनम्रता से ठुकराइए",
+          "vi": "Lịch sự từ chối gợi ý của nhân viên pha chế",
+          "id": "Tolak saran barista dengan sopan",
+          "ms": "Tolak cadangan barista dengan sopan",
+          "ko": "바리스타의 제안을 정중하게 거절하세요"
+        },
+        "practice": "Rechace con cortesía la sugerencia del barista",
+        "practice_translations": {
+          "en": "Politely decline the barista's suggestion",
+          "es": "Rechace con cortesía la sugerencia del barista",
+          "ja": "バリスタの提案を丁寧に断ってください",
+          "ko": "바리스타의 제안을 정중하게 거절하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Explain why you prefer your order",
+        "native_translations": {
+          "en": "Explain why you prefer your order",
+          "es": "Explique por qué prefiere su pedido",
+          "fr": "Expliquez pourquoi vous préférez votre commande",
+          "de": "Erklären Sie, warum Sie Ihre Bestellung bevorzugen",
+          "it": "Spiega perché preferisci il tuo ordine",
+          "pl": "Wyjaśnij, dlaczego wolisz swoje zamówienie",
+          "pt": "Explique por que você prefere o seu pedido",
+          "nl": "Leg uit waarom je jouw bestelling liever hebt",
+          "hr": "Objasni zašto ti je draža tvoja narudžba",
+          "tr": "Neden kendi siparişinizi tercih ettiğinizi açıklayın",
+          "uk": "Поясни, чому тобі до вподоби твоє замовлення",
+          "ar": "اشرح لماذا تفضّل طلبك",
+          "hi": "बताइए कि आपको अपना ऑर्डर क्यों पसंद है",
+          "vi": "Giải thích vì sao bạn thích món mình gọi hơn",
+          "id": "Jelaskan kenapa kamu lebih suka pesananmu",
+          "ms": "Terangkan mengapa anda lebih suka pesanan anda",
+          "ko": "왜 그 주문이 더 좋은지 설명하세요"
+        },
+        "practice": "Explique por qué prefiere su pedido",
+        "practice_translations": {
+          "en": "Explain why you prefer your order",
+          "es": "Explique por qué prefiere su pedido",
+          "ja": "自分の注文のほうがいい理由を説明してください",
+          "ko": "왜 그 주문이 더 좋은지 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Agree on a drink you both accept",
+        "native_translations": {
+          "en": "Agree on a drink you both accept",
+          "es": "Acuerden una bebida que acepten los dos",
+          "fr": "Mettez-vous d'accord sur une boisson qui convient à tous les deux",
+          "de": "Einigen Sie sich auf ein Getränk, mit dem Sie beide einverstanden sind",
+          "it": "Accordatevi su una bevanda che vada bene a entrambi",
+          "pl": "Uzgodnijcie napój, który pasuje wam obu",
+          "pt": "Cheguem a uma bebida que agrade aos dois",
+          "nl": "Spreek een drankje af waar jullie allebei mee akkoord gaan",
+          "hr": "Dogovori piće koje odgovara objema stranama",
+          "tr": "İkinizin de kabul edeceği bir içecekte anlaşın",
+          "uk": "Домовтеся про напій, який влаштує обох",
+          "ar": "اتفقا على مشروب يرضيكما معًا",
+          "hi": "ऐसी ड्रिंक पर सहमत होइए जो दोनों को मंज़ूर हो",
+          "vi": "Thống nhất một đồ uống cả hai đều chấp nhận",
+          "id": "Sepakati minuman yang bisa diterima kalian berdua",
+          "ms": "Setuju dengan minuman yang anda berdua boleh terima",
+          "ko": "둘 다 받아들일 수 있는 음료로 합의하세요"
+        },
+        "practice": "Acuerden una bebida que acepten los dos",
+        "practice_translations": {
+          "en": "Agree on a drink you both accept",
+          "es": "Acuerden una bebida que acepten los dos",
+          "ja": "お互いに納得できるドリンクに決めてください",
+          "ko": "둘 다 받아들일 수 있는 음료로 합의하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "I'd like a caramel latte with extra sugar, please.",
+      "native_translations": {
+        "en": "I'd like a caramel latte with extra sugar, please.",
+        "es": "Quisiera un latte de caramelo con azúcar extra, por favor.",
+        "fr": "Je voudrais un latte caramel avec du sucre en plus, s'il vous plaît.",
+        "de": "Ich hätte gern einen Karamell-Latte mit extra Zucker, bitte.",
+        "it": "Vorrei un latte macchiato al caramello con zucchero extra, per favore.",
+        "pl": "Poproszę karmelowe latte z dodatkowym cukrem.",
+        "pt": "Eu queria um latte de caramelo com açúcar extra, por favor.",
+        "nl": "Ik wil graag een karamellatte met extra suiker.",
+        "hr": "Za mene latte s karamelom i dodatnim šećerom, molim.",
+        "tr": "Ekstra şekerli bir karamel latte istiyorum, lütfen.",
+        "uk": "Мені карамельне лате з додатковим цукром, будь ласка.",
+        "ar": "أريد لاتيه بالكراميل مع سكر إضافي من فضلك.",
+        "hi": "मुझे एक्स्ट्रा चीनी वाली कैरामेल लाटे चाहिए, प्लीज़।",
+        "vi": "Cho tôi một ly latte caramel thêm đường nhé.",
+        "id": "Saya mau caramel latte dengan ekstra gula, ya.",
+        "ms": "Saya mahu latte karamel dengan gula tambahan, terima kasih.",
+        "ko": "설탕 추가한 캐러멜 라테 한 잔 주세요."
+      },
+      "practice": "Quisiera un latte de caramelo con azúcar extra, por favor.",
+      "practice_translations": {
+        "en": "I'd like a caramel latte with extra sugar, please.",
+        "es": "Quisiera un latte de caramelo con azúcar extra, por favor.",
+        "ja": "キャラメルラテを砂糖多めでお願いします。",
+        "ko": "설탕 추가한 캐러멜 라테 한 잔 주세요."
+      }
+    },
+    {
+      "native": "Thanks, but I'm not a fan of bitter coffee.",
+      "native_translations": {
+        "en": "Thanks, but I'm not a fan of bitter coffee.",
+        "es": "Gracias, pero no me gusta mucho el café amargo.",
+        "fr": "Merci, mais je ne suis pas fan du café amer.",
+        "de": "Danke, aber bitterer Kaffee ist nicht so meins.",
+        "it": "Grazie, ma il caffè amaro non mi piace molto.",
+        "pl": "Dzięki, ale nie przepadam za gorzką kawą.",
+        "pt": "Obrigado, mas não curto café amargo.",
+        "nl": "Bedankt, maar ik ben niet zo van bittere koffie.",
+        "hr": "Hvala, ali ne volim gorku kavu.",
+        "tr": "Teşekkürler ama acı kahveyi pek sevmiyorum.",
+        "uk": "Дякую, але я не люблю гірку каву.",
+        "ar": "شكرًا، لكني لا أحب القهوة المُرّة.",
+        "hi": "शुक्रिया, लेकिन मुझे कड़वी कॉफ़ी ख़ास पसंद नहीं।",
+        "vi": "Cảm ơn, nhưng tôi không thích cà phê đắng.",
+        "id": "Terima kasih, tapi saya kurang suka kopi pahit.",
+        "ms": "Terima kasih, tetapi saya kurang gemar kopi pahit.",
+        "ko": "고맙지만 저는 쓴 커피를 별로 안 좋아해요."
+      },
+      "practice": "Gracias, pero no me gusta mucho el café amargo.",
+      "practice_translations": {
+        "en": "Thanks, but I'm not a fan of bitter coffee.",
+        "es": "Gracias, pero no me gusta mucho el café amargo.",
+        "ja": "ありがとうございます、でも苦いコーヒーはあまり好きじゃないんです。",
+        "ko": "고맙지만 저는 쓴 커피를 별로 안 좋아해요."
+      }
+    },
+    {
+      "native": "I know what I like, and I like it sweet.",
+      "native_translations": {
+        "en": "I know what I like, and I like it sweet.",
+        "es": "Sé lo que me gusta, y me gusta dulce.",
+        "fr": "Je sais ce que j'aime, et je l'aime sucré.",
+        "de": "Ich weiß, was ich mag, und ich mag es süß.",
+        "it": "So cosa mi piace, e mi piace dolce.",
+        "pl": "Wiem, co lubię, a lubię na słodko.",
+        "pt": "Eu sei do que gosto, e gosto doce.",
+        "nl": "Ik weet wat ik lekker vind, en dat is zoet.",
+        "hr": "Znam što volim, a volim slatko.",
+        "tr": "Ne sevdiğimi biliyorum, ben tatlı severim.",
+        "uk": "Я знаю, що мені подобається, а подобається мені солодке.",
+        "ar": "أعرف ما أحب، وأحبها حلوة.",
+        "hi": "मुझे पता है मुझे क्या पसंद है, और मुझे मीठा पसंद है।",
+        "vi": "Tôi biết mình thích gì, và tôi thích uống ngọt.",
+        "id": "Saya tahu apa yang saya suka, dan saya suka yang manis.",
+        "ms": "Saya tahu apa yang saya suka, dan saya suka yang manis.",
+        "ko": "제 취향은 제가 잘 알아요. 저는 단 게 좋아요."
+      },
+      "practice": "Sé lo que me gusta, y me gusta dulce.",
+      "practice_translations": {
+        "en": "I know what I like, and I like it sweet.",
+        "es": "Sé lo que me gusta, y me gusta dulce.",
+        "ja": "自分の好みはわかっていて、甘いのが好きなんです。",
+        "ko": "제 취향은 제가 잘 알아요. 저는 단 게 좋아요."
+      }
+    },
+    {
+      "native": "I'm the one drinking it, after all.",
+      "native_translations": {
+        "en": "I'm the one drinking it, after all.",
+        "es": "Al fin y al cabo, soy yo quien se lo va a tomar.",
+        "fr": "Après tout, c'est moi qui vais le boire.",
+        "de": "Schließlich trinke ich ihn ja.",
+        "it": "Dopotutto, sono io a berlo.",
+        "pl": "W końcu to ja będę to pił.",
+        "pt": "Afinal, quem vai tomar sou eu.",
+        "nl": "Ik ben tenslotte degene die het drinkt.",
+        "hr": "Na kraju krajeva, ja ću je piti.",
+        "tr": "Sonuçta onu içecek olan benim.",
+        "uk": "Зрештою, пити її буду я.",
+        "ar": "في النهاية، أنا من سيشربها.",
+        "hi": "आख़िर पीना तो मुझे ही है।",
+        "vi": "Dù sao thì người uống cũng là tôi mà.",
+        "id": "Toh saya yang meminumnya.",
+        "ms": "Lagipun, saya yang akan minum.",
+        "ko": "어쨌든 마시는 사람은 저잖아요."
+      },
+      "practice": "Al fin y al cabo, soy yo quien se lo va a tomar.",
+      "practice_translations": {
+        "en": "I'm the one drinking it, after all.",
+        "es": "Al fin y al cabo, soy yo quien se lo va a tomar.",
+        "ja": "結局、飲むのは私ですから。",
+        "ko": "어쨌든 마시는 사람은 저잖아요."
+      }
+    },
+    {
+      "native": "Okay, how about half the sugar, but still caramel?",
+      "native_translations": {
+        "en": "Okay, how about half the sugar, but still caramel?",
+        "es": "Está bien, ¿qué tal con la mitad del azúcar, pero con caramelo?",
+        "fr": "D'accord, et si on mettait moitié moins de sucre, mais toujours au caramel ?",
+        "de": "Okay, wie wäre es mit halb so viel Zucker, aber trotzdem mit Karamell?",
+        "it": "Va bene, che ne dici di metà zucchero, ma sempre al caramello?",
+        "pl": "Dobrze, to może połowa cukru, ale nadal z karmelem?",
+        "pt": "Tá bom, que tal metade do açúcar, mas ainda com caramelo?",
+        "nl": "Oké, wat dacht je van de helft van de suiker, maar wel met karamel?",
+        "hr": "Dobro, može pola šećera, ali ipak s karamelom?",
+        "tr": "Peki, şekerin yarısı olsun ama yine karamelli, olur mu?",
+        "uk": "Гаразд, а якщо вдвічі менше цукру, але все одно з карамеллю?",
+        "ar": "حسنًا، ما رأيك بنصف كمية السكر، لكن مع الكراميل؟",
+        "hi": "ठीक है, आधी चीनी कैसी रहेगी, लेकिन कैरामेल के साथ ही?",
+        "vi": "Thôi được, vậy nửa lượng đường nhưng vẫn là caramel nhé?",
+        "id": "Oke, bagaimana kalau gulanya setengah, tapi tetap karamel?",
+        "ms": "Okey, bagaimana kalau separuh gula, tapi masih karamel?",
+        "ko": "좋아요, 그럼 설탕은 반만 넣고 캐러멜은 그대로 하면 어때요?"
+      },
+      "practice": "Está bien, ¿qué tal con la mitad del azúcar, pero con caramelo?",
+      "practice_translations": {
+        "en": "Okay, how about half the sugar, but still caramel?",
+        "es": "Está bien, ¿qué tal con la mitad del azúcar, pero con caramelo?",
+        "ja": "じゃあ、砂糖は半分で、キャラメルはそのままでどうですか。",
+        "ko": "좋아요, 그럼 설탕은 반만 넣고 캐러멜은 그대로 하면 어때요?"
+      }
+    }
+  ]
+}

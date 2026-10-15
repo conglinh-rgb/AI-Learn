@@ -1,0 +1,350 @@
+{
+  "id": "daily_life_making_a_wish_to_a_smarter_speaker_c2",
+  "title": "One Pizza, Not Fifty",
+  "title_translations": {
+    "en": "One Pizza, Not Fifty",
+    "es": "Una pizza, no cincuenta",
+    "fr": "Une pizza, pas cinquante",
+    "de": "Eine Pizza, nicht fünfzig",
+    "it": "Una pizza, non cinquanta",
+    "pl": "Jedna pizza, nie pięćdziesiąt",
+    "pt": "Uma pizza, não cinquenta",
+    "nl": "Eén pizza, geen vijftig",
+    "hr": "Jedna pizza, a ne pedeset",
+    "tr": "Bir Pizza, Elli Değil",
+    "uk": "Одна піца, а не п'ятдесят",
+    "ar": "بيتزا واحدة، لا خمسون",
+    "hi": "एक पिज़्ज़ा, पचास नहीं",
+    "vi": "Một chiếc pizza, không phải năm mươi",
+    "id": "Satu Piza, Bukan Lima Puluh",
+    "ms": "Satu Piza, Bukan Lima Puluh",
+    "ko": "피자 한 판, 쉰 판 말고"
+  },
+  "character": "fox",
+  "scenario": "You casually told your smart speaker (AI) that you felt like pizza, and it has now ordered fifty pizzas to your home.",
+  "scenario_translations": {
+    "en": "You casually told your smart speaker (AI) that you felt like pizza, and it has now ordered fifty pizzas to your home.",
+    "es": "Le comentó de pasada a su altavoz inteligente (AI) que se le antojaba una pizza, y ahora ha pedido cincuenta pizzas a su casa.",
+    "fr": "Vous avez dit en passant à votre enceinte connectée (AI) que vous aviez envie d'une pizza, et elle vient de commander cinquante pizzas chez vous.",
+    "de": "Sie haben Ihrem smarten Lautsprecher (AI) beiläufig gesagt, dass Sie Lust auf Pizza haben, und nun hat er fünfzig Pizzen zu Ihnen nach Hause bestellt.",
+    "it": "Hai detto per caso al tuo smart speaker (AI) che avevi voglia di pizza, e adesso ha ordinato cinquanta pizze a casa tua.",
+    "pl": "Mimochodem powiedziałeś inteligentnemu głośnikowi (AI), że masz ochotę na pizzę, a on zamówił ci do domu pięćdziesiąt pizz.",
+    "pt": "Você comentou por acaso com seu alto-falante inteligente (AI) que estava com vontade de pizza, e agora ele pediu cinquenta pizzas para sua casa.",
+    "nl": "Je zei terloops tegen je slimme speaker (AI) dat je wel zin had in pizza, en nu heeft hij vijftig pizza's naar je huis besteld.",
+    "hr": "Na tvoju usputnu opasku da ti se jede pizza, pametni zvučnik (AI) naručio je pedeset pizza na tvoju adresu.",
+    "tr": "Akıllı hoparlörünüze (AI) laf arasında canınızın pizza çektiğini söylediniz ve o da evinize elli pizza sipariş etti.",
+    "uk": "Ти мимохідь сказав розумній колонці (AI), що хочеш піци, і вона замовила тобі додому п'ятдесят піц.",
+    "ar": "قلت عرضًا لمكبّر الصوت الذكي (AI) إنك تشتهي البيتزا، فطلب الآن خمسين بيتزا إلى منزلك.",
+    "hi": "आपने अपने स्मार्ट स्पीकर (AI) से यूँ ही कह दिया कि पिज़्ज़ा खाने का मन है, और उसने अब आपके घर पचास पिज़्ज़ा ऑर्डर कर दिए हैं।",
+    "vi": "Bạn buột miệng nói với loa thông minh (AI) rằng bạn thèm pizza, và giờ nó đã đặt năm mươi chiếc pizza giao đến nhà bạn.",
+    "id": "Kamu iseng bilang ke speaker pintarmu (AI) bahwa kamu lagi ingin piza, dan sekarang ia sudah memesan lima puluh piza ke rumahmu.",
+    "ms": "Anda sambil lewa memberitahu pembesar suara pintar (AI) anda bahawa anda teringin makan piza, dan kini ia telah memesan lima puluh piza ke rumah anda.",
+    "ko": "스마트 스피커(AI)에게 무심코 피자가 먹고 싶다고 했더니, 스피커가 집으로 피자 50판을 주문해 버렸어요."
+  },
+  "mission": {
+    "native": "Cancel the extra pizzas and keep only one on the order.",
+    "native_translations": {
+      "en": "Cancel the extra pizzas and keep only one on the order.",
+      "es": "Cancele las pizzas de más y deje solo una en el pedido.",
+      "fr": "Annulez les pizzas en trop et n'en gardez qu'une dans la commande.",
+      "de": "Stornieren Sie die zusätzlichen Pizzen und behalten Sie nur eine in der Bestellung.",
+      "it": "Annulla le pizze in più e lascia solo una pizza nell'ordine.",
+      "pl": "Anuluj dodatkowe pizze i zostaw w zamówieniu tylko jedną.",
+      "pt": "Cancele as pizzas extras e deixe só uma no pedido.",
+      "nl": "Annuleer de extra pizza's en houd er maar één in de bestelling.",
+      "hr": "Otkaži višak pizza i zadrži samo jednu u narudžbi.",
+      "tr": "Fazla pizzaları iptal edin ve siparişte yalnızca bir tane bırakın.",
+      "uk": "Скасуй зайві піци й залиш у замовленні лише одну.",
+      "ar": "ألغِ البيتزا الزائدة واترك واحدة فقط في الطلب.",
+      "hi": "ज़्यादा पिज़्ज़ा कैंसल करवाइए और ऑर्डर में सिर्फ़ एक रखिए।",
+      "vi": "Hủy số pizza thừa và chỉ giữ lại một chiếc trong đơn.",
+      "id": "Batalkan piza yang kelebihan dan sisakan satu saja di pesanan.",
+      "ms": "Batalkan piza yang berlebihan dan kekalkan hanya satu dalam pesanan.",
+      "ko": "추가된 피자를 취소하고 주문에 한 판만 남기세요."
+    },
+    "practice": "Cancele las pizzas de más y deje solo una en el pedido.",
+    "practice_translations": {
+      "en": "Cancel the extra pizzas and keep only one on the order.",
+      "es": "Cancele las pizzas de más y deje solo una en el pedido.",
+      "ja": "余分なピザをキャンセルして、注文を1枚だけにしてください。",
+      "ko": "추가된 피자를 취소하고 주문에 한 판만 남기세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Ask what the speaker just ordered",
+        "native_translations": {
+          "en": "Ask what the speaker just ordered",
+          "es": "Pregunte qué acaba de pedir el altavoz",
+          "fr": "Demandez ce que l'enceinte vient de commander",
+          "de": "Fragen Sie, was der Lautsprecher gerade bestellt hat",
+          "it": "Chiedi cosa ha appena ordinato lo speaker",
+          "pl": "Zapytaj, co głośnik właśnie zamówił",
+          "pt": "Pergunte o que o alto-falante acabou de pedir",
+          "nl": "Vraag wat de speaker net heeft besteld",
+          "hr": "Pitaj što je zvučnik upravo naručio",
+          "tr": "Hoparlörün az önce ne sipariş ettiğini sorun",
+          "uk": "Запитай, що колонка щойно замовила",
+          "ar": "اسأل عمّا طلبه مكبّر الصوت للتو",
+          "hi": "पूछिए कि स्पीकर ने अभी क्या ऑर्डर किया",
+          "vi": "Hỏi xem loa vừa đặt gì",
+          "id": "Tanyakan apa yang baru saja dipesan speaker",
+          "ms": "Tanya apa yang baru dipesan oleh pembesar suara itu",
+          "ko": "스피커가 방금 무엇을 주문했는지 물어보세요"
+        },
+        "practice": "Pregunte qué acaba de pedir el altavoz",
+        "practice_translations": {
+          "en": "Ask what the speaker just ordered",
+          "es": "Pregunte qué acaba de pedir el altavoz",
+          "ja": "スピーカーが今何を注文したのか聞いてください",
+          "ko": "스피커가 방금 무엇을 주문했는지 물어보세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Explain that you only want one pizza",
+        "native_translations": {
+          "en": "Explain that you only want one pizza",
+          "es": "Explique que solo quiere una pizza",
+          "fr": "Expliquez que vous ne voulez qu'une seule pizza",
+          "de": "Erklären Sie, dass Sie nur eine Pizza möchten",
+          "it": "Spiega che vuoi solo una pizza",
+          "pl": "Wyjaśnij, że chcesz tylko jedną pizzę",
+          "pt": "Explique que você só quer uma pizza",
+          "nl": "Leg uit dat je maar één pizza wilt",
+          "hr": "Objasni da želiš samo jednu pizzu",
+          "tr": "Sadece bir pizza istediğinizi açıklayın",
+          "uk": "Поясни, що хочеш лише одну піцу",
+          "ar": "اشرح أنك تريد بيتزا واحدة فقط",
+          "hi": "बताइए कि आपको सिर्फ़ एक पिज़्ज़ा चाहिए",
+          "vi": "Giải thích rằng bạn chỉ muốn một chiếc pizza",
+          "id": "Jelaskan bahwa kamu hanya mau satu piza",
+          "ms": "Terangkan bahawa anda hanya mahu satu piza",
+          "ko": "피자는 한 판만 원한다고 설명하세요"
+        },
+        "practice": "Explique que solo quiere una pizza",
+        "practice_translations": {
+          "en": "Explain that you only want one pizza",
+          "es": "Explique que solo quiere una pizza",
+          "ja": "ピザは1枚だけほしいと説明してください",
+          "ko": "피자는 한 판만 원한다고 설명하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Ask it to cancel the rest of the order",
+        "native_translations": {
+          "en": "Ask it to cancel the rest of the order",
+          "es": "Pídale que cancele el resto del pedido",
+          "fr": "Demandez-lui d'annuler le reste de la commande",
+          "de": "Bitten Sie ihn, den Rest der Bestellung zu stornieren",
+          "it": "Chiedigli di annullare il resto dell'ordine",
+          "pl": "Poproś, żeby anulował resztę zamówienia",
+          "pt": "Peça para ele cancelar o resto do pedido",
+          "nl": "Vraag hem de rest van de bestelling te annuleren",
+          "hr": "Zamoli ga da otkaže ostatak narudžbe",
+          "tr": "Siparişin geri kalanını iptal etmesini isteyin",
+          "uk": "Попроси скасувати решту замовлення",
+          "ar": "اطلب منه إلغاء بقية الطلب",
+          "hi": "उससे बाक़ी ऑर्डर कैंसल करने को कहिए",
+          "vi": "Yêu cầu hủy phần còn lại của đơn hàng",
+          "id": "Minta ia membatalkan sisa pesanannya",
+          "ms": "Minta ia batalkan baki pesanan",
+          "ko": "나머지 주문을 취소해 달라고 하세요"
+        },
+        "practice": "Pídale que cancele el resto del pedido",
+        "practice_translations": {
+          "en": "Ask it to cancel the rest of the order",
+          "es": "Pídale que cancele el resto del pedido",
+          "ja": "残りの注文をキャンセルするよう頼んでください",
+          "ko": "나머지 주문을 취소해 달라고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Confirm the final order and delivery time",
+        "native_translations": {
+          "en": "Confirm the final order and delivery time",
+          "es": "Confirme el pedido final y la hora de entrega",
+          "fr": "Confirmez la commande finale et l'heure de livraison",
+          "de": "Bestätigen Sie die endgültige Bestellung und die Lieferzeit",
+          "it": "Conferma l'ordine finale e l'orario di consegna",
+          "pl": "Potwierdź ostateczne zamówienie i godzinę dostawy",
+          "pt": "Confirme o pedido final e o horário de entrega",
+          "nl": "Bevestig de definitieve bestelling en de bezorgtijd",
+          "hr": "Potvrdi konačnu narudžbu i vrijeme dostave",
+          "tr": "Son siparişi ve teslimat saatini onaylayın",
+          "uk": "Підтверди остаточне замовлення та час доставки",
+          "ar": "أكّد الطلب النهائي وموعد التوصيل",
+          "hi": "अंतिम ऑर्डर और डिलीवरी का समय पक्का कीजिए",
+          "vi": "Xác nhận đơn cuối cùng và thời gian giao hàng",
+          "id": "Konfirmasi pesanan akhir dan waktu pengantarannya",
+          "ms": "Sahkan pesanan akhir dan masa penghantaran",
+          "ko": "최종 주문과 배달 시간을 확인하세요"
+        },
+        "practice": "Confirme el pedido final y la hora de entrega",
+        "practice_translations": {
+          "en": "Confirm the final order and delivery time",
+          "es": "Confirme el pedido final y la hora de entrega",
+          "ja": "最終的な注文と配達時間を確認してください",
+          "ko": "최종 주문과 배달 시간을 확인하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Wait, what did you just order?",
+      "native_translations": {
+        "en": "Wait, what did you just order?",
+        "es": "Espera, ¿qué acabas de pedir?",
+        "fr": "Attends, qu'est-ce que tu viens de commander ?",
+        "de": "Moment, was hast du gerade bestellt?",
+        "it": "Aspetta, cosa hai appena ordinato?",
+        "pl": "Chwila, co ty właśnie zamówiłeś?",
+        "pt": "Espera, o que você acabou de pedir?",
+        "nl": "Wacht, wat heb je net besteld?",
+        "hr": "Čekaj, što si upravo naručio?",
+        "tr": "Bir dakika, az önce ne sipariş ettin?",
+        "uk": "Стривай, що ти щойно замовила?",
+        "ar": "انتظر، ماذا طلبت للتو؟",
+        "hi": "रुको, तुमने अभी क्या ऑर्डर किया?",
+        "vi": "Khoan đã, bạn vừa đặt cái gì vậy?",
+        "id": "Tunggu, barusan kamu pesan apa?",
+        "ms": "Tunggu, apa yang awak baru pesan?",
+        "ko": "잠깐, 방금 뭘 주문한 거예요?"
+      },
+      "practice": "Espera, ¿qué acabas de pedir?",
+      "practice_translations": {
+        "en": "Wait, what did you just order?",
+        "es": "Espera, ¿qué acabas de pedir?",
+        "ja": "ちょっと待って、今何を注文したんですか。",
+        "ko": "잠깐, 방금 뭘 주문한 거예요?"
+      }
+    },
+    {
+      "native": "Fifty pizzas? I only wanted one!",
+      "native_translations": {
+        "en": "Fifty pizzas? I only wanted one!",
+        "es": "¿Cincuenta pizzas? ¡Yo solo quería una!",
+        "fr": "Cinquante pizzas ? Je n'en voulais qu'une !",
+        "de": "Fünfzig Pizzen? Ich wollte nur eine!",
+        "it": "Cinquanta pizze? Ne volevo solo una!",
+        "pl": "Pięćdziesiąt pizz? Chciałem tylko jedną!",
+        "pt": "Cinquenta pizzas? Eu só queria uma!",
+        "nl": "Vijftig pizza's? Ik wilde er maar één!",
+        "hr": "Pedeset pizza? Trebala mi je samo jedna!",
+        "tr": "Elli pizza mı? Ben sadece bir tane istedim!",
+        "uk": "П'ятдесят піц? Я хотів лише одну!",
+        "ar": "خمسون بيتزا؟ أردت واحدة فقط!",
+        "hi": "पचास पिज़्ज़ा? मुझे तो बस एक चाहिए था!",
+        "vi": "Năm mươi chiếc pizza á? Tôi chỉ muốn một chiếc thôi!",
+        "id": "Lima puluh piza? Saya cuma mau satu!",
+        "ms": "Lima puluh piza? Saya cuma mahu satu!",
+        "ko": "피자 50판이요? 저는 한 판만 원했어요!"
+      },
+      "practice": "¿Cincuenta pizzas? ¡Yo solo quería una!",
+      "practice_translations": {
+        "en": "Fifty pizzas? I only wanted one!",
+        "es": "¿Cincuenta pizzas? ¡Yo solo quería una!",
+        "ja": "ピザ50枚？1枚だけでよかったのに！",
+        "ko": "피자 50판이요? 저는 한 판만 원했어요!"
+      }
+    },
+    {
+      "native": "Please cancel the other forty-nine right now.",
+      "native_translations": {
+        "en": "Please cancel the other forty-nine right now.",
+        "es": "Por favor, cancela las otras cuarenta y nueve ahora mismo.",
+        "fr": "Annule les quarante-neuf autres tout de suite, s'il te plaît.",
+        "de": "Storniere bitte sofort die anderen neunundvierzig.",
+        "it": "Per favore, annulla subito le altre quarantanove.",
+        "pl": "Anuluj natychmiast pozostałe czterdzieści dziewięć.",
+        "pt": "Por favor, cancele as outras quarenta e nove agora mesmo.",
+        "nl": "Annuleer de andere negenenveertig alsjeblieft meteen.",
+        "hr": "Molim te, odmah otkaži ostalih četrdeset devet.",
+        "tr": "Lütfen diğer kırk dokuzunu hemen iptal et.",
+        "uk": "Будь ласка, негайно скасуй інші сорок дев'ять.",
+        "ar": "من فضلك ألغِ التسع والأربعين الأخرى الآن.",
+        "hi": "बाक़ी उनचास अभी के अभी कैंसल करो, प्लीज़।",
+        "vi": "Hủy ngay bốn mươi chín chiếc kia đi.",
+        "id": "Tolong batalkan empat puluh sembilan lainnya sekarang juga.",
+        "ms": "Tolong batalkan empat puluh sembilan yang lain sekarang juga.",
+        "ko": "나머지 49판은 지금 바로 취소해 주세요."
+      },
+      "practice": "Por favor, cancela las otras cuarenta y nueve ahora mismo.",
+      "practice_translations": {
+        "en": "Please cancel the other forty-nine right now.",
+        "es": "Por favor, cancela las otras cuarenta y nueve ahora mismo.",
+        "ja": "残りの49枚を今すぐキャンセルしてください。",
+        "ko": "나머지 49판은 지금 바로 취소해 주세요."
+      }
+    },
+    {
+      "native": "One medium cheese pizza, that's all.",
+      "native_translations": {
+        "en": "One medium cheese pizza, that's all.",
+        "es": "Una pizza mediana de queso, nada más.",
+        "fr": "Une pizza moyenne au fromage, c'est tout.",
+        "de": "Eine mittelgroße Käsepizza, das ist alles.",
+        "it": "Una pizza media al formaggio, nient'altro.",
+        "pl": "Jedna średnia pizza z serem, to wszystko.",
+        "pt": "Uma pizza média de queijo, só isso.",
+        "nl": "Eén medium kaaspizza, dat is alles.",
+        "hr": "Jedna srednja pizza sa sirom, to je sve.",
+        "tr": "Bir orta boy peynirli pizza, o kadar.",
+        "uk": "Одна середня сирна піца, і все.",
+        "ar": "بيتزا جبن واحدة متوسطة الحجم، هذا كل شيء.",
+        "hi": "एक मीडियम चीज़ पिज़्ज़ा, बस इतना ही।",
+        "vi": "Một pizza phô mai cỡ vừa, vậy thôi.",
+        "id": "Satu piza keju ukuran sedang, itu saja.",
+        "ms": "Satu piza keju saiz sederhana, itu sahaja.",
+        "ko": "치즈 피자 미디엄 한 판, 그거면 돼요."
+      },
+      "practice": "Una pizza mediana de queso, nada más.",
+      "practice_translations": {
+        "en": "One medium cheese pizza, that's all.",
+        "es": "Una pizza mediana de queso, nada más.",
+        "ja": "チーズピザのMサイズを1枚、それだけです。",
+        "ko": "치즈 피자 미디엄 한 판, 그거면 돼요."
+      }
+    },
+    {
+      "native": "What time will it arrive?",
+      "native_translations": {
+        "en": "What time will it arrive?",
+        "es": "¿A qué hora va a llegar?",
+        "fr": "À quelle heure elle arrive ?",
+        "de": "Wann kommt sie an?",
+        "it": "A che ora arriva?",
+        "pl": "O której przyjedzie?",
+        "pt": "Que horas vai chegar?",
+        "nl": "Hoe laat wordt hij bezorgd?",
+        "hr": "U koliko sati stiže?",
+        "tr": "Saat kaçta gelecek?",
+        "uk": "О котрій її привезуть?",
+        "ar": "متى ستصل؟",
+        "hi": "यह कितने बजे तक पहुँचेगा?",
+        "vi": "Mấy giờ thì pizza đến?",
+        "id": "Jam berapa sampainya?",
+        "ms": "Pukul berapa ia akan sampai?",
+        "ko": "몇 시에 도착해요?"
+      },
+      "practice": "¿A qué hora va a llegar?",
+      "practice_translations": {
+        "en": "What time will it arrive?",
+        "es": "¿A qué hora va a llegar?",
+        "ja": "何時に届きますか。",
+        "ko": "몇 시에 도착해요?"
+      }
+    }
+  ]
+}

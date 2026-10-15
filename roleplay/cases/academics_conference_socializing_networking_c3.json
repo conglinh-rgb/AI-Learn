@@ -1,0 +1,351 @@
+{
+  "id": "academics_conference_socializing_networking_c3",
+  "title": "Catching the Keynote Speaker",
+  "title_translations": {
+    "en": "Catching the Keynote Speaker",
+    "es": "Alcanzar al conferencista principal",
+    "fr": "Aborder l'orateur principal",
+    "de": "Die Keynote-Rednerin abfangen",
+    "it": "Intercettare il relatore principale",
+    "pl": "Złap głównego prelegenta",
+    "pt": "Abordando o palestrante principal",
+    "nl": "De keynotespreker te pakken krijgen",
+    "hr": "Uhvati glavnog govornika",
+    "tr": "Ana Konuşmacıyı Yakalamak",
+    "uk": "Спіймати головного доповідача",
+    "ar": "اللحاق بالمتحدث الرئيسي",
+    "hi": "कीनोट वक्ता से मुलाक़ात",
+    "vi": "Bắt kịp diễn giả chính",
+    "id": "Mencegat Pembicara Utama",
+    "ms": "Menahan Penceramah Utama",
+    "ko": "기조연설자 붙잡기"
+  },
+  "character": "fox",
+  "premium": true,
+  "scenario": "The keynote speaker (AI) has just finished and is about to leave. They seem busy and in a hurry.",
+  "scenario_translations": {
+    "en": "The keynote speaker (AI) has just finished and is about to leave. They seem busy and in a hurry.",
+    "es": "El conferencista principal (AI) acaba de terminar y está a punto de irse. Parece ocupado y con prisa.",
+    "fr": "L'orateur principal (AI) vient de terminer et s'apprête à partir. Il semble occupé et pressé.",
+    "de": "Die Keynote-Rednerin bzw. der Keynote-Redner (AI) ist gerade fertig und will gleich gehen. Die Person wirkt beschäftigt und in Eile.",
+    "it": "Il relatore principale (AI) ha appena finito e sta per andarsene. Sembra impegnato e di fretta.",
+    "pl": "Główny prelegent (AI) właśnie skończył i zaraz wychodzi. Wygląda na zajętego i spieszy się.",
+    "pt": "O palestrante principal (AI) acabou de terminar e está prestes a ir embora. Parece ocupado e com pressa.",
+    "nl": "De keynotespreker (AI) is net klaar en staat op het punt te vertrekken. Hij lijkt druk en gehaast.",
+    "hr": "Glavni govornik (AI) upravo je završio i sprema se otići. Čini se zauzeto i u žurbi.",
+    "tr": "Ana konuşmacı (AI) konuşmasını yeni bitirdi ve ayrılmak üzere. Meşgul ve aceleci görünüyor.",
+    "uk": "Головний доповідач (AI) щойно закінчив виступ і збирається йти. Він явно зайнятий і поспішає.",
+    "ar": "انتهى المتحدث الرئيسي (AI) للتو وهو على وشك المغادرة. يبدو مشغولًا ومستعجلًا.",
+    "hi": "कीनोट वक्ता (AI) ने अभी अपनी बात ख़त्म की है और जाने वाले हैं। वे व्यस्त और जल्दी में लग रहे हैं।",
+    "vi": "Diễn giả chính (AI) vừa nói xong và sắp rời đi. Họ có vẻ bận và đang vội.",
+    "id": "Pembicara utama (AI) baru saja selesai dan hendak pergi. Mereka tampak sibuk dan terburu-buru.",
+    "ms": "Penceramah utama (AI) baru selesai dan hendak beredar. Mereka nampak sibuk dan tergesa-gesa.",
+    "ko": "기조연설자(AI)가 방금 연설을 마치고 떠나려고 해요. 바쁘고 서두르는 것 같아요."
+  },
+  "mission": {
+    "native": "Make a strong impression in under a minute and get their contact details.",
+    "native_translations": {
+      "en": "Make a strong impression in under a minute and get their contact details.",
+      "es": "Cause una buena impresión en menos de un minuto y consiga sus datos de contacto.",
+      "fr": "Faites forte impression en moins d'une minute et obtenez ses coordonnées.",
+      "de": "Hinterlassen Sie in weniger als einer Minute einen starken Eindruck und bekommen Sie die Kontaktdaten.",
+      "it": "Fai un'ottima impressione in meno di un minuto e ottieni i suoi contatti.",
+      "pl": "Zrób dobre wrażenie w niecałą minutę i zdobądź jego dane kontaktowe.",
+      "pt": "Cause uma ótima impressão em menos de um minuto e consiga o contato da pessoa.",
+      "nl": "Maak in minder dan een minuut een sterke indruk en krijg zijn contactgegevens.",
+      "hr": "Ostavi snažan dojam za manje od minute i dobij njegove kontakt podatke.",
+      "tr": "Bir dakikadan kısa sürede güçlü bir izlenim bırakın ve iletişim bilgilerini alın.",
+      "uk": "Справ сильне враження менш ніж за хвилину й отримай його контакти.",
+      "ar": "اترك انطباعًا قويًا في أقل من دقيقة واحصل على بيانات التواصل معه.",
+      "hi": "एक मिनट से कम समय में अच्छी छाप छोड़िए और उनकी संपर्क जानकारी लीजिए।",
+      "vi": "Gây ấn tượng mạnh trong chưa đầy một phút và xin thông tin liên lạc của họ.",
+      "id": "Berikan kesan yang kuat dalam waktu kurang dari semenit dan dapatkan kontak mereka.",
+      "ms": "Tinggalkan kesan yang kuat dalam masa kurang seminit dan dapatkan maklumat hubungan mereka.",
+      "ko": "1분 안에 강한 인상을 남기고 연락처를 받으세요."
+    },
+    "practice": "Cause una buena impresión en menos de un minuto y consiga sus datos de contacto.",
+    "practice_translations": {
+      "en": "Make a strong impression in under a minute and get their contact details.",
+      "es": "Cause una buena impresión en menos de un minuto y consiga sus datos de contacto.",
+      "ja": "1分以内に強い印象を残して、連絡先を教えてもらってください。",
+      "ko": "1분 안에 강한 인상을 남기고 연락처를 받으세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Politely ask for a minute of their time",
+        "native_translations": {
+          "en": "Politely ask for a minute of their time",
+          "es": "Pida con cortesía un minuto de su tiempo",
+          "fr": "Demandez poliment une minute de son temps",
+          "de": "Bitten Sie höflich um eine Minute Zeit",
+          "it": "Chiedi gentilmente un minuto del suo tempo",
+          "pl": "Grzecznie poproś o minutę jego czasu",
+          "pt": "Peça educadamente um minuto do tempo da pessoa",
+          "nl": "Vraag beleefd om een minuutje van zijn tijd",
+          "hr": "Pristojno zamoli za minutu vremena",
+          "tr": "Kibarca bir dakikalarını isteyin",
+          "uk": "Ввічливо попроси хвилинку часу",
+          "ar": "اطلب بأدب دقيقة من وقته",
+          "hi": "विनम्रता से उनका एक मिनट माँगिए",
+          "vi": "Lịch sự xin một phút thời gian của họ",
+          "id": "Minta waktu mereka sebentar dengan sopan",
+          "ms": "Minta seminit masa mereka dengan sopan",
+          "ko": "정중하게 1분만 시간을 내 달라고 부탁하세요"
+        },
+        "practice": "Pida con cortesía un minuto de su tiempo",
+        "practice_translations": {
+          "en": "Politely ask for a minute of their time",
+          "es": "Pida con cortesía un minuto de su tiempo",
+          "ja": "少し時間をいただけるよう丁寧にお願いしてください",
+          "ko": "정중하게 1분만 시간을 내 달라고 부탁하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Pitch your research in two sentences",
+        "native_translations": {
+          "en": "Pitch your research in two sentences",
+          "es": "Presente su investigación en dos frases",
+          "fr": "Présentez vos recherches en deux phrases",
+          "de": "Stellen Sie Ihre Forschung in zwei Sätzen vor",
+          "it": "Presenta la tua ricerca in due frasi",
+          "pl": "Przedstaw swoje badania w dwóch zdaniach",
+          "pt": "Apresente sua pesquisa em duas frases",
+          "nl": "Pitch je onderzoek in twee zinnen",
+          "hr": "Predstavi svoje istraživanje u dvije rečenice",
+          "tr": "Araştırmanızı iki cümleyle tanıtın",
+          "uk": "Презентуй своє дослідження двома реченнями",
+          "ar": "قدّم بحثك في جملتين",
+          "hi": "दो वाक्यों में अपनी रिसर्च बताइए",
+          "vi": "Giới thiệu nghiên cứu của bạn trong hai câu",
+          "id": "Jelaskan penelitianmu dalam dua kalimat",
+          "ms": "Terangkan penyelidikan anda dalam dua ayat",
+          "ko": "두 문장으로 자신의 연구를 소개하세요"
+        },
+        "practice": "Presente su investigación en dos frases",
+        "practice_translations": {
+          "en": "Pitch your research in two sentences",
+          "es": "Presente su investigación en dos frases",
+          "ja": "自分の研究を2文で紹介してください",
+          "ko": "두 문장으로 자신의 연구를 소개하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Connect your work to their keynote",
+        "native_translations": {
+          "en": "Connect your work to their keynote",
+          "es": "Relacione su trabajo con la conferencia magistral",
+          "fr": "Reliez vos travaux à sa conférence",
+          "de": "Verknüpfen Sie Ihre Arbeit mit der Keynote",
+          "it": "Collega il tuo lavoro al suo intervento",
+          "pl": "Powiąż swoją pracę z jego wystąpieniem",
+          "pt": "Relacione seu trabalho com a palestra principal",
+          "nl": "Verbind je werk met zijn keynote",
+          "hr": "Poveži svoj rad s njegovim izlaganjem",
+          "tr": "Çalışmanızı onların konuşmasıyla ilişkilendirin",
+          "uk": "Пов'яжи свою роботу з його доповіддю",
+          "ar": "اربط عملك بمحاضرته الرئيسية",
+          "hi": "अपने काम को उनकी कीनोट से जोड़िए",
+          "vi": "Liên hệ nghiên cứu của bạn với bài nói của họ",
+          "id": "Kaitkan pekerjaanmu dengan materi utama mereka",
+          "ms": "Kaitkan kerja anda dengan ucaptama mereka",
+          "ko": "자신의 연구를 기조연설 내용과 연결하세요"
+        },
+        "practice": "Relacione su trabajo con la conferencia magistral",
+        "practice_translations": {
+          "en": "Connect your work to their keynote",
+          "es": "Relacione su trabajo con la conferencia magistral",
+          "ja": "自分の研究と基調講演を結びつけてください",
+          "ko": "자신의 연구를 기조연설 내용과 연결하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask for their email or business card",
+        "native_translations": {
+          "en": "Ask for their email or business card",
+          "es": "Pida su correo o su tarjeta de presentación",
+          "fr": "Demandez son e-mail ou sa carte de visite",
+          "de": "Bitten Sie um E-Mail-Adresse oder Visitenkarte",
+          "it": "Chiedi la sua email o il suo biglietto da visita",
+          "pl": "Poproś o adres e-mail lub wizytówkę",
+          "pt": "Peça o e-mail ou o cartão de visita",
+          "nl": "Vraag om zijn e-mailadres of visitekaartje",
+          "hr": "Zatraži njegov e-mail ili posjetnicu",
+          "tr": "E-posta adreslerini veya kartvizitlerini isteyin",
+          "uk": "Попроси його email або візитівку",
+          "ar": "اطلب بريده الإلكتروني أو بطاقة عمله",
+          "hi": "उनका ईमेल या बिज़नेस कार्ड माँगिए",
+          "vi": "Xin email hoặc danh thiếp của họ",
+          "id": "Minta email atau kartu nama mereka",
+          "ms": "Minta e-mel atau kad nama mereka",
+          "ko": "이메일이나 명함을 부탁하세요"
+        },
+        "practice": "Pida su correo o su tarjeta de presentación",
+        "practice_translations": {
+          "en": "Ask for their email or business card",
+          "es": "Pida su correo o su tarjeta de presentación",
+          "ja": "メールアドレスか名刺をお願いしてください",
+          "ko": "이메일이나 명함을 부탁하세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "Excuse me, I know you're busy. Could I have just one minute?",
+      "native_translations": {
+        "en": "Excuse me, I know you're busy. Could I have just one minute?",
+        "es": "Disculpe, sé que tiene prisa. ¿Me regala solo un minuto?",
+        "fr": "Excusez-moi, je sais que vous êtes occupé. Pourrais-je avoir juste une minute ?",
+        "de": "Entschuldigung, ich weiß, Sie sind beschäftigt. Hätten Sie nur eine Minute?",
+        "it": "Mi scusi, so che è di fretta. Potrei avere solo un minuto?",
+        "pl": "Przepraszam, wiem, że jest pan zajęty. Czy mogę prosić o minutę?",
+        "pt": "Com licença, sei que você está ocupado. Posso ter só um minuto?",
+        "nl": "Pardon, ik weet dat u het druk heeft. Mag ik heel even een minuutje?",
+        "hr": "Oprostite, znam da ste zauzeti. Mogu li dobiti samo minutu?",
+        "tr": "Affedersiniz, meşgul olduğunuzu biliyorum. Sadece bir dakikanızı alabilir miyim?",
+        "uk": "Перепрошую, я знаю, що ви зайняті. Можна лише одну хвилинку?",
+        "ar": "عفوًا، أعلم أنك مشغول. هل تسمح لي بدقيقة واحدة فقط؟",
+        "hi": "माफ़ कीजिए, मुझे पता है आप व्यस्त हैं। क्या मुझे बस एक मिनट मिल सकता है?",
+        "vi": "Xin lỗi, tôi biết anh/chị đang bận. Cho tôi xin đúng một phút thôi được không ạ?",
+        "id": "Permisi, saya tahu Anda sibuk. Boleh minta waktu satu menit saja?",
+        "ms": "Maaf, saya tahu anda sibuk. Boleh beri saya seminit sahaja?",
+        "ko": "실례합니다, 바쁘신 줄 알지만 1분만 시간 내주실 수 있을까요?"
+      },
+      "practice": "Disculpe, sé que tiene prisa. ¿Me regala solo un minuto?",
+      "practice_translations": {
+        "en": "Excuse me, I know you're busy. Could I have just one minute?",
+        "es": "Disculpe, sé que tiene prisa. ¿Me regala solo un minuto?",
+        "ja": "お忙しいところ失礼します。1分だけお時間をいただけますか。",
+        "ko": "실례합니다, 바쁘신 줄 알지만 1분만 시간 내주실 수 있을까요?"
+      }
+    },
+    {
+      "native": "Your talk really connected with my own research.",
+      "native_translations": {
+        "en": "Your talk really connected with my own research.",
+        "es": "Su conferencia tiene mucho que ver con mi propia investigación.",
+        "fr": "Votre intervention fait vraiment écho à mes propres recherches.",
+        "de": "Ihr Vortrag hat sehr gut zu meiner eigenen Forschung gepasst.",
+        "it": "Il suo intervento si collega davvero alla mia ricerca.",
+        "pl": "Pana wystąpienie bardzo nawiązywało do moich własnych badań.",
+        "pt": "Sua palestra tem tudo a ver com a minha pesquisa.",
+        "nl": "Uw lezing sloot echt aan bij mijn eigen onderzoek.",
+        "hr": "Vaše izlaganje zaista se nadovezuje na moje istraživanje.",
+        "tr": "Konuşmanız benim araştırmamla gerçekten örtüşüyordu.",
+        "uk": "Ваша доповідь дуже перегукується з моїм власним дослідженням.",
+        "ar": "محاضرتك ارتبطت فعلًا ببحثي الخاص.",
+        "hi": "आपकी टॉक मेरी अपनी रिसर्च से काफ़ी जुड़ी हुई थी।",
+        "vi": "Bài nói của anh/chị rất gần với nghiên cứu của tôi.",
+        "id": "Presentasi Anda sangat berkaitan dengan penelitian saya.",
+        "ms": "Ceramah anda sangat berkait dengan penyelidikan saya sendiri.",
+        "ko": "발표 내용이 제 연구와 정말 많이 맞닿아 있었어요."
+      },
+      "practice": "Su conferencia tiene mucho que ver con mi propia investigación.",
+      "practice_translations": {
+        "en": "Your talk really connected with my own research.",
+        "es": "Su conferencia tiene mucho que ver con mi propia investigación.",
+        "ja": "ご講演の内容は、私の研究と深く関係していました。",
+        "ko": "발표 내용이 제 연구와 정말 많이 맞닿아 있었어요."
+      }
+    },
+    {
+      "native": "In short, I study how people learn with mobile apps.",
+      "native_translations": {
+        "en": "In short, I study how people learn with mobile apps.",
+        "es": "En resumen, estudio cómo aprenden las personas con aplicaciones móviles.",
+        "fr": "En bref, j'étudie la façon dont les gens apprennent avec des applications mobiles.",
+        "de": "Kurz gesagt: Ich untersuche, wie Menschen mit mobilen Apps lernen.",
+        "it": "In breve, studio come le persone imparano con le app per dispositivi mobili.",
+        "pl": "W skrócie: badam, jak ludzie uczą się za pomocą aplikacji mobilnych.",
+        "pt": "Resumindo, eu estudo como as pessoas aprendem com aplicativos móveis.",
+        "nl": "Kort gezegd onderzoek ik hoe mensen leren met mobiele apps.",
+        "hr": "Ukratko, istražujem kako ljudi uče uz mobilne aplikacije.",
+        "tr": "Kısaca, insanların mobil uygulamalarla nasıl öğrendiğini araştırıyorum.",
+        "uk": "Коротко: я вивчаю, як люди навчаються за допомогою мобільних застосунків.",
+        "ar": "باختصار، أدرس كيف يتعلم الناس باستخدام تطبيقات الهاتف.",
+        "hi": "संक्षेप में, मैं यह स्टडी करता हूँ कि लोग मोबाइल ऐप्स से कैसे सीखते हैं।",
+        "vi": "Nói ngắn gọn, tôi nghiên cứu cách mọi người học bằng ứng dụng di động.",
+        "id": "Singkatnya, saya meneliti cara orang belajar lewat aplikasi seluler.",
+        "ms": "Ringkasnya, saya mengkaji cara orang belajar menggunakan aplikasi mudah alih.",
+        "ko": "간단히 말하면, 저는 사람들이 모바일 앱으로 어떻게 배우는지 연구해요."
+      },
+      "practice": "En resumen, estudio cómo aprenden las personas con aplicaciones móviles.",
+      "practice_translations": {
+        "en": "In short, I study how people learn with mobile apps.",
+        "es": "En resumen, estudio cómo aprenden las personas con aplicaciones móviles.",
+        "ja": "簡単に言うと、人がモバイルアプリでどう学ぶかを研究しています。",
+        "ko": "간단히 말하면, 저는 사람들이 모바일 앱으로 어떻게 배우는지 연구해요."
+      }
+    },
+    {
+      "native": "Your point about motivation matches what I found.",
+      "native_translations": {
+        "en": "Your point about motivation matches what I found.",
+        "es": "Lo que dijo sobre la motivación coincide con lo que encontré.",
+        "fr": "Votre remarque sur la motivation correspond à ce que j'ai observé.",
+        "de": "Ihr Punkt zur Motivation deckt sich mit meinen Ergebnissen.",
+        "it": "Il suo punto sulla motivazione corrisponde a quello che ho scoperto io.",
+        "pl": "Pana uwaga o motywacji zgadza się z tym, co odkryłem.",
+        "pt": "Seu ponto sobre motivação bate com o que eu descobri.",
+        "nl": "Uw punt over motivatie komt overeen met wat ik heb gevonden.",
+        "hr": "Vaša opaska o motivaciji poklapa se s mojim rezultatima.",
+        "tr": "Motivasyonla ilgili söyledikleriniz benim bulgularımla örtüşüyor.",
+        "uk": "Ваша думка про мотивацію збігається з моїми результатами.",
+        "ar": "فكرتك عن الدافعية تتوافق مع ما توصلت إليه.",
+        "hi": "मोटिवेशन वाली आपकी बात मेरे नतीजों से मेल खाती है।",
+        "vi": "Ý của anh/chị về động lực trùng khớp với những gì tôi phát hiện ra.",
+        "id": "Poin Anda tentang motivasi sejalan dengan temuan saya.",
+        "ms": "Pandangan anda tentang motivasi sepadan dengan dapatan saya.",
+        "ko": "동기에 관한 말씀이 제 연구 결과와 일치해요."
+      },
+      "practice": "Lo que dijo sobre la motivación coincide con lo que encontré.",
+      "practice_translations": {
+        "en": "Your point about motivation matches what I found.",
+        "es": "Lo que dijo sobre la motivación coincide con lo que encontré.",
+        "ja": "モチベーションについてのご指摘は、私の研究結果と一致しています。",
+        "ko": "동기에 관한 말씀이 제 연구 결과와 일치해요."
+      }
+    },
+    {
+      "native": "Would it be all right if I emailed you?",
+      "native_translations": {
+        "en": "Would it be all right if I emailed you?",
+        "es": "¿Le molestaría si le escribo por correo?",
+        "fr": "Est-ce que je pourrais vous écrire par e-mail ?",
+        "de": "Wäre es in Ordnung, wenn ich Ihnen eine E-Mail schreibe?",
+        "it": "Le dispiacerebbe se le scrivessi un'email?",
+        "pl": "Czy mógłbym napisać do pana maila?",
+        "pt": "Tudo bem se eu te mandar um e-mail?",
+        "nl": "Zou u het goedvinden als ik u een e-mail stuur?",
+        "hr": "Bi li Vam smetalo da Vam se javim e-mailom?",
+        "tr": "Size e-posta göndersem sorun olur mu?",
+        "uk": "Чи можна мені написати вам листа?",
+        "ar": "هل تمانع إن راسلتك عبر البريد الإلكتروني؟",
+        "hi": "क्या मैं आपको ईमेल कर सकता हूँ?",
+        "vi": "Tôi có thể gửi email cho anh/chị được không ạ?",
+        "id": "Apakah boleh saya mengirim email kepada Anda?",
+        "ms": "Bolehkah saya menghantar e-mel kepada anda?",
+        "ko": "이메일 드려도 괜찮을까요?"
+      },
+      "practice": "¿Le molestaría si le escribo por correo?",
+      "practice_translations": {
+        "en": "Would it be all right if I emailed you?",
+        "es": "¿Le molestaría si le escribo por correo?",
+        "ja": "メールでご連絡させていただいてもよろしいでしょうか。",
+        "ko": "이메일 드려도 괜찮을까요?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "academics_classroom_academics_c2",
+  "title": "Group Project Kickoff",
+  "title_translations": {
+    "en": "Group Project Kickoff",
+    "es": "Arranque del proyecto grupal",
+    "fr": "Lancement du projet de groupe",
+    "de": "Start des Gruppenprojekts",
+    "it": "Avvio del progetto di gruppo",
+    "pl": "Start projektu grupowego",
+    "pt": "Início do trabalho em grupo",
+    "nl": "Aftrap van het groepsproject",
+    "hr": "Početak grupnog projekta",
+    "tr": "Grup Projesine Başlangıç",
+    "uk": "Старт групового проєкту",
+    "ar": "انطلاق مشروع جماعي",
+    "hi": "ग्रुप प्रोजेक्ट की शुरुआत",
+    "vi": "Khởi động dự án nhóm",
+    "id": "Memulai Proyek Kelompok",
+    "ms": "Memulakan Projek Berkumpulan",
+    "ko": "조별 과제 시작하기"
+  },
+  "character": "fox",
+  "scenario": "You have been put in a group for a class project. A classmate (AI) wants to get started right away.",
+  "scenario_translations": {
+    "en": "You have been put in a group for a class project. A classmate (AI) wants to get started right away.",
+    "es": "Quedó en un grupo para un proyecto de clase. Un compañero de clase (AI) quiere empezar de inmediato.",
+    "fr": "Vous avez été placé dans un groupe pour un projet de cours. Un camarade de classe (AI) veut commencer tout de suite.",
+    "de": "Sie wurden für ein Kursprojekt einer Gruppe zugeteilt. Eine Kommilitonin bzw. ein Kommilitone (AI) möchte sofort loslegen.",
+    "it": "Sei stato inserito in un gruppo per un progetto del corso. Un compagno di corso (AI) vuole iniziare subito.",
+    "pl": "Trafiłeś do grupy na projekt zaliczeniowy. Kolega z roku (AI) chce od razu zabrać się do pracy.",
+    "pt": "Você foi colocado em um grupo para um trabalho da matéria. Um colega (AI) quer começar logo.",
+    "nl": "Je bent voor een vakproject in een groep ingedeeld. Een medestudent (AI) wil meteen aan de slag.",
+    "hr": "Profesor te rasporedio u grupu za projekt iz kolegija. Kolega s godine (AI) želi odmah krenuti.",
+    "tr": "Bir ders projesi için bir gruba yerleştirildiniz. Bir sınıf arkadaşınız (AI) hemen başlamak istiyor.",
+    "uk": "Тебе включили в групу для навчального проєкту. Одногрупник (AI) хоче взятися до роботи негайно.",
+    "ar": "وُضعت في مجموعة لمشروع دراسي. زميل في الصف (AI) يريد البدء فورًا.",
+    "hi": "क्लास प्रोजेक्ट के लिए आपको एक ग्रुप में रखा गया है। एक सहपाठी (AI) तुरंत काम शुरू करना चाहता है।",
+    "vi": "Bạn được xếp vào một nhóm làm dự án môn học. Một bạn cùng lớp (AI) muốn bắt tay vào làm ngay.",
+    "id": "Kamu dimasukkan ke sebuah kelompok untuk proyek kelas. Seorang teman sekelas (AI) ingin langsung mulai.",
+    "ms": "Anda telah dimasukkan ke dalam satu kumpulan untuk projek kelas. Seorang rakan sekelas (AI) mahu mula dengan segera.",
+    "ko": "수업 과제를 위해 조에 배정됐어요. 같은 반 친구(AI)가 바로 시작하고 싶어 해요."
+  },
+  "mission": {
+    "native": "Help choose a topic, split the work and plan your first meeting.",
+    "native_translations": {
+      "en": "Help choose a topic, split the work and plan your first meeting.",
+      "es": "Ayude a elegir un tema, repartir el trabajo y planear la primera reunión.",
+      "fr": "Aidez à choisir un sujet, à répartir le travail et à planifier votre première réunion.",
+      "de": "Helfen Sie, ein Thema zu wählen, die Arbeit aufzuteilen und Ihr erstes Treffen zu planen.",
+      "it": "Aiuta a scegliere un argomento, dividere il lavoro e organizzare il primo incontro.",
+      "pl": "Pomóż wybrać temat, podzielić pracę i zaplanować pierwsze spotkanie.",
+      "pt": "Ajude a escolher um tema, dividir o trabalho e planejar a primeira reunião.",
+      "nl": "Help een onderwerp te kiezen, het werk te verdelen en jullie eerste afspraak te plannen.",
+      "hr": "Pomozi odabrati temu, podijeli posao i isplaniraj prvi sastanak.",
+      "tr": "Bir konu seçmeye yardım edin, işi paylaştırın ve ilk toplantınızı planlayın.",
+      "uk": "Допоможи обрати тему, розподілити роботу та спланувати першу зустріч.",
+      "ar": "ساعد في اختيار موضوع وتقسيم العمل والتخطيط لأول اجتماع.",
+      "hi": "विषय चुनने, काम बाँटने और पहली मीटिंग तय करने में मदद कीजिए।",
+      "vi": "Cùng chọn chủ đề, chia việc và lên kế hoạch cho buổi họp đầu tiên.",
+      "id": "Bantu memilih topik, membagi tugas, dan merencanakan pertemuan pertama.",
+      "ms": "Bantu pilih topik, bahagikan kerja dan rancang mesyuarat pertama anda.",
+      "ko": "주제를 정하고, 역할을 나누고, 첫 모임을 계획하세요."
+    },
+    "practice": "Ayude a elegir un tema, repartir el trabajo y planear la primera reunión.",
+    "practice_translations": {
+      "en": "Help choose a topic, split the work and plan your first meeting.",
+      "es": "Ayude a elegir un tema, repartir el trabajo y planear la primera reunión.",
+      "ja": "テーマを決め、作業を分担し、最初の打ち合わせの予定を立ててください。",
+      "ko": "주제를 정하고, 역할을 나누고, 첫 모임을 계획하세요."
+    }
+  },
+  "tasks": [
+    {
+      "id": "t1",
+      "goal": {
+        "native": "Suggest a topic for the project",
+        "native_translations": {
+          "en": "Suggest a topic for the project",
+          "es": "Proponga un tema para el proyecto",
+          "fr": "Proposez un sujet pour le projet",
+          "de": "Schlagen Sie ein Thema für das Projekt vor",
+          "it": "Proponi un argomento per il progetto",
+          "pl": "Zaproponuj temat projektu",
+          "pt": "Sugira um tema para o trabalho",
+          "nl": "Stel een onderwerp voor het project voor",
+          "hr": "Predloži temu projekta",
+          "tr": "Proje için bir konu önerin",
+          "uk": "Запропонуй тему для проєкту",
+          "ar": "اقترح موضوعًا للمشروع",
+          "hi": "प्रोजेक्ट के लिए एक विषय सुझाइए",
+          "vi": "Đề xuất một chủ đề cho dự án",
+          "id": "Usulkan topik untuk proyek",
+          "ms": "Cadangkan satu topik untuk projek",
+          "ko": "과제 주제를 제안하세요"
+        },
+        "practice": "Proponga un tema para el proyecto",
+        "practice_translations": {
+          "en": "Suggest a topic for the project",
+          "es": "Proponga un tema para el proyecto",
+          "ja": "プロジェクトのテーマを提案してください",
+          "ko": "과제 주제를 제안하세요"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "goal": {
+        "native": "Offer to take one part of the work",
+        "native_translations": {
+          "en": "Offer to take one part of the work",
+          "es": "Ofrézcase para encargarse de una parte del trabajo",
+          "fr": "Proposez de prendre en charge une partie du travail",
+          "de": "Bieten Sie an, einen Teil der Arbeit zu übernehmen",
+          "it": "Offriti di occuparti di una parte del lavoro",
+          "pl": "Zgłoś się do jednej części pracy",
+          "pt": "Ofereça-se para fazer uma parte do trabalho",
+          "nl": "Bied aan om een deel van het werk op je te nemen",
+          "hr": "Ponudi se da preuzmeš jedan dio posla",
+          "tr": "İşin bir kısmını üstlenmeyi teklif edin",
+          "uk": "Візьми на себе частину роботи",
+          "ar": "اعرض أن تتولى جزءًا من العمل",
+          "hi": "काम का एक हिस्सा ख़ुद लेने की पेशकश कीजिए",
+          "vi": "Nhận làm một phần công việc",
+          "id": "Tawarkan diri untuk mengerjakan satu bagian",
+          "ms": "Tawarkan diri untuk buat satu bahagian kerja",
+          "ko": "일의 한 부분을 맡겠다고 하세요"
+        },
+        "practice": "Ofrézcase para encargarse de una parte del trabajo",
+        "practice_translations": {
+          "en": "Offer to take one part of the work",
+          "es": "Ofrézcase para encargarse de una parte del trabajo",
+          "ja": "作業の一部を担当すると申し出てください",
+          "ko": "일의 한 부분을 맡겠다고 하세요"
+        }
+      }
+    },
+    {
+      "id": "t3",
+      "goal": {
+        "native": "Agree on a time to meet",
+        "native_translations": {
+          "en": "Agree on a time to meet",
+          "es": "Acuerden un horario para reunirse",
+          "fr": "Mettez-vous d'accord sur un horaire de réunion",
+          "de": "Einigen Sie sich auf einen Termin für ein Treffen",
+          "it": "Mettetevi d'accordo su quando vedervi",
+          "pl": "Ustalcie termin spotkania",
+          "pt": "Combinem um horário para se reunir",
+          "nl": "Spreek een tijd af om samen te komen",
+          "hr": "Dogovori termin sastanka",
+          "tr": "Buluşmak için bir saatte anlaşın",
+          "uk": "Домовтеся про час зустрічі",
+          "ar": "اتفق على موعد للاجتماع",
+          "hi": "मिलने का समय तय कीजिए",
+          "vi": "Thống nhất thời gian gặp nhau",
+          "id": "Sepakati waktu untuk bertemu",
+          "ms": "Setuju tentang masa untuk berjumpa",
+          "ko": "만날 시간을 정하세요"
+        },
+        "practice": "Acuerden un horario para reunirse",
+        "practice_translations": {
+          "en": "Agree on a time to meet",
+          "es": "Acuerden un horario para reunirse",
+          "ja": "会う時間を決めてください",
+          "ko": "만날 시간을 정하세요"
+        }
+      }
+    },
+    {
+      "id": "t4",
+      "goal": {
+        "native": "Ask how you will share files",
+        "native_translations": {
+          "en": "Ask how you will share files",
+          "es": "Pregunte cómo compartirán los archivos",
+          "fr": "Demandez comment vous allez partager les fichiers",
+          "de": "Fragen Sie, wie Sie Dateien teilen",
+          "it": "Chiedi come condividerete i file",
+          "pl": "Zapytaj, jak będziecie udostępniać pliki",
+          "pt": "Pergunte como vocês vão compartilhar os arquivos",
+          "nl": "Vraag hoe jullie bestanden gaan delen",
+          "hr": "Pitaj kako ćete dijeliti datoteke",
+          "tr": "Dosyaları nasıl paylaşacağınızı sorun",
+          "uk": "Запитай, як ви ділитиметеся файлами",
+          "ar": "اسأل كيف ستتبادلون الملفات",
+          "hi": "पूछिए कि फ़ाइलें कैसे शेयर करेंगे",
+          "vi": "Hỏi cách chia sẻ tài liệu",
+          "id": "Tanyakan cara berbagi file",
+          "ms": "Tanya bagaimana anda akan berkongsi fail",
+          "ko": "파일을 어떻게 공유할지 물어보세요"
+        },
+        "practice": "Pregunte cómo compartirán los archivos",
+        "practice_translations": {
+          "en": "Ask how you will share files",
+          "es": "Pregunte cómo compartirán los archivos",
+          "ja": "ファイルの共有方法を聞いてください",
+          "ko": "파일을 어떻게 공유할지 물어보세요"
+        }
+      }
+    }
+  ],
+  "phrases": [
+    {
+      "native": "What if we focus on renewable energy?",
+      "native_translations": {
+        "en": "What if we focus on renewable energy?",
+        "es": "¿Qué tal si nos enfocamos en la energía renovable?",
+        "fr": "Et si on se concentrait sur les énergies renouvelables ?",
+        "de": "Wie wäre es, wenn wir uns auf erneuerbare Energien konzentrieren?",
+        "it": "E se ci concentrassimo sulle energie rinnovabili?",
+        "pl": "Może skupimy się na energii odnawialnej?",
+        "pt": "E se a gente focar em energia renovável?",
+        "nl": "Wat als we ons richten op hernieuwbare energie?",
+        "hr": "Što kažeš da se usredotočimo na obnovljive izvore energije?",
+        "tr": "Yenilenebilir enerjiye odaklansak nasıl olur?",
+        "uk": "Може, зосередимося на відновлюваній енергетиці?",
+        "ar": "ما رأيك أن نركّز على الطاقة المتجددة؟",
+        "hi": "अगर हम रिन्यूएबल एनर्जी पर फ़ोकस करें तो कैसा रहेगा?",
+        "vi": "Hay là mình tập trung vào năng lượng tái tạo nhé?",
+        "id": "Bagaimana kalau kita fokus ke energi terbarukan?",
+        "ms": "Bagaimana kalau kita fokus pada tenaga boleh diperbaharui?",
+        "ko": "재생 에너지에 초점을 맞추면 어때요?"
+      },
+      "practice": "¿Qué tal si nos enfocamos en la energía renovable?",
+      "practice_translations": {
+        "en": "What if we focus on renewable energy?",
+        "es": "¿Qué tal si nos enfocamos en la energía renovable?",
+        "ja": "再生可能エネルギーをテーマにするのはどうですか。",
+        "ko": "재생 에너지에 초점을 맞추면 어때요?"
+      }
+    },
+    {
+      "native": "I can do the research and write the introduction.",
+      "native_translations": {
+        "en": "I can do the research and write the introduction.",
+        "es": "Yo puedo hacer la investigación y escribir la introducción.",
+        "fr": "Je peux faire les recherches et rédiger l'introduction.",
+        "de": "Ich kann die Recherche machen und die Einleitung schreiben.",
+        "it": "Posso occuparmi della ricerca e scrivere l'introduzione.",
+        "pl": "Mogę zrobić research i napisać wstęp.",
+        "pt": "Posso fazer a pesquisa e escrever a introdução.",
+        "nl": "Ik kan het onderzoek doen en de inleiding schrijven.",
+        "hr": "Ja mogu napraviti istraživanje i napisati uvod.",
+        "tr": "Araştırmayı yapıp girişi ben yazabilirim.",
+        "uk": "Я можу зібрати матеріал і написати вступ.",
+        "ar": "يمكنني أن أقوم بالبحث وأكتب المقدمة.",
+        "hi": "मैं रिसर्च करके इंट्रोडक्शन लिख सकता हूँ।",
+        "vi": "Mình có thể tìm tài liệu và viết phần mở đầu.",
+        "id": "Aku bisa riset dan menulis pendahuluannya.",
+        "ms": "Saya boleh buat penyelidikan dan tulis pengenalan.",
+        "ko": "제가 자료 조사하고 서론을 쓸게요."
+      },
+      "practice": "Yo puedo hacer la investigación y escribir la introducción.",
+      "practice_translations": {
+        "en": "I can do the research and write the introduction.",
+        "es": "Yo puedo hacer la investigación y escribir la introducción.",
+        "ja": "私がリサーチと序論を担当できます。",
+        "ko": "제가 자료 조사하고 서론을 쓸게요."
+      }
+    },
+    {
+      "native": "Are you free on Thursday afternoon?",
+      "native_translations": {
+        "en": "Are you free on Thursday afternoon?",
+        "es": "¿Tienes tiempo el jueves en la tarde?",
+        "fr": "Tu es libre jeudi après-midi ?",
+        "de": "Hast du am Donnerstagnachmittag Zeit?",
+        "it": "Sei libero giovedì pomeriggio?",
+        "pl": "Masz czas w czwartek po południu?",
+        "pt": "Você está livre na quinta à tarde?",
+        "nl": "Kun jij donderdagmiddag?",
+        "hr": "Imaš li vremena u četvrtak poslijepodne?",
+        "tr": "Perşembe öğleden sonra müsait misin?",
+        "uk": "Ти вільний у четвер по обіді?",
+        "ar": "هل أنت متفرغ بعد ظهر يوم الخميس؟",
+        "hi": "क्या तुम गुरुवार दोपहर को फ़्री हो?",
+        "vi": "Chiều thứ Năm bạn có rảnh không?",
+        "id": "Kamu kosong hari Kamis sore?",
+        "ms": "Awak lapang pada petang Khamis?",
+        "ko": "목요일 오후에 시간 있어요?"
+      },
+      "practice": "¿Tienes tiempo el jueves en la tarde?",
+      "practice_translations": {
+        "en": "Are you free on Thursday afternoon?",
+        "es": "¿Tienes tiempo el jueves en la tarde?",
+        "ja": "木曜日の午後は空いていますか。",
+        "ko": "목요일 오후에 시간 있어요?"
+      }
+    },
+    {
+      "native": "Should we use a shared folder for our files?",
+      "native_translations": {
+        "en": "Should we use a shared folder for our files?",
+        "es": "¿Usamos una carpeta compartida para los archivos?",
+        "fr": "On utilise un dossier partagé pour nos fichiers ?",
+        "de": "Sollen wir einen gemeinsamen Ordner für unsere Dateien nutzen?",
+        "it": "Usiamo una cartella condivisa per i file?",
+        "pl": "Może założymy wspólny folder na pliki?",
+        "pt": "Vamos usar uma pasta compartilhada para os arquivos?",
+        "nl": "Zullen we een gedeelde map gebruiken voor onze bestanden?",
+        "hr": "Da koristimo zajedničku mapu za datoteke?",
+        "tr": "Dosyalarımız için ortak bir klasör kullanalım mı?",
+        "uk": "Може, зробимо спільну папку для файлів?",
+        "ar": "هل نستخدم مجلدًا مشتركًا لملفاتنا؟",
+        "hi": "क्या हम अपनी फ़ाइलों के लिए एक शेयर्ड फ़ोल्डर इस्तेमाल करें?",
+        "vi": "Mình có nên dùng một thư mục chung để lưu tài liệu không?",
+        "id": "Apa kita pakai folder bersama untuk file-file kita?",
+        "ms": "Patutkah kita guna folder kongsi untuk fail kita?",
+        "ko": "파일은 공유 폴더를 쓸까요?"
+      },
+      "practice": "¿Usamos una carpeta compartida para los archivos?",
+      "practice_translations": {
+        "en": "Should we use a shared folder for our files?",
+        "es": "¿Usamos una carpeta compartida para los archivos?",
+        "ja": "ファイルは共有フォルダを使いましょうか。",
+        "ko": "파일은 공유 폴더를 쓸까요?"
+      }
+    },
+    {
+      "native": "Let's make a group chat so we can stay in touch.",
+      "native_translations": {
+        "en": "Let's make a group chat so we can stay in touch.",
+        "es": "Hagamos un chat de grupo para estar en contacto.",
+        "fr": "Créons un groupe de discussion pour rester en contact.",
+        "de": "Lass uns einen Gruppenchat machen, damit wir in Kontakt bleiben.",
+        "it": "Facciamo una chat di gruppo così restiamo in contatto.",
+        "pl": "Zróbmy czat grupowy, żeby być w kontakcie.",
+        "pt": "Vamos criar um grupo no chat para manter contato.",
+        "nl": "Laten we een groepsapp maken zodat we contact kunnen houden.",
+        "hr": "Napravimo grupni chat da ostanemo u kontaktu.",
+        "tr": "İletişimde kalmak için bir grup sohbeti açalım.",
+        "uk": "Давай створимо груповий чат, щоб бути на зв'язку.",
+        "ar": "لننشئ مجموعة دردشة لنبقى على تواصل.",
+        "hi": "चलो एक ग्रुप चैट बना लेते हैं ताकि संपर्क में रहें।",
+        "vi": "Mình lập nhóm chat để tiện liên lạc nhé.",
+        "id": "Ayo bikin grup chat biar tetap terhubung.",
+        "ms": "Jom buat sembang kumpulan supaya kita boleh terus berhubung.",
+        "ko": "계속 연락할 수 있게 단톡방을 만들어요."
+      },
+      "practice": "Hagamos un chat de grupo para estar en contacto.",
+      "practice_translations": {
+        "en": "Let's make a group chat so we can stay in touch.",
+        "es": "Hagamos un chat de grupo para estar en contacto.",
+        "ja": "連絡を取り合えるように、グループチャットを作りましょう。",
+        "ko": "계속 연락할 수 있게 단톡방을 만들어요."
+      }
+    }
+  ]
+}
