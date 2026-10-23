@@ -51,7 +51,7 @@
         "ms": "Berlatih temu duga, hari pertama dan detik harian di tempat kerja",
         "ko": "면접, 첫 출근, 직장의 일상적인 순간을 연습해요"
       },
-      "icon": "roleplay/images/categories/work.png",
+      "icon": "roleplay/images/categories/work.webp",
       "iconBackground": "#F0EBFF",
       "headerImage": "roleplay/images/categories/header_work.webp",
       "situations": [
@@ -302,7 +302,7 @@
         "ms": "Tangani perkara pelik, janggal dan tidak dijangka dalam kehidupan harian",
         "ko": "일상 속 황당하고 어색하고 뜻밖의 상황에 대처해요"
       },
-      "icon": "roleplay/images/categories/daily_life.png",
+      "icon": "roleplay/images/categories/daily_life.webp",
       "iconBackground": "#EAEBF9",
       "headerImage": "roleplay/images/categories/header_daily_life.webp",
       "situations": [
@@ -526,7 +526,7 @@
         "ms": "Dari tiba di kampus hingga kehidupan pelajar, urusan pentadbiran dan persediaan kerjaya",
         "ko": "캠퍼스 도착부터 학생 생활, 행정 업무, 취업 준비까지"
       },
-      "icon": "roleplay/images/categories/study_abroad.png",
+      "icon": "roleplay/images/categories/study_abroad.webp",
       "iconBackground": "#D7FDFE",
       "headerImage": "roleplay/images/categories/header_study_abroad.webp",
       "situations": [
@@ -690,7 +690,7 @@
         "ms": "Berbincang dengan sekolah, urus kesihatan dan cari sokongan komuniti",
         "ko": "학교와 소통하고, 건강을 챙기고, 지역 사회 지원을 찾아요"
       },
-      "icon": "roleplay/images/categories/family.png",
+      "icon": "roleplay/images/categories/family.webp",
       "iconBackground": "#FFF4F8",
       "headerImage": "roleplay/images/categories/header_family.webp",
       "situations": [
@@ -825,7 +825,7 @@
         "ms": "Fahami undang-undang, adat dan perkhidmatan awam tempatan",
         "ko": "현지 법률, 관습, 공공 서비스를 이해해요"
       },
-      "icon": "roleplay/images/categories/society.png",
+      "icon": "roleplay/images/categories/society.webp",
       "iconBackground": "#FFFFEA",
       "headerImage": "roleplay/images/categories/header_society.webp",
       "situations": [
@@ -960,7 +960,7 @@
         "ms": "Berurusan dengan peguam, USCIS dan proses imigresen",
         "ko": "변호사, USCIS, 이민 절차를 헤쳐 나가요"
       },
-      "icon": "roleplay/images/categories/immigration.png",
+      "icon": "roleplay/images/categories/immigration.webp",
       "iconBackground": "#EDFFF3",
       "headerImage": "roleplay/images/categories/header_immigration.webp",
       "situations": [
@@ -1066,7 +1066,7 @@
         "ms": "Berlatih untuk kelas, persidangan, penyelidikan dan pertukaran akademik",
         "ko": "수업, 학회, 연구, 학술 교류를 연습해요"
       },
-      "icon": "roleplay/images/categories/academics.png",
+      "icon": "roleplay/images/categories/academics.webp",
       "iconBackground": "#FEEED7",
       "headerImage": "roleplay/images/categories/header_academics.webp",
       "situations": [
@@ -1259,7 +1259,7 @@
         "ms": "Tempah, terbang, daftar masuk, jelajah, makan dan hadapi kejutan",
         "ko": "예약, 비행, 체크인, 관광, 식사, 돌발 상황까지 대처해요"
       },
-      "icon": "roleplay/images/categories/travel.png",
+      "icon": "roleplay/images/categories/travel.webp",
       "iconBackground": "#FFEEFD",
       "headerImage": "roleplay/images/categories/header_travel.webp",
       "situations": [
