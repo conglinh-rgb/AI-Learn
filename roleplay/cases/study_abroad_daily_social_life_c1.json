@@ -18,7 +18,12 @@
     "vi": "Gặp bạn cùng phòng",
     "id": "Bertemu Teman Sekamar",
     "ms": "Berkenalan dengan Rakan Sebilik",
-    "ko": "룸메이트와의 첫 만남"
+    "ko": "룸메이트와의 첫 만남",
+    "ru": "Знакомство с соседом по комнате",
+    "bn": "রুমমেটের সাথে পরিচয়",
+    "ur": "روم میٹ سے ملاقات",
+    "zh-CN": "认识室友",
+    "ja": "ルームメイトとの出会い"
   },
   "character": "fox",
   "scenario": "Your new roommate (AI) has just moved into your shared dorm room and says hello.",
@@ -39,7 +44,12 @@
     "vi": "Bạn cùng phòng mới (AI) vừa chuyển vào phòng ký túc xá chung và chào bạn.",
     "id": "Teman sekamar barumu (AI) baru saja pindah ke kamar asrama kalian dan menyapamu.",
     "ms": "Rakan sebilik baharu anda (AI) baru sahaja berpindah ke bilik asrama yang anda kongsi dan menyapa anda.",
-    "ko": "새 룸메이트(AI)가 방금 함께 쓰는 기숙사 방으로 이사 와서 인사를 건넵니다."
+    "ko": "새 룸메이트(AI)가 방금 함께 쓰는 기숙사 방으로 이사 와서 인사를 건넵니다.",
+    "ru": "Ваш новый сосед (AI) только что заселился в вашу общую комнату в общежитии и здоровается с вами.",
+    "bn": "আপনার নতুন রুমমেট (AI) এইমাত্র আপনার শেয়ার করা হোস্টেল রুমে উঠেছে এবং হ্যালো বলছে।",
+    "ur": "آپ کا نیا روم میٹ (AI) ابھی آپ کے مشترکہ ہاسٹل کے کمرے میں آیا ہے اور سلام کرتا ہے۔",
+    "zh-CN": "你的新室友（AI）刚搬进你们合住的宿舍，向你打招呼。",
+    "ja": "新しいルームメイト（AI）が相部屋の寮に引っ越してきて、あいさつしてきました。"
   },
   "mission": {
     "native": "Introduce yourself, find a common interest and suggest dinner together.",
@@ -60,7 +70,12 @@
       "vi": "Giới thiệu bản thân, tìm một sở thích chung và rủ đi ăn tối cùng nhau.",
       "id": "Perkenalkan dirimu, temukan minat yang sama, dan ajak makan malam bersama.",
       "ms": "Perkenalkan diri, cari minat yang sama dan ajak makan malam bersama.",
-      "ko": "자기소개를 하고, 공통 관심사를 찾고, 함께 저녁을 먹자고 제안하세요."
+      "ko": "자기소개를 하고, 공통 관심사를 찾고, 함께 저녁을 먹자고 제안하세요.",
+      "ru": "Представьтесь, найдите общий интерес и предложите вместе поужинать.",
+      "bn": "নিজের পরিচয় দিন, একটি সাধারণ আগ্রহ খুঁজে নিন এবং একসাথে রাতের খাবারের প্রস্তাব দিন।",
+      "ur": "اپنا تعارف کرائیں، کوئی مشترکہ دلچسپی تلاش کریں اور ساتھ کھانے کی تجویز دیں۔",
+      "zh-CN": "介绍自己，找到共同爱好，并提议一起吃晚饭。",
+      "ja": "自己紹介をし、共通の趣味を見つけて、一緒に夕食を提案しましょう。"
     },
     "practice": "Preséntese, encuentre un interés en común y proponga cenar juntos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giới thiệu bản thân và nói bạn đến từ đâu",
           "id": "Perkenalkan dirimu dan sebutkan asalmu",
           "ms": "Perkenalkan diri dan beritahu asal anda",
-          "ko": "자기소개를 하고 어디에서 왔는지 말하세요"
+          "ko": "자기소개를 하고 어디에서 왔는지 말하세요",
+          "ru": "Представьтесь и скажите, откуда вы",
+          "bn": "নিজের পরিচয় দিন এবং বলুন আপনি কোথা থেকে এসেছেন",
+          "ur": "اپنا تعارف کرائیں اور بتائیں کہ آپ کہاں سے ہیں",
+          "zh-CN": "介绍自己并说出你来自哪里",
+          "ja": "自己紹介をして出身地を言う"
         },
         "practice": "Preséntese y diga de dónde es",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi về sở thích của bạn cùng phòng",
           "id": "Tanyakan hobi teman sekamarmu",
           "ms": "Tanya tentang hobi rakan sebilik anda",
-          "ko": "룸메이트의 취미를 물어보세요"
+          "ko": "룸메이트의 취미를 물어보세요",
+          "ru": "Спросите соседа о его хобби",
+          "bn": "রুমমেটের শখ সম্পর্কে জিজ্ঞাসা করুন",
+          "ur": "اپنے روم میٹ کے مشاغل کے بارے میں پوچھیں",
+          "zh-CN": "询问室友的爱好",
+          "ja": "ルームメイトの趣味を聞く"
         },
         "practice": "Pregunte por los pasatiempos de su compañero de cuarto",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Rủ đi ăn tối cùng nhau",
           "id": "Ajak makan malam bersama",
           "ms": "Ajak makan malam bersama",
-          "ko": "함께 저녁을 먹자고 제안하세요"
+          "ko": "함께 저녁을 먹자고 제안하세요",
+          "ru": "Предложите вместе поужинать",
+          "bn": "একসাথে রাতের খাবারের প্রস্তাব দিন",
+          "ur": "ساتھ رات کا کھانا کھانے کی تجویز دیں",
+          "zh-CN": "提议一起吃晚饭",
+          "ja": "一緒に夕食を食べようと提案する"
         },
         "practice": "Proponga cenar juntos",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào bạn, mình là bạn cùng phòng mới. Rất vui được gặp bạn!",
         "id": "Hai, aku teman sekamar barumu. Senang bertemu denganmu!",
         "ms": "Hai, saya rakan sebilik baharu awak. Selamat berkenalan!",
-        "ko": "안녕하세요, 새 룸메이트예요. 만나서 반가워요!"
+        "ko": "안녕하세요, 새 룸메이트예요. 만나서 반가워요!",
+        "ru": "Привет, я твой новый сосед. Приятно познакомиться!",
+        "bn": "হাই, আমি তোমার নতুন রুমমেট। পরিচিত হয়ে ভালো লাগল!",
+        "ur": "ہائے، میں تمہارا نیا روم میٹ ہوں۔ مل کر خوشی ہوئی!",
+        "zh-CN": "嗨，我是你的新室友。很高兴认识你！",
+        "ja": "やあ、新しいルームメイトだよ。よろしくね！"
       },
       "practice": "Hola, soy tu nuevo compañero de cuarto. ¡Mucho gusto!",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Mình đến từ nước ngoài, đây là lần đầu mình tới đây.",
         "id": "Aku dari luar negeri, dan ini pertama kalinya aku di sini.",
         "ms": "Saya dari luar negara, dan ini kali pertama saya di sini.",
-        "ko": "저는 외국에서 왔고, 여기는 처음이에요."
+        "ko": "저는 외국에서 왔고, 여기는 처음이에요.",
+        "ru": "Я из-за границы, и я здесь впервые.",
+        "bn": "আমি বিদেশ থেকে এসেছি, আর এখানে এই প্রথম।",
+        "ur": "میں بیرون ملک سے ہوں، اور یہاں پہلی بار آیا ہوں۔",
+        "zh-CN": "我来自国外，这是我第一次来这里。",
+        "ja": "海外から来て、ここは初めてなんだ。"
       },
       "practice": "Soy del extranjero y es la primera vez que vengo.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Lúc rảnh bạn thích làm gì?",
         "id": "Kamu suka melakukan apa di waktu luang?",
         "ms": "Apa yang awak suka buat pada masa lapang?",
-        "ko": "시간 날 때 뭐 하는 걸 좋아해요?"
+        "ko": "시간 날 때 뭐 하는 걸 좋아해요?",
+        "ru": "Чем ты любишь заниматься в свободное время?",
+        "bn": "অবসর সময়ে তুমি কী করতে ভালোবাসো?",
+        "ur": "فارغ وقت میں تمہیں کیا کرنا پسند ہے؟",
+        "zh-CN": "你空闲时喜欢做什么？",
+        "ja": "暇なときは何をするのが好き？"
       },
       "practice": "¿Qué te gusta hacer en tu tiempo libre?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Ồ, mình cũng thích cái đó lắm!",
         "id": "Oh, aku juga suka itu!",
         "ms": "Oh, saya pun suka itu!",
-        "ko": "아, 저도 그거 정말 좋아해요!"
+        "ko": "아, 저도 그거 정말 좋아해요!",
+        "ru": "О, я тоже это обожаю!",
+        "bn": "ওহ, আমারও ওটা খুব ভালো লাগে!",
+        "ur": "اوہ، مجھے بھی یہ بہت پسند ہے!",
+        "zh-CN": "哦，我也超喜欢！",
+        "ja": "あ、私もそれ大好き！"
       },
       "practice": "¡Ay, a mí también me encanta!",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Tối nay mình đi ăn tối cùng nhau không?",
         "id": "Mau makan malam bareng nanti malam?",
         "ms": "Awak nak makan malam bersama malam ini?",
-        "ko": "오늘 저녁 같이 먹을래요?"
+        "ko": "오늘 저녁 같이 먹을래요?",
+        "ru": "Хочешь поужинать вместе сегодня вечером?",
+        "bn": "আজ রাতে একসাথে ডিনার করবে?",
+        "ur": "آج رات ساتھ کھانا کھانے چلیں؟",
+        "zh-CN": "今晚要不要一起吃晚饭？",
+        "ja": "今夜一緒に夕ご飯食べに行かない？"
       },
       "practice": "¿Quieres que cenemos juntos esta noche?",
       "practice_translations": {

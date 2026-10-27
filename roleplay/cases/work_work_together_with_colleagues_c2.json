@@ -18,7 +18,12 @@
     "vi": "Chờ đồng đội",
     "id": "Menunggu Rekan Setim",
     "ms": "Menunggu Rakan Sepasukan",
-    "ko": "팀원을 기다리며"
+    "ko": "팀원을 기다리며",
+    "ru": "В ожидании коллеги",
+    "bn": "সতীর্থের অপেক্ষায়",
+    "ur": "ساتھی کا انتظار",
+    "zh-CN": "等待队友",
+    "ja": "チームメイト待ち"
   },
   "character": "fox",
   "scenario": "Your teammate (AI) still hasn't sent their part of the report, and you can't finish yours without it. The deadline is tomorrow.",
@@ -39,7 +44,12 @@
     "vi": "Đồng đội (AI) vẫn chưa gửi phần báo cáo của họ, và bạn không thể hoàn thành phần của mình nếu thiếu nó. Hạn chót là ngày mai.",
     "id": "Rekan setimmu (AI) belum juga mengirim bagian laporannya, dan kamu tidak bisa menyelesaikan bagianmu tanpa itu. Tenggatnya besok.",
     "ms": "Rakan sepasukan anda (AI) masih belum menghantar bahagian laporannya, dan anda tidak dapat menyiapkan bahagian anda tanpanya. Tarikh akhirnya esok.",
-    "ko": "팀원(AI)이 아직 보고서 담당 부분을 보내지 않아서, 당신은 자기 부분을 끝낼 수가 없어요. 마감은 내일이에요."
+    "ko": "팀원(AI)이 아직 보고서 담당 부분을 보내지 않아서, 당신은 자기 부분을 끝낼 수가 없어요. 마감은 내일이에요.",
+    "ru": "Ваш коллега по команде (AI) до сих пор не прислал свою часть отчёта, а без неё вы не можете закончить свою. Срок сдачи — завтра.",
+    "bn": "আপনার সতীর্থ (AI) এখনও রিপোর্টের তার অংশ পাঠায়নি, আর সেটি ছাড়া আপনি নিজের অংশ শেষ করতে পারছেন না। ডেডলাইন আগামীকাল।",
+    "ur": "آپ کے ساتھی (AI) نے ابھی تک رپورٹ کا اپنا حصہ نہیں بھیجا، اور اس کے بغیر آپ اپنا حصہ مکمل نہیں کر سکتے۔ ڈیڈ لائن کل ہے۔",
+    "zh-CN": "你的队友（AI）还没有发来他负责的报告部分，没有它你无法完成自己的部分。截止日期是明天。",
+    "ja": "チームメイト（AI）がまだ報告書の担当部分を送ってくれず、それがないと自分の部分を仕上げられません。締め切りは明日です。"
   },
   "mission": {
     "native": "Find out what is going on and agree on when your teammate will send their part.",
@@ -60,7 +70,12 @@
       "vi": "Tìm hiểu chuyện gì đang xảy ra và thống nhất khi nào đồng đội sẽ gửi phần của họ.",
       "id": "Cari tahu apa yang terjadi dan sepakati kapan rekan setimmu akan mengirim bagiannya.",
       "ms": "Ketahui apa yang berlaku dan setuju bila rakan sepasukan anda akan menghantar bahagiannya.",
-      "ko": "무슨 일인지 알아보고 팀원이 언제 자기 부분을 보낼지 정하세요."
+      "ko": "무슨 일인지 알아보고 팀원이 언제 자기 부분을 보낼지 정하세요.",
+      "ru": "Выясните, что происходит, и договоритесь, когда коллега пришлёт свою часть.",
+      "bn": "কী হচ্ছে তা জেনে নিন এবং আপনার সহকর্মী কখন তাদের অংশ পাঠাবেন তা ঠিক করুন।",
+      "ur": "معلوم کریں کہ کیا ہو رہا ہے اور طے کریں کہ آپ کا ساتھی اپنا حصہ کب بھیجے گا۔",
+      "zh-CN": "了解情况，并和队友约定何时发送他们负责的部分。",
+      "ja": "状況を確認し、チームメイトが担当部分をいつ送るか決めましょう。"
     },
     "practice": "Averigüe qué pasa y acuerde cuándo su compañero enviará su parte.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi phần báo cáo của họ đến đâu rồi",
           "id": "Tanyakan bagaimana perkembangan bagian laporannya",
           "ms": "Tanya perkembangan bahagian laporannya",
-          "ko": "보고서 담당 부분이 어떻게 되어 가는지 물어보세요"
+          "ko": "보고서 담당 부분이 어떻게 되어 가는지 물어보세요",
+          "ru": "Спросите, как продвигается их часть отчёта",
+          "bn": "রিপোর্টে তাদের অংশ কেমন এগোচ্ছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ رپورٹ کا ان کا حصہ کیسا چل رہا ہے",
+          "zh-CN": "询问对方负责的报告部分进展如何",
+          "ja": "レポートの担当部分の進み具合を尋ねる"
         },
         "practice": "Pregunte cómo va su parte del informe",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích rằng bạn cần phần đó để hoàn thành",
           "id": "Jelaskan bahwa kamu membutuhkannya untuk menyelesaikan tugasmu",
           "ms": "Terangkan bahawa anda memerlukannya untuk siapkan kerja",
-          "ko": "그게 있어야 끝낼 수 있다고 설명하세요"
+          "ko": "그게 있어야 끝낼 수 있다고 설명하세요",
+          "ru": "Объясните, что она нужна вам, чтобы закончить",
+          "bn": "ব্যাখ্যা করুন যে শেষ করতে আপনার এটি দরকার",
+          "ur": "وضاحت کریں کہ کام مکمل کرنے کے لیے آپ کو یہ چاہیے",
+          "zh-CN": "说明你需要它才能完成",
+          "ja": "仕上げるのにそれが必要だと説明する"
         },
         "practice": "Explique que la necesita para terminar",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Đề nghị giúp phần khó nhất",
           "id": "Tawarkan bantuan untuk bagian yang paling sulit",
           "ms": "Tawarkan bantuan untuk bahagian yang paling sukar",
-          "ko": "가장 어려운 부분을 도와주겠다고 제안하세요"
+          "ko": "가장 어려운 부분을 도와주겠다고 제안하세요",
+          "ru": "Предложите помощь с самым сложным разделом",
+          "bn": "সবচেয়ে কঠিন অংশে সাহায্যের প্রস্তাব দিন",
+          "ur": "سب سے مشکل حصے میں مدد کی پیشکش کریں",
+          "zh-CN": "主动提出帮忙处理最难的部分",
+          "ja": "一番難しいセクションの手伝いを申し出る"
         },
         "practice": "Ofrezca ayuda con la sección más difícil",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Thống nhất thời gian nhận phần báo cáo",
           "id": "Sepakati jam untuk menerimanya",
           "ms": "Setuju tentang masa untuk menerimanya",
-          "ko": "받을 시간을 정하세요"
+          "ko": "받을 시간을 정하세요",
+          "ru": "Договоритесь о времени получения",
+          "bn": "কখন পাবেন সেই সময় ঠিক করুন",
+          "ur": "اسے وصول کرنے کا وقت طے کریں",
+          "zh-CN": "约定收到的时间",
+          "ja": "受け取る時間を決める"
         },
         "practice": "Acuerden una hora para recibirla",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Này, phần báo cáo của bạn đến đâu rồi?",
         "id": "Hei, bagaimana perkembangan bagian laporanmu?",
         "ms": "Hai, bagaimana perkembangan bahagian laporan anda?",
-        "ko": "저기, 보고서 맡은 부분은 잘되어 가요?"
+        "ko": "저기, 보고서 맡은 부분은 잘되어 가요?",
+        "ru": "Привет, как продвигается твоя часть отчёта?",
+        "bn": "এই যে, রিপোর্টে তোমার অংশ কেমন এগোচ্ছে?",
+        "ur": "سنو، رپورٹ کا تمہارا حصہ کیسا چل رہا ہے؟",
+        "zh-CN": "嘿，你那部分报告进展怎么样了？",
+        "ja": "ねえ、レポートの担当部分はどんな感じ？"
       },
       "practice": "Oye, ¿cómo vas con tu parte del informe?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Mình không thể làm xong phần của mình nếu chưa có số liệu của bạn.",
         "id": "Saya tidak bisa menyelesaikan bagian saya sebelum ada angka darimu.",
         "ms": "Saya tak boleh siapkan bahagian saya sehingga saya dapat angka anda.",
-        "ko": "그 수치가 있어야 제 부분을 끝낼 수 있어요."
+        "ko": "그 수치가 있어야 제 부분을 끝낼 수 있어요.",
+        "ru": "Я не могу закончить свой раздел, пока у меня нет твоих цифр.",
+        "bn": "তোমার সংখ্যাগুলো না পাওয়া পর্যন্ত আমি আমার অংশ শেষ করতে পারছি না।",
+        "ur": "جب تک تمہارے اعداد و شمار نہیں ملتے، میں اپنا حصہ مکمل نہیں کر سکتا۔",
+        "zh-CN": "拿到你的数据之前，我没法完成我的部分。",
+        "ja": "あなたの数字がないと、私の担当部分を仕上げられないんだ。"
       },
       "practice": "No puedo terminar mi sección hasta tener tus números.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Mình có thể giúp gì không?",
         "id": "Ada yang bisa saya bantu?",
         "ms": "Ada apa-apa yang saya boleh bantu?",
-        "ko": "제가 도울 수 있는 게 있을까요?"
+        "ko": "제가 도울 수 있는 게 있을까요?",
+        "ru": "Могу я чем-нибудь помочь?",
+        "bn": "আমি কি কোনোভাবে সাহায্য করতে পারি?",
+        "ur": "کیا میں کسی طرح مدد کر سکتا ہوں؟",
+        "zh-CN": "有什么我能帮忙的吗？",
+        "ja": "何か手伝えることある？"
       },
       "practice": "¿Hay algo en lo que te pueda ayudar?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Bạn gửi cho mình trước ba giờ được không?",
         "id": "Bisa kirimkan ke saya paling lambat jam tiga?",
         "ms": "Boleh hantar kepada saya sebelum pukul tiga?",
-        "ko": "3시까지 보내 주실 수 있어요?"
+        "ko": "3시까지 보내 주실 수 있어요?",
+        "ru": "Можешь прислать мне это к трём часам?",
+        "bn": "তুমি কি তিনটার মধ্যে আমাকে পাঠাতে পারবে?",
+        "ur": "کیا تم مجھے تین بجے تک بھیج سکتے ہو؟",
+        "zh-CN": "你能在三点前发给我吗？",
+        "ja": "3時までに送ってもらえる？"
       },
       "practice": "¿Me lo podrías enviar antes de las tres?",
       "practice_translations": {

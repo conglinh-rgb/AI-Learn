@@ -18,7 +18,12 @@
     "vi": "Xin vào một phòng lab",
     "id": "Minta Bergabung dengan Lab",
     "ms": "Meminta untuk Menyertai Makmal",
-    "ko": "연구실에 들어가고 싶다고 말하기"
+    "ko": "연구실에 들어가고 싶다고 말하기",
+    "ru": "Просьба о месте в лаборатории",
+    "bn": "ল্যাবে যোগ দেওয়ার অনুরোধ",
+    "ur": "لیب میں شامل ہونے کی درخواست",
+    "zh-CN": "申请加入实验室",
+    "ja": "研究室への参加をお願いする"
   },
   "character": "fox",
   "scenario": "You would love to join a research lab. You visit the professor (AI) who runs it.",
@@ -39,7 +44,12 @@
     "vi": "Bạn rất muốn tham gia một phòng nghiên cứu. Bạn đến gặp giáo sư (AI) phụ trách phòng lab đó.",
     "id": "Kamu ingin sekali bergabung dengan sebuah lab penelitian. Kamu menemui profesor (AI) yang memimpinnya.",
     "ms": "Anda sangat ingin menyertai sebuah makmal penyelidikan. Anda berjumpa profesor (AI) yang mengetuainya.",
-    "ko": "꼭 들어가고 싶은 연구실이 있어요. 그 연구실을 이끄는 교수님(AI)을 찾아갔어요."
+    "ko": "꼭 들어가고 싶은 연구실이 있어요. 그 연구실을 이끄는 교수님(AI)을 찾아갔어요.",
+    "ru": "Вы очень хотите попасть в исследовательскую лабораторию. Вы приходите к профессору (AI), который ею руководит.",
+    "bn": "আপনি একটি গবেষণা ল্যাবে যোগ দিতে খুবই আগ্রহী। আপনি ল্যাবটির প্রধান অধ্যাপকের (AI) সঙ্গে দেখা করতে যান।",
+    "ur": "آپ ایک تحقیقی لیب میں شامل ہونا بہت چاہتے ہیں۔ آپ اس کے سربراہ پروفیسر (AI) سے ملنے جاتے ہیں۔",
+    "zh-CN": "你非常想加入一个研究实验室，于是去拜访负责该实验室的教授（AI）。",
+    "ja": "あなたはある研究室にぜひ入りたいと思っています。その研究室を主宰する教授（AI）を訪ねます。"
   },
   "mission": {
     "native": "Show your interest in the lab and ask if there is a place for you.",
@@ -60,7 +70,12 @@
       "vi": "Thể hiện sự quan tâm đến phòng lab và hỏi xem có chỗ cho bạn không.",
       "id": "Tunjukkan minatmu pada lab itu dan tanyakan apakah ada tempat untukmu.",
       "ms": "Tunjukkan minat anda terhadap makmal itu dan tanya sama ada ada tempat untuk anda.",
-      "ko": "연구실에 대한 관심을 보여 주고 자리가 있는지 물어보세요."
+      "ko": "연구실에 대한 관심을 보여 주고 자리가 있는지 물어보세요.",
+      "ru": "Покажите интерес к лаборатории и спросите, найдётся ли для вас место.",
+      "bn": "ল্যাবের প্রতি আপনার আগ্রহ দেখান এবং জিজ্ঞেস করুন আপনার জন্য কোনো জায়গা আছে কি না।",
+      "ur": "لیب میں اپنی دلچسپی ظاہر کریں اور پوچھیں کہ کیا آپ کے لیے کوئی جگہ ہے۔",
+      "zh-CN": "表达你对实验室的兴趣，并询问是否有你的位置。",
+      "ja": "研究室への関心を伝え、受け入れてもらえるか尋ねましょう。"
     },
     "practice": "Muestre su interés en el laboratorio y pregunte si hay un lugar para usted.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói vì sao bạn quan tâm đến phòng lab",
           "id": "Jelaskan kenapa kamu tertarik dengan lab ini",
           "ms": "Nyatakan mengapa anda berminat dengan makmal itu",
-          "ko": "연구실에 관심 있는 이유를 말하세요"
+          "ko": "연구실에 관심 있는 이유를 말하세요",
+          "ru": "Скажите, чем вас привлекает лаборатория",
+          "bn": "বলুন কেন আপনি ল্যাবটিতে আগ্রহী",
+          "ur": "بتائیں کہ آپ لیب میں کیوں دلچسپی رکھتے ہیں",
+          "zh-CN": "说明你为什么对该实验室感兴趣",
+          "ja": "研究室に興味を持った理由を述べる"
         },
         "practice": "Diga por qué le interesa el laboratorio",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nêu các kỹ năng liên quan của bạn",
           "id": "Sebutkan keahlianmu yang relevan",
           "ms": "Sebut kemahiran anda yang berkaitan",
-          "ko": "관련된 자신의 역량을 언급하세요"
+          "ko": "관련된 자신의 역량을 언급하세요",
+          "ru": "Упомяните свои профильные навыки",
+          "bn": "আপনার প্রাসঙ্গিক দক্ষতার কথা উল্লেখ করুন",
+          "ur": "اپنی متعلقہ مہارتوں کا ذکر کریں",
+          "zh-CN": "提及你的相关技能",
+          "ja": "関連するスキルを伝える"
         },
         "practice": "Mencione sus habilidades relevantes",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi xem có vị trí nào đang tuyển không",
           "id": "Tanyakan apakah ada posisi yang tersedia",
           "ms": "Tanya sama ada ada jawatan kosong",
-          "ko": "자리가 있는지 물어보세요"
+          "ko": "자리가 있는지 물어보세요",
+          "ru": "Спросите, есть ли свободные места",
+          "bn": "জিজ্ঞেস করুন কোনো পদ খালি আছে কি না",
+          "ur": "پوچھیں کہ کیا کوئی آسامیاں خالی ہیں",
+          "zh-CN": "询问是否有空缺职位",
+          "ja": "空きポジションがあるか尋ねる"
         },
         "practice": "Pregunte si hay plazas disponibles",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Em đã đọc về các nghiên cứu của lab mình và thấy rất cuốn hút.",
         "id": "Saya sudah membaca tentang penelitian lab Anda, dan menurut saya sangat menarik.",
         "ms": "Saya sudah membaca tentang kerja makmal anda, dan saya rasa ia sangat menarik.",
-        "ko": "교수님 연구실의 연구에 대해 읽어 봤는데 정말 흥미로웠어요."
+        "ko": "교수님 연구실의 연구에 대해 읽어 봤는데 정말 흥미로웠어요.",
+        "ru": "Я читал о работе вашей лаборатории, и она меня очень увлекла.",
+        "bn": "আমি আপনার ল্যাবের কাজ সম্পর্কে পড়েছি, এবং আমার কাছে তা অসাধারণ লেগেছে।",
+        "ur": "میں نے آپ کی لیب کے کام کے بارے میں پڑھا ہے، اور مجھے یہ بہت دلچسپ لگا۔",
+        "zh-CN": "我读过您实验室的研究，觉得非常吸引人。",
+        "ja": "先生の研究室の研究について拝読し、とても興味深いと感じました。"
       },
       "practice": "He leído sobre el trabajo de su laboratorio y me parece fascinante.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Em có kinh nghiệm phân tích dữ liệu bằng Python.",
         "id": "Saya punya pengalaman analisis data dengan Python.",
         "ms": "Saya ada pengalaman dalam analisis data menggunakan Python.",
-        "ko": "파이썬으로 데이터 분석을 해 본 경험이 있어요."
+        "ko": "파이썬으로 데이터 분석을 해 본 경험이 있어요.",
+        "ru": "У меня есть опыт анализа данных на Python.",
+        "bn": "Python-এ ডেটা বিশ্লেষণের অভিজ্ঞতা আমার আছে।",
+        "ur": "مجھے Python میں ڈیٹا تجزیے کا تجربہ ہے۔",
+        "zh-CN": "我有用 Python 做数据分析的经验。",
+        "ja": "Pythonでのデータ分析の経験があります。"
       },
       "practice": "Tengo experiencia en análisis de datos con Python.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Học kỳ này thầy/cô có nhận thêm sinh viên mới không ạ?",
         "id": "Apakah Anda menerima mahasiswa baru semester ini?",
         "ms": "Adakah anda mengambil pelajar baharu semester ini?",
-        "ko": "이번 학기에 새 학생을 받으세요?"
+        "ko": "이번 학기에 새 학생을 받으세요?",
+        "ru": "Вы берёте новых студентов в этом семестре?",
+        "bn": "এই সেমিস্টারে কি আপনি নতুন শিক্ষার্থী নিচ্ছেন?",
+        "ur": "کیا آپ اس سمسٹر میں نئے طلبہ لے رہے ہیں؟",
+        "zh-CN": "您这学期还招新学生吗？",
+        "ja": "今学期、新しい学生を受け入れていますか？"
       },
       "practice": "¿Está aceptando nuevos estudiantes este semestre?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Em rất sẵn lòng bắt đầu với vai trò tình nguyện viên.",
         "id": "Saya bersedia mulai sebagai sukarelawan.",
         "ms": "Saya sedia bermula sebagai sukarelawan.",
-        "ko": "자원봉사자로 시작해도 좋아요."
+        "ko": "자원봉사자로 시작해도 좋아요.",
+        "ru": "Я с радостью начал бы как волонтёр.",
+        "bn": "আমি স্বেচ্ছাসেবক হিসেবে শুরু করতে পেরে খুশি হব।",
+        "ur": "مجھے رضاکار کے طور پر شروع کرنے میں خوشی ہوگی۔",
+        "zh-CN": "我很乐意先以志愿者身份开始。",
+        "ja": "ボランティアとして始めることもできます。"
       },
       "practice": "Con gusto podría empezar como voluntario.",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Em có nên gửi CV cho thầy/cô qua email không ạ?",
         "id": "Apakah sebaiknya saya kirim CV saya lewat email?",
         "ms": "Patutkah saya hantar CV saya melalui e-mel?",
-        "ko": "이력서를 이메일로 보내 드릴까요?"
+        "ko": "이력서를 이메일로 보내 드릴까요?",
+        "ru": "Мне отправить вам резюме по электронной почте?",
+        "bn": "আমি কি আপনাকে ইমেইলে আমার সিভি পাঠাব?",
+        "ur": "کیا میں اپنا سی وی آپ کو ای میل کر دوں؟",
+        "zh-CN": "需要我把简历通过邮件发给您吗？",
+        "ja": "履歴書をメールでお送りしましょうか？"
       },
       "practice": "¿Le envío mi currículum por correo?",
       "practice_translations": {

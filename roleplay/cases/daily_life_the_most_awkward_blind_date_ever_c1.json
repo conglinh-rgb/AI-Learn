@@ -18,7 +18,12 @@
     "vi": "Im lặng sau câu chào",
     "id": "Hening Setelah Halo",
     "ms": "Kesunyian Selepas Hai",
-    "ko": "인사 후의 침묵"
+    "ko": "인사 후의 침묵",
+    "ru": "Тишина после «привет»",
+    "bn": "হ্যালোর পরের নীরবতা",
+    "ur": "ہیلو کے بعد کی خاموشی",
+    "zh-CN": "打完招呼后的沉默",
+    "ja": "「こんにちは」のあとの沈黙"
   },
   "character": "fox",
   "scenario": "You meet your blind date (AI) at a cafe, and after saying hello, neither of you knows what to say next.",
@@ -39,7 +44,12 @@
     "vi": "Bạn gặp người hẹn hò giấu mặt (AI) tại một quán cà phê, và sau câu chào, cả hai đều không biết nói gì tiếp.",
     "id": "Kamu bertemu teman kencan butamu (AI) di sebuah kafe, dan setelah saling menyapa, kalian berdua tidak tahu harus bicara apa.",
     "ms": "Anda bertemu pasangan janji temu buta anda (AI) di sebuah kafe, dan selepas bertegur sapa, kedua-dua anda tidak tahu apa hendak dikatakan.",
-    "ko": "카페에서 소개팅 상대(AI)를 만났는데, 인사를 나눈 뒤로 둘 다 무슨 말을 해야 할지 몰라요."
+    "ko": "카페에서 소개팅 상대(AI)를 만났는데, 인사를 나눈 뒤로 둘 다 무슨 말을 해야 할지 몰라요.",
+    "ru": "Вы встречаетесь со своим свиданием вслепую (AI) в кафе, и после приветствия никто из вас не знает, что сказать дальше.",
+    "bn": "আপনি একটি ক্যাফেতে আপনার ব্লাইন্ড ডেটের (AI) সাথে দেখা করেন, আর হ্যালো বলার পর দুজনের কেউই জানেন না এরপর কী বলবেন।",
+    "ur": "آپ ایک کیفے میں اپنی بلائنڈ ڈیٹ (AI) سے ملتے ہیں، اور ہیلو کہنے کے بعد آپ دونوں میں سے کسی کو سمجھ نہیں آتا کہ آگے کیا کہیں۔",
+    "zh-CN": "你在咖啡馆见到了你的相亲对象（AI），打完招呼后，你们俩都不知道接下来该说什么。",
+    "ja": "カフェでブラインドデートの相手（AI）に会いましたが、あいさつの後、お互い何を話せばいいのかわかりません。"
   },
   "mission": {
     "native": "Break the silence and start a friendly conversation.",
@@ -60,7 +70,12 @@
       "vi": "Phá vỡ sự im lặng và bắt đầu một cuộc trò chuyện thân thiện.",
       "id": "Pecahkan keheningan dan mulai obrolan yang akrab.",
       "ms": "Pecahkan kesunyian dan mulakan perbualan yang mesra.",
-      "ko": "침묵을 깨고 다정한 대화를 시작하세요."
+      "ko": "침묵을 깨고 다정한 대화를 시작하세요.",
+      "ru": "Нарушьте молчание и начните дружескую беседу.",
+      "bn": "নীরবতা ভাঙুন এবং একটি বন্ধুত্বপূর্ণ কথোপকথন শুরু করুন।",
+      "ur": "خاموشی توڑیں اور دوستانہ گفتگو شروع کریں۔",
+      "zh-CN": "打破沉默，开启一段友好的对话。",
+      "ja": "沈黙を破って、気さくに会話を始めましょう。"
     },
     "practice": "Rompa el silencio y empiece una conversación amigable.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giới thiệu bản thân và nói rất vui được gặp họ",
           "id": "Perkenalkan dirimu dan katakan senang bertemu dengannya",
           "ms": "Perkenalkan diri dan katakan gembira bertemu dengannya",
-          "ko": "자기소개를 하고 만나서 반갑다고 말하세요"
+          "ko": "자기소개를 하고 만나서 반갑다고 말하세요",
+          "ru": "Представьтесь и скажите, что рады знакомству",
+          "bn": "নিজের পরিচয় দিন এবং বলুন যে দেখা হয়ে ভালো লাগল",
+          "ur": "اپنا تعارف کروائیں اور کہیں کہ ان سے مل کر خوشی ہوئی",
+          "zh-CN": "做自我介绍，并说很高兴认识对方",
+          "ja": "自己紹介をして、会えてうれしいと伝えましょう"
         },
         "practice": "Preséntese y diga que es un gusto conocerle",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi họ làm nghề gì",
           "id": "Tanyakan apa pekerjaannya",
           "ms": "Tanya apa pekerjaannya",
-          "ko": "무슨 일을 하는지 물어보세요"
+          "ko": "무슨 일을 하는지 물어보세요",
+          "ru": "Спросите, кем собеседник работает",
+          "bn": "জিজ্ঞেস করুন তিনি কী কাজ করেন",
+          "ur": "پوچھیں کہ وہ کیا کام کرتے ہیں",
+          "zh-CN": "问问对方做什么工作",
+          "ja": "相手の仕事を聞きましょう"
         },
         "practice": "Pregunte a qué se dedica",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Chia sẻ một sở thích của bạn",
           "id": "Ceritakan satu hobi yang kamu sukai",
           "ms": "Kongsikan satu hobi yang anda gemari",
-          "ko": "즐기는 취미를 하나 이야기하세요"
+          "ko": "즐기는 취미를 하나 이야기하세요",
+          "ru": "Расскажите об одном своём хобби",
+          "bn": "আপনার পছন্দের একটি শখের কথা বলুন",
+          "ur": "اپنا ایک پسندیدہ مشغلہ بتائیں",
+          "zh-CN": "分享一个你喜欢的爱好",
+          "ja": "好きな趣味を一つ話しましょう"
         },
         "practice": "Cuente un pasatiempo que disfruta",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào bạn! Cuối cùng cũng được gặp bạn, vui thật đấy.",
         "id": "Hai! Senang sekali akhirnya bisa bertemu.",
         "ms": "Hai! Gembira sangat akhirnya dapat berjumpa awak.",
-        "ko": "안녕하세요! 드디어 만나게 돼서 정말 반가워요."
+        "ko": "안녕하세요! 드디어 만나게 돼서 정말 반가워요.",
+        "ru": "Привет! Очень рад наконец с тобой познакомиться.",
+        "bn": "হাই! অবশেষে তোমার সাথে দেখা হয়ে সত্যিই ভালো লাগছে।",
+        "ur": "ہائے! آخرکار تم سے مل کر واقعی بہت اچھا لگا۔",
+        "zh-CN": "嗨！终于见到你了，真高兴。",
+        "ja": "こんにちは！やっと会えて本当にうれしいです。"
       },
       "practice": "¡Hola! Es un placer conocerte por fin.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Vậy là... hơi ngại ngại nhỉ?",
         "id": "Jadi... agak canggung ya?",
         "ms": "Jadi... agak janggal, kan?",
-        "ko": "음... 좀 어색하네요, 그렇죠?"
+        "ko": "음... 좀 어색하네요, 그렇죠?",
+        "ru": "Ну... как-то неловко, да?",
+        "bn": "তো... একটু অস্বস্তিকর লাগছে, তাই না?",
+        "ur": "تو... یہ تھوڑا عجیب سا ہے، ہے نا؟",
+        "zh-CN": "那个……有点尴尬，是吧？",
+        "ja": "えっと…ちょっと気まずいですよね？"
       },
       "practice": "Bueno... esto es un poco incómodo, ¿no?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Bạn làm nghề gì vậy?",
         "id": "Kamu kerja apa?",
         "ms": "Awak bekerja sebagai apa?",
-        "ko": "무슨 일 하세요?"
+        "ko": "무슨 일 하세요?",
+        "ru": "Кем ты работаешь?",
+        "bn": "তুমি কী কাজ করো?",
+        "ur": "تم کیا کام کرتے ہو؟",
+        "zh-CN": "你是做什么工作的？",
+        "ja": "お仕事は何をされているんですか？"
       },
       "practice": "¿A qué te dedicas?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Lúc rảnh, mình rất thích đi bộ đường dài.",
         "id": "Di waktu luang, saya suka sekali mendaki.",
         "ms": "Pada masa lapang, saya suka mendaki.",
-        "ko": "저는 쉬는 시간에 등산하는 걸 정말 좋아해요."
+        "ko": "저는 쉬는 시간에 등산하는 걸 정말 좋아해요.",
+        "ru": "В свободное время я обожаю ходить в походы.",
+        "bn": "অবসর সময়ে আমি হাইকিং করতে খুব ভালোবাসি।",
+        "ur": "فارغ وقت میں مجھے ہائیکنگ کرنا بہت پسند ہے۔",
+        "zh-CN": "空闲时，我很喜欢徒步。",
+        "ja": "暇なときは、ハイキングが大好きなんです。"
       },
       "practice": "En mi tiempo libre, me encanta hacer senderismo.",
       "practice_translations": {

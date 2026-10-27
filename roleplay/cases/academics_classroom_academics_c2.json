@@ -18,7 +18,12 @@
     "vi": "Khởi động dự án nhóm",
     "id": "Memulai Proyek Kelompok",
     "ms": "Memulakan Projek Berkumpulan",
-    "ko": "조별 과제 시작하기"
+    "ko": "조별 과제 시작하기",
+    "ru": "Начало группового проекта",
+    "bn": "গ্রুপ প্রজেক্টের সূচনা",
+    "ur": "گروپ پروجیکٹ کا آغاز",
+    "zh-CN": "小组项目启动",
+    "ja": "グループプロジェクト始動"
   },
   "character": "fox",
   "scenario": "You have been put in a group for a class project. A classmate (AI) wants to get started right away.",
@@ -39,7 +44,12 @@
     "vi": "Bạn được xếp vào một nhóm làm dự án môn học. Một bạn cùng lớp (AI) muốn bắt tay vào làm ngay.",
     "id": "Kamu dimasukkan ke sebuah kelompok untuk proyek kelas. Seorang teman sekelas (AI) ingin langsung mulai.",
     "ms": "Anda telah dimasukkan ke dalam satu kumpulan untuk projek kelas. Seorang rakan sekelas (AI) mahu mula dengan segera.",
-    "ko": "수업 과제를 위해 조에 배정됐어요. 같은 반 친구(AI)가 바로 시작하고 싶어 해요."
+    "ko": "수업 과제를 위해 조에 배정됐어요. 같은 반 친구(AI)가 바로 시작하고 싶어 해요.",
+    "ru": "Вас включили в группу для учебного проекта. Одногруппник (AI) хочет сразу приступить к работе.",
+    "bn": "ক্লাস প্রজেক্টের জন্য আপনাকে একটি গ্রুপে রাখা হয়েছে। একজন সহপাঠী (AI) এখনই কাজ শুরু করতে চায়।",
+    "ur": "آپ کو کلاس پروجیکٹ کے لیے ایک گروپ میں رکھا گیا ہے۔ ایک ہم جماعت (AI) فوراً کام شروع کرنا چاہتا ہے۔",
+    "zh-CN": "你被分到一个小组做课程项目。一位同学（AI）想马上开始。",
+    "ja": "授業のプロジェクトでグループに入りました。クラスメート（AI）はすぐに始めたがっています。"
   },
   "mission": {
     "native": "Help choose a topic, split the work and plan your first meeting.",
@@ -60,7 +70,12 @@
       "vi": "Cùng chọn chủ đề, chia việc và lên kế hoạch cho buổi họp đầu tiên.",
       "id": "Bantu memilih topik, membagi tugas, dan merencanakan pertemuan pertama.",
       "ms": "Bantu pilih topik, bahagikan kerja dan rancang mesyuarat pertama anda.",
-      "ko": "주제를 정하고, 역할을 나누고, 첫 모임을 계획하세요."
+      "ko": "주제를 정하고, 역할을 나누고, 첫 모임을 계획하세요.",
+      "ru": "Помогите выбрать тему, распределить работу и спланировать первую встречу.",
+      "bn": "বিষয় বাছাই, কাজ ভাগ করা এবং প্রথম মিটিংয়ের পরিকল্পনায় সাহায্য করুন।",
+      "ur": "موضوع چننے، کام بانٹنے اور پہلی ملاقات کی منصوبہ بندی میں مدد کریں۔",
+      "zh-CN": "一起选定主题、分配任务，并安排第一次会面。",
+      "ja": "テーマを決め、作業を分担し、最初のミーティングを計画しましょう。"
     },
     "practice": "Ayude a elegir un tema, repartir el trabajo y planear la primera reunión.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Đề xuất một chủ đề cho dự án",
           "id": "Usulkan topik untuk proyek",
           "ms": "Cadangkan satu topik untuk projek",
-          "ko": "과제 주제를 제안하세요"
+          "ko": "과제 주제를 제안하세요",
+          "ru": "Предложите тему для проекта",
+          "bn": "প্রজেক্টের জন্য একটি বিষয় প্রস্তাব করুন",
+          "ur": "پروجیکٹ کے لیے ایک موضوع تجویز کریں",
+          "zh-CN": "为项目提出一个主题",
+          "ja": "プロジェクトのテーマを提案する"
         },
         "practice": "Proponga un tema para el proyecto",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nhận làm một phần công việc",
           "id": "Tawarkan diri untuk mengerjakan satu bagian",
           "ms": "Tawarkan diri untuk buat satu bahagian kerja",
-          "ko": "일의 한 부분을 맡겠다고 하세요"
+          "ko": "일의 한 부분을 맡겠다고 하세요",
+          "ru": "Предложите взять на себя часть работы",
+          "bn": "কাজের একটি অংশ নেওয়ার প্রস্তাব দিন",
+          "ur": "کام کا ایک حصہ اپنے ذمے لینے کی پیشکش کریں",
+          "zh-CN": "主动承担一部分工作",
+          "ja": "作業の一部を引き受けると申し出る"
         },
         "practice": "Ofrézcase para encargarse de una parte del trabajo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Thống nhất thời gian gặp nhau",
           "id": "Sepakati waktu untuk bertemu",
           "ms": "Setuju tentang masa untuk berjumpa",
-          "ko": "만날 시간을 정하세요"
+          "ko": "만날 시간을 정하세요",
+          "ru": "Договоритесь о времени встречи",
+          "bn": "দেখা করার সময় ঠিক করুন",
+          "ur": "ملنے کا وقت طے کریں",
+          "zh-CN": "商定见面时间",
+          "ja": "集まる時間を決める"
         },
         "practice": "Acuerden un horario para reunirse",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi cách chia sẻ tài liệu",
           "id": "Tanyakan cara berbagi file",
           "ms": "Tanya bagaimana anda akan berkongsi fail",
-          "ko": "파일을 어떻게 공유할지 물어보세요"
+          "ko": "파일을 어떻게 공유할지 물어보세요",
+          "ru": "Спросите, как вы будете обмениваться файлами",
+          "bn": "ফাইল কীভাবে শেয়ার করবেন তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ فائلیں کیسے شیئر کریں گے",
+          "zh-CN": "询问如何共享文件",
+          "ja": "ファイルの共有方法を尋ねる"
         },
         "practice": "Pregunte cómo compartirán los archivos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Hay là mình tập trung vào năng lượng tái tạo nhé?",
         "id": "Bagaimana kalau kita fokus ke energi terbarukan?",
         "ms": "Bagaimana kalau kita fokus pada tenaga boleh diperbaharui?",
-        "ko": "재생 에너지에 초점을 맞추면 어때요?"
+        "ko": "재생 에너지에 초점을 맞추면 어때요?",
+        "ru": "Может, сосредоточимся на возобновляемой энергии?",
+        "bn": "আমরা যদি নবায়নযোগ্য শক্তির ওপর মনোযোগ দিই?",
+        "ur": "کیوں نہ ہم قابلِ تجدید توانائی پر توجہ دیں؟",
+        "zh-CN": "我们专注于可再生能源怎么样？",
+        "ja": "再生可能エネルギーをテーマにするのはどう？"
       },
       "practice": "¿Qué tal si nos enfocamos en la energía renovable?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Mình có thể tìm tài liệu và viết phần mở đầu.",
         "id": "Aku bisa riset dan menulis pendahuluannya.",
         "ms": "Saya boleh buat penyelidikan dan tulis pengenalan.",
-        "ko": "제가 자료 조사하고 서론을 쓸게요."
+        "ko": "제가 자료 조사하고 서론을 쓸게요.",
+        "ru": "Я могу заняться исследованием и написать введение.",
+        "bn": "আমি গবেষণা করে ভূমিকাটা লিখতে পারি।",
+        "ur": "میں تحقیق کر کے تعارف لکھ سکتا ہوں۔",
+        "zh-CN": "我可以负责查资料和写引言。",
+        "ja": "私がリサーチをして、序論を書けるよ。"
       },
       "practice": "Yo puedo hacer la investigación y escribir la introducción.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Chiều thứ Năm bạn có rảnh không?",
         "id": "Kamu kosong hari Kamis sore?",
         "ms": "Awak lapang pada petang Khamis?",
-        "ko": "목요일 오후에 시간 있어요?"
+        "ko": "목요일 오후에 시간 있어요?",
+        "ru": "Ты свободен в четверг днём?",
+        "bn": "বৃহস্পতিবার বিকেলে তুমি কি ফ্রি?",
+        "ur": "کیا تم جمعرات کی دوپہر فارغ ہو؟",
+        "zh-CN": "你周四下午有空吗？",
+        "ja": "木曜の午後は空いてる？"
       },
       "practice": "¿Tienes tiempo el jueves en la tarde?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Mình có nên dùng một thư mục chung để lưu tài liệu không?",
         "id": "Apa kita pakai folder bersama untuk file-file kita?",
         "ms": "Patutkah kita guna folder kongsi untuk fail kita?",
-        "ko": "파일은 공유 폴더를 쓸까요?"
+        "ko": "파일은 공유 폴더를 쓸까요?",
+        "ru": "Может, используем общую папку для файлов?",
+        "bn": "আমাদের ফাইলের জন্য কি একটা শেয়ারড ফোল্ডার ব্যবহার করব?",
+        "ur": "کیا ہم اپنی فائلوں کے لیے مشترکہ فولڈر استعمال کریں؟",
+        "zh-CN": "我们要不要用一个共享文件夹存文件？",
+        "ja": "ファイルは共有フォルダを使おうか？"
       },
       "practice": "¿Usamos una carpeta compartida para los archivos?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Mình lập nhóm chat để tiện liên lạc nhé.",
         "id": "Ayo bikin grup chat biar tetap terhubung.",
         "ms": "Jom buat sembang kumpulan supaya kita boleh terus berhubung.",
-        "ko": "계속 연락할 수 있게 단톡방을 만들어요."
+        "ko": "계속 연락할 수 있게 단톡방을 만들어요.",
+        "ru": "Давай создадим групповой чат, чтобы быть на связи.",
+        "bn": "চলো একটা গ্রুপ চ্যাট খুলি, যাতে যোগাযোগ রাখা যায়।",
+        "ur": "آؤ ایک گروپ چیٹ بنائیں تاکہ رابطے میں رہیں۔",
+        "zh-CN": "我们建个群聊，方便保持联系吧。",
+        "ja": "連絡用にグループチャットを作ろう。"
       },
       "practice": "Hagamos un chat de grupo para estar en contacto.",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Cuộc đối đầu với chú gà trống trên sân thượng",
     "id": "Adu Argumen soal Ayam Jago di Atap",
     "ms": "Pertelingkahan Ayam Jantan di Balkoni",
-    "ko": "옥상 수탉 대치 상황"
+    "ko": "옥상 수탉 대치 상황",
+    "ru": "Противостояние из-за петуха на балконе",
+    "bn": "বারান্দার মোরগ নিয়ে টানাপোড়েন",
+    "ur": "بالکونی والے مرغے کا تنازع",
+    "zh-CN": "阳台公鸡之争",
+    "ja": "ベランダのニワトリ騒動"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Hàng xóm (AI) nuôi một con gà trống ngoài ban công, sáng nào cũng gáy lúc 5 giờ. Khi bạn nhắc chuyện này, hàng xóm tỏ ra phòng thủ và gọi nó là \"gà trống hỗ trợ tinh thần\".",
     "id": "Tetanggamu (AI) memelihara ayam jago di balkon yang berkokok jam 5 pagi setiap hari. Saat kamu membahasnya, tetanggamu jadi defensif dan menyebutnya \"ayam jago pendukung emosional\".",
     "ms": "Jiran anda (AI) memelihara seekor ayam jantan di balkoni yang berkokok pada pukul 5 pagi setiap hari. Apabila anda menyebutnya, jiran itu jadi defensif dan memanggilnya \"ayam jantan sokongan emosi.\"",
-    "ko": "이웃(AI)이 발코니에서 수탉을 키우는데, 매일 새벽 5시에 울어요. 이 얘기를 꺼내자 이웃은 방어적으로 나오며 \"정서 지원 수탉\"이라고 해요."
+    "ko": "이웃(AI)이 발코니에서 수탉을 키우는데, 매일 새벽 5시에 울어요. 이 얘기를 꺼내자 이웃은 방어적으로 나오며 \"정서 지원 수탉\"이라고 해요.",
+    "ru": "Ваш сосед (AI) держит на балконе петуха, который кукарекает каждый день в 5 утра. Когда вы заводите об этом разговор, сосед начинает защищаться и называет его «петухом эмоциональной поддержки».",
+    "bn": "আপনার প্রতিবেশী (AI) বারান্দায় একটি মোরগ রাখেন, যেটা প্রতিদিন ভোর ৫টায় ডাকে। আপনি বিষয়টা তুললে প্রতিবেশী আত্মরক্ষামূলক হয়ে যান এবং একে \"মানসিক সহায়তার মোরগ\" বলেন।",
+    "ur": "آپ کا پڑوسی (AI) بالکونی میں ایک مرغا رکھتا ہے جو روز صبح 5 بجے بانگ دیتا ہے۔ جب آپ یہ بات اٹھاتے ہیں تو پڑوسی دفاعی ہو جاتا ہے اور اسے \"جذباتی سہارا دینے والا مرغا\" کہتا ہے۔",
+    "zh-CN": "你的邻居（AI）在阳台上养了一只公鸡，每天早上5点打鸣。你一提起这事，邻居就开始辩护，说它是“情感支持公鸡”。",
+    "ja": "隣人（AI）はベランダでニワトリを飼っていて、毎朝5時に鳴きます。その話をすると、隣人はむきになって「心の支えのニワトリ」だと言います。"
   },
   "mission": {
     "native": "Negotiate a solution with your defensive neighbor without starting a feud.",
@@ -61,7 +71,12 @@
       "vi": "Thương lượng giải pháp với người hàng xóm đang phòng thủ mà không gây mâu thuẫn.",
       "id": "Cari solusi bersama tetanggamu yang defensif tanpa memicu permusuhan.",
       "ms": "Rundingkan penyelesaian dengan jiran yang defensif tanpa mencetuskan permusuhan.",
-      "ko": "싸움을 만들지 않고 방어적인 이웃과 해결책을 협상하세요."
+      "ko": "싸움을 만들지 않고 방어적인 이웃과 해결책을 협상하세요.",
+      "ru": "Договоритесь о решении с соседом, который защищается, не начиная вражды.",
+      "bn": "আত্মরক্ষামূলক প্রতিবেশীর সঙ্গে বিবাদ না বাধিয়ে সমাধান নিয়ে আলোচনা করুন।",
+      "ur": "دفاعی پڑوسی کے ساتھ جھگڑا شروع کیے بغیر حل پر بات چیت کریں۔",
+      "zh-CN": "在不引发矛盾的前提下，与防备心强的邻居协商解决办法。",
+      "ja": "身構えている隣人と、もめごとにならないよう解決策を話し合いましょう。"
     },
     "practice": "Negocie una solución con su vecino a la defensiva sin empezar una pelea.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Lịch sự nêu vấn đề gà gáy quá sớm",
           "id": "Sampaikan masalah kokok pagi-pagi dengan sopan",
           "ms": "Bangkitkan masalah kokokan awal pagi dengan sopan",
-          "ko": "새벽에 우는 문제를 정중하게 꺼내세요"
+          "ko": "새벽에 우는 문제를 정중하게 꺼내세요",
+          "ru": "Вежливо поднимите вопрос раннего кукареканья",
+          "bn": "ভোরের ডাকের সমস্যাটি ভদ্রভাবে তুলুন",
+          "ur": "صبح سویرے بانگ کا مسئلہ شائستگی سے اٹھائیں",
+          "zh-CN": "礼貌地提出公鸡打鸣太早的问题",
+          "ja": "早朝の鳴き声の問題を丁寧に切り出しましょう"
         },
         "practice": "Mencione con cortesía el problema del canto temprano",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Cho thấy bạn hiểu vì sao con gà quan trọng với họ",
           "id": "Tunjukkan bahwa kamu paham kenapa ayam itu penting baginya",
           "ms": "Tunjukkan bahawa anda faham mengapa ayam jantan itu penting",
-          "ko": "수탉이 왜 소중한지 이해한다고 말하세요"
+          "ko": "수탉이 왜 소중한지 이해한다고 말하세요",
+          "ru": "Покажите, что понимаете, почему петух важен",
+          "bn": "দেখান যে আপনি বোঝেন মোরগটি কেন গুরুত্বপূর্ণ",
+          "ur": "ظاہر کریں کہ آپ سمجھتے ہیں مرغا کیوں اہم ہے",
+          "zh-CN": "表示你理解这只公鸡为什么重要",
+          "ja": "ニワトリが大切な理由を理解していると示しましょう"
         },
         "practice": "Muestre que entiende por qué el gallo es importante",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề xuất giải pháp dung hòa, như trùm lồng vào ban đêm",
           "id": "Usulkan jalan tengah, seperti kandang yang ditutup di malam hari",
           "ms": "Cadangkan kompromi, seperti menutup sangkar pada waktu malam",
-          "ko": "밤에 새장을 덮는 것 같은 타협안을 제안하세요"
+          "ko": "밤에 새장을 덮는 것 같은 타협안을 제안하세요",
+          "ru": "Предложите компромисс, например накрывать клетку на ночь",
+          "bn": "একটি আপস প্রস্তাব করুন, যেমন রাতে খাঁচা ঢেকে রাখা",
+          "ur": "کوئی درمیانی راستہ تجویز کریں، جیسے رات کو پنجرہ ڈھانپنا",
+          "zh-CN": "提出折中方案，比如晚上把笼子盖上",
+          "ja": "夜はケージを覆うなど、妥協案を提案しましょう"
         },
         "practice": "Proponga un acuerdo, como una jaula cubierta por la noche",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất thời gian thử và hẹn trao đổi lại",
           "id": "Sepakati masa percobaan dan waktu untuk membahasnya lagi",
           "ms": "Setuju tentang tempoh percubaan dan perbincangan susulan",
-          "ko": "시험 기간과 다시 이야기할 때를 정하세요"
+          "ko": "시험 기간과 다시 이야기할 때를 정하세요",
+          "ru": "Договоритесь о пробном периоде и повторном разговоре",
+          "bn": "একটি পরীক্ষামূলক সময় ও পরে আবার কথা বলার বিষয়ে একমত হন",
+          "ur": "آزمائشی مدت اور بعد میں دوبارہ بات کرنے پر اتفاق کریں",
+          "zh-CN": "商定一个试行期，并约好之后再沟通",
+          "ja": "お試し期間と、その後の話し合いについて合意しましょう"
         },
         "practice": "Acuerden un periodo de prueba y una revisión",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi không muốn gây rắc rối, nhưng mình cần nói chuyện một chút.",
         "id": "Saya tidak mau cari masalah, tapi kita perlu bicara.",
         "ms": "Saya tak mahu timbulkan masalah, tapi kita perlu berbincang.",
-        "ko": "문제를 일으키고 싶진 않지만, 이야기 좀 해야 할 것 같아요."
+        "ko": "문제를 일으키고 싶진 않지만, 이야기 좀 해야 할 것 같아요.",
+        "ru": "Я не хочу создавать проблем, но нам нужно поговорить.",
+        "bn": "আমি কোনো ঝামেলা করতে চাই না, কিন্তু আমাদের কথা বলা দরকার।",
+        "ur": "میں کوئی مسئلہ نہیں کھڑا کرنا چاہتا، لیکن ہمیں بات کرنی ہوگی۔",
+        "zh-CN": "我不想惹麻烦，但我们需要谈谈。",
+        "ja": "もめたくはないんですが、少しお話ししたいことがあります。"
       },
       "practice": "No quiero causar problemas, pero tenemos que hablar.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi hiểu con gà trống rất quan trọng với anh/chị.",
         "id": "Saya mengerti ayam jago itu sangat penting bagi Anda.",
         "ms": "Saya faham ayam jantan itu sangat penting bagi awak.",
-        "ko": "수탉이 당신에게 정말 소중하다는 건 이해해요."
+        "ko": "수탉이 당신에게 정말 소중하다는 건 이해해요.",
+        "ru": "Я понимаю, что петух очень важен для вас.",
+        "bn": "আমি বুঝি মোরগটি আপনার কাছে খুব গুরুত্বপূর্ণ।",
+        "ur": "میں سمجھتا ہوں کہ مرغا آپ کے لیے بہت اہم ہے۔",
+        "zh-CN": "我理解这只公鸡对您非常重要。",
+        "ja": "ニワトリがあなたにとってとても大切なのはわかります。"
       },
       "practice": "Entiendo que el gallo es muy importante para usted.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tiếng gáy lúc năm giờ sáng thật sự rất khó chịu với tôi.",
         "id": "Kokoknya jam lima pagi benar-benar berat buat saya.",
         "ms": "Kokokan pada pukul lima pagi memang sangat menyusahkan saya.",
-        "ko": "새벽 5시에 우는 건 저한테 정말 힘들어요."
+        "ko": "새벽 5시에 우는 건 저한테 정말 힘들어요.",
+        "ru": "Кукареканье в пять утра мне правда очень тяжело даётся.",
+        "bn": "ভোর পাঁচটার ডাক আমার জন্য সত্যিই খুব কষ্টকর।",
+        "ur": "صبح پانچ بجے کی بانگ میرے لیے واقعی بہت مشکل ہے۔",
+        "zh-CN": "早上五点的打鸣声真的让我很难受。",
+        "ja": "朝5時の鳴き声は本当につらいんです。"
       },
       "practice": "El canto a las cinco de la mañana es muy difícil para mí.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Hay là anh/chị trùm lồng lại vào ban đêm nhé?",
         "id": "Bagaimana kalau kandangnya ditutup saat malam?",
         "ms": "Bagaimana kalau awak tutup sangkarnya pada waktu malam?",
-        "ko": "밤에 새장을 덮어 두시면 어떨까요?"
+        "ko": "밤에 새장을 덮어 두시면 어떨까요?",
+        "ru": "А что, если накрывать клетку на ночь?",
+        "bn": "রাতে খাঁচাটা ঢেকে রাখলে কেমন হয়?",
+        "ur": "اگر آپ رات کو پنجرہ ڈھانپ دیں تو کیسا رہے؟",
+        "zh-CN": "要不晚上把笼子盖上？",
+        "ja": "夜はケージを覆ってみるのはどうですか？"
       },
       "practice": "¿Qué tal si cubre la jaula por la noche?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Mình thử trong hai tuần rồi xem thế nào nhé.",
         "id": "Ayo kita coba dua minggu dan lihat hasilnya.",
         "ms": "Jom kita cuba selama dua minggu dan lihat hasilnya.",
-        "ko": "2주 동안 해 보고 어떤지 봐요."
+        "ko": "2주 동안 해 보고 어떤지 봐요.",
+        "ru": "Давайте попробуем две недели и посмотрим, как пойдёт.",
+        "bn": "চলুন দুই সপ্তাহ চেষ্টা করে দেখি কেমন হয়।",
+        "ur": "چلیں دو ہفتے آزما کر دیکھتے ہیں کہ کیسا رہتا ہے۔",
+        "zh-CN": "我们先试两周，看看效果如何。",
+        "ja": "2週間試してみて、様子を見ましょう。"
       },
       "practice": "Probemos durante dos semanas y veamos qué tal.",
       "practice_translations": {

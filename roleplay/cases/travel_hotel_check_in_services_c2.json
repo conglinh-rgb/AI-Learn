@@ -18,7 +18,12 @@
     "vi": "Gọi xuống quầy lễ tân",
     "id": "Menelepon Meja Depan",
     "ms": "Menelefon Kaunter Hadapan",
-    "ko": "프런트에 전화하기"
+    "ko": "프런트에 전화하기",
+    "ru": "Звонок на ресепшен",
+    "bn": "ফ্রন্ট ডেস্কে ফোন করা",
+    "ur": "فرنٹ ڈیسک کو کال",
+    "zh-CN": "致电前台",
+    "ja": "フロントへの電話"
   },
   "character": "fox",
   "scenario": "You are settled in your hotel room and call the front desk. The receptionist (AI) answers and asks how they can help.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đã ổn định trong phòng khách sạn và gọi xuống quầy lễ tân. Lễ tân (AI) nghe máy và hỏi có thể giúp gì cho bạn.",
     "id": "Kamu sudah beristirahat di kamar hotel dan menelepon meja depan. Resepsionis (AI) menjawab dan bertanya apa yang bisa dibantu.",
     "ms": "Anda sudah selesa di bilik hotel dan menelefon kaunter hadapan. Penyambut tetamu (AI) menjawab dan bertanya bagaimana mereka boleh membantu.",
-    "ko": "호텔 방에 자리를 잡고 프런트에 전화를 겁니다. 프런트 직원(AI)이 전화를 받고 무엇을 도와드릴지 묻습니다."
+    "ko": "호텔 방에 자리를 잡고 프런트에 전화를 겁니다. 프런트 직원(AI)이 전화를 받고 무엇을 도와드릴지 묻습니다.",
+    "ru": "Вы устроились в номере и звоните на ресепшен. Администратор (AI) отвечает и спрашивает, чем может помочь.",
+    "bn": "আপনি হোটেলের রুমে গুছিয়ে বসেছেন এবং ফ্রন্ট ডেস্কে ফোন করেন। রিসেপশনিস্ট (AI) ফোন ধরে জানতে চায় কীভাবে সাহায্য করতে পারে।",
+    "ur": "آپ اپنے ہوٹل کے کمرے میں آرام سے ہیں اور فرنٹ ڈیسک کو کال کرتے ہیں۔ ریسپشنسٹ (AI) جواب دیتی ہے اور پوچھتی ہے کہ وہ کیا مدد کر سکتی ہے۔",
+    "zh-CN": "你已在酒店房间安顿好，打电话给前台。前台接待员（AI）接听并询问有什么可以帮你。",
+    "ja": "ホテルの部屋で落ち着いたあと、フロントに電話します。受付係（AI）が電話に出て、用件を尋ねます。"
   },
   "mission": {
     "native": "Make a few requests to the front desk and arrange a late checkout.",
@@ -60,7 +70,12 @@
       "vi": "Đưa ra vài yêu cầu với lễ tân và sắp xếp trả phòng muộn.",
       "id": "Ajukan beberapa permintaan ke meja depan dan atur check-out yang lebih lambat.",
       "ms": "Buat beberapa permintaan kepada kaunter hadapan dan aturkan daftar keluar lewat.",
-      "ko": "프런트에 몇 가지를 요청하고 늦은 체크아웃을 예약하세요."
+      "ko": "프런트에 몇 가지를 요청하고 늦은 체크아웃을 예약하세요.",
+      "ru": "Обратитесь на ресепшен с несколькими просьбами и договоритесь о позднем выезде.",
+      "bn": "ফ্রন্ট ডেস্কে কয়েকটি অনুরোধ করুন এবং দেরিতে চেক-আউটের ব্যবস্থা করুন।",
+      "ur": "فرنٹ ڈیسک سے چند درخواستیں کریں اور دیر سے چیک آؤٹ کا انتظام کریں۔",
+      "zh-CN": "向前台提出几项要求，并安排延迟退房。",
+      "ja": "フロントにいくつか依頼をして、レイトチェックアウトを手配しましょう。"
     },
     "practice": "Haga algunas solicitudes a la recepción y consiga una salida tardía.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Gọi đồ ăn",
           "id": "Pesan sesuatu untuk dimakan",
           "ms": "Pesan sesuatu untuk dimakan",
-          "ko": "먹을 것을 주문하세요"
+          "ko": "먹을 것을 주문하세요",
+          "ru": "Закажите что-нибудь поесть",
+          "bn": "কিছু খাবার অর্ডার করুন",
+          "ur": "کھانے کے لیے کچھ آرڈر کریں",
+          "zh-CN": "点些吃的",
+          "ja": "食べ物を注文する"
         },
         "practice": "Pida algo de comer",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Xin thêm khăn tắm",
           "id": "Minta handuk tambahan",
           "ms": "Minta tuala tambahan",
-          "ko": "수건을 더 달라고 하세요"
+          "ko": "수건을 더 달라고 하세요",
+          "ru": "Попросите дополнительные полотенца",
+          "bn": "অতিরিক্ত তোয়ালে চান",
+          "ur": "اضافی تولیے مانگیں",
+          "zh-CN": "要额外的毛巾",
+          "ja": "タオルの追加を頼む"
         },
         "practice": "Pida toallas adicionales",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhờ gọi báo thức",
           "id": "Minta layanan telepon bangun pagi",
           "ms": "Minta panggilan kejut",
-          "ko": "모닝콜을 요청하세요"
+          "ko": "모닝콜을 요청하세요",
+          "ru": "Попросите звонок-будильник",
+          "bn": "ওয়েক-আপ কলের অনুরোধ করুন",
+          "ur": "ویک اپ کال کی درخواست کریں",
+          "zh-CN": "请求叫醒服务",
+          "ja": "モーニングコールを頼む"
         },
         "practice": "Pida una llamada para despertarse",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi về việc trả phòng muộn",
           "id": "Tanyakan soal check-out lebih lambat",
           "ms": "Tanya tentang daftar keluar lewat",
-          "ko": "늦은 체크아웃에 대해 물어보세요"
+          "ko": "늦은 체크아웃에 대해 물어보세요",
+          "ru": "Спросите о позднем выезде",
+          "bn": "দেরিতে চেক-আউট সম্পর্কে জিজ্ঞাসা করুন",
+          "ur": "دیر سے چیک آؤٹ کے بارے میں پوچھیں",
+          "zh-CN": "询问能否延迟退房",
+          "ja": "レイトチェックアウトについて尋ねる"
         },
         "practice": "Pregunte por una salida tardía",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Xin chào, tôi gọi từ phòng 305.",
         "id": "Halo, saya menelepon dari kamar 305.",
         "ms": "Helo, saya menelefon dari bilik 305.",
-        "ko": "안녕하세요, 305호인데요."
+        "ko": "안녕하세요, 305호인데요.",
+        "ru": "Здравствуйте, я звоню из номера 305.",
+        "bn": "হ্যালো, আমি ৩০৫ নম্বর রুম থেকে ফোন করছি।",
+        "ur": "ہیلو، میں کمرہ 305 سے کال کر رہا ہوں۔",
+        "zh-CN": "您好，我是305房间的。",
+        "ja": "もしもし、305号室の者です。"
       },
       "practice": "Hola, llamo de la habitación 305.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Cho tôi gọi một bánh sandwich và một ly nước ép được không?",
         "id": "Boleh saya pesan sandwich dan jus?",
         "ms": "Boleh saya pesan sandwic dan jus?",
-        "ko": "샌드위치하고 주스 하나 주문할 수 있을까요?"
+        "ko": "샌드위치하고 주스 하나 주문할 수 있을까요?",
+        "ru": "Можно заказать сэндвич и сок?",
+        "bn": "আমি কি একটা স্যান্ডউইচ আর একটা জুস অর্ডার করতে পারি?",
+        "ur": "کیا میں ایک سینڈوچ اور ایک جوس آرڈر کر سکتا ہوں؟",
+        "zh-CN": "我可以点一份三明治和一杯果汁吗？",
+        "ja": "サンドイッチとジュースを注文できますか？"
       },
       "practice": "¿Podría pedir un sándwich y un jugo?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Anh/chị mang thêm vài chiếc khăn tắm lên giúp tôi được không?",
         "id": "Bisa kirimkan handuk tambahan ke kamar?",
         "ms": "Boleh hantar beberapa tuala tambahan ke bilik?",
-        "ko": "수건 좀 더 갖다주실 수 있나요?"
+        "ko": "수건 좀 더 갖다주실 수 있나요?",
+        "ru": "Не могли бы вы принести ещё несколько полотенец?",
+        "bn": "আরও কয়েকটা তোয়ালে পাঠিয়ে দিতে পারবেন?",
+        "ur": "کیا آپ کچھ اضافی تولیے بھجوا سکتے ہیں؟",
+        "zh-CN": "能再送几条毛巾上来吗？",
+        "ja": "タオルを何枚か追加で持ってきていただけますか？"
       },
       "practice": "¿Podría mandarme unas toallas adicionales?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi muốn được gọi báo thức lúc bảy giờ.",
         "id": "Saya ingin dibangunkan jam tujuh pagi.",
         "ms": "Saya mahu panggilan kejut pada pukul tujuh.",
-        "ko": "7시에 모닝콜 부탁드려요."
+        "ko": "7시에 모닝콜 부탁드려요.",
+        "ru": "Разбудите меня, пожалуйста, в семь.",
+        "bn": "আমি সাতটায় একটা ওয়েক-আপ কল চাই।",
+        "ur": "مجھے سات بجے ویک اپ کال چاہیے۔",
+        "zh-CN": "我想要七点的叫醒服务。",
+        "ja": "7時にモーニングコールをお願いしたいです。"
       },
       "practice": "Quisiera que me despierten a las siete.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Ngày mai tôi trả phòng muộn được không?",
         "id": "Apakah besok saya bisa check-out lebih lambat?",
         "ms": "Boleh saya daftar keluar lewat esok?",
-        "ko": "내일 늦게 체크아웃할 수 있을까요?"
+        "ko": "내일 늦게 체크아웃할 수 있을까요?",
+        "ru": "Можно ли завтра выехать попозже?",
+        "bn": "কাল কি দেরিতে চেক-আউট করা সম্ভব?",
+        "ur": "کیا کل دیر سے چیک آؤٹ کرنا ممکن ہے؟",
+        "zh-CN": "明天可以晚一点退房吗？",
+        "ja": "明日、レイトチェックアウトはできますか？"
       },
       "practice": "¿Es posible salir más tarde mañana?",
       "practice_translations": {

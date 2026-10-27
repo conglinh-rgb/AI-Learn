@@ -18,7 +18,12 @@
     "vi": "Ăn trưa cùng đồng nghiệp",
     "id": "Makan Siang dengan Rekan Kerja",
     "ms": "Makan Tengah Hari dengan Rakan Sekerja",
-    "ko": "동료들과 점심 식사"
+    "ko": "동료들과 점심 식사",
+    "ru": "Обед с коллегами",
+    "bn": "সহকর্মীদের সাথে দুপুরের খাবার",
+    "ur": "ساتھیوں کے ساتھ دوپہر کا کھانا",
+    "zh-CN": "与同事共进午餐",
+    "ja": "同僚とランチ"
   },
   "character": "fox",
   "scenario": "A colleague (AI) invites you to lunch on your first day and asks about you.",
@@ -39,7 +44,12 @@
     "vi": "Một đồng nghiệp (AI) mời bạn đi ăn trưa vào ngày đầu tiên và hỏi han về bạn.",
     "id": "Seorang rekan kerja (AI) mengajakmu makan siang di hari pertamamu dan bertanya tentang dirimu.",
     "ms": "Seorang rakan sekerja (AI) mengajak anda makan tengah hari pada hari pertama anda dan bertanya tentang diri anda.",
-    "ko": "첫 출근 날 한 동료(AI)가 점심을 같이 먹자고 하며 당신에 대해 묻습니다."
+    "ko": "첫 출근 날 한 동료(AI)가 점심을 같이 먹자고 하며 당신에 대해 묻습니다.",
+    "ru": "Коллега (AI) приглашает вас на обед в ваш первый рабочий день и расспрашивает о вас.",
+    "bn": "প্রথম দিনে একজন সহকর্মী (AI) আপনাকে দুপুরের খাবারে আমন্ত্রণ জানান এবং আপনার সম্পর্কে জানতে চান।",
+    "ur": "پہلے دن ایک ساتھی (AI) آپ کو دوپہر کے کھانے پر بلاتا ہے اور آپ کے بارے میں پوچھتا ہے۔",
+    "zh-CN": "上班第一天，一位同事（AI）邀请你共进午餐，并问起你的情况。",
+    "ja": "初出勤の日、同僚（AI）があなたをランチに誘い、あなたについて質問します。"
   },
   "mission": {
     "native": "Make small talk and learn one thing about the company culture.",
@@ -60,7 +70,12 @@
       "vi": "Trò chuyện xã giao và tìm hiểu một điều về văn hóa công ty.",
       "id": "Ngobrol santai dan cari tahu satu hal tentang budaya perusahaan.",
       "ms": "Berbual santai dan ketahui satu perkara tentang budaya syarikat.",
-      "ko": "가벼운 대화를 나누고 회사 문화에 대해 한 가지를 알아보세요."
+      "ko": "가벼운 대화를 나누고 회사 문화에 대해 한 가지를 알아보세요.",
+      "ru": "Поддержите непринуждённый разговор и узнайте что-нибудь о корпоративной культуре.",
+      "bn": "হালকা আলাপ করুন এবং কোম্পানির সংস্কৃতি সম্পর্কে একটি বিষয় জানুন।",
+      "ur": "ہلکی پھلکی بات چیت کریں اور کمپنی کے کلچر کے بارے میں ایک بات جانیں۔",
+      "zh-CN": "闲聊几句，并了解一点公司文化。",
+      "ja": "雑談をして、会社の文化について一つ知りましょう。"
     },
     "practice": "Charle un poco y aprenda algo sobre la cultura de la empresa.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nhận lời mời",
           "id": "Terima ajakannya",
           "ms": "Terima pelawaan itu",
-          "ko": "초대를 받아들이세요"
+          "ko": "초대를 받아들이세요",
+          "ru": "Примите приглашение",
+          "bn": "আমন্ত্রণ গ্রহণ করুন",
+          "ur": "دعوت قبول کریں",
+          "zh-CN": "接受邀请",
+          "ja": "誘いを受ける"
         },
         "practice": "Acepte la invitación",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Chia sẻ đôi điều về bản thân",
           "id": "Ceritakan sesuatu tentang dirimu",
           "ms": "Kongsi sesuatu tentang diri anda",
-          "ko": "자신에 대해 이야기해 보세요"
+          "ko": "자신에 대해 이야기해 보세요",
+          "ru": "Расскажите что-нибудь о себе",
+          "bn": "নিজের সম্পর্কে কিছু বলুন",
+          "ur": "اپنے بارے میں کچھ بتائیں",
+          "zh-CN": "分享一些关于自己的事",
+          "ja": "自分について話す"
         },
         "practice": "Cuente algo sobre usted",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về văn hóa công ty",
           "id": "Tanyakan tentang budaya perusahaan",
           "ms": "Tanya tentang budaya syarikat",
-          "ko": "회사 문화에 대해 물어보세요"
+          "ko": "회사 문화에 대해 물어보세요",
+          "ru": "Спросите о корпоративной культуре",
+          "bn": "কোম্পানির সংস্কৃতি সম্পর্কে জিজ্ঞাসা করুন",
+          "ur": "کمپنی کے کلچر کے بارے میں پوچھیں",
+          "zh-CN": "询问公司文化",
+          "ja": "会社の文化について尋ねる"
         },
         "practice": "Pregunte por la cultura de la empresa",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Tôi rất sẵn lòng đi cùng, cảm ơn anh/chị đã rủ.",
         "id": "Saya mau sekali ikut, terima kasih sudah mengajak.",
         "ms": "Saya suka sekali untuk ikut, terima kasih kerana mengajak.",
-        "ko": "같이 가고 싶어요, 불러 줘서 고마워요."
+        "ko": "같이 가고 싶어요, 불러 줘서 고마워요.",
+        "ru": "С удовольствием присоединюсь, спасибо за приглашение.",
+        "bn": "আমি সানন্দে যোগ দেব, ডাকার জন্য ধন্যবাদ।",
+        "ur": "میں ضرور چلوں گا، پوچھنے کا شکریہ۔",
+        "zh-CN": "我很乐意一起去，谢谢你叫上我。",
+        "ja": "ぜひご一緒させてください。誘ってくれてありがとう。"
       },
       "practice": "Me encantaría acompañarte, gracias por invitarme.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi vừa chuyển đến đây từ thành phố khác nên mọi thứ vẫn còn mới với tôi.",
         "id": "Saya baru pindah ke sini dari kota lain, jadi semuanya masih baru buat saya.",
         "ms": "Saya baru berpindah ke sini dari bandar lain, jadi semuanya masih baharu bagi saya.",
-        "ko": "다른 도시에서 막 이사 와서 아직 모든 게 새로워요."
+        "ko": "다른 도시에서 막 이사 와서 아직 모든 게 새로워요.",
+        "ru": "Я только что переехал сюда из другого города, так что всё для меня ещё в новинку.",
+        "bn": "আমি সবেমাত্র অন্য শহর থেকে এখানে এসেছি, তাই সবকিছু এখনো আমার কাছে নতুন।",
+        "ur": "میں ابھی ابھی دوسرے شہر سے یہاں آیا ہوں، اس لیے سب کچھ ابھی میرے لیے نیا ہے۔",
+        "zh-CN": "我刚从另一个城市搬来，所以一切对我来说都还很新鲜。",
+        "ja": "別の街から引っ越してきたばかりなので、まだ何もかもが新鮮です。"
       },
       "practice": "Acabo de mudarme de otra ciudad, así que todo es nuevo para mí.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Văn hoá làm việc của nhóm ở đây thế nào?",
         "id": "Seperti apa budaya tim di sini?",
         "ms": "Bagaimana budaya pasukan di sini?",
-        "ko": "여기 팀 문화는 어때요?"
+        "ko": "여기 팀 문화는 어때요?",
+        "ru": "Какая здесь атмосфера в команде?",
+        "bn": "এখানে টিমের সংস্কৃতি কেমন?",
+        "ur": "یہاں ٹیم کا ماحول کیسا ہے؟",
+        "zh-CN": "这里的团队文化是什么样的？",
+        "ja": "ここのチームの雰囲気はどんな感じですか？"
       },
       "practice": "¿Cómo es la cultura del equipo aquí?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Mọi người ở đây thường ăn trưa cùng nhau không?",
         "id": "Apakah orang-orang di sini biasanya makan siang bersama?",
         "ms": "Adakah orang di sini biasanya makan tengah hari bersama?",
-        "ko": "여기서는 보통 다 같이 점심을 먹나요?"
+        "ko": "여기서는 보통 다 같이 점심을 먹나요?",
+        "ru": "Здесь обычно обедают вместе?",
+        "bn": "এখানে কি সবাই সাধারণত একসাথে দুপুরের খাবার খায়?",
+        "ur": "کیا یہاں لوگ عموماً اکٹھے دوپہر کا کھانا کھاتے ہیں؟",
+        "zh-CN": "这里大家通常一起吃午饭吗？",
+        "ja": "ここではみんな普段一緒にランチをしますか？"
       },
       "practice": "¿Aquí la gente suele almorzar junta?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Cảm ơn bữa trưa nhé, rất vui được làm quen với anh/chị.",
         "id": "Terima kasih untuk makan siangnya, senang sekali bisa kenal denganmu.",
         "ms": "Terima kasih untuk makan tengah hari, sungguh seronok dapat berkenalan dengan anda.",
-        "ko": "점심 고마워요, 알게 되어서 정말 반가웠어요."
+        "ko": "점심 고마워요, 알게 되어서 정말 반가웠어요.",
+        "ru": "Спасибо за обед, было очень приятно познакомиться.",
+        "bn": "দুপুরের খাবারের জন্য ধন্যবাদ, তোমার সাথে পরিচিত হয়ে সত্যিই ভালো লাগল।",
+        "ur": "کھانے کا شکریہ، آپ سے مل کر واقعی بہت اچھا لگا۔",
+        "zh-CN": "谢谢你的午餐，认识你真的很开心。",
+        "ja": "ランチありがとう。知り合えて本当によかったです。"
       },
       "practice": "Gracias por el almuerzo, me gustó mucho conocerte.",
       "practice_translations": {

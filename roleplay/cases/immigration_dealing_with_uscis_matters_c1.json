@@ -18,7 +18,12 @@
     "vi": "Dời lịch hẹn lấy sinh trắc học",
     "id": "Memindahkan Jadwal Biometrik",
     "ms": "Menukar Temu Janji Biometrik Anda",
-    "ko": "생체 정보 등록 예약 변경하기"
+    "ko": "생체 정보 등록 예약 변경하기",
+    "ru": "Перенос записи на сдачу биометрии",
+    "bn": "বায়োমেট্রিক্স অ্যাপয়েন্টমেন্ট পরিবর্তন",
+    "ur": "بایومیٹرکس اپائنٹمنٹ تبدیل کرنا",
+    "zh-CN": "更改生物信息采集预约",
+    "ja": "生体情報登録の予約を変更する"
   },
   "character": "fox",
   "scenario": "You can't attend your biometrics appointment next week because of a medical procedure. You call the contact center, and an agent (AI) answers.",
@@ -39,7 +44,12 @@
     "vi": "Bạn không thể đến buổi hẹn lấy sinh trắc học tuần sau vì phải làm một thủ thuật y tế. Bạn gọi đến trung tâm liên lạc và một nhân viên (AI) nghe máy.",
     "id": "Kamu tidak bisa datang ke janji biometrik minggu depan karena ada tindakan medis. Kamu menelepon pusat layanan, dan seorang petugas (AI) menjawab.",
     "ms": "Anda tidak dapat hadir ke temu janji biometrik minggu depan kerana prosedur perubatan. Anda menelefon pusat panggilan, dan seorang ejen (AI) menjawab.",
-    "ko": "다음 주에 의료 시술이 있어서 생체 정보 등록 예약에 갈 수 없습니다. 고객센터에 전화하자 상담원(AI)이 받습니다."
+    "ko": "다음 주에 의료 시술이 있어서 생체 정보 등록 예약에 갈 수 없습니다. 고객센터에 전화하자 상담원(AI)이 받습니다.",
+    "ru": "Вы не можете прийти на сдачу биометрии на следующей неделе из-за медицинской процедуры. Вы звоните в контакт-центр, и вам отвечает оператор (AI).",
+    "bn": "একটি চিকিৎসা প্রক্রিয়ার কারণে আপনি আগামী সপ্তাহের বায়োমেট্রিক্স অ্যাপয়েন্টমেন্টে যেতে পারবেন না। আপনি কন্টাক্ট সেন্টারে ফোন করেন, আর একজন এজেন্ট (AI) উত্তর দেন।",
+    "ur": "ایک طبی عمل کی وجہ سے آپ اگلے ہفتے اپنی بایومیٹرکس اپائنٹمنٹ پر نہیں جا سکتے۔ آپ کانٹیکٹ سینٹر کو فون کرتے ہیں اور ایک ایجنٹ (AI) جواب دیتا ہے۔",
+    "zh-CN": "由于要做一项医疗手术，你下周无法参加生物信息采集预约。你致电联络中心，一名客服（AI）接听了电话。",
+    "ja": "医療処置のため、来週の生体情報登録の予約に行けません。コンタクトセンターに電話すると、担当者（AI）が応対します。"
   },
   "mission": {
     "native": "Explain why you can't attend and ask to reschedule your biometrics appointment.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích lý do bạn không thể đến và xin dời lịch hẹn lấy sinh trắc học.",
       "id": "Jelaskan kenapa kamu tidak bisa datang dan minta jadwal ulang untuk janji biometrikmu.",
       "ms": "Terangkan sebab anda tidak dapat hadir dan minta untuk menjadualkan semula temu janji biometrik anda.",
-      "ko": "갈 수 없는 이유를 설명하고 생체 정보 등록 예약을 변경해 달라고 하세요."
+      "ko": "갈 수 없는 이유를 설명하고 생체 정보 등록 예약을 변경해 달라고 하세요.",
+      "ru": "Объясните, почему не можете прийти, и попросите перенести запись на сдачу биометрии.",
+      "bn": "কেন যেতে পারবেন না তা ব্যাখ্যা করুন এবং বায়োমেট্রিক্স অ্যাপয়েন্টমেন্ট পুনর্নির্ধারণ করতে বলুন।",
+      "ur": "وضاحت کریں کہ آپ کیوں نہیں آ سکتے اور اپنی بایومیٹرکس اپائنٹمنٹ دوبارہ طے کرنے کی درخواست کریں۔",
+      "zh-CN": "说明你无法前往的原因，并请求改约生物信息采集时间。",
+      "ja": "行けない理由を説明し、生体情報登録の予約変更を依頼しましょう。"
     },
     "practice": "Explique por qué no puede asistir y pida reprogramar su cita de datos biométricos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn cần dời lịch hẹn",
           "id": "Katakan bahwa kamu perlu menjadwal ulang janji temumu",
           "ms": "Katakan anda perlu menjadualkan semula temu janji",
-          "ko": "예약을 변경해야 한다고 말하세요"
+          "ko": "예약을 변경해야 한다고 말하세요",
+          "ru": "Скажите, что вам нужно перенести запись",
+          "bn": "বলুন যে আপনার অ্যাপয়েন্টমেন্ট পুনর্নির্ধারণ করা দরকার",
+          "ur": "بتائیں کہ آپ کو اپنی اپائنٹمنٹ دوبارہ طے کرنی ہے",
+          "zh-CN": "说明你需要改约",
+          "ja": "予約を変更する必要があると伝える"
         },
         "practice": "Diga que necesita reprogramar su cita",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích lý do bạn không thể đến",
           "id": "Jelaskan kenapa kamu tidak bisa datang",
           "ms": "Terangkan sebab anda tidak dapat hadir",
-          "ko": "갈 수 없는 이유를 설명하세요"
+          "ko": "갈 수 없는 이유를 설명하세요",
+          "ru": "Объясните, почему не можете прийти",
+          "bn": "কেন যেতে পারবেন না তা ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ آپ کیوں نہیں آ سکتے",
+          "zh-CN": "说明你无法前往的原因",
+          "ja": "行けない理由を説明する"
         },
         "practice": "Explique por qué no puede asistir",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về ngày trống mới",
           "id": "Tanyakan tanggal baru yang tersedia",
           "ms": "Tanya tentang tarikh baharu yang ada",
-          "ko": "가능한 새 날짜를 물어보세요"
+          "ko": "가능한 새 날짜를 물어보세요",
+          "ru": "Спросите о новой свободной дате",
+          "bn": "নতুন খালি তারিখ সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "نئی دستیاب تاریخ کے بارے میں پوچھیں",
+          "zh-CN": "询问新的可预约日期",
+          "ja": "新しく空いている日を尋ねる"
         },
         "practice": "Pregunte por una nueva fecha disponible",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Xin chào, tôi cần dời lịch hẹn lấy sinh trắc học.",
         "id": "Halo, saya perlu menjadwal ulang janji biometrik saya.",
         "ms": "Helo, saya perlu menjadualkan semula temu janji biometrik saya.",
-        "ko": "안녕하세요, 생체 정보 등록 예약을 변경해야 해요."
+        "ko": "안녕하세요, 생체 정보 등록 예약을 변경해야 해요.",
+        "ru": "Здравствуйте, мне нужно перенести запись на сдачу биометрии.",
+        "bn": "হ্যালো, আমার বায়োমেট্রিক্স অ্যাপয়েন্টমেন্ট পুনর্নির্ধারণ করতে হবে।",
+        "ur": "ہیلو، مجھے اپنی بایومیٹرکس اپائنٹمنٹ دوبارہ طے کرنی ہے۔",
+        "zh-CN": "您好，我需要更改我的生物信息采集预约。",
+        "ja": "こんにちは、生体情報登録の予約を変更したいのですが。"
       },
       "practice": "Hola, necesito reprogramar mi cita de datos biométricos.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Đúng hôm đó tôi phải làm một thủ thuật y tế.",
         "id": "Saya ada tindakan medis di hari yang sama.",
         "ms": "Saya ada prosedur perubatan pada hari yang sama.",
-        "ko": "그날 의료 시술이 잡혀 있어요."
+        "ko": "그날 의료 시술이 잡혀 있어요.",
+        "ru": "В тот же день у меня медицинская процедура.",
+        "bn": "সেই একই দিনে আমার একটি চিকিৎসা প্রক্রিয়া আছে।",
+        "ur": "اسی دن میرا ایک طبی عمل ہے۔",
+        "zh-CN": "那天我正好要做一项医疗手术。",
+        "ja": "その日はちょうど医療処置の予定があります。"
       },
       "practice": "Tengo un procedimiento médico ese mismo día.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Lịch hẹn của tôi là mười giờ sáng thứ Ba tuần sau.",
         "id": "Janji saya hari Selasa depan jam sepuluh.",
         "ms": "Temu janji saya pada hari Selasa depan pukul sepuluh.",
-        "ko": "제 예약은 다음 주 화요일 10시예요."
+        "ko": "제 예약은 다음 주 화요일 10시예요.",
+        "ru": "Моя запись на следующий вторник в десять.",
+        "bn": "আমার অ্যাপয়েন্টমেন্ট আগামী মঙ্গলবার দশটায়।",
+        "ur": "میری اپوائنٹمنٹ اگلے منگل کو دس بجے ہے۔",
+        "zh-CN": "我的预约是下周二十点。",
+        "ja": "私の予約は来週の火曜日の10時です。"
       },
       "practice": "Mi cita es el próximo martes a las diez.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Ngày trống gần nhất là ngày nào?",
         "id": "Kapan tanggal terdekat yang tersedia?",
         "ms": "Bilakah tarikh terdekat yang ada?",
-        "ko": "가장 빠른 가능한 날짜가 언제예요?"
+        "ko": "가장 빠른 가능한 날짜가 언제예요?",
+        "ru": "Какая ближайшая свободная дата?",
+        "bn": "পরবর্তী খালি তারিখ কোনটি?",
+        "ur": "اگلی دستیاب تاریخ کون سی ہے؟",
+        "zh-CN": "最近可预约的日期是哪天？",
+        "ja": "次に空いている日はいつですか？"
       },
       "practice": "¿Cuál es la próxima fecha disponible?",
       "practice_translations": {

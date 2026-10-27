@@ -18,7 +18,12 @@
     "vi": "Buổi cập nhật hằng tuần",
     "id": "Laporan Mingguan",
     "ms": "Semakan Mingguan",
-    "ko": "주간 점검"
+    "ko": "주간 점검",
+    "ru": "Еженедельная встреча",
+    "bn": "সাপ্তাহিক আপডেট",
+    "ur": "ہفتہ وار جائزہ",
+    "zh-CN": "每周进度沟通",
+    "ja": "週次の進捗確認"
   },
   "character": "fox",
   "scenario": "Your manager (AI) stops by your desk for a quick weekly check-in about your project.",
@@ -39,7 +44,12 @@
     "vi": "Quản lý (AI) ghé qua bàn bạn để cập nhật nhanh tình hình dự án hằng tuần.",
     "id": "Manajermu (AI) mampir ke mejamu untuk laporan mingguan singkat tentang proyekmu.",
     "ms": "Pengurus anda (AI) singgah di meja anda untuk semakan mingguan ringkas tentang projek anda.",
-    "ko": "매니저(AI)가 프로젝트에 대한 간단한 주간 점검을 위해 당신의 자리에 들릅니다."
+    "ko": "매니저(AI)가 프로젝트에 대한 간단한 주간 점검을 위해 당신의 자리에 들릅니다.",
+    "ru": "Ваш руководитель (AI) подходит к вашему столу, чтобы быстро обсудить ход вашего проекта за неделю.",
+    "bn": "আপনার ম্যানেজার (AI) প্রজেক্ট নিয়ে সংক্ষিপ্ত সাপ্তাহিক আপডেটের জন্য আপনার ডেস্কে আসেন।",
+    "ur": "آپ کا مینیجر (AI) آپ کے پروجیکٹ کے مختصر ہفتہ وار جائزے کے لیے آپ کی میز پر آتا ہے۔",
+    "zh-CN": "你的经理（AI）来到你的工位，简单了解你本周的项目进展。",
+    "ja": "上司（AI）が週次の簡単な進捗確認のために、あなたの席に立ち寄ります。"
   },
   "mission": {
     "native": "Give a short update on what you finished and what comes next.",
@@ -60,7 +70,12 @@
       "vi": "Cập nhật ngắn gọn những gì bạn đã xong và việc tiếp theo.",
       "id": "Berikan kabar singkat tentang apa yang sudah selesai dan apa langkah berikutnya.",
       "ms": "Beri kemas kini ringkas tentang apa yang sudah siap dan apa yang seterusnya.",
-      "ko": "끝낸 일과 다음에 할 일을 간단히 보고하세요."
+      "ko": "끝낸 일과 다음에 할 일을 간단히 보고하세요.",
+      "ru": "Кратко расскажите, что вы сделали и что будет дальше.",
+      "bn": "আপনি কী শেষ করেছেন এবং এরপর কী করবেন, তার সংক্ষিপ্ত আপডেট দিন।",
+      "ur": "مختصراً بتائیں کہ آپ نے کیا مکمل کیا اور آگے کیا ہے۔",
+      "zh-CN": "简要汇报你已完成的工作和接下来的计划。",
+      "ja": "終わったことと次にやることを簡潔に報告しましょう。"
     },
     "practice": "Dé una breve actualización de lo que terminó y de lo que sigue.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói những gì bạn đã hoàn thành tuần này",
           "id": "Sebutkan apa yang kamu selesaikan minggu ini",
           "ms": "Nyatakan apa yang anda siapkan minggu ini",
-          "ko": "이번 주에 끝낸 일을 말하세요"
+          "ko": "이번 주에 끝낸 일을 말하세요",
+          "ru": "Скажите, что вы сделали на этой неделе",
+          "bn": "এই সপ্তাহে কী শেষ করেছেন তা বলুন",
+          "ur": "بتائیں کہ اس ہفتے آپ نے کیا مکمل کیا",
+          "zh-CN": "说出你本周完成了什么",
+          "ja": "今週終わったことを伝える"
         },
         "practice": "Diga lo que terminó esta semana",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói việc bạn sẽ làm tiếp theo",
           "id": "Sebutkan apa yang akan kamu kerjakan selanjutnya",
           "ms": "Nyatakan apa yang akan anda buat seterusnya",
-          "ko": "다음에 할 일을 말하세요"
+          "ko": "다음에 할 일을 말하세요",
+          "ru": "Скажите, чем займётесь дальше",
+          "bn": "এরপর কী নিয়ে কাজ করবেন তা বলুন",
+          "ur": "بتائیں کہ آگے آپ کس چیز پر کام کریں گے",
+          "zh-CN": "说出你接下来要做什么",
+          "ja": "次に取り組むことを伝える"
         },
         "practice": "Diga en qué trabajará después",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi xem họ có góp ý gì không",
           "id": "Tanyakan apakah dia punya masukan",
           "ms": "Tanya sama ada mereka ada maklum balas",
-          "ko": "피드백이 있는지 물어보세요"
+          "ko": "피드백이 있는지 물어보세요",
+          "ru": "Спросите, есть ли у руководителя замечания",
+          "bn": "তাঁর কোনো মতামত আছে কি না জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کیا ان کی کوئی رائے ہے",
+          "zh-CN": "询问对方是否有反馈意见",
+          "ja": "フィードバックがあるか尋ねる"
         },
         "practice": "Pregunte si tiene algún comentario",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Tuần này tôi đã hoàn thành khảo sát khách hàng.",
         "id": "Minggu ini saya sudah menyelesaikan survei pelanggan.",
         "ms": "Minggu ini saya sudah siapkan tinjauan pelanggan.",
-        "ko": "이번 주에 고객 설문 조사를 끝냈어요."
+        "ko": "이번 주에 고객 설문 조사를 끝냈어요.",
+        "ru": "На этой неделе я закончил опрос клиентов.",
+        "bn": "এই সপ্তাহে আমি গ্রাহক জরিপ শেষ করেছি।",
+        "ur": "اس ہفتے میں نے کسٹمر سروے مکمل کر لیا۔",
+        "zh-CN": "这周我完成了客户调查。",
+        "ja": "今週は顧客アンケートを終えました。"
       },
       "practice": "Esta semana terminé la encuesta a los clientes.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tiếp theo, tôi sẽ phân tích kết quả.",
         "id": "Selanjutnya, saya akan menganalisis hasilnya.",
         "ms": "Seterusnya, saya akan menganalisis keputusannya.",
-        "ko": "다음으로 결과를 분석할 거예요."
+        "ko": "다음으로 결과를 분석할 거예요.",
+        "ru": "Теперь я проанализирую результаты.",
+        "bn": "এরপর আমি ফলাফলগুলো বিশ্লেষণ করব।",
+        "ur": "اب میں نتائج کا تجزیہ کروں گا۔",
+        "zh-CN": "接下来，我会分析结果。",
+        "ja": "次に、結果を分析します。"
       },
       "practice": "Ahora voy a analizar los resultados.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Đến giờ mọi thứ vẫn đúng tiến độ.",
         "id": "Sejauh ini semuanya sesuai jadwal.",
         "ms": "Setakat ini semuanya berjalan lancar.",
-        "ko": "지금까지는 모두 계획대로 진행되고 있어요."
+        "ko": "지금까지는 모두 계획대로 진행되고 있어요.",
+        "ru": "Пока всё идёт по плану.",
+        "bn": "এখন পর্যন্ত সবকিছু পরিকল্পনা অনুযায়ী চলছে।",
+        "ur": "اب تک سب کچھ منصوبے کے مطابق چل رہا ہے۔",
+        "zh-CN": "目前一切都按计划进行。",
+        "ja": "今のところ、すべて予定どおりです。"
       },
       "practice": "Hasta ahora, todo va según lo previsto.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có muốn tôi thay đổi gì không?",
         "id": "Ada yang ingin Anda ubah?",
         "ms": "Ada apa-apa yang anda mahu saya ubah?",
-        "ko": "제가 바꿨으면 하는 부분이 있으세요?"
+        "ko": "제가 바꿨으면 하는 부분이 있으세요?",
+        "ru": "Хотите, чтобы я что-нибудь изменил?",
+        "bn": "আপনি কি চান আমি কিছু পরিবর্তন করি?",
+        "ur": "کیا آپ چاہتے ہیں کہ میں کچھ تبدیل کروں؟",
+        "zh-CN": "有什么需要我修改的吗？",
+        "ja": "何か変更してほしい点はありますか？"
       },
       "practice": "¿Hay algo que le gustaría que cambiara?",
       "practice_translations": {

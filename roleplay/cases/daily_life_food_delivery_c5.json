@@ -18,7 +18,12 @@
     "vi": "Đơn hàng chẳng liên quan gì cả",
     "id": "Pesanan yang Jauh dari Benar",
     "ms": "Pesanan yang Langsung Tak Sama",
-    "ko": "완전히 엉뚱한 주문"
+    "ko": "완전히 엉뚱한 주문",
+    "ru": "Заказ, который совсем не тот",
+    "bn": "যে অর্ডারের সঙ্গে কোনো মিলই নেই",
+    "ur": "وہ آرڈر جو بالکل بھی میل نہیں کھاتا",
+    "zh-CN": "完全不对的订单",
+    "ja": "まったく違う注文"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn gọi sushi cho hai người. Tài xế (AI) đến nơi với một chiếc bánh sinh nhật và bóng bay, còn nói rằng nhà hàng không bao giờ nhầm.",
     "id": "Kamu memesan sushi untuk dua orang. Kurir (AI) datang membawa kue ulang tahun dan balon, lalu bilang restorannya tidak pernah salah.",
     "ms": "Anda memesan sushi untuk dua orang. Pemandu (AI) tiba dengan kek hari jadi dan belon, dan berkata restoran itu tidak pernah silap.",
-    "ko": "당신은 2인분 초밥을 주문했어요. 그런데 배달 기사(AI)가 생일 케이크와 풍선을 들고 와서는 그 식당은 절대 실수하지 않는다고 말해요."
+    "ko": "당신은 2인분 초밥을 주문했어요. 그런데 배달 기사(AI)가 생일 케이크와 풍선을 들고 와서는 그 식당은 절대 실수하지 않는다고 말해요.",
+    "ru": "Вы заказали суши на двоих. Курьер (AI) приезжает с праздничным тортом и воздушными шарами и говорит, что ресторан никогда не ошибается.",
+    "bn": "আপনি দুজনের জন্য সুশি অর্ডার করেছেন। চালক (AI) একটি জন্মদিনের কেক আর বেলুন নিয়ে হাজির হন এবং বলেন রেস্তোরাঁ কখনো ভুল করে না।",
+    "ur": "آپ نے دو افراد کے لیے سوشی آرڈر کی۔ ڈرائیور (AI) سالگرہ کا کیک اور غبارے لے کر آتا ہے اور کہتا ہے کہ ریسٹورنٹ کبھی غلطی نہیں کرتا۔",
+    "zh-CN": "你点了两人份的寿司。配送员（AI）却带着生日蛋糕和气球来了，还说餐厅从不出错。",
+    "ja": "あなたは2人前の寿司を注文しました。配達員（AI）は誕生日ケーキと風船を持って現れ、レストランは絶対に間違えないと言います。"
   },
   "mission": {
     "native": "Stay polite, explain the mix-up and get the restaurant to send the right food.",
@@ -61,7 +71,12 @@
       "vi": "Giữ thái độ lịch sự, giải thích sự nhầm lẫn và yêu cầu nhà hàng giao đúng món.",
       "id": "Tetap sopan, jelaskan kekeliruannya, dan minta restoran mengirim makanan yang benar.",
       "ms": "Kekal sopan, terangkan kekeliruan itu dan minta restoran menghantar makanan yang betul.",
-      "ko": "예의를 지키면서 착오를 설명하고, 식당이 제대로 된 음식을 보내 주게 하세요."
+      "ko": "예의를 지키면서 착오를 설명하고, 식당이 제대로 된 음식을 보내 주게 하세요.",
+      "ru": "Оставайтесь вежливы, объясните путаницу и добейтесь, чтобы ресторан прислал правильную еду.",
+      "bn": "ভদ্র থাকুন, গোলমালটি বুঝিয়ে বলুন এবং রেস্তোরাঁকে সঠিক খাবার পাঠাতে রাজি করান।",
+      "ur": "شائستہ رہیں، غلط فہمی کی وضاحت کریں اور ریسٹورنٹ سے صحیح کھانا منگوائیں۔",
+      "zh-CN": "保持礼貌，解释误会，并让餐厅送来正确的餐点。",
+      "ja": "丁寧な態度を保ち、取り違えを説明して、レストランに正しい料理を送ってもらいましょう。"
     },
     "practice": "Mantenga la cortesía, explique la confusión y consiga que el restaurante envíe la comida correcta.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Phản ứng lịch sự trước sự bất ngờ",
           "id": "Tanggapi kejutan itu dengan sopan",
           "ms": "Beri reaksi yang sopan terhadap kejutan itu",
-          "ko": "뜻밖의 상황에 정중하게 반응하세요"
+          "ko": "뜻밖의 상황에 정중하게 반응하세요",
+          "ru": "Вежливо отреагируйте на сюрприз",
+          "bn": "বিস্ময়ের প্রতি ভদ্রভাবে প্রতিক্রিয়া জানান",
+          "ur": "اس حیرت پر شائستگی سے ردعمل دیں",
+          "zh-CN": "礼貌地回应这个意外",
+          "ja": "驚きに丁寧に反応しましょう"
         },
         "practice": "Reaccione a la sorpresa con cortesía",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích món bạn đã gọi",
           "id": "Jelaskan apa yang kamu pesan",
           "ms": "Terangkan apa yang anda pesan",
-          "ko": "무엇을 주문했는지 설명하세요"
+          "ko": "무엇을 주문했는지 설명하세요",
+          "ru": "Объясните, что вы заказали",
+          "bn": "আপনি কী অর্ডার করেছেন তা বুঝিয়ে বলুন",
+          "ur": "وضاحت کریں کہ آپ نے کیا آرڈر کیا تھا",
+          "zh-CN": "说明你点了什么",
+          "ja": "注文した内容を説明しましょう"
         },
         "practice": "Explique lo que pidió",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Xin được nói chuyện với nhà hàng",
           "id": "Minta bicara dengan pihak restoran",
           "ms": "Minta untuk bercakap dengan restoran",
-          "ko": "식당과 통화하고 싶다고 요청하세요"
+          "ko": "식당과 통화하고 싶다고 요청하세요",
+          "ru": "Попросите поговорить с рестораном",
+          "bn": "রেস্তোরাঁর সঙ্গে কথা বলতে চান",
+          "ur": "ریسٹورنٹ سے بات کرنے کی درخواست کریں",
+          "zh-CN": "要求与餐厅通话",
+          "ja": "レストランと話したいと頼みましょう"
         },
         "practice": "Pida hablar con el restaurante",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất cách giải quyết",
           "id": "Sepakati sebuah solusi",
           "ms": "Setuju dengan satu penyelesaian",
-          "ko": "해결 방법에 합의하세요"
+          "ko": "해결 방법에 합의하세요",
+          "ru": "Договоритесь о решении",
+          "bn": "একটি সমাধানে একমত হন",
+          "ur": "کسی حل پر اتفاق کریں",
+          "zh-CN": "商定解决办法",
+          "ja": "解決策を決めましょう"
         },
         "practice": "Acuerden una solución",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Xin lỗi, hình như đơn hàng của tôi bị nhầm rồi.",
         "id": "Permisi, sepertinya ada kesalahan dengan pesanan saya.",
         "ms": "Maaf, saya rasa ada kesilapan dengan pesanan saya.",
-        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요.",
+        "ru": "Извините, кажется, с моим заказом произошла ошибка.",
+        "bn": "মাফ করবেন, মনে হচ্ছে আমার অর্ডারে একটা ভুল হয়েছে।",
+        "ur": "معاف کیجیے، لگتا ہے میرے آرڈر میں کوئی غلطی ہو گئی ہے۔",
+        "zh-CN": "不好意思，我的订单好像弄错了。",
+        "ja": "すみません、注文に間違いがあるようです。"
       },
       "practice": "Disculpe, creo que hay un error con mi pedido.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi gọi salad, chứ đâu phải tiệc đồ nướng.",
         "id": "Saya pesan salad, bukan pesta barbeku.",
         "ms": "Saya pesan salad, bukan hidangan barbeku.",
-        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요.",
+        "ru": "Я заказывал салат, а не пир с барбекю.",
+        "bn": "আমি সালাদ অর্ডার করেছিলাম, বারবিকিউ ভোজ নয়।",
+        "ur": "میں نے سلاد منگوایا تھا، باربی کیو کی دعوت نہیں۔",
+        "zh-CN": "我点的是沙拉，不是烧烤大餐。",
+        "ja": "頼んだのはサラダで、バーベキューのごちそうではありません。"
       },
       "practice": "Pedí una ensalada, no una fiesta de barbacoa.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Anh/chị kiểm tra giúp tôi tên trên hóa đơn được không?",
         "id": "Bisa tolong cek nama di struknya?",
         "ms": "Boleh tolong semak nama pada resit?",
-        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?",
+        "ru": "Не могли бы вы проверить имя на чеке?",
+        "bn": "দয়া করে রসিদে নামটা একটু দেখবেন?",
+        "ur": "کیا آپ براہ کرم رسید پر نام چیک کر سکتے ہیں؟",
+        "zh-CN": "麻烦您核对一下收据上的名字好吗？",
+        "ja": "レシートの名前を確認していただけますか？"
       },
       "practice": "¿Podría revisar el nombre en el recibo, por favor?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Có lẽ có một người khác trùng tên với tôi.",
         "id": "Mungkin ada orang lain dengan nama yang sama.",
         "ms": "Mungkin ada orang lain dengan nama yang sama.",
-        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?",
+        "ru": "Может быть, есть другой человек с таким же именем.",
+        "bn": "হয়তো একই নামের আরেকজন আছেন।",
+        "ur": "شاید اسی نام کا کوئی اور شخص ہو۔",
+        "zh-CN": "也许有另一个同名的人。",
+        "ja": "もしかしたら同じ名前の人がいるのかもしれません。"
       },
       "practice": "Quizás hay otra persona con el mismo nombre.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Xin lỗi, nhưng tôi không thể nhận đơn hàng này.",
         "id": "Maaf, tapi saya tidak bisa menerima pesanan ini.",
         "ms": "Maaf, tetapi saya tidak boleh terima pesanan ini.",
-        "ko": "죄송하지만, 이 주문은 받을 수 없어요."
+        "ko": "죄송하지만, 이 주문은 받을 수 없어요.",
+        "ru": "Извините, но я не могу принять этот заказ.",
+        "bn": "দুঃখিত, কিন্তু আমি এই অর্ডারটি নিতে পারছি না।",
+        "ur": "معاف کیجیے، لیکن میں یہ آرڈر قبول نہیں کر سکتا۔",
+        "zh-CN": "抱歉，我不能接收这份订单。",
+        "ja": "すみませんが、この注文は受け取れません。"
       },
       "practice": "Lo siento, pero no puedo aceptar este pedido.",
       "practice_translations": {

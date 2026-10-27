@@ -18,7 +18,12 @@
     "vi": "Khiếu nại phí nộp muộn",
     "id": "Mengajukan Banding atas Denda Keterlambatan",
     "ms": "Merayu Denda Lewat Bayar",
-    "ko": "연체료 이의 신청"
+    "ko": "연체료 이의 신청",
+    "ru": "Оспаривание штрафа за просрочку",
+    "bn": "বিলম্ব ফির বিরুদ্ধে আবেদন",
+    "ur": "تاخیری فیس کے خلاف اپیل",
+    "zh-CN": "申诉滞纳金",
+    "ja": "延滞料への異議申し立て"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn bị tính phí nộp muộn vì tiền học bổng đến chậm. Nhân viên tài chính (AI) nói không thể xóa khoản phí này.",
     "id": "Kamu dikenai denda keterlambatan karena pembayaran beasiswamu datang terlambat. Petugas keuangan (AI) bilang dendanya tidak bisa dihapus.",
     "ms": "Anda dikenakan denda lewat bayar kerana bayaran biasiswa anda tiba lewat. Pegawai kewangan (AI) berkata denda itu tidak boleh dibatalkan.",
-    "ko": "장학금 입금이 늦어져서 연체료가 부과되었습니다. 재무 담당자(AI)는 연체료를 취소할 수 없다고 말합니다."
+    "ko": "장학금 입금이 늦어져서 연체료가 부과되었습니다. 재무 담당자(AI)는 연체료를 취소할 수 없다고 말합니다.",
+    "ru": "С вас взяли штраф за просрочку, потому что выплата стипендии пришла с опозданием. Сотрудник финансового отдела (AI) говорит, что штраф отменить нельзя.",
+    "bn": "আপনার বৃত্তির টাকা দেরিতে আসায় আপনার কাছ থেকে বিলম্ব ফি নেওয়া হয়েছে। অর্থ বিভাগের কর্মকর্তা (AI) বলছেন ফিটি মওকুফ করা যাবে না।",
+    "ur": "آپ کی اسکالرشپ کی رقم دیر سے آنے کی وجہ سے آپ سے تاخیری فیس لی گئی۔ فنانس آفیسر (AI) کہتا ہے کہ یہ فیس ختم نہیں ہو سکتی۔",
+    "zh-CN": "由于奖学金到账延迟，你被收取了滞纳金。财务人员（AI）说这笔费用无法免除。",
+    "ja": "奨学金の入金が遅れたため、延滞料を請求されました。財務担当者（AI）は延滞料を取り消せないと言っています。"
   },
   "mission": {
     "native": "Show that the delay was not your fault and get the fee removed or reduced.",
@@ -61,7 +71,12 @@
       "vi": "Chứng minh việc chậm trễ không phải lỗi của bạn và được xóa hoặc giảm khoản phí.",
       "id": "Tunjukkan bahwa keterlambatan itu bukan salahmu dan minta dendanya dihapus atau dikurangi.",
       "ms": "Buktikan bahawa kelewatan itu bukan salah anda dan minta denda itu dibatalkan atau dikurangkan.",
-      "ko": "지연이 당신 잘못이 아니라는 것을 보여 주고 연체료를 취소하거나 줄여 달라고 하세요."
+      "ko": "지연이 당신 잘못이 아니라는 것을 보여 주고 연체료를 취소하거나 줄여 달라고 하세요.",
+      "ru": "Докажите, что задержка произошла не по вашей вине, и добейтесь отмены или снижения штрафа.",
+      "bn": "দেখান যে দেরিটা আপনার দোষে হয়নি, এবং ফি মওকুফ বা কমানোর ব্যবস্থা করুন।",
+      "ur": "ثابت کریں کہ تاخیر آپ کی غلطی نہیں تھی اور فیس ختم یا کم کروائیں۔",
+      "zh-CN": "说明延迟不是你的责任，争取免除或减少这笔费用。",
+      "ja": "遅延が自分のせいではないことを示し、延滞料の取り消しか減額を認めてもらいましょう。"
     },
     "practice": "Demuestre que el retraso no fue su culpa y consiga que se anule o reduzca el recargo.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích vì sao khoản thanh toán bị chậm",
           "id": "Jelaskan kenapa pembayarannya terlambat",
           "ms": "Terangkan mengapa bayaran itu lewat",
-          "ko": "납부가 늦어진 이유를 설명하세요"
+          "ko": "납부가 늦어진 이유를 설명하세요",
+          "ru": "Объясните, почему платёж задержался",
+          "bn": "পেমেন্ট কেন দেরি হয়েছে তা ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ ادائیگی کیوں دیر سے ہوئی",
+          "zh-CN": "解释付款延迟的原因",
+          "ja": "支払いが遅れた理由を説明する"
         },
         "practice": "Explique por qué se retrasó el pago",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Chứng minh việc chậm trễ không phải lỗi của bạn",
           "id": "Tunjukkan bahwa keterlambatan itu bukan salahmu",
           "ms": "Tunjukkan bahawa kelewatan itu bukan salah anda",
-          "ko": "지연이 자신의 잘못이 아니라는 것을 보여 주세요"
+          "ko": "지연이 자신의 잘못이 아니라는 것을 보여 주세요",
+          "ru": "Докажите, что задержка произошла не по вашей вине",
+          "bn": "দেখান যে দেরিটা আপনার দোষে হয়নি",
+          "ur": "ثابت کریں کہ تاخیر آپ کی غلطی نہیں تھی",
+          "zh-CN": "说明延迟不是你的责任",
+          "ja": "遅延が自分のせいではないことを示す"
         },
         "practice": "Demuestre que el retraso no fue su culpa",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề nghị xóa khoản phí",
           "id": "Minta agar dendanya dihapus",
           "ms": "Minta supaya denda itu dibatalkan",
-          "ko": "연체료를 취소해 달라고 요청하세요"
+          "ko": "연체료를 취소해 달라고 요청하세요",
+          "ru": "Попросите отменить штраф",
+          "bn": "ফি মওকুফের অনুরোধ করুন",
+          "ur": "فیس ختم کرنے کی درخواست کریں",
+          "zh-CN": "请求免除费用",
+          "ja": "延滞料の取り消しを依頼する"
         },
         "practice": "Pida que se anule el recargo",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất một giải pháp công bằng",
           "id": "Sepakati solusi yang adil",
           "ms": "Setuju dengan penyelesaian yang adil",
-          "ko": "공정한 해결책에 합의하세요"
+          "ko": "공정한 해결책에 합의하세요",
+          "ru": "Договоритесь о справедливом решении",
+          "bn": "একটি ন্যায্য সমাধানে একমত হন",
+          "ur": "کسی منصفانہ حل پر اتفاق کریں",
+          "zh-CN": "商定一个公平的解决方案",
+          "ja": "公平な解決策で合意する"
         },
         "practice": "Acuerden una solución justa",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi bị tính phí nộp muộn, nhưng tôi nghĩ có nhầm lẫn.",
         "id": "Saya dikenai denda keterlambatan, tapi menurut saya ini keliru.",
         "ms": "Saya dikenakan denda lewat bayar, tetapi saya rasa ia satu kesilapan.",
-        "ko": "연체료가 부과됐는데, 뭔가 착오가 있는 것 같아요."
+        "ko": "연체료가 부과됐는데, 뭔가 착오가 있는 것 같아요.",
+        "ru": "Мне начислили штраф за просрочку, но, думаю, это ошибка.",
+        "bn": "আমার কাছ থেকে বিলম্ব ফি নেওয়া হয়েছে, কিন্তু আমার মনে হয় এটা ভুল।",
+        "ur": "مجھ پر تاخیری فیس لگی ہے، لیکن میرے خیال میں یہ غلطی ہے۔",
+        "zh-CN": "我被收了滞纳金，但我觉得这是个错误。",
+        "ja": "延滞料を請求されたのですが、間違いだと思います。"
       },
       "practice": "Me cobraron un recargo por pago tardío, pero creo que es un error.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tiền học bổng của tôi bị đơn vị tài trợ chuyển chậm.",
         "id": "Pembayaran beasiswa saya ditunda oleh pihak sponsor.",
         "ms": "Bayaran biasiswa saya dilewatkan oleh penaja.",
-        "ko": "장학 재단 쪽에서 장학금 지급이 늦어졌어요."
+        "ko": "장학 재단 쪽에서 장학금 지급이 늦어졌어요.",
+        "ru": "Выплату моей стипендии задержал спонсор.",
+        "bn": "আমার বৃত্তির টাকা স্পনসর দেরিতে পাঠিয়েছে।",
+        "ur": "میری اسکالرشپ کی ادائیگی اسپانسر کی طرف سے تاخیر کا شکار ہوئی۔",
+        "zh-CN": "我的奖学金是资助方延迟发放的。",
+        "ja": "奨学金の支払いがスポンサー側で遅れました。"
       },
       "practice": "La entidad que me otorga la beca retrasó el pago.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Đây là email xác nhận việc chậm trễ.",
         "id": "Ini email yang mengonfirmasi keterlambatannya.",
         "ms": "Ini e-mel yang mengesahkan kelewatan itu.",
-        "ko": "여기 지연을 확인해 주는 이메일이에요."
+        "ko": "여기 지연을 확인해 주는 이메일이에요.",
+        "ru": "Вот письмо, подтверждающее задержку.",
+        "bn": "এই যে দেরির বিষয়টি নিশ্চিত করা ইমেইল।",
+        "ur": "یہ رہی وہ ای میل جو تاخیر کی تصدیق کرتی ہے۔",
+        "zh-CN": "这是确认延迟的邮件。",
+        "ja": "こちらが遅延を証明するメールです。"
       },
       "practice": "Aquí tiene el correo que confirma el retraso.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi hiểu quy định, nhưng việc này nằm ngoài khả năng của tôi.",
         "id": "Saya paham aturannya, tapi ini di luar kendali saya.",
         "ms": "Saya faham peraturannya, tetapi ini di luar kawalan saya.",
-        "ko": "규정은 이해하지만, 이건 제가 어쩔 수 없는 일이었어요."
+        "ko": "규정은 이해하지만, 이건 제가 어쩔 수 없는 일이었어요.",
+        "ru": "Я понимаю правила, но это от меня не зависело.",
+        "bn": "আমি নিয়ম বুঝি, কিন্তু এটা আমার নিয়ন্ত্রণের বাইরে ছিল।",
+        "ur": "میں قواعد سمجھتا ہوں، لیکن یہ میرے اختیار سے باہر تھا۔",
+        "zh-CN": "我理解规定，但这不是我能控制的。",
+        "ja": "規則は理解していますが、これは私にはどうにもできないことでした。"
       },
       "practice": "Entiendo las normas, pero esto no dependía de mí.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Ít nhất có thể giảm khoản phí này được không ạ?",
         "id": "Apakah mungkin setidaknya dendanya dikurangi?",
         "ms": "Bolehkah sekurang-kurangnya denda itu dikurangkan?",
-        "ko": "연체료를 조금이라도 줄여 주실 수 있을까요?"
+        "ko": "연체료를 조금이라도 줄여 주실 수 있을까요?",
+        "ru": "Можно ли хотя бы уменьшить штраф?",
+        "bn": "অন্তত ফিটা কমানো কি সম্ভব?",
+        "ur": "کیا کم از کم فیس کم کی جا سکتی ہے؟",
+        "zh-CN": "至少能减少一些费用吗？",
+        "ja": "せめて延滞料を減額していただけませんか？"
       },
       "practice": "¿Sería posible al menos reducir el recargo?",
       "practice_translations": {

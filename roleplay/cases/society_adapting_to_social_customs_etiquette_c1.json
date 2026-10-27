@@ -18,7 +18,12 @@
     "vi": "Ăn tối ở nhà hàng xóm",
     "id": "Makan Malam di Rumah Tetangga",
     "ms": "Makan Malam di Rumah Jiran",
-    "ko": "이웃집 저녁 초대"
+    "ko": "이웃집 저녁 초대",
+    "ru": "Ужин в гостях у соседа",
+    "bn": "প্রতিবেশীর বাড়িতে রাতের খাবার",
+    "ur": "پڑوسی کے گھر رات کا کھانا",
+    "zh-CN": "在邻居家吃晚饭",
+    "ja": "お隣さんの家で夕食"
   },
   "character": "fox",
   "scenario": "Your new neighbor (AI) has invited you to dinner. You arrive at the door with a small gift in your hands.",
@@ -39,7 +44,12 @@
     "vi": "Người hàng xóm mới (AI) mời bạn đến ăn tối. Bạn đến trước cửa, tay cầm một món quà nhỏ.",
     "id": "Tetangga barumu (AI) mengundangmu makan malam. Kamu tiba di depan pintu sambil membawa hadiah kecil.",
     "ms": "Jiran baharu anda (AI) menjemput anda makan malam. Anda tiba di pintu dengan hadiah kecil di tangan.",
-    "ko": "새 이웃(AI)이 저녁 식사에 초대했습니다. 당신은 작은 선물을 손에 들고 현관에 도착합니다."
+    "ko": "새 이웃(AI)이 저녁 식사에 초대했습니다. 당신은 작은 선물을 손에 들고 현관에 도착합니다.",
+    "ru": "Ваш новый сосед (AI) пригласил вас на ужин. Вы подходите к двери с небольшим подарком в руках.",
+    "bn": "আপনার নতুন প্রতিবেশী (AI) আপনাকে রাতের খাবারে দাওয়াত দিয়েছেন। আপনি হাতে একটি ছোট উপহার নিয়ে দরজায় পৌঁছেছেন।",
+    "ur": "آپ کے نئے پڑوسی (AI) نے آپ کو رات کے کھانے پر بلایا ہے۔ آپ ہاتھ میں ایک چھوٹا سا تحفہ لیے دروازے پر پہنچتے ہیں۔",
+    "zh-CN": "你的新邻居（AI）邀请你去吃晚饭。你手里拿着一份小礼物来到门口。",
+    "ja": "新しいお隣さん（AI）に夕食に招待されました。小さな手土産を持って玄関に着きました。"
   },
   "mission": {
     "native": "Greet your host, offer your gift and say something nice about the home.",
@@ -60,7 +70,12 @@
       "vi": "Chào chủ nhà, tặng quà và khen ngôi nhà một câu.",
       "id": "Sapa tuan rumah, berikan hadiahmu, dan puji rumahnya.",
       "ms": "Sapa tuan rumah, berikan hadiah anda dan puji rumahnya.",
-      "ko": "집주인에게 인사하고, 선물을 건네고, 집에 대해 칭찬 한마디를 하세요."
+      "ko": "집주인에게 인사하고, 선물을 건네고, 집에 대해 칭찬 한마디를 하세요.",
+      "ru": "Поприветствуйте хозяина, вручите подарок и скажите что-нибудь приятное о доме.",
+      "bn": "আপনার আতিথেয়তাকারীকে শুভেচ্ছা জানান, উপহারটি দিন এবং বাড়ি সম্পর্কে ভালো কিছু বলুন।",
+      "ur": "میزبان کو سلام کریں، اپنا تحفہ پیش کریں اور گھر کے بارے میں کوئی اچھی بات کہیں۔",
+      "zh-CN": "向主人问好，送上礼物，并称赞一下他们的家。",
+      "ja": "ホストにあいさつし、手土産を渡して、家について何か褒めましょう。"
     },
     "practice": "Salude a su anfitrión, ofrezca su regalo y diga algo amable sobre la casa.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chào và cảm ơn chủ nhà",
           "id": "Sapa tuan rumah dan ucapkan terima kasih",
           "ms": "Sapa tuan rumah dan ucapkan terima kasih",
-          "ko": "집주인에게 인사하고 감사하다고 말하세요"
+          "ko": "집주인에게 인사하고 감사하다고 말하세요",
+          "ru": "Поприветствуйте хозяина и поблагодарите его",
+          "bn": "আতিথেয়তাকারীকে শুভেচ্ছা ও ধন্যবাদ জানান",
+          "ur": "میزبان کو سلام کریں اور شکریہ ادا کریں",
+          "zh-CN": "向主人问好并表示感谢",
+          "ja": "ホストにあいさつしてお礼を言う"
         },
         "practice": "Salude a su anfitrión y agradézcale",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Tặng món quà bạn mang theo",
           "id": "Berikan hadiah yang kamu bawa",
           "ms": "Berikan hadiah yang anda bawa",
-          "ko": "가져온 선물을 건네세요"
+          "ko": "가져온 선물을 건네세요",
+          "ru": "Вручите принесённый подарок",
+          "bn": "আনা উপহারটি দিন",
+          "ur": "لایا ہوا تحفہ پیش کریں",
+          "zh-CN": "送上你带来的礼物",
+          "ja": "持ってきた手土産を渡す"
         },
         "practice": "Ofrezca el regalo que trajo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Khen ngôi nhà hoặc món ăn",
           "id": "Puji rumah atau makanannya",
           "ms": "Puji rumah atau makanannya",
-          "ko": "집이나 음식을 칭찬하세요"
+          "ko": "집이나 음식을 칭찬하세요",
+          "ru": "Сделайте комплимент дому или еде",
+          "bn": "বাড়ি বা খাবারের প্রশংসা করুন",
+          "ur": "گھر یا کھانے کی تعریف کریں",
+          "zh-CN": "称赞房子或饭菜",
+          "ja": "家や料理を褒める"
         },
         "practice": "Elogie la casa o la comida",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều vì đã mời tôi.",
         "id": "Terima kasih banyak sudah mengundang saya.",
         "ms": "Terima kasih banyak kerana menjemput saya.",
-        "ko": "초대해 주셔서 정말 감사해요."
+        "ko": "초대해 주셔서 정말 감사해요.",
+        "ru": "Большое спасибо за приглашение.",
+        "bn": "আমাকে দাওয়াত দেওয়ার জন্য অনেক ধন্যবাদ।",
+        "ur": "مجھے بلانے کا بہت شکریہ۔",
+        "zh-CN": "非常感谢你邀请我。",
+        "ja": "お招きいただき、本当にありがとうございます。"
       },
       "practice": "Muchas gracias por invitarme.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có chút quà nhỏ tặng anh/chị.",
         "id": "Saya bawakan sedikit oleh-oleh untuk Anda.",
         "ms": "Saya bawakan sedikit buah tangan untuk anda.",
-        "ko": "작은 선물 하나 가져왔어요."
+        "ko": "작은 선물 하나 가져왔어요.",
+        "ru": "Я принёс вам небольшой подарок.",
+        "bn": "আপনার জন্য ছোট্ট একটা জিনিস এনেছি।",
+        "ur": "میں آپ کے لیے ایک چھوٹا سا تحفہ لایا ہوں۔",
+        "zh-CN": "我给你带了点小礼物。",
+        "ja": "ささやかですが、どうぞ。"
       },
       "practice": "Le traje un pequeño detalle.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Nhà anh/chị đẹp quá!",
         "id": "Rumah Anda indah sekali!",
         "ms": "Cantiknya rumah anda!",
-        "ko": "집이 정말 예쁘네요!"
+        "ko": "집이 정말 예쁘네요!",
+        "ru": "Какой у вас прекрасный дом!",
+        "bn": "আপনার বাড়িটা কী সুন্দর!",
+        "ur": "آپ کا گھر کتنا خوبصورت ہے!",
+        "zh-CN": "你家真漂亮！",
+        "ja": "素敵なお宅ですね！"
       },
       "practice": "¡Qué casa tan bonita tiene!",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tôi có cần cởi giày không?",
         "id": "Apakah saya perlu melepas sepatu?",
         "ms": "Perlukah saya tanggalkan kasut?",
-        "ko": "신발을 벗어야 하나요?"
+        "ko": "신발을 벗어야 하나요?",
+        "ru": "Мне снять обувь?",
+        "bn": "আমি কি জুতা খুলব?",
+        "ur": "کیا میں جوتے اتار دوں؟",
+        "zh-CN": "我需要脱鞋吗？",
+        "ja": "靴を脱いだほうがいいですか？"
       },
       "practice": "¿Me quito los zapatos?",
       "practice_translations": {

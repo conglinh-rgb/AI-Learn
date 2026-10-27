@@ -18,7 +18,12 @@
     "vi": "Mở tài khoản ngân hàng",
     "id": "Membuka Rekening Bank",
     "ms": "Membuka Akaun Bank",
-    "ko": "은행 계좌 개설하기"
+    "ko": "은행 계좌 개설하기",
+    "ru": "Открытие банковского счёта",
+    "bn": "ব্যাংক অ্যাকাউন্ট খোলা",
+    "ur": "بینک اکاؤنٹ کھولنا",
+    "zh-CN": "开设银行账户",
+    "ja": "銀行口座の開設"
   },
   "character": "fox",
   "scenario": "You are at a bank near campus. The bank teller (AI) asks how they can help you today.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang ở một ngân hàng gần trường. Giao dịch viên (AI) hỏi hôm nay họ có thể giúp gì cho bạn.",
     "id": "Kamu berada di bank dekat kampus. Teller bank (AI) bertanya apa yang bisa dibantu hari ini.",
     "ms": "Anda berada di sebuah bank berhampiran kampus. Juruwang bank (AI) bertanya bagaimana mereka boleh membantu anda hari ini.",
-    "ko": "캠퍼스 근처 은행에 와 있습니다. 은행 직원(AI)이 오늘 무엇을 도와드릴지 묻습니다."
+    "ko": "캠퍼스 근처 은행에 와 있습니다. 은행 직원(AI)이 오늘 무엇을 도와드릴지 묻습니다.",
+    "ru": "Вы в банке рядом с кампусом. Операционист (AI) спрашивает, чем может вам помочь.",
+    "bn": "আপনি ক্যাম্পাসের কাছে একটি ব্যাংকে আছেন। ব্যাংক টেলার (AI) জিজ্ঞেস করছেন আজ আপনাকে কীভাবে সাহায্য করতে পারেন।",
+    "ur": "آپ کیمپس کے قریب ایک بینک میں ہیں۔ بینک ٹیلر (AI) پوچھتا ہے کہ آج وہ آپ کی کیا مدد کر سکتا ہے۔",
+    "zh-CN": "你在校园附近的一家银行。银行柜员（AI）问今天能为你做些什么。",
+    "ja": "あなたはキャンパス近くの銀行にいます。窓口係（AI）が今日のご用件を尋ねています。"
   },
   "mission": {
     "native": "Open a student account and find out what it costs.",
@@ -60,7 +70,12 @@
       "vi": "Mở tài khoản sinh viên và tìm hiểu chi phí.",
       "id": "Buka rekening mahasiswa dan cari tahu biayanya.",
       "ms": "Buka akaun pelajar dan ketahui kosnya.",
-      "ko": "학생 계좌를 개설하고 비용이 얼마인지 알아보세요."
+      "ko": "학생 계좌를 개설하고 비용이 얼마인지 알아보세요.",
+      "ru": "Откройте студенческий счёт и узнайте, сколько он стоит.",
+      "bn": "একটি স্টুডেন্ট অ্যাকাউন্ট খুলুন এবং এর খরচ জেনে নিন।",
+      "ur": "اسٹوڈنٹ اکاؤنٹ کھولیں اور معلوم کریں کہ اس کی لاگت کیا ہے۔",
+      "zh-CN": "开设学生账户并了解费用。",
+      "ja": "学生口座を開設し、費用を確認しましょう。"
     },
     "practice": "Abra una cuenta de estudiante y averigüe cuánto cuesta.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn muốn mở tài khoản sinh viên",
           "id": "Katakan bahwa kamu ingin membuka rekening mahasiswa",
           "ms": "Katakan anda mahu membuka akaun pelajar",
-          "ko": "학생 계좌를 개설하고 싶다고 말하세요"
+          "ko": "학생 계좌를 개설하고 싶다고 말하세요",
+          "ru": "Скажите, что хотите открыть студенческий счёт",
+          "bn": "বলুন যে আপনি একটি স্টুডেন্ট অ্যাকাউন্ট খুলতে চান",
+          "ur": "بتائیں کہ آپ اسٹوڈنٹ اکاؤنٹ کھولنا چاہتے ہیں",
+          "zh-CN": "说明你想开设学生账户",
+          "ja": "学生口座を開設したいと伝えましょう"
         },
         "practice": "Diga que quiere abrir una cuenta de estudiante",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi cần những giấy tờ gì",
           "id": "Tanyakan dokumen apa yang dibutuhkan",
           "ms": "Tanya dokumen apa yang anda perlukan",
-          "ko": "어떤 서류가 필요한지 물어보세요"
+          "ko": "어떤 서류가 필요한지 물어보세요",
+          "ru": "Спросите, какие документы нужны",
+          "bn": "কোন কাগজপত্র লাগবে তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کون سے کاغذات درکار ہیں",
+          "zh-CN": "询问需要哪些证件",
+          "ja": "必要な書類を尋ねましょう"
         },
         "practice": "Pregunte qué documentos necesita",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về phí hằng tháng",
           "id": "Tanyakan soal biaya bulanan",
           "ms": "Tanya tentang yuran bulanan",
-          "ko": "월 수수료에 대해 물어보세요"
+          "ko": "월 수수료에 대해 물어보세요",
+          "ru": "Спросите о ежемесячной плате",
+          "bn": "মাসিক ফি সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "ماہانہ فیس کے بارے میں پوچھیں",
+          "zh-CN": "询问月费",
+          "ja": "月額手数料について尋ねましょう"
         },
         "practice": "Pregunte por las comisiones mensuales",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Xin chào, tôi muốn mở tài khoản sinh viên.",
         "id": "Halo, saya ingin membuka rekening mahasiswa.",
         "ms": "Helo, saya ingin membuka akaun pelajar.",
-        "ko": "안녕하세요, 학생 계좌를 개설하고 싶어요."
+        "ko": "안녕하세요, 학생 계좌를 개설하고 싶어요.",
+        "ru": "Здравствуйте, я хотел бы открыть студенческий счёт.",
+        "bn": "হ্যালো, আমি একটি স্টুডেন্ট অ্যাকাউন্ট খুলতে চাই।",
+        "ur": "السلام علیکم، میں اسٹوڈنٹ اکاؤنٹ کھولنا چاہتا ہوں۔",
+        "zh-CN": "您好，我想开一个学生账户。",
+        "ja": "こんにちは、学生口座を開設したいのですが。"
       },
       "practice": "Hola, quisiera abrir una cuenta de estudiante.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi cần mang theo những giấy tờ gì?",
         "id": "Dokumen apa saja yang perlu saya bawa?",
         "ms": "Dokumen apa yang perlu saya bawa?",
-        "ko": "어떤 서류를 가져와야 하나요?"
+        "ko": "어떤 서류를 가져와야 하나요?",
+        "ru": "Какие документы мне нужно принести?",
+        "bn": "আমাকে কী কী কাগজপত্র আনতে হবে?",
+        "ur": "مجھے کون سے کاغذات لانے ہوں گے؟",
+        "zh-CN": "我需要带哪些证件？",
+        "ja": "どんな書類を持ってくればいいですか？"
       },
       "practice": "¿Qué documentos tengo que traer?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tôi có hộ chiếu và giấy xác nhận sinh viên.",
         "id": "Saya membawa paspor dan surat keterangan terdaftar.",
         "ms": "Saya ada pasport dan surat pendaftaran saya.",
-        "ko": "여권하고 재학 증명서를 가지고 있어요."
+        "ko": "여권하고 재학 증명서를 가지고 있어요.",
+        "ru": "У меня есть паспорт и справка о зачислении.",
+        "bn": "আমার কাছে পাসপোর্ট আর ভর্তির চিঠি আছে।",
+        "ur": "میرے پاس پاسپورٹ اور داخلے کا خط ہے۔",
+        "zh-CN": "我带了护照和在读证明。",
+        "ja": "パスポートと在籍証明書があります。"
       },
       "practice": "Tengo mi pasaporte y mi constancia de inscripción.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Có mất phí hằng tháng không?",
         "id": "Apakah ada biaya bulanan?",
         "ms": "Adakah ada yuran bulanan?",
-        "ko": "월 수수료가 있나요?"
+        "ko": "월 수수료가 있나요?",
+        "ru": "Есть ли ежемесячная плата?",
+        "bn": "কোনো মাসিক ফি আছে কি?",
+        "ur": "کیا کوئی ماہانہ فیس ہے؟",
+        "zh-CN": "有月费吗？",
+        "ja": "月額手数料はかかりますか？"
       },
       "practice": "¿Hay alguna comisión mensual?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Khi nào tôi nhận được thẻ ghi nợ?",
         "id": "Kapan saya akan menerima kartu debit saya?",
         "ms": "Bilakah saya akan terima kad debit saya?",
-        "ko": "체크카드는 언제 받을 수 있나요?"
+        "ko": "체크카드는 언제 받을 수 있나요?",
+        "ru": "Когда я получу дебетовую карту?",
+        "bn": "আমি কবে ডেবিট কার্ড পাব?",
+        "ur": "مجھے ڈیبٹ کارڈ کب ملے گا؟",
+        "zh-CN": "我什么时候能收到借记卡？",
+        "ja": "デビットカードはいつ届きますか？"
       },
       "practice": "¿Cuándo recibiré mi tarjeta de débito?",
       "practice_translations": {

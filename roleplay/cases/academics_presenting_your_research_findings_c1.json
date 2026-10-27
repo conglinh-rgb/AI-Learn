@@ -18,7 +18,12 @@
     "vi": "Thuyết trình tại khu poster",
     "id": "Presentasi di Sesi Poster",
     "ms": "Pembentangan di Sesi Poster",
-    "ko": "포스터 세션 발표"
+    "ko": "포스터 세션 발표",
+    "ru": "Презентация на постерной сессии",
+    "bn": "পোস্টার সেশনে উপস্থাপনা",
+    "ur": "پوسٹر سیشن میں تعارف",
+    "zh-CN": "海报展示环节的介绍",
+    "ja": "ポスター発表での売り込み"
   },
   "character": "fox",
   "scenario": "You are standing by your poster at a poster session. A curious visitor (AI) stops to read it.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang đứng cạnh poster của mình trong một phiên trưng bày poster. Một vị khách tò mò (AI) dừng lại đọc.",
     "id": "Kamu berdiri di samping postermu di sesi poster. Seorang pengunjung yang penasaran (AI) berhenti untuk membacanya.",
     "ms": "Anda berdiri di sebelah poster anda dalam satu sesi poster. Seorang pengunjung yang ingin tahu (AI) berhenti untuk membacanya.",
-    "ko": "포스터 세션에서 자신의 포스터 옆에 서 있어요. 호기심 많은 방문객(AI)이 멈춰서 포스터를 읽어요."
+    "ko": "포스터 세션에서 자신의 포스터 옆에 서 있어요. 호기심 많은 방문객(AI)이 멈춰서 포스터를 읽어요.",
+    "ru": "Вы стоите у своего постера на постерной сессии. Любопытный посетитель (AI) останавливается, чтобы его прочитать.",
+    "bn": "আপনি একটি পোস্টার সেশনে নিজের পোস্টারের পাশে দাঁড়িয়ে আছেন। একজন কৌতূহলী দর্শনার্থী (AI) এটি পড়তে থামলেন।",
+    "ur": "آپ پوسٹر سیشن میں اپنے پوسٹر کے پاس کھڑے ہیں۔ ایک متجسس مہمان (AI) اسے پڑھنے کے لیے رکتا ہے۔",
+    "zh-CN": "您在海报展示环节站在自己的海报旁。一位好奇的参观者（AI）停下来阅读。",
+    "ja": "あなたはポスターセッションで自分のポスターの横に立っています。興味を持った来場者（AI）が足を止めて読み始めました。"
   },
   "mission": {
     "native": "Welcome the visitor and explain your research in simple words.",
@@ -60,7 +70,12 @@
       "vi": "Chào đón vị khách và giải thích nghiên cứu của bạn bằng lời lẽ đơn giản.",
       "id": "Sambut pengunjung dan jelaskan penelitianmu dengan kata-kata sederhana.",
       "ms": "Sambut pengunjung itu dan terangkan penyelidikan anda dengan kata-kata yang mudah.",
-      "ko": "방문객을 맞이하고 쉬운 말로 자신의 연구를 설명하세요."
+      "ko": "방문객을 맞이하고 쉬운 말로 자신의 연구를 설명하세요.",
+      "ru": "Поприветствуйте посетителя и простыми словами объясните своё исследование.",
+      "bn": "দর্শনার্থীকে স্বাগত জানান এবং সহজ ভাষায় আপনার গবেষণা ব্যাখ্যা করুন।",
+      "ur": "آنے والے کا استقبال کریں اور آسان الفاظ میں اپنی تحقیق بیان کریں۔",
+      "zh-CN": "欢迎来访者，并用简单的语言介绍你的研究。",
+      "ja": "訪問者を迎え、自分の研究をわかりやすい言葉で説明しましょう。"
     },
     "practice": "Dé la bienvenida al visitante y explique su investigación con palabras sencillas.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chào đón khách đến xem poster",
           "id": "Sambut pengunjung di postermu",
           "ms": "Sambut pengunjung ke poster anda",
-          "ko": "포스터를 보러 온 방문객을 맞이하세요"
+          "ko": "포스터를 보러 온 방문객을 맞이하세요",
+          "ru": "Поприветствуйте посетителя у своего постера",
+          "bn": "আপনার পোস্টারের কাছে দর্শনার্থীকে স্বাগত জানান",
+          "ur": "اپنے پوسٹر پر آنے والے کا استقبال کریں",
+          "zh-CN": "欢迎来访者来看你的海报",
+          "ja": "ポスターに来た訪問者を迎えましょう"
         },
         "practice": "Dé la bienvenida al visitante",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích câu hỏi nghiên cứu của bạn",
           "id": "Jelaskan pertanyaan penelitianmu",
           "ms": "Terangkan soalan kajian anda",
-          "ko": "연구 질문을 설명하세요"
+          "ko": "연구 질문을 설명하세요",
+          "ru": "Объясните свой исследовательский вопрос",
+          "bn": "আপনার গবেষণার প্রশ্ন ব্যাখ্যা করুন",
+          "ur": "اپنا تحقیقی سوال بیان کریں",
+          "zh-CN": "解释你的研究问题",
+          "ja": "研究課題を説明しましょう"
         },
         "practice": "Explique su pregunta de investigación",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Chia sẻ phát hiện chính",
           "id": "Sampaikan temuan utamamu",
           "ms": "Kongsi dapatan utama anda",
-          "ko": "주요 연구 결과를 알려 주세요"
+          "ko": "주요 연구 결과를 알려 주세요",
+          "ru": "Расскажите о главном результате",
+          "bn": "আপনার প্রধান ফলাফল জানান",
+          "ur": "اپنا اہم نتیجہ بتائیں",
+          "zh-CN": "分享你的主要发现",
+          "ja": "主な結果を伝えましょう"
         },
         "practice": "Comparta su hallazgo principal",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, cảm ơn đã ghé qua! Để tôi giới thiệu qua nhé?",
         "id": "Halo, terima kasih sudah mampir! Boleh saya jelaskan?",
         "ms": "Hai, terima kasih kerana singgah! Boleh saya terangkan?",
-        "ko": "안녕하세요, 들러 주셔서 감사해요! 제가 설명해 드릴까요?"
+        "ko": "안녕하세요, 들러 주셔서 감사해요! 제가 설명해 드릴까요?",
+        "ru": "Здравствуйте, спасибо, что подошли! Хотите, я расскажу, о чём это?",
+        "bn": "হাই, আসার জন্য ধন্যবাদ! আমি কি আপনাকে বিষয়টা বুঝিয়ে বলব?",
+        "ur": "ہیلو، آنے کا شکریہ! کیا میں آپ کو اس کے بارے میں بتاؤں؟",
+        "zh-CN": "你好，谢谢你过来！我给你介绍一下好吗？",
+        "ja": "こんにちは、お立ち寄りいただきありがとうございます！ご説明してもよろしいですか？"
       },
       "practice": "¡Hola, gracias por acercarse! ¿Le explico de qué trata?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Dự án của tôi tìm hiểu xem âm nhạc có giúp sinh viên tập trung không.",
         "id": "Proyek saya meneliti apakah musik membantu siswa lebih fokus.",
         "ms": "Projek saya mengkaji sama ada muzik membantu pelajar fokus.",
-        "ko": "제 프로젝트는 음악이 학생들의 집중에 도움이 되는지 알아봐요."
+        "ko": "제 프로젝트는 음악이 학생들의 집중에 도움이 되는지 알아봐요.",
+        "ru": "Мой проект изучает, помогает ли музыка студентам сосредоточиться.",
+        "bn": "আমার প্রকল্পটি দেখে যে সংগীত শিক্ষার্থীদের মনোযোগ দিতে সাহায্য করে কি না।",
+        "ur": "میرا پروجیکٹ یہ جانچتا ہے کہ کیا موسیقی طلبہ کو توجہ مرکوز کرنے میں مدد دیتی ہے۔",
+        "zh-CN": "我的项目研究音乐是否有助于学生集中注意力。",
+        "ja": "私のプロジェクトは、音楽が学生の集中に役立つかどうかを調べています。"
       },
       "practice": "Mi proyecto investiga si la música ayuda a los estudiantes a concentrarse.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Chúng tôi đã thử nghiệm với hai nhóm sinh viên.",
         "id": "Kami mengujinya dengan dua kelompok siswa.",
         "ms": "Kami mengujinya dengan dua kumpulan pelajar.",
-        "ko": "두 그룹의 학생들을 대상으로 실험했어요."
+        "ko": "두 그룹의 학생들을 대상으로 실험했어요.",
+        "ru": "Мы проверили это на двух группах студентов.",
+        "bn": "আমরা দুটি শিক্ষার্থী দলের ওপর এটি পরীক্ষা করেছি।",
+        "ur": "ہم نے اسے طلبہ کے دو گروپوں کے ساتھ آزمایا۔",
+        "zh-CN": "我们用两组学生进行了测试。",
+        "ja": "2つの学生グループで検証しました。"
       },
       "practice": "Lo probamos con dos grupos de estudiantes.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Phát hiện chính là nhạc nhẹ giúp tăng khả năng tập trung.",
         "id": "Temuan utamanya, musik yang tenang meningkatkan fokus.",
         "ms": "Dapatan utamanya ialah muzik yang tenang meningkatkan fokus.",
-        "ko": "주요 결과는 잔잔한 음악이 집중력을 높였다는 거예요."
+        "ko": "주요 결과는 잔잔한 음악이 집중력을 높였다는 거예요.",
+        "ru": "Главный результат: спокойная музыка улучшила концентрацию.",
+        "bn": "প্রধান ফলাফল হলো, শান্ত সংগীত মনোযোগ বাড়িয়েছে।",
+        "ur": "اہم نتیجہ یہ ہے کہ دھیمی موسیقی نے توجہ بہتر کی۔",
+        "zh-CN": "主要发现是，轻柔的音乐提高了专注力。",
+        "ja": "主な結果は、静かな音楽が集中力を高めたということです。"
       },
       "practice": "El hallazgo principal es que la música suave mejoró la concentración.",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Anh/chị có câu hỏi nào không?",
         "id": "Ada pertanyaan?",
         "ms": "Ada apa-apa soalan?",
-        "ko": "궁금한 점 있으세요?"
+        "ko": "궁금한 점 있으세요?",
+        "ru": "У вас есть вопросы?",
+        "bn": "আপনার কোনো প্রশ্ন আছে?",
+        "ur": "کیا آپ کا کوئی سوال ہے؟",
+        "zh-CN": "你有什么问题吗？",
+        "ja": "何かご質問はありますか？"
       },
       "practice": "¿Tiene alguna pregunta?",
       "practice_translations": {

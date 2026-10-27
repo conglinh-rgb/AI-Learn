@@ -18,7 +18,12 @@
     "vi": "Đặt lịch khám bác sĩ",
     "id": "Membuat Janji dengan Dokter",
     "ms": "Menempah Temu Janji Doktor",
-    "ko": "진료 예약하기"
+    "ko": "진료 예약하기",
+    "ru": "Запись к врачу",
+    "bn": "ডাক্তারের অ্যাপয়েন্টমেন্ট নেওয়া",
+    "ur": "ڈاکٹر سے اپوائنٹمنٹ لینا",
+    "zh-CN": "预约看医生",
+    "ja": "病院の予約をする"
   },
   "character": "fox",
   "scenario": "Your child has had a cough for three days. You call the clinic, and the receptionist (AI) helps you book a visit.",
@@ -39,7 +44,12 @@
     "vi": "Con bạn bị ho đã ba ngày. Bạn gọi đến phòng khám, và nhân viên lễ tân (AI) giúp bạn đặt lịch khám.",
     "id": "Anakmu sudah batuk selama tiga hari. Kamu menelepon klinik, dan resepsionis (AI) membantumu membuat janji.",
     "ms": "Anak anda sudah batuk selama tiga hari. Anda menelefon klinik, dan penyambut tetamu (AI) membantu anda menempah temu janji.",
-    "ko": "아이가 사흘째 기침을 하고 있어요. 병원에 전화하자 접수 직원(AI)이 예약을 도와줘요."
+    "ko": "아이가 사흘째 기침을 하고 있어요. 병원에 전화하자 접수 직원(AI)이 예약을 도와줘요.",
+    "ru": "Ваш ребёнок кашляет уже три дня. Вы звоните в клинику, и администратор (AI) помогает вам записаться на приём.",
+    "bn": "আপনার সন্তান তিন দিন ধরে কাশছে। আপনি ক্লিনিকে ফোন করেন, আর রিসেপশনিস্ট (AI) আপনাকে অ্যাপয়েন্টমেন্ট নিতে সাহায্য করেন।",
+    "ur": "آپ کے بچے کو تین دن سے کھانسی ہے۔ آپ کلینک فون کرتے ہیں، اور ریسیپشنسٹ (AI) اپوائنٹمنٹ لینے میں آپ کی مدد کرتی ہے۔",
+    "zh-CN": "你的孩子已经咳嗽三天了。你打电话到诊所，前台（AI）帮你预约就诊。",
+    "ja": "お子さんが3日間咳をしています。クリニックに電話すると、受付（AI）が予約を手伝ってくれます。"
   },
   "mission": {
     "native": "Book an appointment for your child and confirm the time.",
@@ -60,7 +70,12 @@
       "vi": "Đặt lịch khám cho con và xác nhận thời gian.",
       "id": "Buat janji temu untuk anakmu dan konfirmasi waktunya.",
       "ms": "Tempah temu janji untuk anak anda dan sahkan masanya.",
-      "ko": "아이의 진료를 예약하고 시간을 확인하세요."
+      "ko": "아이의 진료를 예약하고 시간을 확인하세요.",
+      "ru": "Запишите ребёнка на приём и подтвердите время.",
+      "bn": "আপনার সন্তানের জন্য অ্যাপয়েন্টমেন্ট নিন এবং সময় নিশ্চিত করুন।",
+      "ur": "اپنے بچے کے لیے اپوائنٹمنٹ لیں اور وقت کی تصدیق کریں۔",
+      "zh-CN": "为孩子预约并确认时间。",
+      "ja": "お子さんの予約を取り、時間を確認しましょう。"
     },
     "practice": "Haga una cita para su hijo y confirme la hora.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn cần đặt lịch khám cho con",
           "id": "Katakan bahwa kamu perlu janji temu untuk anakmu",
           "ms": "Katakan anda perlukan temu janji untuk anak anda",
-          "ko": "아이 진료 예약이 필요하다고 말하세요"
+          "ko": "아이 진료 예약이 필요하다고 말하세요",
+          "ru": "Скажите, что вам нужна запись для ребёнка",
+          "bn": "বলুন যে আপনার সন্তানের জন্য অ্যাপয়েন্টমেন্ট দরকার",
+          "ur": "بتائیں کہ آپ کو اپنے بچے کے لیے اپوائنٹمنٹ چاہیے",
+          "zh-CN": "说明你需要为孩子预约",
+          "ja": "子どもの予約を取りたいと伝えましょう"
         },
         "practice": "Diga que necesita una cita para su hijo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Mô tả ngắn gọn triệu chứng của con",
           "id": "Jelaskan gejala anakmu secara singkat",
           "ms": "Terangkan simptom anak anda secara ringkas",
-          "ko": "아이의 증상을 간단히 설명하세요"
+          "ko": "아이의 증상을 간단히 설명하세요",
+          "ru": "Кратко опишите симптомы ребёнка",
+          "bn": "সংক্ষেপে আপনার সন্তানের উপসর্গ বর্ণনা করুন",
+          "ur": "مختصراً اپنے بچے کی علامات بتائیں",
+          "zh-CN": "简要描述孩子的症状",
+          "ja": "お子さんの症状を簡単に説明しましょう"
         },
         "practice": "Describa brevemente los síntomas de su hijo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Xác nhận ngày và giờ khám",
           "id": "Konfirmasi hari dan jam janji temunya",
           "ms": "Sahkan hari dan masa temu janji",
-          "ko": "예약 날짜와 시간을 확인하세요"
+          "ko": "예약 날짜와 시간을 확인하세요",
+          "ru": "Подтвердите день и время приёма",
+          "bn": "অ্যাপয়েন্টমেন্টের দিন ও সময় নিশ্চিত করুন",
+          "ur": "اپوائنٹمنٹ کے دن اور وقت کی تصدیق کریں",
+          "zh-CN": "确认预约的日期和时间",
+          "ja": "予約の日時を確認しましょう"
         },
         "practice": "Confirme el día y la hora de la cita",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi muốn đặt lịch khám cho con gái tôi.",
         "id": "Halo, saya ingin membuat janji untuk putri saya.",
         "ms": "Helo, saya mahu buat temu janji untuk anak perempuan saya.",
-        "ko": "안녕하세요, 딸아이 진료 예약을 하고 싶어요."
+        "ko": "안녕하세요, 딸아이 진료 예약을 하고 싶어요.",
+        "ru": "Здравствуйте, я хотела бы записать дочь на приём.",
+        "bn": "হ্যালো, আমি আমার মেয়ের জন্য একটা অ্যাপয়েন্টমেন্ট নিতে চাই।",
+        "ur": "السلام علیکم، میں اپنی بیٹی کے لیے اپوائنٹمنٹ لینا چاہتی ہوں۔",
+        "zh-CN": "你好，我想给我女儿预约。",
+        "ja": "もしもし、娘の診察を予約したいのですが。"
       },
       "practice": "Hola, quisiera hacer una cita para mi hija.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Cháu bị ho ba ngày nay rồi.",
         "id": "Dia sudah batuk selama tiga hari.",
         "ms": "Dia sudah batuk selama tiga hari.",
-        "ko": "아이가 사흘째 기침을 해요."
+        "ko": "아이가 사흘째 기침을 해요.",
+        "ru": "Она кашляет уже три дня.",
+        "bn": "ও তিন দিন ধরে কাশছে।",
+        "ur": "اسے تین دن سے کھانسی ہے۔",
+        "zh-CN": "她已经咳嗽三天了。",
+        "ja": "3日前から咳をしています。"
       },
       "practice": "Tiene tos desde hace tres días.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Cháu không sốt, nhưng rất mệt.",
         "id": "Dia tidak demam, tapi sangat lemas.",
         "ms": "Dia tidak demam, tetapi dia sangat letih.",
-        "ko": "열은 없는데 많이 피곤해해요."
+        "ko": "열은 없는데 많이 피곤해해요.",
+        "ru": "Температуры нет, но она очень устала.",
+        "bn": "ওর জ্বর নেই, কিন্তু খুব ক্লান্ত।",
+        "ur": "اسے بخار نہیں ہے، لیکن وہ بہت تھکی ہوئی ہے۔",
+        "zh-CN": "她没有发烧，但很疲惫。",
+        "ja": "熱はありませんが、とてもだるそうです。"
       },
       "practice": "No tiene fiebre, pero está muy cansada.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Sáng mai còn lịch trống nào không ạ?",
         "id": "Apakah ada jadwal kosong besok pagi?",
         "ms": "Ada slot kosong esok pagi?",
-        "ko": "내일 오전에 가능한 시간 있나요?"
+        "ko": "내일 오전에 가능한 시간 있나요?",
+        "ru": "Есть ли свободное время завтра утром?",
+        "bn": "আগামীকাল সকালে কোনো সময় খালি আছে?",
+        "ur": "کیا کل صبح کوئی وقت دستیاب ہے؟",
+        "zh-CN": "明天上午有空的时间吗？",
+        "ja": "明日の午前中に空きはありますか？"
       },
       "practice": "¿Hay algo disponible mañana por la mañana?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Vậy là chín giờ rưỡi sáng thứ Năm, đúng không ạ?",
         "id": "Jadi hari Kamis jam setengah sepuluh, ya?",
         "ms": "Jadi, hari Khamis pukul sembilan setengah, betul?",
-        "ko": "그럼 목요일 9시 30분 맞죠?"
+        "ko": "그럼 목요일 9시 30분 맞죠?",
+        "ru": "Значит, в четверг в half десятого? То есть в 9:30, верно?",
+        "bn": "তাহলে বৃহস্পতিবার সাড়ে নয়টায়, তাই তো?",
+        "ur": "تو جمعرات ساڑھے نو بجے، ٹھیک ہے؟",
+        "zh-CN": "那就是周四九点半，对吗？",
+        "ja": "では、木曜日の9時半ですね？"
       },
       "practice": "Entonces es el jueves a las nueve y media, ¿verdad?",
       "practice_translations": {

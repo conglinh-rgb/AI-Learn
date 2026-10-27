@@ -18,7 +18,12 @@
     "vi": "Gặp gỡ đồng nghiệp trong nhóm",
     "id": "Bertemu Timmu",
     "ms": "Berkenalan dengan Pasukan Anda",
-    "ko": "팀원들과의 첫 만남"
+    "ko": "팀원들과의 첫 만남",
+    "ru": "Знакомство с командой",
+    "bn": "আপনার টিমের সাথে পরিচয়",
+    "ur": "اپنی ٹیم سے ملاقات",
+    "zh-CN": "认识你的团队",
+    "ja": "チームとの顔合わせ"
   },
   "character": "fox",
   "scenario": "It is your first day at a new office. Your manager (AI) welcomes you at the door.",
@@ -39,7 +44,12 @@
     "vi": "Hôm nay là ngày đầu tiên của bạn ở văn phòng mới. Quản lý (AI) chào đón bạn ở cửa.",
     "id": "Hari ini hari pertamamu di kantor baru. Manajermu (AI) menyambutmu di pintu.",
     "ms": "Hari ini hari pertama anda di pejabat baharu. Pengurus anda (AI) menyambut anda di pintu.",
-    "ko": "새 사무실에 출근한 첫날입니다. 매니저(AI)가 문 앞에서 맞아 줍니다."
+    "ko": "새 사무실에 출근한 첫날입니다. 매니저(AI)가 문 앞에서 맞아 줍니다.",
+    "ru": "Это ваш первый день в новом офисе. Ваш руководитель (AI) встречает вас у двери.",
+    "bn": "আজ নতুন অফিসে আপনার প্রথম দিন। আপনার ম্যানেজার (AI) দরজায় আপনাকে স্বাগত জানাচ্ছেন।",
+    "ur": "آج نئے دفتر میں آپ کا پہلا دن ہے۔ آپ کا مینیجر (AI) دروازے پر آپ کا استقبال کرتا ہے۔",
+    "zh-CN": "今天是你在新办公室的第一天。你的经理（AI）在门口迎接你。",
+    "ja": "新しいオフィスでの初日です。マネージャー（AI）が入口であなたを迎えます。"
   },
   "mission": {
     "native": "Introduce yourself, ask where you will sit and who to ask for help.",
@@ -60,7 +70,12 @@
       "vi": "Giới thiệu bản thân, hỏi chỗ ngồi của bạn và nên nhờ ai giúp đỡ.",
       "id": "Perkenalkan dirimu, tanyakan di mana kamu akan duduk dan kepada siapa minta bantuan.",
       "ms": "Perkenalkan diri, tanya di mana anda akan duduk dan siapa yang boleh dirujuk untuk bantuan.",
-      "ko": "자기소개를 하고, 어디에 앉는지, 도움이 필요할 때 누구에게 물어보면 되는지 물어보세요."
+      "ko": "자기소개를 하고, 어디에 앉는지, 도움이 필요할 때 누구에게 물어보면 되는지 물어보세요.",
+      "ru": "Представьтесь, спросите, где будет ваше место и к кому обращаться за помощью.",
+      "bn": "নিজের পরিচয় দিন, কোথায় বসবেন এবং কার কাছে সাহায্য চাইবেন তা জিজ্ঞেস করুন।",
+      "ur": "اپنا تعارف کروائیں، پوچھیں کہ آپ کہاں بیٹھیں گے اور مدد کے لیے کس سے رجوع کریں۔",
+      "zh-CN": "做自我介绍，询问你的座位在哪里以及可以向谁求助。",
+      "ja": "自己紹介をし、自分の席の場所と誰に助けを求めればよいかを尋ねましょう。"
     },
     "practice": "Preséntese, pregunte dónde se sentará y a quién pedir ayuda.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Đáp lời chào và kể bạn đến đây bằng cách nào",
           "id": "Balas sapaannya dan ceritakan bagaimana kamu sampai ke sini",
           "ms": "Balas ucapan itu dan katakan bagaimana anda datang ke sini",
-          "ko": "인사에 답하고 어떻게 왔는지 말하세요"
+          "ko": "인사에 답하고 어떻게 왔는지 말하세요",
+          "ru": "Ответьте на приветствие и расскажите, как добрались",
+          "bn": "শুভেচ্ছার উত্তর দিন এবং কীভাবে এসেছেন তা বলুন",
+          "ur": "سلام کا جواب دیں اور بتائیں کہ آپ کیسے پہنچے",
+          "zh-CN": "回应问候并说明你是怎么来的",
+          "ja": "あいさつに応え、どうやって来たかを伝えましょう"
         },
         "practice": "Responda al saludo y diga cómo llegó",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi bàn làm việc của bạn ở đâu",
           "id": "Tanyakan di mana mejamu",
           "ms": "Tanya di mana meja anda",
-          "ko": "자리가 어디인지 물어보세요"
+          "ko": "자리가 어디인지 물어보세요",
+          "ru": "Спросите, где ваш рабочий стол",
+          "bn": "আপনার ডেস্ক কোথায় জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ آپ کی میز کہاں ہے",
+          "zh-CN": "询问你的办公桌在哪里",
+          "ja": "自分のデスクの場所を尋ねましょう"
         },
         "practice": "Pregunte dónde está su escritorio",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi ai có thể giúp bạn cài đặt máy tính, hệ thống IT",
           "id": "Tanyakan siapa yang bisa membantu pengaturan IT",
           "ms": "Tanya siapa yang boleh membantu dengan persediaan IT",
-          "ko": "IT 설정을 누가 도와줄 수 있는지 물어보세요"
+          "ko": "IT 설정을 누가 도와줄 수 있는지 물어보세요",
+          "ru": "Спросите, кто поможет вам с настройкой IT",
+          "bn": "IT সেটআপে কে সাহায্য করতে পারবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ IT سیٹ اپ میں کون آپ کی مدد کر سکتا ہے",
+          "zh-CN": "询问谁能帮你进行IT设置",
+          "ja": "ITの設定を誰に手伝ってもらえるか尋ねましょう"
         },
         "practice": "Pregunte quién puede ayudarle con la configuración informática",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi về buổi họp nhóm",
           "id": "Tanyakan soal rapat tim",
           "ms": "Tanya tentang mesyuarat pasukan",
-          "ko": "팀 회의에 대해 물어보세요"
+          "ko": "팀 회의에 대해 물어보세요",
+          "ru": "Спросите о встрече команды",
+          "bn": "টিম মিটিং সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "ٹیم میٹنگ کے بارے میں پوچھیں",
+          "zh-CN": "询问团队会议的情况",
+          "ja": "チームミーティングについて尋ねましょう"
         },
         "practice": "Pregunte por la reunión del equipo",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Cảm ơn anh/chị đã đón tiếp. Tôi thực sự rất hào hứng được làm việc ở đây.",
         "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
         "ms": "Terima kasih kerana menerima saya. Saya sangat teruja berada di sini.",
-        "ko": "불러 주셔서 감사합니다. 여기서 일하게 되어 정말 기뻐요."
+        "ko": "불러 주셔서 감사합니다. 여기서 일하게 되어 정말 기뻐요.",
+        "ru": "Спасибо, что приняли меня. Я очень рада быть здесь.",
+        "bn": "আমাকে স্বাগত জানানোর জন্য ধন্যবাদ। এখানে আসতে পেরে আমি সত্যিই উচ্ছ্বসিত।",
+        "ur": "مجھے خوش آمدید کہنے کا شکریہ۔ میں یہاں آ کر واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "谢谢您的欢迎。能来这里我真的很兴奋。",
+        "ja": "迎えていただきありがとうございます。ここに来られて本当にわくわくしています。"
       },
       "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Rất vui được ở đây. Tôi sẵn sàng học hỏi và đóng góp.",
         "id": "Senang sekali bisa di sini. Saya siap belajar dan berkontribusi.",
         "ms": "Seronok berada di sini. Saya sedia untuk belajar dan menyumbang.",
-        "ko": "여기 오게 되어 정말 좋아요. 열심히 배우고 기여할 준비가 되어 있어요."
+        "ko": "여기 오게 되어 정말 좋아요. 열심히 배우고 기여할 준비가 되어 있어요.",
+        "ru": "Здорово быть здесь. Я готова учиться и вносить свой вклад.",
+        "bn": "এখানে আসতে পেরে খুব ভালো লাগছে। আমি শিখতে ও অবদান রাখতে প্রস্তুত।",
+        "ur": "یہاں آ کر بہت اچھا لگ رہا ہے۔ میں سیکھنے اور اپنا حصہ ڈالنے کے لیے تیار ہوں۔",
+        "zh-CN": "很高兴来到这里。我已准备好学习并贡献力量。",
+        "ja": "ここに来られてうれしいです。学びながら貢献していきたいです。"
       },
       "practice": "Es genial estar aquí. Estoy lista para aprender y aportar.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Về việc cài đặt IT, tôi cần đến chỗ nào ạ?",
         "id": "Untuk pengaturan IT, saya harus ke mana?",
         "ms": "Tentang persediaan IT, ke mana saya perlu pergi?",
-        "ko": "IT 설정은 어디로 가면 되나요?"
+        "ko": "IT 설정은 어디로 가면 되나요?",
+        "ru": "Насчёт настройки IT — куда мне нужно подойти?",
+        "bn": "IT সেটআপের জন্য আমাকে কোথায় যেতে হবে?",
+        "ur": "IT سیٹ اپ کے لیے مجھے کہاں جانا ہوگا؟",
+        "zh-CN": "关于IT设置，我需要去哪里？",
+        "ja": "ITの設定については、どこへ行けばいいですか？"
       },
       "practice": "Sobre la configuración informática, ¿adónde tengo que ir?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Mấy giờ thì họp nhóm ạ?",
         "id": "Rapat timnya jam berapa?",
         "ms": "Pukul berapa mesyuarat pasukan?",
-        "ko": "팀 회의는 몇 시예요?"
+        "ko": "팀 회의는 몇 시예요?",
+        "ru": "Во сколько встреча команды?",
+        "bn": "টিম মিটিং কখন?",
+        "ur": "ٹیم میٹنگ کتنے بجے ہے؟",
+        "zh-CN": "团队会议几点开始？",
+        "ja": "チームミーティングは何時ですか？"
       },
       "practice": "¿A qué hora es la reunión del equipo?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "À, vậy là mười hai giờ ăn trưa. Mình có đi ăn ở chỗ nào cụ thể không ạ?",
         "id": "Oh begitu, jadi makan siangnya jam dua belas. Apakah kita pergi ke tempat tertentu?",
         "ms": "Oh begitu, jadi makan tengah hari pada pukul dua belas. Kita pergi ke tempat tertentu ke?",
-        "ko": "아, 점심은 12시군요. 정해진 장소로 가나요?"
+        "ko": "아, 점심은 12시군요. 정해진 장소로 가나요?",
+        "ru": "Понятно, значит, обед в полдень. Мы идём в какое-то определённое место?",
+        "bn": "বুঝেছি, তাহলে দুপুর বারোটায় লাঞ্চ। আমরা কি নির্দিষ্ট কোথাও যাচ্ছি?",
+        "ur": "اچھا، تو دوپہر کا کھانا بارہ بجے ہے۔ کیا ہم کسی خاص جگہ جا رہے ہیں؟",
+        "zh-CN": "明白了，午饭是中午十二点。我们要去特定的地方吗？",
+        "ja": "なるほど、昼食は12時なんですね。行く場所は決まっていますか？"
       },
       "practice": "Ya veo, el almuerzo es al mediodía. ¿Vamos a algún sitio en concreto?",
       "practice_translations": {

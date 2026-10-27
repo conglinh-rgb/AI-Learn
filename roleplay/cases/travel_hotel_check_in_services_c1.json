@@ -18,7 +18,12 @@
     "vi": "Nhận phòng khách sạn",
     "id": "Check-in di Hotel",
     "ms": "Daftar Masuk di Hotel",
-    "ko": "호텔 체크인하기"
+    "ko": "호텔 체크인하기",
+    "ru": "Заселение в отель",
+    "bn": "হোটেলে চেক-ইন",
+    "ur": "ہوٹل میں چیک اِن",
+    "zh-CN": "酒店入住",
+    "ja": "ホテルのチェックイン"
   },
   "character": "fox",
   "scenario": "You arrive at your hotel after a long trip. The receptionist (AI) welcomes you at the front desk.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đến khách sạn sau một chuyến đi dài. Lễ tân (AI) chào đón bạn tại quầy.",
     "id": "Kamu tiba di hotel setelah perjalanan panjang. Resepsionis (AI) menyambutmu di meja depan.",
     "ms": "Anda tiba di hotel selepas perjalanan yang panjang. Penyambut tetamu (AI) menyambut anda di kaunter hadapan.",
-    "ko": "긴 여행 끝에 호텔에 도착했습니다. 프런트 직원(AI)이 프런트에서 맞이합니다."
+    "ko": "긴 여행 끝에 호텔에 도착했습니다. 프런트 직원(AI)이 프런트에서 맞이합니다.",
+    "ru": "Вы приезжаете в отель после долгой поездки. Администратор (AI) встречает вас на стойке регистрации.",
+    "bn": "দীর্ঘ যাত্রার পর আপনি হোটেলে পৌঁছেছেন। রিসেপশনিস্ট (AI) ফ্রন্ট ডেস্কে আপনাকে স্বাগত জানায়।",
+    "ur": "لمبے سفر کے بعد آپ اپنے ہوٹل پہنچتے ہیں۔ ریسپشنسٹ (AI) فرنٹ ڈیسک پر آپ کا استقبال کرتی ہے۔",
+    "zh-CN": "长途旅行后，你抵达了酒店。前台接待员（AI）在前台迎接你。",
+    "ja": "長旅の後、ホテルに到着しました。フロントで受付係（AI）が出迎えてくれます。"
   },
   "mission": {
     "native": "Check in with your reservation and ask about breakfast.",
@@ -60,7 +70,12 @@
       "vi": "Nhận phòng theo đặt chỗ và hỏi về bữa sáng.",
       "id": "Lakukan check-in dengan reservasimu dan tanyakan soal sarapan.",
       "ms": "Daftar masuk dengan tempahan anda dan tanya tentang sarapan.",
-      "ko": "예약 내역으로 체크인하고 조식에 대해 물어보세요."
+      "ko": "예약 내역으로 체크인하고 조식에 대해 물어보세요.",
+      "ru": "Заселитесь по брони и спросите о завтраке.",
+      "bn": "আপনার রিজার্ভেশন দিয়ে চেক-ইন করুন এবং নাস্তা সম্পর্কে জিজ্ঞাসা করুন।",
+      "ur": "اپنی بکنگ کے ساتھ چیک اِن کریں اور ناشتے کے بارے میں پوچھیں۔",
+      "zh-CN": "凭预订办理入住，并询问早餐情况。",
+      "ja": "予約をもとにチェックインし、朝食について尋ねましょう。"
     },
     "practice": "Haga el check-in con su reserva y pregunte por el desayuno.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn đã đặt phòng",
           "id": "Katakan bahwa kamu sudah reservasi",
           "ms": "Katakan anda ada tempahan",
-          "ko": "예약했다고 말하세요"
+          "ko": "예약했다고 말하세요",
+          "ru": "Скажите, что у вас есть бронь",
+          "bn": "বলুন যে আপনার রিজার্ভেশন আছে",
+          "ur": "بتائیں کہ آپ کی بکنگ ہے",
+          "zh-CN": "说明你有预订",
+          "ja": "予約があることを伝える"
         },
         "practice": "Diga que tiene una reserva",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Cho biết tên người đặt phòng",
           "id": "Sebutkan nama yang tercantum di pemesanan",
           "ms": "Beri nama pada tempahan",
-          "ko": "예약자 이름을 말하세요"
+          "ko": "예약자 이름을 말하세요",
+          "ru": "Назовите имя, на которое оформлена бронь",
+          "bn": "বুকিংয়ের নামটি বলুন",
+          "ur": "بکنگ پر درج نام بتائیں",
+          "zh-CN": "告知预订人姓名",
+          "ja": "予約者の名前を伝える"
         },
         "practice": "Dé el nombre de la reserva",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi có bao gồm bữa sáng không",
           "id": "Tanyakan apakah sudah termasuk sarapan",
           "ms": "Tanya sama ada sarapan disertakan",
-          "ko": "조식이 포함되어 있는지 물어보세요"
+          "ko": "조식이 포함되어 있는지 물어보세요",
+          "ru": "Спросите, включён ли завтрак",
+          "bn": "জিজ্ঞাসা করুন নাস্তা অন্তর্ভুক্ত কি না",
+          "ur": "پوچھیں کہ کیا ناشتہ شامل ہے",
+          "zh-CN": "询问是否含早餐",
+          "ja": "朝食込みか尋ねる"
         },
         "practice": "Pregunte si el desayuno está incluido",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi đã đặt phòng ba đêm.",
         "id": "Halo, saya sudah reservasi untuk tiga malam.",
         "ms": "Hai, saya ada tempahan untuk tiga malam.",
-        "ko": "안녕하세요, 3박 예약했어요."
+        "ko": "안녕하세요, 3박 예약했어요.",
+        "ru": "Здравствуйте, у меня бронь на три ночи.",
+        "bn": "হাই, আমার তিন রাতের জন্য রিজার্ভেশন আছে।",
+        "ur": "ہیلو، میری تین راتوں کی بکنگ ہے۔",
+        "zh-CN": "您好，我预订了三晚。",
+        "ja": "こんにちは、3泊で予約しています。"
       },
       "practice": "Hola, tengo una reserva para tres noches.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Phòng được đặt dưới tên tôi.",
         "id": "Reservasinya atas nama saya.",
         "ms": "Tempahan itu atas nama saya.",
-        "ko": "제 이름으로 예약되어 있어요."
+        "ko": "제 이름으로 예약되어 있어요.",
+        "ru": "Бронь оформлена на моё имя.",
+        "bn": "রিজার্ভেশনটি আমার নামে।",
+        "ur": "بکنگ میرے نام پر ہے۔",
+        "zh-CN": "预订是用我的名字。",
+        "ja": "予約は私の名前で入っています。"
       },
       "practice": "La reserva está a mi nombre.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Giá phòng có bao gồm bữa sáng không?",
         "id": "Apakah sudah termasuk sarapan?",
         "ms": "Adakah sarapan disertakan?",
-        "ko": "조식 포함인가요?"
+        "ko": "조식 포함인가요?",
+        "ru": "Завтрак включён?",
+        "bn": "নাস্তা কি অন্তর্ভুক্ত?",
+        "ur": "کیا ناشتہ شامل ہے؟",
+        "zh-CN": "含早餐吗？",
+        "ja": "朝食は付いていますか？"
       },
       "practice": "¿El desayuno está incluido?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Mật khẩu Wi-Fi là gì vậy?",
         "id": "Apa kata sandi Wi-Fi-nya?",
         "ms": "Apa kata laluan Wi-Fi?",
-        "ko": "와이파이 비밀번호가 뭐예요?"
+        "ko": "와이파이 비밀번호가 뭐예요?",
+        "ru": "Какой пароль от Wi-Fi?",
+        "bn": "Wi-Fi-এর পাসওয়ার্ড কী?",
+        "ur": "Wi-Fi کا پاس ورڈ کیا ہے؟",
+        "zh-CN": "Wi-Fi 密码是什么？",
+        "ja": "Wi-Fiのパスワードは何ですか？"
       },
       "practice": "¿Cuál es la contraseña del wifi?",
       "practice_translations": {

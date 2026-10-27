@@ -18,7 +18,12 @@
     "vi": "Đặt chỗ bị trừ tiền hai lần",
     "id": "Pemesanan yang Ditagih Dua Kali",
     "ms": "Tempahan yang Dicaj Dua Kali",
-    "ko": "두 번 결제된 예약"
+    "ko": "두 번 결제된 예약",
+    "ru": "Двойное списание за бронь",
+    "bn": "দুবার চার্জ হওয়া বুকিং",
+    "ur": "دو بار چارج ہونے والی بُکنگ",
+    "zh-CN": "被重复扣款的预订",
+    "ja": "二重請求された予約"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đặt một gói du lịch trực tuyến và thẻ của bạn bị trừ tiền hai lần. Nhân viên chăm sóc khách hàng (AI) khăng khăng chỉ có một giao dịch thành công.",
     "id": "Kamu memesan paket liburan secara online dan kartumu ditagih dua kali. Petugas layanan pelanggan (AI) bersikeras hanya satu pembayaran yang berhasil.",
     "ms": "Anda menempah pakej percutian dalam talian dan kad anda dicaj dua kali. Ejen khidmat pelanggan (AI) bertegas hanya satu bayaran yang berjaya.",
-    "ko": "온라인으로 휴가 패키지를 예약했는데 카드에서 두 번 결제되었습니다. 고객 서비스 상담원(AI)은 결제가 한 번만 되었다고 주장합니다."
+    "ko": "온라인으로 휴가 패키지를 예약했는데 카드에서 두 번 결제되었습니다. 고객 서비스 상담원(AI)은 결제가 한 번만 되었다고 주장합니다.",
+    "ru": "Вы забронировали турпакет онлайн, и с вашей карты списали деньги дважды. Сотрудник службы поддержки (AI) настаивает, что прошёл только один платёж.",
+    "bn": "আপনি অনলাইনে একটি ছুটির প্যাকেজ বুক করেছেন এবং আপনার কার্ড থেকে দুবার টাকা কাটা হয়েছে। গ্রাহক সেবা প্রতিনিধি (AI) জোর দিয়ে বলছেন যে কেবল একটি পেমেন্ট হয়েছে।",
+    "ur": "آپ نے آن لائن ایک چھٹیوں کا پیکج بُک کیا اور آپ کے کارڈ سے دو بار رقم کٹ گئی۔ کسٹمر سروس ایجنٹ (AI) اصرار کرتا ہے کہ صرف ایک ادائیگی ہوئی ہے۔",
+    "zh-CN": "你在网上预订了度假套餐，银行卡却被扣了两次款。客服人员（AI）坚称只有一笔付款成功。",
+    "ja": "オンラインで休暇パッケージを予約したところ、カードに二重請求されました。カスタマーサービス担当者（AI）は、支払いは1回だけだと主張しています。"
   },
   "mission": {
     "native": "Explain the problem with evidence, push back on the agent's excuses and get the extra charge refunded.",
@@ -61,7 +71,12 @@
       "vi": "Giải thích vấn đề kèm bằng chứng, phản bác những lời bào chữa của nhân viên và được hoàn lại khoản bị trừ thừa.",
       "id": "Jelaskan masalahnya dengan bukti, bantah alasan petugas, dan minta pengembalian dana untuk tagihan ganda.",
       "ms": "Terangkan masalah itu dengan bukti, bantah alasan ejen dan dapatkan bayaran balik caj tambahan itu.",
-      "ko": "증거를 들어 문제를 설명하고, 상담원의 변명에 반박해서 추가 결제 금액을 환불받으세요."
+      "ko": "증거를 들어 문제를 설명하고, 상담원의 변명에 반박해서 추가 결제 금액을 환불받으세요.",
+      "ru": "Объясните проблему с доказательствами, не принимайте отговорки сотрудника и добейтесь возврата лишнего списания.",
+      "bn": "প্রমাণসহ সমস্যাটি ব্যাখ্যা করুন, প্রতিনিধির অজুহাতের প্রতিবাদ করুন এবং অতিরিক্ত চার্জ ফেরত নিন।",
+      "ur": "ثبوت کے ساتھ مسئلہ بیان کریں، ایجنٹ کے بہانوں کو رد کریں اور اضافی چارج واپس حاصل کریں۔",
+      "zh-CN": "用证据说明问题，反驳客服的借口，并争取退还多扣的款项。",
+      "ja": "証拠を示して問題を説明し、担当者の言い訳に反論して、余分な請求を返金してもらいましょう。"
     },
     "practice": "Explique el problema con pruebas, rechace las excusas del agente y consiga el reembolso del cobro extra.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích rằng bạn bị trừ tiền hai lần",
           "id": "Jelaskan bahwa kamu ditagih dua kali",
           "ms": "Terangkan bahawa anda dicaj dua kali",
-          "ko": "두 번 결제되었다고 설명하세요"
+          "ko": "두 번 결제되었다고 설명하세요",
+          "ru": "Объясните, что с вас списали деньги дважды",
+          "bn": "ব্যাখ্যা করুন যে আপনার কাছ থেকে দুবার টাকা কাটা হয়েছে",
+          "ur": "وضاحت کریں کہ آپ سے دو بار رقم لی گئی",
+          "zh-CN": "说明你被扣了两次款",
+          "ja": "二重に請求されたことを説明しましょう"
         },
         "practice": "Explique que le cobraron dos veces",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Cho biết ngày và số tiền của cả hai lần trừ",
           "id": "Sebutkan tanggal dan jumlah kedua tagihan",
           "ms": "Beri tarikh dan jumlah kedua-dua caj",
-          "ko": "두 결제의 날짜와 금액을 말하세요"
+          "ko": "두 결제의 날짜와 금액을 말하세요",
+          "ru": "Назовите даты и суммы обоих списаний",
+          "bn": "দুটি কাটার তারিখ ও পরিমাণ জানান",
+          "ur": "دونوں کٹوتیوں کی تاریخیں اور رقم بتائیں",
+          "zh-CN": "说明两笔扣款的日期和金额",
+          "ja": "2回の請求の日付と金額を伝えましょう"
         },
         "practice": "Dé las fechas y los montos de ambos cobros",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề nghị gửi bằng chứng thanh toán",
           "id": "Tawarkan untuk mengirim bukti pembayaran",
           "ms": "Tawarkan untuk menghantar bukti pembayaran",
-          "ko": "결제 증빙을 보내 주겠다고 하세요"
+          "ko": "결제 증빙을 보내 주겠다고 하세요",
+          "ru": "Предложите отправить подтверждение платежей",
+          "bn": "পেমেন্টের প্রমাণ পাঠানোর প্রস্তাব দিন",
+          "ur": "ادائیگیوں کا ثبوت بھیجنے کی پیشکش کریں",
+          "zh-CN": "主动提出发送付款凭证",
+          "ja": "支払いの証拠を送ると申し出ましょう"
         },
         "practice": "Ofrezca enviar comprobantes de los pagos",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Yêu cầu hoàn tiền và hỏi thời gian hoàn",
           "id": "Minta pengembalian dana dan perkiraan waktunya",
           "ms": "Minta bayaran balik dan tempoh masanya",
-          "ko": "환불과 처리 기간을 요청하세요"
+          "ko": "환불과 처리 기간을 요청하세요",
+          "ru": "Попросите вернуть деньги и уточните сроки",
+          "bn": "রিফান্ড চান এবং কত সময় লাগবে জিজ্ঞেস করুন",
+          "ur": "رقم کی واپسی اور اس کی مدت کے بارے میں پوچھیں",
+          "zh-CN": "要求退款并询问所需时间",
+          "ja": "返金とその時期を尋ねましょう"
         },
         "practice": "Pida un reembolso y un plazo",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi bị trừ tiền hai lần cho cùng một đặt chỗ.",
         "id": "Saya ditagih dua kali untuk pemesanan yang sama.",
         "ms": "Saya dicaj dua kali untuk tempahan yang sama.",
-        "ko": "같은 예약에 대해 두 번 결제됐어요."
+        "ko": "같은 예약에 대해 두 번 결제됐어요.",
+        "ru": "С меня дважды списали деньги за одно и то же бронирование.",
+        "bn": "একই বুকিংয়ের জন্য আমার কাছ থেকে দুবার টাকা কাটা হয়েছে।",
+        "ur": "ایک ہی بکنگ کے لیے مجھ سے دو بار پیسے کاٹے گئے۔",
+        "zh-CN": "同一个预订被扣了两次款。",
+        "ja": "同じ予約で2回請求されました。"
       },
       "practice": "Me cobraron dos veces por la misma reserva.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Cả hai khoản trừ đều hiện trên sao kê ngân hàng của tôi.",
         "id": "Kedua tagihan muncul di rekening koran saya.",
         "ms": "Kedua-dua caj ada dalam penyata bank saya.",
-        "ko": "은행 거래 내역에 두 건이 다 나와 있어요."
+        "ko": "은행 거래 내역에 두 건이 다 나와 있어요.",
+        "ru": "Оба списания есть в моей банковской выписке.",
+        "bn": "দুটি কাটাই আমার ব্যাংক স্টেটমেন্টে দেখা যাচ্ছে।",
+        "ur": "دونوں کٹوتیاں میری بینک اسٹیٹمنٹ پر نظر آ رہی ہیں۔",
+        "zh-CN": "两笔扣款都显示在我的银行对账单上。",
+        "ja": "両方の請求が銀行の明細に載っています。"
       },
       "practice": "Los dos cobros aparecen en mi estado de cuenta.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có thể gửi ảnh chụp màn hình cho anh/chị ngay bây giờ.",
         "id": "Saya bisa kirim tangkapan layarnya sekarang juga.",
         "ms": "Saya boleh hantar tangkapan skrin sekarang juga.",
-        "ko": "지금 바로 스크린샷을 보내 드릴 수 있어요."
+        "ko": "지금 바로 스크린샷을 보내 드릴 수 있어요.",
+        "ru": "Я могу прямо сейчас отправить вам скриншот.",
+        "bn": "আমি এখনই আপনাকে একটা স্ক্রিনশট পাঠাতে পারি।",
+        "ur": "میں ابھی آپ کو اسکرین شاٹ بھیج سکتا ہوں۔",
+        "zh-CN": "我现在就可以给您发截图。",
+        "ja": "今すぐスクリーンショットをお送りできます。"
       },
       "practice": "Puedo enviarle una captura de pantalla ahora mismo.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi muốn được hoàn lại khoản trừ thứ hai.",
         "id": "Saya ingin tagihan kedua dikembalikan.",
         "ms": "Saya mahu caj kedua itu dibayar balik.",
-        "ko": "두 번째 결제 금액을 환불받고 싶어요."
+        "ko": "두 번째 결제 금액을 환불받고 싶어요.",
+        "ru": "Я бы хотел вернуть деньги за второе списание.",
+        "bn": "আমি দ্বিতীয় কাটার টাকা ফেরত চাই।",
+        "ur": "میں چاہتا ہوں کہ دوسری کٹوتی کی رقم واپس کی جائے۔",
+        "zh-CN": "我希望退还第二笔扣款。",
+        "ja": "2回目の請求分を返金していただきたいです。"
       },
       "practice": "Quisiera que me reembolsen el segundo cobro.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Bao lâu thì tôi nhận được tiền hoàn?",
         "id": "Berapa lama proses pengembalian dananya?",
         "ms": "Berapa lama bayaran balik akan mengambil masa?",
-        "ko": "환불은 얼마나 걸리나요?"
+        "ko": "환불은 얼마나 걸리나요?",
+        "ru": "Сколько времени займёт возврат?",
+        "bn": "রিফান্ড পেতে কত সময় লাগবে?",
+        "ur": "رقم واپس آنے میں کتنا وقت لگے گا؟",
+        "zh-CN": "退款需要多长时间？",
+        "ja": "返金にはどのくらいかかりますか？"
       },
       "practice": "¿Cuánto tardará el reembolso?",
       "practice_translations": {

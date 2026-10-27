@@ -18,7 +18,12 @@
     "vi": "Buổi tư vấn đầu tiên",
     "id": "Konsultasi Pertamamu",
     "ms": "Konsultasi Pertama Anda",
-    "ko": "첫 상담"
+    "ko": "첫 상담",
+    "ru": "Ваша первая консультация",
+    "bn": "আপনার প্রথম পরামর্শ",
+    "ur": "آپ کی پہلی مشاورت",
+    "zh-CN": "你的首次咨询",
+    "ja": "初めての相談"
   },
   "character": "fox",
   "scenario": "You are meeting an immigration lawyer (AI) for the first time. They want to understand your situation.",
@@ -39,7 +44,12 @@
     "vi": "Bạn gặp luật sư di trú (AI) lần đầu tiên. Họ muốn hiểu rõ hoàn cảnh của bạn.",
     "id": "Kamu bertemu dengan pengacara imigrasi (AI) untuk pertama kalinya. Dia ingin memahami situasimu.",
     "ms": "Anda bertemu dengan peguam imigresen (AI) buat kali pertama. Mereka mahu memahami keadaan anda.",
-    "ko": "이민 변호사(AI)를 처음 만납니다. 변호사는 당신의 상황을 파악하고 싶어 합니다."
+    "ko": "이민 변호사(AI)를 처음 만납니다. 변호사는 당신의 상황을 파악하고 싶어 합니다.",
+    "ru": "Вы впервые встречаетесь с иммиграционным юристом (AI). Он хочет разобраться в вашей ситуации.",
+    "bn": "আপনি প্রথমবার একজন অভিবাসন আইনজীবীর (AI) সঙ্গে দেখা করছেন। তিনি আপনার পরিস্থিতি বুঝতে চান।",
+    "ur": "آپ پہلی بار ایک امیگریشن وکیل (AI) سے مل رہے ہیں۔ وہ آپ کی صورتحال سمجھنا چاہتے ہیں۔",
+    "zh-CN": "你第一次与移民律师（AI）见面。对方想了解你的情况。",
+    "ja": "移民弁護士（AI）と初めて面談します。弁護士はあなたの状況を把握したいと考えています。"
   },
   "mission": {
     "native": "Explain your situation to the lawyer and ask what the next step is.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích hoàn cảnh của bạn với luật sư và hỏi bước tiếp theo là gì.",
       "id": "Jelaskan situasimu kepada pengacara dan tanyakan langkah selanjutnya.",
       "ms": "Terangkan keadaan anda kepada peguam dan tanya apakah langkah seterusnya.",
-      "ko": "변호사에게 상황을 설명하고 다음 단계가 무엇인지 물어보세요."
+      "ko": "변호사에게 상황을 설명하고 다음 단계가 무엇인지 물어보세요.",
+      "ru": "Объясните юристу свою ситуацию и спросите, каков следующий шаг.",
+      "bn": "আইনজীবীকে আপনার পরিস্থিতি ব্যাখ্যা করুন এবং পরবর্তী পদক্ষেপ কী তা জিজ্ঞাসা করুন।",
+      "ur": "وکیل کو اپنی صورتحال بتائیں اور پوچھیں کہ اگلا قدم کیا ہے۔",
+      "zh-CN": "向律师说明你的情况，并询问下一步该怎么做。",
+      "ja": "弁護士に自分の状況を説明し、次のステップを尋ねましょう。"
     },
     "practice": "Explique su situación al abogado y pregunte cuál es el siguiente paso.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giải thích lý do bạn đến tư vấn",
           "id": "Jelaskan kenapa kamu datang untuk konsultasi",
           "ms": "Terangkan sebab anda datang untuk konsultasi",
-          "ko": "상담을 받으러 온 이유를 설명하세요"
+          "ko": "상담을 받으러 온 이유를 설명하세요",
+          "ru": "Объясните, зачем вы пришли на консультацию",
+          "bn": "আপনি কেন পরামর্শের জন্য এসেছেন তা ব্যাখ্যা করুন",
+          "ur": "بتائیں کہ آپ مشاورت کے لیے کیوں آئے ہیں",
+          "zh-CN": "说明你来咨询的原因",
+          "ja": "相談に来た理由を説明する"
         },
         "practice": "Explique por qué vino a la consulta",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói bạn đã sống ở đây bao lâu",
           "id": "Sebutkan sudah berapa lama kamu tinggal di sini",
           "ms": "Katakan berapa lama anda telah tinggal di sini",
-          "ko": "이곳에서 얼마나 살았는지 말하세요"
+          "ko": "이곳에서 얼마나 살았는지 말하세요",
+          "ru": "Скажите, как долго вы здесь живёте",
+          "bn": "আপনি কতদিন ধরে এখানে থাকছেন তা বলুন",
+          "ur": "بتائیں کہ آپ کتنے عرصے سے یہاں رہ رہے ہیں",
+          "zh-CN": "说出你在这里住了多久",
+          "ja": "ここに住んでどのくらいか伝える"
         },
         "practice": "Diga cuánto tiempo lleva viviendo aquí",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi bước tiếp theo là gì",
           "id": "Tanyakan langkah selanjutnya",
           "ms": "Tanya apakah langkah seterusnya",
-          "ko": "다음 단계가 무엇인지 물어보세요"
+          "ko": "다음 단계가 무엇인지 물어보세요",
+          "ru": "Спросите, каков следующий шаг",
+          "bn": "পরবর্তী পদক্ষেপ কী তা জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ اگلا قدم کیا ہے",
+          "zh-CN": "询问下一步是什么",
+          "ja": "次のステップを尋ねる"
         },
         "practice": "Pregunte cuál es el siguiente paso",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn luật sư đã gặp tôi hôm nay.",
         "id": "Terima kasih sudah menerima saya hari ini.",
         "ms": "Terima kasih kerana sudi berjumpa dengan saya hari ini.",
-        "ko": "오늘 시간 내 주셔서 감사합니다."
+        "ko": "오늘 시간 내 주셔서 감사합니다.",
+        "ru": "Спасибо, что приняли меня сегодня.",
+        "bn": "আজ আমার সাথে দেখা করার জন্য ধন্যবাদ।",
+        "ur": "آج مجھ سے ملنے کا شکریہ۔",
+        "zh-CN": "谢谢您今天接待我。",
+        "ja": "本日はお時間をいただきありがとうございます。"
       },
       "practice": "Gracias por recibirme hoy.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi muốn biết mình có những lựa chọn nào để ở lại đất nước này.",
         "id": "Saya ingin tahu pilihan apa saja yang saya punya untuk tetap tinggal di negara ini.",
         "ms": "Saya ingin tahu pilihan saya untuk terus tinggal di negara ini.",
-        "ko": "이 나라에 계속 머물 수 있는 방법을 알고 싶어요."
+        "ko": "이 나라에 계속 머물 수 있는 방법을 알고 싶어요.",
+        "ru": "Я хотел бы узнать, какие у меня есть варианты, чтобы остаться в стране.",
+        "bn": "দেশে থাকার জন্য আমার কী কী উপায় আছে তা জানতে চাই।",
+        "ur": "میں جاننا چاہتا ہوں کہ ملک میں رہنے کے لیے میرے پاس کیا راستے ہیں۔",
+        "zh-CN": "我想了解我有哪些留在这个国家的途径。",
+        "ja": "この国に滞在するための選択肢を知りたいです。"
       },
       "practice": "Me gustaría conocer mis opciones para quedarme en el país.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tôi đã sống ở đây được ba năm.",
         "id": "Saya sudah tinggal di sini selama tiga tahun.",
         "ms": "Saya telah tinggal di sini selama tiga tahun.",
-        "ko": "여기서 3년 동안 살았어요."
+        "ko": "여기서 3년 동안 살았어요.",
+        "ru": "Я живу здесь три года.",
+        "bn": "আমি তিন বছর ধরে এখানে থাকছি।",
+        "ur": "میں تین سال سے یہاں رہ رہا ہوں۔",
+        "zh-CN": "我在这里住了三年。",
+        "ja": "ここに3年間住んでいます。"
       },
       "practice": "Llevo tres años viviendo aquí.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tiếp theo tôi nên làm gì?",
         "id": "Apa yang sebaiknya saya lakukan selanjutnya?",
         "ms": "Apa yang patut saya lakukan seterusnya?",
-        "ko": "이제 뭘 해야 하나요?"
+        "ko": "이제 뭘 해야 하나요?",
+        "ru": "Что мне делать дальше?",
+        "bn": "এরপর আমার কী করা উচিত?",
+        "ur": "اب مجھے آگے کیا کرنا چاہیے؟",
+        "zh-CN": "我接下来该怎么做？",
+        "ja": "次に何をすればいいですか？"
       },
       "practice": "¿Qué debo hacer ahora?",
       "practice_translations": {

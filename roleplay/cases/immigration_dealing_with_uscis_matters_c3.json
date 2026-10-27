@@ -18,7 +18,12 @@
     "vi": "Đối mặt với viên chức",
     "id": "Berhadapan Langsung dengan Petugas",
     "ms": "Bersemuka dengan Pegawai",
-    "ko": "심사관과의 대면 인터뷰"
+    "ko": "심사관과의 대면 인터뷰",
+    "ru": "Лицом к лицу с инспектором",
+    "bn": "অফিসারের মুখোমুখি",
+    "ur": "افسر کے روبرو",
+    "zh-CN": "与官员面对面",
+    "ja": "審査官との面接"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Tại buổi phỏng vấn, viên chức (AI) hỏi chi tiết về hồ sơ của bạn, và có một ngày tháng không khớp với giấy tờ của bạn.",
     "id": "Saat wawancara, petugas (AI) mengajukan pertanyaan rinci tentang permohonanmu, dan salah satu tanggalnya tidak cocok dengan catatanmu.",
     "ms": "Semasa temu duga anda, pegawai (AI) bertanya soalan terperinci tentang permohonan anda, dan salah satu tarikh tidak sepadan dengan rekod anda.",
-    "ko": "인터뷰에서 심사관(AI)이 신청서에 대해 자세히 질문하는데, 날짜 하나가 당신의 기록과 맞지 않습니다."
+    "ko": "인터뷰에서 심사관(AI)이 신청서에 대해 자세히 질문하는데, 날짜 하나가 당신의 기록과 맞지 않습니다.",
+    "ru": "На собеседовании инспектор (AI) задаёт подробные вопросы о вашем заявлении, и одна из дат не совпадает с вашими документами.",
+    "bn": "আপনার সাক্ষাৎকারে অফিসার (AI) আপনার আবেদন সম্পর্কে বিস্তারিত প্রশ্ন করেন, এবং একটি তারিখ আপনার নথির সঙ্গে মেলে না।",
+    "ur": "آپ کے انٹرویو میں افسر (AI) آپ کی درخواست کے بارے میں تفصیلی سوالات پوچھتا ہے، اور ایک تاریخ آپ کے ریکارڈ سے میل نہیں کھاتی۔",
+    "zh-CN": "面谈时，官员（AI）详细询问你的申请情况，其中一个日期与你的记录不符。",
+    "ja": "面接で審査官（AI）が申請について詳しく質問しますが、日付の一つがあなたの記録と一致しません。"
   },
   "mission": {
     "native": "Answer the officer's questions clearly and politely clear up the confusing date.",
@@ -61,7 +71,12 @@
       "vi": "Trả lời rõ ràng các câu hỏi của viên chức và lịch sự làm rõ ngày tháng gây nhầm lẫn.",
       "id": "Jawab pertanyaan petugas dengan jelas dan luruskan tanggal yang membingungkan dengan sopan.",
       "ms": "Jawab soalan pegawai dengan jelas dan jelaskan tarikh yang mengelirukan itu dengan sopan.",
-      "ko": "심사관의 질문에 명확하게 답하고, 헷갈리는 날짜를 정중하게 바로잡으세요."
+      "ko": "심사관의 질문에 명확하게 답하고, 헷갈리는 날짜를 정중하게 바로잡으세요.",
+      "ru": "Чётко отвечайте на вопросы инспектора и вежливо проясните путаницу с датой.",
+      "bn": "অফিসারের প্রশ্নের স্পষ্ট উত্তর দিন এবং বিভ্রান্তিকর তারিখটি বিনয়ের সঙ্গে পরিষ্কার করুন।",
+      "ur": "افسر کے سوالات کے واضح جواب دیں اور الجھن والی تاریخ کی شائستگی سے وضاحت کریں۔",
+      "zh-CN": "清楚回答官员的问题，并礼貌地澄清有疑问的日期。",
+      "ja": "審査官の質問にはっきり答え、紛らわしい日付について丁寧に説明しましょう。"
     },
     "practice": "Responda con claridad las preguntas del oficial y aclare con cortesía la fecha que causa confusión.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Xác nhận họ tên đầy đủ và địa chỉ",
           "id": "Konfirmasi nama lengkap dan alamatmu",
           "ms": "Sahkan nama penuh dan alamat anda",
-          "ko": "성명과 주소를 확인하세요"
+          "ko": "성명과 주소를 확인하세요",
+          "ru": "Подтвердите полное имя и адрес",
+          "bn": "আপনার পুরো নাম ও ঠিকানা নিশ্চিত করুন",
+          "ur": "اپنا پورا نام اور پتہ تصدیق کریں",
+          "zh-CN": "确认你的全名和地址",
+          "ja": "氏名と住所を確認する"
         },
         "practice": "Confirme su nombre completo y su dirección",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Mô tả công việc hiện tại của bạn",
           "id": "Jelaskan pekerjaanmu saat ini",
           "ms": "Terangkan pekerjaan anda sekarang",
-          "ko": "현재 하는 일을 설명하세요"
+          "ko": "현재 하는 일을 설명하세요",
+          "ru": "Опишите вашу текущую работу",
+          "bn": "আপনার বর্তমান চাকরির বর্ণনা দিন",
+          "ur": "اپنی موجودہ ملازمت بیان کریں",
+          "zh-CN": "描述你目前的工作",
+          "ja": "現在の仕事について説明する"
         },
         "practice": "Describa su trabajo actual",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Nhờ viên chức nhắc lại câu hỏi",
           "id": "Minta petugas mengulangi pertanyaan",
           "ms": "Minta pegawai mengulang soalan",
-          "ko": "심사관에게 질문을 다시 해 달라고 하세요"
+          "ko": "심사관에게 질문을 다시 해 달라고 하세요",
+          "ru": "Попросите инспектора повторить вопрос",
+          "bn": "অফিসারকে প্রশ্নটি আবার বলতে অনুরোধ করুন",
+          "ur": "افسر سے سوال دہرانے کی درخواست کریں",
+          "zh-CN": "请官员重复一个问题",
+          "ja": "審査官に質問を繰り返してもらう"
         },
         "practice": "Pida al oficial que repita una pregunta",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Làm rõ ngày tháng không khớp",
           "id": "Jelaskan tanggal yang tidak cocok",
           "ms": "Jelaskan tarikh yang tidak sepadan",
-          "ko": "맞지 않는 날짜를 바로잡으세요"
+          "ko": "맞지 않는 날짜를 바로잡으세요",
+          "ru": "Проясните несовпадающую дату",
+          "bn": "যে তারিখটি মেলে না তা পরিষ্কার করুন",
+          "ur": "میل نہ کھانے والی تاریخ کی وضاحت کریں",
+          "zh-CN": "澄清不符的日期",
+          "ja": "一致しない日付を説明する"
         },
         "practice": "Aclare la fecha que no coincide",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Vâng, họ tên đầy đủ của tôi có trong đơn, và tôi vẫn sống ở địa chỉ đó.",
         "id": "Ya, nama lengkap saya ada di permohonan, dan saya masih tinggal di alamat itu.",
         "ms": "Ya, nama penuh saya ada dalam permohonan, dan saya masih tinggal di alamat itu.",
-        "ko": "네, 신청서에 제 성명이 적혀 있고, 지금도 그 주소에 살고 있습니다."
+        "ko": "네, 신청서에 제 성명이 적혀 있고, 지금도 그 주소에 살고 있습니다.",
+        "ru": "Да, моё полное имя указано в заявлении, и я по-прежнему живу по этому адресу.",
+        "bn": "হ্যাঁ, আবেদনে আমার পুরো নাম আছে, আর আমি এখনও ওই ঠিকানাতেই থাকি।",
+        "ur": "جی ہاں، درخواست میں میرا پورا نام لکھا ہے، اور میں اب بھی اسی پتے پر رہتا ہوں۔",
+        "zh-CN": "是的，申请表上有我的全名，我现在仍住在那个地址。",
+        "ja": "はい、申請書に私のフルネームが書いてあります。今もその住所に住んでいます。"
       },
       "practice": "Sí, mi nombre completo está en la solicitud y sigo viviendo en esa dirección.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi làm đầu bếp ở một nhà hàng trong trung tâm thành phố.",
         "id": "Saya bekerja sebagai juru masak di sebuah restoran di pusat kota.",
         "ms": "Saya bekerja sebagai tukang masak di sebuah restoran di pusat bandar.",
-        "ko": "시내에 있는 식당에서 요리사로 일하고 있습니다."
+        "ko": "시내에 있는 식당에서 요리사로 일하고 있습니다.",
+        "ru": "Я работаю поваром в ресторане в центре города.",
+        "bn": "আমি শহরের কেন্দ্রে একটি রেস্তোরাঁয় রাঁধুনি হিসেবে কাজ করি।",
+        "ur": "میں شہر کے مرکز میں ایک ریستوران میں باورچی کے طور پر کام کرتا ہوں۔",
+        "zh-CN": "我在市中心的一家餐厅当厨师。",
+        "ja": "ダウンタウンのレストランでコックとして働いています。"
       },
       "practice": "Trabajo como cocinero en un restaurante del centro.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Xin lỗi, anh/chị có thể nhắc lại câu hỏi được không?",
         "id": "Maaf, bisa tolong ulangi pertanyaannya?",
         "ms": "Maaf, boleh anda ulang soalan itu?",
-        "ko": "죄송하지만, 질문을 다시 한번 해 주시겠어요?"
+        "ko": "죄송하지만, 질문을 다시 한번 해 주시겠어요?",
+        "ru": "Извините, не могли бы вы повторить вопрос?",
+        "bn": "দুঃখিত, প্রশ্নটা কি আরেকবার বলবেন, দয়া করে?",
+        "ur": "معاف کیجیے، کیا آپ سوال دوبارہ دہرا سکتے ہیں؟",
+        "zh-CN": "抱歉，您能再重复一遍问题吗？",
+        "ja": "すみません、質問をもう一度言っていただけますか？"
       },
       "practice": "Disculpe, ¿podría repetir la pregunta, por favor?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi đã ghi nhầm ngày đó. Ngày chính xác có trong giấy tờ này.",
         "id": "Saya salah menulis tanggal itu. Tanggal yang benar ada di dokumen ini.",
         "ms": "Saya tersilap tentang tarikh itu. Tarikh yang betul ada dalam dokumen ini.",
-        "ko": "그 날짜는 제가 잘못 적었습니다. 정확한 날짜는 이 서류에 있습니다."
+        "ko": "그 날짜는 제가 잘못 적었습니다. 정확한 날짜는 이 서류에 있습니다.",
+        "ru": "Я ошибся с этой датой. Правильная дата указана в этом документе.",
+        "bn": "ওই তারিখটা আমি ভুল লিখেছিলাম। সঠিক তারিখটা এই কাগজে আছে।",
+        "ur": "اس تاریخ میں مجھ سے غلطی ہو گئی۔ صحیح تاریخ اس دستاویز میں ہے۔",
+        "zh-CN": "那个日期我写错了。正确的日期在这份文件里。",
+        "ja": "その日付は間違えていました。正しい日付はこの書類に書いてあります。"
       },
       "practice": "Me equivoqué con esa fecha. La fecha correcta está en este documento.",
       "practice_translations": {

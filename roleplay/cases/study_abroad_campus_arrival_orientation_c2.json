@@ -18,7 +18,12 @@
     "vi": "Tham quan ngày định hướng",
     "id": "Tur Hari Orientasi",
     "ms": "Lawatan Hari Orientasi",
-    "ko": "오리엔테이션 캠퍼스 투어"
+    "ko": "오리엔테이션 캠퍼스 투어",
+    "ru": "Экскурсия в день ориентации",
+    "bn": "ওরিয়েন্টেশন দিবসের ক্যাম্পাস ট্যুর",
+    "ur": "اورینٹیشن ڈے ٹور",
+    "zh-CN": "迎新日参观",
+    "ja": "オリエンテーション日のキャンパスツアー"
   },
   "character": "fox",
   "scenario": "It is orientation week. A student guide (AI) is showing you around campus and answering questions.",
@@ -39,7 +44,12 @@
     "vi": "Đang là tuần định hướng. Một sinh viên hướng dẫn (AI) đang dẫn bạn đi tham quan trường và trả lời câu hỏi.",
     "id": "Ini minggu orientasi. Seorang mahasiswa pemandu (AI) mengajakmu berkeliling kampus dan menjawab pertanyaan.",
     "ms": "Ini minggu orientasi. Seorang pemandu pelajar (AI) sedang membawa anda meninjau kampus dan menjawab soalan.",
-    "ko": "오리엔테이션 주간입니다. 학생 안내원(AI)이 캠퍼스를 구경시켜 주며 질문에 답해 주고 있습니다."
+    "ko": "오리엔테이션 주간입니다. 학생 안내원(AI)이 캠퍼스를 구경시켜 주며 질문에 답해 주고 있습니다.",
+    "ru": "Идёт неделя ориентации. Студент-гид (AI) показывает вам кампус и отвечает на вопросы.",
+    "bn": "এখন ওরিয়েন্টেশন সপ্তাহ। একজন শিক্ষার্থী গাইড (AI) আপনাকে ক্যাম্পাস ঘুরিয়ে দেখাচ্ছে এবং প্রশ্নের উত্তর দিচ্ছে।",
+    "ur": "اورینٹیشن ہفتہ ہے۔ ایک طالب علم گائیڈ (AI) آپ کو کیمپس دکھا رہا ہے اور سوالوں کے جواب دے رہا ہے۔",
+    "zh-CN": "现在是迎新周。一位学生向导（AI）正带你参观校园并解答问题。",
+    "ja": "オリエンテーション週間です。学生ガイド（AI）がキャンパスを案内し、質問に答えてくれます。"
   },
   "mission": {
     "native": "Find out where your classes are, how to get your student ID and where to eat.",
@@ -60,7 +70,12 @@
       "vi": "Tìm hiểu lớp học ở đâu, cách làm thẻ sinh viên và nơi ăn uống.",
       "id": "Cari tahu di mana kelasmu, cara mendapatkan kartu mahasiswa, dan tempat makan.",
       "ms": "Ketahui di mana kelas anda, cara mendapatkan kad pelajar dan tempat untuk makan.",
-      "ko": "수업 장소, 학생증 받는 방법, 식사할 곳을 알아보세요."
+      "ko": "수업 장소, 학생증 받는 방법, 식사할 곳을 알아보세요.",
+      "ru": "Узнайте, где проходят ваши занятия, как получить студенческий билет и где поесть.",
+      "bn": "জেনে নিন আপনার ক্লাস কোথায়, স্টুডেন্ট আইডি কীভাবে পাবেন এবং কোথায় খাবেন।",
+      "ur": "معلوم کریں کہ آپ کی کلاسیں کہاں ہیں، اسٹوڈنٹ آئی ڈی کیسے ملے گی اور کہاں کھانا کھائیں۔",
+      "zh-CN": "了解你的课在哪里上、如何办理学生证以及在哪里吃饭。",
+      "ja": "授業の場所、学生証の受け取り方、食事ができる場所を確認しましょう。"
     },
     "practice": "Averigüe dónde son sus clases, cómo obtener su credencial de estudiante y dónde comer.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi tòa nhà giảng đường chính ở đâu",
           "id": "Tanyakan di mana gedung kuliah utama",
           "ms": "Tanya di mana bangunan kuliah utama",
-          "ko": "본관 강의동이 어디인지 물어보세요"
+          "ko": "본관 강의동이 어디인지 물어보세요",
+          "ru": "Спросите, где главный учебный корпус",
+          "bn": "প্রধান লেকচার ভবন কোথায় জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ مرکزی لیکچر بلڈنگ کہاں ہے",
+          "zh-CN": "询问主教学楼在哪里",
+          "ja": "メインの講義棟の場所を聞きましょう"
         },
         "practice": "Pregunte dónde está el edificio principal de clases",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi cách làm thẻ sinh viên",
           "id": "Tanyakan cara mendapatkan kartu mahasiswa",
           "ms": "Tanya cara mendapatkan kad pelajar anda",
-          "ko": "학생증을 받는 방법을 물어보세요"
+          "ko": "학생증을 받는 방법을 물어보세요",
+          "ru": "Спросите, как получить студенческий билет",
+          "bn": "স্টুডেন্ট আইডি কার্ড কীভাবে পাবেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ اسٹوڈنٹ آئی ڈی کارڈ کیسے ملے گا",
+          "zh-CN": "询问如何办理学生证",
+          "ja": "学生証の受け取り方を聞きましょう"
         },
         "practice": "Pregunte cómo obtener su credencial de estudiante",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi chỗ ăn ngon trong trường",
           "id": "Tanyakan tempat makan yang enak di kampus",
           "ms": "Tanya tempat makan yang bagus di kampus",
-          "ko": "캠퍼스에서 밥 먹기 좋은 곳을 물어보세요"
+          "ko": "캠퍼스에서 밥 먹기 좋은 곳을 물어보세요",
+          "ru": "Спросите, где хорошо поесть в кампусе",
+          "bn": "ক্যাম্পাসে খাওয়ার ভালো জায়গা কোথায় জিজ্ঞেস করুন",
+          "ur": "کیمپس میں کھانے کی اچھی جگہ کے بارے میں پوچھیں",
+          "zh-CN": "询问校园里哪里有好吃的地方",
+          "ja": "キャンパス内のおすすめの食事場所を聞きましょう"
         },
         "practice": "Pida que le recomiende un lugar para comer en el campus",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi khi nào sự kiện chào đón bắt đầu",
           "id": "Tanyakan kapan acara penyambutan dimulai",
           "ms": "Tanya bila majlis alu-aluan bermula",
-          "ko": "환영 행사가 언제 시작하는지 물어보세요"
+          "ko": "환영 행사가 언제 시작하는지 물어보세요",
+          "ru": "Спросите, когда начинается приветственное мероприятие",
+          "bn": "স্বাগত অনুষ্ঠান কখন শুরু হবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ ویلکم ایونٹ کب شروع ہوگا",
+          "zh-CN": "询问欢迎活动什么时候开始",
+          "ja": "歓迎イベントの開始時間を聞きましょう"
         },
         "practice": "Pregunte a qué hora empieza el evento de bienvenida",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Cho mình hỏi, tòa giảng đường chính ở đâu vậy?",
         "id": "Permisi, di mana gedung kuliah utama?",
         "ms": "Maaf, di manakah bangunan kuliah utama?",
-        "ko": "실례합니다, 본관 강의동이 어디예요?"
+        "ko": "실례합니다, 본관 강의동이 어디예요?",
+        "ru": "Извини, где главный учебный корпус?",
+        "bn": "এক্সকিউজ মি, প্রধান লেকচার ভবনটা কোথায়?",
+        "ur": "معاف کیجیے، مرکزی لیکچر بلڈنگ کہاں ہے؟",
+        "zh-CN": "请问，主教学楼在哪里？",
+        "ja": "すみません、メインの講義棟はどこですか？"
       },
       "practice": "Disculpa, ¿dónde está el edificio principal de clases?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Làm thẻ sinh viên thế nào vậy?",
         "id": "Bagaimana cara mendapatkan kartu mahasiswa?",
         "ms": "Bagaimana saya boleh dapatkan kad pelajar saya?",
-        "ko": "학생증은 어떻게 받아요?"
+        "ko": "학생증은 어떻게 받아요?",
+        "ru": "Как мне получить студенческий билет?",
+        "bn": "আমি স্টুডেন্ট আইডি কার্ড কীভাবে পাব?",
+        "ur": "مجھے اسٹوڈنٹ آئی ڈی کارڈ کیسے ملے گا؟",
+        "zh-CN": "我怎么办理学生证？",
+        "ja": "学生証はどうやってもらえますか？"
       },
       "practice": "¿Cómo consigo mi credencial de estudiante?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Quanh đây có chỗ nào ăn rẻ không?",
         "id": "Apakah ada tempat makan murah di sekitar sini?",
         "ms": "Ada tempat makan yang murah di sekitar sini?",
-        "ko": "이 근처에 싸게 먹을 수 있는 곳이 있어요?"
+        "ko": "이 근처에 싸게 먹을 수 있는 곳이 있어요?",
+        "ru": "Здесь есть где-нибудь недорого поесть?",
+        "bn": "এখানে আশেপাশে সস্তায় খাওয়ার কোনো জায়গা আছে?",
+        "ur": "کیا یہاں آس پاس کھانے کی کوئی سستی جگہ ہے؟",
+        "zh-CN": "这附近有便宜的吃饭地方吗？",
+        "ja": "この辺に安く食べられる所はある？"
       },
       "practice": "¿Hay algún lugar barato para comer por aquí?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Mấy giờ thì sự kiện chào đón bắt đầu?",
         "id": "Jam berapa acara penyambutan dimulai?",
         "ms": "Pukul berapa majlis alu-aluan bermula?",
-        "ko": "환영 행사는 몇 시에 시작해요?"
+        "ko": "환영 행사는 몇 시에 시작해요?",
+        "ru": "Во сколько начинается приветственное мероприятие?",
+        "bn": "স্বাগত অনুষ্ঠান কয়টায় শুরু হবে?",
+        "ur": "ویلکم ایونٹ کتنے بجے شروع ہوگا؟",
+        "zh-CN": "欢迎活动几点开始？",
+        "ja": "歓迎イベントは何時に始まる？"
       },
       "practice": "¿A qué hora empieza el evento de bienvenida?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Trường rộng quá! Cảm ơn bạn đã dẫn mình đi tham quan.",
         "id": "Kampus ini luas sekali! Terima kasih sudah mengajak saya berkeliling.",
         "ms": "Kampus ini sangat besar! Terima kasih kerana membawa saya melihat-lihat.",
-        "ko": "캠퍼스가 정말 넓네요! 구경시켜 주셔서 감사해요."
+        "ko": "캠퍼스가 정말 넓네요! 구경시켜 주셔서 감사해요.",
+        "ru": "Кампус огромный! Спасибо, что всё показал.",
+        "bn": "এই ক্যাম্পাসটা বিশাল! ঘুরিয়ে দেখানোর জন্য ধন্যবাদ।",
+        "ur": "یہ کیمپس بہت بڑا ہے! گھمانے کا شکریہ۔",
+        "zh-CN": "这个校园好大！谢谢你带我参观。",
+        "ja": "このキャンパス、すごく広いね！案内してくれてありがとう。"
       },
       "practice": "¡Este campus es enorme! Gracias por mostrármelo.",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Nói chuyện dị ứng trước tiệc sinh nhật",
     "id": "Obrolan Alergi di Pesta Ulang Tahun",
     "ms": "Perbualan Alahan di Majlis Hari Jadi",
-    "ko": "생일 파티 알레르기 이야기"
+    "ko": "생일 파티 알레르기 이야기",
+    "ru": "Разговор об аллергии перед днём рождения",
+    "bn": "জন্মদিনের পার্টিতে অ্যালার্জি নিয়ে কথা",
+    "ur": "سالگرہ کی پارٹی سے پہلے الرجی پر بات",
+    "zh-CN": "生日派对前的过敏沟通",
+    "ja": "誕生日パーティーのアレルギー相談"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Con bạn bị dị ứng các loại hạt và được mời đến tiệc sinh nhật của một bạn cùng lớp. Phụ huynh chủ tiệc (AI) có vẻ không chắc chắn và nói \"một chút thì không sao đâu\".",
     "id": "Anakmu alergi kacang dan diundang ke pesta ulang tahun teman sekelasnya. Orang tua tuan rumah (AI) tampak ragu dan bilang \"sedikit saja tidak apa-apa\".",
     "ms": "Anak anda alah kepada kacang dan dijemput ke majlis hari jadi rakan sekelas. Ibu bapa tuan rumah (AI) nampak kurang pasti dan berkata \"sedikit saja tak apa.\"",
-    "ko": "아이가 견과류 알레르기가 있는데 반 친구 생일 파티에 초대받았어요. 파티를 여는 부모(AI)는 잘 모르는 듯이 \"조금은 괜찮을 거예요\"라고 해요."
+    "ko": "아이가 견과류 알레르기가 있는데 반 친구 생일 파티에 초대받았어요. 파티를 여는 부모(AI)는 잘 모르는 듯이 \"조금은 괜찮을 거예요\"라고 해요.",
+    "ru": "У вашего ребёнка аллергия на орехи, и его пригласили на день рождения одноклассника. Родитель именинника (AI), похоже, не всё понимает и говорит: «Немножко не повредит».",
+    "bn": "আপনার সন্তানের বাদামে অ্যালার্জি আছে, আর তাকে এক সহপাঠীর জন্মদিনের পার্টিতে দাওয়াত দেওয়া হয়েছে। আয়োজক অভিভাবক (AI) বিষয়টি নিয়ে নিশ্চিত নন এবং বলছেন, \"একটু খেলে কিছু হবে না।\"",
+    "ur": "آپ کے بچے کو گری دار میووں سے الرجی ہے اور اسے ایک ہم جماعت کی سالگرہ میں بلایا گیا ہے۔ میزبان والدین (AI) اس بارے میں غیر یقینی لگتے ہیں اور کہتے ہیں \"تھوڑا سا کچھ نہیں کرے گا۔\"",
+    "zh-CN": "你的孩子对坚果过敏，受邀参加同学的生日派对。主办家长（AI）似乎不太清楚情况，说\"吃一点点没关系\"。",
+    "ja": "お子さんにはナッツアレルギーがあり、クラスメートの誕生日パーティーに招待されました。主催の保護者（AI）はよくわかっていない様子で、「少しくらいなら大丈夫」と言っています。"
   },
   "mission": {
     "native": "Explain the allergy clearly and agree on a safe plan without offending the host.",
@@ -61,7 +71,12 @@
       "vi": "Giải thích rõ về dị ứng và thống nhất một kế hoạch an toàn mà không làm chủ tiệc phật lòng.",
       "id": "Jelaskan alerginya dengan jelas dan sepakati rencana yang aman tanpa menyinggung tuan rumah.",
       "ms": "Terangkan alahan itu dengan jelas dan setuju dengan pelan yang selamat tanpa menyinggung perasaan tuan rumah.",
-      "ko": "상대의 기분을 상하게 하지 않으면서 알레르기를 분명히 설명하고 안전한 계획에 합의하세요."
+      "ko": "상대의 기분을 상하게 하지 않으면서 알레르기를 분명히 설명하고 안전한 계획에 합의하세요.",
+      "ru": "Чётко объясните, в чём аллергия, и договоритесь о безопасном плане, не обидев хозяев.",
+      "bn": "অ্যালার্জির বিষয়টি স্পষ্টভাবে বুঝিয়ে বলুন এবং আয়োজককে অসন্তুষ্ট না করে একটি নিরাপদ পরিকল্পনায় একমত হন।",
+      "ur": "الرجی کو واضح طور پر سمجھائیں اور میزبان کو ناراض کیے بغیر ایک محفوظ منصوبے پر اتفاق کریں۔",
+      "zh-CN": "清楚说明过敏情况，并在不冒犯主人的前提下商定一个安全方案。",
+      "ja": "アレルギーについてはっきり説明し、相手の気分を害さずに安全な対策を決めましょう。"
     },
     "practice": "Explique la alergia con claridad y acuerden un plan seguro sin ofender al anfitrión.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích rõ tình trạng dị ứng của con",
           "id": "Jelaskan alergi anakmu dengan jelas",
           "ms": "Terangkan alahan anak anda dengan jelas",
-          "ko": "아이의 알레르기를 분명하게 설명하세요"
+          "ko": "아이의 알레르기를 분명하게 설명하세요",
+          "ru": "Чётко объясните аллергию ребёнка",
+          "bn": "সন্তানের অ্যালার্জি স্পষ্টভাবে বুঝিয়ে বলুন",
+          "ur": "بچے کی الرجی واضح طور پر سمجھائیں",
+          "zh-CN": "清楚说明孩子的过敏情况",
+          "ja": "お子さんのアレルギーをはっきり説明する"
         },
         "practice": "Explique con claridad la alergia de su hijo",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Đính chính ý nghĩ rằng một chút thì không sao",
           "id": "Luruskan anggapan bahwa sedikit saja tidak apa-apa",
           "ms": "Betulkan tanggapan bahawa sedikit saja tidak apa",
-          "ko": "조금은 괜찮다는 생각을 바로잡으세요"
+          "ko": "조금은 괜찮다는 생각을 바로잡으세요",
+          "ru": "Опровергните мнение, что немножко можно",
+          "bn": "একটু খেলে সমস্যা নেই—এই ধারণাটি শুধরে দিন",
+          "ur": "اس خیال کی تصحیح کریں کہ تھوڑا سا ٹھیک ہے",
+          "zh-CN": "纠正\"吃一点没关系\"的想法",
+          "ja": "「少しなら大丈夫」という考えを正す"
         },
         "practice": "Corrija la idea de que un poquito no hace daño",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi những món nào trong tiệc có chứa hạt",
           "id": "Tanyakan makanan pesta mana yang mengandung kacang",
           "ms": "Tanya makanan majlis yang mana mengandungi kacang",
-          "ko": "파티 음식 중 견과류가 들어간 게 무엇인지 물어보세요"
+          "ko": "파티 음식 중 견과류가 들어간 게 무엇인지 물어보세요",
+          "ru": "Спросите, в каких угощениях есть орехи",
+          "bn": "পার্টির কোন খাবারে বাদাম আছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ پارٹی کے کن کھانوں میں گری دار میوے ہیں",
+          "zh-CN": "询问派对上哪些食物含有坚果",
+          "ja": "パーティーのどの食べ物にナッツが入っているか尋ねる"
         },
         "practice": "Pregunte qué comidas de la fiesta tienen nueces",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề nghị mang đồ ăn vặt an toàn cho con",
           "id": "Tawarkan untuk membawa camilan yang aman untuk anakmu",
           "ms": "Tawarkan untuk membawa snek yang selamat untuk anak anda",
-          "ko": "아이가 먹을 안전한 간식을 가져가겠다고 제안하세요"
+          "ko": "아이가 먹을 안전한 간식을 가져가겠다고 제안하세요",
+          "ru": "Предложите принести безопасные закуски для ребёнка",
+          "bn": "সন্তানের জন্য নিরাপদ নাস্তা নিয়ে আসার প্রস্তাব দিন",
+          "ur": "بچے کے لیے محفوظ اسنیکس لانے کی پیشکش کریں",
+          "zh-CN": "主动提出为孩子带安全的零食",
+          "ja": "お子さん用に安全なおやつを持参すると申し出る"
         },
         "practice": "Ofrezca llevar comida segura para su hijo",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều vì đã mời con gái tôi.",
         "id": "Terima kasih banyak sudah mengundang putri saya.",
         "ms": "Terima kasih banyak kerana menjemput anak perempuan saya.",
-        "ko": "우리 딸을 초대해 주셔서 정말 감사해요."
+        "ko": "우리 딸을 초대해 주셔서 정말 감사해요.",
+        "ru": "Большое спасибо, что пригласили мою дочь.",
+        "bn": "আমার মেয়েকে দাওয়াত দেওয়ার জন্য অনেক ধন্যবাদ।",
+        "ur": "میری بیٹی کو مدعو کرنے کا بہت شکریہ۔",
+        "zh-CN": "非常感谢你邀请我女儿。",
+        "ja": "娘を招待してくださって本当にありがとうございます。"
       },
       "practice": "Muchas gracias por invitar a mi hija.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi cần báo với anh/chị là cháu bị dị ứng hạt khá nặng.",
         "id": "Saya perlu memberi tahu bahwa dia punya alergi kacang yang serius.",
         "ms": "Saya perlu beritahu bahawa dia ada alahan kacang yang serius.",
-        "ko": "말씀드려야 할 게 있는데, 아이가 심한 견과류 알레르기가 있어요."
+        "ko": "말씀드려야 할 게 있는데, 아이가 심한 견과류 알레르기가 있어요.",
+        "ru": "Должна вас предупредить: у неё серьёзная аллергия на орехи.",
+        "bn": "আপনাকে জানানো দরকার, ওর বাদামে গুরুতর অ্যালার্জি আছে।",
+        "ur": "مجھے آپ کو بتانا چاہیے کہ اسے میوے سے شدید الرجی ہے۔",
+        "zh-CN": "我得告诉您，她对坚果严重过敏。",
+        "ja": "お伝えしておきたいのですが、娘はナッツの重いアレルギーがあります。"
       },
       "practice": "Debo decirle que tiene una alergia seria a las nueces.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Chỉ một lượng nhỏ thôi cũng có thể khiến cháu bị nặng.",
         "id": "Sedikit saja bisa membuatnya sakit parah.",
         "ms": "Sedikit pun boleh buat dia sakit teruk.",
-        "ko": "아주 조금만 먹어도 많이 아플 수 있어요."
+        "ko": "아주 조금만 먹어도 많이 아플 수 있어요.",
+        "ru": "Даже небольшое количество может ей сильно навредить.",
+        "bn": "সামান্য পরিমাণও ওকে খুব অসুস্থ করে দিতে পারে।",
+        "ur": "تھوڑی سی مقدار بھی اسے بہت بیمار کر سکتی ہے۔",
+        "zh-CN": "哪怕一点点也会让她很不舒服。",
+        "ja": "少量でもひどい症状が出ることがあります。"
       },
       "practice": "Incluso una cantidad pequeña puede hacerle mucho daño.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Bánh kem hay đồ ăn vặt có chứa hạt không ạ?",
         "id": "Apakah kue atau camilannya mengandung kacang?",
         "ms": "Ada kacang tak dalam kek atau snek?",
-        "ko": "케이크나 간식에 견과류가 들어가나요?"
+        "ko": "케이크나 간식에 견과류가 들어가나요?",
+        "ru": "В торте или закусках будут орехи?",
+        "bn": "কেক বা স্ন্যাকসে কি বাদাম থাকবে?",
+        "ur": "کیا کیک یا اسنیکس میں میوہ ہوگا؟",
+        "zh-CN": "蛋糕或零食里会有坚果吗？",
+        "ja": "ケーキやお菓子にナッツは入っていますか？"
       },
       "practice": "¿El pastel o los bocadillos van a tener nueces?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Tôi sẵn lòng mang đồ ăn vặt riêng cho cháu để anh/chị khỏi phải lo.",
         "id": "Saya dengan senang hati membawakan camilannya sendiri, supaya Anda tidak perlu khawatir.",
         "ms": "Saya boleh bawa snek dia sendiri, jadi awak tak perlu risau.",
-        "ko": "걱정 안 하시게 아이 간식은 제가 따로 챙겨 갈게요."
+        "ko": "걱정 안 하시게 아이 간식은 제가 따로 챙겨 갈게요.",
+        "ru": "Я с радостью принесу ей её собственные закуски, чтобы вам не пришлось беспокоиться.",
+        "bn": "আমি খুশি মনে ওর নিজের স্ন্যাকস নিয়ে আসতে পারি, যাতে আপনাকে চিন্তা করতে না হয়।",
+        "ur": "میں خوشی سے اس کے اپنے اسنیکس لے آؤں گی تاکہ آپ کو فکر نہ کرنی پڑے۔",
+        "zh-CN": "我可以给她带自己的零食，这样您就不用操心了。",
+        "ja": "娘のお菓子はこちらで持っていきますので、ご心配なく。"
       },
       "practice": "Con gusto le llevo su propia comida, para que usted no se preocupe.",
       "practice_translations": {

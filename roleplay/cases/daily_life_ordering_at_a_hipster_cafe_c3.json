@@ -18,7 +18,12 @@
     "vi": "Nhân viên pha chế phán xét món bạn gọi",
     "id": "Barista yang Menghakimi Pesananmu",
     "ms": "Barista yang Menilai Pesanan Anda",
-    "ko": "주문을 평가하는 바리스타"
+    "ko": "주문을 평가하는 바리스타",
+    "ru": "Бариста, который осуждает ваш заказ",
+    "bn": "যে বারিস্তা আপনার অর্ডার নিয়ে বিচার করেন",
+    "ur": "وہ باریسٹا جو آپ کے آرڈر پر رائے دیتا ہے",
+    "zh-CN": "对你点单指指点点的咖啡师",
+    "ja": "注文にケチをつけるバリスタ"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn gọi một ly latte caramel thêm đường, nhưng nhân viên pha chế kiêu kỳ (AI) từ chối vì như vậy sẽ \"phí hạt cà phê\" và cứ nài bạn uống loại cà phê đơn nguồn đắng ngắt.",
     "id": "Kamu memesan caramel latte dengan ekstra gula, tapi barista (AI) yang sok itu menolak karena katanya akan \"merusak biji kopinya\" dan terus menawarkan kopi single-origin yang pahit.",
     "ms": "Anda memesan latte karamel dengan gula tambahan, tetapi barista (AI) yang sombong enggan kerana ia akan \"merosakkan biji kopi\" dan terus mendesak anda mencuba kopi pahit dari satu asal.",
-    "ko": "설탕을 추가한 캐러멜 라테를 주문했는데, 거만한 바리스타(AI)가 \"원두를 망친다\"며 거절하고 쓴 싱글 오리진 커피만 계속 권해요."
+    "ko": "설탕을 추가한 캐러멜 라테를 주문했는데, 거만한 바리스타(AI)가 \"원두를 망친다\"며 거절하고 쓴 싱글 오리진 커피만 계속 권해요.",
+    "ru": "Вы заказываете карамельный латте с дополнительным сахаром, но высокомерный бариста (AI) отказывается, потому что это «испортит зёрна», и упорно навязывает горький моносортовой кофе.",
+    "bn": "আপনি বাড়তি চিনি দিয়ে একটি ক্যারামেল লাতে অর্ডার করেন, কিন্তু নাক-উঁচু বারিস্তা (AI) রাজি হন না, কারণ এতে নাকি \"বিন নষ্ট হবে\", আর বারবার একটি তেতো সিঙ্গেল-অরিজিন কফি গছাতে চান।",
+    "ur": "آپ اضافی چینی کے ساتھ کیریمل لاتے آرڈر کرتے ہیں، لیکن مغرور باریسٹا (AI) انکار کر دیتا ہے کیونکہ اس سے \"بینز برباد ہو جائیں گے\"، اور بار بار ایک کڑوی سنگل اوریجن کافی پر زور دیتا ہے۔",
+    "zh-CN": "你点了一杯多加糖的焦糖拿铁，但自命不凡的咖啡师（AI）拒绝了，说这会“毁了豆子”，还一直向你推销一款苦涩的单一产地咖啡。",
+    "ja": "砂糖多めのキャラメルラテを注文しますが、気取ったバリスタ（AI）は「豆が台無しになる」と断り、苦いシングルオリジンコーヒーをしつこく勧めてきます。"
   },
   "mission": {
     "native": "Stand your ground politely and get the drink you actually want.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự giữ vững lập trường và có được đúng đồ uống bạn muốn.",
       "id": "Pertahankan pendapatmu dengan sopan dan dapatkan minuman yang benar-benar kamu mau.",
       "ms": "Pertahankan pendirian anda dengan sopan dan dapatkan minuman yang anda benar-benar mahu.",
-      "ko": "정중하게 입장을 지키고 정말 원하는 음료를 받으세요."
+      "ko": "정중하게 입장을 지키고 정말 원하는 음료를 받으세요.",
+      "ru": "Вежливо стойте на своём и получите напиток, который действительно хотите.",
+      "bn": "ভদ্রভাবে নিজের অবস্থানে অটল থাকুন এবং আসলে যে পানীয়টি চান সেটিই নিন।",
+      "ur": "شائستگی سے اپنی بات پر قائم رہیں اور وہی مشروب حاصل کریں جو آپ واقعی چاہتے ہیں۔",
+      "zh-CN": "礼貌地坚持立场，拿到你真正想要的饮品。",
+      "ja": "丁寧に意志を貫き、本当に飲みたいドリンクを手に入れましょう。"
     },
     "practice": "Mantenga su postura con cortesía y consiga la bebida que realmente quiere.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Gọi đồ uống của bạn một cách rõ ràng",
           "id": "Pesan minumanmu dengan jelas",
           "ms": "Pesan minuman anda dengan jelas",
-          "ko": "음료를 분명하게 주문하세요"
+          "ko": "음료를 분명하게 주문하세요",
+          "ru": "Чётко закажите свой напиток",
+          "bn": "স্পষ্টভাবে আপনার পানীয় অর্ডার করুন",
+          "ur": "اپنا مشروب واضح طور پر آرڈر کریں",
+          "zh-CN": "清楚地点你的饮品",
+          "ja": "ドリンクをはっきり注文する"
         },
         "practice": "Pida su bebida con claridad",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Lịch sự từ chối gợi ý của nhân viên pha chế",
           "id": "Tolak saran barista dengan sopan",
           "ms": "Tolak cadangan barista dengan sopan",
-          "ko": "바리스타의 제안을 정중하게 거절하세요"
+          "ko": "바리스타의 제안을 정중하게 거절하세요",
+          "ru": "Вежливо откажитесь от предложения баристы",
+          "bn": "ভদ্রভাবে বারিস্তার প্রস্তাব ফিরিয়ে দিন",
+          "ur": "باریسٹا کی تجویز شائستگی سے رد کریں",
+          "zh-CN": "礼貌地拒绝咖啡师的建议",
+          "ja": "バリスタの提案を丁寧に断る"
         },
         "practice": "Rechace con cortesía la sugerencia del barista",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Giải thích vì sao bạn thích món mình gọi hơn",
           "id": "Jelaskan kenapa kamu lebih suka pesananmu",
           "ms": "Terangkan mengapa anda lebih suka pesanan anda",
-          "ko": "왜 그 주문이 더 좋은지 설명하세요"
+          "ko": "왜 그 주문이 더 좋은지 설명하세요",
+          "ru": "Объясните, почему вы предпочитаете свой заказ",
+          "bn": "ব্যাখ্যা করুন কেন আপনি নিজের অর্ডারটাই পছন্দ করেন",
+          "ur": "وضاحت کریں کہ آپ اپنا آرڈر کیوں پسند کرتے ہیں",
+          "zh-CN": "解释你为什么更喜欢自己点的",
+          "ja": "自分の注文のほうがいい理由を説明しましょう"
         },
         "practice": "Explique por qué prefiere su pedido",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất một đồ uống cả hai đều chấp nhận",
           "id": "Sepakati minuman yang bisa diterima kalian berdua",
           "ms": "Setuju dengan minuman yang anda berdua boleh terima",
-          "ko": "둘 다 받아들일 수 있는 음료로 합의하세요"
+          "ko": "둘 다 받아들일 수 있는 음료로 합의하세요",
+          "ru": "Договоритесь о напитке, который устроит вас обоих",
+          "bn": "দুজনেরই পছন্দ হয় এমন একটি পানীয়তে একমত হন",
+          "ur": "ایسے مشروب پر اتفاق کریں جو دونوں کو قبول ہو",
+          "zh-CN": "商定一款你们都能接受的饮品",
+          "ja": "二人とも納得できる飲み物に決めましょう"
         },
         "practice": "Acuerden una bebida que acepten los dos",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cho tôi một ly latte caramel thêm đường nhé.",
         "id": "Saya mau caramel latte dengan ekstra gula, ya.",
         "ms": "Saya mahu latte karamel dengan gula tambahan, terima kasih.",
-        "ko": "설탕 추가한 캐러멜 라테 한 잔 주세요."
+        "ko": "설탕 추가한 캐러멜 라테 한 잔 주세요.",
+        "ru": "Мне карамельный латте с дополнительным сахаром, пожалуйста.",
+        "bn": "আমাকে বাড়তি চিনি দিয়ে একটা ক্যারামেল লাটে দিন, প্লিজ।",
+        "ur": "مجھے اضافی چینی کے ساتھ ایک کیریمل لاتے چاہیے، پلیز۔",
+        "zh-CN": "请给我一杯焦糖拿铁，多加糖。",
+        "ja": "キャラメルラテを砂糖多めでお願いします。"
       },
       "practice": "Quisiera un latte de caramelo con azúcar extra, por favor.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Cảm ơn, nhưng tôi không thích cà phê đắng.",
         "id": "Terima kasih, tapi saya kurang suka kopi pahit.",
         "ms": "Terima kasih, tetapi saya kurang gemar kopi pahit.",
-        "ko": "고맙지만 저는 쓴 커피를 별로 안 좋아해요."
+        "ko": "고맙지만 저는 쓴 커피를 별로 안 좋아해요.",
+        "ru": "Спасибо, но я не люблю горький кофе.",
+        "bn": "ধন্যবাদ, তবে তেতো কফি আমার তেমন পছন্দ না।",
+        "ur": "شکریہ، لیکن مجھے کڑوی کافی خاص پسند نہیں۔",
+        "zh-CN": "谢谢，不过我不太喜欢苦咖啡。",
+        "ja": "ありがとう、でも苦いコーヒーはあまり好きじゃないんです。"
       },
       "practice": "Gracias, pero no me gusta mucho el café amargo.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi biết mình thích gì, và tôi thích uống ngọt.",
         "id": "Saya tahu apa yang saya suka, dan saya suka yang manis.",
         "ms": "Saya tahu apa yang saya suka, dan saya suka yang manis.",
-        "ko": "제 취향은 제가 잘 알아요. 저는 단 게 좋아요."
+        "ko": "제 취향은 제가 잘 알아요. 저는 단 게 좋아요.",
+        "ru": "Я знаю, что мне нравится, а нравится мне сладкое.",
+        "bn": "আমি জানি আমার কী পছন্দ, আর আমি মিষ্টিই পছন্দ করি।",
+        "ur": "مجھے پتا ہے مجھے کیا پسند ہے، اور مجھے میٹھا پسند ہے۔",
+        "zh-CN": "我知道自己喜欢什么，我就喜欢甜的。",
+        "ja": "自分の好みはわかっています。甘いのが好きなんです。"
       },
       "practice": "Sé lo que me gusta, y me gusta dulce.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Dù sao thì người uống cũng là tôi mà.",
         "id": "Toh saya yang meminumnya.",
         "ms": "Lagipun, saya yang akan minum.",
-        "ko": "어쨌든 마시는 사람은 저잖아요."
+        "ko": "어쨌든 마시는 사람은 저잖아요.",
+        "ru": "В конце концов, пить его буду я.",
+        "bn": "যাই হোক, খাব তো আমিই।",
+        "ur": "آخر پینا تو مجھے ہی ہے۔",
+        "zh-CN": "毕竟喝的人是我嘛。",
+        "ja": "だって、飲むのは私ですから。"
       },
       "practice": "Al fin y al cabo, soy yo quien se lo va a tomar.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Thôi được, vậy nửa lượng đường nhưng vẫn là caramel nhé?",
         "id": "Oke, bagaimana kalau gulanya setengah, tapi tetap karamel?",
         "ms": "Okey, bagaimana kalau separuh gula, tapi masih karamel?",
-        "ko": "좋아요, 그럼 설탕은 반만 넣고 캐러멜은 그대로 하면 어때요?"
+        "ko": "좋아요, 그럼 설탕은 반만 넣고 캐러멜은 그대로 하면 어때요?",
+        "ru": "Ладно, может, вполовину меньше сахара, но всё равно с карамелью?",
+        "bn": "ঠিক আছে, তাহলে অর্ধেক চিনি, কিন্তু ক্যারামেল থাকবে—কেমন হয়?",
+        "ur": "اچھا، آدھی چینی کے ساتھ، لیکن کیریمل ہی، کیسا رہے گا؟",
+        "zh-CN": "好吧，糖减半，但还是要焦糖的，怎么样？",
+        "ja": "じゃあ、砂糖は半分で、キャラメルはそのままでどうですか？"
       },
       "practice": "Está bien, ¿qué tal con la mitad del azúcar, pero con caramelo?",
       "practice_translations": {

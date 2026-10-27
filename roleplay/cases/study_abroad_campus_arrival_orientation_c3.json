@@ -18,7 +18,12 @@
     "vi": "Nhầm phòng",
     "id": "Kamar yang Tertukar",
     "ms": "Bilik yang Tertukar",
-    "ko": "방 배정 착오"
+    "ko": "방 배정 착오",
+    "ru": "Путаница с комнатой",
+    "bn": "রুম নিয়ে গোলমাল",
+    "ur": "کمرے کی گڑبڑ",
+    "zh-CN": "房间搞错了",
+    "ja": "部屋の手違い"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đến nơi lúc đêm muộn và phát hiện phòng ký túc xá của mình đã bị giao cho người khác. Nhân viên phụ trách nhà ở (AI) nói không còn phòng trống.",
     "id": "Kamu tiba larut malam dan mendapati kamar asramamu sudah diberikan ke orang lain. Petugas perumahan (AI) bilang tidak ada kamar kosong.",
     "ms": "Anda tiba lewat malam dan mendapati bilik asrama anda telah diberikan kepada orang lain. Pegawai perumahan (AI) berkata tiada bilik kosong.",
-    "ko": "밤늦게 도착했는데 기숙사 방이 다른 사람에게 배정되어 있습니다. 기숙사 담당자(AI)는 빈방이 없다고 말합니다."
+    "ko": "밤늦게 도착했는데 기숙사 방이 다른 사람에게 배정되어 있습니다. 기숙사 담당자(AI)는 빈방이 없다고 말합니다.",
+    "ru": "Вы приезжаете поздно ночью и узнаёте, что вашу комнату в общежитии отдали кому-то другому. Сотрудник по вопросам проживания (AI) говорит, что свободных комнат нет.",
+    "bn": "আপনি গভীর রাতে পৌঁছে দেখেন আপনার হোস্টেলের রুম অন্য কাউকে দেওয়া হয়েছে। আবাসন কর্মকর্তা (AI) বলছেন কোনো খালি রুম নেই।",
+    "ur": "آپ رات گئے پہنچتے ہیں اور پتا چلتا ہے کہ آپ کا ہاسٹل کا کمرہ کسی اور کو دے دیا گیا ہے۔ رہائش کے افسر (AI) کہتے ہیں کہ کوئی کمرہ خالی نہیں۔",
+    "zh-CN": "你深夜抵达，发现自己的宿舍房间被分给了别人。宿舍管理员（AI）说没有空房了。",
+    "ja": "夜遅くに到着すると、自分の寮の部屋が別の人に割り当てられていました。寮の担当者（AI）は空き部屋がないと言います。"
   },
   "mission": {
     "native": "Stay calm, explain the problem and get a place to sleep tonight.",
@@ -61,7 +71,12 @@
       "vi": "Giữ bình tĩnh, giải thích vấn đề và tìm được chỗ ngủ đêm nay.",
       "id": "Tetap tenang, jelaskan masalahnya, dan dapatkan tempat tidur untuk malam ini.",
       "ms": "Bertenang, terangkan masalah itu dan dapatkan tempat untuk tidur malam ini.",
-      "ko": "침착하게 문제를 설명하고 오늘 밤 잘 곳을 구하세요."
+      "ko": "침착하게 문제를 설명하고 오늘 밤 잘 곳을 구하세요.",
+      "ru": "Сохраняйте спокойствие, объясните проблему и найдите, где переночевать.",
+      "bn": "শান্ত থাকুন, সমস্যাটি বুঝিয়ে বলুন এবং আজ রাতে ঘুমানোর জায়গা ঠিক করুন।",
+      "ur": "پرسکون رہیں، مسئلہ سمجھائیں اور آج رات سونے کی جگہ حاصل کریں۔",
+      "zh-CN": "保持冷静，说明问题，争取今晚有地方睡觉。",
+      "ja": "落ち着いて問題を説明し、今夜寝る場所を確保しましょう。"
     },
     "practice": "Mantenga la calma, explique el problema y consiga un lugar donde dormir esta noche.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích rằng phòng của bạn đã bị giao cho người khác",
           "id": "Jelaskan bahwa kamarmu sudah diberikan ke orang lain",
           "ms": "Terangkan bahawa bilik anda telah diberikan kepada orang lain",
-          "ko": "내 방이 다른 사람에게 배정되었다고 설명하세요"
+          "ko": "내 방이 다른 사람에게 배정되었다고 설명하세요",
+          "ru": "Объясните, что вашу комнату отдали другому",
+          "bn": "বুঝিয়ে বলুন যে আপনার রুম অন্য কাউকে দেওয়া হয়েছে",
+          "ur": "وضاحت کریں کہ آپ کا کمرہ کسی اور کو دے دیا گیا",
+          "zh-CN": "说明你的房间被分给了别人",
+          "ja": "自分の部屋が他の人に渡されたことを説明する"
         },
         "practice": "Explique que su habitación se asignó a otra persona",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Đưa ra bằng chứng đặt phòng",
           "id": "Tunjukkan bukti pemesananmu",
           "ms": "Tunjukkan bukti tempahan anda",
-          "ko": "예약 증명을 보여 주세요"
+          "ko": "예약 증명을 보여 주세요",
+          "ru": "Покажите подтверждение бронирования",
+          "bn": "আপনার বুকিংয়ের প্রমাণ দেখান",
+          "ur": "اپنی بکنگ کا ثبوت دکھائیں",
+          "zh-CN": "出示预订证明",
+          "ja": "予約の証明を見せる"
         },
         "practice": "Muestre el comprobante de su reserva",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Xin một phòng tạm cho đêm nay",
           "id": "Minta kamar sementara untuk malam ini",
           "ms": "Minta bilik sementara untuk malam ini",
-          "ko": "오늘 밤 지낼 임시 방을 요청하세요"
+          "ko": "오늘 밤 지낼 임시 방을 요청하세요",
+          "ru": "Попросите временную комнату на эту ночь",
+          "bn": "আজ রাতের জন্য একটি অস্থায়ী রুম চান",
+          "ur": "آج رات کے لیے عارضی کمرہ مانگیں",
+          "zh-CN": "请求今晚安排一间临时房间",
+          "ja": "今夜の仮の部屋をお願いする"
         },
         "practice": "Pida una habitación temporal para esta noche",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất khi nào vấn đề được giải quyết",
           "id": "Sepakati kapan masalahnya akan diselesaikan",
           "ms": "Setuju bila masalah itu akan diselesaikan",
-          "ko": "문제가 언제 해결될지 합의하세요"
+          "ko": "문제가 언제 해결될지 합의하세요",
+          "ru": "Договоритесь, когда проблему решат",
+          "bn": "সমস্যা কখন সমাধান হবে তা ঠিক করুন",
+          "ur": "طے کریں کہ مسئلہ کب حل ہوگا",
+          "zh-CN": "商定问题何时解决",
+          "ja": "問題がいつ解決するか取り決める"
         },
         "practice": "Acuerden cuándo se resolverá el problema",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Xin lỗi, nhưng đã có người khác ở trong phòng của tôi.",
         "id": "Maaf, tapi sudah ada orang lain di kamar saya.",
         "ms": "Maaf, tetapi sudah ada orang lain di dalam bilik saya.",
-        "ko": "죄송한데요, 제 방에 이미 다른 사람이 있어요."
+        "ko": "죄송한데요, 제 방에 이미 다른 사람이 있어요.",
+        "ru": "Извините, но в моей комнате уже живёт кто-то другой.",
+        "bn": "দুঃখিত, কিন্তু আমার রুমে আগে থেকেই অন্য কেউ আছে।",
+        "ur": "معاف کیجیے، لیکن میرے کمرے میں پہلے سے کوئی اور ہے۔",
+        "zh-CN": "不好意思，我的房间里已经住了别人。",
+        "ja": "すみません、私の部屋にもう別の人がいるんです。"
       },
       "practice": "Disculpe, pero ya hay otra persona en mi habitación.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Đây là xác nhận đặt phòng của trường gửi cho tôi.",
         "id": "Ini konfirmasi pemesanan saya dari universitas.",
         "ms": "Ini pengesahan tempahan saya daripada universiti.",
-        "ko": "여기 학교에서 받은 예약 확인서예요."
+        "ko": "여기 학교에서 받은 예약 확인서예요.",
+        "ru": "Вот подтверждение бронирования от университета.",
+        "bn": "এই যে বিশ্ববিদ্যালয় থেকে আমার বুকিং কনফার্মেশন।",
+        "ur": "یہ یونیورسٹی کی طرف سے میری بکنگ کی تصدیق ہے۔",
+        "zh-CN": "这是学校发给我的预订确认。",
+        "ja": "こちらが大学からの予約確認書です。"
       },
       "practice": "Aquí tiene la confirmación de mi reserva de la universidad.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi biết đã muộn, nhưng tôi không còn chỗ nào khác để đi.",
         "id": "Saya mengerti ini sudah larut, tapi saya tidak punya tempat lain.",
         "ms": "Saya faham sudah lewat, tetapi saya tiada tempat lain untuk pergi.",
-        "ko": "늦은 시간인 건 알지만, 다른 데 갈 곳이 없어요."
+        "ko": "늦은 시간인 건 알지만, 다른 데 갈 곳이 없어요.",
+        "ru": "Я понимаю, что уже поздно, но мне больше некуда идти.",
+        "bn": "বুঝতে পারছি অনেক রাত হয়েছে, কিন্তু আমার যাওয়ার আর কোনো জায়গা নেই।",
+        "ur": "میں سمجھتا ہوں کہ دیر ہو گئی ہے، لیکن میرے پاس جانے کی کوئی اور جگہ نہیں۔",
+        "zh-CN": "我知道已经很晚了，但我没有别的地方可去。",
+        "ja": "遅い時間なのはわかっていますが、他に行く場所がないんです。"
       },
       "practice": "Entiendo que es tarde, pero no tengo otro lugar adonde ir.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi có thể ở tạm một phòng chỉ đêm nay thôi được không?",
         "id": "Bisakah saya menginap di kamar sementara untuk malam ini saja?",
         "ms": "Bolehkah saya tinggal di bilik sementara untuk malam ini sahaja?",
-        "ko": "오늘 밤만 임시 방에서 지낼 수 있을까요?"
+        "ko": "오늘 밤만 임시 방에서 지낼 수 있을까요?",
+        "ru": "Можно мне переночевать во временной комнате только сегодня?",
+        "bn": "আমি কি শুধু আজ রাতের জন্য একটি অস্থায়ী রুমে থাকতে পারি?",
+        "ur": "کیا میں صرف آج رات کے لیے کسی عارضی کمرے میں رہ سکتا ہوں؟",
+        "zh-CN": "我能只在今晚住一间临时房间吗？",
+        "ja": "今夜だけ仮の部屋に泊まってもいいですか？"
       },
       "practice": "¿Podría quedarme en una habitación temporal solo por esta noche?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Khi nào thì phòng của tôi sẵn sàng?",
         "id": "Kapan kira-kira kamar saya sendiri siap?",
         "ms": "Bilakah bilik saya sendiri akan siap?",
-        "ko": "제 방은 언제쯤 준비될까요?"
+        "ko": "제 방은 언제쯤 준비될까요?",
+        "ru": "Когда моя комната будет готова?",
+        "bn": "আমার নিজের রুম কবে নাগাদ তৈরি হবে?",
+        "ur": "میرا اپنا کمرہ کب تک تیار ہوگا؟",
+        "zh-CN": "我自己的房间什么时候能准备好？",
+        "ja": "自分の部屋はいつ頃用意できますか？"
       },
       "practice": "¿Para cuándo estaría lista mi propia habitación?",
       "practice_translations": {

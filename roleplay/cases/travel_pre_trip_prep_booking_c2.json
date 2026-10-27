@@ -18,7 +18,12 @@
     "vi": "Chọn chuyến bay phù hợp",
     "id": "Memilih Penerbangan yang Tepat",
     "ms": "Memilih Penerbangan yang Sesuai",
-    "ko": "알맞은 항공편 고르기"
+    "ko": "알맞은 항공편 고르기",
+    "ru": "Выбор подходящего рейса",
+    "bn": "সঠিক ফ্লাইট বেছে নেওয়া",
+    "ur": "صحیح فلائٹ کا انتخاب",
+    "zh-CN": "选择合适的航班",
+    "ja": "ぴったりのフライトを選ぶ"
   },
   "character": "fox",
   "scenario": "You are comparing flights with a travel agent (AI), who offers a cheap flight with a long layover and a pricier direct flight.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang so sánh các chuyến bay cùng nhân viên tư vấn du lịch (AI), người đưa ra một chuyến giá rẻ nhưng quá cảnh lâu và một chuyến bay thẳng đắt hơn.",
     "id": "Kamu sedang membandingkan penerbangan dengan agen perjalanan (AI), yang menawarkan penerbangan murah dengan transit lama dan penerbangan langsung yang lebih mahal.",
     "ms": "Anda sedang membandingkan penerbangan dengan ejen pelancongan (AI), yang menawarkan penerbangan murah dengan transit yang lama dan penerbangan terus yang lebih mahal.",
-    "ko": "여행사 직원(AI)과 항공편을 비교하고 있습니다. 직원은 경유 시간이 긴 저렴한 항공편과 더 비싼 직항편을 제안합니다."
+    "ko": "여행사 직원(AI)과 항공편을 비교하고 있습니다. 직원은 경유 시간이 긴 저렴한 항공편과 더 비싼 직항편을 제안합니다.",
+    "ru": "Вы сравниваете рейсы с турагентом (AI), который предлагает дешёвый рейс с долгой пересадкой и более дорогой прямой рейс.",
+    "bn": "আপনি একজন ট্রাভেল এজেন্টের (AI) সাথে ফ্লাইট তুলনা করছেন, যিনি দীর্ঘ লেওভারসহ একটি সস্তা ফ্লাইট এবং একটি দামি সরাসরি ফ্লাইটের প্রস্তাব দেন।",
+    "ur": "آپ ایک ٹریول ایجنٹ (AI) کے ساتھ فلائٹس کا موازنہ کر رہے ہیں، جو لمبے اسٹاپ اوور والی ایک سستی فلائٹ اور ایک مہنگی براہِ راست فلائٹ پیش کرتا ہے۔",
+    "zh-CN": "你正在和旅行社顾问（AI）比较航班，对方提供一班转机时间长的便宜航班和一班较贵的直飞航班。",
+    "ja": "旅行代理店のスタッフ（AI）とフライトを比較しています。乗り継ぎ時間の長い格安便と、より高い直行便が提案されています。"
   },
   "mission": {
     "native": "Compare the options, ask about luggage and book the flight that suits you.",
@@ -60,7 +70,12 @@
       "vi": "So sánh các lựa chọn, hỏi về hành lý và đặt chuyến bay phù hợp với bạn.",
       "id": "Bandingkan pilihannya, tanyakan soal bagasi, dan pesan penerbangan yang cocok untukmu.",
       "ms": "Bandingkan pilihan, tanya tentang bagasi dan tempah penerbangan yang sesuai untuk anda.",
-      "ko": "선택지를 비교하고, 수하물에 대해 묻고, 나에게 맞는 항공편을 예약하세요."
+      "ko": "선택지를 비교하고, 수하물에 대해 묻고, 나에게 맞는 항공편을 예약하세요.",
+      "ru": "Сравните варианты, спросите о багаже и забронируйте подходящий рейс.",
+      "bn": "বিকল্পগুলো তুলনা করুন, লাগেজ সম্পর্কে জিজ্ঞেস করুন এবং আপনার উপযোগী ফ্লাইট বুক করুন।",
+      "ur": "اختیارات کا موازنہ کریں، سامان کے بارے میں پوچھیں اور اپنے لیے موزوں فلائٹ بُک کریں۔",
+      "zh-CN": "比较各个选项，询问行李情况，并预订适合你的航班。",
+      "ja": "選択肢を比較し、手荷物について尋ね、自分に合ったフライトを予約しましょう。"
     },
     "practice": "Compare las opciones, pregunte por el equipaje y reserve el vuelo que más le convenga.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi sự khác nhau giữa các chuyến bay",
           "id": "Tanyakan perbedaan kedua penerbangan",
           "ms": "Tanya tentang perbezaan antara penerbangan itu",
-          "ko": "항공편들의 차이점을 물어보세요"
+          "ko": "항공편들의 차이점을 물어보세요",
+          "ru": "Спросите, чем отличаются рейсы",
+          "bn": "ফ্লাইটগুলোর মধ্যে পার্থক্য জিজ্ঞেস করুন",
+          "ur": "فلائٹس کے درمیان فرق کے بارے میں پوچھیں",
+          "zh-CN": "询问航班之间的区别",
+          "ja": "フライトの違いを尋ねましょう"
         },
         "practice": "Pregunte la diferencia entre los vuelos",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi có bao gồm hành lý ký gửi không",
           "id": "Tanyakan apakah sudah termasuk bagasi",
           "ms": "Tanya sama ada bagasi daftar masuk disertakan",
-          "ko": "위탁 수하물이 포함되어 있는지 물어보세요"
+          "ko": "위탁 수하물이 포함되어 있는지 물어보세요",
+          "ru": "Спросите, включён ли багаж",
+          "bn": "চেক-ইন লাগেজ অন্তর্ভুক্ত কিনা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا چیک اِن سامان شامل ہے",
+          "zh-CN": "询问是否包含托运行李",
+          "ja": "受託手荷物が含まれているか尋ねましょう"
         },
         "practice": "Pregunte si incluye equipaje documentado",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Chọn một chuyến bay",
           "id": "Pilih salah satu penerbangan",
           "ms": "Pilih salah satu penerbangan",
-          "ko": "항공편 중 하나를 고르세요"
+          "ko": "항공편 중 하나를 고르세요",
+          "ru": "Выберите один из рейсов",
+          "bn": "একটি ফ্লাইট বেছে নিন",
+          "ur": "فلائٹس میں سے ایک کا انتخاب کریں",
+          "zh-CN": "选择其中一班航班",
+          "ja": "フライトを1つ選びましょう"
         },
         "practice": "Elija uno de los vuelos",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Xin xác nhận đặt vé",
           "id": "Minta konfirmasi pemesanan",
           "ms": "Minta pengesahan tempahan",
-          "ko": "예약 확인서를 요청하세요"
+          "ko": "예약 확인서를 요청하세요",
+          "ru": "Попросите подтверждение бронирования",
+          "bn": "বুকিং নিশ্চিতকরণ চান",
+          "ur": "بُکنگ کی تصدیق مانگیں",
+          "zh-CN": "索要预订确认",
+          "ja": "予約確認書を依頼しましょう"
         },
         "practice": "Pida la confirmación de la reserva",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Thời gian quá cảnh là bao lâu?",
         "id": "Berapa lama transitnya?",
         "ms": "Berapa lama masa transitnya?",
-        "ko": "경유 시간이 얼마나 돼요?"
+        "ko": "경유 시간이 얼마나 돼요?",
+        "ru": "Сколько длится пересадка?",
+        "bn": "লেওভার কতক্ষণের?",
+        "ur": "اسٹاپ اوور کتنا لمبا ہے؟",
+        "zh-CN": "转机要多长时间？",
+        "ja": "乗り継ぎ時間はどのくらいですか？"
       },
       "practice": "¿Cuánto dura la escala?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Vé có bao gồm hành lý ký gửi không?",
         "id": "Apakah tiketnya sudah termasuk satu bagasi?",
         "ms": "Adakah tiket ini termasuk beg daftar masuk?",
-        "ko": "항공권에 위탁 수하물이 포함되어 있나요?"
+        "ko": "항공권에 위탁 수하물이 포함되어 있나요?",
+        "ru": "Включён ли в билет сдаваемый багаж?",
+        "bn": "টিকিটে কি একটি চেক-ইন ব্যাগ অন্তর্ভুক্ত?",
+        "ur": "کیا ٹکٹ میں ایک چیک اِن بیگ شامل ہے؟",
+        "zh-CN": "机票包含一件托运行李吗？",
+        "ja": "チケットに受託手荷物は含まれていますか？"
       },
       "practice": "¿El boleto incluye una maleta documentada?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Tôi thà trả thêm một chút để bay thẳng.",
         "id": "Saya lebih baik bayar sedikit lebih mahal untuk penerbangan langsung.",
         "ms": "Saya lebih suka bayar lebih sedikit untuk penerbangan terus.",
-        "ko": "조금 더 내더라도 직항편이 좋아요."
+        "ko": "조금 더 내더라도 직항편이 좋아요.",
+        "ru": "Я лучше заплачу немного больше за прямой рейс.",
+        "bn": "আমি বরং সরাসরি ফ্লাইটের জন্য একটু বেশি দেব।",
+        "ur": "میں براہِ راست فلائٹ کے لیے تھوڑا زیادہ دینا پسند کروں گا۔",
+        "zh-CN": "我宁愿多付一点钱坐直飞航班。",
+        "ja": "少し高くても直行便のほうがいいです。"
       },
       "practice": "Prefiero pagar un poco más por un vuelo directo.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Anh/chị gửi xác nhận qua email cho tôi được không?",
         "id": "Bisa kirimkan konfirmasinya lewat email?",
         "ms": "Boleh e-melkan pengesahan kepada saya?",
-        "ko": "예약 확인서를 이메일로 보내 주실 수 있나요?"
+        "ko": "예약 확인서를 이메일로 보내 주실 수 있나요?",
+        "ru": "Не могли бы вы прислать мне подтверждение по электронной почте?",
+        "bn": "আপনি কি আমাকে নিশ্চিতকরণটি ইমেইল করতে পারবেন?",
+        "ur": "کیا آپ مجھے تصدیق ای میل کر سکتے ہیں؟",
+        "zh-CN": "可以把确认信息发到我的邮箱吗？",
+        "ja": "確認書をメールで送っていただけますか？"
       },
       "practice": "¿Podría enviarme la confirmación por correo?",
       "practice_translations": {

@@ -29,7 +29,12 @@
         "vi": "Công việc",
         "id": "Pekerjaan",
         "ms": "Kerja",
-        "ko": "직장"
+        "ko": "직장",
+        "ru": "Работа",
+        "bn": "কাজ",
+        "ur": "ملازمت",
+        "zh-CN": "工作",
+        "ja": "仕事"
       },
       "description": "Practice interviews, first days, and everyday moments on the job",
       "description_translations": {
@@ -49,7 +54,12 @@
         "vi": "Luyện phỏng vấn, ngày đầu đi làm và những tình huống thường ngày nơi công sở",
         "id": "Latihan wawancara, hari pertama, dan momen sehari-hari di tempat kerja",
         "ms": "Berlatih temu duga, hari pertama dan detik harian di tempat kerja",
-        "ko": "면접, 첫 출근, 직장의 일상적인 순간을 연습해요"
+        "ko": "면접, 첫 출근, 직장의 일상적인 순간을 연습해요",
+        "ru": "Практикуйте собеседования, первые дни и повседневные ситуации на работе",
+        "bn": "চাকরির ইন্টারভিউ, প্রথম দিন এবং কর্মক্ষেত্রের দৈনন্দিন মুহূর্ত অনুশীলন করুন",
+        "ur": "انٹرویو، پہلے دن اور کام کی روزمرہ صورتحال کی مشق کریں",
+        "zh-CN": "练习面试、入职头几天和职场日常情景",
+        "ja": "面接、初出勤、職場での日常場面を練習しましょう"
       },
       "icon": "roleplay/images/categories/work.webp",
       "iconBackground": "#F0EBFF",
@@ -75,7 +85,12 @@
             "vi": "Phỏng vấn xin việc",
             "id": "Wawancara Kerja",
             "ms": "Temu Duga Kerja",
-            "ko": "면접"
+            "ko": "면접",
+            "ru": "Собеседование",
+            "bn": "চাকরির ইন্টারভিউ",
+            "ur": "ملازمت کا انٹرویو",
+            "zh-CN": "求职面试",
+            "ja": "就職面接"
           },
           "image": "roleplay/images/situations/job_interview.webp",
           "cases": [
@@ -105,7 +120,12 @@
             "vi": "Ngày đầu đi làm",
             "id": "Hari Pertama Kerja",
             "ms": "Hari Pertama Bekerja",
-            "ko": "첫 출근"
+            "ko": "첫 출근",
+            "ru": "Первый рабочий день",
+            "bn": "কাজের প্রথম দিন",
+            "ur": "کام کا پہلا دن",
+            "zh-CN": "上班第一天",
+            "ja": "初出勤の日"
           },
           "image": "roleplay/images/situations/first_day_at_work.webp",
           "cases": [
@@ -133,7 +153,12 @@
             "vi": "Làm việc cùng đồng nghiệp",
             "id": "Bekerja Sama dengan Rekan Kerja",
             "ms": "Bekerjasama dengan Rakan Sekerja",
-            "ko": "동료와 함께 일하기"
+            "ko": "동료와 함께 일하기",
+            "ru": "Работа с коллегами",
+            "bn": "সহকর্মীদের সাথে একসাথে কাজ",
+            "ur": "ساتھیوں کے ساتھ مل کر کام",
+            "zh-CN": "与同事协作",
+            "ja": "同僚と協力する"
           },
           "image": "roleplay/images/situations/work_together_with_colleagues.webp",
           "cases": [
@@ -162,7 +187,12 @@
             "vi": "Báo cáo tiến độ với quản lý",
             "id": "Melaporkan Progres ke Manajer",
             "ms": "Melaporkan Kemajuan kepada Pengurus",
-            "ko": "상사에게 진행 상황 보고하기"
+            "ko": "상사에게 진행 상황 보고하기",
+            "ru": "Отчёт о ходе работы руководителю",
+            "bn": "ম্যানেজারকে অগ্রগতি জানানো",
+            "ur": "مینیجر کو پیش رفت کی رپورٹ",
+            "zh-CN": "向经理汇报进度",
+            "ja": "上司への進捗報告"
           },
           "image": "roleplay/images/situations/reporting_progress_to_a_manager.webp",
           "cases": [
@@ -191,7 +221,12 @@
             "vi": "Những vấn đề riêng khi tìm việc",
             "id": "Masalah Unik Saat Mencari Kerja",
             "ms": "Isu Unik dalam Mencari Kerja",
-            "ko": "구직 중 겪는 특별한 문제"
+            "ko": "구직 중 겪는 특별한 문제",
+            "ru": "Особые трудности поиска работы",
+            "bn": "চাকরি খোঁজার বিশেষ সমস্যা",
+            "ur": "ملازمت کی تلاش کے خاص مسائل",
+            "zh-CN": "求职中的特殊难题",
+            "ja": "就職活動ならではの課題"
           },
           "image": "roleplay/images/situations/unique_issues_in_the_job_search.webp",
           "cases": [
@@ -220,7 +255,12 @@
             "vi": "Hiểu lời mời làm việc & phúc lợi",
             "id": "Memahami Tawaran Kerja & Tunjangan",
             "ms": "Memahami Tawaran Kerja & Faedah",
-            "ko": "채용 제안과 복리후생 이해하기"
+            "ko": "채용 제안과 복리후생 이해하기",
+            "ru": "Как понять предложение о работе и льготы",
+            "bn": "চাকরির অফার ও সুবিধা বোঝা",
+            "ur": "ملازمت کی پیشکش اور مراعات کو سمجھنا",
+            "zh-CN": "了解工作邀约与福利",
+            "ja": "内定条件と福利厚生を理解する"
           },
           "image": "roleplay/images/situations/understanding_job_offers_benefits.webp",
           "cases": [
@@ -249,7 +289,12 @@
             "vi": "Hiểu quyền lợi & văn hóa nơi làm việc",
             "id": "Mengenal Hak & Budaya Kerja",
             "ms": "Mengenali Hak & Budaya Tempat Kerja",
-            "ko": "직장 내 권리와 문화 알기"
+            "ko": "직장 내 권리와 문화 알기",
+            "ru": "Ваши права и культура на работе",
+            "bn": "কর্মক্ষেত্রে আপনার অধিকার ও সংস্কৃতি জানা",
+            "ur": "کام کی جگہ پر اپنے حقوق اور ثقافت جاننا",
+            "zh-CN": "了解职场权利与文化",
+            "ja": "職場での権利と文化を知る"
           },
           "image": "roleplay/images/situations/knowing_your_workplace_rights_culture.webp",
           "cases": [
@@ -280,7 +325,12 @@
         "vi": "Đời thường \"viral\"",
         "id": "Kehidupan Sehari-hari yang Viral",
         "ms": "Kehidupan Harian Viral",
-        "ko": "화제의 일상"
+        "ko": "화제의 일상",
+        "ru": "Вирусная повседневность",
+        "bn": "ভাইরাল দৈনন্দিন জীবন",
+        "ur": "وائرل روزمرہ زندگی",
+        "zh-CN": "爆笑日常",
+        "ja": "バズる日常"
       },
       "description": "Handle the weird, awkward, and unexpected in daily life",
       "description_translations": {
@@ -300,7 +350,12 @@
         "vi": "Xử lý những tình huống kỳ quặc, khó xử và bất ngờ trong cuộc sống",
         "id": "Hadapi hal aneh, canggung, dan tak terduga dalam keseharian",
         "ms": "Tangani perkara pelik, janggal dan tidak dijangka dalam kehidupan harian",
-        "ko": "일상 속 황당하고 어색하고 뜻밖의 상황에 대처해요"
+        "ko": "일상 속 황당하고 어색하고 뜻밖의 상황에 대처해요",
+        "ru": "Справляйтесь со странными, неловкими и неожиданными ситуациями в жизни",
+        "bn": "দৈনন্দিন জীবনের অদ্ভুত, বিব্রতকর ও অপ্রত্যাশিত পরিস্থিতি সামলান",
+        "ur": "روزمرہ زندگی کی عجیب، شرمندہ کن اور غیر متوقع صورتحال سے نمٹیں",
+        "zh-CN": "应对日常生活中的奇怪、尴尬和意外情况",
+        "ja": "日常の奇妙で気まずい、予想外の場面に対応しましょう"
       },
       "icon": "roleplay/images/categories/daily_life.webp",
       "iconBackground": "#EAEBF9",
@@ -326,7 +381,12 @@
             "vi": "Đối mặt với người hàng xóm kỳ lạ",
             "id": "Menegur Tetangga yang Aneh",
             "ms": "Berdepan Jiran yang Pelik",
-            "ko": "별난 이웃과 담판 짓기"
+            "ko": "별난 이웃과 담판 짓기",
+            "ru": "Разговор со странным соседом",
+            "bn": "অদ্ভুত প্রতিবেশীর মুখোমুখি",
+            "ur": "ایک عجیب پڑوسی کا سامنا",
+            "zh-CN": "面对古怪的邻居",
+            "ja": "変わった隣人と向き合う"
           },
           "image": "roleplay/images/situations/confronting_a_peculiar_neighbor.webp",
           "cases": [
@@ -355,7 +415,12 @@
             "vi": "Đơn đồ ăn giao sai một cách khó tin",
             "id": "Pesanan Makanan yang Salah Parah",
             "ms": "Penghantaran Makanan yang Sangat Salah",
-            "ko": "황당하게 잘못 온 음식 배달"
+            "ko": "황당하게 잘못 온 음식 배달",
+            "ru": "Доставка еды перепутала всё до абсурда",
+            "bn": "খাবার ডেলিভারি অদ্ভুতভাবে ভুল",
+            "ur": "کھانے کی ڈیلیوری عجیب حد تک غلط",
+            "zh-CN": "外卖送得离谱地错",
+            "ja": "フードデリバリーがありえないほど間違っている"
           },
           "image": "roleplay/images/situations/the_food_delivery_is_bizarrely_wrong.webp",
           "cases": [
@@ -386,7 +451,12 @@
             "vi": "Gọi món ở quán cà phê \"Hipster\"",
             "id": "Memesan di Kafe \"Hipster\"",
             "ms": "Memesan di Kafe \"Hipster\"",
-            "ko": "\"힙스터\" 카페에서 주문하기"
+            "ko": "\"힙스터\" 카페에서 주문하기",
+            "ru": "Заказ в «хипстерском» кафе",
+            "bn": "\"হিপস্টার\" ক্যাফেতে অর্ডার",
+            "ur": "\"ہپسٹر\" کیفے میں آرڈر",
+            "zh-CN": "在“文艺”咖啡馆点单",
+            "ja": "「ヒップスター」カフェで注文"
           },
           "image": "roleplay/images/situations/ordering_at_a_hipster_cafe.webp",
           "cases": [
@@ -415,7 +485,12 @@
             "vi": "Drama ở công viên chó",
             "id": "Drama Sosial di Taman Anjing",
             "ms": "Drama Sosial di Taman Anjing",
-            "ko": "애견 공원의 사교 드라마"
+            "ko": "애견 공원의 사교 드라마",
+            "ru": "Драма на собачьей площадке",
+            "bn": "কুকুর পার্কে সামাজিক নাটক",
+            "ur": "ڈاگ پارک میں سماجی ڈراما",
+            "zh-CN": "狗狗公园里的社交风波",
+            "ja": "ドッグパークでの人間ドラマ"
           },
           "image": "roleplay/images/situations/social_drama_at_the_dog_park.webp",
           "cases": [
@@ -444,7 +519,12 @@
             "vi": "Buổi hẹn giấu mặt khó xử nhất",
             "id": "Kencan Buta Paling Canggung",
             "ms": "Janji Temu Buta Paling Janggal",
-            "ko": "역대급으로 어색한 소개팅"
+            "ko": "역대급으로 어색한 소개팅",
+            "ru": "Самое неловкое свидание вслепую",
+            "bn": "সবচেয়ে বিব্রতকর ব্লাইন্ড ডেট",
+            "ur": "اب تک کی سب سے عجیب بلائنڈ ڈیٹ",
+            "zh-CN": "史上最尴尬的相亲",
+            "ja": "史上最も気まずいブラインドデート"
           },
           "image": "roleplay/images/situations/the_most_awkward_blind_date_ever.webp",
           "cases": [
@@ -473,7 +553,12 @@
             "vi": "Ra lệnh cho loa thông minh \"quá thông minh\"",
             "id": "Meminta Permohonan ke Speaker Pintar",
             "ms": "Membuat Hajat kepada Pembesar Suara Pintar",
-            "ko": "똑똑한 스피커에게 소원 빌기"
+            "ko": "똑똑한 스피커에게 소원 빌기",
+            "ru": "Желание для слишком умной колонки",
+            "bn": "অতি স্মার্ট স্পিকারের কাছে ইচ্ছা প্রকাশ",
+            "ur": "حد سے زیادہ ذہین اسپیکر سے خواہش",
+            "zh-CN": "向“过分聪明”的智能音箱许愿",
+            "ja": "賢すぎるスピーカーにお願い"
           },
           "image": "roleplay/images/situations/making_a_wish_to_a_smarter_speaker.webp",
           "cases": [
@@ -504,7 +589,12 @@
         "vi": "Du học",
         "id": "Kuliah di Luar Negeri",
         "ms": "Belajar di Luar Negara",
-        "ko": "유학"
+        "ko": "유학",
+        "ru": "Учёба за рубежом",
+        "bn": "বিদেশে পড়াশোনা",
+        "ur": "بیرون ملک تعلیم",
+        "zh-CN": "留学",
+        "ja": "留学"
       },
       "description": "From campus arrival to student life, admin, and career prep",
       "description_translations": {
@@ -524,7 +614,12 @@
         "vi": "Từ ngày đến trường đến đời sống sinh viên, thủ tục và chuẩn bị nghề nghiệp",
         "id": "Dari tiba di kampus hingga kehidupan mahasiswa, administrasi, dan persiapan karier",
         "ms": "Dari tiba di kampus hingga kehidupan pelajar, urusan pentadbiran dan persediaan kerjaya",
-        "ko": "캠퍼스 도착부터 학생 생활, 행정 업무, 취업 준비까지"
+        "ko": "캠퍼스 도착부터 학생 생활, 행정 업무, 취업 준비까지",
+        "ru": "От прибытия в кампус до студенческой жизни, формальностей и подготовки к карьере",
+        "bn": "ক্যাম্পাসে পৌঁছানো থেকে ছাত্রজীবন, প্রশাসনিক কাজ ও ক্যারিয়ার প্রস্তুতি",
+        "ur": "کیمپس آمد سے لے کر طالب علمی زندگی، دفتری امور اور کیریئر کی تیاری تک",
+        "zh-CN": "从抵达校园到学生生活、行政手续和职业准备",
+        "ja": "キャンパス到着から学生生活、手続き、就職準備まで"
       },
       "icon": "roleplay/images/categories/study_abroad.webp",
       "iconBackground": "#D7FDFE",
@@ -550,7 +645,12 @@
             "vi": "Đến trường & định hướng",
             "id": "Tiba di Kampus & Orientasi",
             "ms": "Tiba di Kampus & Orientasi",
-            "ko": "캠퍼스 도착과 오리엔테이션"
+            "ko": "캠퍼스 도착과 오리엔테이션",
+            "ru": "Прибытие в кампус и ориентация",
+            "bn": "ক্যাম্পাসে আগমন ও ওরিয়েন্টেশন",
+            "ur": "کیمپس آمد اور تعارفی پروگرام",
+            "zh-CN": "抵达校园与新生指导",
+            "ja": "キャンパス到着とオリエンテーション"
           },
           "image": "roleplay/images/situations/campus_arrival_orientation.webp",
           "cases": [
@@ -579,7 +679,12 @@
             "vi": "Sinh hoạt & đời sống xã hội",
             "id": "Kehidupan Sehari-hari & Sosial",
             "ms": "Kehidupan Harian & Sosial",
-            "ko": "일상과 사교 생활"
+            "ko": "일상과 사교 생활",
+            "ru": "Повседневная и общественная жизнь",
+            "bn": "দৈনন্দিন ও সামাজিক জীবন",
+            "ur": "روزمرہ اور سماجی زندگی",
+            "zh-CN": "日常与社交生活",
+            "ja": "日常生活と交流"
           },
           "image": "roleplay/images/situations/daily_social_life.webp",
           "cases": [
@@ -608,7 +713,12 @@
             "vi": "Thủ tục hành chính & tìm trợ giúp",
             "id": "Administrasi & Meminta Bantuan",
             "ms": "Pentadbiran & Mendapatkan Bantuan",
-            "ko": "행정 업무와 도움 요청"
+            "ko": "행정 업무와 도움 요청",
+            "ru": "Администрация и обращение за помощью",
+            "bn": "প্রশাসন ও সাহায্য চাওয়া",
+            "ur": "دفتری امور اور مدد حاصل کرنا",
+            "zh-CN": "行政事务与寻求帮助",
+            "ja": "事務手続きと相談"
           },
           "image": "roleplay/images/situations/administration_seeking_help.webp",
           "cases": [
@@ -637,7 +747,12 @@
             "vi": "Ngoài trường & chuẩn bị nghề nghiệp",
             "id": "Luar Kampus & Persiapan Karier",
             "ms": "Luar Kampus & Persediaan Kerjaya",
-            "ko": "캠퍼스 밖 생활과 취업 준비"
+            "ko": "캠퍼스 밖 생활과 취업 준비",
+            "ru": "Вне кампуса и подготовка к карьере",
+            "bn": "ক্যাম্পাসের বাইরে ও ক্যারিয়ার প্রস্তুতি",
+            "ur": "کیمپس سے باہر اور کیریئر کی تیاری",
+            "zh-CN": "校外生活与职业准备",
+            "ja": "キャンパス外と就職準備"
           },
           "image": "roleplay/images/situations/off_campus_career_prep.webp",
           "cases": [
@@ -668,7 +783,12 @@
         "vi": "Gia đình",
         "id": "Keluarga",
         "ms": "Keluarga",
-        "ko": "가족"
+        "ko": "가족",
+        "ru": "Семья",
+        "bn": "পরিবার",
+        "ur": "خاندان",
+        "zh-CN": "家庭",
+        "ja": "家族"
       },
       "description": "Talk to schools, handle health, and find community support",
       "description_translations": {
@@ -688,7 +808,12 @@
         "vi": "Trao đổi với nhà trường, chăm lo sức khỏe và tìm hỗ trợ cộng đồng",
         "id": "Berkomunikasi dengan sekolah, urusan kesehatan, dan cari dukungan komunitas",
         "ms": "Berbincang dengan sekolah, urus kesihatan dan cari sokongan komuniti",
-        "ko": "학교와 소통하고, 건강을 챙기고, 지역 사회 지원을 찾아요"
+        "ko": "학교와 소통하고, 건강을 챙기고, 지역 사회 지원을 찾아요",
+        "ru": "Общайтесь со школой, заботьтесь о здоровье и находите поддержку сообщества",
+        "bn": "স্কুলের সাথে কথা বলুন, স্বাস্থ্যের যত্ন নিন এবং কমিউনিটির সহায়তা খুঁজুন",
+        "ur": "اسکول سے بات کریں، صحت کا خیال رکھیں اور کمیونٹی سے مدد حاصل کریں",
+        "zh-CN": "与学校沟通、照顾健康、寻找社区支持",
+        "ja": "学校とやり取りし、健康を管理し、地域の支援を見つけましょう"
       },
       "icon": "roleplay/images/categories/family.webp",
       "iconBackground": "#FFF4F8",
@@ -714,7 +839,12 @@
             "vi": "Trao đổi với nhà trường",
             "id": "Berkomunikasi dengan Sekolah",
             "ms": "Berkomunikasi dengan Sekolah",
-            "ko": "학교와 소통하기"
+            "ko": "학교와 소통하기",
+            "ru": "Общение со школой",
+            "bn": "স্কুলের সাথে যোগাযোগ",
+            "ur": "اسکول سے رابطہ",
+            "zh-CN": "与学校沟通",
+            "ja": "学校とのコミュニケーション"
           },
           "image": "roleplay/images/situations/communicating_with_the_school.webp",
           "cases": [
@@ -743,7 +873,12 @@
             "vi": "Chăm lo sức khỏe cho con",
             "id": "Mengurus Kesehatan Anak",
             "ms": "Mengurus Kesihatan Anak Anda",
-            "ko": "아이의 건강 챙기기"
+            "ko": "아이의 건강 챙기기",
+            "ru": "Забота о здоровье ребёнка",
+            "bn": "সন্তানের স্বাস্থ্যের যত্ন",
+            "ur": "بچے کی صحت کا خیال",
+            "zh-CN": "照顾孩子的健康",
+            "ja": "子どもの健康管理"
           },
           "image": "roleplay/images/situations/handling_your_child_s_health.webp",
           "cases": [
@@ -772,7 +907,12 @@
             "vi": "Tìm hiểu nguồn hỗ trợ cộng đồng",
             "id": "Memahami Layanan Komunitas",
             "ms": "Memahami Sumber Komuniti",
-            "ko": "지역 사회 지원 알아보기"
+            "ko": "지역 사회 지원 알아보기",
+            "ru": "Ресурсы местного сообщества",
+            "bn": "কমিউনিটির সুযোগ-সুবিধা বোঝা",
+            "ur": "کمیونٹی وسائل کو سمجھنا",
+            "zh-CN": "了解社区资源",
+            "ja": "地域の支援を知る"
           },
           "image": "roleplay/images/situations/understanding_community_resources.webp",
           "cases": [
@@ -803,7 +943,12 @@
         "vi": "Xã hội & văn hóa",
         "id": "Masyarakat & Budaya",
         "ms": "Masyarakat & Budaya",
-        "ko": "사회와 문화"
+        "ko": "사회와 문화",
+        "ru": "Общество и культура",
+        "bn": "সমাজ ও সংস্কৃতি",
+        "ur": "معاشرہ اور ثقافت",
+        "zh-CN": "社会与文化",
+        "ja": "社会と文化"
       },
       "description": "Understand local laws, customs, and public services",
       "description_translations": {
@@ -823,7 +968,12 @@
         "vi": "Hiểu luật lệ, phong tục địa phương và các dịch vụ công",
         "id": "Pahami hukum setempat, adat istiadat, dan layanan publik",
         "ms": "Fahami undang-undang, adat dan perkhidmatan awam tempatan",
-        "ko": "현지 법률, 관습, 공공 서비스를 이해해요"
+        "ko": "현지 법률, 관습, 공공 서비스를 이해해요",
+        "ru": "Разберитесь в местных законах, обычаях и госуслугах",
+        "bn": "স্থানীয় আইন, রীতিনীতি ও সরকারি সেবা বুঝুন",
+        "ur": "مقامی قوانین، رسم و رواج اور سرکاری خدمات کو سمجھیں",
+        "zh-CN": "了解当地法律、习俗和公共服务",
+        "ja": "地元の法律、習慣、公共サービスを理解しましょう"
       },
       "icon": "roleplay/images/categories/society.webp",
       "iconBackground": "#FFFFEA",
@@ -849,7 +999,12 @@
             "vi": "Hiểu luật lệ & quyền lợi thường ngày",
             "id": "Memahami Hukum & Hak Sehari-hari",
             "ms": "Memahami Undang-undang & Hak Harian",
-            "ko": "생활 속 법률과 권리 이해하기"
+            "ko": "생활 속 법률과 권리 이해하기",
+            "ru": "Повседневные законы и права",
+            "bn": "দৈনন্দিন আইন ও অধিকার বোঝা",
+            "ur": "روزمرہ قوانین اور حقوق کو سمجھنا",
+            "zh-CN": "了解日常法律与权利",
+            "ja": "身近な法律と権利を知る"
           },
           "image": "roleplay/images/situations/understanding_everyday_laws_rights.webp",
           "cases": [
@@ -878,7 +1033,12 @@
             "vi": "Thích nghi với phong tục & phép lịch sự",
             "id": "Beradaptasi dengan Adat & Etiket Sosial",
             "ms": "Menyesuaikan Diri dengan Adat & Etika Sosial",
-            "ko": "사회 관습과 예절에 적응하기"
+            "ko": "사회 관습과 예절에 적응하기",
+            "ru": "Адаптация к обычаям и этикету",
+            "bn": "সামাজিক রীতি ও শিষ্টাচারে মানিয়ে নেওয়া",
+            "ur": "سماجی رسوم اور آداب کے مطابق ڈھلنا",
+            "zh-CN": "适应社会习俗与礼仪",
+            "ja": "社会の習慣とマナーに慣れる"
           },
           "image": "roleplay/images/situations/adapting_to_social_customs_etiquette.webp",
           "cases": [
@@ -907,7 +1067,12 @@
             "vi": "Sử dụng dịch vụ công & xử lý tình huống",
             "id": "Mengurus Layanan Publik & Berbagai Situasi",
             "ms": "Mengendalikan Perkhidmatan Awam & Situasi",
-            "ko": "공공 서비스와 상황 대처하기"
+            "ko": "공공 서비스와 상황 대처하기",
+            "ru": "Госуслуги и типичные ситуации",
+            "bn": "সরকারি সেবা ও বিভিন্ন পরিস্থিতি সামলানো",
+            "ur": "سرکاری خدمات اور حالات سے نمٹنا",
+            "zh-CN": "使用公共服务与应对各种情况",
+            "ja": "公共サービスの利用と対応"
           },
           "image": "roleplay/images/situations/navigating_public_services_situation.webp",
           "cases": [
@@ -938,7 +1103,12 @@
         "vi": "Di trú",
         "id": "Imigrasi",
         "ms": "Imigresen",
-        "ko": "이민"
+        "ko": "이민",
+        "ru": "Иммиграция",
+        "bn": "অভিবাসন",
+        "ur": "امیگریشن",
+        "zh-CN": "移民",
+        "ja": "移民"
       },
       "description": "Navigate lawyers, USCIS, and the immigration process",
       "description_translations": {
@@ -958,7 +1128,12 @@
         "vi": "Làm việc với luật sư, USCIS và quy trình di trú",
         "id": "Hadapi pengacara, USCIS, dan proses imigrasi",
         "ms": "Berurusan dengan peguam, USCIS dan proses imigresen",
-        "ko": "변호사, USCIS, 이민 절차를 헤쳐 나가요"
+        "ko": "변호사, USCIS, 이민 절차를 헤쳐 나가요",
+        "ru": "Разберитесь с адвокатами, USCIS и иммиграционным процессом",
+        "bn": "আইনজীবী, USCIS ও অভিবাসন প্রক্রিয়া সামলান",
+        "ur": "وکلاء، USCIS اور امیگریشن کے عمل سے نمٹیں",
+        "zh-CN": "应对律师、USCIS 和移民流程",
+        "ja": "弁護士、USCIS、移民手続きに対応しましょう"
       },
       "icon": "roleplay/images/categories/immigration.webp",
       "iconBackground": "#EDFFF3",
@@ -984,7 +1159,12 @@
             "vi": "Tư vấn với luật sư di trú",
             "id": "Konsultasi dengan Pengacara Imigrasi",
             "ms": "Berunding dengan Peguam Imigresen",
-            "ko": "이민 변호사와 상담하기"
+            "ko": "이민 변호사와 상담하기",
+            "ru": "Консультация с иммиграционным адвокатом",
+            "bn": "অভিবাসন আইনজীবীর পরামর্শ নেওয়া",
+            "ur": "امیگریشن وکیل سے مشاورت",
+            "zh-CN": "咨询移民律师",
+            "ja": "移民弁護士への相談"
           },
           "image": "roleplay/images/situations/consulting_with_an_immigration_lawyer.webp",
           "cases": [
@@ -1013,7 +1193,12 @@
             "vi": "Giải quyết các vấn đề với USCIS",
             "id": "Mengurus Urusan USCIS",
             "ms": "Menguruskan Hal USCIS",
-            "ko": "USCIS 업무 처리하기"
+            "ko": "USCIS 업무 처리하기",
+            "ru": "Решение вопросов с USCIS",
+            "bn": "USCIS সংক্রান্ত বিষয় সামলানো",
+            "ur": "USCIS کے معاملات نمٹانا",
+            "zh-CN": "处理 USCIS 事务",
+            "ja": "USCISでの手続き"
           },
           "image": "roleplay/images/situations/dealing_with_uscis_matters.webp",
           "cases": [
@@ -1044,7 +1229,12 @@
         "vi": "Học thuật",
         "id": "Akademik",
         "ms": "Akademik",
-        "ko": "학업"
+        "ko": "학업",
+        "ru": "Учёба и наука",
+        "bn": "শিক্ষা ও গবেষণা",
+        "ur": "تعلیم و تحقیق",
+        "zh-CN": "学术",
+        "ja": "アカデミック"
       },
       "description": "Practice class, conferences, research, and academic exchange",
       "description_translations": {
@@ -1064,7 +1254,12 @@
         "vi": "Luyện tập trên lớp, hội nghị, nghiên cứu và trao đổi học thuật",
         "id": "Latihan di kelas, konferensi, penelitian, dan diskusi akademik",
         "ms": "Berlatih untuk kelas, persidangan, penyelidikan dan pertukaran akademik",
-        "ko": "수업, 학회, 연구, 학술 교류를 연습해요"
+        "ko": "수업, 학회, 연구, 학술 교류를 연습해요",
+        "ru": "Практикуйтесь на занятиях, конференциях, в исследованиях и научном обмене",
+        "bn": "ক্লাস, সম্মেলন, গবেষণা ও একাডেমিক আদান-প্রদান অনুশীলন করুন",
+        "ur": "کلاس، کانفرنس، تحقیق اور علمی تبادلے کی مشق کریں",
+        "zh-CN": "练习课堂、会议、研究和学术交流",
+        "ja": "授業、学会、研究、学術交流を練習しましょう"
       },
       "icon": "roleplay/images/categories/academics.webp",
       "iconBackground": "#FEEED7",
@@ -1090,7 +1285,12 @@
             "vi": "Lớp học & học thuật",
             "id": "Kelas & Akademik",
             "ms": "Bilik Darjah & Akademik",
-            "ko": "강의실과 학업"
+            "ko": "강의실과 학업",
+            "ru": "Занятия и учёба",
+            "bn": "ক্লাসরুম ও শিক্ষা",
+            "ur": "کلاس روم اور تعلیم",
+            "zh-CN": "课堂与学术",
+            "ja": "授業と学業"
           },
           "image": "roleplay/images/situations/classroom_academics.webp",
           "cases": [
@@ -1119,7 +1319,12 @@
             "vi": "Giao lưu & kết nối tại hội nghị",
             "id": "Bersosialisasi & Networking di Konferensi",
             "ms": "Bersosial & Menjalin Rangkaian di Persidangan",
-            "ko": "학회 교류와 네트워킹"
+            "ko": "학회 교류와 네트워킹",
+            "ru": "Общение и нетворкинг на конференциях",
+            "bn": "সম্মেলনে আলাপ ও নেটওয়ার্কিং",
+            "ur": "کانفرنس میں میل جول اور نیٹ ورکنگ",
+            "zh-CN": "会议社交与人脉拓展",
+            "ja": "学会での交流とネットワーキング"
           },
           "image": "roleplay/images/situations/conference_socializing_networking.webp",
           "cases": [
@@ -1148,7 +1353,12 @@
             "vi": "Đặt câu hỏi & trao đổi học thuật",
             "id": "Bertanya & Diskusi Akademik",
             "ms": "Bertanya Soalan & Pertukaran Akademik",
-            "ko": "질문하기와 학술 교류"
+            "ko": "질문하기와 학술 교류",
+            "ru": "Вопросы и научный обмен",
+            "bn": "প্রশ্ন করা ও একাডেমিক আদান-প্রদান",
+            "ur": "سوالات پوچھنا اور علمی تبادلہ",
+            "zh-CN": "提问与学术交流",
+            "ja": "質問と学術交流"
           },
           "image": "roleplay/images/situations/asking_questions_academic_exchange.webp",
           "cases": [
@@ -1177,7 +1387,12 @@
             "vi": "Trình bày kết quả nghiên cứu",
             "id": "Mempresentasikan Hasil Penelitian",
             "ms": "Membentangkan Dapatan Kajian Anda",
-            "ko": "연구 결과 발표하기"
+            "ko": "연구 결과 발표하기",
+            "ru": "Презентация результатов исследования",
+            "bn": "আপনার গবেষণার ফলাফল উপস্থাপন",
+            "ur": "اپنی تحقیق کے نتائج پیش کرنا",
+            "zh-CN": "展示研究成果",
+            "ja": "研究成果の発表"
           },
           "image": "roleplay/images/situations/presenting_your_research_findings.webp",
           "cases": [
@@ -1206,7 +1421,12 @@
             "vi": "Tìm kiếm hợp tác & cơ hội",
             "id": "Mencari Kolaborasi & Peluang",
             "ms": "Mencari Kerjasama & Peluang",
-            "ko": "협업과 기회 찾기"
+            "ko": "협업과 기회 찾기",
+            "ru": "Поиск сотрудничества и возможностей",
+            "bn": "সহযোগিতা ও সুযোগের খোঁজ",
+            "ur": "تعاون اور مواقع کی تلاش",
+            "zh-CN": "寻求合作与机会",
+            "ja": "共同研究と機会を探す"
           },
           "image": "roleplay/images/situations/seeking_collaboration_opportunities.webp",
           "cases": [
@@ -1237,7 +1457,12 @@
         "vi": "Du lịch",
         "id": "Perjalanan",
         "ms": "Pelancongan",
-        "ko": "여행"
+        "ko": "여행",
+        "ru": "Путешествия",
+        "bn": "ভ্রমণ",
+        "ur": "سفر",
+        "zh-CN": "旅行",
+        "ja": "旅行"
       },
       "description": "Book, fly, check in, explore, dine, and handle surprises",
       "description_translations": {
@@ -1257,7 +1482,12 @@
         "vi": "Đặt chỗ, bay, nhận phòng, khám phá, ăn uống và xử lý tình huống bất ngờ",
         "id": "Pesan, terbang, check-in, jelajahi, bersantap, dan hadapi kejutan",
         "ms": "Tempah, terbang, daftar masuk, jelajah, makan dan hadapi kejutan",
-        "ko": "예약, 비행, 체크인, 관광, 식사, 돌발 상황까지 대처해요"
+        "ko": "예약, 비행, 체크인, 관광, 식사, 돌발 상황까지 대처해요",
+        "ru": "Бронируйте, летайте, заселяйтесь, исследуйте, ужинайте и справляйтесь с неожиданностями",
+        "bn": "বুকিং, ফ্লাইট, চেক-ইন, ঘোরাঘুরি, খাওয়াদাওয়া ও অপ্রত্যাশিত পরিস্থিতি সামলান",
+        "ur": "بکنگ، پرواز، چیک اِن، سیر، کھانا اور غیر متوقع حالات سنبھالیں",
+        "zh-CN": "预订、乘机、入住、游览、用餐和应对意外",
+        "ja": "予約、搭乗、チェックイン、観光、食事、トラブル対応"
       },
       "icon": "roleplay/images/categories/travel.webp",
       "iconBackground": "#FFEEFD",
@@ -1283,7 +1513,12 @@
             "vi": "Chuẩn bị trước chuyến đi & đặt chỗ",
             "id": "Persiapan & Pemesanan Sebelum Berangkat",
             "ms": "Persediaan & Tempahan Sebelum Perjalanan",
-            "ko": "여행 준비와 예약"
+            "ko": "여행 준비와 예약",
+            "ru": "Подготовка к поездке и бронирование",
+            "bn": "ভ্রমণের প্রস্তুতি ও বুকিং",
+            "ur": "سفر کی تیاری اور بکنگ",
+            "zh-CN": "行前准备与预订",
+            "ja": "出発前の準備と予約"
           },
           "image": "roleplay/images/situations/pre_trip_prep_booking.webp",
           "cases": [
@@ -1312,7 +1547,12 @@
             "vi": "Sân bay & nhập cảnh",
             "id": "Bandara & Imigrasi",
             "ms": "Lapangan Terbang & Imigresen",
-            "ko": "공항과 입국 심사"
+            "ko": "공항과 입국 심사",
+            "ru": "Аэропорт и паспортный контроль",
+            "bn": "বিমানবন্দর ও ইমিগ্রেশন",
+            "ur": "ہوائی اڈہ اور امیگریشن",
+            "zh-CN": "机场与入境",
+            "ja": "空港と入国審査"
           },
           "image": "roleplay/images/situations/airport_immigration.webp",
           "cases": [
@@ -1341,7 +1581,12 @@
             "vi": "Nhận phòng khách sạn & dịch vụ",
             "id": "Check-in Hotel & Layanan",
             "ms": "Daftar Masuk Hotel & Perkhidmatan",
-            "ko": "호텔 체크인과 서비스"
+            "ko": "호텔 체크인과 서비스",
+            "ru": "Заселение в отель и услуги",
+            "bn": "হোটেলে চেক-ইন ও সেবা",
+            "ur": "ہوٹل چیک اِن اور سروسز",
+            "zh-CN": "酒店入住与服务",
+            "ja": "ホテルのチェックインとサービス"
           },
           "image": "roleplay/images/situations/hotel_check_in_services.webp",
           "cases": [
@@ -1370,7 +1615,12 @@
             "vi": "Khám phá thành phố & phương tiện đi lại",
             "id": "Menjelajahi Kota & Transportasi",
             "ms": "Menjelajah Bandar & Pengangkutan",
-            "ko": "도시 관광과 교통"
+            "ko": "도시 관광과 교통",
+            "ru": "Прогулки по городу и транспорт",
+            "bn": "শহর ঘোরা ও যাতায়াত",
+            "ur": "شہر کی سیر اور ٹرانسپورٹ",
+            "zh-CN": "城市探索与交通",
+            "ja": "街歩きと交通手段"
           },
           "image": "roleplay/images/situations/city_exploration_transportation.webp",
           "cases": [
@@ -1399,7 +1649,12 @@
             "vi": "Ăn uống, mua sắm & sự cố",
             "id": "Bersantap, Belanja & Insiden",
             "ms": "Makan, Membeli-belah & Insiden",
-            "ko": "식사, 쇼핑, 돌발 상황"
+            "ko": "식사, 쇼핑, 돌발 상황",
+            "ru": "Еда, покупки и происшествия",
+            "bn": "খাওয়াদাওয়া, কেনাকাটা ও দুর্ঘটনা",
+            "ur": "کھانا، خریداری اور واقعات",
+            "zh-CN": "餐饮、购物与突发情况",
+            "ja": "食事、買い物、トラブル"
           },
           "image": "roleplay/images/situations/dining_shopping_incidents.webp",
           "cases": [

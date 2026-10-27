@@ -18,7 +18,12 @@
     "vi": "Làm thủ tục lên máy bay",
     "id": "Check-in untuk Penerbanganmu",
     "ms": "Daftar Masuk untuk Penerbangan Anda",
-    "ko": "비행기 탑승 수속하기"
+    "ko": "비행기 탑승 수속하기",
+    "ru": "Регистрация на рейс",
+    "bn": "ফ্লাইটের চেক-ইন",
+    "ur": "پرواز کے لیے چیک اِن",
+    "zh-CN": "办理登机手续",
+    "ja": "フライトのチェックイン"
   },
   "character": "fox",
   "scenario": "You arrive at the airport check-in counter with your suitcase. The check-in agent (AI) asks for your passport.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đến quầy làm thủ tục ở sân bay với chiếc vali. Nhân viên làm thủ tục (AI) yêu cầu xem hộ chiếu của bạn.",
     "id": "Kamu tiba di konter check-in bandara dengan kopermu. Petugas check-in (AI) meminta paspormu.",
     "ms": "Anda tiba di kaunter daftar masuk lapangan terbang dengan beg pakaian anda. Ejen daftar masuk (AI) meminta pasport anda.",
-    "ko": "여행 가방을 들고 공항 체크인 카운터에 도착했습니다. 체크인 직원(AI)이 여권을 달라고 합니다."
+    "ko": "여행 가방을 들고 공항 체크인 카운터에 도착했습니다. 체크인 직원(AI)이 여권을 달라고 합니다.",
+    "ru": "Вы подходите к стойке регистрации в аэропорту со своим чемоданом. Сотрудник регистрации (AI) просит ваш паспорт.",
+    "bn": "আপনি আপনার স্যুটকেস নিয়ে বিমানবন্দরের চেক-ইন কাউন্টারে পৌঁছান। চেক-ইন কর্মী (AI) আপনার পাসপোর্ট চান।",
+    "ur": "آپ اپنے سوٹ کیس کے ساتھ ایئرپورٹ کے چیک اِن کاؤنٹر پر پہنچتے ہیں۔ چیک اِن ایجنٹ (AI) آپ کا پاسپورٹ مانگتا ہے۔",
+    "zh-CN": "你带着行李箱来到机场值机柜台。值机人员（AI）请你出示护照。",
+    "ja": "あなたはスーツケースを持って空港のチェックインカウンターに到着しました。チェックイン係（AI）がパスポートの提示を求めます。"
   },
   "mission": {
     "native": "Check in for your flight, drop off your bag and ask for a window seat.",
@@ -60,7 +70,12 @@
       "vi": "Làm thủ tục cho chuyến bay, gửi hành lý và xin ghế cạnh cửa sổ.",
       "id": "Lakukan check-in untuk penerbanganmu, titipkan tasmu, dan minta kursi dekat jendela.",
       "ms": "Daftar masuk untuk penerbangan anda, serahkan beg anda dan minta tempat duduk tepi tingkap.",
-      "ko": "탑승 수속을 하고, 짐을 부치고, 창가 좌석을 요청하세요."
+      "ko": "탑승 수속을 하고, 짐을 부치고, 창가 좌석을 요청하세요.",
+      "ru": "Зарегистрируйтесь на рейс, сдайте багаж и попросите место у окна.",
+      "bn": "আপনার ফ্লাইটের চেক-ইন করুন, ব্যাগ জমা দিন এবং জানালার পাশের সিট চান।",
+      "ur": "اپنی پرواز کے لیے چیک اِن کریں، اپنا بیگ جمع کرائیں اور کھڑکی والی سیٹ مانگیں۔",
+      "zh-CN": "办理登机手续，托运行李，并要求靠窗座位。",
+      "ja": "フライトのチェックインをし、荷物を預けて、窓側の席を頼みましょう。"
     },
     "practice": "Registre su vuelo, entregue su maleta y pida un asiento de ventanilla.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói tên và điểm đến của bạn",
           "id": "Sebutkan nama dan tujuanmu",
           "ms": "Beritahu nama dan destinasi anda",
-          "ko": "이름과 목적지를 말하세요"
+          "ko": "이름과 목적지를 말하세요",
+          "ru": "Назовите своё имя и пункт назначения",
+          "bn": "আপনার নাম ও গন্তব্য বলুন",
+          "ur": "اپنا نام اور منزل بتائیں",
+          "zh-CN": "说出你的姓名和目的地",
+          "ja": "名前と目的地を伝えましょう"
         },
         "practice": "Diga su nombre y su destino",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói bạn gửi bao nhiêu kiện hành lý",
           "id": "Sebutkan berapa tas yang kamu bagasikan",
           "ms": "Katakan berapa beg yang anda daftarkan",
-          "ko": "부칠 짐이 몇 개인지 말하세요"
+          "ko": "부칠 짐이 몇 개인지 말하세요",
+          "ru": "Скажите, сколько сумок вы сдаёте в багаж",
+          "bn": "কয়টি ব্যাগ চেক-ইন করছেন তা বলুন",
+          "ur": "بتائیں کہ آپ کتنے بیگ جمع کرا رہے ہیں",
+          "zh-CN": "说出你要托运几件行李",
+          "ja": "預ける荷物の数を伝えましょう"
         },
         "practice": "Diga cuántas maletas va a documentar",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Xin ghế cạnh cửa sổ",
           "id": "Minta kursi dekat jendela",
           "ms": "Minta tempat duduk tepi tingkap",
-          "ko": "창가 좌석을 요청하세요"
+          "ko": "창가 좌석을 요청하세요",
+          "ru": "Попросите место у окна",
+          "bn": "জানালার পাশের সিট চান",
+          "ur": "کھڑکی والی سیٹ مانگیں",
+          "zh-CN": "要求靠窗座位",
+          "ja": "窓側の席を頼みましょう"
         },
         "practice": "Pida un asiento de ventanilla",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Hộ chiếu của tôi đây.",
         "id": "Ini paspor saya.",
         "ms": "Ini pasport saya.",
-        "ko": "여기 제 여권이에요."
+        "ko": "여기 제 여권이에요.",
+        "ru": "Вот мой паспорт.",
+        "bn": "এই যে আমার পাসপোর্ট।",
+        "ur": "یہ رہا میرا پاسپورٹ۔",
+        "zh-CN": "这是我的护照。",
+        "ja": "パスポートです。"
       },
       "practice": "Aquí tiene mi pasaporte.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi gửi một vali.",
         "id": "Saya membagasikan satu koper.",
         "ms": "Saya daftarkan satu beg pakaian.",
-        "ko": "여행 가방 하나 부칠게요."
+        "ko": "여행 가방 하나 부칠게요.",
+        "ru": "Я сдаю один чемодан.",
+        "bn": "আমি একটি স্যুটকেস চেক-ইন করছি।",
+        "ur": "میں ایک سوٹ کیس جمع کرا رہا ہوں۔",
+        "zh-CN": "我托运一个行李箱。",
+        "ja": "スーツケースを1つ預けます。"
       },
       "practice": "Voy a documentar una maleta.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Cho tôi xin ghế cạnh cửa sổ được không?",
         "id": "Boleh saya minta kursi dekat jendela?",
         "ms": "Boleh saya dapat tempat duduk tepi tingkap?",
-        "ko": "창가 좌석으로 주실 수 있나요?"
+        "ko": "창가 좌석으로 주실 수 있나요?",
+        "ru": "Можно мне место у окна, пожалуйста?",
+        "bn": "আমি কি জানালার পাশের একটি সিট পেতে পারি, দয়া করে?",
+        "ur": "کیا مجھے کھڑکی والی سیٹ مل سکتی ہے، پلیز؟",
+        "zh-CN": "请问可以给我一个靠窗的座位吗？",
+        "ja": "窓側の席をお願いできますか？"
       },
       "practice": "¿Me podría dar un asiento de ventanilla, por favor?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Mấy giờ thì bắt đầu lên máy bay?",
         "id": "Jam berapa boarding dimulai?",
         "ms": "Pukul berapa masa menaiki pesawat bermula?",
-        "ko": "탑승은 몇 시에 시작하나요?"
+        "ko": "탑승은 몇 시에 시작하나요?",
+        "ru": "Во сколько начинается посадка?",
+        "bn": "বোর্ডিং কখন শুরু হয়?",
+        "ur": "بورڈنگ کس وقت شروع ہوتی ہے؟",
+        "zh-CN": "几点开始登机？",
+        "ja": "搭乗は何時に始まりますか？"
       },
       "practice": "¿A qué hora empieza el embarque?",
       "practice_translations": {

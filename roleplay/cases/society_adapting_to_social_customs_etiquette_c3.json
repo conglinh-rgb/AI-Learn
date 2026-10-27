@@ -18,7 +18,12 @@
     "vi": "Một lần lỡ bước văn hóa khó xử",
     "id": "Salah Langkah Budaya yang Canggung",
     "ms": "Kesilapan Budaya yang Janggal",
-    "ko": "어색한 문화적 실수"
+    "ko": "어색한 문화적 실수",
+    "ru": "Неловкий культурный промах",
+    "bn": "একটি বিব্রতকর সাংস্কৃতিক ভুল",
+    "ur": "ایک شرمندہ کن ثقافتی غلطی",
+    "zh-CN": "一次尴尬的文化失礼",
+    "ja": "気まずい文化的な失敗"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Tại bữa tiệc tối ở nhà đồng nghiệp, bạn đã ăn trước khi mọi người được dọn món. Chủ nhà (AI) có vẻ phật ý và cả bàn bỗng im lặng.",
     "id": "Di acara makan malam rekan kerjamu, kamu mulai makan sebelum semua orang mendapat makanan. Tuan rumah (AI) tampak kesal dan meja jadi hening.",
     "ms": "Di majlis makan malam rakan sekerja, anda mula makan sebelum semua orang dihidangkan. Tuan rumah (AI) kelihatan kecewa dan suasana di meja menjadi senyap.",
-    "ko": "동료의 저녁 모임에서 모두에게 음식이 나오기 전에 먼저 먹기 시작했습니다. 집주인(AI)은 언짢아 보이고 식탁은 조용해졌습니다."
+    "ko": "동료의 저녁 모임에서 모두에게 음식이 나오기 전에 먼저 먹기 시작했습니다. 집주인(AI)은 언짢아 보이고 식탁은 조용해졌습니다.",
+    "ru": "На ужине у коллеги вы начали есть, прежде чем всем подали еду. Хозяин (AI) выглядит расстроенным, и за столом воцарилась тишина.",
+    "bn": "এক সহকর্মীর ডিনার পার্টিতে সবাইকে খাবার পরিবেশনের আগেই আপনি খেতে শুরু করেছেন। আয়োজক (AI) বিরক্ত দেখাচ্ছেন এবং টেবিলে সবাই চুপ হয়ে গেছে।",
+    "ur": "ایک ساتھی کی دعوتِ طعام میں آپ نے سب کو کھانا پیش ہونے سے پہلے ہی کھانا شروع کر دیا۔ میزبان (AI) ناراض لگ رہا ہے اور میز پر خاموشی چھا گئی ہے۔",
+    "zh-CN": "在同事家的晚宴上，你在大家还没上齐菜时就先吃了起来。主人（AI）看起来不太高兴，餐桌上一片安静。",
+    "ja": "同僚の夕食会で、全員に料理が配られる前に食べ始めてしまいました。ホスト（AI）は気分を害した様子で、食卓は静まり返っています。"
   },
   "mission": {
     "native": "Apologize sincerely, explain the misunderstanding and learn the local custom so it doesn't happen again.",
@@ -61,7 +71,12 @@
       "vi": "Chân thành xin lỗi, giải thích sự hiểu lầm và tìm hiểu phong tục địa phương để không lặp lại.",
       "id": "Minta maaf dengan tulus, jelaskan kesalahpahamannya, dan pelajari kebiasaan setempat agar tidak terulang.",
       "ms": "Minta maaf dengan ikhlas, terangkan salah faham itu dan pelajari adat setempat supaya ia tidak berulang.",
-      "ko": "진심으로 사과하고, 오해를 설명하고, 다시는 그러지 않도록 이곳의 관습을 배우세요."
+      "ko": "진심으로 사과하고, 오해를 설명하고, 다시는 그러지 않도록 이곳의 관습을 배우세요.",
+      "ru": "Искренне извинитесь, объясните недоразумение и узнайте местный обычай, чтобы это не повторилось.",
+      "bn": "আন্তরিকভাবে ক্ষমা চান, ভুল বোঝাবুঝি ব্যাখ্যা করুন এবং স্থানীয় রীতি জেনে নিন যাতে আর এমন না হয়।",
+      "ur": "خلوص سے معافی مانگیں، غلط فہمی کی وضاحت کریں اور مقامی رواج سیکھیں تاکہ دوبارہ ایسا نہ ہو۔",
+      "zh-CN": "真诚道歉，解释误会，并了解当地习俗，避免再次发生。",
+      "ja": "心から謝り、誤解を説明し、二度と起こらないよう地元の習慣を学びましょう。"
     },
     "practice": "Discúlpese sinceramente, explique el malentendido y aprenda la costumbre local para que no vuelva a pasar.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Xin lỗi về việc bạn đã làm",
           "id": "Minta maaf atas apa yang kamu lakukan",
           "ms": "Minta maaf atas perbuatan anda",
-          "ko": "자신이 한 행동에 대해 사과하세요"
+          "ko": "자신이 한 행동에 대해 사과하세요",
+          "ru": "Извинитесь за свой поступок",
+          "bn": "আপনার কাজের জন্য ক্ষমা চান",
+          "ur": "اپنے کیے پر معافی مانگیں",
+          "zh-CN": "为你的行为道歉",
+          "ja": "自分のしたことを謝りましょう"
         },
         "practice": "Discúlpese por lo que hizo",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích phong tục ở nước bạn",
           "id": "Jelaskan kebiasaan di negaramu",
           "ms": "Terangkan adat di negara anda",
-          "ko": "자기 나라의 관습을 설명하세요"
+          "ko": "자기 나라의 관습을 설명하세요",
+          "ru": "Объясните обычай вашей страны",
+          "bn": "আপনার দেশের রীতি ব্যাখ্যা করুন",
+          "ur": "اپنے ملک کا رواج بیان کریں",
+          "zh-CN": "解释你们国家的习俗",
+          "ja": "自分の国の習慣を説明しましょう"
         },
         "practice": "Explique la costumbre de su país",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi phong tục đúng ở đây là gì",
           "id": "Tanyakan kebiasaan yang benar di sini",
           "ms": "Tanya apakah adat yang betul di sini",
-          "ko": "이곳의 올바른 관습이 무엇인지 물어보세요"
+          "ko": "이곳의 올바른 관습이 무엇인지 물어보세요",
+          "ru": "Спросите, какой здесь принят обычай",
+          "bn": "জিজ্ঞেস করুন এখানে সঠিক রীতি কী",
+          "ur": "پوچھیں کہ یہاں کا صحیح رواج کیا ہے",
+          "zh-CN": "询问这里正确的习俗是什么",
+          "ja": "ここでの正しい習慣を尋ねましょう"
         },
         "practice": "Pregunte cuál es la costumbre correcta aquí",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề xuất một cách để chuộc lỗi",
           "id": "Usulkan cara untuk menebusnya",
           "ms": "Cadangkan cara untuk menebus kesilapan",
-          "ko": "실수를 만회할 방법을 제안하세요"
+          "ko": "실수를 만회할 방법을 제안하세요",
+          "ru": "Предложите, как загладить вину",
+          "bn": "ক্ষতিপূরণের একটি উপায় প্রস্তাব করুন",
+          "ur": "تلافی کا کوئی طریقہ تجویز کریں",
+          "zh-CN": "提出弥补的方法",
+          "ja": "埋め合わせの方法を提案しましょう"
         },
         "practice": "Sugiera una forma de compensarlo",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi thành thật xin lỗi, tôi không cố ý thất lễ.",
         "id": "Maaf sekali, saya tidak bermaksud tidak sopan.",
         "ms": "Saya minta maaf sangat, saya tidak berniat untuk bersikap biadab.",
-        "ko": "정말 죄송해요. 무례하게 굴려던 건 아니었어요."
+        "ko": "정말 죄송해요. 무례하게 굴려던 건 아니었어요.",
+        "ru": "Мне очень жаль, я не хотел быть невежливым.",
+        "bn": "আমি খুবই দুঃখিত, আমি অভদ্রতা করতে চাইনি।",
+        "ur": "مجھے بہت افسوس ہے، میرا بدتمیزی کا کوئی ارادہ نہیں تھا۔",
+        "zh-CN": "真的很抱歉，我不是故意失礼的。",
+        "ja": "本当にすみません、失礼するつもりはなかったんです。"
       },
       "practice": "Lo siento mucho, no quise ser descortés.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Ở quê tôi, mọi người bắt đầu ăn ngay.",
         "id": "Di tempat asal saya, kami langsung mulai makan.",
         "ms": "Di tempat asal saya, kami terus mula makan.",
-        "ko": "저희 나라에서는 음식이 나오면 바로 먹기 시작하거든요."
+        "ko": "저희 나라에서는 음식이 나오면 바로 먹기 시작하거든요.",
+        "ru": "У нас принято сразу начинать есть.",
+        "bn": "আমাদের ওখানে আমরা সঙ্গে সঙ্গে খাওয়া শুরু করি।",
+        "ur": "ہمارے ہاں ہم فوراً کھانا شروع کر دیتے ہیں۔",
+        "zh-CN": "在我老家，大家都是直接开吃的。",
+        "ja": "私の地元では、すぐに食べ始めるんです。"
       },
       "practice": "De donde vengo, empezamos a comer enseguida.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Anh/chị cho tôi biết ở đây thế nào là lịch sự được không?",
         "id": "Bisa beri tahu saya apa yang dianggap sopan di sini?",
         "ms": "Boleh beritahu saya apa yang dianggap sopan di sini?",
-        "ko": "여기서는 어떻게 하는 게 예의인지 알려 주실 수 있어요?"
+        "ko": "여기서는 어떻게 하는 게 예의인지 알려 주실 수 있어요?",
+        "ru": "Не подскажете, что здесь считается вежливым?",
+        "bn": "এখানে কী করা ভদ্রতা, আমাকে বলবেন কি?",
+        "ur": "کیا آپ بتا سکتے ہیں کہ یہاں کیا شائستہ سمجھا جاتا ہے؟",
+        "zh-CN": "能告诉我这里怎样才算有礼貌吗？",
+        "ja": "ここでは何が礼儀正しいのか教えていただけますか？"
       },
       "practice": "¿Podría decirme qué se considera educado aquí?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi rất muốn tìm hiểu thêm về phong tục của mọi người.",
         "id": "Saya ingin belajar lebih banyak tentang kebiasaan di sini.",
         "ms": "Saya ingin belajar lebih lanjut tentang adat anda.",
-        "ko": "여기 관습에 대해 더 배우고 싶어요."
+        "ko": "여기 관습에 대해 더 배우고 싶어요.",
+        "ru": "Я бы с удовольствием узнал больше о ваших обычаях.",
+        "bn": "আপনাদের রীতিনীতি সম্পর্কে আরও জানতে পারলে খুব ভালো লাগবে।",
+        "ur": "مجھے آپ کے رسم و رواج کے بارے میں مزید جاننا بہت اچھا لگے گا۔",
+        "zh-CN": "我很想多了解一些你们的习俗。",
+        "ja": "皆さんの習慣についてもっと知りたいです。"
       },
       "practice": "Me encantaría aprender más sobre sus costumbres.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Để tôi giúp rửa bát nhé.",
         "id": "Izinkan saya membantu mencuci piring.",
         "ms": "Biar saya tolong basuh pinggan.",
-        "ko": "설거지는 제가 도와드릴게요."
+        "ko": "설거지는 제가 도와드릴게요.",
+        "ru": "Позвольте мне помочь с посудой.",
+        "bn": "দয়া করে আমাকে থালাবাসন ধুতে সাহায্য করতে দিন।",
+        "ur": "براہِ کرم مجھے برتن دھونے میں مدد کرنے دیں۔",
+        "zh-CN": "请让我帮忙洗碗吧。",
+        "ja": "お皿洗いを手伝わせてください。"
       },
       "practice": "Por favor, déjeme ayudar a lavar los platos.",
       "practice_translations": {

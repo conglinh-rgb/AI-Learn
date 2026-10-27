@@ -18,7 +18,12 @@
     "vi": "Phản ánh vấn đề với phòng nhân sự",
     "id": "Menyampaikan Keluhan ke HR",
     "ms": "Mengadu kepada HR",
-    "ko": "인사팀에 고충 제기하기"
+    "ko": "인사팀에 고충 제기하기",
+    "ru": "Обращение в отдел кадров",
+    "bn": "এইচআর-এর কাছে সমস্যার কথা জানানো",
+    "ur": "ایچ آر کے سامنے مسئلہ اٹھانا",
+    "zh-CN": "向人力资源部反映问题",
+    "ja": "人事部に相談する"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Một đồng nghiệp cứ trêu chọc giọng nói của bạn, khiến bạn thấy không thoải mái. Bạn gặp đại diện phòng nhân sự (AI) để nói về chuyện này.",
     "id": "Seorang rekan kerja terus bercanda soal logatmu, dan itu membuatmu tidak nyaman. Kamu menemui perwakilan HR (AI) untuk membicarakannya.",
     "ms": "Seorang rakan sekerja sering berjenaka tentang loghat anda, dan ia membuatkan anda tidak selesa. Anda berjumpa wakil HR (AI) untuk membincangkannya.",
-    "ko": "한 동료가 계속 당신의 억양을 두고 농담을 해서 불편해요. 이 문제를 이야기하려고 인사 담당자(AI)를 만납니다."
+    "ko": "한 동료가 계속 당신의 억양을 두고 농담을 해서 불편해요. 이 문제를 이야기하려고 인사 담당자(AI)를 만납니다.",
+    "ru": "Коллега постоянно шутит над вашим акцентом, и вам от этого неприятно. Вы встречаетесь с представителем отдела кадров (AI), чтобы обсудить это.",
+    "bn": "একজন সহকর্মী বারবার আপনার উচ্চারণ নিয়ে ঠাট্টা করেন, এতে আপনি অস্বস্তি বোধ করেন। এ বিষয়ে কথা বলতে আপনি এইচআর প্রতিনিধির (AI) সাথে দেখা করেন।",
+    "ur": "ایک ساتھی کارکن بار بار آپ کے لہجے کا مذاق اڑاتا ہے، اور اس سے آپ کو بے چینی ہوتی ہے۔ آپ اس بارے میں بات کرنے کے لیے ایچ آر نمائندے (AI) سے ملتے ہیں۔",
+    "zh-CN": "一位同事总是拿你的口音开玩笑，让你感到不舒服。你约见人力资源代表（AI）谈谈这件事。",
+    "ja": "同僚があなたのなまりについて何度も冗談を言い、あなたは不快に感じています。人事担当者（AI）と面談して、このことを相談します。"
   },
   "mission": {
     "native": "Describe the situation clearly and learn how HR will handle your concern.",
@@ -61,7 +71,12 @@
       "vi": "Mô tả rõ tình huống và tìm hiểu phòng nhân sự sẽ xử lý phản ánh của bạn thế nào.",
       "id": "Jelaskan situasinya dengan jelas dan cari tahu bagaimana HR akan menangani keluhanmu.",
       "ms": "Terangkan situasi dengan jelas dan ketahui cara HR akan menangani aduan anda.",
-      "ko": "상황을 분명하게 설명하고 인사팀이 고충을 어떻게 처리할지 알아보세요."
+      "ko": "상황을 분명하게 설명하고 인사팀이 고충을 어떻게 처리할지 알아보세요.",
+      "ru": "Чётко опишите ситуацию и узнайте, как отдел кадров рассмотрит ваше обращение.",
+      "bn": "পরিস্থিতি স্পষ্টভাবে বর্ণনা করুন এবং জেনে নিন এইচআর কীভাবে আপনার অভিযোগ সামলাবে।",
+      "ur": "صورتحال واضح طور پر بیان کریں اور جانیں کہ ایچ آر آپ کے مسئلے کو کیسے نمٹائے گا۔",
+      "zh-CN": "清楚地描述情况，并了解人力资源部将如何处理你反映的问题。",
+      "ja": "状況をはっきり説明し、人事部がどのように対応するかを確認しましょう。"
     },
     "practice": "Describa la situación con claridad y averigüe cómo Recursos Humanos manejará su queja.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích chuyện gì đã xảy ra và thường xuyên đến mức nào",
           "id": "Jelaskan apa yang terjadi dan seberapa sering",
           "ms": "Terangkan apa yang berlaku dan berapa kerap",
-          "ko": "무슨 일이 얼마나 자주 있었는지 설명하세요"
+          "ko": "무슨 일이 얼마나 자주 있었는지 설명하세요",
+          "ru": "Объясните, что произошло и как часто",
+          "bn": "কী ঘটেছে এবং কত ঘন ঘন, তা ব্যাখ্যা করুন",
+          "ur": "بتائیں کہ کیا ہوا اور کتنی بار",
+          "zh-CN": "说明发生了什么以及频率",
+          "ja": "何が起きたか、どのくらいの頻度かを説明する"
         },
         "practice": "Explique qué pasó y con qué frecuencia",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nói việc này ảnh hưởng đến công việc của bạn thế nào",
           "id": "Jelaskan dampaknya pada pekerjaanmu",
           "ms": "Nyatakan bagaimana ia menjejaskan kerja anda",
-          "ko": "그 일이 업무에 어떤 영향을 주는지 말하세요"
+          "ko": "그 일이 업무에 어떤 영향을 주는지 말하세요",
+          "ru": "Скажите, как это влияет на вашу работу",
+          "bn": "এটি আপনার কাজে কীভাবে প্রভাব ফেলছে তা বলুন",
+          "ur": "بتائیں کہ اس کا آپ کے کام پر کیا اثر پڑتا ہے",
+          "zh-CN": "说明这对你的工作有何影响",
+          "ja": "仕事にどう影響しているかを伝える"
         },
         "practice": "Diga cómo afecta su trabajo",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi quy trình báo cáo như thế nào",
           "id": "Tanyakan bagaimana proses pelaporannya",
           "ms": "Tanya apakah proses membuat aduan",
-          "ko": "신고 절차가 어떻게 되는지 물어보세요"
+          "ko": "신고 절차가 어떻게 되는지 물어보세요",
+          "ru": "Спросите, какова процедура подачи жалобы",
+          "bn": "অভিযোগ জানানোর প্রক্রিয়া কী, জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ شکایت درج کرنے کا طریقہ کار کیا ہے",
+          "zh-CN": "询问举报流程是怎样的",
+          "ja": "報告の手続きについて尋ねる"
         },
         "practice": "Pregunte cuál es el proceso para reportarlo",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Hỏi xem báo cáo của bạn có được giữ bí mật không",
           "id": "Tanyakan apakah laporanmu akan dirahasiakan",
           "ms": "Tanya sama ada aduan anda akan dirahsiakan",
-          "ko": "신고 내용이 비밀로 유지되는지 물어보세요"
+          "ko": "신고 내용이 비밀로 유지되는지 물어보세요",
+          "ru": "Спросите, будет ли ваше обращение конфиденциальным",
+          "bn": "আপনার অভিযোগ গোপন রাখা হবে কি না, জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کیا آپ کی شکایت خفیہ رکھی جائے گی",
+          "zh-CN": "询问你的举报是否会保密",
+          "ja": "報告内容が秘密にされるかを尋ねる"
         },
         "practice": "Pregunte si su reporte será confidencial",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi muốn nói về một chuyện đang xảy ra ở chỗ làm.",
         "id": "Saya ingin membicarakan sesuatu yang terjadi di tempat kerja.",
         "ms": "Saya ingin bercakap tentang sesuatu yang berlaku di tempat kerja.",
-        "ko": "회사에서 계속 일어나고 있는 일에 대해 말씀드리고 싶어요."
+        "ko": "회사에서 계속 일어나고 있는 일에 대해 말씀드리고 싶어요.",
+        "ru": "Я хотел бы поговорить о том, что происходит на работе.",
+        "bn": "কর্মস্থলে যা ঘটছে, সে বিষয়ে আমি কথা বলতে চাই।",
+        "ur": "میں کام پر ہونے والی ایک بات کے بارے میں بات کرنا چاہتا ہوں۔",
+        "zh-CN": "我想谈谈最近工作中发生的一件事。",
+        "ja": "職場で起きていることについてお話ししたいのですが。"
       },
       "practice": "Me gustaría hablar de algo que ha estado pasando en el trabajo.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Có một đồng nghiệp gần như ngày nào cũng trêu giọng nói của tôi.",
         "id": "Seorang rekan kerja bercanda soal logat saya hampir setiap hari.",
         "ms": "Seorang rakan sekerja berjenaka tentang loghat saya hampir setiap hari.",
-        "ko": "한 동료가 거의 매일 제 억양을 두고 농담을 해요."
+        "ko": "한 동료가 거의 매일 제 억양을 두고 농담을 해요.",
+        "ru": "Коллега шутит над моим акцентом почти каждый день.",
+        "bn": "একজন সহকর্মী প্রায় প্রতিদিন আমার উচ্চারণ নিয়ে ঠাট্টা করেন।",
+        "ur": "ایک ساتھی تقریباً ہر روز میرے لہجے کا مذاق اڑاتا ہے۔",
+        "zh-CN": "有位同事几乎每天都拿我的口音开玩笑。",
+        "ja": "同僚がほぼ毎日、私のなまりについて冗談を言うんです。"
       },
       "practice": "Un compañero hace bromas sobre mi acento casi todos los días.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Việc đó khiến tôi lo lắng mỗi khi phát biểu trong cuộc họp.",
         "id": "Itu membuat saya gugup untuk bicara di rapat.",
         "ms": "Ia membuatkan saya gementar untuk bercakap dalam mesyuarat.",
-        "ko": "그래서 회의 때 말하는 게 긴장돼요."
+        "ko": "그래서 회의 때 말하는 게 긴장돼요.",
+        "ru": "Из-за этого я нервничаю, когда выступаю на совещаниях.",
+        "bn": "এর ফলে মিটিংয়ে কথা বলতে আমি নার্ভাস হয়ে যাই।",
+        "ur": "اس کی وجہ سے مجھے میٹنگز میں بولتے ہوئے گھبراہٹ ہوتی ہے۔",
+        "zh-CN": "这让我在会议上发言时很紧张。",
+        "ja": "そのせいで、会議で話すのが不安になります。"
       },
       "practice": "Me pone nervioso hablar en las reuniones.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Sau khi tôi báo cáo thì sẽ thế nào?",
         "id": "Apa yang terjadi setelah saya membuat laporan?",
         "ms": "Apa yang berlaku selepas saya membuat aduan?",
-        "ko": "신고하고 나면 어떻게 되나요?"
+        "ko": "신고하고 나면 어떻게 되나요?",
+        "ru": "Что будет после того, как я подам жалобу?",
+        "bn": "অভিযোগ জানানোর পর কী হবে?",
+        "ur": "شکایت درج کرنے کے بعد کیا ہوگا؟",
+        "zh-CN": "我举报之后会怎么处理？",
+        "ja": "報告した後はどうなりますか？"
       },
       "practice": "¿Qué pasa después de que presento un reporte?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Cuộc trò chuyện này có được giữ bí mật không?",
         "id": "Apakah percakapan ini akan dirahasiakan?",
         "ms": "Adakah perbualan ini akan dirahsiakan?",
-        "ko": "이 대화는 비밀로 지켜지나요?"
+        "ko": "이 대화는 비밀로 지켜지나요?",
+        "ru": "Этот разговор останется конфиденциальным?",
+        "bn": "এই কথোপকথন কি গোপন থাকবে?",
+        "ur": "کیا یہ گفتگو خفیہ رہے گی؟",
+        "zh-CN": "这次谈话会保密吗？",
+        "ja": "この話は内密にしていただけますか？"
       },
       "practice": "¿Esta conversación será confidencial?",
       "practice_translations": {

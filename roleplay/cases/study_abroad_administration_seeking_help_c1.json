@@ -18,7 +18,12 @@
     "vi": "Tại văn phòng sinh viên quốc tế",
     "id": "Di Kantor Internasional",
     "ms": "Di Pejabat Antarabangsa",
-    "ko": "국제처에서"
+    "ko": "국제처에서",
+    "ru": "В международном отделе",
+    "bn": "আন্তর্জাতিক অফিসে",
+    "ur": "انٹرنیشنل آفس میں",
+    "zh-CN": "在国际学生办公室",
+    "ja": "留学生課で"
   },
   "character": "fox",
   "scenario": "You need an enrollment letter to open a bank account. A staff member (AI) at the international office can help you.",
@@ -39,7 +44,12 @@
     "vi": "Bạn cần giấy xác nhận sinh viên để mở tài khoản ngân hàng. Một nhân viên (AI) tại văn phòng sinh viên quốc tế có thể giúp bạn.",
     "id": "Kamu butuh surat keterangan terdaftar untuk membuka rekening bank. Seorang staf (AI) di kantor internasional bisa membantumu.",
     "ms": "Anda memerlukan surat pengesahan pendaftaran untuk membuka akaun bank. Seorang kakitangan (AI) di pejabat antarabangsa boleh membantu anda.",
-    "ko": "은행 계좌를 개설하려면 재학 증명서가 필요합니다. 국제처 직원(AI)이 도와줄 수 있습니다."
+    "ko": "은행 계좌를 개설하려면 재학 증명서가 필요합니다. 국제처 직원(AI)이 도와줄 수 있습니다.",
+    "ru": "Чтобы открыть банковский счёт, вам нужна справка о зачислении. Сотрудник (AI) международного отдела может вам помочь.",
+    "bn": "ব্যাংক অ্যাকাউন্ট খুলতে আপনার একটি এনরোলমেন্ট লেটার দরকার। আন্তর্জাতিক অফিসের একজন কর্মী (AI) আপনাকে সাহায্য করতে পারবেন।",
+    "ur": "بینک اکاؤنٹ کھولنے کے لیے آپ کو داخلے کا خط درکار ہے۔ انٹرنیشنل آفس کا ایک عملہ رکن (AI) آپ کی مدد کر سکتا ہے۔",
+    "zh-CN": "开银行账户需要在读证明。国际学生办公室的工作人员（AI）可以帮助你。",
+    "ja": "銀行口座を開くには在学証明書が必要です。留学生課の職員（AI）が手伝ってくれます。"
   },
   "mission": {
     "native": "Request the letter and find out when and where to pick it up.",
@@ -60,7 +70,12 @@
       "vi": "Xin giấy xác nhận và hỏi khi nào, ở đâu có thể nhận.",
       "id": "Ajukan permintaan surat itu dan cari tahu kapan dan di mana mengambilnya.",
       "ms": "Minta surat itu dan ketahui bila dan di mana untuk mengambilnya.",
-      "ko": "증명서를 요청하고 언제 어디서 받을 수 있는지 알아보세요."
+      "ko": "증명서를 요청하고 언제 어디서 받을 수 있는지 알아보세요.",
+      "ru": "Запросите справку и узнайте, когда и где её можно забрать.",
+      "bn": "লেটারটি চান এবং কখন ও কোথায় নিতে হবে তা জেনে নিন।",
+      "ur": "خط کی درخواست کریں اور معلوم کریں کہ اسے کب اور کہاں سے لینا ہے۔",
+      "zh-CN": "申请证明，并问清楚何时何地领取。",
+      "ja": "証明書を申請し、いつどこで受け取れるか確認しましょう。"
     },
     "practice": "Solicite la carta y averigüe cuándo y dónde recogerla.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói bạn cần loại giấy tờ nào",
           "id": "Sebutkan dokumen yang kamu butuhkan",
           "ms": "Katakan dokumen apa yang anda perlukan",
-          "ko": "필요한 서류가 무엇인지 말하세요"
+          "ko": "필요한 서류가 무엇인지 말하세요",
+          "ru": "Скажите, какой документ вам нужен",
+          "bn": "কোন কাগজটি দরকার তা বলুন",
+          "ur": "بتائیں کہ آپ کو کون سی دستاویز چاہیے",
+          "zh-CN": "说明你需要什么文件",
+          "ja": "必要な書類を伝える"
         },
         "practice": "Diga qué documento necesita",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi mất bao lâu",
           "id": "Tanyakan berapa lama prosesnya",
           "ms": "Tanya berapa lama masa yang diambil",
-          "ko": "얼마나 걸리는지 물어보세요"
+          "ko": "얼마나 걸리는지 물어보세요",
+          "ru": "Спросите, сколько времени это займёт",
+          "bn": "কত সময় লাগবে জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کتنا وقت لگے گا",
+          "zh-CN": "询问需要多长时间",
+          "ja": "どのくらいかかるか尋ねる"
         },
         "practice": "Pregunte cuánto tiempo tardará",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi nhận giấy ở đâu",
           "id": "Tanyakan di mana mengambilnya",
           "ms": "Tanya di mana untuk mengambilnya",
-          "ko": "어디서 받을 수 있는지 물어보세요"
+          "ko": "어디서 받을 수 있는지 물어보세요",
+          "ru": "Спросите, где её забрать",
+          "bn": "কোথায় নিতে হবে জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ اسے کہاں سے لینا ہے",
+          "zh-CN": "询问在哪里领取",
+          "ja": "受け取り場所を尋ねる"
         },
         "practice": "Pregunte dónde recogerlo",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào buổi sáng. Tôi cần xin giấy xác nhận sinh viên ạ.",
         "id": "Selamat pagi. Saya butuh surat keterangan terdaftar.",
         "ms": "Selamat pagi. Saya perlukan surat pengesahan pendaftaran.",
-        "ko": "안녕하세요. 재학 증명서가 필요해요."
+        "ko": "안녕하세요. 재학 증명서가 필요해요.",
+        "ru": "Доброе утро. Мне нужна справка о зачислении, пожалуйста.",
+        "bn": "শুভ সকাল। আমার একটি এনরোলমেন্ট লেটার দরকার।",
+        "ur": "صبح بخیر۔ مجھے داخلے کا خط چاہیے، براہ کرم۔",
+        "zh-CN": "早上好。我需要一份在读证明，谢谢。",
+        "ja": "おはようございます。在学証明書をお願いしたいのですが。"
       },
       "practice": "Buenos días. Necesito una constancia de inscripción, por favor.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Để tôi mở tài khoản ngân hàng.",
         "id": "Ini untuk membuka rekening bank.",
         "ms": "Ia untuk membuka akaun bank.",
-        "ko": "은행 계좌를 만들려고요."
+        "ko": "은행 계좌를 만들려고요.",
+        "ru": "Она нужна для открытия банковского счёта.",
+        "bn": "এটা ব্যাংক অ্যাকাউন্ট খোলার জন্য।",
+        "ur": "یہ بینک اکاؤنٹ کھولنے کے لیے ہے۔",
+        "zh-CN": "是用来开银行账户的。",
+        "ja": "銀行口座を開くためです。"
       },
       "practice": "Es para abrir una cuenta bancaria.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Bao lâu thì tôi nhận được giấy ạ?",
         "id": "Berapa lama sampai suratnya jadi?",
         "ms": "Berapa lama masa yang diperlukan untuk mendapatkannya?",
-        "ko": "받는 데 얼마나 걸려요?"
+        "ko": "받는 데 얼마나 걸려요?",
+        "ru": "Сколько времени займёт её получение?",
+        "bn": "এটা পেতে কত সময় লাগবে?",
+        "ur": "اسے ملنے میں کتنا وقت لگے گا؟",
+        "zh-CN": "需要多久才能拿到？",
+        "ja": "受け取るまでどのくらいかかりますか？"
       },
       "practice": "¿Cuánto tiempo tardará en estar lista?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tôi đến đây nhận hay anh/chị sẽ gửi qua email cho tôi?",
         "id": "Saya ambil di sini, atau akan dikirim lewat email?",
         "ms": "Saya ambil di sini, atau anda akan e-melkannya kepada saya?",
-        "ko": "여기서 받아 가나요, 아니면 이메일로 보내 주시나요?"
+        "ko": "여기서 받아 가나요, 아니면 이메일로 보내 주시나요?",
+        "ru": "Мне забрать её здесь или вы пришлёте её по электронной почте?",
+        "bn": "আমি কি এখান থেকে নেব, নাকি আপনি ইমেইলে পাঠাবেন?",
+        "ur": "کیا میں اسے یہاں سے لوں، یا آپ مجھے ای میل کریں گے؟",
+        "zh-CN": "我是来这里领取，还是您发邮件给我？",
+        "ja": "ここで受け取るのですか、それともメールで送っていただけますか？"
       },
       "practice": "¿La recojo aquí o me la envían por correo electrónico?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Đây là thẻ sinh viên của tôi.",
         "id": "Ini kartu mahasiswa saya.",
         "ms": "Ini kad pelajar saya.",
-        "ko": "여기 제 학생증이에요."
+        "ko": "여기 제 학생증이에요.",
+        "ru": "Вот мой студенческий билет.",
+        "bn": "এই যে আমার স্টুডেন্ট আইডি।",
+        "ur": "یہ رہا میرا اسٹوڈنٹ کارڈ۔",
+        "zh-CN": "这是我的学生证。",
+        "ja": "こちらが学生証です。"
       },
       "practice": "Aquí tiene mi credencial de estudiante.",
       "practice_translations": {

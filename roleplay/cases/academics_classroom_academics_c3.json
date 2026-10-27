@@ -18,7 +18,12 @@
     "vi": "Xin gia hạn bài luận",
     "id": "Minta Perpanjangan Waktu",
     "ms": "Meminta Lanjutan Tempoh",
-    "ko": "마감 연장 요청하기"
+    "ko": "마감 연장 요청하기",
+    "ru": "Просьба о продлении срока",
+    "bn": "সময় বাড়ানোর অনুরোধ",
+    "ur": "مہلت میں توسیع کی درخواست",
+    "zh-CN": "申请延期",
+    "ja": "提出期限の延長をお願いする"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bài luận của bạn phải nộp vào ngày mai, nhưng bạn bị ốm cả tuần. Giáo sư (AI) của bạn nổi tiếng nghiêm khắc về hạn nộp.",
     "id": "Esaimu harus dikumpulkan besok, tapi kamu sakit sepanjang minggu. Profesormu (AI) dikenal tegas soal tenggat waktu.",
     "ms": "Esei anda perlu dihantar esok, tetapi anda sakit sepanjang minggu. Profesor anda (AI) terkenal tegas tentang tarikh akhir.",
-    "ko": "에세이 마감이 내일인데 일주일 내내 아팠어요. 교수님(AI)은 마감에 엄격하기로 유명해요."
+    "ko": "에세이 마감이 내일인데 일주일 내내 아팠어요. 교수님(AI)은 마감에 엄격하기로 유명해요.",
+    "ru": "Эссе нужно сдать завтра, но вы всю неделю болели. Ваш преподаватель (AI) известен строгостью в отношении сроков.",
+    "bn": "আপনার প্রবন্ধ কাল জমা দিতে হবে, কিন্তু আপনি সারা সপ্তাহ অসুস্থ ছিলেন। আপনার অধ্যাপক (AI) সময়সীমার ব্যাপারে কড়া বলে পরিচিত।",
+    "ur": "آپ کا مضمون کل جمع کرانا ہے، لیکن آپ پورا ہفتہ بیمار رہے۔ آپ کے پروفیسر (AI) ڈیڈ لائن کے معاملے میں سخت مشہور ہیں۔",
+    "zh-CN": "你的论文明天就要交，但你病了一整周。你的教授（AI）出了名地严格对待截止日期。",
+    "ja": "レポートの締め切りは明日ですが、あなたは一週間ずっと体調を崩していました。教授（AI）は締め切りに厳しいことで知られています。"
   },
   "mission": {
     "native": "Explain your situation and convince the professor to give you more time.",
@@ -61,7 +71,12 @@
       "vi": "Giải thích hoàn cảnh và thuyết phục giáo sư cho bạn thêm thời gian.",
       "id": "Jelaskan situasimu dan yakinkan profesor untuk memberimu waktu tambahan.",
       "ms": "Terangkan situasi anda dan yakinkan profesor untuk memberi anda lebih masa.",
-      "ko": "상황을 설명하고 교수님이 시간을 더 주시도록 설득하세요."
+      "ko": "상황을 설명하고 교수님이 시간을 더 주시도록 설득하세요.",
+      "ru": "Объясните ситуацию и убедите преподавателя дать вам больше времени.",
+      "bn": "আপনার পরিস্থিতি ব্যাখ্যা করুন এবং অধ্যাপককে আরও সময় দিতে রাজি করান।",
+      "ur": "اپنی صورتحال بتائیں اور پروفیسر کو مزید وقت دینے پر قائل کریں۔",
+      "zh-CN": "说明你的情况，并说服教授给你更多时间。",
+      "ja": "事情を説明し、教授に時間をもらえるよう説得しましょう。"
     },
     "practice": "Explique su situación y convenza al profesor de que le dé más tiempo.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích vì sao bạn cần thêm thời gian",
           "id": "Jelaskan kenapa kamu butuh waktu tambahan",
           "ms": "Terangkan mengapa anda perlukan lebih masa",
-          "ko": "왜 시간이 더 필요한지 설명하세요"
+          "ko": "왜 시간이 더 필요한지 설명하세요",
+          "ru": "Объясните, почему вам нужно больше времени",
+          "bn": "কেন আরও সময় দরকার তা ব্যাখ্যা করুন",
+          "ur": "بتائیں کہ آپ کو مزید وقت کیوں چاہیے",
+          "zh-CN": "说明你为什么需要更多时间",
+          "ja": "時間が必要な理由を説明する"
         },
         "practice": "Explique por qué necesita más tiempo",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Xin gia hạn thời hạn nộp bài",
           "id": "Minta perpanjangan tenggat waktu",
           "ms": "Minta lanjutan tarikh akhir",
-          "ko": "마감 연장을 요청하세요"
+          "ko": "마감 연장을 요청하세요",
+          "ru": "Попросите продлить срок сдачи",
+          "bn": "জমার সময়সীমা বাড়ানোর অনুরোধ করুন",
+          "ur": "ڈیڈ لائن میں توسیع کی درخواست کریں",
+          "zh-CN": "请求延长截止日期",
+          "ja": "締め切りの延長をお願いする"
         },
         "practice": "Pida una prórroga de la fecha de entrega",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề nghị nộp giấy khám bệnh hoặc bản nháp đang làm",
           "id": "Tawarkan surat dokter atau draf sementara",
           "ms": "Tawarkan sijil cuti sakit atau draf separa",
-          "ko": "진단서나 작성 중인 초안을 보여 드리겠다고 하세요"
+          "ko": "진단서나 작성 중인 초안을 보여 드리겠다고 하세요",
+          "ru": "Предложите медицинскую справку или черновик",
+          "bn": "মেডিকেল সার্টিফিকেট বা আংশিক খসড়া দেওয়ার প্রস্তাব দিন",
+          "ur": "میڈیکل سرٹیفکیٹ یا جزوی مسودہ پیش کرنے کی پیشکش کریں",
+          "zh-CN": "提出提供病假证明或部分草稿",
+          "ja": "診断書や途中までの下書きの提出を申し出る"
         },
         "practice": "Ofrezca un justificante médico o un borrador parcial",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất hạn nộp mới",
           "id": "Sepakati tenggat waktu yang baru",
           "ms": "Setuju tentang tarikh akhir baharu",
-          "ko": "새 마감일을 정하세요"
+          "ko": "새 마감일을 정하세요",
+          "ru": "Договоритесь о новом сроке",
+          "bn": "নতুন সময়সীমা ঠিক করুন",
+          "ur": "نئی ڈیڈ لائن طے کریں",
+          "zh-CN": "商定新的截止日期",
+          "ja": "新しい締め切りを決める"
         },
         "practice": "Acuerden una nueva fecha de entrega",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Thầy/cô ơi, thầy/cô có chút thời gian không ạ? Em muốn hỏi về bài luận.",
         "id": "Profesor, apa Anda punya waktu sebentar? Ini soal esai.",
         "ms": "Profesor, ada masa sebentar? Ini tentang esei saya.",
-        "ko": "교수님, 잠깐 시간 괜찮으세요? 에세이 때문에요."
+        "ko": "교수님, 잠깐 시간 괜찮으세요? 에세이 때문에요.",
+        "ru": "Извините, у вас есть минутка? Это насчёт эссе.",
+        "bn": "স্যার, আপনার কি একটু সময় হবে? প্রবন্ধটা নিয়ে কথা বলতে চাই।",
+        "ur": "سر، کیا آپ کے پاس ایک منٹ ہے؟ مضمون کے بارے میں بات کرنی تھی۔",
+        "zh-CN": "教授，您现在方便吗？是关于论文的事。",
+        "ja": "先生、少しお時間よろしいですか？レポートのことなのですが。"
       },
       "practice": "Profesor, ¿tiene un momento? Es sobre el ensayo.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Em bị ốm cả tuần nên không làm xong được.",
         "id": "Saya sakit sepanjang minggu dan tidak bisa menyelesaikannya.",
         "ms": "Saya sakit sepanjang minggu dan tidak dapat menyiapkannya.",
-        "ko": "일주일 내내 아파서 다 끝내지 못했어요."
+        "ko": "일주일 내내 아파서 다 끝내지 못했어요.",
+        "ru": "Я всю неделю болел и не успел его закончить.",
+        "bn": "আমি সারা সপ্তাহ অসুস্থ ছিলাম, তাই শেষ করতে পারিনি।",
+        "ur": "میں پورا ہفتہ بیمار رہا اور اسے مکمل نہیں کر سکا۔",
+        "zh-CN": "我病了一整周，没能写完。",
+        "ja": "一週間ずっと体調を崩していて、終わらせることができませんでした。"
       },
       "practice": "Estuve enfermo toda la semana y no pude terminarlo.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Em có thể xin thêm vài ngày được không ạ?",
         "id": "Apakah mungkin saya diberi beberapa hari lagi?",
         "ms": "Bolehkah saya diberi beberapa hari lagi?",
-        "ko": "며칠만 더 주실 수 있을까요?"
+        "ko": "며칠만 더 주실 수 있을까요?",
+        "ru": "Можно ли получить ещё несколько дней?",
+        "bn": "আরও কয়েকটা দিন কি পাওয়া সম্ভব?",
+        "ur": "کیا مجھے کچھ اور دن مل سکتے ہیں؟",
+        "zh-CN": "能否再多给我几天时间？",
+        "ja": "あと数日いただくことは可能でしょうか？"
       },
       "practice": "¿Sería posible tener unos días más?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Em có giấy của bác sĩ, và em có thể cho thầy/cô xem bản nháp.",
         "id": "Saya punya surat dokter, dan saya bisa menunjukkan draf saya.",
         "ms": "Saya ada sijil doktor, dan saya boleh tunjukkan draf saya.",
-        "ko": "진단서가 있고, 초안도 보여 드릴 수 있어요."
+        "ko": "진단서가 있고, 초안도 보여 드릴 수 있어요.",
+        "ru": "У меня есть справка от врача, и я могу показать вам свой черновик.",
+        "bn": "আমার কাছে ডাক্তারের সার্টিফিকেট আছে, আর আমি আপনাকে আমার খসড়াটা দেখাতে পারি।",
+        "ur": "میرے پاس ڈاکٹر کا سرٹیفکیٹ ہے، اور میں آپ کو اپنا مسودہ دکھا سکتا ہوں۔",
+        "zh-CN": "我有医生证明，也可以给您看我的草稿。",
+        "ja": "診断書がありますし、下書きをお見せすることもできます。"
       },
       "practice": "Tengo un justificante médico y puedo mostrarle mi borrador.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Em hiểu nếu bị trừ điểm ạ.",
         "id": "Saya mengerti kalau ada pengurangan nilai.",
         "ms": "Saya faham jika ada penalti.",
-        "ko": "감점이 있어도 이해해요."
+        "ko": "감점이 있어도 이해해요.",
+        "ru": "Я пойму, если будет штраф.",
+        "bn": "নম্বর কাটা গেলে আমি বুঝব।",
+        "ur": "اگر نمبر کٹیں تو میں سمجھتا ہوں۔",
+        "zh-CN": "如果要扣分，我也理解。",
+        "ja": "減点があっても仕方ないと理解しています。"
       },
       "practice": "Entiendo si hay alguna penalización.",
       "practice_translations": {

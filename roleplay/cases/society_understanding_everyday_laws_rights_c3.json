@@ -18,7 +18,12 @@
     "vi": "Khoản tiền cọc một đi không trở lại",
     "id": "Uang Jaminan yang Tak Pernah Kembali",
     "ms": "Deposit yang Tak Kunjung Kembali",
-    "ko": "돌아오지 않는 보증금"
+    "ko": "돌아오지 않는 보증금",
+    "ru": "Залог, который так и не вернули",
+    "bn": "যে জামানত আর ফেরত আসেনি",
+    "ur": "وہ ڈپازٹ جو کبھی واپس نہ آیا",
+    "zh-CN": "一去不回的押金",
+    "ja": "戻ってこない敷金"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đã dọn khỏi căn hộ một tháng trước và để lại nhà sạch sẽ, nhưng chủ nhà cũ (AI) lại không chịu trả tiền cọc.",
     "id": "Kamu pindah dari apartemenmu sebulan lalu dan meninggalkannya dalam keadaan bersih, tapi mantan pemilik apartemenmu (AI) menolak mengembalikan uang jaminanmu.",
     "ms": "Anda berpindah keluar dari apartmen sebulan yang lalu dan meninggalkannya dalam keadaan bersih, tetapi bekas tuan rumah anda (AI) enggan memulangkan deposit keselamatan anda.",
-    "ko": "한 달 전에 아파트를 깨끗하게 정리하고 이사 나왔는데, 전 집주인(AI)이 보증금을 돌려주지 않고 있습니다."
+    "ko": "한 달 전에 아파트를 깨끗하게 정리하고 이사 나왔는데, 전 집주인(AI)이 보증금을 돌려주지 않고 있습니다.",
+    "ru": "Вы съехали из квартиры месяц назад и оставили её чистой, но ваш бывший арендодатель (AI) отказывается возвращать залог.",
+    "bn": "আপনি এক মাস আগে অ্যাপার্টমেন্ট ছেড়েছেন এবং সেটি পরিষ্কার রেখে গেছেন, কিন্তু আপনার আগের বাড়িওয়ালা (AI) আপনার জামানত ফেরত দিতে অস্বীকার করছেন।",
+    "ur": "آپ نے ایک مہینہ پہلے اپارٹمنٹ خالی کیا اور اسے صاف چھوڑا، لیکن آپ کا سابق مالک مکان (AI) آپ کا سیکیورٹی ڈپازٹ واپس کرنے سے انکار کر رہا ہے۔",
+    "zh-CN": "你一个月前搬出公寓，走时打扫得干干净净，但你的前房东（AI）却拒绝退还押金。",
+    "ja": "1か月前にアパートを退去し、きれいにして出ましたが、元の大家（AI）が敷金の返還を拒んでいます。"
   },
   "mission": {
     "native": "Politely but firmly ask for your deposit, answer the landlord's claims and agree on a solution.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự nhưng kiên quyết đòi lại tiền cọc, đáp lại các lý lẽ của chủ nhà và thống nhất giải pháp.",
       "id": "Minta uang jaminanmu dengan sopan tapi tegas, tanggapi klaim pemilik, dan sepakati solusinya.",
       "ms": "Minta deposit anda dengan sopan tetapi tegas, jawab dakwaan tuan rumah dan setuju dengan satu penyelesaian.",
-      "ko": "정중하지만 단호하게 보증금을 요구하고, 집주인의 주장에 답한 뒤 해결책에 합의하세요."
+      "ko": "정중하지만 단호하게 보증금을 요구하고, 집주인의 주장에 답한 뒤 해결책에 합의하세요.",
+      "ru": "Вежливо, но твёрдо потребуйте вернуть залог, ответьте на претензии арендодателя и договоритесь о решении.",
+      "bn": "ভদ্রভাবে কিন্তু দৃঢ়ভাবে আপনার জামানত চান, বাড়িওয়ালার অভিযোগের জবাব দিন এবং একটি সমাধানে একমত হন।",
+      "ur": "شائستگی مگر مضبوطی سے اپنا ڈپازٹ مانگیں، مالک مکان کے دعووں کا جواب دیں اور کسی حل پر متفق ہوں۔",
+      "zh-CN": "礼貌而坚定地要求退还押金，回应房东的说法，并商定解决方案。",
+      "ja": "丁寧かつ毅然と敷金の返還を求め、大家の主張に応じて、解決策に合意しましょう。"
     },
     "practice": "Pida su depósito con cortesía pero con firmeza, responda a los reclamos del arrendador y acuerden una solución.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Hỏi khi nào bạn được nhận lại tiền cọc",
           "id": "Tanyakan kapan uang jaminanmu akan dikembalikan",
           "ms": "Tanya bila anda akan mendapat semula deposit anda",
-          "ko": "보증금을 언제 돌려받을 수 있는지 물어보세요"
+          "ko": "보증금을 언제 돌려받을 수 있는지 물어보세요",
+          "ru": "Спросите, когда вам вернут залог",
+          "bn": "জিজ্ঞেস করুন কবে আপনার জামানত ফেরত পাবেন",
+          "ur": "پوچھیں کہ آپ کو ڈپازٹ کب واپس ملے گا",
+          "zh-CN": "询问什么时候能拿回押金",
+          "ja": "敷金がいつ返ってくるか尋ねる"
         },
         "practice": "Pregunte cuándo le devolverán el depósito",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nói rằng bạn đã để lại căn hộ trong tình trạng tốt",
           "id": "Katakan bahwa kamu meninggalkan apartemen dalam kondisi baik",
           "ms": "Katakan anda meninggalkan apartmen dalam keadaan baik",
-          "ko": "아파트를 좋은 상태로 두고 나왔다고 말하세요"
+          "ko": "아파트를 좋은 상태로 두고 나왔다고 말하세요",
+          "ru": "Скажите, что оставили квартиру в хорошем состоянии",
+          "bn": "বলুন যে আপনি অ্যাপার্টমেন্টটি ভালো অবস্থায় রেখে গেছেন",
+          "ur": "کہیں کہ آپ نے اپارٹمنٹ اچھی حالت میں چھوڑا تھا",
+          "zh-CN": "说明你离开时公寓状况良好",
+          "ja": "部屋をきれいな状態で引き渡したと伝える"
         },
         "practice": "Diga que dejó el apartamento en buen estado",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Yêu cầu danh sách các khoản khấu trừ bằng văn bản",
           "id": "Minta daftar potongan secara tertulis",
           "ms": "Minta senarai potongan secara bertulis",
-          "ko": "공제 내역을 서면으로 달라고 하세요"
+          "ko": "공제 내역을 서면으로 달라고 하세요",
+          "ru": "Попросите письменный список вычетов",
+          "bn": "কর্তনের একটি লিখিত তালিকা চান",
+          "ur": "کٹوتیوں کی تحریری فہرست مانگیں",
+          "zh-CN": "要求提供书面扣款清单",
+          "ja": "差し引き額の明細を書面で求める"
         },
         "practice": "Pida una lista escrita de los descuentos",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề xuất hạn chót để hoàn tiền",
           "id": "Usulkan tenggat waktu pengembalian dana",
           "ms": "Cadangkan tarikh akhir untuk bayaran balik",
-          "ko": "환불 기한을 제안하세요"
+          "ko": "환불 기한을 제안하세요",
+          "ru": "Предложите срок возврата денег",
+          "bn": "টাকা ফেরতের একটি শেষ সময়সীমা প্রস্তাব করুন",
+          "ur": "رقم کی واپسی کے لیے آخری تاریخ تجویز کریں",
+          "zh-CN": "提出退款的截止日期",
+          "ja": "返金の期限を提案する"
         },
         "practice": "Proponga una fecha límite para el reembolso",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi gọi để hỏi về khoản tiền cọc của tôi.",
         "id": "Saya menelepon soal uang jaminan saya.",
         "ms": "Saya menelefon tentang deposit keselamatan saya.",
-        "ko": "보증금 때문에 전화드렸어요."
+        "ko": "보증금 때문에 전화드렸어요.",
+        "ru": "Я звоню по поводу моего залога.",
+        "bn": "আমি আমার জামানতের ব্যাপারে ফোন করছি।",
+        "ur": "میں اپنے سیکیورٹی ڈپازٹ کے بارے میں فون کر رہا ہوں۔",
+        "zh-CN": "我打电话是想问一下我的押金。",
+        "ja": "敷金の件でお電話しました。"
       },
       "practice": "Le llamo por mi depósito de garantía.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi đã chụp ảnh căn hộ lúc dọn đi.",
         "id": "Saya memotret apartemennya waktu pindah.",
         "ms": "Saya ada mengambil gambar apartmen itu semasa saya berpindah keluar.",
-        "ko": "이사 나올 때 아파트 사진을 찍어 뒀어요."
+        "ko": "이사 나올 때 아파트 사진을 찍어 뒀어요.",
+        "ru": "Я сфотографировал квартиру, когда съезжал.",
+        "bn": "অ্যাপার্টমেন্ট ছাড়ার সময় আমি ছবি তুলেছিলাম।",
+        "ur": "میں نے اپارٹمنٹ چھوڑتے وقت اس کی تصویریں لی تھیں۔",
+        "zh-CN": "我搬走时拍了公寓的照片。",
+        "ja": "退去するときに部屋の写真を撮りました。"
       },
       "practice": "Tomé fotos del apartamento cuando me mudé.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Vết xước đó đã có từ lúc tôi dọn vào rồi.",
         "id": "Goresan itu sudah ada waktu saya pindah masuk.",
         "ms": "Calar itu memang sudah ada semasa saya mula masuk.",
-        "ko": "그 긁힌 자국은 제가 이사 들어왔을 때부터 있었어요."
+        "ko": "그 긁힌 자국은 제가 이사 들어왔을 때부터 있었어요.",
+        "ru": "Эта царапина уже была, когда я въехал.",
+        "bn": "আমি যখন উঠেছিলাম তখনই ওই আঁচড়টা ছিল।",
+        "ur": "یہ خراش تو میرے آنے سے پہلے ہی موجود تھی۔",
+        "zh-CN": "那道划痕在我搬进来时就已经有了。",
+        "ja": "その傷は入居したときからありました。"
       },
       "practice": "Ese rayón ya estaba cuando llegué.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Anh/chị có thể gửi cho tôi các khoản khấu trừ bằng văn bản không?",
         "id": "Bisa kirimkan rincian potongannya secara tertulis?",
         "ms": "Boleh anda hantar senarai potongan itu secara bertulis?",
-        "ko": "공제 내역을 서면으로 보내 주실 수 있어요?"
+        "ko": "공제 내역을 서면으로 보내 주실 수 있어요?",
+        "ru": "Не могли бы вы прислать мне список вычетов в письменном виде?",
+        "bn": "আপনি কি কাটতির হিসাবটা লিখিতভাবে পাঠাতে পারবেন?",
+        "ur": "کیا آپ مجھے کٹوتیوں کی تفصیل تحریری طور پر بھیج سکتے ہیں؟",
+        "zh-CN": "您能把扣款明细以书面形式发给我吗？",
+        "ja": "差し引かれた金額の内訳を書面で送っていただけますか？"
       },
       "practice": "¿Podría enviarme los descuentos por escrito?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Tôi muốn được hoàn tiền trước cuối tháng.",
         "id": "Saya ingin uangnya dikembalikan paling lambat akhir bulan.",
         "ms": "Saya mahu bayaran balik itu sebelum hujung bulan.",
-        "ko": "이번 달 말까지 환불해 주셨으면 해요."
+        "ko": "이번 달 말까지 환불해 주셨으면 해요.",
+        "ru": "Я бы хотел получить возврат до конца месяца.",
+        "bn": "আমি মাসের শেষের মধ্যে টাকা ফেরত চাই।",
+        "ur": "میں مہینے کے آخر تک رقم واپس چاہوں گا۔",
+        "zh-CN": "我希望在月底前拿到退款。",
+        "ja": "月末までに返金していただきたいです。"
       },
       "practice": "Me gustaría recibir el reembolso antes de fin de mes.",
       "practice_translations": {

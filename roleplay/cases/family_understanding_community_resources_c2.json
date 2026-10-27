@@ -18,7 +18,12 @@
     "vi": "Đăng ký tại trung tâm cộng đồng",
     "id": "Mendaftar di Pusat Komunitas",
     "ms": "Mendaftar di Pusat Komuniti",
-    "ko": "주민센터 프로그램 등록하기"
+    "ko": "주민센터 프로그램 등록하기",
+    "ru": "Запись в общественном центре",
+    "bn": "কমিউনিটি সেন্টারে নিবন্ধন",
+    "ur": "کمیونٹی سینٹر میں رجسٹریشن",
+    "zh-CN": "在社区中心报名",
+    "ja": "コミュニティセンターで申し込む"
   },
   "character": "fox",
   "scenario": "You visit the local community center, where a staff member (AI) explains the classes and activities for families.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đến trung tâm cộng đồng ở địa phương, nơi một nhân viên (AI) giới thiệu các lớp học và hoạt động dành cho gia đình.",
     "id": "Kamu mengunjungi pusat komunitas setempat, dan seorang staf (AI) menjelaskan kelas dan kegiatan untuk keluarga.",
     "ms": "Anda melawat pusat komuniti setempat, di mana seorang kakitangan (AI) menerangkan kelas dan aktiviti untuk keluarga.",
-    "ko": "동네 주민센터를 방문하자 직원(AI)이 가족을 위한 강좌와 활동을 설명해 줍니다."
+    "ko": "동네 주민센터를 방문하자 직원(AI)이 가족을 위한 강좌와 활동을 설명해 줍니다.",
+    "ru": "Вы приходите в местный общественный центр, где сотрудник (AI) рассказывает о занятиях и мероприятиях для семей.",
+    "bn": "আপনি স্থানীয় কমিউনিটি সেন্টারে গেছেন, যেখানে একজন কর্মী (AI) পরিবারের জন্য ক্লাস ও কার্যক্রম সম্পর্কে বুঝিয়ে বলেন।",
+    "ur": "آپ مقامی کمیونٹی سینٹر جاتے ہیں جہاں ایک عملے کا رکن (AI) خاندانوں کے لیے کلاسز اور سرگرمیوں کی وضاحت کرتا ہے۔",
+    "zh-CN": "你来到当地的社区中心，一位工作人员（AI）为你介绍面向家庭的课程和活动。",
+    "ja": "地域のコミュニティセンターを訪れると、職員（AI）が家族向けのクラスやアクティビティを説明してくれます。"
   },
   "mission": {
     "native": "Find a class that fits your schedule and sign up for it.",
@@ -60,7 +70,12 @@
       "vi": "Tìm một lớp học phù hợp với lịch của bạn và đăng ký.",
       "id": "Temukan kelas yang cocok dengan jadwalmu dan daftarlah.",
       "ms": "Cari kelas yang sesuai dengan jadual anda dan daftar untuknya.",
-      "ko": "일정에 맞는 강좌를 찾아서 등록하세요."
+      "ko": "일정에 맞는 강좌를 찾아서 등록하세요.",
+      "ru": "Найдите занятие, которое подходит под ваше расписание, и запишитесь на него.",
+      "bn": "আপনার সময়সূচির সাথে মেলে এমন একটি ক্লাস খুঁজে নিবন্ধন করুন।",
+      "ur": "اپنے شیڈول کے مطابق کوئی کلاس تلاش کریں اور اس میں داخلہ لیں۔",
+      "zh-CN": "找一门适合你时间安排的课程并报名。",
+      "ja": "自分の予定に合うクラスを見つけて申し込みましょう。"
     },
     "practice": "Encuentre una clase que se ajuste a su horario e inscríbase.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi hiện có những lớp nào",
           "id": "Tanyakan kelas apa saja yang tersedia",
           "ms": "Tanya kelas apa yang ada",
-          "ko": "어떤 강좌가 있는지 물어보세요"
+          "ko": "어떤 강좌가 있는지 물어보세요",
+          "ru": "Спросите, какие есть занятия",
+          "bn": "জিজ্ঞেস করুন কোন কোন ক্লাস আছে",
+          "ur": "پوچھیں کہ کون سی کلاسز دستیاب ہیں",
+          "zh-CN": "询问有哪些课程",
+          "ja": "どんなクラスがあるか尋ねる"
         },
         "practice": "Pregunte qué clases hay disponibles",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói ngày và giờ nào phù hợp với bạn",
           "id": "Sebutkan hari dan jam yang cocok untukmu",
           "ms": "Katakan hari dan masa yang sesuai untuk anda",
-          "ko": "가능한 요일과 시간을 말하세요"
+          "ko": "가능한 요일과 시간을 말하세요",
+          "ru": "Скажите, какие дни и время вам подходят",
+          "bn": "বলুন কোন দিন ও সময় আপনার সুবিধা",
+          "ur": "بتائیں کہ کون سے دن اور اوقات آپ کے لیے مناسب ہیں",
+          "zh-CN": "说明哪些日期和时间适合你",
+          "ja": "都合のよい曜日と時間を伝える"
         },
         "practice": "Diga qué días y horarios le convienen",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi có mất phí hay phải chờ danh sách không",
           "id": "Tanyakan apakah ada biaya atau daftar tunggu",
           "ms": "Tanya sama ada ada bayaran atau senarai menunggu",
-          "ko": "비용이나 대기자 명단이 있는지 물어보세요"
+          "ko": "비용이나 대기자 명단이 있는지 물어보세요",
+          "ru": "Спросите, платно ли это и есть ли лист ожидания",
+          "bn": "জিজ্ঞেস করুন কোনো খরচ বা অপেক্ষমাণ তালিকা আছে কিনা",
+          "ur": "پوچھیں کہ کیا کوئی فیس ہے یا ویٹنگ لسٹ",
+          "zh-CN": "询问是否收费或需要排队候补",
+          "ja": "費用やキャンセル待ちがあるか尋ねる"
         },
         "practice": "Pregunte si tiene costo o si hay lista de espera",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Đăng ký một lớp học",
           "id": "Daftar ke satu kelas",
           "ms": "Daftar untuk satu kelas",
-          "ko": "강좌 하나에 등록하세요"
+          "ko": "강좌 하나에 등록하세요",
+          "ru": "Запишитесь на одно занятие",
+          "bn": "একটি ক্লাসে নাম লেখান",
+          "ur": "ایک کلاس کے لیے اندراج کروائیں",
+          "zh-CN": "报名一门课程",
+          "ja": "クラスに1つ申し込みましょう"
         },
         "practice": "Inscríbase en una clase",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Ở đây có những loại lớp học nào vậy?",
         "id": "Kelas apa saja yang ada di sini?",
         "ms": "Apakah jenis kelas yang ditawarkan di sini?",
-        "ko": "여기에는 어떤 강좌들이 있어요?"
+        "ko": "여기에는 어떤 강좌들이 있어요?",
+        "ru": "Какие занятия у вас здесь есть?",
+        "bn": "এখানে কী কী ধরনের ক্লাস আছে?",
+        "ur": "یہاں کس قسم کی کلاسیں ہوتی ہیں؟",
+        "zh-CN": "你们这里有哪些课程？",
+        "ja": "こちらではどんなクラスがありますか？"
       },
       "practice": "¿Qué tipo de clases ofrecen aquí?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Tôi chỉ rảnh vào buổi tối các ngày trong tuần.",
         "id": "Saya hanya bisa di malam hari kerja.",
         "ms": "Saya hanya lapang pada waktu petang hari bekerja.",
-        "ko": "저는 평일 저녁에만 시간이 돼요."
+        "ko": "저는 평일 저녁에만 시간이 돼요.",
+        "ru": "Я свободен только по будним вечерам.",
+        "bn": "আমি শুধু সপ্তাহের দিনগুলোতে সন্ধ্যায় ফাঁকা থাকি।",
+        "ur": "میں صرف ہفتے کے دنوں میں شام کو فارغ ہوتا ہوں۔",
+        "zh-CN": "我只有工作日晚上有空。",
+        "ja": "平日の夜しか空いていません。"
       },
       "practice": "Solo tengo tiempo entre semana por las tardes.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Lớp này miễn phí hay có tính phí?",
         "id": "Apakah gratis, atau ada biayanya?",
         "ms": "Adakah ia percuma, atau ada bayaran?",
-        "ko": "무료인가요, 아니면 수강료가 있나요?"
+        "ko": "무료인가요, 아니면 수강료가 있나요?",
+        "ru": "Это бесплатно или платно?",
+        "bn": "এটা কি বিনামূল্যে, নাকি টাকা লাগে?",
+        "ur": "کیا یہ مفت ہے یا کوئی فیس ہے؟",
+        "zh-CN": "是免费的，还是要收费？",
+        "ja": "無料ですか、それとも費用がかかりますか？"
       },
       "practice": "¿Es gratis o hay que pagar?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Có phải xếp vào danh sách chờ không?",
         "id": "Apakah ada daftar tunggu?",
         "ms": "Adakah ada senarai menunggu?",
-        "ko": "대기자 명단이 있나요?"
+        "ko": "대기자 명단이 있나요?",
+        "ru": "Есть ли лист ожидания?",
+        "bn": "কোনো অপেক্ষার তালিকা আছে কি?",
+        "ur": "کیا کوئی ویٹنگ لسٹ ہے؟",
+        "zh-CN": "需要排队等候吗？",
+        "ja": "キャンセル待ちはありますか？"
       },
       "practice": "¿Hay lista de espera?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Tuyệt quá, tôi muốn đăng ký lớp nấu ăn.",
         "id": "Bagus, saya mau mendaftar kelas memasak.",
         "ms": "Bagus, saya ingin mendaftar untuk kelas memasak.",
-        "ko": "좋아요, 요리 강좌에 등록하고 싶어요."
+        "ko": "좋아요, 요리 강좌에 등록하고 싶어요.",
+        "ru": "Отлично, я хотел бы записаться на кулинарные курсы.",
+        "bn": "দারুণ, আমি রান্নার ক্লাসে নাম লেখাতে চাই।",
+        "ur": "بہت اچھا، میں کھانا پکانے کی کلاس میں داخلہ لینا چاہوں گا۔",
+        "zh-CN": "太好了，我想报名烹饪课。",
+        "ja": "いいですね、料理教室に申し込みたいです。"
       },
       "practice": "Perfecto, quisiera inscribirme en la clase de cocina.",
       "practice_translations": {

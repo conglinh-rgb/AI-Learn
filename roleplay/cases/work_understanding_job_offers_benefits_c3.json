@@ -18,7 +18,12 @@
     "vi": "Không chỉ là tiền lương",
     "id": "Lebih dari Sekadar Gaji",
     "ms": "Lebih Daripada Gaji",
-    "ko": "급여 그 이상"
+    "ko": "급여 그 이상",
+    "ru": "Не только зарплата",
+    "bn": "বেতনের বাইরেও",
+    "ur": "تنخواہ سے بڑھ کر",
+    "zh-CN": "薪水之外",
+    "ja": "給与以外の条件"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Công ty không thể tăng mức lương đã đề nghị, nhưng người phụ trách tuyển dụng (AI) sẵn lòng bàn về các phúc lợi khác.",
     "id": "Perusahaan tidak bisa menaikkan gaji yang ditawarkan, tapi manajer perekrutan (AI) terbuka untuk membahas tunjangan lainnya.",
     "ms": "Syarikat tidak dapat menaikkan gaji yang ditawarkan kepada anda, tetapi pengurus pengambilan (AI) terbuka untuk berbincang tentang faedah lain.",
-    "ko": "회사는 제안한 연봉을 올려 줄 수 없지만, 채용 담당 매니저(AI)는 다른 혜택에 대해서는 이야기할 의향이 있어요."
+    "ko": "회사는 제안한 연봉을 올려 줄 수 없지만, 채용 담당 매니저(AI)는 다른 혜택에 대해서는 이야기할 의향이 있어요.",
+    "ru": "Компания не может повысить предложенную зарплату, но менеджер по найму (AI) готов обсудить другие льготы.",
+    "bn": "কোম্পানি প্রস্তাবিত বেতন বাড়াতে পারবে না, তবে নিয়োগ ব্যবস্থাপক (AI) অন্যান্য সুবিধা নিয়ে আলোচনা করতে রাজি।",
+    "ur": "کمپنی پیش کردہ تنخواہ نہیں بڑھا سکتی، لیکن ہائرنگ مینیجر (AI) دیگر مراعات پر بات کرنے کے لیے تیار ہے۔",
+    "zh-CN": "公司无法提高给你的薪资，但招聘经理（AI）愿意商谈其他福利。",
+    "ja": "会社は提示した給与を上げられませんが、採用担当マネージャー（AI）は他の福利厚生について話し合う意向があります。"
   },
   "mission": {
     "native": "Negotiate better benefits and make sure the final terms are put in writing.",
@@ -61,7 +71,12 @@
       "vi": "Thương lượng phúc lợi tốt hơn và đảm bảo các điều khoản cuối cùng được ghi bằng văn bản.",
       "id": "Negosiasikan tunjangan yang lebih baik dan pastikan syarat akhirnya dibuat tertulis.",
       "ms": "Runding faedah yang lebih baik dan pastikan terma akhir dinyatakan secara bertulis.",
-      "ko": "더 나은 혜택을 협상하고 최종 조건을 반드시 서면으로 받으세요."
+      "ko": "더 나은 혜택을 협상하고 최종 조건을 반드시 서면으로 받으세요.",
+      "ru": "Договоритесь о лучших льготах и убедитесь, что окончательные условия зафиксированы письменно.",
+      "bn": "আরও ভালো সুবিধা নিয়ে দর-কষাকষি করুন এবং চূড়ান্ত শর্তগুলো লিখিতভাবে নিশ্চিত করুন।",
+      "ur": "بہتر مراعات پر بات چیت کریں اور یقینی بنائیں کہ حتمی شرائط تحریری طور پر ہوں۔",
+      "zh-CN": "争取更好的福利，并确保最终条款以书面形式确定。",
+      "ja": "より良い福利厚生を交渉し、最終条件を必ず書面にしてもらいましょう。"
     },
     "practice": "Negocie mejores beneficios y asegúrese de que las condiciones finales queden por escrito.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Nói rằng bạn trân trọng lời mời làm việc",
           "id": "Katakan bahwa kamu menghargai tawarannya",
           "ms": "Nyatakan bahawa anda menghargai tawaran itu",
-          "ko": "제안에 감사하다고 말하세요"
+          "ko": "제안에 감사하다고 말하세요",
+          "ru": "Скажите, что цените предложение",
+          "bn": "বলুন যে আপনি প্রস্তাবটির প্রশংসা করেন",
+          "ur": "کہیں کہ آپ پیشکش کی قدر کرتے ہیں",
+          "zh-CN": "表示你很感谢这份录用",
+          "ja": "オファーへの感謝を伝えましょう"
         },
         "practice": "Diga que valora la oferta",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Xin thêm ngày nghỉ phép",
           "id": "Minta tambahan hari cuti",
           "ms": "Minta hari cuti tambahan",
-          "ko": "휴가를 며칠 더 요청하세요"
+          "ko": "휴가를 며칠 더 요청하세요",
+          "ru": "Попросите дополнительные дни отпуска",
+          "bn": "অতিরিক্ত ছুটির দিন চান",
+          "ur": "اضافی چھٹیوں کی درخواست کریں",
+          "zh-CN": "要求增加假期天数",
+          "ja": "休暇日数の追加をお願いしましょう"
         },
         "practice": "Pida días de vacaciones adicionales",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi về việc làm việc tại nhà",
           "id": "Tanyakan soal bekerja dari rumah",
           "ms": "Tanya tentang bekerja dari rumah",
-          "ko": "재택근무에 대해 물어보세요"
+          "ko": "재택근무에 대해 물어보세요",
+          "ru": "Спросите об удалённой работе",
+          "bn": "বাড়ি থেকে কাজের বিষয়ে জিজ্ঞেস করুন",
+          "ur": "گھر سے کام کرنے کے بارے میں پوچھیں",
+          "zh-CN": "询问居家办公的可能",
+          "ja": "在宅勤務について尋ねましょう"
         },
         "practice": "Pregunte por la posibilidad de trabajar desde casa",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Yêu cầu các điều khoản cuối cùng bằng văn bản",
           "id": "Minta syarat akhirnya dibuat tertulis",
           "ms": "Minta terma akhir secara bertulis",
-          "ko": "최종 조건을 서면으로 요청하세요"
+          "ko": "최종 조건을 서면으로 요청하세요",
+          "ru": "Попросите прислать окончательные условия в письменном виде",
+          "bn": "চূড়ান্ত শর্তগুলো লিখিতভাবে চান",
+          "ur": "حتمی شرائط تحریری طور پر مانگیں",
+          "zh-CN": "要求以书面形式提供最终条款",
+          "ja": "最終条件を書面でもらえるよう頼みましょう"
         },
         "practice": "Pida las condiciones finales por escrito",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi thực sự trân trọng lời mời, và tôi hiểu mức lương đã cố định.",
         "id": "Saya sangat menghargai tawarannya, dan saya paham gajinya sudah tetap.",
         "ms": "Saya sangat menghargai tawaran ini, dan saya faham gajinya tetap.",
-        "ko": "제안해 주셔서 정말 감사하고, 연봉은 조정이 어렵다는 것도 이해해요."
+        "ko": "제안해 주셔서 정말 감사하고, 연봉은 조정이 어렵다는 것도 이해해요.",
+        "ru": "Я очень ценю ваше предложение и понимаю, что зарплата фиксирована.",
+        "bn": "প্রস্তাবটির জন্য আমি সত্যিই কৃতজ্ঞ, এবং বুঝি যে বেতন নির্দিষ্ট।",
+        "ur": "میں اس پیشکش کی واقعی قدر کرتا ہوں، اور سمجھتا ہوں کہ تنخواہ طے شدہ ہے۔",
+        "zh-CN": "非常感谢这份录用，我也理解薪资是固定的。",
+        "ja": "オファーには本当に感謝しています。給与が確定していることも理解しています。"
       },
       "practice": "Valoro mucho la oferta y entiendo que el salario es fijo.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi có thể được thêm năm ngày nghỉ phép không?",
         "id": "Apakah mungkin saya mendapat lima hari cuti tambahan?",
         "ms": "Boleh tak saya dapat lima hari cuti tambahan?",
-        "ko": "휴가를 5일 더 받을 수 있을까요?"
+        "ko": "휴가를 5일 더 받을 수 있을까요?",
+        "ru": "Можно ли получить ещё пять дней отпуска?",
+        "bn": "আরও পাঁচ দিন ছুটি পাওয়া কি সম্ভব হবে?",
+        "ur": "کیا پانچ دن مزید چھٹیاں ملنا ممکن ہوگا؟",
+        "zh-CN": "可以多给五天假期吗？",
+        "ja": "休暇をあと5日増やしていただくことは可能でしょうか？"
       },
       "practice": "¿Sería posible tener cinco días más de vacaciones?",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có thể làm việc tại nhà hai ngày một tuần không?",
         "id": "Bolehkah saya bekerja dari rumah dua hari seminggu?",
         "ms": "Boleh saya bekerja dari rumah dua hari seminggu?",
-        "ko": "일주일에 이틀은 재택근무를 해도 될까요?"
+        "ko": "일주일에 이틀은 재택근무를 해도 될까요?",
+        "ru": "Могу ли я работать из дома два дня в неделю?",
+        "bn": "আমি কি সপ্তাহে দুই দিন বাড়ি থেকে কাজ করতে পারি?",
+        "ur": "کیا میں ہفتے میں دو دن گھر سے کام کر سکتا ہوں؟",
+        "zh-CN": "我可以每周居家办公两天吗？",
+        "ja": "週2日在宅勤務をすることはできますか？"
       },
       "practice": "¿Podría trabajar desde casa dos días a la semana?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Nếu mình thống nhất được như vậy, tôi sẵn sàng nhận lời.",
         "id": "Kalau kita sepakat soal itu, saya siap menerimanya.",
         "ms": "Jika kita bersetuju tentang itu, saya bersedia untuk menerimanya.",
-        "ko": "그렇게 합의되면 제안을 받아들일게요."
+        "ko": "그렇게 합의되면 제안을 받아들일게요.",
+        "ru": "Если мы договоримся об этом, я готов принять предложение.",
+        "bn": "এ বিষয়ে আমরা একমত হলে, আমি গ্রহণ করতে প্রস্তুত।",
+        "ur": "اگر ہم اس پر متفق ہو جائیں تو میں قبول کرنے کے لیے تیار ہوں۔",
+        "zh-CN": "如果我们能就此达成一致，我愿意接受。",
+        "ja": "その点で合意できれば、お受けする準備はできています。"
       },
       "practice": "Si llegamos a un acuerdo en eso, estoy listo para aceptar.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Anh/chị có thể gửi cho tôi lời mời đã cập nhật bằng văn bản không?",
         "id": "Bisa kirimkan tawaran yang sudah diperbarui secara tertulis?",
         "ms": "Boleh hantar tawaran yang dikemas kini secara bertulis?",
-        "ko": "수정된 제안을 서면으로 보내 주실 수 있나요?"
+        "ko": "수정된 제안을 서면으로 보내 주실 수 있나요?",
+        "ru": "Не могли бы вы прислать мне обновлённое предложение в письменном виде?",
+        "bn": "আপনি কি আমাকে হালনাগাদ প্রস্তাবটি লিখিতভাবে পাঠাতে পারবেন?",
+        "ur": "کیا آپ مجھے تازہ پیشکش تحریری طور پر بھیج سکتے ہیں؟",
+        "zh-CN": "能否把更新后的录用条件书面发给我？",
+        "ja": "更新したオファーを書面で送っていただけますか？"
       },
       "practice": "¿Me podría enviar la oferta actualizada por escrito?",
       "practice_translations": {

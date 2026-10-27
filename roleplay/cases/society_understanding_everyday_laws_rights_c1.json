@@ -18,7 +18,12 @@
     "vi": "Tấm vé phạt đỗ xe bí ẩn",
     "id": "Tilang Parkir yang Misterius",
     "ms": "Saman Letak Kereta yang Misteri",
-    "ko": "수상한 주차 딱지"
+    "ko": "수상한 주차 딱지",
+    "ru": "Загадочный штраф за парковку",
+    "bn": "রহস্যময় পার্কিং জরিমানা",
+    "ur": "پراسرار پارکنگ چالان",
+    "zh-CN": "神秘的停车罚单",
+    "ja": "謎の駐車違反切符"
   },
   "character": "fox",
   "scenario": "You come back to your car and find a parking ticket on the windshield. The parking officer (AI) who wrote it is still on the street.",
@@ -39,7 +44,12 @@
     "vi": "Bạn quay lại xe và thấy một tấm vé phạt đỗ xe trên kính chắn gió. Nhân viên kiểm soát đỗ xe (AI) đã viết vé phạt vẫn còn ở ngoài phố.",
     "id": "Kamu kembali ke mobil dan menemukan surat tilang parkir di kaca depan. Petugas parkir (AI) yang menulisnya masih ada di jalan.",
     "ms": "Anda kembali ke kereta dan mendapati saman letak kereta di cermin hadapan. Pegawai tempat letak kereta (AI) yang mengeluarkannya masih berada di jalan itu.",
-    "ko": "차로 돌아와 보니 앞유리에 주차 위반 딱지가 붙어 있습니다. 딱지를 뗀 주차 단속원(AI)이 아직 거리에 있습니다."
+    "ko": "차로 돌아와 보니 앞유리에 주차 위반 딱지가 붙어 있습니다. 딱지를 뗀 주차 단속원(AI)이 아직 거리에 있습니다.",
+    "ru": "Вы возвращаетесь к машине и находите на лобовом стекле штраф за парковку. Инспектор по парковке (AI), который его выписал, всё ещё на улице.",
+    "bn": "আপনি গাড়িতে ফিরে এসে উইন্ডশিল্ডে একটি পার্কিং জরিমানার টিকিট দেখতে পান। যে পার্কিং অফিসার (AI) এটি লিখেছেন, তিনি এখনও রাস্তায় আছেন।",
+    "ur": "آپ اپنی گاڑی پر واپس آتے ہیں اور ونڈ شیلڈ پر پارکنگ کا چالان پاتے ہیں۔ چالان کرنے والا پارکنگ افسر (AI) ابھی بھی سڑک پر موجود ہے۔",
+    "zh-CN": "你回到车旁，发现挡风玻璃上有一张停车罚单。开罚单的停车管理员（AI）还在街上。",
+    "ja": "車に戻ると、フロントガラスに駐車違反切符が挟まっています。切符を切った駐車監視員（AI）はまだ通りにいます。"
   },
   "mission": {
     "native": "Ask the officer why you got the ticket and how to pay it.",
@@ -60,7 +70,12 @@
       "vi": "Hỏi nhân viên vì sao bạn bị phạt và cách nộp phạt.",
       "id": "Tanyakan kepada petugas kenapa kamu kena tilang dan cara membayarnya.",
       "ms": "Tanya pegawai itu mengapa anda disaman dan cara membayarnya.",
-      "ko": "단속원에게 왜 딱지를 받았는지, 어떻게 내면 되는지 물어보세요."
+      "ko": "단속원에게 왜 딱지를 받았는지, 어떻게 내면 되는지 물어보세요.",
+      "ru": "Спросите инспектора, за что вам выписали штраф и как его оплатить.",
+      "bn": "অফিসারকে জিজ্ঞেস করুন কেন আপনি জরিমানা পেলেন এবং কীভাবে তা পরিশোধ করবেন।",
+      "ur": "افسر سے پوچھیں کہ آپ کا چالان کیوں ہوا اور اسے کیسے ادا کریں۔",
+      "zh-CN": "询问管理员你为什么被开罚单以及如何缴纳。",
+      "ja": "監視員に、なぜ切符を切られたのか、どう支払えばいいか尋ねましょう。"
     },
     "practice": "Pregunte al agente por qué recibió la multa y cómo pagarla.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi vì sao bạn bị phạt",
           "id": "Tanyakan kenapa kamu kena tilang",
           "ms": "Tanya mengapa anda menerima saman itu",
-          "ko": "왜 딱지를 받았는지 물어보세요"
+          "ko": "왜 딱지를 받았는지 물어보세요",
+          "ru": "Спросите, за что вам выписали штраф",
+          "bn": "জিজ্ঞেস করুন কেন আপনি জরিমানা পেলেন",
+          "ur": "پوچھیں کہ آپ کا چالان کیوں ہوا",
+          "zh-CN": "询问你为什么被开罚单",
+          "ja": "なぜ切符を切られたのか尋ねましょう"
         },
         "practice": "Pregunte por qué recibió la multa",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi tiền phạt là bao nhiêu",
           "id": "Tanyakan berapa dendanya",
           "ms": "Tanya berapa jumlah dendanya",
-          "ko": "벌금이 얼마인지 물어보세요"
+          "ko": "벌금이 얼마인지 물어보세요",
+          "ru": "Спросите, какова сумма штрафа",
+          "bn": "জিজ্ঞেস করুন জরিমানা কত",
+          "ur": "پوچھیں کہ جرمانہ کتنا ہے",
+          "zh-CN": "询问罚款金额",
+          "ja": "罰金がいくらか尋ねましょう"
         },
         "practice": "Pregunte cuánto es la multa",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi nộp phạt ở đâu và bằng cách nào",
           "id": "Tanyakan cara dan tempat membayarnya",
           "ms": "Tanya bagaimana dan di mana untuk membayarnya",
-          "ko": "어떻게, 어디서 내는지 물어보세요"
+          "ko": "어떻게, 어디서 내는지 물어보세요",
+          "ru": "Спросите, как и где его оплатить",
+          "bn": "জিজ্ঞেস করুন কীভাবে এবং কোথায় তা পরিশোধ করবেন",
+          "ur": "پوچھیں کہ اسے کیسے اور کہاں ادا کریں",
+          "zh-CN": "询问如何以及在哪里缴纳",
+          "ja": "どこでどうやって支払うか尋ねましょう"
         },
         "practice": "Pregunte cómo y dónde pagarla",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Xin lỗi anh/chị, sao tôi lại bị phạt vậy?",
         "id": "Permisi, Pak, kenapa saya kena tilang ini?",
         "ms": "Maaf, encik, kenapa saya dapat saman ini?",
-        "ko": "실례합니다, 제가 왜 이 딱지를 받은 건가요?"
+        "ko": "실례합니다, 제가 왜 이 딱지를 받은 건가요?",
+        "ru": "Извините, за что мне выписали этот штраф?",
+        "bn": "মাফ করবেন অফিসার, আমি এই জরিমানা কেন পেলাম?",
+        "ur": "معاف کیجیے افسر، میرا یہ چالان کیوں ہوا؟",
+        "zh-CN": "打扰一下，请问我为什么会被开这张罚单？",
+        "ja": "すみません、なぜこの切符を切られたんですか？"
       },
       "practice": "Disculpe, oficial, ¿por qué me pusieron esta multa?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi không thấy biển cấm đỗ xe.",
         "id": "Saya tidak melihat rambu dilarang parkir.",
         "ms": "Saya tidak nampak papan tanda larangan meletak kenderaan.",
-        "ko": "주차 금지 표지판을 못 봤어요."
+        "ko": "주차 금지 표지판을 못 봤어요.",
+        "ru": "Я не заметил знак «Стоянка запрещена».",
+        "bn": "আমি পার্কিং নিষেধের চিহ্নটি দেখিনি।",
+        "ur": "میں نے نو پارکنگ کا نشان نہیں دیکھا۔",
+        "zh-CN": "我没看到禁止停车的标志。",
+        "ja": "駐車禁止の標識に気づきませんでした。"
       },
       "practice": "No vi la señal de prohibido estacionar.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tiền phạt là bao nhiêu vậy?",
         "id": "Berapa dendanya?",
         "ms": "Berapa dendanya?",
-        "ko": "벌금이 얼마예요?"
+        "ko": "벌금이 얼마예요?",
+        "ru": "Какая сумма штрафа?",
+        "bn": "জরিমানা কত?",
+        "ur": "جرمانہ کتنا ہے؟",
+        "zh-CN": "罚款是多少？",
+        "ja": "罰金はいくらですか？"
       },
       "practice": "¿De cuánto es la multa?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tôi có thể nộp phạt trực tuyến không?",
         "id": "Apakah bisa dibayar secara online?",
         "ms": "Bolehkah saya bayar dalam talian?",
-        "ko": "온라인으로 낼 수 있어요?"
+        "ko": "온라인으로 낼 수 있어요?",
+        "ru": "Можно оплатить его онлайн?",
+        "bn": "আমি কি অনলাইনে পরিশোধ করতে পারি?",
+        "ur": "کیا میں اسے آن لائن ادا کر سکتا ہوں؟",
+        "zh-CN": "我可以在网上缴纳吗？",
+        "ja": "オンラインで支払えますか？"
       },
       "practice": "¿Puedo pagarla en línea?",
       "practice_translations": {

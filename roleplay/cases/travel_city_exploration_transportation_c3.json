@@ -18,7 +18,12 @@
     "vi": "Chiếc taxi đi đường vòng",
     "id": "Taksi yang Mengambil Jalan Memutar",
     "ms": "Teksi Ambil Jalan Jauh",
-    "ko": "먼 길로 돌아간 택시"
+    "ko": "먼 길로 돌아간 택시",
+    "ru": "Такси поехало в объезд",
+    "bn": "ট্যাক্সি ঘুরপথে গেল",
+    "ur": "ٹیکسی لمبے راستے سے گئی",
+    "zh-CN": "出租车绕了远路",
+    "ja": "タクシーが遠回りした"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Chuyến taxi về khách sạn mất gấp đôi thời gian dự kiến. Giờ tài xế taxi (AI) đòi số tiền cao hơn nhiều so với ước tính của ứng dụng bản đồ.",
     "id": "Perjalanan taksimu ke hotel memakan waktu dua kali lipat dari perkiraan. Sekarang sopir taksi (AI) meminta jauh lebih banyak dari perkiraan aplikasi petamu.",
     "ms": "Perjalanan teksi anda ke hotel mengambil masa dua kali ganda daripada jangkaan. Kini pemandu teksi (AI) meminta jauh lebih banyak daripada anggaran aplikasi peta anda.",
-    "ko": "호텔까지 가는 택시가 예상보다 두 배나 오래 걸렸습니다. 이제 택시 기사(AI)가 지도 앱의 예상 요금보다 훨씬 많은 돈을 요구합니다."
+    "ko": "호텔까지 가는 택시가 예상보다 두 배나 오래 걸렸습니다. 이제 택시 기사(AI)가 지도 앱의 예상 요금보다 훨씬 많은 돈을 요구합니다.",
+    "ru": "Поездка на такси до отеля заняла вдвое больше времени, чем ожидалось. Теперь таксист (AI) требует гораздо больше, чем рассчитало ваше картографическое приложение.",
+    "bn": "হোটেলে ট্যাক্সিতে যেতে প্রত্যাশার দ্বিগুণ সময় লেগেছে। এখন ট্যাক্সিচালক (AI) আপনার ম্যাপ অ্যাপের অনুমানের চেয়ে অনেক বেশি ভাড়া চাইছেন।",
+    "ur": "ہوٹل تک ٹیکسی کے سفر میں توقع سے دوگنا وقت لگا۔ اب ٹیکسی ڈرائیور (AI) آپ کی میپ ایپ کے اندازے سے کہیں زیادہ کرایہ مانگ رہا ہے۔",
+    "zh-CN": "你乘出租车去酒店花了预计两倍的时间。现在出租车司机（AI）要价远高于地图应用的估算。",
+    "ja": "ホテルまでのタクシーが予想の2倍の時間がかかりました。運転手（AI）は地図アプリの見積もりよりはるかに高い料金を請求しています。"
   },
   "mission": {
     "native": "Question the fare calmly, point out the detour and agree on a fair price.",
@@ -61,7 +71,12 @@
       "vi": "Bình tĩnh thắc mắc về giá cước, chỉ ra việc đi đường vòng và thống nhất một mức giá hợp lý.",
       "id": "Pertanyakan tarifnya dengan tenang, tunjukkan jalan memutarnya, dan sepakati harga yang wajar.",
       "ms": "Persoalkan tambang dengan tenang, tunjukkan lencongan itu dan sepakati harga yang adil.",
-      "ko": "침착하게 요금에 대해 따지고, 돌아온 길을 지적하고, 적정한 가격에 합의하세요."
+      "ko": "침착하게 요금에 대해 따지고, 돌아온 길을 지적하고, 적정한 가격에 합의하세요.",
+      "ru": "Спокойно оспорьте стоимость, укажите на объезд и договоритесь о справедливой цене.",
+      "bn": "শান্তভাবে ভাড়া নিয়ে প্রশ্ন তুলুন, ঘুরপথের কথা বলুন এবং ন্যায্য দামে একমত হন।",
+      "ur": "سکون سے کرائے پر سوال کریں، لمبے راستے کی نشاندہی کریں اور مناسب قیمت پر اتفاق کریں۔",
+      "zh-CN": "冷静地质疑车费，指出绕路问题，并商定一个合理的价格。",
+      "ja": "落ち着いて料金に疑問を伝え、遠回りを指摘し、適正な料金で合意しましょう。"
     },
     "practice": "Cuestione la tarifa con calma, señale el desvío y acuerden un precio justo.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Nói rằng giá cước có vẻ quá cao",
           "id": "Katakan bahwa tarifnya terlalu mahal",
           "ms": "Katakan tambang itu nampak terlalu mahal",
-          "ko": "요금이 너무 비싼 것 같다고 말하세요"
+          "ko": "요금이 너무 비싼 것 같다고 말하세요",
+          "ru": "Скажите, что стоимость кажется слишком высокой",
+          "bn": "বলুন যে ভাড়াটা অনেক বেশি মনে হচ্ছে",
+          "ur": "کہیں کہ کرایہ بہت زیادہ لگ رہا ہے",
+          "zh-CN": "说车费似乎太高了",
+          "ja": "料金が高すぎるようだと伝えましょう"
         },
         "practice": "Diga que la tarifa parece demasiado alta",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Chỉ ra rằng tuyến đường đã dài hơn",
           "id": "Tunjukkan bahwa rutenya lebih jauh",
           "ms": "Tunjukkan bahawa laluannya lebih jauh",
-          "ko": "경로가 더 길었다고 지적하세요"
+          "ko": "경로가 더 길었다고 지적하세요",
+          "ru": "Укажите, что маршрут был длиннее",
+          "bn": "জানান যে রাস্তাটি বেশি লম্বা ছিল",
+          "ur": "بتائیں کہ راستہ زیادہ لمبا تھا",
+          "zh-CN": "指出路线绕远了",
+          "ja": "ルートが遠回りだったと指摘しましょう"
         },
         "practice": "Señale que la ruta fue más larga",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Xin xem đồng hồ tính cước hoặc hóa đơn",
           "id": "Minta lihat argo atau struknya",
           "ms": "Minta untuk melihat meter atau resit",
-          "ko": "미터기나 영수증을 보여 달라고 하세요"
+          "ko": "미터기나 영수증을 보여 달라고 하세요",
+          "ru": "Попросите показать счётчик или чек",
+          "bn": "মিটার বা রসিদ দেখতে চান",
+          "ur": "میٹر یا رسید دکھانے کو کہیں",
+          "zh-CN": "要求查看计价器或收据",
+          "ja": "メーターか領収書を見せてもらいましょう"
         },
         "practice": "Pida ver el taxímetro o un recibo",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất một mức giá hợp lý",
           "id": "Sepakati harga yang wajar",
           "ms": "Sepakati harga yang adil",
-          "ko": "적정한 가격에 합의하세요"
+          "ko": "적정한 가격에 합의하세요",
+          "ru": "Договоритесь о справедливой цене",
+          "bn": "একটি ন্যায্য দামে একমত হন",
+          "ur": "مناسب قیمت پر اتفاق کریں",
+          "zh-CN": "商定一个合理的价格",
+          "ja": "適正な料金で合意しましょう"
         },
         "practice": "Acuerden un precio justo",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cuốc xe này có vẻ đắt quá.",
         "id": "Sepertinya itu terlalu mahal untuk perjalanan ini.",
         "ms": "Mahal sangat untuk perjalanan ini.",
-        "ko": "이 거리치고는 요금이 너무 많이 나온 것 같아요."
+        "ko": "이 거리치고는 요금이 너무 많이 나온 것 같아요.",
+        "ru": "Кажется, это многовато за такую поездку.",
+        "bn": "এই যাত্রার জন্য এটা বেশ বেশি মনে হচ্ছে।",
+        "ur": "اس سفر کے لیے یہ کافی زیادہ لگ رہا ہے۔",
+        "zh-CN": "这趟车好像有点贵。",
+        "ja": "この距離にしては高すぎる気がします。"
       },
       "practice": "Me parece mucho para este viaje.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Ứng dụng báo chỉ khoảng một nửa số đó thôi.",
         "id": "Di aplikasi tertulis kira-kira setengahnya.",
         "ms": "Aplikasi kata harganya lebih kurang separuh daripada itu.",
-        "ko": "앱에서는 그 절반 정도 나온다고 했어요."
+        "ko": "앱에서는 그 절반 정도 나온다고 했어요.",
+        "ru": "В приложении было указано примерно вдвое меньше.",
+        "bn": "অ্যাপে বলেছিল এর প্রায় অর্ধেক হবে।",
+        "ur": "ایپ میں تقریباً اس کا آدھا بتایا گیا تھا۔",
+        "zh-CN": "应用上显示大概只要一半。",
+        "ja": "アプリではこの半分くらいと出ていました。"
       },
       "practice": "La aplicación decía que costaría como la mitad.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi nghĩ mình đã đi đường dài hơn.",
         "id": "Sepertinya kita lewat rute yang lebih jauh.",
         "ms": "Saya rasa kita ambil jalan yang lebih jauh.",
-        "ko": "더 먼 길로 온 것 같아요."
+        "ko": "더 먼 길로 온 것 같아요.",
+        "ru": "Думаю, мы поехали более длинным путём.",
+        "bn": "আমার মনে হয় আমরা লম্বা রাস্তা দিয়ে এসেছি।",
+        "ur": "میرا خیال ہے ہم لمبے راستے سے آئے ہیں۔",
+        "zh-CN": "我觉得我们绕远路了。",
+        "ja": "遠回りしたと思うんですが。"
       },
       "practice": "Creo que tomamos una ruta más larga.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Cho tôi xin hóa đơn được không?",
         "id": "Boleh saya minta struknya?",
         "ms": "Boleh saya dapatkan resit?",
-        "ko": "영수증 좀 주시겠어요?"
+        "ko": "영수증 좀 주시겠어요?",
+        "ru": "Можно мне чек, пожалуйста?",
+        "bn": "আমাকে একটা রসিদ দিতে পারবেন, প্লিজ?",
+        "ur": "کیا مجھے رسید مل سکتی ہے، پلیز؟",
+        "zh-CN": "请给我一张收据好吗？",
+        "ja": "領収書をいただけますか？"
       },
       "practice": "¿Me puede dar un recibo, por favor?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Tôi sẵn lòng trả đúng giá bình thường.",
         "id": "Saya dengan senang hati membayar tarif normal.",
         "ms": "Saya sanggup bayar tambang biasa.",
-        "ko": "정상 요금은 기꺼이 낼게요."
+        "ko": "정상 요금은 기꺼이 낼게요.",
+        "ru": "Я готов заплатить обычную цену.",
+        "bn": "আমি স্বাভাবিক ভাড়া দিতে রাজি আছি।",
+        "ur": "میں عام کرایہ خوشی سے ادا کروں گا۔",
+        "zh-CN": "我愿意付正常的车费。",
+        "ja": "通常の料金なら喜んで払います。"
       },
       "practice": "Con gusto le pago la tarifa normal.",
       "practice_translations": {

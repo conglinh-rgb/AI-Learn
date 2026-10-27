@@ -18,7 +18,12 @@
     "vi": "Chiếc vali không bao giờ tới",
     "id": "Koper yang Tak Pernah Datang",
     "ms": "Beg Pakaian yang Tak Pernah Sampai",
-    "ko": "끝내 나오지 않은 여행 가방"
+    "ko": "끝내 나오지 않은 여행 가방",
+    "ru": "Чемодан, который так и не прибыл",
+    "bn": "যে স্যুটকেস কখনো পৌঁছায়নি",
+    "ur": "وہ سوٹ کیس جو کبھی نہیں پہنچا",
+    "zh-CN": "迟迟未到的行李箱",
+    "ja": "届かなかったスーツケース"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Vali của bạn không hề xuất hiện ở băng chuyền hành lý. Nhân viên phụ trách hành lý thất lạc (AI) nói có thể mất vài ngày và có vẻ chẳng vội giúp bạn.",
     "id": "Kopermu tidak pernah keluar di tempat pengambilan bagasi. Petugas bagasi hilang (AI) bilang prosesnya bisa berhari-hari dan tampak tidak terburu-buru membantu.",
     "ms": "Beg pakaian anda tidak keluar di tempat tuntutan bagasi. Ejen bagasi hilang (AI) berkata ia mungkin mengambil masa beberapa hari dan nampak tidak tergesa-gesa untuk membantu.",
-    "ko": "수하물 찾는 곳에서 여행 가방이 끝내 나오지 않았습니다. 분실 수하물 담당 직원(AI)은 며칠 걸릴 수 있다며 서두를 생각이 없어 보입니다."
+    "ko": "수하물 찾는 곳에서 여행 가방이 끝내 나오지 않았습니다. 분실 수하물 담당 직원(AI)은 며칠 걸릴 수 있다며 서두를 생각이 없어 보입니다.",
+    "ru": "Ваш чемодан так и не появился на ленте выдачи багажа. Сотрудник службы розыска багажа (AI) говорит, что это может занять несколько дней, и, похоже, не спешит помогать.",
+    "bn": "ব্যাগেজ ক্লেইমে আপনার স্যুটকেস আসেনি। হারানো লাগেজ বিভাগের কর্মী (AI) বলছেন এতে কয়েক দিন লাগতে পারে এবং সাহায্য করতে তার কোনো তাড়া নেই বলে মনে হচ্ছে।",
+    "ur": "بیگیج کلیم پر آپ کا سوٹ کیس نہیں آیا۔ گمشدہ سامان کا اہلکار (AI) کہتا ہے کہ اس میں کئی دن لگ سکتے ہیں اور اسے مدد کرنے کی کوئی جلدی نظر نہیں آتی۔",
+    "zh-CN": "你的行李箱始终没有出现在行李提取处。行李查询处的工作人员（AI）说可能需要好几天，而且似乎并不急于帮忙。",
+    "ja": "手荷物受取所でスーツケースが出てきませんでした。手荷物紛失窓口の係員（AI）は数日かかるかもしれないと言い、急いで対応する様子もありません。"
   },
   "mission": {
     "native": "Report your lost bag, describe it in detail and insist on help with essentials until it arrives.",
@@ -61,7 +71,12 @@
       "vi": "Báo mất hành lý, mô tả chi tiết và yêu cầu hỗ trợ đồ dùng thiết yếu cho đến khi tìm thấy vali.",
       "id": "Laporkan tasmu yang hilang, jelaskan ciri-cirinya secara rinci, dan desak bantuan untuk kebutuhan pokok sampai tasnya datang.",
       "ms": "Laporkan beg anda yang hilang, terangkan dengan terperinci dan desak bantuan untuk keperluan asas sehingga ia tiba.",
-      "ko": "가방 분실을 신고하고, 자세히 설명하고, 가방이 올 때까지 필수품에 대한 지원을 강하게 요구하세요."
+      "ko": "가방 분실을 신고하고, 자세히 설명하고, 가방이 올 때까지 필수품에 대한 지원을 강하게 요구하세요.",
+      "ru": "Сообщите о потере багажа, подробно опишите его и настаивайте на помощи с самым необходимым, пока он не найдётся.",
+      "bn": "হারানো ব্যাগের কথা জানান, বিস্তারিত বর্ণনা দিন এবং এটি না আসা পর্যন্ত প্রয়োজনীয় জিনিসের জন্য সাহায্যের দাবি করুন।",
+      "ur": "اپنے گمشدہ بیگ کی اطلاع دیں، اس کی تفصیل بتائیں اور اس کے پہنچنے تک ضروری چیزوں کے لیے مدد پر اصرار کریں۔",
+      "zh-CN": "报告行李丢失，详细描述行李，并坚持要求在行李送达前为必需品提供帮助。",
+      "ja": "紛失した荷物を届け出て詳しく説明し、届くまでの必需品について支援を求めましょう。"
     },
     "practice": "Reporte su maleta perdida, descríbala con detalle e insista en recibir ayuda con lo básico hasta que llegue.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Báo rằng vali của bạn bị thất lạc",
           "id": "Laporkan bahwa kopermu hilang",
           "ms": "Laporkan bahawa beg pakaian anda hilang",
-          "ko": "여행 가방이 없어졌다고 신고하세요"
+          "ko": "여행 가방이 없어졌다고 신고하세요",
+          "ru": "Сообщите, что ваш чемодан пропал",
+          "bn": "জানান যে আপনার স্যুটকেস পাওয়া যাচ্ছে না",
+          "ur": "بتائیں کہ آپ کا سوٹ کیس غائب ہے",
+          "zh-CN": "报告你的行李箱不见了",
+          "ja": "スーツケースが見つからないと伝える"
         },
         "practice": "Informe que falta su maleta",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Mô tả chi tiết vali của bạn",
           "id": "Jelaskan ciri-ciri kopermu secara rinci",
           "ms": "Terangkan beg pakaian anda dengan terperinci",
-          "ko": "여행 가방을 자세히 설명하세요"
+          "ko": "여행 가방을 자세히 설명하세요",
+          "ru": "Подробно опишите свой чемодан",
+          "bn": "আপনার স্যুটকেসের বিস্তারিত বর্ণনা দিন",
+          "ur": "اپنے سوٹ کیس کی تفصیل بتائیں",
+          "zh-CN": "详细描述你的行李箱",
+          "ja": "スーツケースを詳しく説明する"
         },
         "practice": "Describa su maleta con detalle",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi họ sẽ giao vali đến đâu",
           "id": "Tanyakan ke mana mereka akan mengantarkannya",
           "ms": "Tanya ke mana mereka akan menghantarnya",
-          "ko": "어디로 배송해 줄지 물어보세요"
+          "ko": "어디로 배송해 줄지 물어보세요",
+          "ru": "Спросите, куда его доставят",
+          "bn": "জিজ্ঞেস করুন তারা এটি কোথায় পৌঁছে দেবে",
+          "ur": "پوچھیں کہ وہ اسے کہاں پہنچائیں گے",
+          "zh-CN": "询问他们会把行李送到哪里",
+          "ja": "どこに届けてもらえるか尋ねる"
         },
         "practice": "Pregunte dónde se la entregarán",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Yêu cầu bồi thường đồ dùng thiết yếu",
           "id": "Minta ganti rugi untuk kebutuhan pokok",
           "ms": "Minta pampasan untuk keperluan asas",
-          "ko": "필수품 비용 보상을 요청하세요"
+          "ko": "필수품 비용 보상을 요청하세요",
+          "ru": "Попросите компенсацию за самое необходимое",
+          "bn": "প্রয়োজনীয় জিনিসের জন্য ক্ষতিপূরণ চান",
+          "ur": "ضروری اشیاء کے لیے معاوضہ مانگیں",
+          "zh-CN": "要求赔偿必需品费用",
+          "ja": "必需品の補償を求める"
         },
         "practice": "Pida una compensación por artículos básicos",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Vali của tôi không ra ở băng chuyền.",
         "id": "Koper saya tidak keluar di ban berjalan.",
         "ms": "Beg pakaian saya tak keluar di tali sawat.",
-        "ko": "제 여행 가방이 컨베이어 벨트에 안 나왔어요."
+        "ko": "제 여행 가방이 컨베이어 벨트에 안 나왔어요.",
+        "ru": "Мой чемодан не появился на ленте.",
+        "bn": "আমার স্যুটকেস বেল্টে আসেনি।",
+        "ur": "میرا سوٹ کیس بیلٹ پر نہیں آیا۔",
+        "zh-CN": "我的行李箱没有从传送带上出来。",
+        "ja": "スーツケースがベルトコンベアに出てきませんでした。"
       },
       "practice": "Mi maleta no salió en la banda.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Đó là một vali lớn màu xanh dương có thẻ màu đỏ.",
         "id": "Kopernya besar, warna biru, dengan label merah.",
         "ms": "Ia beg pakaian biru yang besar dengan tag merah.",
-        "ko": "빨간 태그가 달린 큰 파란색 여행 가방이에요."
+        "ko": "빨간 태그가 달린 큰 파란색 여행 가방이에요.",
+        "ru": "Это большой синий чемодан с красной биркой.",
+        "bn": "এটা লাল ট্যাগসহ একটি বড় নীল স্যুটকেস।",
+        "ur": "یہ ایک بڑا نیلا سوٹ کیس ہے جس پر سرخ ٹیگ لگا ہے۔",
+        "zh-CN": "是一个挂着红色标签的蓝色大行李箱。",
+        "ja": "赤いタグの付いた大きな青いスーツケースです。"
       },
       "practice": "Es una maleta grande azul con una etiqueta roja.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Anh/chị có thể giao đến khách sạn của tôi không?",
         "id": "Bisakah diantarkan ke hotel saya?",
         "ms": "Boleh hantar ke hotel saya?",
-        "ko": "제 호텔로 배송해 주실 수 있나요?"
+        "ko": "제 호텔로 배송해 주실 수 있나요?",
+        "ru": "Вы можете доставить его в мой отель?",
+        "bn": "আপনারা কি এটি আমার হোটেলে পৌঁছে দিতে পারবেন?",
+        "ur": "کیا آپ اسے میرے ہوٹل پہنچا سکتے ہیں؟",
+        "zh-CN": "可以送到我的酒店吗？",
+        "ja": "ホテルまで届けてもらえますか？"
       },
       "practice": "¿Pueden entregarla en mi hotel?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi cần mua ít quần áo và đồ vệ sinh cá nhân.",
         "id": "Saya perlu membeli beberapa pakaian dan perlengkapan mandi.",
         "ms": "Saya perlu beli pakaian dan barang mandian.",
-        "ko": "옷이랑 세면도구를 좀 사야 해요."
+        "ko": "옷이랑 세면도구를 좀 사야 해요.",
+        "ru": "Мне нужно купить одежду и туалетные принадлежности.",
+        "bn": "আমাকে কিছু কাপড় আর প্রসাধনী কিনতে হবে।",
+        "ur": "مجھے کچھ کپڑے اور ٹوائلٹری کا سامان خریدنا ہے۔",
+        "zh-CN": "我需要买些衣服和洗漱用品。",
+        "ja": "服と洗面用具を買わなければなりません。"
       },
       "practice": "Necesito comprar ropa y artículos de aseo.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Hãng bay có chi trả những khoản đó không?",
         "id": "Apakah maskapai akan menanggung biaya itu?",
         "ms": "Adakah syarikat penerbangan akan tanggung perbelanjaan itu?",
-        "ko": "그 비용은 항공사에서 부담해 주나요?"
+        "ko": "그 비용은 항공사에서 부담해 주나요?",
+        "ru": "Авиакомпания возместит эти расходы?",
+        "bn": "এয়ারলাইন কি এই খরচ বহন করবে?",
+        "ur": "کیا ایئرلائن یہ اخراجات برداشت کرے گی؟",
+        "zh-CN": "航空公司会承担这些费用吗？",
+        "ja": "その費用は航空会社が負担してくれますか？"
       },
       "practice": "¿La aerolínea cubrirá esos gastos?",
       "practice_translations": {

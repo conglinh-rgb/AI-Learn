@@ -18,7 +18,12 @@
     "vi": "Câu hỏi về bảo lãnh thị thực",
     "id": "Pertanyaan soal Sponsor Visa",
     "ms": "Soalan Tentang Tajaan Visa",
-    "ko": "비자 스폰서십 질문"
+    "ko": "비자 스폰서십 질문",
+    "ru": "Вопрос о визовой поддержке",
+    "bn": "স্পনসরশিপের প্রশ্ন",
+    "ur": "اسپانسرشپ کا سوال",
+    "zh-CN": "签证担保问题",
+    "ja": "ビザスポンサーの質問"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Người phụ trách tuyển dụng (AI) thích hồ sơ của bạn, nhưng sau đó hỏi liệu bạn có cần công ty bảo lãnh thị thực để làm việc ở đây không.",
     "id": "Manajer perekrutan (AI) menyukai profilmu, tapi lalu bertanya apakah kamu akan butuh sponsor visa untuk bekerja di sini.",
     "ms": "Pengurus pengambilan (AI) suka profil anda, tetapi kemudian bertanya sama ada anda memerlukan tajaan visa untuk bekerja di sini.",
-    "ko": "채용 담당 매니저(AI)가 당신의 프로필을 마음에 들어 하지만, 여기서 일하려면 비자 스폰서십이 필요한지 물어봅니다."
+    "ko": "채용 담당 매니저(AI)가 당신의 프로필을 마음에 들어 하지만, 여기서 일하려면 비자 스폰서십이 필요한지 물어봅니다.",
+    "ru": "Менеджеру по найму (AI) нравится ваш профиль, но затем он спрашивает, понадобится ли вам визовая поддержка для работы здесь.",
+    "bn": "হায়ারিং ম্যানেজার (AI) আপনার প্রোফাইল পছন্দ করেন, কিন্তু তারপর জিজ্ঞাসা করেন এখানে কাজ করতে আপনার ভিসা স্পনসরশিপ লাগবে কি না।",
+    "ur": "ہائرنگ مینیجر (AI) کو آپ کا پروفائل پسند ہے، لیکن پھر وہ پوچھتا ہے کہ کیا یہاں کام کرنے کے لیے آپ کو ویزا اسپانسرشپ کی ضرورت ہوگی۔",
+    "zh-CN": "招聘经理（AI）很欣赏你的资历，但随后问你在这里工作是否需要签证担保。",
+    "ja": "採用担当者（AI）はあなたのプロフィールを気に入っていますが、ここで働くにはビザのスポンサーが必要かどうか尋ねてきます。"
   },
   "mission": {
     "native": "Answer the sponsorship question honestly and keep the conversation focused on your value.",
@@ -61,7 +71,12 @@
       "vi": "Trả lời trung thực câu hỏi về bảo lãnh và giữ cuộc trò chuyện tập trung vào giá trị của bạn.",
       "id": "Jawab pertanyaan soal sponsor dengan jujur dan jaga agar obrolan tetap fokus pada nilai dirimu.",
       "ms": "Jawab soalan tentang tajaan dengan jujur dan pastikan perbualan tertumpu pada nilai diri anda.",
-      "ko": "스폰서십 질문에 솔직하게 답하고 대화의 초점을 당신의 가치에 맞추세요."
+      "ko": "스폰서십 질문에 솔직하게 답하고 대화의 초점을 당신의 가치에 맞추세요.",
+      "ru": "Честно ответьте на вопрос о визовой поддержке и сосредоточьте разговор на своих сильных сторонах.",
+      "bn": "স্পনসরশিপের প্রশ্নের সৎ উত্তর দিন এবং কথোপকথন আপনার যোগ্যতার দিকে কেন্দ্রীভূত রাখুন।",
+      "ur": "اسپانسرشپ کے سوال کا ایمانداری سے جواب دیں اور گفتگو کو اپنی اہمیت پر مرکوز رکھیں۔",
+      "zh-CN": "如实回答签证担保问题，并让对话聚焦于你能带来的价值。",
+      "ja": "ビザスポンサーの質問に正直に答え、自分の強みに話の焦点を保ちましょう。"
     },
     "practice": "Responda con honestidad la pregunta sobre el patrocinio y mantenga la conversación centrada en lo que usted aporta.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Trả lời trung thực liệu bạn có cần bảo lãnh không",
           "id": "Jawab dengan jujur apakah kamu butuh sponsor",
           "ms": "Jawab dengan jujur sama ada anda perlukan tajaan",
-          "ko": "스폰서십이 필요한지 솔직하게 답하세요"
+          "ko": "스폰서십이 필요한지 솔직하게 답하세요",
+          "ru": "Честно скажите, нужна ли вам визовая поддержка",
+          "bn": "আপনার স্পনসরশিপ লাগবে কি না, সৎভাবে জানান",
+          "ur": "ایمانداری سے بتائیں کہ آپ کو اسپانسرشپ کی ضرورت ہے یا نہیں",
+          "zh-CN": "如实说明你是否需要工作签证担保",
+          "ja": "ビザのスポンサーが必要かどうか正直に答えましょう"
         },
         "practice": "Responda con honestidad si necesita patrocinio",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích bạn mang lại gì cho nhóm",
           "id": "Jelaskan apa yang bisa kamu berikan untuk tim",
           "ms": "Terangkan apa yang anda boleh sumbangkan kepada pasukan",
-          "ko": "팀에 어떤 기여를 할 수 있는지 설명하세요"
+          "ko": "팀에 어떤 기여를 할 수 있는지 설명하세요",
+          "ru": "Объясните, что вы привнесёте в команду",
+          "bn": "দলে আপনি কী অবদান রাখবেন তা ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ آپ ٹیم میں کیا لائیں گے",
+          "zh-CN": "说明你能为团队带来什么",
+          "ja": "チームに何をもたらせるか説明しましょう"
         },
         "practice": "Explique lo que aporta al equipo",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi công ty đã từng bảo lãnh cho ai chưa",
           "id": "Tanyakan apakah perusahaan pernah mensponsori sebelumnya",
           "ms": "Tanya sama ada syarikat pernah menaja sebelum ini",
-          "ko": "회사가 전에 스폰서를 해 준 적이 있는지 물어보세요"
+          "ko": "회사가 전에 스폰서를 해 준 적이 있는지 물어보세요",
+          "ru": "Спросите, оформляла ли компания визовую поддержку раньше",
+          "bn": "কোম্পানি আগে কাউকে স্পনসর করেছে কি না জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا کمپنی نے پہلے کسی کو اسپانسر کیا ہے",
+          "zh-CN": "询问公司以前是否提供过签证担保",
+          "ja": "会社が以前にスポンサーになったことがあるか尋ねましょう"
         },
         "practice": "Pregunte si la empresa ha patrocinado antes",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Hỏi về các bước tiếp theo",
           "id": "Tanyakan langkah selanjutnya",
           "ms": "Tanya tentang langkah seterusnya",
-          "ko": "다음 단계에 대해 물어보세요"
+          "ko": "다음 단계에 대해 물어보세요",
+          "ru": "Спросите о следующих шагах",
+          "bn": "পরবর্তী ধাপ সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "اگلے مراحل کے بارے میں پوچھیں",
+          "zh-CN": "询问后续步骤",
+          "ja": "今後の流れについて質問しましょう"
         },
         "practice": "Pregunte cuáles son los próximos pasos",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Nói thẳng thắn thì trong tương lai tôi sẽ cần được bảo lãnh.",
         "id": "Terus terang, ke depannya saya akan membutuhkan sponsor.",
         "ms": "Terus terang, saya akan memerlukan tajaan pada masa hadapan.",
-        "ko": "솔직히 말씀드리면, 나중에 스폰서십이 필요할 거예요."
+        "ko": "솔직히 말씀드리면, 나중에 스폰서십이 필요할 거예요.",
+        "ru": "Скажу честно: в будущем мне понадобится визовая поддержка.",
+        "bn": "স্পষ্ট করে বলি, ভবিষ্যতে আমার স্পনসরশিপ লাগবে।",
+        "ur": "صاف بات یہ ہے کہ مستقبل میں مجھے اسپانسرشپ کی ضرورت ہوگی۔",
+        "zh-CN": "坦白说，我将来会需要签证担保。",
+        "ja": "正直に申し上げると、将来的にビザのスポンサーが必要になります。"
       },
       "practice": "Para ser transparente, voy a necesitar patrocinio en el futuro.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Hiện tại tôi được phép làm việc, nhưng giấy phép của tôi có thời hạn.",
         "id": "Saat ini saya punya izin kerja, tapi izin saya ada tanggal berakhirnya.",
         "ms": "Sekarang saya dibenarkan bekerja, tetapi permit saya ada tarikh tamat.",
-        "ko": "지금은 일할 수 있는 자격이 있지만, 허가 기간이 정해져 있어요."
+        "ko": "지금은 일할 수 있는 자격이 있지만, 허가 기간이 정해져 있어요.",
+        "ru": "Сейчас у меня есть разрешение на работу, но у него ограниченный срок действия.",
+        "bn": "বর্তমানে আমার কাজের অনুমতি আছে, তবে আমার পারমিটের মেয়াদ নির্দিষ্ট।",
+        "ur": "اس وقت مجھے کام کرنے کی اجازت ہے، لیکن میرے پرمٹ کی ایک آخری تاریخ ہے۔",
+        "zh-CN": "我目前有工作许可，但许可有到期日。",
+        "ja": "現在は就労資格がありますが、許可には期限があります。"
       },
       "practice": "Actualmente tengo autorización para trabajar, pero mi permiso tiene fecha de vencimiento.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có năm năm kinh nghiệm với loại phần mềm này.",
         "id": "Saya punya pengalaman lima tahun dengan perangkat lunak semacam ini.",
         "ms": "Saya ada pengalaman lima tahun dengan perisian seperti ini.",
-        "ko": "저는 이런 소프트웨어를 5년 동안 다뤄 왔어요."
+        "ko": "저는 이런 소프트웨어를 5년 동안 다뤄 왔어요.",
+        "ru": "У меня пять лет опыта работы с таким программным обеспечением.",
+        "bn": "এই ধরনের সফটওয়্যারে আমার পাঁচ বছরের অভিজ্ঞতা আছে।",
+        "ur": "مجھے اس قسم کے سافٹ ویئر کا پانچ سال کا تجربہ ہے۔",
+        "zh-CN": "我有五年使用这类软件的经验。",
+        "ja": "この種のソフトウェアで5年の経験があります。"
       },
       "practice": "Aporto cinco años de experiencia con este tipo de software.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Công ty đã từng bảo lãnh cho nhân viên nào khác chưa ạ?",
         "id": "Apakah perusahaan pernah mensponsori karyawan lain sebelumnya?",
         "ms": "Pernahkah syarikat ini menaja pekerja lain sebelum ini?",
-        "ko": "회사에서 전에 다른 직원의 스폰서를 해 준 적이 있나요?"
+        "ko": "회사에서 전에 다른 직원의 스폰서를 해 준 적이 있나요?",
+        "ru": "Компания уже оформляла визовую поддержку другим сотрудникам?",
+        "bn": "কোম্পানি কি আগে অন্য কর্মীদের স্পনসর করেছে?",
+        "ur": "کیا کمپنی نے پہلے دوسرے ملازمین کو اسپانسر کیا ہے؟",
+        "zh-CN": "公司以前为其他员工提供过签证担保吗？",
+        "ja": "御社では以前、他の社員のスポンサーになったことはありますか？"
       },
       "practice": "¿La empresa ha patrocinado a otros empleados antes?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Các bước tiếp theo trong quy trình sẽ là gì ạ?",
         "id": "Apa langkah selanjutnya dalam prosesnya?",
         "ms": "Apakah langkah seterusnya dalam proses ini?",
-        "ko": "다음 절차는 어떻게 되나요?"
+        "ko": "다음 절차는 어떻게 되나요?",
+        "ru": "Какими будут следующие этапы?",
+        "bn": "প্রক্রিয়ার পরবর্তী ধাপগুলো কী হবে?",
+        "ur": "اس عمل کے اگلے مراحل کیا ہوں گے؟",
+        "zh-CN": "接下来的流程是怎样的？",
+        "ja": "今後の選考の流れはどのようになりますか？"
       },
       "practice": "¿Cuáles serían los próximos pasos del proceso?",
       "practice_translations": {

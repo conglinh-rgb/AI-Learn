@@ -18,7 +18,12 @@
     "vi": "Cuộc xâm lăng của lũ tượng lùn",
     "id": "Serbuan Kurcaci Taman",
     "ms": "Serangan Patung Gnome Taman",
-    "ko": "정원 요정 인형의 습격"
+    "ko": "정원 요정 인형의 습격",
+    "ru": "Нашествие садовых гномов",
+    "bn": "বাগানের জিনোমদের আক্রমণ",
+    "ur": "باغیچے کے بونوں کا حملہ",
+    "zh-CN": "花园矮人大入侵",
+    "ja": "ガーデンノームの襲来"
   },
   "character": "fox",
   "scenario": "Your neighbor (AI) keeps putting garden gnomes on your side of the fence. There are now thirty of them staring at your kitchen window.",
@@ -39,7 +44,12 @@
     "vi": "Hàng xóm (AI) cứ đặt tượng chú lùn trang trí sang phía hàng rào nhà bạn. Giờ đã có ba mươi chú lùn đang nhìn chằm chằm vào cửa sổ bếp nhà bạn.",
     "id": "Tetanggamu (AI) terus menaruh patung kurcaci taman di sisi pagarmu. Sekarang ada tiga puluh kurcaci yang menatap jendela dapurmu.",
     "ms": "Jiran anda (AI) asyik meletakkan patung gnome taman di sebelah pagar anda. Kini ada tiga puluh patung merenung tingkap dapur anda.",
-    "ko": "이웃(AI)이 자꾸 울타리 너머 당신 쪽에 정원 요정 인형을 놓아요. 이제 서른 개나 되는 인형이 부엌 창문을 쳐다보고 있어요."
+    "ko": "이웃(AI)이 자꾸 울타리 너머 당신 쪽에 정원 요정 인형을 놓아요. 이제 서른 개나 되는 인형이 부엌 창문을 쳐다보고 있어요.",
+    "ru": "Ваш сосед (AI) постоянно ставит садовых гномов на вашу сторону забора. Теперь их уже тридцать, и все они смотрят в окно вашей кухни.",
+    "bn": "আপনার প্রতিবেশী (AI) বারবার বেড়ার আপনার দিকে বাগানের জিনোম মূর্তি রেখে যাচ্ছেন। এখন ত্রিশটি জিনোম আপনার রান্নাঘরের জানালার দিকে তাকিয়ে আছে।",
+    "ur": "آپ کا پڑوسی (AI) باڑ کے آپ والی طرف باغیچے کے بونے رکھتا رہتا ہے۔ اب تیس بونے آپ کے کچن کی کھڑکی کو گھور رہے ہیں۔",
+    "zh-CN": "你的邻居（AI）总是把花园矮人摆到篱笆你家这一侧。现在已经有三十个矮人盯着你的厨房窗户了。",
+    "ja": "隣人（AI）がフェンスのこちら側にガーデンノームを置き続けています。今では30体が台所の窓をじっと見つめています。"
   },
   "mission": {
     "native": "Ask your neighbor to move the gnomes back and agree on where they can go.",
@@ -60,7 +70,12 @@
       "vi": "Nhờ hàng xóm dời tượng lùn về chỗ cũ và thống nhất nơi có thể để chúng.",
       "id": "Minta tetanggamu memindahkan kurcacinya dan sepakati di mana mereka boleh ditaruh.",
       "ms": "Minta jiran anda mengalihkan semula patung gnome itu dan setuju di mana ia boleh diletakkan.",
-      "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하고 둘 곳을 함께 정하세요."
+      "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하고 둘 곳을 함께 정하세요.",
+      "ru": "Попросите соседа забрать гномов и договоритесь, где они могут стоять.",
+      "bn": "প্রতিবেশীকে বামন মূর্তিগুলো সরিয়ে নিতে বলুন এবং কোথায় রাখা যাবে তা নিয়ে একমত হন।",
+      "ur": "پڑوسی سے کہیں کہ بونوں کے مجسمے واپس لے جائیں اور طے کریں کہ انہیں کہاں رکھا جا سکتا ہے۔",
+      "zh-CN": "请邻居把小矮人摆件搬回去，并商定可以放在哪里。",
+      "ja": "隣人にノームの置物を戻してもらい、置き場所について合意しましょう。"
     },
     "practice": "Pida a su vecino que retire los gnomos y acuerden dónde pueden ponerlos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chỉ ra rằng tượng lùn đang nằm trên đất nhà bạn",
           "id": "Tunjukkan bahwa kurcaci itu ada di pekaranganmu",
           "ms": "Tunjukkan bahawa patung gnome itu berada di kawasan anda",
-          "ko": "인형이 당신 땅에 있다고 알려 주세요"
+          "ko": "인형이 당신 땅에 있다고 알려 주세요",
+          "ru": "Укажите, что гномы стоят на вашем участке",
+          "bn": "জানান যে বামন মূর্তিগুলো আপনার জমিতে আছে",
+          "ur": "بتائیں کہ بونے آپ کی زمین پر ہیں",
+          "zh-CN": "指出小矮人摆件在你家的地上",
+          "ja": "ノームがあなたの敷地にあることを伝えましょう"
         },
         "practice": "Señale que los gnomos están en su propiedad",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích vì sao tượng lùn làm bạn khó chịu",
           "id": "Jelaskan kenapa kurcaci itu mengganggumu",
           "ms": "Terangkan mengapa patung gnome itu mengganggu anda",
-          "ko": "인형이 왜 신경 쓰이는지 설명하세요"
+          "ko": "인형이 왜 신경 쓰이는지 설명하세요",
+          "ru": "Объясните, чем вам мешают гномы",
+          "bn": "ব্যাখ্যা করুন কেন বামন মূর্তিগুলো আপনাকে বিরক্ত করে",
+          "ur": "وضاحت کریں کہ بونے آپ کو کیوں پریشان کرتے ہیں",
+          "zh-CN": "解释小矮人摆件为什么让你困扰",
+          "ja": "ノームが気になる理由を説明しましょう"
         },
         "practice": "Explique por qué le molestan los gnomos",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhờ hàng xóm dời chúng về chỗ cũ",
           "id": "Minta tetangga memindahkannya kembali",
           "ms": "Minta jiran mengalihkannya semula",
-          "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하세요"
+          "ko": "이웃에게 인형을 다시 옮겨 달라고 부탁하세요",
+          "ru": "Попросите соседа забрать их обратно",
+          "bn": "প্রতিবেশীকে সেগুলো ফিরিয়ে নিতে বলুন",
+          "ur": "پڑوسی سے کہیں کہ انہیں واپس لے جائیں",
+          "zh-CN": "请邻居把它们搬回去",
+          "ja": "隣人に元の場所へ戻すよう頼みましょう"
         },
         "practice": "Pida al vecino que los devuelva a su lado",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Gợi ý một chỗ có thể để tượng lùn",
           "id": "Usulkan tempat untuk menaruh kurcaci itu",
           "ms": "Cadangkan tempat untuk patung gnome itu",
-          "ko": "인형을 둘 만한 곳을 제안하세요"
+          "ko": "인형을 둘 만한 곳을 제안하세요",
+          "ru": "Предложите место, где гномы могут стоять",
+          "bn": "বামন মূর্তিগুলো রাখার একটি জায়গা প্রস্তাব করুন",
+          "ur": "بونوں کو رکھنے کی کوئی جگہ تجویز کریں",
+          "zh-CN": "提议一个可以放小矮人摆件的地方",
+          "ja": "ノームを置ける場所を提案しましょう"
         },
         "practice": "Sugiera un lugar donde puedan quedarse los gnomos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Hình như vài chú lùn của anh/chị lạc sang sân nhà tôi rồi.",
         "id": "Sepertinya beberapa kurcaci Anda nyasar ke halaman saya.",
         "ms": "Saya rasa sebahagian patung gnome awak masuk ke halaman saya.",
-        "ko": "요정 인형 몇 개가 저희 마당에 와 있는 것 같아요."
+        "ko": "요정 인형 몇 개가 저희 마당에 와 있는 것 같아요.",
+        "ru": "Кажется, несколько ваших гномов оказались у меня во дворе.",
+        "bn": "মনে হচ্ছে আপনার কয়েকটা বামন মূর্তি আমার উঠোনে চলে এসেছে।",
+        "ur": "مجھے لگتا ہے آپ کے کچھ بونے میرے صحن میں آ گئے ہیں۔",
+        "zh-CN": "我好像发现你有几个小矮人跑到我家院子里了。",
+        "ja": "お宅のノームがいくつかうちの庭に来ているみたいなんです。"
       },
       "practice": "Creo que algunos de sus gnomos terminaron en mi jardín.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Nói thật, ban đêm nhìn chúng hơi rợn.",
         "id": "Jujur saja, mereka agak menyeramkan kalau malam.",
         "ms": "Terus terang, ia agak menyeramkan pada waktu malam.",
-        "ko": "솔직히 밤에는 좀 무서워요."
+        "ko": "솔직히 밤에는 좀 무서워요.",
+        "ru": "Честно говоря, ночью они немного жутковатые.",
+        "bn": "সত্যি বলতে, রাতে ওগুলো একটু ভুতুড়ে লাগে।",
+        "ur": "سچ کہوں تو رات کو یہ تھوڑے ڈراؤنے لگتے ہیں۔",
+        "zh-CN": "说实话，它们晚上看着有点吓人。",
+        "ja": "正直、夜はちょっと不気味なんです。"
       },
       "practice": "Sinceramente, dan un poco de miedo por la noche.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Anh/chị có thể dời chúng về phía nhà mình được không?",
         "id": "Apakah Anda keberatan memindahkannya ke sisi Anda?",
         "ms": "Boleh awak alihkan semula ke sebelah awak?",
-        "ko": "그쪽으로 다시 옮겨 주실 수 있을까요?"
+        "ko": "그쪽으로 다시 옮겨 주실 수 있을까요?",
+        "ru": "Не могли бы вы перенести их обратно на свою сторону?",
+        "bn": "আপনি কি ওগুলো আপনার দিকে সরিয়ে নিতে পারবেন?",
+        "ur": "کیا آپ انہیں واپس اپنی طرف رکھ دیں گے؟",
+        "zh-CN": "您介意把它们搬回您那边吗？",
+        "ja": "そちら側に戻していただけませんか？"
       },
       "practice": "¿Le importaría pasarlos de nuevo a su lado?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Có lẽ để chúng cạnh cửa trước nhà anh/chị thì hợp hơn.",
         "id": "Mungkin mereka bisa ditaruh di dekat pintu depan Anda.",
         "ms": "Mungkin ia boleh diletakkan di sebelah pintu depan awak.",
-        "ko": "현관문 옆에 두시면 어떨까요?"
+        "ko": "현관문 옆에 두시면 어떨까요?",
+        "ru": "Может, они могли бы стоять у вашей входной двери.",
+        "bn": "হয়তো ওগুলো আপনার সদর দরজার পাশে রাখা যায়।",
+        "ur": "شاید یہ آپ کے سامنے والے دروازے کے پاس رہ سکتے ہیں۔",
+        "zh-CN": "也许可以放在您家前门旁边。",
+        "ja": "玄関の横に置くのはどうでしょう。"
       },
       "practice": "Tal vez podrían quedarse junto a su puerta principal.",
       "practice_translations": {

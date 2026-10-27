@@ -18,7 +18,12 @@
     "vi": "Lạc đường đến bảo tàng",
     "id": "Tersesat Menuju Museum",
     "ms": "Sesat dalam Perjalanan ke Muzium",
-    "ko": "박물관 가는 길에 길을 잃다"
+    "ko": "박물관 가는 길에 길을 잃다",
+    "ru": "Заблудились по дороге в музей",
+    "bn": "জাদুঘরে যাওয়ার পথে হারিয়ে যাওয়া",
+    "ur": "میوزیم کے راستے میں گم",
+    "zh-CN": "去博物馆的路上迷路了",
+    "ja": "博物館への道で迷子に"
   },
   "character": "fox",
   "scenario": "You are lost in the city center while looking for the main museum. A friendly local (AI) stops to help you.",
@@ -39,7 +44,12 @@
     "vi": "Bạn bị lạc ở trung tâm thành phố khi đang tìm bảo tàng chính. Một người dân địa phương thân thiện (AI) dừng lại giúp bạn.",
     "id": "Kamu tersesat di pusat kota saat mencari museum utama. Seorang warga lokal (AI) yang ramah berhenti untuk membantumu.",
     "ms": "Anda sesat di pusat bandar semasa mencari muzium utama. Seorang penduduk tempatan yang peramah (AI) berhenti untuk membantu anda.",
-    "ko": "중앙 박물관을 찾다가 시내 한복판에서 길을 잃었습니다. 친절한 현지인(AI)이 멈춰 서서 도와주려고 합니다."
+    "ko": "중앙 박물관을 찾다가 시내 한복판에서 길을 잃었습니다. 친절한 현지인(AI)이 멈춰 서서 도와주려고 합니다.",
+    "ru": "Вы заблудились в центре города, разыскивая главный музей. Дружелюбный местный житель (AI) останавливается, чтобы помочь вам.",
+    "bn": "প্রধান জাদুঘর খুঁজতে গিয়ে আপনি শহরের কেন্দ্রে পথ হারিয়েছেন। একজন বন্ধুসুলভ স্থানীয় (AI) আপনাকে সাহায্য করতে থামেন।",
+    "ur": "مرکزی میوزیم ڈھونڈتے ہوئے آپ شہر کے مرکز میں راستہ بھول گئے ہیں۔ ایک خوش اخلاق مقامی شخص (AI) آپ کی مدد کے لیے رکتا ہے۔",
+    "zh-CN": "你在市中心寻找主博物馆时迷路了。一位友善的当地人（AI）停下来帮助你。",
+    "ja": "中心街で大きな博物館を探していて道に迷いました。親切な地元の人（AI）が立ち止まって助けてくれます。"
   },
   "mission": {
     "native": "Ask how to get to the museum and check how far it is.",
@@ -60,7 +70,12 @@
       "vi": "Hỏi đường đến bảo tàng và hỏi xem có xa không.",
       "id": "Tanyakan cara ke museum dan pastikan seberapa jauh jaraknya.",
       "ms": "Tanya cara ke muzium dan pastikan berapa jauh.",
-      "ko": "박물관에 가는 방법을 묻고 얼마나 먼지 확인하세요."
+      "ko": "박물관에 가는 방법을 묻고 얼마나 먼지 확인하세요.",
+      "ru": "Спросите, как добраться до музея, и уточните, далеко ли он.",
+      "bn": "জাদুঘরে কীভাবে যাবেন জিজ্ঞেস করুন এবং এটি কত দূরে তা জেনে নিন।",
+      "ur": "پوچھیں کہ میوزیم کیسے جائیں اور معلوم کریں کہ وہ کتنی دور ہے۔",
+      "zh-CN": "询问如何去博物馆，并确认有多远。",
+      "ja": "博物館への行き方を尋ね、どのくらい遠いか確認しましょう。"
     },
     "practice": "Pregunte cómo llegar al museo y confirme qué tan lejos está.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi bảo tàng ở đâu",
           "id": "Tanyakan di mana museumnya",
           "ms": "Tanya di mana muzium itu",
-          "ko": "박물관이 어디 있는지 물어보세요"
+          "ko": "박물관이 어디 있는지 물어보세요",
+          "ru": "Спросите, где находится музей",
+          "bn": "জাদুঘরটি কোথায় জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ میوزیم کہاں ہے",
+          "zh-CN": "询问博物馆在哪里",
+          "ja": "博物館の場所を尋ねる"
         },
         "practice": "Pregunte dónde está el museo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi có thể đi bộ đến đó không",
           "id": "Tanyakan apakah kamu bisa jalan kaki ke sana",
           "ms": "Tanya sama ada anda boleh berjalan kaki ke sana",
-          "ko": "걸어서 갈 수 있는지 물어보세요"
+          "ko": "걸어서 갈 수 있는지 물어보세요",
+          "ru": "Спросите, можно ли дойти туда пешком",
+          "bn": "জিজ্ঞেস করুন হেঁটে যাওয়া যায় কি না",
+          "ur": "پوچھیں کہ کیا وہاں پیدل جا سکتے ہیں",
+          "zh-CN": "询问能否步行过去",
+          "ja": "歩いて行けるか尋ねる"
         },
         "practice": "Pregunte si puede llegar caminando",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhắc lại lời chỉ đường để xác nhận",
           "id": "Ulangi petunjuk arahnya untuk memastikan",
           "ms": "Ulang arah itu untuk mengesahkannya",
-          "ko": "길 안내를 다시 말해서 확인하세요"
+          "ko": "길 안내를 다시 말해서 확인하세요",
+          "ru": "Повторите маршрут, чтобы убедиться, что всё верно",
+          "bn": "নিশ্চিত হতে পথনির্দেশ আবার বলুন",
+          "ur": "تصدیق کے لیے راستہ دوبارہ دہرائیں",
+          "zh-CN": "复述路线以确认",
+          "ja": "道順を復唱して確認しましょう"
         },
         "practice": "Repita las indicaciones para confirmarlas",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Xin lỗi, cho tôi hỏi đường đến bảo tàng đi thế nào ạ?",
         "id": "Permisi, bagaimana cara ke museum?",
         "ms": "Maaf, bagaimana saya nak ke muzium?",
-        "ko": "실례합니다, 박물관에 어떻게 가요?"
+        "ko": "실례합니다, 박물관에 어떻게 가요?",
+        "ru": "Извините, как пройти к музею?",
+        "bn": "মাফ করবেন, জাদুঘরে কীভাবে যাব?",
+        "ur": "معاف کیجیے، عجائب گھر کیسے جاؤں؟",
+        "zh-CN": "打扰一下，请问博物馆怎么走？",
+        "ja": "すみません、博物館へはどう行けばいいですか？"
       },
       "practice": "Disculpe, ¿cómo llego al museo?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Từ đây đến đó có xa không?",
         "id": "Apakah jauh dari sini?",
         "ms": "Jauh ke dari sini?",
-        "ko": "여기서 멀어요?"
+        "ko": "여기서 멀어요?",
+        "ru": "Это далеко отсюда?",
+        "bn": "এখান থেকে কি অনেক দূর?",
+        "ur": "کیا یہ یہاں سے دور ہے؟",
+        "zh-CN": "离这里远吗？",
+        "ja": "ここから遠いですか？"
       },
       "practice": "¿Está lejos de aquí?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Vậy là tôi đi thẳng rồi rẽ trái ở nhà thờ, đúng không?",
         "id": "Jadi saya jalan lurus lalu belok kiri di gereja?",
         "ms": "Jadi saya jalan terus dan belok kiri di gereja?",
-        "ko": "그러니까 쭉 가다가 교회에서 왼쪽으로 돌면 되죠?"
+        "ko": "그러니까 쭉 가다가 교회에서 왼쪽으로 돌면 되죠?",
+        "ru": "Значит, прямо и у церкви налево?",
+        "bn": "তাহলে সোজা গিয়ে গির্জার কাছে বাঁয়ে ঘুরব, তাই তো?",
+        "ur": "تو میں سیدھا جاؤں اور گرجا گھر پر بائیں مڑوں؟",
+        "zh-CN": "所以我直走，然后在教堂左转，对吗？",
+        "ja": "つまり、まっすぐ行って教会のところで左に曲がるんですね？"
       },
       "practice": "Entonces sigo derecho y doblo a la izquierda en la iglesia, ¿verdad?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều!",
         "id": "Terima kasih banyak atas bantuannya!",
         "ms": "Terima kasih banyak atas bantuan awak!",
-        "ko": "도와주셔서 정말 감사합니다!"
+        "ko": "도와주셔서 정말 감사합니다!",
+        "ru": "Большое спасибо за помощь!",
+        "bn": "আপনার সাহায্যের জন্য অনেক ধন্যবাদ!",
+        "ur": "آپ کی مدد کا بہت شکریہ!",
+        "zh-CN": "非常感谢您的帮助！",
+        "ja": "助けていただき、本当にありがとうございます！"
       },
       "practice": "¡Muchas gracias por su ayuda!",
       "practice_translations": {

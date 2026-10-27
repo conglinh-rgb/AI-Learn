@@ -18,7 +18,12 @@
     "vi": "Bàn về phí và thời gian",
     "id": "Membahas Biaya dan Waktu",
     "ms": "Berbincang tentang Yuran dan Tempoh",
-    "ko": "수임료와 소요 기간 이야기하기"
+    "ko": "수임료와 소요 기간 이야기하기",
+    "ru": "Обсуждаем гонорар и сроки",
+    "bn": "ফি ও সময়সীমা নিয়ে কথা",
+    "ur": "فیس اور مدت پر بات چیت",
+    "zh-CN": "谈费用和时间",
+    "ja": "費用と期間について話す"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Luật sư di trú (AI) đề nghị nhận hồ sơ của bạn. Bạn lo lắng về chi phí, còn luật sư nói không ai có thể đảm bảo sẽ mất bao lâu.",
     "id": "Pengacara imigrasi (AI) bersedia menangani kasusmu. Kamu khawatir soal biayanya, dan pengacara bilang tidak ada yang bisa menjamin berapa lama prosesnya.",
     "ms": "Peguam imigresen (AI) menawarkan diri untuk mengendalikan kes anda. Anda risau tentang kosnya, dan peguam itu berkata tiada siapa boleh menjamin berapa lama ia akan mengambil masa.",
-    "ko": "이민 변호사(AI)가 사건을 맡겠다고 제안합니다. 당신은 비용이 걱정되는데, 변호사는 얼마나 걸릴지는 아무도 장담할 수 없다고 말합니다."
+    "ko": "이민 변호사(AI)가 사건을 맡겠다고 제안합니다. 당신은 비용이 걱정되는데, 변호사는 얼마나 걸릴지는 아무도 장담할 수 없다고 말합니다.",
+    "ru": "Иммиграционный адвокат (AI) предлагает взяться за ваше дело. Вас беспокоит стоимость, а адвокат говорит, что никто не может гарантировать, сколько это займёт времени.",
+    "bn": "ইমিগ্রেশন আইনজীবী (AI) আপনার মামলা নিতে চান। আপনি খরচ নিয়ে চিন্তিত, আর আইনজীবী বলেন কত সময় লাগবে তা কেউ নিশ্চিত করে বলতে পারে না।",
+    "ur": "امیگریشن وکیل (AI) آپ کا کیس لینے کی پیشکش کرتا ہے۔ آپ کو خرچ کی فکر ہے، اور وکیل کہتا ہے کہ کوئی ضمانت نہیں دے سکتا کہ اس میں کتنا وقت لگے گا۔",
+    "zh-CN": "移民律师（AI）提出接手你的案子。你担心费用，而律师说没人能保证需要多长时间。",
+    "ja": "移民弁護士（AI）があなたの案件を引き受けると申し出ています。あなたは費用が心配で、弁護士はどのくらい時間がかかるかは誰にも保証できないと言います。"
   },
   "mission": {
     "native": "Get clear answers about fees, payment options and how you will be kept informed.",
@@ -61,7 +71,12 @@
       "vi": "Nhận câu trả lời rõ ràng về phí, cách thanh toán và cách bạn sẽ được cập nhật thông tin.",
       "id": "Dapatkan jawaban jelas soal biaya, pilihan pembayaran, dan bagaimana kamu akan terus diberi kabar.",
       "ms": "Dapatkan jawapan yang jelas tentang yuran, pilihan bayaran dan cara anda akan dimaklumkan.",
-      "ko": "수임료, 납부 방법, 진행 상황을 어떻게 알려 줄지에 대해 명확한 답을 받으세요."
+      "ko": "수임료, 납부 방법, 진행 상황을 어떻게 알려 줄지에 대해 명확한 답을 받으세요.",
+      "ru": "Получите чёткие ответы о гонораре, способах оплаты и о том, как вас будут держать в курсе.",
+      "bn": "ফি, পেমেন্টের উপায় এবং আপনাকে কীভাবে জানানো হবে সে বিষয়ে স্পষ্ট উত্তর নিন।",
+      "ur": "فیس، ادائیگی کے طریقوں اور آپ کو کیسے باخبر رکھا جائے گا، اس بارے میں واضح جوابات حاصل کریں۔",
+      "zh-CN": "弄清楚费用、付款方式以及你将如何获知进展。",
+      "ja": "費用、支払い方法、そして進捗をどう知らせてもらえるかについて、明確な答えを得ましょう。"
     },
     "practice": "Obtenga respuestas claras sobre los honorarios, las formas de pago y cómo lo mantendrán informado.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Hỏi chi tiết các khoản phí",
           "id": "Minta rincian biayanya",
           "ms": "Minta pecahan yuran",
-          "ko": "수임료 내역을 알려 달라고 하세요"
+          "ko": "수임료 내역을 알려 달라고 하세요",
+          "ru": "Попросите расписать гонорар по статьям",
+          "bn": "ফি-এর বিস্তারিত হিসাব চান",
+          "ur": "فیس کی تفصیل مانگیں",
+          "zh-CN": "询问费用明细",
+          "ja": "費用の内訳を尋ねる"
         },
         "practice": "Pida un desglose de los honorarios",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Hỏi có thể trả góp không",
           "id": "Tanyakan apakah kamu bisa membayar dengan cicilan",
           "ms": "Tanya sama ada anda boleh bayar secara ansuran",
-          "ko": "분할 납부가 가능한지 물어보세요"
+          "ko": "분할 납부가 가능한지 물어보세요",
+          "ru": "Спросите, можно ли платить в рассрочку",
+          "bn": "কিস্তিতে পরিশোধ করা যায় কি না জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا قسطوں میں ادائیگی ہو سکتی ہے",
+          "zh-CN": "询问能否分期付款",
+          "ja": "分割払いができるか尋ねる"
         },
         "practice": "Pregunte si puede pagar en cuotas",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi thời gian dự kiến sát thực tế",
           "id": "Minta perkiraan waktu yang realistis",
           "ms": "Minta anggaran masa yang realistik",
-          "ko": "현실적인 예상 기간을 물어보세요"
+          "ko": "현실적인 예상 기간을 물어보세요",
+          "ru": "Попросите реалистично оценить сроки",
+          "bn": "সময়ের একটি বাস্তবসম্মত অনুমান চান",
+          "ur": "وقت کا حقیقت پسندانہ اندازہ مانگیں",
+          "zh-CN": "询问实际的时间预估",
+          "ja": "現実的な所要期間の見込みを尋ねる"
         },
         "practice": "Pida un estimado de tiempo realista",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Hỏi họ sẽ cập nhật tình hình cho bạn thế nào",
           "id": "Tanyakan bagaimana mereka akan memberimu kabar terbaru",
           "ms": "Tanya bagaimana mereka akan memaklumkan perkembangan kepada anda",
-          "ko": "진행 상황을 어떻게 알려 줄지 물어보세요"
+          "ko": "진행 상황을 어떻게 알려 줄지 물어보세요",
+          "ru": "Спросите, как вас будут держать в курсе",
+          "bn": "তারা কীভাবে আপনাকে আপডেট দেবেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ وہ آپ کو کیسے باخبر رکھیں گے",
+          "zh-CN": "询问对方将如何向你通报进展",
+          "ja": "どのように進捗を知らせてもらえるか尋ねる"
         },
         "practice": "Pregunte cómo lo mantendrán al tanto",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Luật sư có thể cho tôi biết chính xác khoản phí này bao gồm những gì không?",
         "id": "Bisa jelaskan apa saja yang termasuk dalam biaya itu?",
         "ms": "Boleh anda beritahu saya apa sebenarnya yang termasuk dalam yuran itu?",
-        "ko": "수임료에 정확히 뭐가 포함되는지 알려 주실 수 있어요?"
+        "ko": "수임료에 정확히 뭐가 포함되는지 알려 주실 수 있어요?",
+        "ru": "Не могли бы вы сказать, что именно входит в гонорар?",
+        "bn": "ফি-তে ঠিক কী কী অন্তর্ভুক্ত, বলতে পারবেন?",
+        "ur": "کیا آپ بتا سکتے ہیں کہ فیس میں بالکل کیا کیا شامل ہے؟",
+        "zh-CN": "您能具体告诉我费用包括哪些内容吗？",
+        "ja": "費用に具体的に何が含まれているか教えていただけますか？"
       },
       "practice": "¿Me podría decir exactamente qué incluyen los honorarios?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Lệ phí nộp hồ sơ cho chính phủ đã được tính vào giá đó chưa?",
         "id": "Apakah biaya pengajuan ke pemerintah sudah termasuk dalam harga itu?",
         "ms": "Adakah yuran pemfailan kerajaan termasuk dalam harga itu?",
-        "ko": "정부 접수 수수료도 그 금액에 포함되어 있나요?"
+        "ko": "정부 접수 수수료도 그 금액에 포함되어 있나요?",
+        "ru": "Государственные пошлины входят в эту цену?",
+        "bn": "সরকারি আবেদন ফি কি এই দামের মধ্যে আছে?",
+        "ur": "کیا سرکاری درخواست فیس اس قیمت میں شامل ہے؟",
+        "zh-CN": "政府申请费包含在这个价格里吗？",
+        "ja": "政府への申請手数料はその金額に含まれていますか？"
       },
       "practice": "¿Las tarifas del gobierno están incluidas en ese precio?",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có thể trả góp theo tháng được không?",
         "id": "Apakah bisa dibayar dengan cicilan bulanan?",
         "ms": "Bolehkah saya bayar secara ansuran bulanan?",
-        "ko": "매달 나눠서 낼 수 있을까요?"
+        "ko": "매달 나눠서 낼 수 있을까요?",
+        "ru": "Можно ли платить ежемесячными взносами?",
+        "bn": "মাসিক কিস্তিতে পরিশোধ করা কি সম্ভব?",
+        "ur": "کیا ماہانہ قسطوں میں ادائیگی ممکن ہے؟",
+        "zh-CN": "可以按月分期付款吗？",
+        "ja": "月々の分割払いは可能ですか？"
       },
       "practice": "¿Es posible pagar en cuotas mensuales?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi hiểu luật sư không thể hứa trước, nhưng thường thì phải chờ bao lâu?",
         "id": "Saya mengerti Anda tidak bisa menjanjikan apa-apa, tapi biasanya berapa lama menunggunya?",
         "ms": "Saya faham anda tidak boleh berjanji, tetapi biasanya berapa lama tempoh menunggunya?",
-        "ko": "장담하실 수 없다는 건 알지만, 보통 얼마나 기다려야 하나요?"
+        "ko": "장담하실 수 없다는 건 알지만, 보통 얼마나 기다려야 하나요?",
+        "ru": "Я понимаю, что вы ничего не можете обещать, но сколько обычно приходится ждать?",
+        "bn": "বুঝি আপনি কিছু প্রতিশ্রুতি দিতে পারেন না, কিন্তু সাধারণত কত দিন অপেক্ষা করতে হয়?",
+        "ur": "میں سمجھتا ہوں کہ آپ کوئی وعدہ نہیں کر سکتے، لیکن عام طور پر کتنا انتظار کرنا پڑتا ہے؟",
+        "zh-CN": "我理解您无法做任何保证，但一般要等多久？",
+        "ja": "何も約束できないのは承知していますが、通常どのくらい待つものですか？"
       },
       "practice": "Entiendo que no me puede prometer nada, pero ¿cuánto se suele esperar?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Bao lâu tôi sẽ được cập nhật tình hình hồ sơ một lần?",
         "id": "Seberapa sering saya akan mendapat kabar tentang kasus saya?",
         "ms": "Berapa kerap saya akan dimaklumkan tentang perkembangan kes saya?",
-        "ko": "제 사건 진행 상황은 얼마나 자주 알려 주시나요?"
+        "ko": "제 사건 진행 상황은 얼마나 자주 알려 주시나요?",
+        "ru": "Как часто я буду получать новости по своему делу?",
+        "bn": "আমার মামলার আপডেট কত ঘন ঘন পাব?",
+        "ur": "مجھے اپنے کیس کے بارے میں کتنی بار اپ ڈیٹ ملے گی؟",
+        "zh-CN": "我多久能收到一次案件进展？",
+        "ja": "案件の進捗はどのくらいの頻度で知らせてもらえますか？"
       },
       "practice": "¿Cada cuánto me informarán sobre mi caso?",
       "practice_translations": {

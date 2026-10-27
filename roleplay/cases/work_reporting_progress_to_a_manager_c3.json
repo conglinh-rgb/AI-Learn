@@ -18,7 +18,12 @@
     "vi": "Quá nhiều việc cùng lúc",
     "id": "Pekerjaan Terlalu Menumpuk",
     "ms": "Terlalu Banyak Kerja",
-    "ko": "일이 너무 많아요"
+    "ko": "일이 너무 많아요",
+    "ru": "Слишком много дел",
+    "bn": "কাজের চাপ অনেক বেশি",
+    "ur": "کام کا بہت زیادہ بوجھ",
+    "zh-CN": "手头工作太多",
+    "ja": "仕事を抱えすぎ"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Lịch làm việc của bạn đã kín, nhưng quản lý (AI) lại muốn giao thêm cho bạn một việc gấp trong tuần này.",
     "id": "Jadwalmu sudah penuh, tapi manajermu (AI) ingin memberimu tugas baru yang mendesak minggu ini.",
     "ms": "Jadual anda sudah penuh, tetapi pengurus anda (AI) mahu memberi anda tugas baharu yang segera minggu ini.",
-    "ko": "일정이 이미 꽉 찼는데, 매니저(AI)가 이번 주에 급한 새 업무를 맡기려고 합니다."
+    "ko": "일정이 이미 꽉 찼는데, 매니저(AI)가 이번 주에 급한 새 업무를 맡기려고 합니다.",
+    "ru": "Ваш график уже заполнен, но руководитель (AI) хочет дать вам новую срочную задачу на этой неделе.",
+    "bn": "আপনার সময়সূচি ইতিমধ্যেই পূর্ণ, কিন্তু আপনার ম্যানেজার (AI) এই সপ্তাহে আপনাকে একটি নতুন জরুরি কাজ দিতে চান।",
+    "ur": "آپ کا شیڈول پہلے ہی بھرا ہوا ہے، لیکن آپ کا مینیجر (AI) اس ہفتے آپ کو ایک نیا فوری کام دینا چاہتا ہے۔",
+    "zh-CN": "你的日程已经排满了，但经理（AI）本周还想给你安排一项紧急的新任务。",
+    "ja": "スケジュールはすでにいっぱいですが、上司（AI）が今週、新しい緊急の仕事を頼もうとしています。"
   },
   "mission": {
     "native": "Explain your workload and agree with your manager on clear priorities.",
@@ -61,7 +71,12 @@
       "vi": "Giải thích khối lượng công việc và thống nhất với quản lý về thứ tự ưu tiên rõ ràng.",
       "id": "Jelaskan beban kerjamu dan sepakati prioritas yang jelas dengan manajermu.",
       "ms": "Terangkan beban kerja anda dan setuju dengan pengurus tentang keutamaan yang jelas.",
-      "ko": "업무량을 설명하고 매니저와 명확한 우선순위를 정하세요."
+      "ko": "업무량을 설명하고 매니저와 명확한 우선순위를 정하세요.",
+      "ru": "Объясните свою загруженность и договоритесь с руководителем о чётких приоритетах.",
+      "bn": "আপনার কাজের চাপ ব্যাখ্যা করুন এবং ম্যানেজারের সাথে স্পষ্ট অগ্রাধিকার ঠিক করুন।",
+      "ur": "اپنے کام کے بوجھ کی وضاحت کریں اور مینیجر کے ساتھ واضح ترجیحات طے کریں۔",
+      "zh-CN": "说明你的工作量，并与经理商定明确的优先顺序。",
+      "ja": "自分の仕事量を説明し、上司と明確な優先順位を決めましょう。"
     },
     "practice": "Explique su carga de trabajo y acuerde con su gerente prioridades claras.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Liệt kê những việc bạn đang làm",
           "id": "Sebutkan apa saja yang sedang kamu kerjakan",
           "ms": "Senaraikan apa yang sedang anda kerjakan",
-          "ko": "지금 하고 있는 일을 나열하세요"
+          "ko": "지금 하고 있는 일을 나열하세요",
+          "ru": "Перечислите, над чем вы сейчас работаете",
+          "bn": "এখন আপনি কোন কোন কাজ করছেন তার তালিকা দিন",
+          "ur": "بتائیں کہ آپ اس وقت کن کاموں پر کام کر رہے ہیں",
+          "zh-CN": "列出你目前正在做的工作",
+          "ja": "現在取り組んでいる仕事を挙げる"
         },
         "practice": "Enumere en qué está trabajando ahora",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích rằng bạn không thể làm xong mọi việc đúng hạn",
           "id": "Jelaskan bahwa kamu tidak bisa menyelesaikan semuanya tepat waktu",
           "ms": "Terangkan bahawa anda tidak dapat siapkan semuanya tepat pada masa",
-          "ko": "모든 일을 제시간에 끝낼 수 없다고 설명하세요"
+          "ko": "모든 일을 제시간에 끝낼 수 없다고 설명하세요",
+          "ru": "Объясните, что не успеете сделать всё вовремя",
+          "bn": "ব্যাখ্যা করুন যে আপনি সবকিছু সময়মতো শেষ করতে পারবেন না",
+          "ur": "وضاحت کریں کہ آپ سب کچھ وقت پر مکمل نہیں کر سکتے",
+          "zh-CN": "说明你无法按时完成所有工作",
+          "ja": "すべてを期限内に終えられないことを説明する"
         },
         "practice": "Explique que no puede terminar todo a tiempo",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi việc nào được ưu tiên hàng đầu",
           "id": "Tanyakan tugas mana yang paling prioritas",
           "ms": "Tanya tugas mana yang paling utama",
-          "ko": "어떤 업무가 가장 우선인지 물어보세요"
+          "ko": "어떤 업무가 가장 우선인지 물어보세요",
+          "ru": "Спросите, какая задача самая приоритетная",
+          "bn": "জিজ্ঞাসা করুন কোন কাজটি সর্বোচ্চ অগ্রাধিকার",
+          "ur": "پوچھیں کہ کون سا کام سب سے زیادہ ترجیح رکھتا ہے",
+          "zh-CN": "询问哪项任务最优先",
+          "ja": "どの仕事が最優先かを尋ねる"
         },
         "practice": "Pregunte qué tarea es la prioridad principal",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề xuất dời một hạn chót",
           "id": "Usulkan untuk memundurkan satu tenggat waktu",
           "ms": "Cadangkan untuk menangguhkan satu tarikh akhir",
-          "ko": "마감일 하나를 미루자고 제안하세요"
+          "ko": "마감일 하나를 미루자고 제안하세요",
+          "ru": "Предложите перенести один срок",
+          "bn": "একটি ডেডলাইন পিছিয়ে দেওয়ার প্রস্তাব দিন",
+          "ur": "ایک ڈیڈ لائن آگے بڑھانے کی تجویز دیں",
+          "zh-CN": "提议推迟一项截止日期",
+          "ja": "締め切りを1つ延ばすよう提案しましょう"
         },
         "practice": "Sugiera mover una fecha de entrega",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Hiện tôi đang làm ngân sách và kế hoạch đào tạo.",
         "id": "Saat ini saya sedang mengerjakan anggaran dan rencana pelatihan.",
         "ms": "Sekarang saya sedang menguruskan bajet dan pelan latihan.",
-        "ko": "지금은 예산안과 교육 계획을 작업하고 있어요."
+        "ko": "지금은 예산안과 교육 계획을 작업하고 있어요.",
+        "ru": "Сейчас я работаю над бюджетом и планом обучения.",
+        "bn": "এখন আমি বাজেট আর প্রশিক্ষণ পরিকল্পনা নিয়ে কাজ করছি।",
+        "ur": "اس وقت میں بجٹ اور ٹریننگ پلان پر کام کر رہا ہوں۔",
+        "zh-CN": "我现在在做预算和培训计划。",
+        "ja": "今は予算と研修計画に取り組んでいます。"
       },
       "practice": "Ahora mismo estoy trabajando en el presupuesto y en el plan de capacitación.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi muốn làm thật tốt, nhưng tuần này tôi không thể xong cả ba việc.",
         "id": "Saya ingin bekerja dengan baik, tapi saya tidak bisa menyelesaikan ketiganya minggu ini.",
         "ms": "Saya mahu buat kerja dengan baik, tetapi saya tak dapat siapkan ketiga-tiganya minggu ini.",
-        "ko": "잘하고 싶지만, 이번 주에 세 가지를 다 끝낼 수는 없어요."
+        "ko": "잘하고 싶지만, 이번 주에 세 가지를 다 끝낼 수는 없어요.",
+        "ru": "Я хочу сделать всё хорошо, но не успею закончить все три задачи на этой неделе.",
+        "bn": "আমি ভালোভাবে কাজটা করতে চাই, কিন্তু এই সপ্তাহে তিনটিই শেষ করতে পারব না।",
+        "ur": "میں اچھا کام کرنا چاہتا ہوں، لیکن اس ہفتے تینوں مکمل نہیں کر سکتا۔",
+        "zh-CN": "我想把工作做好，但这周没法把三项都完成。",
+        "ja": "しっかり仕上げたいのですが、今週中に3つすべては終えられません。"
       },
       "practice": "Quiero hacer un buen trabajo, pero no puedo terminar los tres esta semana.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Trong số này, việc nào quan trọng nhất với anh/chị?",
         "id": "Mana yang paling penting menurut Anda?",
         "ms": "Yang mana satu paling penting bagi anda?",
-        "ko": "이 중에서 어떤 게 가장 중요하세요?"
+        "ko": "이 중에서 어떤 게 가장 중요하세요?",
+        "ru": "Что из этого для вас важнее всего?",
+        "bn": "এগুলোর মধ্যে কোনটি আপনার কাছে সবচেয়ে গুরুত্বপূর্ণ?",
+        "ur": "ان میں سے آپ کے لیے سب سے اہم کون سا ہے؟",
+        "zh-CN": "这几项中您觉得哪项最重要？",
+        "ja": "この中でどれが一番重要ですか？"
       },
       "practice": "¿Cuál de estas es la más importante para usted?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Mình dời kế hoạch đào tạo sang thứ Sáu tuần sau được không?",
         "id": "Bisakah rencana pelatihannya dimundurkan ke Jumat depan?",
         "ms": "Boleh kita tangguhkan pelan latihan ke Jumaat depan?",
-        "ko": "교육 계획은 다음 주 금요일로 미뤄도 될까요?"
+        "ko": "교육 계획은 다음 주 금요일로 미뤄도 될까요?",
+        "ru": "Можно перенести план обучения на следующую пятницу?",
+        "bn": "প্রশিক্ষণ পরিকল্পনাটা কি আগামী শুক্রবারে সরানো যায়?",
+        "ur": "کیا ہم ٹریننگ پلان اگلے جمعے تک لے جا سکتے ہیں؟",
+        "zh-CN": "培训计划能推到下周五吗？",
+        "ja": "研修計画を来週の金曜日に延ばせますか？"
       },
       "practice": "¿Podríamos pasar el plan de capacitación al próximo viernes?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Đặt nội quy phòng",
     "id": "Menetapkan Aturan Bersama",
     "ms": "Menetapkan Peraturan Rumah",
-    "ko": "방 규칙 정하기"
+    "ko": "방 규칙 정하기",
+    "ru": "Правила совместного проживания",
+    "bn": "ঘরের নিয়ম ঠিক করা",
+    "ur": "گھر کے اصول طے کرنا",
+    "zh-CN": "制定宿舍规矩",
+    "ja": "部屋のルールを決める"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn cùng phòng (AI) cứ rủ bạn bè ồn ào đến chơi lúc đêm khuya, trong khi tuần này bạn có các bài thi từ sáng sớm.",
     "id": "Teman sekamarmu (AI) terus mengundang teman-temannya yang berisik larut malam, padahal minggu ini kamu ada ujian pagi-pagi.",
     "ms": "Rakan sebilik anda (AI) asyik menjemput kawan-kawan yang bising pada lewat malam, dan anda ada peperiksaan awal pagi minggu ini.",
-    "ko": "룸메이트(AI)가 밤늦게 시끄러운 친구들을 계속 데려오는데, 당신은 이번 주에 아침 일찍 시험이 있습니다."
+    "ko": "룸메이트(AI)가 밤늦게 시끄러운 친구들을 계속 데려오는데, 당신은 이번 주에 아침 일찍 시험이 있습니다.",
+    "ru": "Ваш сосед по комнате (AI) постоянно приглашает шумных друзей поздно вечером, а у вас на этой неделе ранние экзамены.",
+    "bn": "আপনার রুমমেট (AI) গভীর রাতে বারবার হইচই করা বন্ধুদের ডেকে আনে, অথচ এই সপ্তাহে আপনার সকাল সকাল পরীক্ষা।",
+    "ur": "آپ کا روم میٹ (AI) رات گئے بار بار شور مچانے والے دوستوں کو بلاتا ہے، اور اس ہفتے آپ کے صبح سویرے امتحانات ہیں۔",
+    "zh-CN": "你的室友（AI）总是深夜叫吵闹的朋友来玩，而你这周有早上的考试。",
+    "ja": "ルームメイト（AI）が夜遅くに騒がしい友達をよく呼んでくるが、あなたは今週朝早くから試験がある。"
   },
   "mission": {
     "native": "Raise the issue politely and agree on house rules you both accept.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự nêu vấn đề và thống nhất nội quy phòng mà cả hai đều đồng ý.",
       "id": "Sampaikan masalahnya dengan sopan dan sepakati aturan yang bisa diterima kalian berdua.",
       "ms": "Bangkitkan isu itu dengan sopan dan sepakati peraturan rumah yang anda berdua terima.",
-      "ko": "정중하게 문제를 꺼내고 두 사람 모두 받아들일 수 있는 방 규칙을 정하세요."
+      "ko": "정중하게 문제를 꺼내고 두 사람 모두 받아들일 수 있는 방 규칙을 정하세요.",
+      "ru": "Вежливо обозначьте проблему и договоритесь о правилах, которые устроят вас обоих.",
+      "bn": "ভদ্রভাবে সমস্যাটি তুলুন এবং দুজনেই মানেন এমন ঘরের নিয়মে একমত হন।",
+      "ur": "شائستگی سے مسئلہ اٹھائیں اور ایسے اصولوں پر اتفاق کریں جو دونوں کو قبول ہوں۔",
+      "zh-CN": "礼貌地提出问题，并商定双方都能接受的宿舍规矩。",
+      "ja": "丁寧に問題を伝え、お互いが納得できる部屋のルールを決めましょう。"
     },
     "practice": "Plantee el problema con cortesía y acuerden reglas de convivencia que ambos acepten.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Lịch sự nêu vấn đề tiếng ồn",
           "id": "Angkat masalah kebisingan dengan sopan",
           "ms": "Bangkitkan masalah bising dengan sopan",
-          "ko": "소음 문제를 정중하게 꺼내세요"
+          "ko": "소음 문제를 정중하게 꺼내세요",
+          "ru": "Вежливо поднимите проблему шума",
+          "bn": "ভদ্রভাবে শব্দের সমস্যাটি তুলুন",
+          "ur": "شائستگی سے شور کا مسئلہ اٹھائیں",
+          "zh-CN": "礼貌地提出噪音问题",
+          "ja": "騒音の問題を丁寧に切り出す"
         },
         "practice": "Mencione el problema del ruido con cortesía",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích việc này ảnh hưởng đến việc học của bạn thế nào",
           "id": "Jelaskan dampaknya pada belajarmu",
           "ms": "Terangkan kesannya pada pelajaran anda",
-          "ko": "공부에 어떤 영향을 주는지 설명하세요"
+          "ko": "공부에 어떤 영향을 주는지 설명하세요",
+          "ru": "Объясните, как это мешает учёбе",
+          "bn": "এটি আপনার পড়াশোনায় কীভাবে প্রভাব ফেলছে ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ اس سے آپ کی پڑھائی کیسے متاثر ہوتی ہے",
+          "zh-CN": "说明这对你学习的影响",
+          "ja": "勉強にどう影響しているか説明する"
         },
         "practice": "Explique cómo afecta sus estudios",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề xuất giờ giữ yên lặng vào các tối trong tuần",
           "id": "Usulkan jam tenang di malam hari kerja",
           "ms": "Cadangkan waktu senyap pada malam hari bekerja",
-          "ko": "평일 밤에 조용히 하는 시간을 정하자고 제안하세요"
+          "ko": "평일 밤에 조용히 하는 시간을 정하자고 제안하세요",
+          "ru": "Предложите часы тишины по будним вечерам",
+          "bn": "সপ্তাহের দিনের রাতে নীরব সময়ের প্রস্তাব দিন",
+          "ur": "ہفتے کے دنوں کی راتوں میں خاموشی کے اوقات تجویز کریں",
+          "zh-CN": "提议工作日晚上设定安静时间",
+          "ja": "平日の夜に静かにする時間を提案しましょう"
         },
         "practice": "Proponga horas de silencio entre semana",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đạt được thỏa thuận cả hai đều chấp nhận",
           "id": "Capai kompromi yang bisa diterima kalian berdua",
           "ms": "Capai kompromi yang anda berdua terima",
-          "ko": "두 사람 모두 받아들일 수 있는 타협점을 찾으세요"
+          "ko": "두 사람 모두 받아들일 수 있는 타협점을 찾으세요",
+          "ru": "Найдите компромисс, который устроит вас обоих",
+          "bn": "এমন একটি সমঝোতায় পৌঁছান যা দুজনেই মেনে নেন",
+          "ur": "ایسے سمجھوتے پر پہنچیں جو دونوں کو قبول ہو",
+          "zh-CN": "达成双方都能接受的折中方案",
+          "ja": "お互いが納得できる妥協点を見つけましょう"
         },
         "practice": "Lleguen a un acuerdo que ambos acepten",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Này, mình nói chuyện một chút được không?",
         "id": "Hei, bisa kita bicara sebentar?",
         "ms": "Hei, boleh kita bercakap sekejap tentang sesuatu?",
-        "ko": "저기, 잠깐 얘기 좀 할 수 있을까요?"
+        "ko": "저기, 잠깐 얘기 좀 할 수 있을까요?",
+        "ru": "Слушай, можно с тобой кое о чём поговорить?",
+        "bn": "এই, একটু কিছু নিয়ে কথা বলা যাবে?",
+        "ur": "سنو، کیا ہم ایک منٹ کسی بات پر بات کر سکتے ہیں؟",
+        "zh-CN": "嘿，我们能聊几句吗？",
+        "ja": "ねえ、ちょっと話してもいい？"
       },
       "practice": "Oye, ¿podemos hablar de algo un momento?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Dạo này đêm khuya ở đây hơi ồn.",
         "id": "Belakangan di sini agak berisik kalau sudah larut malam.",
         "ms": "Agak bising di sini lewat malam kebelakangan ini.",
-        "ko": "요즘 밤늦게 좀 시끄러웠어요."
+        "ko": "요즘 밤늦게 좀 시끄러웠어요.",
+        "ru": "В последнее время здесь довольно шумно поздно вечером.",
+        "bn": "ইদানীং গভীর রাতে এখানে একটু বেশি শব্দ হচ্ছে।",
+        "ur": "آج کل رات گئے یہاں کافی شور ہوتا ہے۔",
+        "zh-CN": "最近这里深夜有点吵。",
+        "ja": "最近、夜遅くにちょっとうるさくて。"
       },
       "practice": "Últimamente hay bastante ruido aquí por las noches.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Mình có bài thi từ sáng sớm nên cần ngủ.",
         "id": "Aku ada ujian pagi-pagi, jadi aku perlu tidur.",
         "ms": "Saya ada peperiksaan awal pagi, jadi saya perlu tidur.",
-        "ko": "아침 일찍 시험이 있어서 잠을 자야 해요."
+        "ko": "아침 일찍 시험이 있어서 잠을 자야 해요.",
+        "ru": "У меня рано утром экзамены, так что мне нужно выспаться.",
+        "bn": "আমার সকাল সকাল পরীক্ষা আছে, তাই ঘুমানো দরকার।",
+        "ur": "میرے صبح سویرے امتحانات ہیں، اس لیے مجھے سونا ہے۔",
+        "zh-CN": "我一大早有考试，所以需要睡觉。",
+        "ja": "朝早くに試験があるから、寝ないといけないんだ。"
       },
       "practice": "Tengo exámenes temprano en la mañana y necesito dormir.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Hay là các tối trong tuần mình giữ yên lặng sau mười một giờ nhé?",
         "id": "Bagaimana kalau di hari kerja kita tenang setelah jam sebelas?",
         "ms": "Macam mana kalau kita senyap selepas pukul sebelas pada malam hari bekerja?",
-        "ko": "평일에는 밤 11시 이후에 조용히 하는 건 어때요?"
+        "ko": "평일에는 밤 11시 이후에 조용히 하는 건 어때요?",
+        "ru": "Может, по будням после одиннадцати будем соблюдать тишину?",
+        "bn": "সপ্তাহের দিনগুলোতে এগারোটার পর চুপচাপ থাকলে কেমন হয়?",
+        "ur": "کیوں نہ ہفتے کے دنوں میں گیارہ بجے کے بعد خاموشی رکھیں؟",
+        "zh-CN": "要不工作日晚上十一点以后保持安静吧？",
+        "ja": "平日は11時以降は静かにするっていうのはどう？"
       },
       "practice": "¿Qué te parece si guardamos silencio después de las once entre semana?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Tất nhiên cuối tuần bạn bè bạn cứ thoải mái đến chơi.",
         "id": "Teman-temanmu tentu boleh datang di akhir pekan.",
         "ms": "Kawan-kawan awak tentu boleh datang pada hujung minggu.",
-        "ko": "물론 주말에는 친구들이 와도 괜찮아요."
+        "ko": "물론 주말에는 친구들이 와도 괜찮아요.",
+        "ru": "Конечно, по выходным твои друзья могут приходить.",
+        "bn": "অবশ্যই, সপ্তাহান্তে তোমার বন্ধুরা আসতেই পারে।",
+        "ur": "ویک اینڈ پر تمہارے دوست ضرور آ سکتے ہیں۔",
+        "zh-CN": "当然，周末欢迎你的朋友来玩。",
+        "ja": "もちろん、週末は友達を呼んでいいよ。"
       },
       "practice": "Tus amigos pueden venir los fines de semana, claro.",
       "practice_translations": {

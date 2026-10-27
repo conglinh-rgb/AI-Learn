@@ -18,7 +18,12 @@
     "vi": "Công sức của ai người đó hưởng",
     "id": "Beri Pujian pada yang Berhak",
     "ms": "Beri Pengiktirafan yang Sewajarnya",
-    "ko": "공은 제대로 인정받아야죠"
+    "ko": "공은 제대로 인정받아야죠",
+    "ru": "Отдать должное",
+    "bn": "যার কৃতিত্ব তার প্রাপ্য",
+    "ur": "جس کا کریڈٹ، اسی کا حق",
+    "zh-CN": "功劳归属",
+    "ja": "功績は正しく"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Trong cuộc họp sáng nay, một đồng nghiệp (AI) đã trình bày ý tưởng của bạn như thể của họ. Giờ bạn gặp riêng họ để nói chuyện.",
     "id": "Di rapat tadi pagi, seorang rekan kerja (AI) mempresentasikan idemu seolah-olah miliknya. Sekarang kamu menemuinya berdua saja untuk membicarakannya.",
     "ms": "Dalam mesyuarat pagi tadi, seorang rakan sekerja (AI) membentangkan idea anda seolah-olah idea mereka sendiri. Kini anda berjumpa mereka secara bersendirian untuk membincangkannya.",
-    "ko": "오늘 아침 회의에서 한 동료(AI)가 당신의 아이디어를 자기 것처럼 발표했어요. 이제 동료와 단둘이 이야기하려고 합니다."
+    "ko": "오늘 아침 회의에서 한 동료(AI)가 당신의 아이디어를 자기 것처럼 발표했어요. 이제 동료와 단둘이 이야기하려고 합니다.",
+    "ru": "На утренней встрече коллега (AI) представил(а) вашу идею как свою. Теперь вы застаёте его наедине, чтобы поговорить об этом.",
+    "bn": "আজ সকালের মিটিংয়ে একজন সহকর্মী (AI) আপনার আইডিয়াকে নিজের বলে উপস্থাপন করেছেন। এখন আপনি তাকে একা পেয়ে এ নিয়ে কথা বলছেন।",
+    "ur": "آج صبح کی میٹنگ میں ایک ساتھی (AI) نے آپ کا آئیڈیا اپنا بنا کر پیش کیا۔ اب آپ اس بارے میں بات کرنے کے لیے انہیں اکیلے میں ملتے ہیں۔",
+    "zh-CN": "在今天上午的会议上，一位同事（AI）把你的想法当作自己的提出。现在你单独找到对方谈这件事。",
+    "ja": "今朝の会議で、同僚（AI）があなたのアイデアを自分のものとして発表しました。今、その同僚と二人きりで話をします。"
   },
   "mission": {
     "native": "Calmly tell your colleague the idea was yours and agree on sharing credit.",
@@ -61,7 +71,12 @@
       "vi": "Bình tĩnh nói với đồng nghiệp rằng ý tưởng đó là của bạn và thống nhất cùng ghi nhận công sức.",
       "id": "Katakan dengan tenang kepada rekanmu bahwa ide itu milikmu dan sepakati untuk berbagi pengakuan.",
       "ms": "Beritahu rakan sekerja anda dengan tenang bahawa idea itu milik anda dan setuju untuk berkongsi pengiktirafan.",
-      "ko": "그 아이디어가 당신의 것이었다고 차분하게 말하고, 공을 함께 나누기로 합의하세요."
+      "ko": "그 아이디어가 당신의 것이었다고 차분하게 말하고, 공을 함께 나누기로 합의하세요.",
+      "ru": "Спокойно скажите коллеге, что идея была ваша, и договоритесь разделить заслугу.",
+      "bn": "শান্তভাবে সহকর্মীকে বলুন আইডিয়াটি আপনার ছিল এবং কৃতিত্ব ভাগ করে নেওয়ার বিষয়ে একমত হন।",
+      "ur": "اپنے ساتھی کو سکون سے بتائیں کہ آئیڈیا آپ کا تھا اور کریڈٹ بانٹنے پر اتفاق کریں۔",
+      "zh-CN": "冷静地告诉同事这个想法是你的，并商定共享功劳。",
+      "ja": "落ち着いて、そのアイデアは自分のものだと同僚に伝え、功績を分かち合うことで合意しましょう。"
     },
     "practice": "Dígale con calma a su colega que la idea era suya y acuerden compartir el mérito.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Xin vài phút để nói chuyện riêng",
           "id": "Minta waktu beberapa menit untuk bicara berdua",
           "ms": "Minta beberapa minit untuk bercakap secara peribadi",
-          "ko": "따로 잠깐 이야기할 시간을 달라고 하세요"
+          "ko": "따로 잠깐 이야기할 시간을 달라고 하세요",
+          "ru": "Попросите несколько минут для разговора наедине",
+          "bn": "একান্তে কথা বলার জন্য কয়েক মিনিট চান",
+          "ur": "اکیلے میں بات کرنے کے لیے چند منٹ مانگیں",
+          "zh-CN": "请对方抽几分钟单独谈谈",
+          "ja": "二人で話すために数分もらう"
         },
         "practice": "Pida unos minutos para hablar en privado",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nhắc đến ý tưởng được trình bày trong cuộc họp",
           "id": "Sebutkan ide yang dipresentasikan di rapat",
           "ms": "Sebut idea yang dibentangkan dalam mesyuarat",
-          "ko": "회의에서 발표된 아이디어를 언급하세요"
+          "ko": "회의에서 발표된 아이디어를 언급하세요",
+          "ru": "Упомяните идею, представленную на встрече",
+          "bn": "মিটিংয়ে উপস্থাপিত আইডিয়ার কথা উল্লেখ করুন",
+          "ur": "میٹنگ میں پیش کیے گئے آئیڈیا کا ذکر کریں",
+          "zh-CN": "提及会议上提出的想法",
+          "ja": "会議で発表されたアイデアに触れる"
         },
         "practice": "Mencione la idea presentada en la reunión",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Bình tĩnh giải thích rằng ý tưởng đó là của bạn",
           "id": "Jelaskan dengan tenang bahwa ide itu milikmu",
           "ms": "Terangkan dengan tenang bahawa idea itu milik anda",
-          "ko": "그 아이디어가 자신의 것이었다고 차분하게 설명하세요"
+          "ko": "그 아이디어가 자신의 것이었다고 차분하게 설명하세요",
+          "ru": "Спокойно объясните, что идея была ваша",
+          "bn": "শান্তভাবে ব্যাখ্যা করুন যে আইডিয়াটি আপনার ছিল",
+          "ur": "سکون سے وضاحت کریں کہ آئیڈیا آپ کا تھا",
+          "zh-CN": "冷静地说明这个想法是你的",
+          "ja": "そのアイデアは自分のものだと落ち着いて説明する"
         },
         "practice": "Explique con calma que la idea era suya",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề nghị cùng được ghi nhận trong lần cập nhật tới",
           "id": "Minta agar pengakuannya dibagi di laporan berikutnya",
           "ms": "Minta untuk berkongsi pengiktirafan dalam kemas kini seterusnya",
-          "ko": "다음 보고 때 공을 함께 나누자고 요청하세요"
+          "ko": "다음 보고 때 공을 함께 나누자고 요청하세요",
+          "ru": "Попросите разделить заслугу в следующем отчёте",
+          "bn": "পরের আপডেটে কৃতিত্ব ভাগ করে নেওয়ার অনুরোধ করুন",
+          "ur": "اگلی اپڈیٹ میں کریڈٹ بانٹنے کی درخواست کریں",
+          "zh-CN": "要求在下次进展汇报中共享功劳",
+          "ja": "次回の報告で功績を共有するよう頼む"
         },
         "practice": "Pida compartir el mérito en la próxima actualización",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Bạn có vài phút không? Mình muốn nói về cuộc họp.",
         "id": "Kamu ada waktu sebentar? Saya ingin bicara soal rapat tadi.",
         "ms": "Ada masa beberapa minit? Saya ingin bercakap tentang mesyuarat tadi.",
-        "ko": "잠깐 시간 있으세요? 회의에 대해 이야기하고 싶어요."
+        "ko": "잠깐 시간 있으세요? 회의에 대해 이야기하고 싶어요.",
+        "ru": "У тебя есть пара минут? Хочу поговорить о встрече.",
+        "bn": "তোমার কি কয়েক মিনিট সময় আছে? মিটিংটা নিয়ে কথা বলতে চাই।",
+        "ur": "کیا تمہارے پاس چند منٹ ہیں؟ میں میٹنگ کے بارے میں بات کرنا چاہتا ہوں۔",
+        "zh-CN": "你有几分钟吗？我想聊聊会议的事。",
+        "ja": "少し時間ある？会議のことで話したいんだけど。"
       },
       "practice": "¿Tienes unos minutos? Me gustaría hablar sobre la reunión.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Mình thấy sáng nay bạn đã trình bày ý tưởng về lịch mới.",
         "id": "Saya lihat tadi pagi kamu mempresentasikan ide jadwal baru itu.",
         "ms": "Saya perasan anda membentangkan idea jadual baharu pagi tadi.",
-        "ko": "오늘 아침에 새 일정 아이디어를 발표하시는 걸 봤어요."
+        "ko": "오늘 아침에 새 일정 아이디어를 발표하시는 걸 봤어요.",
+        "ru": "Я заметил, что сегодня утром ты представил идею нового графика.",
+        "bn": "আমি লক্ষ করলাম আজ সকালে তুমি নতুন সময়সূচির আইডিয়াটা উপস্থাপন করেছ।",
+        "ur": "میں نے دیکھا کہ آج صبح تم نے نئے شیڈول کا آئیڈیا پیش کیا۔",
+        "zh-CN": "我注意到你今天上午提出了新日程安排的想法。",
+        "ja": "今朝、新しいスケジュールのアイデアを発表していたよね。"
       },
       "practice": "Noté que presentaste la idea del nuevo horario esta mañana.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tuần trước mình đã chia sẻ ý tưởng đó với bạn, nên mình hơi bất ngờ.",
         "id": "Saya sudah menceritakan ide itu kepadamu minggu lalu, jadi saya kaget.",
         "ms": "Saya kongsi idea itu dengan anda minggu lepas, jadi saya terkejut.",
-        "ko": "지난주에 제가 그 아이디어를 말씀드렸던 거라서 좀 놀랐어요."
+        "ko": "지난주에 제가 그 아이디어를 말씀드렸던 거라서 좀 놀랐어요.",
+        "ru": "Я рассказал тебе об этой идее на прошлой неделе, поэтому был удивлён.",
+        "bn": "গত সপ্তাহে আমি আইডিয়াটা তোমাকে বলেছিলাম, তাই আমি অবাক হয়েছি।",
+        "ur": "میں نے پچھلے ہفتے یہ آئیڈیا تمہیں بتایا تھا، اس لیے مجھے حیرت ہوئی۔",
+        "zh-CN": "上周我跟你分享过这个想法，所以有点意外。",
+        "ja": "先週そのアイデアを話したから、驚いたんだ。"
       },
       "practice": "Yo te compartí esa idea la semana pasada, así que me sorprendió.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Mình chắc là bạn không cố ý, nhưng chuyện này quan trọng với mình.",
         "id": "Saya yakin itu tidak disengaja, tapi ini penting bagi saya.",
         "ms": "Saya pasti ia bukan sengaja, tetapi perkara ini penting bagi saya.",
-        "ko": "일부러 그러신 건 아니겠지만, 저한테는 중요한 일이에요."
+        "ko": "일부러 그러신 건 아니겠지만, 저한테는 중요한 일이에요.",
+        "ru": "Уверен, ты не нарочно, но для меня это важно.",
+        "bn": "আমি নিশ্চিত তুমি ইচ্ছে করে করোনি, কিন্তু এটা আমার কাছে গুরুত্বপূর্ণ।",
+        "ur": "مجھے یقین ہے یہ جان بوجھ کر نہیں تھا، لیکن یہ میرے لیے اہم ہے۔",
+        "zh-CN": "我相信你不是故意的，但这对我很重要。",
+        "ja": "わざとじゃないと思うけど、私にとっては大事なことなんだ。"
       },
       "practice": "Seguro que no fue a propósito, pero para mí es importante.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Lần sau mình cùng trình bày nhé.",
         "id": "Lain kali, ayo kita presentasikan bersama.",
         "ms": "Lain kali, jom kita bentangkan bersama-sama.",
-        "ko": "다음에는 같이 발표해요."
+        "ko": "다음에는 같이 발표해요.",
+        "ru": "В следующий раз давай представим её вместе.",
+        "bn": "পরের বার চলো একসাথে উপস্থাপন করি।",
+        "ur": "اگلی بار ہم اسے مل کر پیش کریں گے۔",
+        "zh-CN": "下次我们一起来展示吧。",
+        "ja": "次は一緒に発表しようね。"
       },
       "practice": "La próxima vez, presentémosla juntos.",
       "practice_translations": {

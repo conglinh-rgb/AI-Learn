@@ -18,7 +18,12 @@
     "vi": "Tiền làm thêm giờ của tôi đâu?",
     "id": "Mana Uang Lemburku?",
     "ms": "Mana Bayaran Kerja Lebih Masa Saya?",
-    "ko": "제 초과 근무 수당은요?"
+    "ko": "제 초과 근무 수당은요?",
+    "ru": "Где мои сверхурочные?",
+    "bn": "আমার ওভারটাইম কোথায়?",
+    "ur": "میرا اوور ٹائم کہاں ہے؟",
+    "zh-CN": "我的加班费呢？",
+    "ja": "残業代はどこに？"
   },
   "character": "fox",
   "scenario": "You worked eight extra hours last week, but your paycheck looks the same as usual. You ask the payroll specialist (AI) about it.",
@@ -39,7 +44,12 @@
     "vi": "Tuần trước bạn làm thêm tám tiếng, nhưng phiếu lương vẫn như mọi khi. Bạn hỏi nhân viên phụ trách tiền lương (AI) về chuyện này.",
     "id": "Minggu lalu kamu lembur delapan jam, tapi slip gajimu terlihat sama seperti biasanya. Kamu bertanya kepada staf penggajian (AI) soal itu.",
     "ms": "Anda bekerja lapan jam tambahan minggu lepas, tetapi slip gaji anda nampak sama seperti biasa. Anda bertanya kepada pegawai penggajian (AI) mengenainya.",
-    "ko": "지난주에 8시간을 더 일했는데, 급여는 평소와 똑같아 보여요. 급여 담당자(AI)에게 이에 대해 물어봅니다."
+    "ko": "지난주에 8시간을 더 일했는데, 급여는 평소와 똑같아 보여요. 급여 담당자(AI)에게 이에 대해 물어봅니다.",
+    "ru": "На прошлой неделе вы отработали восемь сверхурочных часов, но зарплата такая же, как обычно. Вы спрашиваете об этом специалиста по расчёту зарплаты (AI).",
+    "bn": "গত সপ্তাহে আপনি আট ঘণ্টা বাড়তি কাজ করেছেন, কিন্তু আপনার বেতন আগের মতোই দেখাচ্ছে। আপনি বেতন বিভাগের বিশেষজ্ঞকে (AI) এ বিষয়ে জিজ্ঞেস করছেন।",
+    "ur": "پچھلے ہفتے آپ نے آٹھ گھنٹے اضافی کام کیا، لیکن آپ کی تنخواہ ہمیشہ جیسی ہی ہے۔ آپ پے رول اسپیشلسٹ (AI) سے اس بارے میں پوچھتے ہیں۔",
+    "zh-CN": "你上周多工作了八个小时，但工资和平时一样。你向薪资专员（AI）询问此事。",
+    "ja": "先週8時間残業したのに、給与がいつもと同じです。給与担当者（AI）に問い合わせます。"
   },
   "mission": {
     "native": "Explain the problem with your paycheck and find out how to get it fixed.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích vấn đề với phiếu lương và tìm hiểu cách khắc phục.",
       "id": "Jelaskan masalah gajimu dan cari tahu cara memperbaikinya.",
       "ms": "Terangkan masalah dengan gaji anda dan ketahui cara untuk membetulkannya.",
-      "ko": "급여 문제를 설명하고 어떻게 바로잡을 수 있는지 알아보세요."
+      "ko": "급여 문제를 설명하고 어떻게 바로잡을 수 있는지 알아보세요.",
+      "ru": "Объясните проблему с зарплатой и узнайте, как её исправить.",
+      "bn": "আপনার বেতনের সমস্যাটি ব্যাখ্যা করুন এবং কীভাবে তা ঠিক করা যায় জেনে নিন।",
+      "ur": "اپنی تنخواہ کا مسئلہ بیان کریں اور معلوم کریں کہ اسے کیسے ٹھیک کروایا جائے۔",
+      "zh-CN": "说明你工资的问题，并了解如何更正。",
+      "ja": "給与の問題を説明し、修正してもらう方法を確認しましょう。"
     },
     "practice": "Explique el problema con su pago y averigüe cómo solucionarlo.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói bạn đã làm thêm bao nhiêu giờ",
           "id": "Sebutkan berapa jam kamu lembur",
           "ms": "Nyatakan berapa jam tambahan yang anda kerja",
-          "ko": "몇 시간을 더 일했는지 말하세요"
+          "ko": "몇 시간을 더 일했는지 말하세요",
+          "ru": "Скажите, сколько сверхурочных часов вы отработали",
+          "bn": "আপনি কত ঘণ্টা বাড়তি কাজ করেছেন তা বলুন",
+          "ur": "بتائیں کہ آپ نے کتنے اضافی گھنٹے کام کیا",
+          "zh-CN": "说明你加班了多少小时",
+          "ja": "残業した時間数を伝える"
         },
         "practice": "Diga cuántas horas extra trabajó",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích rằng phiếu lương có vẻ bị sai",
           "id": "Jelaskan bahwa gajimu sepertinya salah",
           "ms": "Terangkan bahawa gaji anda nampak salah",
-          "ko": "급여가 잘못된 것 같다고 설명하세요"
+          "ko": "급여가 잘못된 것 같다고 설명하세요",
+          "ru": "Объясните, что в зарплате, похоже, ошибка",
+          "bn": "ব্যাখ্যা করুন যে আপনার বেতনে ভুল আছে বলে মনে হচ্ছে",
+          "ur": "وضاحت کریں کہ آپ کی تنخواہ غلط لگ رہی ہے",
+          "zh-CN": "说明你的工资似乎有误",
+          "ja": "給与が間違っているようだと説明する"
         },
         "practice": "Explique que su pago parece incorrecto",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi tiền làm thêm giờ được tính thế nào",
           "id": "Tanyakan bagaimana lembur dihitung",
           "ms": "Tanya cara kerja lebih masa dikira",
-          "ko": "초과 근무 수당이 어떻게 계산되는지 물어보세요"
+          "ko": "초과 근무 수당이 어떻게 계산되는지 물어보세요",
+          "ru": "Спросите, как рассчитываются сверхурочные",
+          "bn": "ওভারটাইম কীভাবে হিসাব করা হয় তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ اوور ٹائم کا حساب کیسے لگایا جاتا ہے",
+          "zh-CN": "询问加班费是如何计算的",
+          "ja": "残業代の計算方法を聞く"
         },
         "practice": "Pregunte cómo se calculan las horas extra",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi bạn cần làm gì để được điều chỉnh",
           "id": "Tanyakan apa yang harus kamu lakukan untuk memperbaikinya",
           "ms": "Tanya apa yang perlu anda lakukan untuk membetulkannya",
-          "ko": "바로잡으려면 무엇을 해야 하는지 물어보세요"
+          "ko": "바로잡으려면 무엇을 해야 하는지 물어보세요",
+          "ru": "Спросите, что нужно сделать, чтобы это исправить",
+          "bn": "এটি ঠিক করতে আপনাকে কী করতে হবে তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ اسے ٹھیک کرنے کے لیے آپ کو کیا کرنا ہوگا",
+          "zh-CN": "询问你需要做什么来更正",
+          "ja": "修正するために何をすればいいか聞く"
         },
         "practice": "Pregunte qué necesita hacer para corregirlo",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tuần trước tôi làm thêm tám tiếng.",
         "id": "Minggu lalu saya lembur delapan jam.",
         "ms": "Minggu lepas saya bekerja lebih masa selama lapan jam.",
-        "ko": "지난주에 초과 근무를 8시간 했어요."
+        "ko": "지난주에 초과 근무를 8시간 했어요.",
+        "ru": "На прошлой неделе я отработал восемь часов сверхурочно.",
+        "bn": "গত সপ্তাহে আমি আট ঘণ্টা ওভারটাইম করেছি।",
+        "ur": "پچھلے ہفتے میں نے آٹھ گھنٹے اوور ٹائم کیا۔",
+        "zh-CN": "我上周加班了八个小时。",
+        "ja": "先週、8時間残業しました。"
       },
       "practice": "La semana pasada trabajé ocho horas extra.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Phiếu lương của tôi vẫn giống như một tuần bình thường.",
         "id": "Gaji saya sama seperti minggu biasa.",
         "ms": "Gaji saya sama seperti minggu biasa.",
-        "ko": "급여가 평소 주와 똑같아요."
+        "ko": "급여가 평소 주와 똑같아요.",
+        "ru": "Моя зарплата такая же, как за обычную неделю.",
+        "bn": "আমার বেতন একটা সাধারণ সপ্তাহের মতোই।",
+        "ur": "میری تنخواہ ایک عام ہفتے جیسی ہی ہے۔",
+        "zh-CN": "我的工资和平常一周一样。",
+        "ja": "給与が普段の週と同じなんです。"
       },
       "practice": "Mi pago es igual al de una semana normal.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Anh/chị giải thích giúp tôi ở đây tiền làm thêm giờ được tính thế nào không?",
         "id": "Bisa jelaskan bagaimana lembur dihitung di sini?",
         "ms": "Boleh terangkan bagaimana kerja lebih masa dikira di sini?",
-        "ko": "여기서는 초과 근무 수당을 어떻게 계산하는지 설명해 주실 수 있나요?"
+        "ko": "여기서는 초과 근무 수당을 어떻게 계산하는지 설명해 주실 수 있나요?",
+        "ru": "Не могли бы вы объяснить, как здесь рассчитываются сверхурочные?",
+        "bn": "এখানে ওভারটাইম কীভাবে হিসাব করা হয়, একটু বুঝিয়ে বলবেন?",
+        "ur": "کیا آپ بتا سکتے ہیں کہ یہاں اوور ٹائم کا حساب کیسے لگایا جاتا ہے؟",
+        "zh-CN": "您能解释一下这里的加班费是怎么计算的吗？",
+        "ja": "こちらでは残業代をどのように計算しているか教えていただけますか？"
       },
       "practice": "¿Me podría explicar cómo se calculan aquí las horas extra?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Cấp trên của tôi đã duyệt số giờ đó rồi.",
         "id": "Atasan saya sudah menyetujui jam-jam itu.",
         "ms": "Penyelia saya sudah meluluskan jam-jam itu.",
-        "ko": "그 시간은 상사가 승인해 주셨어요."
+        "ko": "그 시간은 상사가 승인해 주셨어요.",
+        "ru": "Мой руководитель одобрил эти часы.",
+        "bn": "আমার সুপারভাইজার ওই ঘণ্টাগুলো অনুমোদন করেছেন।",
+        "ur": "میرے سپروائزر نے ان گھنٹوں کی منظوری دی تھی۔",
+        "zh-CN": "我的主管批准了这些工时。",
+        "ja": "その時間は上司が承認しています。"
       },
       "practice": "Mi supervisor aprobó esas horas.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Tôi có cần điền mẫu đơn nào không?",
         "id": "Apakah ada formulir yang perlu saya isi?",
         "ms": "Adakah borang yang perlu saya isi?",
-        "ko": "작성해야 하는 서류가 있나요?"
+        "ko": "작성해야 하는 서류가 있나요?",
+        "ru": "Нужно ли мне заполнить какую-нибудь форму?",
+        "bn": "আমাকে কি কোনো ফর্ম পূরণ করতে হবে?",
+        "ur": "کیا مجھے کوئی فارم بھرنا ہوگا؟",
+        "zh-CN": "我需要填写什么表格吗？",
+        "ja": "記入が必要な書類はありますか？"
       },
       "practice": "¿Hay algún formulario que tenga que llenar?",
       "practice_translations": {

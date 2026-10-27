@@ -18,7 +18,12 @@
     "vi": "Báo nghỉ ốm cho con",
     "id": "Memberi Kabar Anak Sakit",
     "ms": "Memaklumkan Cuti Sakit",
-    "ko": "병결 알리기"
+    "ko": "병결 알리기",
+    "ru": "Сообщить о болезни ребёнка",
+    "bn": "অসুস্থতার কারণে অনুপস্থিতি জানানো",
+    "ur": "بیماری کی چھٹی کی اطلاع دینا",
+    "zh-CN": "为孩子请病假",
+    "ja": "子どもの病欠を連絡する"
   },
   "character": "fox",
   "scenario": "Your child has a fever and can't go to school today. You call the school office, and the secretary (AI) answers the phone.",
@@ -39,7 +44,12 @@
     "vi": "Con bạn bị sốt và không thể đi học hôm nay. Bạn gọi đến văn phòng trường, và thư ký (AI) nghe máy.",
     "id": "Anakmu demam dan tidak bisa sekolah hari ini. Kamu menelepon kantor sekolah, dan sekretaris (AI) mengangkat telepon.",
     "ms": "Anak anda demam dan tidak boleh ke sekolah hari ini. Anda menelefon pejabat sekolah, dan kerani (AI) menjawab panggilan.",
-    "ko": "아이가 열이 나서 오늘 학교에 갈 수 없어요. 학교 행정실에 전화하자 직원(AI)이 전화를 받아요."
+    "ko": "아이가 열이 나서 오늘 학교에 갈 수 없어요. 학교 행정실에 전화하자 직원(AI)이 전화를 받아요.",
+    "ru": "У вашего ребёнка температура, и сегодня он не может пойти в школу. Вы звоните в школу, и трубку берёт секретарь (AI).",
+    "bn": "আপনার সন্তানের জ্বর হয়েছে, তাই আজ স্কুলে যেতে পারবে না। আপনি স্কুল অফিসে ফোন করলেন, আর সেক্রেটারি (AI) ফোন ধরলেন।",
+    "ur": "آپ کے بچے کو بخار ہے اور وہ آج اسکول نہیں جا سکتا۔ آپ اسکول آفس فون کرتے ہیں اور سیکرٹری (AI) فون اٹھاتی ہیں۔",
+    "zh-CN": "你的孩子发烧了，今天不能去上学。你打电话到学校办公室，秘书（AI）接了电话。",
+    "ja": "お子さんが熱を出し、今日は学校に行けません。学校の事務室に電話すると、事務員（AI）が出ました。"
   },
   "mission": {
     "native": "Tell the school your child will be absent and ask about the homework.",
@@ -60,7 +70,12 @@
       "vi": "Báo với nhà trường rằng con bạn sẽ nghỉ học và hỏi về bài tập về nhà.",
       "id": "Beri tahu sekolah bahwa anakmu tidak masuk dan tanyakan soal PR-nya.",
       "ms": "Maklumkan kepada sekolah bahawa anak anda tidak hadir dan tanya tentang kerja rumah.",
-      "ko": "아이가 결석한다고 학교에 알리고 숙제에 대해 물어보세요."
+      "ko": "아이가 결석한다고 학교에 알리고 숙제에 대해 물어보세요.",
+      "ru": "Сообщите школе, что ребёнок будет отсутствовать, и спросите о домашнем задании.",
+      "bn": "স্কুলকে জানান যে আপনার সন্তান অনুপস্থিত থাকবে এবং বাড়ির কাজ সম্পর্কে জিজ্ঞেস করুন।",
+      "ur": "اسکول کو بتائیں کہ آپ کا بچہ غیر حاضر ہوگا اور ہوم ورک کے بارے میں پوچھیں۔",
+      "zh-CN": "告诉学校孩子今天请假，并询问家庭作业。",
+      "ja": "子どもが欠席することを学校に伝え、宿題について尋ねましょう。"
     },
     "practice": "Avise a la escuela que su hijo faltará y pregunte por la tarea.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói tên và lớp của con",
           "id": "Sebutkan nama dan kelas anakmu",
           "ms": "Beri nama dan kelas anak anda",
-          "ko": "아이의 이름과 반을 말하세요"
+          "ko": "아이의 이름과 반을 말하세요",
+          "ru": "Назовите имя и класс ребёнка",
+          "bn": "আপনার সন্তানের নাম ও শ্রেণি বলুন",
+          "ur": "اپنے بچے کا نام اور کلاس بتائیں",
+          "zh-CN": "说出孩子的姓名和班级",
+          "ja": "お子さんの名前とクラスを伝えましょう"
         },
         "practice": "Dé el nombre y el grupo de su hijo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích vì sao hôm nay con nghỉ học",
           "id": "Jelaskan kenapa anakmu tidak masuk hari ini",
           "ms": "Terangkan mengapa anak anda tidak hadir hari ini",
-          "ko": "아이가 오늘 결석하는 이유를 설명하세요"
+          "ko": "아이가 오늘 결석하는 이유를 설명하세요",
+          "ru": "Объясните, почему ребёнок сегодня отсутствует",
+          "bn": "ব্যাখ্যা করুন কেন আপনার সন্তান আজ অনুপস্থিত",
+          "ur": "وضاحت کریں کہ آپ کا بچہ آج کیوں غیر حاضر ہے",
+          "zh-CN": "说明孩子今天缺席的原因",
+          "ja": "お子さんが今日休む理由を説明しましょう"
         },
         "practice": "Explique por qué su hijo falta hoy",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi cách để con nhận bài tập về nhà",
           "id": "Tanyakan bagaimana anakmu bisa mendapatkan PR-nya",
           "ms": "Tanya bagaimana anak anda boleh mendapatkan kerja rumah",
-          "ko": "아이가 숙제를 어떻게 받을 수 있는지 물어보세요"
+          "ko": "아이가 숙제를 어떻게 받을 수 있는지 물어보세요",
+          "ru": "Спросите, как ребёнку получить домашнее задание",
+          "bn": "আপনার সন্তান কীভাবে বাড়ির কাজ পাবে তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ آپ کا بچہ ہوم ورک کیسے حاصل کر سکتا ہے",
+          "zh-CN": "询问孩子如何拿到家庭作业",
+          "ja": "子どもが宿題を受け取る方法を聞きましょう"
         },
         "practice": "Pregunte cómo puede recibir su hijo la tarea",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào buổi sáng, tôi gọi về cháu Leo, con trai tôi, học lớp ba.",
         "id": "Selamat pagi, saya menelepon soal anak saya, Leo, kelas tiga.",
         "ms": "Selamat pagi, saya menelefon tentang anak lelaki saya, Leo, dari darjah tiga.",
-        "ko": "안녕하세요, 3학년인 제 아들 레오 일로 전화드렸어요."
+        "ko": "안녕하세요, 3학년인 제 아들 레오 일로 전화드렸어요.",
+        "ru": "Доброе утро, я звоню по поводу моего сына Лео из третьего класса.",
+        "bn": "শুভ সকাল, আমি তৃতীয় শ্রেণির আমার ছেলে লিও-র ব্যাপারে ফোন করছি।",
+        "ur": "صبح بخیر، میں اپنے بیٹے لیو کے بارے میں فون کر رہا ہوں، جو تیسری جماعت میں ہے۔",
+        "zh-CN": "早上好，我打电话是为了我三年级的儿子Leo。",
+        "ja": "おはようございます。3年生の息子、レオのことでお電話しました。"
       },
       "practice": "Buenos días, llamo por mi hijo Leo, de tercer grado.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Cháu bị sốt nên hôm nay không đi học được.",
         "id": "Dia demam, jadi hari ini tidak bisa sekolah.",
         "ms": "Dia demam, jadi dia tidak dapat ke sekolah hari ini.",
-        "ko": "아이가 열이 나서 오늘 학교에 못 가요."
+        "ko": "아이가 열이 나서 오늘 학교에 못 가요.",
+        "ru": "У него температура, поэтому сегодня он не придёт в школу.",
+        "bn": "ওর জ্বর হয়েছে, তাই আজ স্কুলে আসতে পারবে না।",
+        "ur": "اسے بخار ہے، اس لیے وہ آج اسکول نہیں آ سکتا۔",
+        "zh-CN": "他发烧了，所以今天不能去上学。",
+        "ja": "熱があるので、今日は学校を休ませます。"
       },
       "practice": "Tiene fiebre, así que hoy no puede ir a la escuela.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Chắc ngày mai cháu sẽ đi học lại.",
         "id": "Kemungkinan besok dia sudah masuk.",
         "ms": "Mungkin dia akan kembali esok.",
-        "ko": "아마 내일은 등교할 수 있을 거예요."
+        "ko": "아마 내일은 등교할 수 있을 거예요.",
+        "ru": "Скорее всего, завтра он вернётся.",
+        "bn": "সম্ভবত কাল ও ফিরে আসবে।",
+        "ur": "شاید وہ کل واپس آ جائے گا۔",
+        "zh-CN": "他明天应该就能回来上学。",
+        "ja": "たぶん明日には登校できると思います。"
       },
       "practice": "Probablemente regrese mañana.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Cháu có thể nhận bài tập hôm nay bằng cách nào ạ?",
         "id": "Bagaimana dia bisa mendapatkan PR hari ini?",
         "ms": "Bagaimana dia boleh dapatkan kerja rumah hari ini?",
-        "ko": "오늘 숙제는 어떻게 받을 수 있을까요?"
+        "ko": "오늘 숙제는 어떻게 받을 수 있을까요?",
+        "ru": "Как ему получить сегодняшнее домашнее задание?",
+        "bn": "আজকের বাড়ির কাজ ও কীভাবে পাবে?",
+        "ur": "وہ آج کا ہوم ورک کیسے حاصل کر سکتا ہے؟",
+        "zh-CN": "他怎么拿到今天的作业呢？",
+        "ja": "今日の宿題はどうやって受け取ればいいですか？"
       },
       "practice": "¿Cómo puede recibir la tarea de hoy?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Thương lượng giờ thực tập",
     "id": "Menegosiasikan Jam Magang",
     "ms": "Berunding Waktu Latihan Industri",
-    "ko": "인턴십 근무 시간 협상하기"
+    "ko": "인턴십 근무 시간 협상하기",
+    "ru": "Обсуждение часов стажировки",
+    "bn": "ইন্টার্নশিপের সময় নিয়ে আলোচনা",
+    "ur": "انٹرن شپ کے اوقات پر بات چیت",
+    "zh-CN": "协商实习时间",
+    "ja": "インターンシップの勤務時間を交渉する"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Một công ty nhận bạn vào thực tập, nhưng quản lý (AI) muốn bạn làm ba mươi giờ mỗi tuần. Thị thực du học của bạn chỉ cho phép hai mươi giờ.",
     "id": "Sebuah perusahaan menawarimu magang, tapi manajernya (AI) ingin tiga puluh jam seminggu. Visa pelajarmu hanya mengizinkan dua puluh jam.",
     "ms": "Sebuah syarikat menawarkan anda latihan industri, tetapi pengurus (AI) mahu tiga puluh jam seminggu. Visa pelajar anda hanya membenarkan dua puluh jam.",
-    "ko": "한 회사에서 인턴십 제안을 받았지만, 매니저(AI)는 주 30시간을 원합니다. 학생 비자로는 주 20시간까지만 일할 수 있습니다."
+    "ko": "한 회사에서 인턴십 제안을 받았지만, 매니저(AI)는 주 30시간을 원합니다. 학생 비자로는 주 20시간까지만 일할 수 있습니다.",
+    "ru": "Компания предлагает вам стажировку, но менеджер (AI) хочет, чтобы вы работали тридцать часов в неделю. Ваша студенческая виза разрешает только двадцать.",
+    "bn": "একটি কোম্পানি আপনাকে ইন্টার্নশিপের প্রস্তাব দিয়েছে, কিন্তু ম্যানেজার (AI) সপ্তাহে ত্রিশ ঘণ্টা চান। আপনার স্টুডেন্ট ভিসা কেবল বিশ ঘণ্টার অনুমতি দেয়।",
+    "ur": "ایک کمپنی آپ کو انٹرن شپ کی پیشکش کرتی ہے، لیکن مینیجر (AI) ہفتے میں تیس گھنٹے چاہتا ہے۔ آپ کا اسٹوڈنٹ ویزا صرف بیس گھنٹوں کی اجازت دیتا ہے۔",
+    "zh-CN": "一家公司给了你实习机会，但经理（AI）希望你每周工作三十小时。你的学生签证只允许二十小时。",
+    "ja": "ある会社からインターンシップのオファーを受けましたが、マネージャー（AI）は週30時間の勤務を希望しています。あなたの学生ビザでは週20時間までしか働けません。"
   },
   "mission": {
     "native": "Explain your visa limit and negotiate a schedule that works for both of you.",
@@ -61,7 +71,12 @@
       "vi": "Giải thích giới hạn của thị thực và thương lượng một lịch làm việc phù hợp với cả hai bên.",
       "id": "Jelaskan batasan visamu dan negosiasikan jadwal yang cocok untuk kedua pihak.",
       "ms": "Terangkan had visa anda dan runding jadual yang sesuai untuk kedua-dua pihak.",
-      "ko": "비자 제한을 설명하고 양쪽 모두에게 맞는 근무 일정을 협상하세요."
+      "ko": "비자 제한을 설명하고 양쪽 모두에게 맞는 근무 일정을 협상하세요.",
+      "ru": "Объясните ограничение по визе и договоритесь о графике, который подойдёт вам обоим.",
+      "bn": "আপনার ভিসার সীমা ব্যাখ্যা করুন এবং দুজনের জন্যই সুবিধাজনক একটি সময়সূচি নিয়ে আলোচনা করুন।",
+      "ur": "اپنے ویزا کی حد کی وضاحت کریں اور ایسا شیڈول طے کریں جو دونوں کے لیے موزوں ہو۔",
+      "zh-CN": "解释你的签证限制，并协商一个双方都合适的时间表。",
+      "ja": "ビザの制限を説明し、双方に合うスケジュールを交渉しましょう。"
     },
     "practice": "Explique el límite de su visa y negocie un horario que les convenga a ambos.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Cảm ơn quản lý vì lời đề nghị",
           "id": "Ucapkan terima kasih kepada manajer atas tawarannya",
           "ms": "Ucapkan terima kasih kepada pengurus atas tawaran itu",
-          "ko": "제안해 준 매니저에게 감사하다고 말하세요"
+          "ko": "제안해 준 매니저에게 감사하다고 말하세요",
+          "ru": "Поблагодарите менеджера за предложение",
+          "bn": "প্রস্তাবের জন্য ম্যানেজারকে ধন্যবাদ দিন",
+          "ur": "پیشکش کے لیے مینیجر کا شکریہ ادا کریں",
+          "zh-CN": "感谢经理提供的机会",
+          "ja": "オファーについてマネージャーにお礼を言いましょう"
         },
         "practice": "Agradezca la oferta al gerente",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích giới hạn giờ làm của thị thực",
           "id": "Jelaskan batas jam kerja di visamu",
           "ms": "Terangkan had waktu kerja visa anda",
-          "ko": "비자의 근무 시간 제한을 설명하세요"
+          "ko": "비자의 근무 시간 제한을 설명하세요",
+          "ru": "Объясните ограничение рабочих часов по визе",
+          "bn": "আপনার ভিসার কাজের সময়সীমা ব্যাখ্যা করুন",
+          "ur": "اپنے ویزا کی کام کے اوقات کی حد کی وضاحت کریں",
+          "zh-CN": "解释你签证的工时限制",
+          "ja": "ビザの労働時間の制限を説明しましょう"
         },
         "practice": "Explique el límite de horas de trabajo de su visa",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề xuất lịch làm trong giới hạn cho phép",
           "id": "Usulkan jadwal yang sesuai batasan",
           "ms": "Cadangkan jadual dalam had itu",
-          "ko": "제한 안에서 가능한 일정을 제안하세요"
+          "ko": "제한 안에서 가능한 일정을 제안하세요",
+          "ru": "Предложите график в рамках ограничения",
+          "bn": "সীমার মধ্যে একটি সময়সূচি প্রস্তাব করুন",
+          "ur": "حد کے اندر ایک شیڈول تجویز کریں",
+          "zh-CN": "提出一个符合限制的时间表",
+          "ja": "制限内に収まるスケジュールを提案しましょう"
         },
         "practice": "Proponga un horario dentro del límite",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất lịch làm cuối cùng",
           "id": "Sepakati jadwal akhirnya",
           "ms": "Persetujui jadual akhir",
-          "ko": "최종 일정에 합의하세요"
+          "ko": "최종 일정에 합의하세요",
+          "ru": "Согласуйте окончательный график",
+          "bn": "চূড়ান্ত সময়সূচিতে একমত হন",
+          "ur": "حتمی شیڈول پر اتفاق کریں",
+          "zh-CN": "商定最终的时间表",
+          "ja": "最終的なスケジュールを決めましょう"
         },
         "practice": "Acuerden el horario final",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều vì lời đề nghị. Tôi thực sự rất háo hức.",
         "id": "Terima kasih banyak atas tawarannya. Saya sangat antusias.",
         "ms": "Terima kasih banyak atas tawaran ini. Saya sangat teruja.",
-        "ko": "제안해 주셔서 정말 감사합니다. 정말 기대돼요."
+        "ko": "제안해 주셔서 정말 감사합니다. 정말 기대돼요.",
+        "ru": "Большое спасибо за предложение. Я очень рад(а) ему.",
+        "bn": "প্রস্তাবের জন্য অনেক ধন্যবাদ। আমি সত্যিই খুব উচ্ছ্বসিত।",
+        "ur": "پیشکش کا بہت شکریہ۔ میں واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "非常感谢您的邀请，我真的很期待。",
+        "ja": "オファーをいただき本当にありがとうございます。とても楽しみです。"
       },
       "practice": "Muchas gracias por la oferta. Me entusiasma mucho.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tiếc là thị thực du học của tôi chỉ cho phép làm hai mươi giờ một tuần.",
         "id": "Sayangnya, visa pelajar saya hanya mengizinkan dua puluh jam seminggu.",
         "ms": "Malangnya, visa pelajar saya hanya membenarkan dua puluh jam seminggu.",
-        "ko": "아쉽지만 제 학생 비자로는 주 20시간까지만 일할 수 있어요."
+        "ko": "아쉽지만 제 학생 비자로는 주 20시간까지만 일할 수 있어요.",
+        "ru": "К сожалению, моя студенческая виза разрешает только двадцать часов в неделю.",
+        "bn": "দুর্ভাগ্যবশত, আমার স্টুডেন্ট ভিসা সপ্তাহে কেবল বিশ ঘণ্টার অনুমতি দেয়।",
+        "ur": "بدقسمتی سے، میرا اسٹوڈنٹ ویزا ہفتے میں صرف بیس گھنٹوں کی اجازت دیتا ہے۔",
+        "zh-CN": "很遗憾，我的学生签证每周只允许工作二十小时。",
+        "ja": "あいにく、私の学生ビザでは週20時間までしか働けません。"
       },
       "practice": "Lamentablemente, mi visa de estudiante solo permite veinte horas a la semana.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có thể làm bốn ngày, mỗi ngày năm tiếng.",
         "id": "Saya bisa bekerja empat hari, masing-masing lima jam.",
         "ms": "Saya boleh bekerja empat hari, lima jam setiap hari.",
-        "ko": "주 4일, 하루 5시간씩 일할 수 있어요."
+        "ko": "주 4일, 하루 5시간씩 일할 수 있어요.",
+        "ru": "Я мог(ла) бы работать четыре дня по пять часов.",
+        "bn": "আমি চার দিন, প্রতিদিন পাঁচ ঘণ্টা করে কাজ করতে পারি।",
+        "ur": "میں چار دن، روزانہ پانچ گھنٹے کام کر سکتا ہوں۔",
+        "zh-CN": "我可以每周工作四天，每天五小时。",
+        "ja": "週4日、1日5時間なら働けます。"
       },
       "practice": "Podría trabajar cuatro días, cinco horas cada uno.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Trong kỳ nghỉ, tôi có thể làm toàn thời gian.",
         "id": "Saat liburan, saya bisa bekerja penuh waktu.",
         "ms": "Semasa cuti, saya boleh bekerja sepenuh masa.",
-        "ko": "방학 동안에는 풀타임으로 일할 수 있어요."
+        "ko": "방학 동안에는 풀타임으로 일할 수 있어요.",
+        "ru": "Во время каникул я могу работать полный день.",
+        "bn": "ছুটির সময় আমি পূর্ণকালীন কাজ করতে পারি।",
+        "ur": "چھٹیوں کے دوران میں فل ٹائم کام کر سکتا ہوں۔",
+        "zh-CN": "假期期间，我可以全职工作。",
+        "ja": "休暇中はフルタイムで働けます。"
       },
       "practice": "Durante las vacaciones puedo trabajar a tiempo completo.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Lịch đó có phù hợp với nhóm không ạ?",
         "id": "Apakah jadwal itu cocok untuk tim?",
         "ms": "Adakah jadual itu sesuai untuk pasukan?",
-        "ko": "이 일정이 팀에 괜찮을까요?"
+        "ko": "이 일정이 팀에 괜찮을까요?",
+        "ru": "Такой график подойдёт команде?",
+        "bn": "ওই সময়সূচি কি দলের জন্য সুবিধাজনক হবে?",
+        "ur": "کیا یہ شیڈول ٹیم کے لیے ٹھیک رہے گا؟",
+        "zh-CN": "这个时间安排对团队合适吗？",
+        "ja": "そのスケジュールでチームは大丈夫でしょうか？"
       },
       "practice": "¿Le funcionaría ese horario al equipo?",
       "practice_translations": {

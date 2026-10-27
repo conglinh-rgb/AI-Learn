@@ -18,7 +18,12 @@
     "vi": "Một chiếc pizza, không phải năm mươi",
     "id": "Satu Piza, Bukan Lima Puluh",
     "ms": "Satu Piza, Bukan Lima Puluh",
-    "ko": "피자 한 판, 쉰 판 말고"
+    "ko": "피자 한 판, 쉰 판 말고",
+    "ru": "Одна пицца, а не пятьдесят",
+    "bn": "একটা পিৎজা, পঞ্চাশটা নয়",
+    "ur": "ایک پیزا، پچاس نہیں",
+    "zh-CN": "一个披萨，不是五十个",
+    "ja": "ピザは1枚、50枚じゃない"
   },
   "character": "fox",
   "scenario": "You casually told your smart speaker (AI) that you felt like pizza, and it has now ordered fifty pizzas to your home.",
@@ -39,7 +44,12 @@
     "vi": "Bạn buột miệng nói với loa thông minh (AI) rằng bạn thèm pizza, và giờ nó đã đặt năm mươi chiếc pizza giao đến nhà bạn.",
     "id": "Kamu iseng bilang ke speaker pintarmu (AI) bahwa kamu lagi ingin piza, dan sekarang ia sudah memesan lima puluh piza ke rumahmu.",
     "ms": "Anda sambil lewa memberitahu pembesar suara pintar (AI) anda bahawa anda teringin makan piza, dan kini ia telah memesan lima puluh piza ke rumah anda.",
-    "ko": "스마트 스피커(AI)에게 무심코 피자가 먹고 싶다고 했더니, 스피커가 집으로 피자 50판을 주문해 버렸어요."
+    "ko": "스마트 스피커(AI)에게 무심코 피자가 먹고 싶다고 했더니, 스피커가 집으로 피자 50판을 주문해 버렸어요.",
+    "ru": "Вы мимоходом сказали умной колонке (AI), что хотите пиццу, и теперь она заказала вам домой пятьдесят пицц.",
+    "bn": "আপনি কথায় কথায় স্মার্ট স্পিকারকে (AI) বলেছিলেন পিৎজা খেতে ইচ্ছে করছে, আর এখন সেটি আপনার বাড়িতে পঞ্চাশটা পিৎজা অর্ডার করে ফেলেছে।",
+    "ur": "آپ نے یونہی اپنے اسمارٹ اسپیکر (AI) سے کہا کہ پیزا کھانے کا دل ہے، اور اب اس نے آپ کے گھر پچاس پیزا آرڈر کر دیے ہیں۔",
+    "zh-CN": "你随口跟智能音箱（AI）说想吃披萨，结果它给你家订了五十个披萨。",
+    "ja": "スマートスピーカー（AI）に何気なく「ピザが食べたい」と言ったら、自宅にピザを50枚注文してしまいました。"
   },
   "mission": {
     "native": "Cancel the extra pizzas and keep only one on the order.",
@@ -60,7 +70,12 @@
       "vi": "Hủy số pizza thừa và chỉ giữ lại một chiếc trong đơn.",
       "id": "Batalkan piza yang kelebihan dan sisakan satu saja di pesanan.",
       "ms": "Batalkan piza yang berlebihan dan kekalkan hanya satu dalam pesanan.",
-      "ko": "추가된 피자를 취소하고 주문에 한 판만 남기세요."
+      "ko": "추가된 피자를 취소하고 주문에 한 판만 남기세요.",
+      "ru": "Отмените лишние пиццы и оставьте в заказе только одну.",
+      "bn": "অতিরিক্ত পিৎজাগুলো বাতিল করুন এবং অর্ডারে শুধু একটি রাখুন।",
+      "ur": "اضافی پیزا منسوخ کریں اور آرڈر میں صرف ایک رکھیں۔",
+      "zh-CN": "取消多余的披萨，订单里只保留一个。",
+      "ja": "余分なピザをキャンセルして、注文を1枚だけにしましょう。"
     },
     "practice": "Cancele las pizzas de más y deje solo una en el pedido.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi xem loa vừa đặt gì",
           "id": "Tanyakan apa yang baru saja dipesan speaker",
           "ms": "Tanya apa yang baru dipesan oleh pembesar suara itu",
-          "ko": "스피커가 방금 무엇을 주문했는지 물어보세요"
+          "ko": "스피커가 방금 무엇을 주문했는지 물어보세요",
+          "ru": "Спросите, что колонка только что заказала",
+          "bn": "স্পিকার এইমাত্র কী অর্ডার করল জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ اسپیکر نے ابھی کیا آرڈر کیا",
+          "zh-CN": "询问音箱刚才订了什么",
+          "ja": "スピーカーが何を注文したか尋ねる"
         },
         "practice": "Pregunte qué acaba de pedir el altavoz",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích rằng bạn chỉ muốn một chiếc pizza",
           "id": "Jelaskan bahwa kamu hanya mau satu piza",
           "ms": "Terangkan bahawa anda hanya mahu satu piza",
-          "ko": "피자는 한 판만 원한다고 설명하세요"
+          "ko": "피자는 한 판만 원한다고 설명하세요",
+          "ru": "Объясните, что вам нужна только одна пицца",
+          "bn": "বুঝিয়ে বলুন আপনি শুধু একটা পিৎজা চান",
+          "ur": "وضاحت کریں کہ آپ کو صرف ایک پیزا چاہیے",
+          "zh-CN": "说明你只想要一个披萨",
+          "ja": "ピザは1枚だけほしいと説明する"
         },
         "practice": "Explique que solo quiere una pizza",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Yêu cầu hủy phần còn lại của đơn hàng",
           "id": "Minta ia membatalkan sisa pesanannya",
           "ms": "Minta ia batalkan baki pesanan",
-          "ko": "나머지 주문을 취소해 달라고 하세요"
+          "ko": "나머지 주문을 취소해 달라고 하세요",
+          "ru": "Попросите отменить остальной заказ",
+          "bn": "বাকি অর্ডার বাতিল করতে বলুন",
+          "ur": "باقی آرڈر منسوخ کرنے کو کہیں",
+          "zh-CN": "让它取消其余的订单",
+          "ja": "残りの注文をキャンセルするよう頼む"
         },
         "practice": "Pídale que cancele el resto del pedido",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Xác nhận đơn cuối cùng và thời gian giao hàng",
           "id": "Konfirmasi pesanan akhir dan waktu pengantarannya",
           "ms": "Sahkan pesanan akhir dan masa penghantaran",
-          "ko": "최종 주문과 배달 시간을 확인하세요"
+          "ko": "최종 주문과 배달 시간을 확인하세요",
+          "ru": "Подтвердите итоговый заказ и время доставки",
+          "bn": "চূড়ান্ত অর্ডার ও ডেলিভারির সময় নিশ্চিত করুন",
+          "ur": "حتمی آرڈر اور ڈیلیوری کا وقت کنفرم کریں",
+          "zh-CN": "确认最终订单和送达时间",
+          "ja": "最終的な注文と配達時間を確認する"
         },
         "practice": "Confirme el pedido final y la hora de entrega",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Khoan đã, bạn vừa đặt cái gì vậy?",
         "id": "Tunggu, barusan kamu pesan apa?",
         "ms": "Tunggu, apa yang awak baru pesan?",
-        "ko": "잠깐, 방금 뭘 주문한 거예요?"
+        "ko": "잠깐, 방금 뭘 주문한 거예요?",
+        "ru": "Погоди, что ты только что заказала?",
+        "bn": "দাঁড়াও, তুমি এইমাত্র কী অর্ডার করলে?",
+        "ur": "رکو، تم نے ابھی کیا آرڈر کیا؟",
+        "zh-CN": "等等，你刚才订了什么？",
+        "ja": "待って、今何を注文したの？"
       },
       "practice": "Espera, ¿qué acabas de pedir?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Năm mươi chiếc pizza á? Tôi chỉ muốn một chiếc thôi!",
         "id": "Lima puluh piza? Saya cuma mau satu!",
         "ms": "Lima puluh piza? Saya cuma mahu satu!",
-        "ko": "피자 50판이요? 저는 한 판만 원했어요!"
+        "ko": "피자 50판이요? 저는 한 판만 원했어요!",
+        "ru": "Пятьдесят пицц? Я хотел только одну!",
+        "bn": "পঞ্চাশটা পিৎজা? আমি তো শুধু একটা চেয়েছিলাম!",
+        "ur": "پچاس پیزا؟ مجھے تو صرف ایک چاہیے تھا!",
+        "zh-CN": "五十个披萨？我只想要一个！",
+        "ja": "ピザ50枚？1枚だけでよかったのに！"
       },
       "practice": "¿Cincuenta pizzas? ¡Yo solo quería una!",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Hủy ngay bốn mươi chín chiếc kia đi.",
         "id": "Tolong batalkan empat puluh sembilan lainnya sekarang juga.",
         "ms": "Tolong batalkan empat puluh sembilan yang lain sekarang juga.",
-        "ko": "나머지 49판은 지금 바로 취소해 주세요."
+        "ko": "나머지 49판은 지금 바로 취소해 주세요.",
+        "ru": "Пожалуйста, отмени остальные сорок девять прямо сейчас.",
+        "bn": "প্লিজ, বাকি উনপঞ্চাশটা এখনই বাতিল করো।",
+        "ur": "براہ کرم باقی انچاس ابھی منسوخ کرو۔",
+        "zh-CN": "请马上取消另外四十九个。",
+        "ja": "残りの49枚を今すぐキャンセルして。"
       },
       "practice": "Por favor, cancela las otras cuarenta y nueve ahora mismo.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Một pizza phô mai cỡ vừa, vậy thôi.",
         "id": "Satu piza keju ukuran sedang, itu saja.",
         "ms": "Satu piza keju saiz sederhana, itu sahaja.",
-        "ko": "치즈 피자 미디엄 한 판, 그거면 돼요."
+        "ko": "치즈 피자 미디엄 한 판, 그거면 돼요.",
+        "ru": "Одну среднюю пиццу с сыром, и всё.",
+        "bn": "একটা মিডিয়াম চিজ পিৎজা, ব্যস।",
+        "ur": "ایک میڈیم چیز پیزا، بس اتنا ہی۔",
+        "zh-CN": "一个中号芝士披萨，就这些。",
+        "ja": "チーズピザのMサイズを1枚、それだけです。"
       },
       "practice": "Una pizza mediana de queso, nada más.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Mấy giờ thì pizza đến?",
         "id": "Jam berapa sampainya?",
         "ms": "Pukul berapa ia akan sampai?",
-        "ko": "몇 시에 도착해요?"
+        "ko": "몇 시에 도착해요?",
+        "ru": "Во сколько её привезут?",
+        "bn": "কখন পৌঁছাবে?",
+        "ur": "یہ کب تک پہنچے گا؟",
+        "zh-CN": "几点能送到？",
+        "ja": "何時に届きますか？"
       },
       "practice": "¿A qué hora va a llegar?",
       "practice_translations": {

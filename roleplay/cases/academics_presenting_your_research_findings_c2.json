@@ -18,7 +18,12 @@
     "vi": "Cập nhật trong buổi họp lab",
     "id": "Update di Rapat Lab",
     "ms": "Kemas Kini Mesyuarat Makmal",
-    "ko": "연구실 회의 보고"
+    "ko": "연구실 회의 보고",
+    "ru": "Отчёт на собрании лаборатории",
+    "bn": "ল্যাব মিটিংয়ে অগ্রগতি জানানো",
+    "ur": "لیب میٹنگ میں پیش رفت",
+    "zh-CN": "实验室组会汇报",
+    "ja": "研究室ミーティングでの進捗報告"
   },
   "character": "fox",
   "scenario": "It is the weekly lab meeting. Your supervisor (AI) asks you to update the group on your progress.",
@@ -39,7 +44,12 @@
     "vi": "Đang là buổi họp lab hằng tuần. Người hướng dẫn (AI) yêu cầu bạn báo cáo tiến độ cho cả nhóm.",
     "id": "Sedang ada rapat lab mingguan. Pembimbingmu (AI) memintamu menyampaikan progres kepada kelompok.",
     "ms": "Sekarang mesyuarat makmal mingguan. Penyelia anda (AI) meminta anda memaklumkan kemajuan anda kepada kumpulan.",
-    "ko": "주간 연구실 회의 시간이에요. 지도교수님(AI)이 진행 상황을 팀에 공유해 달라고 하세요."
+    "ko": "주간 연구실 회의 시간이에요. 지도교수님(AI)이 진행 상황을 팀에 공유해 달라고 하세요.",
+    "ru": "Идёт еженедельное собрание лаборатории. Ваш научный руководитель (AI) просит вас рассказать группе о вашем прогрессе.",
+    "bn": "এটি সাপ্তাহিক ল্যাব মিটিং। আপনার সুপারভাইজার (AI) আপনাকে দলকে আপনার অগ্রগতি জানাতে বলছেন।",
+    "ur": "یہ ہفتہ وار لیب میٹنگ ہے۔ آپ کے سپروائزر (AI) آپ سے کہتے ہیں کہ گروپ کو اپنی پیش رفت بتائیں۔",
+    "zh-CN": "这是每周的实验室组会。你的导师（AI）请你向大家汇报进展。",
+    "ja": "毎週の研究室ミーティングです。指導教員（AI）から、グループに進捗を報告するよう求められています。"
   },
   "mission": {
     "native": "Report your progress, share a problem and get advice on what to do next.",
@@ -60,7 +70,12 @@
       "vi": "Báo cáo tiến độ, nêu một vấn đề và xin lời khuyên về bước tiếp theo.",
       "id": "Laporkan progresmu, sampaikan satu masalah, dan minta saran untuk langkah berikutnya.",
       "ms": "Laporkan kemajuan anda, kongsi satu masalah dan dapatkan nasihat tentang langkah seterusnya.",
-      "ko": "진행 상황을 보고하고, 문제를 공유하고, 다음 단계에 대한 조언을 받으세요."
+      "ko": "진행 상황을 보고하고, 문제를 공유하고, 다음 단계에 대한 조언을 받으세요.",
+      "ru": "Расскажите о прогрессе, опишите проблему и получите совет о дальнейших шагах.",
+      "bn": "আপনার অগ্রগতি জানান, একটি সমস্যা বলুন এবং পরবর্তী করণীয় সম্পর্কে পরামর্শ নিন।",
+      "ur": "اپنی پیش رفت بتائیں، ایک مسئلہ بیان کریں اور اگلے قدم کے بارے میں مشورہ لیں۔",
+      "zh-CN": "汇报进展，说明遇到的问题，并就下一步征求建议。",
+      "ja": "進捗を報告し、問題点を共有して、次にすべきことについて助言をもらいましょう。"
     },
     "practice": "Informe sobre su avance, comparta un problema y pida consejo sobre qué hacer después.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Tóm tắt những gì bạn đã làm tuần này",
           "id": "Rangkum apa yang kamu kerjakan minggu ini",
           "ms": "Ringkaskan apa yang anda buat minggu ini",
-          "ko": "이번 주에 한 일을 요약하세요"
+          "ko": "이번 주에 한 일을 요약하세요",
+          "ru": "Кратко расскажите, что вы сделали за неделю",
+          "bn": "এই সপ্তাহে কী করেছেন তার সারসংক্ষেপ দিন",
+          "ur": "اس ہفتے کیے گئے کام کا خلاصہ بتائیں",
+          "zh-CN": "总结你本周做了什么",
+          "ja": "今週やったことをまとめましょう"
         },
         "practice": "Resuma lo que hizo esta semana",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Trình bày kết quả mới nhất",
           "id": "Sampaikan hasil terbarumu",
           "ms": "Bentangkan keputusan terbaharu anda",
-          "ko": "최신 결과를 발표하세요"
+          "ko": "최신 결과를 발표하세요",
+          "ru": "Представьте последние результаты",
+          "bn": "আপনার সর্বশেষ ফলাফল উপস্থাপন করুন",
+          "ur": "اپنے تازہ ترین نتائج پیش کریں",
+          "zh-CN": "展示你的最新结果",
+          "ja": "最新の結果を発表しましょう"
         },
         "practice": "Presente sus resultados más recientes",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nêu một vấn đề bạn gặp phải",
           "id": "Sebutkan masalah yang kamu hadapi",
           "ms": "Sebut satu masalah yang anda hadapi",
-          "ko": "겪은 문제를 하나 말하세요"
+          "ko": "겪은 문제를 하나 말하세요",
+          "ru": "Упомяните проблему, с которой столкнулись",
+          "bn": "আপনি যে সমস্যায় পড়েছেন তা উল্লেখ করুন",
+          "ur": "جس مسئلے کا سامنا ہوا اس کا ذکر کریں",
+          "zh-CN": "提一个你遇到的问题",
+          "ja": "直面した問題について触れましょう"
         },
         "practice": "Mencione un problema que tuvo",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Xin lời khuyên cho các bước tiếp theo",
           "id": "Minta saran untuk langkah berikutnya",
           "ms": "Minta nasihat tentang langkah seterusnya",
-          "ko": "다음 단계에 대한 조언을 구하세요"
+          "ko": "다음 단계에 대한 조언을 구하세요",
+          "ru": "Попросите совета о следующих шагах",
+          "bn": "পরবর্তী ধাপ সম্পর্কে পরামর্শ চান",
+          "ur": "اگلے اقدامات کے بارے میں مشورہ مانگیں",
+          "zh-CN": "就下一步征求建议",
+          "ja": "次のステップについて助言を求めましょう"
         },
         "practice": "Pida consejo sobre los próximos pasos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tuần này em đã thu thập xong dữ liệu khảo sát.",
         "id": "Minggu ini saya sudah selesai mengumpulkan data survei.",
         "ms": "Minggu ini saya sudah selesai mengumpul data tinjauan.",
-        "ko": "이번 주에 설문 데이터 수집을 마쳤어요."
+        "ko": "이번 주에 설문 데이터 수집을 마쳤어요.",
+        "ru": "На этой неделе я закончил(а) сбор данных опроса.",
+        "bn": "এই সপ্তাহে আমি সমীক্ষার তথ্য সংগ্রহ শেষ করেছি।",
+        "ur": "اس ہفتے میں نے سروے کا ڈیٹا جمع کرنا مکمل کر لیا۔",
+        "zh-CN": "这周我完成了调查数据的收集。",
+        "ja": "今週、アンケートデータの収集を終えました。"
       },
       "practice": "Esta semana terminé de recopilar los datos de la encuesta.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Như mọi người thấy trên biểu đồ này, xu hướng rất rõ ràng.",
         "id": "Seperti yang terlihat di grafik ini, trennya jelas.",
         "ms": "Seperti yang anda lihat pada carta ini, trendnya jelas.",
-        "ko": "이 차트에서 보시는 것처럼 경향이 뚜렷해요."
+        "ko": "이 차트에서 보시는 것처럼 경향이 뚜렷해요.",
+        "ru": "Как видно на этом графике, тенденция очевидна.",
+        "bn": "এই চার্টে যেমন দেখছেন, প্রবণতাটি স্পষ্ট।",
+        "ur": "جیسا کہ آپ اس چارٹ میں دیکھ سکتے ہیں، رجحان واضح ہے۔",
+        "zh-CN": "如图所示，趋势很明显。",
+        "ja": "このグラフのとおり、傾向は明らかです。"
       },
       "practice": "Como pueden ver en esta gráfica, la tendencia es clara.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Một vấn đề là có một số câu trả lời chưa đầy đủ.",
         "id": "Satu masalahnya, beberapa jawaban tidak lengkap.",
         "ms": "Satu masalahnya ialah sesetengah jawapan tidak lengkap.",
-        "ko": "한 가지 문제는 일부 응답이 불완전하다는 거예요."
+        "ko": "한 가지 문제는 일부 응답이 불완전하다는 거예요.",
+        "ru": "Одна проблема в том, что некоторые ответы были неполными.",
+        "bn": "একটি সমস্যা হলো, কিছু উত্তর অসম্পূর্ণ ছিল।",
+        "ur": "ایک مسئلہ یہ ہے کہ کچھ جوابات نامکمل تھے۔",
+        "zh-CN": "有个问题是部分回答不完整。",
+        "ja": "問題の一つは、一部の回答が不完全だったことです。"
       },
       "practice": "Un problema es que algunas respuestas estaban incompletas.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Em nên loại bỏ những câu trả lời đó hay giữ lại ạ?",
         "id": "Sebaiknya jawaban itu saya hapus atau tetap disimpan?",
         "ms": "Patutkah saya buang jawapan itu atau simpan?",
-        "ko": "그 응답들을 빼야 할까요, 아니면 남겨야 할까요?"
+        "ko": "그 응답들을 빼야 할까요, 아니면 남겨야 할까요?",
+        "ru": "Мне удалить эти ответы или оставить их?",
+        "bn": "আমি কি ওই উত্তরগুলো বাদ দেব, নাকি রেখে দেব?",
+        "ur": "کیا مجھے وہ جوابات نکال دینے چاہئیں یا رکھنے چاہئیں؟",
+        "zh-CN": "我应该删除这些回答还是保留它们？",
+        "ja": "それらの回答は削除すべきでしょうか、それとも残すべきでしょうか？"
       },
       "practice": "¿Debería eliminar esas respuestas o conservarlas?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Thầy/cô gợi ý bước tiếp theo em nên làm gì ạ?",
         "id": "Menurut Anda, apa langkah berikutnya?",
         "ms": "Apa yang anda cadangkan sebagai langkah seterusnya?",
-        "ko": "다음 단계로 무엇을 하면 좋을까요?"
+        "ko": "다음 단계로 무엇을 하면 좋을까요?",
+        "ru": "Что бы вы посоветовали в качестве следующего шага?",
+        "bn": "পরবর্তী পদক্ষেপ হিসেবে আপনি কী পরামর্শ দেবেন?",
+        "ur": "آپ اگلے قدم کے طور پر کیا مشورہ دیں گے؟",
+        "zh-CN": "您建议下一步怎么做？",
+        "ja": "次のステップとして何をお勧めになりますか？"
       },
       "practice": "¿Qué me sugiere como siguiente paso?",
       "practice_translations": {

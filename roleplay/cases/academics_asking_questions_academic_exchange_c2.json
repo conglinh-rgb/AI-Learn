@@ -18,7 +18,12 @@
     "vi": "Hỏi đáp sau buổi thuyết trình",
     "id": "Tanya Jawab Setelah Presentasi",
     "ms": "Sesi Soal Jawab Selepas Ceramah",
-    "ko": "강연 후 질의응답"
+    "ko": "강연 후 질의응답",
+    "ru": "Вопросы после доклада",
+    "bn": "বক্তৃতার পর প্রশ্নোত্তর",
+    "ur": "تقریر کے بعد سوال و جواب",
+    "zh-CN": "讲座后的问答",
+    "ja": "講演後の質疑応答"
   },
   "character": "fox",
   "scenario": "A guest speaker (AI) has just given a seminar talk and opens the floor for questions.",
@@ -39,7 +44,12 @@
     "vi": "Một diễn giả khách mời (AI) vừa kết thúc bài nói trong buổi hội thảo và mời mọi người đặt câu hỏi.",
     "id": "Seorang pembicara tamu (AI) baru saja memberikan materi seminar dan membuka sesi tanya jawab.",
     "ms": "Seorang penceramah jemputan (AI) baru selesai menyampaikan ceramah seminar dan membuka sesi soal jawab.",
-    "ko": "초청 연사(AI)가 방금 세미나 강연을 마치고 질문을 받기 시작했어요."
+    "ko": "초청 연사(AI)가 방금 세미나 강연을 마치고 질문을 받기 시작했어요.",
+    "ru": "Приглашённый докладчик (AI) только что выступил на семинаре и предлагает задавать вопросы.",
+    "bn": "একজন অতিথি বক্তা (AI) সবেমাত্র একটি সেমিনারে বক্তৃতা দিয়েছেন এবং প্রশ্নের জন্য সুযোগ দিচ্ছেন।",
+    "ur": "ایک مہمان مقرر (AI) نے ابھی سیمینار میں تقریر کی ہے اور سوالات کی دعوت دے رہے ہیں۔",
+    "zh-CN": "一位特邀演讲者（AI）刚做完研讨会演讲，现在开放提问。",
+    "ja": "ゲストスピーカー（AI）がセミナーで講演を終え、質疑応答の時間を設けました。"
   },
   "mission": {
     "native": "Ask a clear question about the talk and follow up on the answer.",
@@ -60,7 +70,12 @@
       "vi": "Đặt một câu hỏi rõ ràng về bài nói và hỏi thêm dựa trên câu trả lời.",
       "id": "Ajukan pertanyaan yang jelas tentang materi dan tanggapi jawabannya.",
       "ms": "Tanya soalan yang jelas tentang ceramah itu dan susuli jawapannya.",
-      "ko": "강연에 대해 명확한 질문을 하고 답변에 이어서 질문하세요."
+      "ko": "강연에 대해 명확한 질문을 하고 답변에 이어서 질문하세요.",
+      "ru": "Задайте чёткий вопрос о докладе и уточните ответ.",
+      "bn": "বক্তৃতা নিয়ে একটি স্পষ্ট প্রশ্ন করুন এবং উত্তরের ভিত্তিতে আরও প্রশ্ন করুন।",
+      "ur": "تقریر کے بارے میں واضح سوال پوچھیں اور جواب پر مزید سوال کریں۔",
+      "zh-CN": "就演讲提出一个清晰的问题，并针对回答追问。",
+      "ja": "講演について明確な質問をし、回答に対して追加で質問しましょう。"
     },
     "practice": "Haga una pregunta clara sobre la charla y profundice en la respuesta.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Cảm ơn diễn giả vì bài nói",
           "id": "Ucapkan terima kasih kepada pembicara atas materinya",
           "ms": "Ucapkan terima kasih kepada penceramah atas ceramahnya",
-          "ko": "연사에게 강연에 대해 감사 인사를 하세요"
+          "ko": "연사에게 강연에 대해 감사 인사를 하세요",
+          "ru": "Поблагодарите докладчика за выступление",
+          "bn": "বক্তাকে বক্তৃতার জন্য ধন্যবাদ দিন",
+          "ur": "مقرر کا تقریر کے لیے شکریہ ادا کریں",
+          "zh-CN": "感谢演讲者的演讲",
+          "ja": "講演者にお礼を述べる"
         },
         "practice": "Agradezca la charla al ponente",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi về phương pháp nghiên cứu của diễn giả",
           "id": "Tanyakan metode penelitian pembicara",
           "ms": "Tanya tentang kaedah kajian penceramah",
-          "ko": "연사의 연구 방법에 대해 물어보세요"
+          "ko": "연사의 연구 방법에 대해 물어보세요",
+          "ru": "Спросите о методе исследования докладчика",
+          "bn": "বক্তার গবেষণা পদ্ধতি সম্পর্কে জিজ্ঞাসা করুন",
+          "ur": "مقرر کے تحقیقی طریقۂ کار کے بارے میں پوچھیں",
+          "zh-CN": "询问演讲者的研究方法",
+          "ja": "講演者の研究方法について質問する"
         },
         "practice": "Pregunte por el método de investigación del ponente",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi thêm một câu về câu trả lời",
           "id": "Ajukan pertanyaan lanjutan tentang jawabannya",
           "ms": "Tanya soalan susulan tentang jawapannya",
-          "ko": "답변에 대해 후속 질문을 하세요"
+          "ko": "답변에 대해 후속 질문을 하세요",
+          "ru": "Задайте уточняющий вопрос по ответу",
+          "bn": "উত্তর নিয়ে একটি পরবর্তী প্রশ্ন করুন",
+          "ur": "جواب پر ایک مزید سوال پوچھیں",
+          "zh-CN": "针对回答进行追问",
+          "ja": "回答について追加の質問をする"
         },
         "practice": "Haga una pregunta de seguimiento sobre la respuesta",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị vì bài nói rất thú vị.",
         "id": "Terima kasih atas materinya, sangat menarik.",
         "ms": "Terima kasih atas ceramah yang sangat menarik.",
-        "ko": "정말 흥미로운 강연 감사합니다."
+        "ko": "정말 흥미로운 강연 감사합니다.",
+        "ru": "Спасибо за действительно интересный доклад.",
+        "bn": "সত্যিই আকর্ষণীয় বক্তৃতার জন্য ধন্যবাদ।",
+        "ur": "واقعی دلچسپ تقریر کے لیے شکریہ۔",
+        "zh-CN": "感谢您非常精彩的演讲。",
+        "ja": "大変興味深いご講演をありがとうございました。"
       },
       "practice": "Gracias por una charla muy interesante.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có một câu hỏi về phương pháp của anh/chị.",
         "id": "Saya punya pertanyaan tentang metode Anda.",
         "ms": "Saya ada soalan tentang kaedah anda.",
-        "ko": "연구 방법에 대해 질문이 있어요."
+        "ko": "연구 방법에 대해 질문이 있어요.",
+        "ru": "У меня вопрос о вашем методе.",
+        "bn": "আপনার পদ্ধতি নিয়ে আমার একটি প্রশ্ন আছে।",
+        "ur": "آپ کے طریقۂ کار کے بارے میں میرا ایک سوال ہے۔",
+        "zh-CN": "我有一个关于您研究方法的问题。",
+        "ja": "研究方法について質問があります。"
       },
       "practice": "Tengo una pregunta sobre su metodología.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Anh/chị đã chọn người tham gia nghiên cứu như thế nào?",
         "id": "Bagaimana Anda memilih partisipan untuk penelitian Anda?",
         "ms": "Bagaimana anda memilih peserta untuk kajian anda?",
-        "ko": "연구 참가자는 어떻게 선정하셨어요?"
+        "ko": "연구 참가자는 어떻게 선정하셨어요?",
+        "ru": "Как вы отбирали участников исследования?",
+        "bn": "আপনার গবেষণার অংশগ্রহণকারীদের কীভাবে বেছে নিয়েছিলেন?",
+        "ur": "آپ نے اپنی تحقیق کے شرکاء کا انتخاب کیسے کیا؟",
+        "zh-CN": "您是如何选择研究参与者的？",
+        "ja": "研究の参加者はどのように選ばれたのですか？"
       },
       "practice": "¿Cómo eligió a los participantes de su estudio?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tôi muốn hỏi thêm về điểm đó, anh/chị có thấy khác biệt nào theo độ tuổi không?",
         "id": "Menyambung hal itu, apakah Anda melihat perbedaan berdasarkan usia?",
         "ms": "Sebagai susulan, adakah anda perasan apa-apa perbezaan mengikut umur?",
-        "ko": "그와 관련해서 하나 더 여쭤보면, 나이에 따른 차이도 있었나요?"
+        "ko": "그와 관련해서 하나 더 여쭤보면, 나이에 따른 차이도 있었나요?",
+        "ru": "Если позволите уточнить: вы заметили различия по возрасту?",
+        "bn": "এ বিষয়ে আরেকটু জানতে চাই, বয়সভেদে কোনো পার্থক্য লক্ষ করেছেন কি?",
+        "ur": "اسی بات پر مزید پوچھنا چاہوں گا، کیا آپ نے عمر کے لحاظ سے کوئی فرق دیکھا؟",
+        "zh-CN": "就这一点追问一下，您注意到不同年龄之间有差异吗？",
+        "ja": "その点についてもう少しお聞きしたいのですが、年齢による違いはありましたか？"
       },
       "practice": "Para profundizar en eso, ¿notó alguna diferencia por edad?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Điều đó rất hữu ích, cảm ơn anh/chị.",
         "id": "Itu sangat membantu, terima kasih.",
         "ms": "Itu sangat membantu, terima kasih.",
-        "ko": "정말 도움이 됐어요, 감사합니다."
+        "ko": "정말 도움이 됐어요, 감사합니다.",
+        "ru": "Это очень полезно, спасибо.",
+        "bn": "এটা খুবই সহায়ক, ধন্যবাদ।",
+        "ur": "یہ بہت مفید ہے، شکریہ۔",
+        "zh-CN": "这很有帮助，谢谢。",
+        "ja": "とても参考になりました。ありがとうございます。"
       },
       "practice": "Me es muy útil, gracias.",
       "practice_translations": {

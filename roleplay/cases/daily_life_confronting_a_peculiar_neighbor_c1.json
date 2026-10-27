@@ -18,7 +18,12 @@
     "vi": "Buổi hòa nhạc kèn tuba lúc 3 giờ sáng",
     "id": "Konser Tuba Jam 3 Pagi",
     "ms": "Konsert Tuba Pukul 3 Pagi",
-    "ko": "새벽 3시의 튜바 콘서트"
+    "ko": "새벽 3시의 튜바 콘서트",
+    "ru": "Концерт на тубе в 3 часа ночи",
+    "bn": "রাত ৩টার টিউবা কনসার্ট",
+    "ur": "رات 3 بجے کا ٹیوبا کنسرٹ",
+    "zh-CN": "凌晨3点的大号音乐会",
+    "ja": "午前3時のチューバ・コンサート"
   },
   "character": "fox",
   "scenario": "Your neighbor (AI) practices the tuba every night at 3 a.m., and you have an important meeting early tomorrow morning.",
@@ -39,7 +44,12 @@
     "vi": "Hàng xóm (AI) của bạn tập kèn tuba mỗi đêm lúc 3 giờ sáng, trong khi sáng sớm mai bạn có một cuộc họp quan trọng.",
     "id": "Tetanggamu (AI) berlatih tuba setiap malam jam 3 pagi, padahal besok pagi-pagi kamu ada rapat penting.",
     "ms": "Jiran anda (AI) berlatih tuba setiap malam pada pukul 3 pagi, dan anda ada mesyuarat penting awal pagi esok.",
-    "ko": "이웃(AI)이 매일 밤 새벽 3시에 튜바를 연습하는데, 당신은 내일 아침 일찍 중요한 회의가 있어요."
+    "ko": "이웃(AI)이 매일 밤 새벽 3시에 튜바를 연습하는데, 당신은 내일 아침 일찍 중요한 회의가 있어요.",
+    "ru": "Ваш сосед (AI) каждую ночь в 3 часа играет на тубе, а у вас завтра рано утром важная встреча.",
+    "bn": "আপনার প্রতিবেশী (AI) প্রতি রাতে ৩টায় টিউবা বাজানো অনুশীলন করেন, আর আগামীকাল ভোরে আপনার একটি গুরুত্বপূর্ণ মিটিং আছে।",
+    "ur": "آپ کا پڑوسی (AI) ہر رات 3 بجے ٹیوبا کی مشق کرتا ہے، اور کل صبح سویرے آپ کی ایک اہم میٹنگ ہے۔",
+    "zh-CN": "你的邻居（AI）每晚凌晨3点练习大号，而你明天一早有个重要会议。",
+    "ja": "隣人（AI）が毎晩午前3時にチューバを練習していますが、あなたは明日の朝早くに大事な会議があります。"
   },
   "mission": {
     "native": "Politely ask your neighbor to stop playing music late at night.",
@@ -60,7 +70,12 @@
       "vi": "Lịch sự nhờ hàng xóm đừng chơi nhạc vào đêm khuya.",
       "id": "Minta tetanggamu dengan sopan untuk berhenti memainkan musik larut malam.",
       "ms": "Minta jiran anda dengan sopan supaya berhenti bermain muzik lewat malam.",
-      "ko": "이웃에게 밤늦게 음악을 연주하지 말아 달라고 정중하게 부탁하세요."
+      "ko": "이웃에게 밤늦게 음악을 연주하지 말아 달라고 정중하게 부탁하세요.",
+      "ru": "Вежливо попросите соседа не играть музыку поздно ночью.",
+      "bn": "প্রতিবেশীকে ভদ্রভাবে গভীর রাতে গান-বাজনা বন্ধ করতে বলুন।",
+      "ur": "اپنے پڑوسی سے شائستگی سے کہیں کہ رات گئے موسیقی بجانا بند کرے۔",
+      "zh-CN": "礼貌地请邻居深夜不要再演奏音乐。",
+      "ja": "夜遅くに演奏するのをやめてもらうよう、隣人に丁寧にお願いしましょう。"
     },
     "practice": "Pida amablemente a su vecino que deje de tocar música tarde por la noche.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giới thiệu bạn là hàng xóm nhà bên",
           "id": "Perkenalkan dirimu sebagai tetangga sebelah",
           "ms": "Perkenalkan diri anda sebagai jiran sebelah",
-          "ko": "옆집 이웃이라고 자기소개를 하세요"
+          "ko": "옆집 이웃이라고 자기소개를 하세요",
+          "ru": "Представьтесь как сосед из соседней квартиры",
+          "bn": "পাশের বাড়ির প্রতিবেশী হিসেবে নিজের পরিচয় দিন",
+          "ur": "اپنا تعارف ساتھ والے پڑوسی کے طور پر کرائیں",
+          "zh-CN": "介绍自己是隔壁邻居",
+          "ja": "隣に住んでいる者だと自己紹介しましょう"
         },
         "practice": "Preséntese como el vecino de al lado",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích rằng tiếng nhạc làm bạn thức giấc ban đêm",
           "id": "Jelaskan bahwa musiknya membangunkanmu di malam hari",
           "ms": "Terangkan bahawa muzik itu mengejutkan anda pada waktu malam",
-          "ko": "음악 때문에 밤에 잠이 깬다고 설명하세요"
+          "ko": "음악 때문에 밤에 잠이 깬다고 설명하세요",
+          "ru": "Объясните, что музыка будит вас по ночам",
+          "bn": "ব্যাখ্যা করুন যে বাজনার শব্দে রাতে আপনার ঘুম ভেঙে যায়",
+          "ur": "وضاحت کریں کہ موسیقی رات کو آپ کو جگا دیتی ہے",
+          "zh-CN": "说明音乐在夜里把你吵醒",
+          "ja": "夜に音楽で目が覚めてしまうと説明しましょう"
         },
         "practice": "Explique que la música lo despierta por la noche",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhờ hàng xóm không chơi nhạc sau 10 giờ tối",
           "id": "Minta tetangga berhenti bermain setelah jam 10 malam",
           "ms": "Minta jiran berhenti bermain selepas pukul 10 malam",
-          "ko": "밤 10시 이후에는 연주하지 말아 달라고 부탁하세요"
+          "ko": "밤 10시 이후에는 연주하지 말아 달라고 부탁하세요",
+          "ru": "Попросите соседа не играть после 22:00",
+          "bn": "প্রতিবেশীকে রাত ১০টার পর না বাজাতে বলুন",
+          "ur": "پڑوسی سے کہیں کہ رات 10 بجے کے بعد نہ بجائے",
+          "zh-CN": "请邻居晚上10点后不要再演奏",
+          "ja": "夜10時以降は演奏しないよう頼みましょう"
         },
         "practice": "Pida al vecino que no toque después de las 10 de la noche",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi là hàng xóm nhà bên cạnh.",
         "id": "Halo, saya tetangga Anda dari sebelah.",
         "ms": "Hai, saya jiran sebelah rumah awak.",
-        "ko": "안녕하세요, 옆집에 사는 사람이에요."
+        "ko": "안녕하세요, 옆집에 사는 사람이에요.",
+        "ru": "Здравствуйте, я ваш сосед, живу рядом.",
+        "bn": "হ্যালো, আমি আপনার পাশের বাড়ির প্রতিবেশী।",
+        "ur": "ہیلو، میں آپ کا ساتھ والا پڑوسی ہوں۔",
+        "zh-CN": "你好，我是你隔壁的邻居。",
+        "ja": "こんにちは、隣に住んでいる者です。"
       },
       "practice": "Hola, soy su vecino de al lado.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Xin lỗi đã làm phiền, nhưng tôi cần nói chuyện về tiếng ồn.",
         "id": "Maaf mengganggu, tapi saya perlu bicara soal kebisingan.",
         "ms": "Maaf mengganggu, tapi saya perlu bercakap tentang bunyi bising.",
-        "ko": "귀찮게 해서 죄송한데, 소음 문제로 드릴 말씀이 있어요."
+        "ko": "귀찮게 해서 죄송한데, 소음 문제로 드릴 말씀이 있어요.",
+        "ru": "Извините за беспокойство, но мне нужно поговорить о шуме.",
+        "bn": "বিরক্ত করার জন্য দুঃখিত, কিন্তু শব্দ নিয়ে একটু কথা বলা দরকার।",
+        "ur": "زحمت کے لیے معذرت، لیکن مجھے شور کے بارے میں بات کرنی ہے۔",
+        "zh-CN": "抱歉打扰了，不过我需要谈谈噪音的事。",
+        "ja": "お邪魔してすみませんが、騒音のことでお話があります。"
       },
       "practice": "Perdone la molestia, pero necesito hablarle del ruido.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tiếng kèn tuba làm tôi thức giấc giữa đêm.",
         "id": "Suara tubanya membangunkan saya di tengah malam.",
         "ms": "Bunyi tuba itu mengejutkan saya di tengah malam.",
-        "ko": "튜바 소리 때문에 한밤중에 잠이 깨요."
+        "ko": "튜바 소리 때문에 한밤중에 잠이 깨요.",
+        "ru": "Туба будит меня посреди ночи.",
+        "bn": "টিউবার শব্দে মাঝরাতে আমার ঘুম ভেঙে যায়।",
+        "ur": "ٹیوبا مجھے آدھی رات کو جگا دیتا ہے۔",
+        "zh-CN": "大号声半夜把我吵醒了。",
+        "ja": "チューバの音で夜中に目が覚めてしまうんです。"
       },
       "practice": "La tuba me despierta en medio de la noche.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có thể đừng chơi sau mười giờ tối được không?",
         "id": "Bisakah Anda tidak bermain setelah jam sepuluh?",
         "ms": "Boleh tolong jangan main selepas pukul sepuluh?",
-        "ko": "10시 이후에는 연주하지 말아 주실 수 있을까요?"
+        "ko": "10시 이후에는 연주하지 말아 주실 수 있을까요?",
+        "ru": "Не могли бы вы не играть после десяти часов?",
+        "bn": "দয়া করে রাত দশটার পর না বাজালে হয় না?",
+        "ur": "کیا آپ براہِ کرم دس بجے کے بعد نہ بجائیں؟",
+        "zh-CN": "能请您十点以后不要再演奏吗？",
+        "ja": "10時以降は演奏を控えていただけますか？"
       },
       "practice": "¿Podría no tocar después de las diez, por favor?",
       "practice_translations": {

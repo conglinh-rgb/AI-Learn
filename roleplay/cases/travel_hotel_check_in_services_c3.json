@@ -18,7 +18,12 @@
     "vi": "Phòng không giống như tôi đã đặt",
     "id": "Kamarnya Tidak Sesuai Pesanan",
     "ms": "Bilik Ini Bukan yang Saya Tempah",
-    "ko": "예약한 방이 아니에요"
+    "ko": "예약한 방이 아니에요",
+    "ru": "Это не тот номер, который я бронировал",
+    "bn": "এটা আমার বুক করা রুম নয়",
+    "ur": "یہ وہ کمرہ نہیں جو میں نے بک کیا تھا",
+    "zh-CN": "这不是我预订的房间",
+    "ja": "予約した部屋と違う"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đã đặt một phòng yên tĩnh nhìn ra biển, nhưng lại nhận được một phòng nhỏ hướng ra con phố ồn ào. Lễ tân (AI) nói khách sạn đã kín phòng.",
     "id": "Kamu memesan kamar yang tenang dengan pemandangan laut, tapi malah mendapat kamar kecil yang menghadap jalan yang bising. Resepsionis (AI) bilang hotelnya sudah penuh.",
     "ms": "Anda menempah bilik yang tenang dengan pemandangan laut, tetapi anda mendapat bilik kecil menghadap jalan yang bising. Penyambut tetamu (AI) berkata hotel sudah penuh.",
-    "ko": "바다가 보이는 조용한 방을 예약했는데, 시끄러운 도로 쪽 작은 방을 받았습니다. 프런트 직원(AI)은 호텔이 만실이라고 합니다."
+    "ko": "바다가 보이는 조용한 방을 예약했는데, 시끄러운 도로 쪽 작은 방을 받았습니다. 프런트 직원(AI)은 호텔이 만실이라고 합니다.",
+    "ru": "Вы забронировали тихий номер с видом на море, но получили маленький номер с окнами на шумную улицу. Администратор (AI) говорит, что свободных мест в отеле нет.",
+    "bn": "আপনি সমুদ্রের দৃশ্যসহ একটি শান্ত রুম বুক করেছিলেন, কিন্তু পেয়েছেন কোলাহলপূর্ণ রাস্তার দিকে মুখ করা একটি ছোট রুম। রিসেপশনিস্ট (AI) বলছেন হোটেলে কোনো রুম খালি নেই।",
+    "ur": "آپ نے سمندر کے نظارے والا پرسکون کمرہ بک کیا تھا، لیکن آپ کو شور والی سڑک کی طرف ایک چھوٹا کمرہ ملا۔ ریسیپشنسٹ (AI) کہتی ہیں کہ ہوٹل مکمل بک ہے۔",
+    "zh-CN": "你预订了一间安静的海景房，却被安排到一间朝向嘈杂街道的小房间。前台接待员（AI）说酒店已经客满。",
+    "ja": "静かなオーシャンビューの部屋を予約したのに、騒がしい通りに面した狭い部屋に通されました。受付係（AI）はホテルが満室だと言っています。"
   },
   "mission": {
     "native": "Complain politely, show what you booked and negotiate a fair solution.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự phàn nàn, cho xem phòng bạn đã đặt và thương lượng một giải pháp hợp lý.",
       "id": "Sampaikan keluhan dengan sopan, tunjukkan apa yang kamu pesan, dan negosiasikan solusi yang adil.",
       "ms": "Buat aduan dengan sopan, tunjukkan apa yang anda tempah dan runding penyelesaian yang adil.",
-      "ko": "정중하게 항의하고, 예약한 내용을 보여 주고, 공정한 해결책을 협상하세요."
+      "ko": "정중하게 항의하고, 예약한 내용을 보여 주고, 공정한 해결책을 협상하세요.",
+      "ru": "Вежливо выразите недовольство, покажите, что вы бронировали, и договоритесь о справедливом решении.",
+      "bn": "ভদ্রভাবে অভিযোগ করুন, আপনি কী বুক করেছিলেন তা দেখান এবং একটি ন্যায্য সমাধান নিয়ে আলোচনা করুন।",
+      "ur": "شائستگی سے شکایت کریں، دکھائیں کہ آپ نے کیا بک کیا تھا اور ایک منصفانہ حل پر بات چیت کریں۔",
+      "zh-CN": "礼貌地投诉，出示你的预订内容，并协商一个合理的解决方案。",
+      "ja": "丁寧に苦情を伝え、予約内容を見せて、公平な解決策を交渉しましょう。"
     },
     "practice": "Reclame con cortesía, muestre lo que reservó y negocie una solución justa.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích phòng có vấn đề gì",
           "id": "Jelaskan apa masalah kamarnya",
           "ms": "Terangkan apa yang tidak kena dengan bilik itu",
-          "ko": "방에 어떤 문제가 있는지 설명하세요"
+          "ko": "방에 어떤 문제가 있는지 설명하세요",
+          "ru": "Объясните, что не так с номером",
+          "bn": "রুমে কী সমস্যা তা ব্যাখ্যা করুন",
+          "ur": "بتائیں کہ کمرے میں کیا خرابی ہے",
+          "zh-CN": "说明房间有什么问题",
+          "ja": "部屋の何が問題か説明する"
         },
         "practice": "Explique qué está mal con la habitación",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nói phòng bạn đã đặt ban đầu",
           "id": "Sebutkan apa yang awalnya kamu pesan",
           "ms": "Katakan apa yang anda tempah pada asalnya",
-          "ko": "원래 어떤 방을 예약했는지 말하세요"
+          "ko": "원래 어떤 방을 예약했는지 말하세요",
+          "ru": "Скажите, что вы изначально бронировали",
+          "bn": "আপনি মূলত কী বুক করেছিলেন তা বলুন",
+          "ur": "بتائیں کہ آپ نے اصل میں کیا بک کیا تھا",
+          "zh-CN": "说出你最初预订的内容",
+          "ja": "最初に予約した内容を伝える"
         },
         "practice": "Diga lo que reservó originalmente",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Lịch sự từ chối lời đề nghị đầu tiên",
           "id": "Tolak tawaran pertama dengan sopan",
           "ms": "Tolak tawaran pertama dengan sopan",
-          "ko": "첫 번째 제안을 정중하게 거절하세요"
+          "ko": "첫 번째 제안을 정중하게 거절하세요",
+          "ru": "Вежливо откажитесь от первого предложения",
+          "bn": "প্রথম প্রস্তাবটি ভদ্রভাবে প্রত্যাখ্যান করুন",
+          "ur": "پہلی پیشکش شائستگی سے مسترد کریں",
+          "zh-CN": "礼貌地拒绝第一个提议",
+          "ja": "最初の提案を丁寧に断る"
         },
         "practice": "Rechace con cortesía la primera oferta",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thương lượng đổi phòng hoặc giảm giá",
           "id": "Negosiasikan pindah kamar atau potongan harga",
           "ms": "Runding pertukaran bilik atau diskaun",
-          "ko": "방 변경이나 할인을 협상하세요"
+          "ko": "방 변경이나 할인을 협상하세요",
+          "ru": "Договоритесь о смене номера или скидке",
+          "bn": "রুম বদল বা ছাড় নিয়ে আলোচনা করুন",
+          "ur": "کمرہ بدلنے یا رعایت پر بات چیت کریں",
+          "zh-CN": "协商换房或打折",
+          "ja": "部屋の変更か割引を交渉する"
         },
         "practice": "Negocie un cambio de habitación o un descuento",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi e là đây không phải phòng tôi đã đặt.",
         "id": "Maaf, sepertinya ini bukan kamar yang saya pesan.",
         "ms": "Maaf, ini bukan bilik yang saya tempah.",
-        "ko": "죄송하지만 이 방은 제가 예약한 방이 아니에요."
+        "ko": "죄송하지만 이 방은 제가 예약한 방이 아니에요.",
+        "ru": "Боюсь, это не тот номер, который я бронировал.",
+        "bn": "দুঃখিত, এটা আমার বুক করা রুম নয়।",
+        "ur": "معاف کیجیے، یہ وہ کمرہ نہیں جو میں نے بک کیا تھا۔",
+        "zh-CN": "恐怕这不是我预订的房间。",
+        "ja": "申し訳ないのですが、これは予約した部屋ではないようです。"
       },
       "practice": "Me temo que esta no es la habitación que reservé.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Xác nhận đặt phòng của tôi ghi là phòng nhìn ra biển.",
         "id": "Di konfirmasi saya tertulis kamar dengan pemandangan laut.",
         "ms": "Pengesahan saya menyatakan bilik dengan pemandangan laut.",
-        "ko": "예약 확인서에는 오션뷰 객실이라고 되어 있어요."
+        "ko": "예약 확인서에는 오션뷰 객실이라고 되어 있어요.",
+        "ru": "В моём подтверждении указан номер с видом на море.",
+        "bn": "আমার কনফার্মেশনে সমুদ্র-দৃশ্যের রুম লেখা আছে।",
+        "ur": "میری تصدیق میں سمندر کے نظارے والا کمرہ لکھا ہے۔",
+        "zh-CN": "我的确认单上写的是海景房。",
+        "ja": "確認書にはオーシャンビューの部屋と書いてあります。"
       },
       "practice": "Mi confirmación dice habitación con vista al mar.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tiếng ồn ngoài phố lớn quá, tôi không ngủ được.",
         "id": "Suara jalannya terlalu bising untuk tidur.",
         "ms": "Bunyi bising jalan terlalu kuat untuk tidur.",
-        "ko": "도로 소음이 너무 커서 잠을 못 자겠어요."
+        "ko": "도로 소음이 너무 커서 잠을 못 자겠어요.",
+        "ru": "Шум с улицы слишком громкий, невозможно спать.",
+        "bn": "রাস্তার শব্দ এত বেশি যে ঘুমানো যায় না।",
+        "ur": "سڑک کا شور اتنا زیادہ ہے کہ سونا ممکن نہیں۔",
+        "zh-CN": "街上的噪音太大了，睡不着。",
+        "ja": "通りの騒音がうるさくて眠れません。"
       },
       "practice": "Con el ruido de la calle no puedo dormir.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Cảm ơn lời đề nghị, nhưng như vậy chưa đủ.",
         "id": "Saya menghargai tawarannya, tapi itu belum cukup.",
         "ms": "Saya hargai tawaran itu, tetapi itu tidak mencukupi.",
-        "ko": "제안은 감사하지만, 그걸로는 부족해요."
+        "ko": "제안은 감사하지만, 그걸로는 부족해요.",
+        "ru": "Спасибо за предложение, но этого недостаточно.",
+        "bn": "প্রস্তাবের জন্য ধন্যবাদ, কিন্তু এটা যথেষ্ট নয়।",
+        "ur": "پیشکش کا شکریہ، لیکن یہ کافی نہیں ہے۔",
+        "zh-CN": "谢谢您的提议，但这还不够。",
+        "ja": "ご提案はありがたいのですが、それでは不十分です。"
       },
       "practice": "Le agradezco la oferta, pero no es suficiente.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Ngày mai anh/chị chuyển phòng cho tôi hoặc giảm giá được không?",
         "id": "Bisakah saya dipindahkan besok atau diberi potongan harga?",
         "ms": "Boleh pindahkan saya esok atau beri saya diskaun?",
-        "ko": "내일 방을 옮겨 주시거나 할인해 주실 수 있을까요?"
+        "ko": "내일 방을 옮겨 주시거나 할인해 주실 수 있을까요?",
+        "ru": "Не могли бы вы переселить меня завтра или сделать скидку?",
+        "bn": "কাল কি আমাকে অন্য রুমে সরাতে পারবেন, নাকি ছাড় দিতে পারবেন?",
+        "ur": "کیا آپ کل میرا کمرہ بدل سکتے ہیں یا رعایت دے سکتے ہیں؟",
+        "zh-CN": "能明天给我换房间，或者给我打个折吗？",
+        "ja": "明日部屋を移していただくか、割引していただけますか？"
       },
       "practice": "¿Podría cambiarme mañana o hacerme un descuento?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Bị dừng xe trên đường về nhà",
     "id": "Dihentikan Polisi Saat Pulang",
     "ms": "Ditahan Polis dalam Perjalanan Pulang",
-    "ko": "귀갓길 검문"
+    "ko": "귀갓길 검문",
+    "ru": "Остановка по дороге домой",
+    "bn": "বাড়ি ফেরার পথে পুলিশের থামানো",
+    "ur": "گھر جاتے ہوئے پولیس نے روک لیا",
+    "zh-CN": "回家路上被警察拦下",
+    "ja": "帰り道で警察に止められて"
   },
   "character": "fox",
   "scenario": "You are driving home at night when a police officer (AI) pulls you over on a quiet road and walks up to your window.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang lái xe về nhà vào ban đêm thì một cảnh sát (AI) ra hiệu dừng xe trên một con đường vắng và bước đến cửa sổ xe bạn.",
     "id": "Kamu sedang menyetir pulang di malam hari ketika seorang polisi (AI) menghentikanmu di jalan yang sepi dan mendekati jendelamu.",
     "ms": "Anda sedang memandu pulang pada waktu malam apabila seorang pegawai polis (AI) menahan anda di jalan yang sunyi dan berjalan ke tingkap kereta anda.",
-    "ko": "밤에 운전해서 집에 가는데, 한적한 도로에서 경찰관(AI)이 차를 세우고 창문 쪽으로 걸어옵니다."
+    "ko": "밤에 운전해서 집에 가는데, 한적한 도로에서 경찰관(AI)이 차를 세우고 창문 쪽으로 걸어옵니다.",
+    "ru": "Вы едете домой ночью, и на тихой дороге полицейский (AI) останавливает вас и подходит к вашему окну.",
+    "bn": "আপনি রাতে গাড়ি চালিয়ে বাড়ি ফিরছেন, এমন সময় একটি নির্জন রাস্তায় একজন পুলিশ অফিসার (AI) আপনাকে থামিয়ে আপনার জানালার কাছে এগিয়ে আসেন।",
+    "ur": "آپ رات کو گاڑی چلا کر گھر جا رہے ہیں کہ ایک سنسان سڑک پر ایک پولیس افسر (AI) آپ کو روکتا ہے اور آپ کی کھڑکی کے پاس آتا ہے۔",
+    "zh-CN": "你夜里开车回家，一名警察（AI）在一条僻静的路上把你拦下，走到你的车窗前。",
+    "ja": "夜、車で帰宅中、静かな道で警察官（AI）に停車を命じられ、警察官があなたの窓のところまで歩いてきます。"
   },
   "mission": {
     "native": "Stay calm, show your documents and find out why you were stopped.",
@@ -60,7 +70,12 @@
       "vi": "Giữ bình tĩnh, xuất trình giấy tờ và tìm hiểu lý do bạn bị dừng xe.",
       "id": "Tetap tenang, tunjukkan dokumenmu, dan cari tahu kenapa kamu dihentikan.",
       "ms": "Bertenang, tunjukkan dokumen anda dan ketahui mengapa anda ditahan.",
-      "ko": "침착하게 서류를 보여 주고 왜 차를 세웠는지 알아보세요."
+      "ko": "침착하게 서류를 보여 주고 왜 차를 세웠는지 알아보세요.",
+      "ru": "Сохраняйте спокойствие, покажите документы и узнайте, почему вас остановили.",
+      "bn": "শান্ত থাকুন, আপনার কাগজপত্র দেখান এবং জেনে নিন কেন আপনাকে থামানো হয়েছে।",
+      "ur": "پرسکون رہیں، اپنے کاغذات دکھائیں اور معلوم کریں کہ آپ کو کیوں روکا گیا۔",
+      "zh-CN": "保持冷静，出示证件，并弄清楚你为什么被拦下。",
+      "ja": "落ち着いて書類を見せ、なぜ止められたのかを確認しましょう。"
     },
     "practice": "Mantenga la calma, muestre sus documentos y averigüe por qué lo detuvieron.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Lịch sự chào cảnh sát",
           "id": "Sapa petugas dengan sopan",
           "ms": "Sapa pegawai itu dengan sopan",
-          "ko": "경찰관에게 정중하게 인사하세요"
+          "ko": "경찰관에게 정중하게 인사하세요",
+          "ru": "Вежливо поздоровайтесь с полицейским",
+          "bn": "অফিসারকে ভদ্রভাবে অভিবাদন জানান",
+          "ur": "افسر کو شائستگی سے سلام کریں",
+          "zh-CN": "礼貌地向警察问好",
+          "ja": "警察官に丁寧にあいさつする"
         },
         "practice": "Salude al oficial con cortesía",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi vì sao bạn bị dừng xe",
           "id": "Tanyakan kenapa kamu dihentikan",
           "ms": "Tanya mengapa anda ditahan",
-          "ko": "왜 차를 세웠는지 물어보세요"
+          "ko": "왜 차를 세웠는지 물어보세요",
+          "ru": "Спросите, почему вас остановили",
+          "bn": "জিজ্ঞেস করুন কেন আপনাকে থামানো হয়েছে",
+          "ur": "پوچھیں کہ آپ کو کیوں روکا گیا",
+          "zh-CN": "询问你为什么被拦下",
+          "ja": "なぜ止められたのか尋ねる"
         },
         "practice": "Pregunte por qué lo detuvieron",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói giấy phép lái xe và đăng ký xe để ở đâu",
           "id": "Sebutkan di mana SIM dan STNK-mu",
           "ms": "Katakan di mana lesen dan dokumen pendaftaran kenderaan anda",
-          "ko": "면허증과 차량 등록증이 어디 있는지 말하세요"
+          "ko": "면허증과 차량 등록증이 어디 있는지 말하세요",
+          "ru": "Скажите, где ваши права и регистрационные документы",
+          "bn": "আপনার লাইসেন্স ও রেজিস্ট্রেশন কোথায় আছে তা বলুন",
+          "ur": "بتائیں کہ آپ کا لائسنس اور رجسٹریشن کہاں ہیں",
+          "zh-CN": "说明你的驾照和行驶证放在哪里",
+          "ja": "免許証と車検証がどこにあるか伝える"
         },
         "practice": "Diga dónde tiene su licencia y su registro",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi chuyện gì sẽ xảy ra tiếp theo",
           "id": "Tanyakan apa yang terjadi selanjutnya",
           "ms": "Tanya apa yang akan berlaku seterusnya",
-          "ko": "이제 어떻게 되는지 물어보세요"
+          "ko": "이제 어떻게 되는지 물어보세요",
+          "ru": "Спросите, что будет дальше",
+          "bn": "জিজ্ঞেস করুন এরপর কী হবে",
+          "ur": "پوچھیں کہ آگے کیا ہوگا",
+          "zh-CN": "询问接下来会怎样",
+          "ja": "この後どうなるのか尋ねる"
         },
         "practice": "Pregunte qué pasará después",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Chào anh/chị cảnh sát. Có vấn đề gì không ạ?",
         "id": "Selamat malam, Pak. Ada masalah apa?",
         "ms": "Selamat malam, encik. Ada masalah apa?",
-        "ko": "안녕하세요, 경찰관님. 무슨 문제가 있나요?"
+        "ko": "안녕하세요, 경찰관님. 무슨 문제가 있나요?",
+        "ru": "Добрый вечер, офицер. Что-то не так?",
+        "bn": "শুভ সন্ধ্যা, অফিসার। কোনো সমস্যা হয়েছে?",
+        "ur": "شام بخیر، افسر صاحب۔ کوئی مسئلہ ہے؟",
+        "zh-CN": "晚上好，警官。有什么问题吗？",
+        "ja": "こんばんは。何か問題がありましたか？"
       },
       "practice": "Buenas noches, oficial. ¿Hay algún problema?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Bằng lái của tôi ở trong ví. Tôi lấy ra được không?",
         "id": "SIM saya ada di dompet. Boleh saya ambil?",
         "ms": "Lesen saya ada dalam dompet. Boleh saya ambil?",
-        "ko": "면허증은 지갑에 있어요. 꺼내도 될까요?"
+        "ko": "면허증은 지갑에 있어요. 꺼내도 될까요?",
+        "ru": "Мои права в бумажнике. Можно их достать?",
+        "bn": "আমার লাইসেন্স মানিব্যাগে আছে। আমি কি বের করতে পারি?",
+        "ur": "میرا لائسنس میرے بٹوے میں ہے۔ کیا میں نکال سکتا ہوں؟",
+        "zh-CN": "我的驾照在钱包里。我可以拿出来吗？",
+        "ja": "免許証は財布の中です。取り出してもいいですか？"
       },
       "practice": "Mi licencia está en mi billetera. ¿Puedo sacarla?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Xin lỗi, tôi không để ý là mình chạy nhanh vậy.",
         "id": "Maaf, saya tidak sadar saya melaju secepat itu.",
         "ms": "Maaf, saya tidak sedar saya memandu selaju itu.",
-        "ko": "죄송해요, 그렇게 빨리 달리는 줄 몰랐어요."
+        "ko": "죄송해요, 그렇게 빨리 달리는 줄 몰랐어요.",
+        "ru": "Извините, я не заметил, что ехал так быстро.",
+        "bn": "দুঃখিত, আমি বুঝতে পারিনি যে আমি এত জোরে চালাচ্ছিলাম।",
+        "ur": "معذرت، مجھے احساس نہیں ہوا کہ میں اتنی تیز چلا رہا تھا۔",
+        "zh-CN": "对不起，我没意识到自己开得那么快。",
+        "ja": "すみません、そんなにスピードが出ているとは気づきませんでした。"
       },
       "practice": "Lo siento, no me di cuenta de que iba tan rápido.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi sẽ bị phạt hay chỉ bị nhắc nhở thôi?",
         "id": "Apakah saya akan ditilang atau hanya diberi peringatan?",
         "ms": "Adakah saya akan disaman atau hanya diberi amaran?",
-        "ko": "딱지를 받게 되나요, 아니면 경고만 받나요?"
+        "ko": "딱지를 받게 되나요, 아니면 경고만 받나요?",
+        "ru": "Мне выпишут штраф или только предупреждение?",
+        "bn": "আমাকে কি জরিমানা করা হবে, নাকি শুধু সতর্ক করা হবে?",
+        "ur": "کیا مجھے چالان ملے گا یا صرف وارننگ؟",
+        "zh-CN": "我会被开罚单，还是只是警告？",
+        "ja": "違反切符ですか、それとも警告だけですか？"
       },
       "practice": "¿Me va a poner una multa o solo una advertencia?",
       "practice_translations": {

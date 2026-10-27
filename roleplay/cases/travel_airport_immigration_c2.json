@@ -18,7 +18,12 @@
     "vi": "Trả lời câu hỏi tại quầy kiểm soát hộ chiếu",
     "id": "Pertanyaan di Pemeriksaan Paspor",
     "ms": "Soalan di Kaunter Imigresen",
-    "ko": "입국 심사대에서의 질문"
+    "ko": "입국 심사대에서의 질문",
+    "ru": "Вопросы на паспортном контроле",
+    "bn": "পাসপোর্ট কন্ট্রোলে প্রশ্ন",
+    "ur": "پاسپورٹ کنٹرول پر سوالات",
+    "zh-CN": "护照检查处的问题",
+    "ja": "入国審査での質問"
   },
   "character": "fox",
   "scenario": "You have just landed in a new country. The immigration officer (AI) looks at your passport and starts asking questions.",
@@ -39,7 +44,12 @@
     "vi": "Bạn vừa hạ cánh xuống một đất nước mới. Nhân viên xuất nhập cảnh (AI) xem hộ chiếu và bắt đầu đặt câu hỏi.",
     "id": "Kamu baru saja mendarat di negara baru. Petugas imigrasi (AI) memeriksa paspormu dan mulai bertanya.",
     "ms": "Anda baru sahaja mendarat di negara baharu. Pegawai imigresen (AI) melihat pasport anda dan mula bertanya soalan.",
-    "ko": "새로운 나라에 막 도착했습니다. 입국 심사관(AI)이 여권을 보더니 질문을 하기 시작합니다."
+    "ko": "새로운 나라에 막 도착했습니다. 입국 심사관(AI)이 여권을 보더니 질문을 하기 시작합니다.",
+    "ru": "Вы только что прилетели в новую страну. Сотрудник иммиграционной службы (AI) смотрит ваш паспорт и начинает задавать вопросы.",
+    "bn": "আপনি সবেমাত্র একটি নতুন দেশে অবতরণ করেছেন। ইমিগ্রেশন কর্মকর্তা (AI) আপনার পাসপোর্ট দেখে প্রশ্ন করতে শুরু করেন।",
+    "ur": "آپ ابھی ایک نئے ملک میں اترے ہیں۔ امیگریشن افسر (AI) آپ کا پاسپورٹ دیکھتا ہے اور سوالات پوچھنا شروع کرتا ہے۔",
+    "zh-CN": "你刚刚抵达一个新的国家。移民官（AI）查看你的护照并开始提问。",
+    "ja": "あなたは新しい国に到着したところです。入国審査官（AI）がパスポートを確認し、質問を始めます。"
   },
   "mission": {
     "native": "Answer the officer clearly about the purpose and length of your stay.",
@@ -60,7 +70,12 @@
       "vi": "Trả lời rõ ràng về mục đích và thời gian lưu trú của bạn.",
       "id": "Jawab pertanyaan petugas dengan jelas tentang tujuan dan lama kunjunganmu.",
       "ms": "Jawab pegawai itu dengan jelas tentang tujuan dan tempoh penginapan anda.",
-      "ko": "체류 목적과 기간에 대해 심사관에게 분명하게 답하세요."
+      "ko": "체류 목적과 기간에 대해 심사관에게 분명하게 답하세요.",
+      "ru": "Чётко ответьте сотруднику о цели и сроке вашего пребывания.",
+      "bn": "আপনার থাকার উদ্দেশ্য ও সময়কাল সম্পর্কে কর্মকর্তাকে স্পষ্টভাবে উত্তর দিন।",
+      "ur": "افسر کو اپنے قیام کے مقصد اور مدت کے بارے میں واضح جواب دیں۔",
+      "zh-CN": "清楚地回答移民官关于你停留目的和时长的问题。",
+      "ja": "滞在の目的と期間について、審査官にはっきり答えましょう。"
     },
     "practice": "Responda con claridad al oficial sobre el motivo y la duración de su estancia.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói mục đích chuyến đi",
           "id": "Sebutkan tujuan perjalananmu",
           "ms": "Nyatakan tujuan perjalanan anda",
-          "ko": "여행 목적을 말하세요"
+          "ko": "여행 목적을 말하세요",
+          "ru": "Назовите цель поездки",
+          "bn": "আপনার ভ্রমণের উদ্দেশ্য বলুন",
+          "ur": "اپنے سفر کا مقصد بتائیں",
+          "zh-CN": "说出你的旅行目的",
+          "ja": "旅行の目的を伝えましょう"
         },
         "practice": "Diga el motivo de su viaje",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói bạn sẽ ở lại bao lâu",
           "id": "Sebutkan berapa lama kamu akan tinggal",
           "ms": "Katakan berapa lama anda akan tinggal",
-          "ko": "얼마나 머물 예정인지 말하세요"
+          "ko": "얼마나 머물 예정인지 말하세요",
+          "ru": "Скажите, как долго вы пробудете",
+          "bn": "কতদিন থাকবেন তা বলুন",
+          "ur": "بتائیں کہ آپ کتنے عرصے رہیں گے",
+          "zh-CN": "说出你将停留多久",
+          "ja": "滞在期間を伝えましょう"
         },
         "practice": "Diga cuánto tiempo se quedará",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói bạn sẽ ở đâu",
           "id": "Sebutkan di mana kamu akan menginap",
           "ms": "Katakan di mana anda akan menginap",
-          "ko": "어디에 묵을 예정인지 말하세요"
+          "ko": "어디에 묵을 예정인지 말하세요",
+          "ru": "Скажите, где вы остановитесь",
+          "bn": "কোথায় থাকবেন তা বলুন",
+          "ur": "بتائیں کہ آپ کہاں ٹھہریں گے",
+          "zh-CN": "说出你将住在哪里",
+          "ja": "滞在先を伝えましょう"
         },
         "practice": "Diga dónde se va a hospedar",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Nhắc đến vé khứ hồi của bạn",
           "id": "Sebutkan tiket pulangmu",
           "ms": "Sebut tentang tiket pulang anda",
-          "ko": "돌아가는 항공권이 있다고 말하세요"
+          "ko": "돌아가는 항공권이 있다고 말하세요",
+          "ru": "Упомяните обратный билет",
+          "bn": "আপনার ফিরতি টিকিটের কথা উল্লেখ করুন",
+          "ur": "اپنے واپسی کے ٹکٹ کا ذکر کریں",
+          "zh-CN": "提及你的返程机票",
+          "ja": "帰りの航空券について触れましょう"
         },
         "practice": "Mencione su boleto de regreso",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tôi đến đây để du lịch.",
         "id": "Saya ke sini untuk berlibur.",
         "ms": "Saya datang untuk bercuti.",
-        "ko": "휴가차 왔습니다."
+        "ko": "휴가차 왔습니다.",
+        "ru": "Я здесь в отпуске.",
+        "bn": "আমি এখানে ছুটি কাটাতে এসেছি।",
+        "ur": "میں یہاں چھٹیاں منانے آیا ہوں۔",
+        "zh-CN": "我是来度假的。",
+        "ja": "休暇で来ました。"
       },
       "practice": "Estoy aquí de vacaciones.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Tôi sẽ ở lại hai tuần.",
         "id": "Saya akan tinggal selama dua minggu.",
         "ms": "Saya akan tinggal selama dua minggu.",
-        "ko": "2주 동안 머물 예정입니다."
+        "ko": "2주 동안 머물 예정입니다.",
+        "ru": "Я пробуду здесь две недели.",
+        "bn": "আমি দুই সপ্তাহ থাকব।",
+        "ur": "میں دو ہفتے رہوں گا۔",
+        "zh-CN": "我会待两周。",
+        "ja": "2週間滞在します。"
       },
       "practice": "Me voy a quedar dos semanas.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Tôi ở một khách sạn trong trung tâm thành phố.",
         "id": "Saya menginap di hotel di pusat kota.",
         "ms": "Saya menginap di sebuah hotel di pusat bandar.",
-        "ko": "시내에 있는 호텔에 묵을 예정입니다."
+        "ko": "시내에 있는 호텔에 묵을 예정입니다.",
+        "ru": "Я остановился в отеле в центре города.",
+        "bn": "আমি শহরের কেন্দ্রে একটি হোটেলে উঠেছি।",
+        "ur": "میں شہر کے مرکز میں ایک ہوٹل میں ٹھہرا ہوں۔",
+        "zh-CN": "我住在市中心的一家酒店。",
+        "ja": "ダウンタウンのホテルに泊まっています。"
       },
       "practice": "Me hospedo en un hotel en el centro.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Đây là vé chiều về của tôi.",
         "id": "Ini tiket pulang saya.",
         "ms": "Ini tiket pulang saya.",
-        "ko": "여기 돌아가는 항공권입니다."
+        "ko": "여기 돌아가는 항공권입니다.",
+        "ru": "Вот мой обратный билет.",
+        "bn": "এই যে আমার ফিরতি টিকিট।",
+        "ur": "یہ میرا واپسی کا ٹکٹ ہے۔",
+        "zh-CN": "这是我的回程票。",
+        "ja": "こちらが帰りの航空券です。"
       },
       "practice": "Aquí está mi boleto de regreso.",
       "practice_translations": {

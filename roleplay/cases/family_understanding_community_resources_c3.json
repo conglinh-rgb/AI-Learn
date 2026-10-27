@@ -18,7 +18,12 @@
     "vi": "Mê cung giấy tờ",
     "id": "Labirin Urusan Dokumen",
     "ms": "Kekusutan Kertas Kerja",
-    "ko": "서류 미로"
+    "ko": "서류 미로",
+    "ru": "Бумажный лабиринт",
+    "bn": "কাগজপত্রের গোলকধাঁধা",
+    "ur": "کاغذی کارروائی کی بھول بھلیاں",
+    "zh-CN": "文书迷宫",
+    "ja": "書類の迷路"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đến văn phòng hỗ trợ gia đình để xin trợ cấp tiền ăn, nhưng nhân viên phụ trách hồ sơ (AI) đang rất bận và nói đơn của bạn chưa đầy đủ, có thể bạn phải quay lại vào tháng sau.",
     "id": "Kamu pergi ke kantor layanan keluarga untuk mengajukan bantuan biaya makan, tapi petugas kasus (AI) yang sibuk bilang formulirmu belum lengkap dan kamu mungkin harus kembali bulan depan.",
     "ms": "Anda pergi ke pejabat sokongan keluarga untuk memohon bantuan kos makanan, tetapi pegawai kes (AI) yang sibuk berkata borang anda tidak lengkap dan anda mungkin perlu datang semula bulan depan.",
-    "ko": "식비 지원을 신청하러 가족 지원 사무소에 갔는데, 바쁜 담당 복지사(AI)가 신청서가 불완전해서 다음 달에 다시 와야 할 수도 있다고 말합니다."
+    "ko": "식비 지원을 신청하러 가족 지원 사무소에 갔는데, 바쁜 담당 복지사(AI)가 신청서가 불완전해서 다음 달에 다시 와야 할 수도 있다고 말합니다.",
+    "ru": "Вы пришли в центр поддержки семей, чтобы подать заявку на помощь с расходами на питание, но занятой социальный работник (AI) говорит, что ваша анкета заполнена не полностью и, возможно, вам придётся прийти в следующем месяце.",
+    "bn": "খাবারের খরচে সাহায্যের জন্য আবেদন করতে আপনি একটি পারিবারিক সহায়তা অফিসে যান, কিন্তু ব্যস্ত কেস ওয়ার্কার (AI) বলেন আপনার ফর্ম অসম্পূর্ণ এবং হয়তো পরের মাসে আবার আসতে হবে।",
+    "ur": "آپ کھانے کے اخراجات میں مدد کی درخواست دینے کے لیے فیملی سپورٹ آفس جاتے ہیں، لیکن مصروف کیس ورکر (AI) کہتا ہے کہ آپ کا فارم نامکمل ہے اور شاید آپ کو اگلے مہینے دوبارہ آنا پڑے۔",
+    "zh-CN": "你去家庭援助办公室申请伙食费补助，但忙碌的个案工作人员（AI）说你的表格不完整，你可能得下个月再来。",
+    "ja": "食費の支援を申請しに家族支援窓口へ行きましたが、忙しい担当者（AI）から書類に不備があり、来月また来る必要があるかもしれないと言われます。"
   },
   "mission": {
     "native": "Stay polite but persistent, fix the problem, and find out what help you can get now.",
@@ -61,7 +71,12 @@
       "vi": "Giữ thái độ lịch sự nhưng kiên trì, khắc phục vấn đề và tìm hiểu bạn có thể nhận hỗ trợ gì ngay bây giờ.",
       "id": "Tetap sopan tapi gigih, selesaikan masalahnya, dan cari tahu bantuan apa yang bisa kamu dapat sekarang.",
       "ms": "Kekal sopan tetapi tegas, selesaikan masalah itu dan ketahui bantuan yang boleh anda dapat sekarang.",
-      "ko": "공손하지만 끈기 있게 문제를 해결하고, 지금 받을 수 있는 지원이 무엇인지 알아보세요."
+      "ko": "공손하지만 끈기 있게 문제를 해결하고, 지금 받을 수 있는 지원이 무엇인지 알아보세요.",
+      "ru": "Оставайтесь вежливы, но настойчивы, решите проблему и узнайте, какую помощь можно получить уже сейчас.",
+      "bn": "ভদ্র কিন্তু অটল থাকুন, সমস্যাটি সমাধান করুন এবং এখনই কী সাহায্য পেতে পারেন তা জেনে নিন।",
+      "ur": "شائستہ مگر ثابت قدم رہیں، مسئلہ حل کریں، اور معلوم کریں کہ ابھی آپ کو کیا مدد مل سکتی ہے۔",
+      "zh-CN": "保持礼貌但坚持不懈，解决问题，并了解现在能获得哪些帮助。",
+      "ja": "丁寧かつ粘り強く対応し、問題を解決して、今すぐ受けられる支援を確認しましょう。"
     },
     "practice": "Sea cortés pero insistente, resuelva el problema y averigüe qué ayuda puede recibir ahora.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Giải thích ngắn gọn hoàn cảnh gia đình bạn",
           "id": "Jelaskan situasi keluargamu secara singkat",
           "ms": "Terangkan keadaan keluarga anda secara ringkas",
-          "ko": "가족의 상황을 간단히 설명하세요"
+          "ko": "가족의 상황을 간단히 설명하세요",
+          "ru": "Кратко опишите положение вашей семьи",
+          "bn": "আপনার পরিবারের অবস্থা সংক্ষেপে বুঝিয়ে বলুন",
+          "ur": "اپنے خاندان کی صورتحال مختصراً بیان کریں",
+          "zh-CN": "简要说明你家的情况",
+          "ja": "家族の状況を簡潔に説明しましょう"
         },
         "practice": "Explique brevemente la situación de su familia",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Hỏi chính xác đơn còn thiếu gì",
           "id": "Tanyakan apa tepatnya yang kurang di formulir",
           "ms": "Tanya apa sebenarnya yang tiada dalam borang",
-          "ko": "신청서에서 정확히 무엇이 빠졌는지 물어보세요"
+          "ko": "신청서에서 정확히 무엇이 빠졌는지 물어보세요",
+          "ru": "Спросите, чего именно не хватает в анкете",
+          "bn": "ফর্মে ঠিক কী বাদ আছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ فارم میں بالکل کیا کمی ہے",
+          "zh-CN": "问清楚表格具体缺什么",
+          "ja": "書類に何が足りないのか正確に聞きましょう"
         },
         "practice": "Pregunte qué falta exactamente en el formulario",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi hôm nay có hỗ trợ tạm thời không",
           "id": "Tanyakan apakah ada bantuan sementara hari ini",
           "ms": "Tanya sama ada bantuan sementara boleh didapati hari ini",
-          "ko": "오늘 받을 수 있는 임시 지원이 있는지 물어보세요"
+          "ko": "오늘 받을 수 있는 임시 지원이 있는지 물어보세요",
+          "ru": "Спросите, можно ли получить временную помощь сегодня",
+          "bn": "আজ অস্থায়ী সাহায্য পাওয়া যায় কি না জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا آج عارضی مدد مل سکتی ہے",
+          "zh-CN": "询问今天能否获得临时援助",
+          "ja": "今日受けられる一時的な支援があるか聞きましょう"
         },
         "practice": "Pregunte si hay ayuda temporal disponible hoy",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Xác nhận các bước tiếp theo và hạn chót",
           "id": "Konfirmasi langkah selanjutnya dan tenggat waktunya",
           "ms": "Sahkan langkah seterusnya dan tarikh akhir",
-          "ko": "다음 절차와 마감일을 확인하세요"
+          "ko": "다음 절차와 마감일을 확인하세요",
+          "ru": "Уточните дальнейшие шаги и срок",
+          "bn": "পরবর্তী ধাপ ও শেষ তারিখ নিশ্চিত করুন",
+          "ur": "اگلے اقدامات اور آخری تاریخ کی تصدیق کریں",
+          "zh-CN": "确认后续步骤和截止日期",
+          "ja": "次の手順と期限を確認しましょう"
         },
         "practice": "Confirme los próximos pasos y la fecha límite",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi có ba con, và dạo này tiền bạc rất eo hẹp.",
         "id": "Saya punya tiga anak, dan belakangan ini keuangan kami sangat sulit.",
         "ms": "Saya ada tiga orang anak, dan kewangan kami sangat sempit kebelakangan ini.",
-        "ko": "아이가 셋인데 요즘 형편이 너무 어려워요."
+        "ko": "아이가 셋인데 요즘 형편이 너무 어려워요.",
+        "ru": "У меня трое детей, и в последнее время с деньгами очень туго.",
+        "bn": "আমার তিনটি সন্তান, আর ইদানীং টাকাপয়সার খুব টানাটানি।",
+        "ur": "میرے تین بچے ہیں، اور آج کل پیسوں کی بہت تنگی ہے۔",
+        "zh-CN": "我有三个孩子，最近手头非常紧。",
+        "ja": "子どもが3人いて、最近お金がとても苦しいんです。"
       },
       "practice": "Tengo tres hijos y últimamente el dinero no nos alcanza.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Anh/chị chỉ giúp tôi chính xác còn thiếu gì được không?",
         "id": "Bisa tunjukkan kepada saya apa tepatnya yang kurang?",
         "ms": "Boleh tunjukkan kepada saya apa sebenarnya yang tiada?",
-        "ko": "정확히 뭐가 빠졌는지 보여 주실 수 있어요?"
+        "ko": "정확히 뭐가 빠졌는지 보여 주실 수 있어요?",
+        "ru": "Не могли бы вы показать, чего именно не хватает?",
+        "bn": "ঠিক কী বাদ আছে, আমাকে দেখাতে পারবেন?",
+        "ur": "کیا آپ مجھے دکھا سکتے ہیں کہ بالکل کیا کمی ہے؟",
+        "zh-CN": "能具体指给我看缺了什么吗？",
+        "ja": "何が足りないのか、具体的に教えていただけますか？"
       },
       "practice": "¿Me podría mostrar exactamente qué falta?",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có thể sửa ngay hôm nay ở đây thay vì tháng sau quay lại được không?",
         "id": "Bisakah saya memperbaikinya di sini hari ini, daripada kembali bulan depan?",
         "ms": "Bolehkah saya betulkan di sini hari ini dan tidak perlu datang semula bulan depan?",
-        "ko": "다음 달에 다시 오지 않고 오늘 여기서 고칠 수 있을까요?"
+        "ko": "다음 달에 다시 오지 않고 오늘 여기서 고칠 수 있을까요?",
+        "ru": "Можно исправить это здесь сегодня, а не приходить в следующем месяце?",
+        "bn": "পরের মাসে আবার না এসে আজ এখানেই কি ঠিক করে দিতে পারি?",
+        "ur": "کیا میں اگلے مہینے آنے کے بجائے آج یہیں اسے ٹھیک کر سکتا ہوں؟",
+        "zh-CN": "我能今天在这里改好，而不用下个月再来吗？",
+        "ja": "来月出直すのではなく、今日ここで直せますか？"
       },
       "practice": "¿Puedo corregirlo aquí hoy en vez de volver el próximo mes?",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Trong lúc chờ, gia đình tôi có thể nhận hỗ trợ gì không?",
         "id": "Apakah ada bantuan yang bisa kami dapatkan sementara ini?",
         "ms": "Adakah apa-apa bantuan yang boleh kami dapat sementara ini?",
-        "ko": "그동안 받을 수 있는 지원이 있을까요?"
+        "ko": "그동안 받을 수 있는 지원이 있을까요?",
+        "ru": "Можем ли мы получить какую-то помощь пока что?",
+        "bn": "এর মধ্যে আমরা কি কোনো সাহায্য পেতে পারি?",
+        "ur": "کیا اس دوران ہمیں کوئی مدد مل سکتی ہے؟",
+        "zh-CN": "在此期间我们能得到什么帮助吗？",
+        "ja": "それまでの間に受けられる支援はありますか？"
       },
       "practice": "¿Hay alguna ayuda que podamos recibir mientras tanto?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Cho tôi xác nhận lại, tôi cần mang những gì và hạn chót là khi nào?",
         "id": "Untuk memastikan saja, apa yang harus saya bawa, dan paling lambat kapan?",
         "ms": "Untuk kepastian, apa yang perlu saya bawa, dan sebelum bila?",
-        "ko": "확인차 여쭤볼게요. 뭘 언제까지 가져와야 하나요?"
+        "ko": "확인차 여쭤볼게요. 뭘 언제까지 가져와야 하나요?",
+        "ru": "Просто уточню: что мне нужно принести и к какому сроку?",
+        "bn": "একটু নিশ্চিত হয়ে নিই, আমাকে কী আনতে হবে আর কবের মধ্যে?",
+        "ur": "بس تصدیق کے لیے، مجھے کیا لانا ہے اور کب تک؟",
+        "zh-CN": "我确认一下，我需要带什么，截止到什么时候？",
+        "ja": "確認ですが、何をいつまでに持ってくればいいですか？"
       },
       "practice": "Solo para confirmar, ¿qué tengo que traer y para cuándo?",
       "practice_translations": {

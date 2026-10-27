@@ -18,7 +18,12 @@
     "vi": "Đọc thư mời làm việc",
     "id": "Membaca Surat Penawaran Kerja",
     "ms": "Membaca Surat Tawaran",
-    "ko": "채용 제안서 읽기"
+    "ko": "채용 제안서 읽기",
+    "ru": "Читаем предложение о работе",
+    "bn": "অফার লেটার পড়া",
+    "ur": "آفر لیٹر پڑھنا",
+    "zh-CN": "阅读录用通知书",
+    "ja": "内定通知書を読む"
   },
   "character": "fox",
   "scenario": "You just received a job offer letter. The HR representative (AI) calls to see if you have any questions.",
@@ -39,7 +44,12 @@
     "vi": "Bạn vừa nhận được thư mời làm việc. Đại diện phòng nhân sự (AI) gọi điện hỏi xem bạn có thắc mắc gì không.",
     "id": "Kamu baru menerima surat penawaran kerja. Perwakilan HR (AI) menelepon untuk menanyakan apakah kamu punya pertanyaan.",
     "ms": "Anda baru menerima surat tawaran kerja. Wakil HR (AI) menelefon untuk bertanya sama ada anda ada soalan.",
-    "ko": "방금 채용 제안서를 받았어요. 인사 담당자(AI)가 궁금한 점이 있는지 전화로 물어봅니다."
+    "ko": "방금 채용 제안서를 받았어요. 인사 담당자(AI)가 궁금한 점이 있는지 전화로 물어봅니다.",
+    "ru": "Вы только что получили письмо с предложением о работе. Представитель отдела кадров (AI) звонит узнать, есть ли у вас вопросы.",
+    "bn": "আপনি এইমাত্র একটি চাকরির অফার লেটার পেয়েছেন। এইচআর প্রতিনিধি (AI) ফোন করে জানতে চাইছেন আপনার কোনো প্রশ্ন আছে কি না।",
+    "ur": "آپ کو ابھی نوکری کا آفر لیٹر ملا ہے۔ ایچ آر نمائندہ (AI) فون کر کے پوچھ رہا ہے کہ کیا آپ کے کوئی سوالات ہیں۔",
+    "zh-CN": "你刚收到一封录用通知书。人力资源代表（AI）打来电话，问你是否有疑问。",
+    "ja": "あなたは内定通知書を受け取ったところです。人事担当者（AI）が質問がないか確認の電話をかけてきました。"
   },
   "mission": {
     "native": "Ask the HR representative the basic questions you have about the offer.",
@@ -60,7 +70,12 @@
       "vi": "Hỏi đại diện phòng nhân sự những câu hỏi cơ bản về lời mời làm việc.",
       "id": "Ajukan pertanyaan dasar tentang tawaran itu kepada perwakilan HR.",
       "ms": "Tanya wakil HR soalan asas yang anda ada tentang tawaran itu.",
-      "ko": "인사 담당자에게 제안에 대한 기본적인 질문을 하세요."
+      "ko": "인사 담당자에게 제안에 대한 기본적인 질문을 하세요.",
+      "ru": "Задайте представителю отдела кадров основные вопросы о предложении.",
+      "bn": "অফার সম্পর্কে আপনার মৌলিক প্রশ্নগুলো এইচআর প্রতিনিধিকে জিজ্ঞাসা করুন।",
+      "ur": "ایچ آر نمائندے سے آفر کے بارے میں اپنے بنیادی سوالات پوچھیں۔",
+      "zh-CN": "向人力资源代表询问你对这份录用的基本问题。",
+      "ja": "内定について基本的な質問を人事担当者にしましょう。"
     },
     "practice": "Haga al representante de Recursos Humanos las preguntas básicas que tiene sobre la oferta.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Cảm ơn họ vì lời mời làm việc",
           "id": "Ucapkan terima kasih atas tawarannya",
           "ms": "Ucapkan terima kasih atas tawaran itu",
-          "ko": "제안해 주셔서 감사하다고 말하세요"
+          "ko": "제안해 주셔서 감사하다고 말하세요",
+          "ru": "Поблагодарите за предложение",
+          "bn": "প্রস্তাবের জন্য ধন্যবাদ দিন",
+          "ur": "آفر کے لیے شکریہ ادا کریں",
+          "zh-CN": "感谢对方的录用",
+          "ja": "オファーへのお礼を伝えましょう"
         },
         "practice": "Agradezca la oferta",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi về ngày bắt đầu đi làm",
           "id": "Tanyakan tanggal mulai kerja",
           "ms": "Tanya tentang tarikh mula bekerja",
-          "ko": "입사 날짜를 물어보세요"
+          "ko": "입사 날짜를 물어보세요",
+          "ru": "Спросите о дате начала работы",
+          "bn": "কাজ শুরুর তারিখ জিজ্ঞাসা করুন",
+          "ur": "کام شروع کرنے کی تاریخ پوچھیں",
+          "zh-CN": "询问入职日期",
+          "ja": "勤務開始日を尋ねましょう"
         },
         "practice": "Pregunte por la fecha de inicio",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi bao lâu bạn được trả lương một lần",
           "id": "Tanyakan seberapa sering gaji dibayarkan",
           "ms": "Tanya berapa kerap anda akan dibayar gaji",
-          "ko": "급여를 얼마나 자주 받는지 물어보세요"
+          "ko": "급여를 얼마나 자주 받는지 물어보세요",
+          "ru": "Спросите, как часто будет выплачиваться зарплата",
+          "bn": "কত দিন পরপর বেতন পাবেন জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ تنخواہ کتنے عرصے بعد ملے گی",
+          "zh-CN": "询问多久发一次工资",
+          "ja": "給与の支払い頻度を尋ねましょう"
         },
         "practice": "Pregunte cada cuánto le van a pagar",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều vì lời mời. Tôi rất vui.",
         "id": "Terima kasih banyak atas tawarannya. Saya sangat senang.",
         "ms": "Terima kasih banyak atas tawaran ini. Saya sangat gembira.",
-        "ko": "제안해 주셔서 정말 감사해요. 너무 기뻐요."
+        "ko": "제안해 주셔서 정말 감사해요. 너무 기뻐요.",
+        "ru": "Большое спасибо за предложение. Я очень рад.",
+        "bn": "অফারের জন্য অনেক ধন্যবাদ। আমি খুব খুশি।",
+        "ur": "آفر کا بہت شکریہ۔ میں بہت خوش ہوں۔",
+        "zh-CN": "非常感谢您的录用，我很高兴。",
+        "ja": "内定をいただき本当にありがとうございます。とても嬉しいです。"
       },
       "practice": "Muchas gracias por la oferta. Estoy muy contento.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Ngày đầu tiên đi làm của tôi là khi nào ạ?",
         "id": "Kapan hari pertama saya?",
         "ms": "Bilakah hari pertama saya?",
-        "ko": "첫 출근일은 언제인가요?"
+        "ko": "첫 출근일은 언제인가요?",
+        "ru": "Когда будет мой первый рабочий день?",
+        "bn": "আমার প্রথম কর্মদিবস কবে হবে?",
+        "ur": "میرا پہلا دن کب ہوگا؟",
+        "zh-CN": "我第一天上班是什么时候？",
+        "ja": "初出勤日はいつになりますか？"
       },
       "practice": "¿Cuándo sería mi primer día?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tôi sẽ được trả lương hai tuần một lần hay mỗi tháng một lần ạ?",
         "id": "Apakah gaji dibayar setiap dua minggu atau sebulan sekali?",
         "ms": "Adakah saya dibayar setiap dua minggu atau sebulan sekali?",
-        "ko": "급여는 2주마다 받나요, 아니면 한 달에 한 번 받나요?"
+        "ko": "급여는 2주마다 받나요, 아니면 한 달에 한 번 받나요?",
+        "ru": "Зарплату будут платить раз в две недели или раз в месяц?",
+        "bn": "আমি কি দুই সপ্তাহ পরপর বেতন পাব, নাকি মাসে একবার?",
+        "ur": "کیا مجھے ہر دو ہفتے بعد تنخواہ ملے گی یا مہینے میں ایک بار؟",
+        "zh-CN": "工资是每两周发一次还是每月发一次？",
+        "ja": "給与は2週間ごとですか、それとも月1回ですか？"
       },
       "practice": "¿Me pagarán cada dos semanas o una vez al mes?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị gửi thông tin đó cho tôi qua email được không?",
         "id": "Bisa kirimkan informasi itu lewat email?",
         "ms": "Boleh hantar maklumat itu kepada saya melalui e-mel?",
-        "ko": "그 내용을 이메일로 보내 주실 수 있나요?"
+        "ko": "그 내용을 이메일로 보내 주실 수 있나요?",
+        "ru": "Не могли бы вы прислать мне эту информацию по электронной почте?",
+        "bn": "তথ্যগুলো কি আমাকে ইমেইলে পাঠাতে পারবেন?",
+        "ur": "کیا آپ یہ معلومات مجھے ای میل کر سکتے ہیں؟",
+        "zh-CN": "您能把这些信息通过邮件发给我吗？",
+        "ja": "その情報をメールで送っていただけますか？"
       },
       "practice": "¿Me podría enviar esa información por correo electrónico?",
       "practice_translations": {

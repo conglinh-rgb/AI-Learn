@@ -18,7 +18,12 @@
     "vi": "Hỏi về vị trí công việc",
     "id": "Bertanya tentang Posisinya",
     "ms": "Bertanya Tentang Jawatan",
-    "ko": "직무에 대해 질문하기"
+    "ko": "직무에 대해 질문하기",
+    "ru": "Вопросы о должности",
+    "bn": "পদ সম্পর্কে প্রশ্ন করা",
+    "ur": "عہدے کے بارے میں پوچھنا",
+    "zh-CN": "询问职位情况",
+    "ja": "職務について質問する"
   },
   "character": "fox",
   "scenario": "At the end of the interview, the manager (AI) asks if you have any questions.",
@@ -39,7 +44,12 @@
     "vi": "Cuối buổi phỏng vấn, quản lý (AI) hỏi bạn có câu hỏi nào không.",
     "id": "Di akhir wawancara, manajer (AI) bertanya apakah kamu punya pertanyaan.",
     "ms": "Di akhir temu duga, pengurus (AI) bertanya sama ada anda mempunyai sebarang soalan.",
-    "ko": "면접이 끝날 무렵, 매니저(AI)가 질문이 있는지 물어봅니다."
+    "ko": "면접이 끝날 무렵, 매니저(AI)가 질문이 있는지 물어봅니다.",
+    "ru": "В конце собеседования менеджер (AI) спрашивает, есть ли у вас вопросы.",
+    "bn": "সাক্ষাৎকারের শেষে ম্যানেজার (AI) জিজ্ঞেস করেন আপনার কোনো প্রশ্ন আছে কিনা।",
+    "ur": "انٹرویو کے آخر میں مینیجر (AI) پوچھتا ہے کہ کیا آپ کا کوئی سوال ہے۔",
+    "zh-CN": "面试结束时，经理（AI）问你有没有什么问题。",
+    "ja": "面接の最後に、マネージャー（AI）が何か質問はあるかと尋ねます。"
   },
   "mission": {
     "native": "Ask smart questions about the team, the tasks and the next steps.",
@@ -60,7 +70,12 @@
       "vi": "Đặt những câu hỏi thông minh về nhóm, công việc và các bước tiếp theo.",
       "id": "Ajukan pertanyaan cerdas tentang tim, tugas, dan langkah selanjutnya.",
       "ms": "Tanya soalan yang bijak tentang pasukan, tugas dan langkah seterusnya.",
-      "ko": "팀, 업무, 다음 단계에 대해 좋은 질문을 하세요."
+      "ko": "팀, 업무, 다음 단계에 대해 좋은 질문을 하세요.",
+      "ru": "Задайте толковые вопросы о команде, задачах и следующих шагах.",
+      "bn": "দল, কাজ এবং পরবর্তী ধাপ নিয়ে বুদ্ধিদীপ্ত প্রশ্ন করুন।",
+      "ur": "ٹیم، کاموں اور اگلے مراحل کے بارے میں سمجھداری سے سوال کریں۔",
+      "zh-CN": "就团队、工作内容和后续步骤提出有见地的问题。",
+      "ja": "チーム、業務内容、今後の流れについて的確な質問をしましょう。"
     },
     "practice": "Haga preguntas inteligentes sobre el equipo, las tareas y los próximos pasos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi về nhóm làm việc",
           "id": "Tanyakan tentang timnya",
           "ms": "Tanya tentang pasukan",
-          "ko": "팀에 대해 물어보세요"
+          "ko": "팀에 대해 물어보세요",
+          "ru": "Спросите о команде",
+          "bn": "দল সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "ٹیم کے بارے میں پوچھیں",
+          "zh-CN": "询问团队情况",
+          "ja": "チームについて質問しましょう"
         },
         "practice": "Pregunte por el equipo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi về một ngày làm việc điển hình",
           "id": "Tanyakan seperti apa hari kerja biasa",
           "ms": "Tanya tentang hari kerja yang biasa",
-          "ko": "평소 하루 일과에 대해 물어보세요"
+          "ko": "평소 하루 일과에 대해 물어보세요",
+          "ru": "Спросите, как проходит обычный рабочий день",
+          "bn": "একটি সাধারণ কর্মদিবস কেমন তা জিজ্ঞেস করুন",
+          "ur": "ایک عام دن کے بارے میں پوچھیں",
+          "zh-CN": "询问典型的一天是怎样的",
+          "ja": "典型的な1日について質問しましょう"
         },
         "practice": "Pregunte cómo es un día normal",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về các bước tiếp theo",
           "id": "Tanyakan langkah selanjutnya",
           "ms": "Tanya tentang langkah seterusnya",
-          "ko": "다음 단계에 대해 물어보세요"
+          "ko": "다음 단계에 대해 물어보세요",
+          "ru": "Спросите о следующих шагах",
+          "bn": "পরবর্তী ধাপ সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "اگلے مراحل کے بارے میں پوچھیں",
+          "zh-CN": "询问后续步骤",
+          "ja": "今後の流れについて質問しましょう"
         },
         "practice": "Pregunte por los próximos pasos",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
         "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
         "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
-        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요.",
+        "ru": "Спасибо, что приняли меня. Я очень рада быть здесь.",
+        "bn": "আমাকে স্বাগত জানানোর জন্য ধন্যবাদ। এখানে আসতে পেরে আমি সত্যিই উচ্ছ্বসিত।",
+        "ur": "مجھے خوش آمدید کہنے کا شکریہ۔ میں یہاں آ کر واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "谢谢您的欢迎。能来这里我真的很兴奋。",
+        "ja": "迎えていただきありがとうございます。ここに来られて本当にわくわくしています。"
       },
       "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
         "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
         "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
-        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요.",
+        "ru": "У меня три года опыта в обслуживании клиентов.",
+        "bn": "গ্রাহকসেবায় আমার তিন বছরের অভিজ্ঞতা আছে।",
+        "ur": "مجھے کسٹمر سروس میں تین سال کا تجربہ ہے۔",
+        "zh-CN": "我有三年的客户服务经验。",
+        "ja": "カスタマーサービスで3年の経験があります。"
       },
       "practice": "Tengo tres años de experiencia en atención al cliente.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
         "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
         "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
-        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요.",
+        "ru": "Одна из моих сильных сторон — умение хорошо работать в команде.",
+        "bn": "আমার একটি শক্তির দিক হলো দলের সাথে ভালোভাবে কাজ করা।",
+        "ur": "میری ایک خوبی یہ ہے کہ میں ٹیم میں اچھا کام کرتا ہوں۔",
+        "zh-CN": "我的优势之一是善于团队合作。",
+        "ja": "私の強みの一つは、チームでうまく働けることです。"
       },
       "practice": "Una de mis fortalezas es trabajar bien en equipo.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
         "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
         "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
-        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?",
+        "ru": "Не могли бы вы рассказать подробнее об этой должности?",
+        "bn": "এই পদটি সম্পর্কে আরও কিছু বলবেন কি?",
+        "ur": "کیا آپ مجھے اس عہدے کے بارے میں مزید بتا سکتے ہیں؟",
+        "zh-CN": "您能再多介绍一下这个职位吗？",
+        "ja": "この職務についてもう少し詳しく教えていただけますか？"
       },
       "practice": "¿Podría contarme más sobre el puesto?",
       "practice_translations": {

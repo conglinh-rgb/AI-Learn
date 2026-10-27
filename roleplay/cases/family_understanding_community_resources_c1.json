@@ -18,7 +18,12 @@
     "vi": "Chương trình gia đình tại thư viện",
     "id": "Program Keluarga di Perpustakaan",
     "ms": "Program Keluarga di Perpustakaan",
-    "ko": "도서관의 가족 프로그램"
+    "ko": "도서관의 가족 프로그램",
+    "ru": "Семейные программы в библиотеке",
+    "bn": "লাইব্রেরিতে পারিবারিক প্রোগ্রাম",
+    "ur": "لائبریری میں فیملی پروگرام",
+    "zh-CN": "图书馆的家庭活动",
+    "ja": "図書館のファミリー向けプログラム"
   },
   "character": "fox",
   "scenario": "You just moved to a new town and visit the public library for the first time. The librarian (AI) helps you sign up.",
@@ -39,7 +44,12 @@
     "vi": "Bạn vừa chuyển đến một thị trấn mới và lần đầu đến thư viện công cộng. Thủ thư (AI) giúp bạn đăng ký.",
     "id": "Kamu baru pindah ke kota baru dan pertama kali mengunjungi perpustakaan umum. Pustakawan (AI) membantumu mendaftar.",
     "ms": "Anda baru berpindah ke bandar baharu dan melawat perpustakaan awam buat kali pertama. Pustakawan (AI) membantu anda mendaftar.",
-    "ko": "새 동네로 막 이사 와서 처음으로 공공 도서관에 갔어요. 사서(AI)가 회원 가입을 도와줘요."
+    "ko": "새 동네로 막 이사 와서 처음으로 공공 도서관에 갔어요. 사서(AI)가 회원 가입을 도와줘요.",
+    "ru": "Вы только что переехали в новый город и впервые пришли в публичную библиотеку. Библиотекарь (AI) помогает вам записаться.",
+    "bn": "আপনি সবে নতুন শহরে এসেছেন এবং প্রথমবার পাবলিক লাইব্রেরিতে গেছেন। লাইব্রেরিয়ান (AI) আপনাকে নিবন্ধন করতে সাহায্য করবেন।",
+    "ur": "آپ ابھی نئے شہر میں آئے ہیں اور پہلی بار پبلک لائبریری گئے ہیں۔ لائبریرین (AI) رجسٹریشن میں آپ کی مدد کرتا ہے۔",
+    "zh-CN": "你刚搬到一个新城镇，第一次去公共图书馆。图书管理员（AI）帮你办理登记。",
+    "ja": "新しい町に引っ越したばかりで、初めて公立図書館を訪れました。司書（AI）が登録を手伝ってくれます。"
   },
   "mission": {
     "native": "Get a library card and find out what the library offers for families.",
@@ -60,7 +70,12 @@
       "vi": "Làm thẻ thư viện và tìm hiểu thư viện có những gì dành cho gia đình.",
       "id": "Buat kartu perpustakaan dan cari tahu apa saja yang ditawarkan perpustakaan untuk keluarga.",
       "ms": "Dapatkan kad perpustakaan dan ketahui apa yang ditawarkan perpustakaan untuk keluarga.",
-      "ko": "도서관 카드를 만들고 도서관에 어떤 가족 프로그램이 있는지 알아보세요."
+      "ko": "도서관 카드를 만들고 도서관에 어떤 가족 프로그램이 있는지 알아보세요.",
+      "ru": "Получите читательский билет и узнайте, что библиотека предлагает семьям.",
+      "bn": "একটি লাইব্রেরি কার্ড নিন এবং জেনে নিন লাইব্রেরি পরিবারের জন্য কী কী সুবিধা দেয়।",
+      "ur": "لائبریری کارڈ بنوائیں اور معلوم کریں کہ لائبریری خاندانوں کے لیے کیا پیش کرتی ہے۔",
+      "zh-CN": "办一张借书证，并了解图书馆为家庭提供哪些服务。",
+      "ja": "図書館カードを作り、家族向けにどんなサービスがあるか確認しましょう。"
     },
     "practice": "Obtenga una credencial de la biblioteca y averigüe qué ofrece para las familias.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn muốn làm thẻ thư viện",
           "id": "Katakan bahwa kamu ingin membuat kartu perpustakaan",
           "ms": "Katakan bahawa anda mahu kad perpustakaan",
-          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+          "ko": "도서관 카드를 만들고 싶다고 말하세요",
+          "ru": "Скажите, что хотите получить читательский билет",
+          "bn": "বলুন যে আপনি লাইব্রেরি কার্ড চান",
+          "ur": "بتائیں کہ آپ لائبریری کارڈ چاہتے ہیں",
+          "zh-CN": "说明你想办借书证",
+          "ja": "図書館カードを作りたいと伝える"
         },
         "practice": "Diga que quiere una credencial de la biblioteca",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi cần những giấy tờ gì",
           "id": "Tanyakan dokumen apa yang dibutuhkan",
           "ms": "Tanya dokumen apa yang anda perlukan",
-          "ko": "어떤 서류가 필요한지 물어보세요"
+          "ko": "어떤 서류가 필요한지 물어보세요",
+          "ru": "Спросите, какие нужны документы",
+          "bn": "জিজ্ঞেস করুন কী কী কাগজপত্র লাগবে",
+          "ur": "پوچھیں کہ کون سے کاغذات درکار ہیں",
+          "zh-CN": "询问需要哪些证件",
+          "ja": "必要な書類を尋ねる"
         },
         "practice": "Pregunte qué documentos necesita",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về các chương trình miễn phí cho trẻ em",
           "id": "Tanyakan tentang program gratis untuk anak-anak",
           "ms": "Tanya tentang program percuma untuk kanak-kanak",
-          "ko": "아이들을 위한 무료 프로그램에 대해 물어보세요"
+          "ko": "아이들을 위한 무료 프로그램에 대해 물어보세요",
+          "ru": "Спросите о бесплатных программах для детей",
+          "bn": "শিশুদের জন্য বিনামূল্যের প্রোগ্রাম সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "بچوں کے مفت پروگراموں کے بارے میں پوچھیں",
+          "zh-CN": "询问儿童免费活动",
+          "ja": "子ども向けの無料プログラムについて尋ねる"
         },
         "practice": "Pregunte por programas gratuitos para niños",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi mới chuyển đến đây và muốn làm thẻ thư viện.",
         "id": "Halo, saya baru pindah ke sini dan ingin membuat kartu perpustakaan.",
         "ms": "Hai, saya baru berpindah ke sini dan saya ingin membuat kad perpustakaan.",
-        "ko": "안녕하세요, 여기로 막 이사 왔는데 도서관 카드를 만들고 싶어요."
+        "ko": "안녕하세요, 여기로 막 이사 왔는데 도서관 카드를 만들고 싶어요.",
+        "ru": "Здравствуйте, я недавно сюда переехал(а) и хотел(а) бы получить читательский билет.",
+        "bn": "হ্যালো, আমি সবে এখানে এসেছি, একটা লাইব্রেরি কার্ড চাই।",
+        "ur": "السلام علیکم، میں ابھی یہاں آیا ہوں اور لائبریری کارڈ بنوانا چاہتا ہوں۔",
+        "zh-CN": "你好，我刚搬来这里，想办一张借书证。",
+        "ja": "こんにちは、最近引っ越してきたので、図書館カードを作りたいです。"
       },
       "practice": "Hola, acabo de mudarme aquí y quisiera una credencial de la biblioteca.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi cần mang theo những gì?",
         "id": "Apa saja yang perlu saya bawa?",
         "ms": "Apa yang perlu saya bawa?",
-        "ko": "뭘 가져와야 하나요?"
+        "ko": "뭘 가져와야 하나요?",
+        "ru": "Что мне нужно принести?",
+        "bn": "আমাকে কী আনতে হবে?",
+        "ur": "مجھے کیا لانا ہوگا؟",
+        "zh-CN": "我需要带什么？",
+        "ja": "何を持ってくればいいですか？"
       },
       "practice": "¿Qué necesito traer?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Hóa đơn điện nước có dùng làm giấy xác nhận địa chỉ được không?",
         "id": "Apakah tagihan listrik bisa dipakai sebagai bukti alamat?",
         "ms": "Bolehkah bil utiliti digunakan sebagai bukti alamat?",
-        "ko": "공과금 고지서도 주소 증명으로 괜찮나요?"
+        "ko": "공과금 고지서도 주소 증명으로 괜찮나요?",
+        "ru": "Подойдёт квитанция за коммунальные услуги как подтверждение адреса?",
+        "bn": "ঠিকানার প্রমাণ হিসেবে ইউটিলিটি বিল চলবে?",
+        "ur": "کیا پتے کے ثبوت کے طور پر یوٹیلیٹی بل چلے گا؟",
+        "zh-CN": "水电费账单可以作为地址证明吗？",
+        "ja": "住所の証明に公共料金の請求書は使えますか？"
       },
       "practice": "¿Sirve un recibo de luz como comprobante de domicilio?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Ở đây có hoạt động miễn phí nào cho trẻ em không?",
         "id": "Apakah ada kegiatan gratis untuk anak-anak?",
         "ms": "Adakah anda ada aktiviti percuma untuk kanak-kanak?",
-        "ko": "아이들을 위한 무료 활동이 있나요?"
+        "ko": "아이들을 위한 무료 활동이 있나요?",
+        "ru": "У вас есть бесплатные занятия для детей?",
+        "bn": "বাচ্চাদের জন্য কি কোনো বিনামূল্যের কার্যক্রম আছে?",
+        "ur": "کیا بچوں کے لیے کوئی مفت سرگرمیاں ہیں؟",
+        "zh-CN": "你们有给孩子的免费活动吗？",
+        "ja": "子ども向けの無料のアクティビティはありますか？"
       },
       "practice": "¿Tienen actividades gratuitas para niños?",
       "practice_translations": {

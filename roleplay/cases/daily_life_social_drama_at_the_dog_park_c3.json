@@ -18,7 +18,12 @@
     "vi": "Người \"gác luật\" ở công viên chó",
     "id": "Si Penegak Aturan Taman Anjing",
     "ms": "Penguat Kuasa Peraturan Taman Anjing",
-    "ko": "반려견 공원의 규칙 단속반"
+    "ko": "반려견 공원의 규칙 단속반",
+    "ru": "Блюститель правил собачьей площадки",
+    "bn": "ডগ পার্কের নিয়মরক্ষক",
+    "ur": "ڈاگ پارک کا قانون نافذ کرنے والا",
+    "zh-CN": "狗狗公园的规矩执法者",
+    "ja": "ドッグパークのルール番人"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Một người tự xưng là \"quản lý công viên\" (AI) buộc tội chó nhà bạn đào lỗ khắp công viên và đòi bạn rời đi, trong khi chó của bạn ngủ dưới gầm ghế suốt từ nãy.",
     "id": "Seorang \"pengelola taman\" gadungan (AI) menuduh anjingmu menggali lubang di seluruh taman dan menyuruhmu pergi, padahal anjingmu tidur di bawah bangku sepanjang waktu.",
     "ms": "Seorang \"pengurus taman\" (AI) yang melantik dirinya sendiri menuduh anjing anda menggali lubang di seluruh taman dan menyuruh anda pergi, sedangkan anjing anda tidur di bawah bangku sepanjang masa.",
-    "ko": "스스로 \"공원 관리자\"라고 자처하는 사람(AI)이 당신 개가 공원 곳곳에 구멍을 팠다며 나가라고 요구해요. 하지만 당신 개는 내내 벤치 밑에서 자고 있었어요."
+    "ko": "스스로 \"공원 관리자\"라고 자처하는 사람(AI)이 당신 개가 공원 곳곳에 구멍을 팠다며 나가라고 요구해요. 하지만 당신 개는 내내 벤치 밑에서 자고 있었어요.",
+    "ru": "Самопровозглашённый «управляющий парком» (AI) обвиняет вашу собаку в том, что она нарыла ям по всему парку, и требует, чтобы вы ушли, хотя ваша собака всё это время спала под скамейкой.",
+    "bn": "নিজেকে \"পার্ক ম্যানেজার\" দাবি করা একজন (AI) অভিযোগ করছেন যে আপনার কুকুর পুরো পার্কে গর্ত খুঁড়েছে এবং আপনাকে চলে যেতে বলছেন, অথচ আপনার কুকুর পুরো সময় একটা বেঞ্চের নিচে ঘুমাচ্ছিল।",
+    "ur": "ایک خود ساختہ \"پارک منیجر\" (AI) آپ کے کتے پر پورے پارک میں گڑھے کھودنے کا الزام لگاتا ہے اور آپ سے جانے کا مطالبہ کرتا ہے، حالانکہ آپ کا کتا سارا وقت ایک بینچ کے نیچے سو رہا تھا۔",
+    "zh-CN": "一位自封的“公园管理员”（AI）指责你的狗在公园里到处挖洞，要求你离开，可你的狗一直在长椅下睡觉。",
+    "ja": "自称「公園の管理人」（AI）が、あなたの犬が公園中に穴を掘ったと責め、出て行くよう要求します。でもあなたの犬はずっとベンチの下で寝ていました。"
   },
   "mission": {
     "native": "Calmly defend your dog and settle the dispute without having to leave the park.",
@@ -61,7 +71,12 @@
       "vi": "Bình tĩnh bảo vệ chó của bạn và giải quyết tranh cãi mà không phải rời công viên.",
       "id": "Bela anjingmu dengan tenang dan selesaikan perselisihan tanpa harus meninggalkan taman.",
       "ms": "Pertahankan anjing anda dengan tenang dan selesaikan pertikaian tanpa perlu meninggalkan taman.",
-      "ko": "침착하게 개를 변호하고, 공원을 떠나지 않고 다툼을 해결하세요."
+      "ko": "침착하게 개를 변호하고, 공원을 떠나지 않고 다툼을 해결하세요.",
+      "ru": "Спокойно защитите свою собаку и уладьте спор, не покидая парк.",
+      "bn": "শান্তভাবে আপনার কুকুরের পক্ষ নিন এবং পার্ক না ছেড়েই বিরোধ মিটিয়ে ফেলুন।",
+      "ur": "سکون سے اپنے کتے کا دفاع کریں اور پارک چھوڑے بغیر جھگڑا ختم کریں۔",
+      "zh-CN": "冷静地为你的狗辩护，在不离开公园的情况下平息争执。",
+      "ja": "落ち着いて犬をかばい、公園を去らずに揉め事を解決しましょう。"
     },
     "practice": "Defienda con calma a su perro y resuelva la discusión sin tener que irse del parque.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Bình tĩnh và lịch sự phủ nhận lời buộc tội",
           "id": "Bantah tuduhan itu dengan tenang dan sopan",
           "ms": "Nafikan tuduhan itu dengan tenang dan sopan",
-          "ko": "침착하고 정중하게 혐의를 부인하세요"
+          "ko": "침착하고 정중하게 혐의를 부인하세요",
+          "ru": "Спокойно и вежливо опровергните обвинение",
+          "bn": "শান্ত ও ভদ্রভাবে অভিযোগ অস্বীকার করুন",
+          "ur": "سکون اور شائستگی سے الزام کی تردید کریں",
+          "zh-CN": "冷静礼貌地否认指控",
+          "ja": "落ち着いて丁寧に否定しましょう"
         },
         "practice": "Niegue la acusación con calma y cortesía",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Đưa ra bằng chứng chó của bạn đang ngủ",
           "id": "Berikan bukti bahwa anjingmu sedang tidur",
           "ms": "Beri bukti bahawa anjing anda sedang tidur",
-          "ko": "개가 자고 있었다는 증거를 대세요"
+          "ko": "개가 자고 있었다는 증거를 대세요",
+          "ru": "Докажите, что ваша собака спала",
+          "bn": "প্রমাণ দিন যে আপনার কুকুর ঘুমাচ্ছিল",
+          "ur": "ثبوت دیں کہ آپ کا کتا سو رہا تھا",
+          "zh-CN": "拿出证据证明你的狗在睡觉",
+          "ja": "犬が寝ていた証拠を示しましょう"
         },
         "practice": "Dé pruebas de que su perro estaba dormido",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Gợi ý ai khác có thể đã đào những cái lỗ",
           "id": "Sebutkan siapa lagi yang mungkin menggali lubang itu",
           "ms": "Cadangkan siapa lagi yang mungkin menggali lubang itu",
-          "ko": "구멍을 판 게 누구일지 다른 가능성을 말하세요"
+          "ko": "구멍을 판 게 누구일지 다른 가능성을 말하세요",
+          "ru": "Предположите, кто ещё мог вырыть ямы",
+          "bn": "আর কে গর্তগুলো খুঁড়ে থাকতে পারে তা বলুন",
+          "ur": "بتائیں کہ گڑھے اور کس نے کھودے ہوں گے",
+          "zh-CN": "指出可能是谁挖的洞",
+          "ja": "ほかに誰が穴を掘ったかもしれないか伝えましょう"
         },
         "practice": "Sugiera quién más pudo haber cavado los hoyos",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đề xuất một giải pháp thân thiện để chấm dứt tranh cãi",
           "id": "Tawarkan solusi yang ramah untuk mengakhiri perdebatan",
           "ms": "Tawarkan penyelesaian mesra untuk menamatkan pertengkaran",
-          "ko": "말다툼을 끝낼 수 있는 좋은 해결책을 제안하세요"
+          "ko": "말다툼을 끝낼 수 있는 좋은 해결책을 제안하세요",
+          "ru": "Предложите мирное решение, чтобы закончить спор",
+          "bn": "তর্ক থামাতে একটি বন্ধুত্বপূর্ণ সমাধান দিন",
+          "ur": "بحث ختم کرنے کے لیے دوستانہ حل پیش کریں",
+          "zh-CN": "提出友好的解决办法来结束争执",
+          "ja": "言い争いを終わらせる友好的な解決策を提案しましょう"
         },
         "practice": "Ofrezca una solución amistosa para terminar la discusión",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi hiểu anh/chị đang bực, nhưng đó không phải chó của tôi.",
         "id": "Saya mengerti Anda kesal, tapi itu bukan anjing saya.",
         "ms": "Saya faham awak marah, tetapi itu bukan anjing saya.",
-        "ko": "화나신 건 이해하지만, 우리 개가 한 게 아니에요."
+        "ko": "화나신 건 이해하지만, 우리 개가 한 게 아니에요.",
+        "ru": "Я понимаю, что вы расстроены, но это была не моя собака.",
+        "bn": "বুঝতে পারছি আপনি বিরক্ত, কিন্তু এটা আমার কুকুর করেনি।",
+        "ur": "میں سمجھتا ہوں آپ پریشان ہیں، لیکن یہ میرا کتا نہیں تھا۔",
+        "zh-CN": "我理解你很生气，但那不是我的狗。",
+        "ja": "お怒りなのはわかりますが、うちの犬ではありません。"
       },
       "practice": "Entiendo que esté molesto, pero no fue mi perro.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Nó đã ngủ dưới cái ghế đó cả tiếng đồng hồ rồi.",
         "id": "Dia sudah tidur di bawah bangku itu selama satu jam.",
         "ms": "Dia sudah tidur di bawah bangku itu selama sejam.",
-        "ko": "우리 개는 한 시간 동안 저 벤치 밑에서 자고 있었어요."
+        "ko": "우리 개는 한 시간 동안 저 벤치 밑에서 자고 있었어요.",
+        "ru": "Он уже час спит под той скамейкой.",
+        "bn": "ও এক ঘণ্টা ধরে ওই বেঞ্চের নিচে ঘুমাচ্ছে।",
+        "ur": "وہ ایک گھنٹے سے اُس بینچ کے نیچے سو رہا ہے۔",
+        "zh-CN": "它已经在那张长椅下睡了一个小时了。",
+        "ja": "この子は1時間ずっとあのベンチの下で寝ていました。"
       },
       "practice": "Lleva una hora durmiendo debajo de esa banca.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Anh/chị xem này, chân nó sạch trơn.",
         "id": "Lihat, kakinya bersih sekali.",
         "ms": "Tengok, kakinya bersih sepenuhnya.",
-        "ko": "보세요, 발이 완전히 깨끗하잖아요."
+        "ko": "보세요, 발이 완전히 깨끗하잖아요.",
+        "ru": "Посмотрите, у него совершенно чистые лапы.",
+        "bn": "দেখুন, ওর পাগুলো একদম পরিষ্কার।",
+        "ur": "دیکھیں، اس کے پنجے بالکل صاف ہیں۔",
+        "zh-CN": "你看，它的爪子干干净净的。",
+        "ja": "見てください、足がまったく汚れていません。"
       },
       "practice": "Mire, tiene las patas completamente limpias.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Lúc nãy tôi thấy một con chó màu nâu đào đất gần hàng rào.",
         "id": "Tadi saya lihat anjing cokelat menggali di dekat pagar.",
         "ms": "Tadi saya nampak seekor anjing coklat menggali dekat pagar.",
-        "ko": "아까 갈색 개가 울타리 근처에서 땅 파는 걸 봤어요."
+        "ko": "아까 갈색 개가 울타리 근처에서 땅 파는 걸 봤어요.",
+        "ru": "Я недавно видел, как коричневая собака копала у забора.",
+        "bn": "একটু আগে আমি একটা বাদামি কুকুরকে বেড়ার কাছে খুঁড়তে দেখেছি।",
+        "ur": "میں نے کچھ دیر پہلے ایک بھورے کتے کو باڑ کے پاس کھودتے دیکھا تھا۔",
+        "zh-CN": "我刚才看到一只棕色的狗在围栏边挖土。",
+        "ja": "さっき茶色い犬がフェンスの近くで掘っているのを見ましたよ。"
       },
       "practice": "Hace un rato vi a un perro café cavando junto a la cerca.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Hay là mình cùng lấp mấy cái lỗ lại nhé?",
         "id": "Bagaimana kalau kita tutup lubangnya bersama-sama?",
         "ms": "Bagaimana kalau kita tutup lubang-lubang itu bersama?",
-        "ko": "우리 같이 구멍을 메우는 건 어때요?"
+        "ko": "우리 같이 구멍을 메우는 건 어때요?",
+        "ru": "Может, засыплем ямы вместе?",
+        "bn": "চলুন না, আমরা একসাথে গর্তগুলো ভরাট করি?",
+        "ur": "کیوں نہ ہم مل کر گڑھے بھر دیں؟",
+        "zh-CN": "要不我们一起把坑填上吧？",
+        "ja": "一緒に穴を埋めませんか？"
       },
       "practice": "¿Qué le parece si tapamos los hoyos juntos?",
       "practice_translations": {

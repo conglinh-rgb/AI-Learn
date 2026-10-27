@@ -18,7 +18,12 @@
     "vi": "Hóa đơn không khớp",
     "id": "Tagihan yang Tidak Masuk Akal",
     "ms": "Bil yang Tak Masuk Akal",
-    "ko": "계산이 안 맞는 계산서"
+    "ko": "계산이 안 맞는 계산서",
+    "ru": "Счёт не сходится",
+    "bn": "বিলের হিসাব মিলছে না",
+    "ur": "بل کا حساب نہیں مل رہا",
+    "zh-CN": "账单对不上",
+    "ja": "お会計が合わない"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Cuối bữa tối, hóa đơn có cả những món bạn chưa hề gọi và một khoản phí phục vụ chẳng ai nhắc đến. Nhân viên phục vụ (AI) khăng khăng là đúng.",
     "id": "Di akhir makan malam, tagihannya mencantumkan hidangan yang tidak pernah kamu pesan dan biaya layanan yang tidak pernah disebutkan. Pelayan (AI) bersikeras tagihannya benar.",
     "ms": "Di penghujung makan malam, bil itu termasuk hidangan yang anda tidak pernah pesan dan caj perkhidmatan yang tiada siapa sebut. Pelayan (AI) bertegas bahawa ia betul.",
-    "ko": "저녁 식사를 마쳤는데, 계산서에 주문하지 않은 요리와 아무도 말해 주지 않은 서비스 요금이 포함되어 있습니다. 종업원(AI)은 맞다고 우깁니다."
+    "ko": "저녁 식사를 마쳤는데, 계산서에 주문하지 않은 요리와 아무도 말해 주지 않은 서비스 요금이 포함되어 있습니다. 종업원(AI)은 맞다고 우깁니다.",
+    "ru": "В конце ужина в счёте оказываются блюда, которые вы не заказывали, и плата за обслуживание, о которой никто не говорил. Официант (AI) настаивает, что всё верно.",
+    "bn": "রাতের খাবারের শেষে বিলে এমন খাবার আছে যা আপনি কখনো অর্ডার করেননি, আর এমন একটি সার্ভিস চার্জ যার কথা কেউ বলেনি। ওয়েটার (AI) জোর দিয়ে বলছেন বিলটি ঠিক আছে।",
+    "ur": "رات کے کھانے کے آخر میں بل میں ایسے کھانے شامل ہیں جو آپ نے کبھی آرڈر نہیں کیے اور ایک سروس چارج جس کا کسی نے ذکر نہیں کیا۔ ویٹر (AI) اصرار کرتا ہے کہ بل درست ہے۔",
+    "zh-CN": "晚餐结束时，账单上有你根本没点的菜，还有一笔谁都没提过的服务费。服务员（AI）坚持说账单没错。",
+    "ja": "夕食の終わりに、伝票には注文していない料理と、誰も説明しなかったサービス料が含まれています。ウェイター（AI）は間違いないと言い張ります。"
   },
   "mission": {
     "native": "Go through the bill calmly, challenge the wrong items and get a corrected bill.",
@@ -61,7 +71,12 @@
       "vi": "Bình tĩnh xem lại hóa đơn, phản đối các mục sai và yêu cầu hóa đơn đã chỉnh sửa.",
       "id": "Periksa tagihannya dengan tenang, sanggah item yang salah, dan minta tagihan yang sudah diperbaiki.",
       "ms": "Semak bil dengan tenang, pertikaikan item yang salah dan dapatkan bil yang telah dibetulkan.",
-      "ko": "계산서를 차분히 확인하고, 잘못된 항목에 이의를 제기해서 수정된 계산서를 받으세요."
+      "ko": "계산서를 차분히 확인하고, 잘못된 항목에 이의를 제기해서 수정된 계산서를 받으세요.",
+      "ru": "Спокойно проверьте счёт, оспорьте неверные позиции и получите исправленный счёт.",
+      "bn": "শান্তভাবে বিলটি দেখুন, ভুল আইটেমগুলোর বিষয়ে আপত্তি জানান এবং সংশোধিত বিল নিন।",
+      "ur": "اطمینان سے بل دیکھیں، غلط اندراجات پر اعتراض کریں اور درست شدہ بل حاصل کریں۔",
+      "zh-CN": "冷静地核对账单，对错误的项目提出异议，并拿到更正后的账单。",
+      "ja": "落ち着いて伝票を確認し、間違った項目に異議を唱え、訂正された伝票をもらいましょう。"
     },
     "practice": "Revise la cuenta con calma, cuestione los cargos equivocados y consiga una cuenta corregida.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Nói rằng hóa đơn có chỗ sai",
           "id": "Katakan bahwa ada kesalahan di tagihan",
           "ms": "Katakan ada kesilapan pada bil",
-          "ko": "계산서에 실수가 있다고 말하세요"
+          "ko": "계산서에 실수가 있다고 말하세요",
+          "ru": "Скажите, что в счёте ошибка",
+          "bn": "বলুন যে বিলে একটি ভুল আছে",
+          "ur": "بتائیں کہ بل میں غلطی ہے",
+          "zh-CN": "指出账单有误",
+          "ja": "伝票に間違いがあると伝える"
         },
         "practice": "Diga que hay un error en la cuenta",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Chỉ ra những món bạn không gọi",
           "id": "Tunjukkan item yang tidak kamu pesan",
           "ms": "Tunjukkan item yang anda tidak pesan",
-          "ko": "주문하지 않은 항목을 짚어 주세요"
+          "ko": "주문하지 않은 항목을 짚어 주세요",
+          "ru": "Укажите на блюда, которые вы не заказывали",
+          "bn": "যেগুলো অর্ডার করেননি সেগুলো দেখিয়ে দিন",
+          "ur": "وہ چیزیں بتائیں جو آپ نے آرڈر نہیں کیں",
+          "zh-CN": "指出你没点的项目",
+          "ja": "注文していない品を指摘する"
         },
         "practice": "Señale lo que no pidió",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi về khoản phí phục vụ",
           "id": "Tanyakan soal biaya layanannya",
           "ms": "Tanya tentang caj perkhidmatan",
-          "ko": "서비스 요금에 대해 물어보세요"
+          "ko": "서비스 요금에 대해 물어보세요",
+          "ru": "Спросите о плате за обслуживание",
+          "bn": "সার্ভিস চার্জ সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "سروس چارج کے بارے میں پوچھیں",
+          "zh-CN": "询问服务费",
+          "ja": "サービス料について尋ねる"
         },
         "practice": "Pregunte por el cargo por servicio",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Yêu cầu hóa đơn đã chỉnh sửa",
           "id": "Minta tagihan yang sudah diperbaiki",
           "ms": "Minta bil yang telah dibetulkan",
-          "ko": "수정된 계산서를 요청하세요"
+          "ko": "수정된 계산서를 요청하세요",
+          "ru": "Попросите исправленный счёт",
+          "bn": "সংশোধিত বিল চান",
+          "ur": "درست شدہ بل مانگیں",
+          "zh-CN": "要求更正账单",
+          "ja": "訂正した伝票を頼む"
         },
         "practice": "Pida una cuenta corregida",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Xin lỗi, hình như hóa đơn có chỗ nhầm.",
         "id": "Permisi, sepertinya ada kesalahan di tagihannya.",
         "ms": "Maaf, saya rasa ada kesilapan pada bil ini.",
-        "ko": "실례합니다, 계산서에 착오가 있는 것 같아요."
+        "ko": "실례합니다, 계산서에 착오가 있는 것 같아요.",
+        "ru": "Извините, кажется, в счёте ошибка.",
+        "bn": "মাফ করবেন, মনে হচ্ছে বিলে একটা ভুল আছে।",
+        "ur": "معاف کیجیے، مجھے لگتا ہے بل میں غلطی ہے۔",
+        "zh-CN": "不好意思，我觉得账单好像有错。",
+        "ja": "すみません、伝票に間違いがあると思うのですが。"
       },
       "practice": "Disculpe, creo que hay un error en la cuenta.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Chúng tôi không gọi món tráng miệng hay rượu vang.",
         "id": "Kami tidak memesan hidangan penutup atau anggur.",
         "ms": "Kami tak pesan pencuci mulut atau wain.",
-        "ko": "저희는 디저트하고 와인은 주문 안 했어요."
+        "ko": "저희는 디저트하고 와인은 주문 안 했어요.",
+        "ru": "Мы не заказывали ни десерт, ни вино.",
+        "bn": "আমরা ডেজার্ট বা ওয়াইন কোনোটাই অর্ডার করিনি।",
+        "ur": "ہم نے نہ میٹھا آرڈر کیا تھا نہ وائن۔",
+        "zh-CN": "我们没点甜点，也没点葡萄酒。",
+        "ja": "デザートもワインも頼んでいません。"
       },
       "practice": "No pedimos el postre ni el vino.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Không ai báo với chúng tôi về phí phục vụ cả.",
         "id": "Tidak ada yang memberi tahu kami soal biaya layanan.",
         "ms": "Tiada siapa beritahu kami tentang caj perkhidmatan.",
-        "ko": "서비스 요금에 대해서는 아무도 말해 주지 않았어요."
+        "ko": "서비스 요금에 대해서는 아무도 말해 주지 않았어요.",
+        "ru": "Нам никто не говорил о плате за обслуживание.",
+        "bn": "সার্ভিস চার্জের কথা কেউ আমাদের বলেনি।",
+        "ur": "ہمیں کسی نے سروس چارج کے بارے میں نہیں بتایا۔",
+        "zh-CN": "没人跟我们说过有服务费。",
+        "ja": "サービス料のことは誰からも聞いていません。"
       },
       "practice": "Nadie nos dijo nada de un cargo por servicio.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Anh/chị kiểm tra lại với quản lý giúp được không?",
         "id": "Bisa tolong dicek dengan manajernya?",
         "ms": "Boleh tolong semak dengan pengurus?",
-        "ko": "매니저님께 확인해 주실 수 있나요?"
+        "ko": "매니저님께 확인해 주실 수 있나요?",
+        "ru": "Не могли бы вы уточнить это у менеджера?",
+        "bn": "আপনি কি ম্যানেজারের সাথে একটু দেখে নিতে পারবেন?",
+        "ur": "کیا آپ مینیجر سے اس کی تصدیق کر سکتے ہیں؟",
+        "zh-CN": "能请您跟经理核实一下吗？",
+        "ja": "マネージャーに確認していただけますか？"
       },
       "practice": "¿Podría revisarlo con el gerente?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Khi hóa đơn được sửa lại, tôi sẽ thanh toán.",
         "id": "Saya akan bayar setelah tagihannya diperbaiki.",
         "ms": "Saya akan bayar sebaik sahaja bil dibetulkan.",
-        "ko": "계산서가 수정되면 결제할게요."
+        "ko": "계산서가 수정되면 결제할게요.",
+        "ru": "Я заплачу, как только счёт исправят.",
+        "bn": "বিলটা ঠিক করা হলেই আমি টাকা দেব।",
+        "ur": "بل درست ہوتے ہی میں ادائیگی کر دوں گا۔",
+        "zh-CN": "账单改好后我就付款。",
+        "ja": "伝票を訂正していただいたらお支払いします。"
       },
       "practice": "Pagaré cuando corrijan la cuenta.",
       "practice_translations": {

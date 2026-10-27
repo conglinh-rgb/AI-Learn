@@ -18,7 +18,12 @@
     "vi": "Điểm mạnh và điểm yếu",
     "id": "Kelebihan dan Kekurangan",
     "ms": "Kekuatan dan Kelemahan",
-    "ko": "강점과 약점"
+    "ko": "강점과 약점",
+    "ru": "Сильные и слабые стороны",
+    "bn": "শক্তি ও দুর্বলতা",
+    "ur": "خوبیاں اور کمزوریاں",
+    "zh-CN": "优点与缺点",
+    "ja": "長所と短所"
   },
   "character": "fox",
   "scenario": "The interviewer (AI) wants to know what you are good at, and what you still need to improve.",
@@ -39,7 +44,12 @@
     "vi": "Người phỏng vấn (AI) muốn biết bạn giỏi điều gì và điều gì bạn vẫn cần cải thiện.",
     "id": "Pewawancara (AI) ingin tahu apa keahlianmu, dan apa yang masih perlu kamu tingkatkan.",
     "ms": "Penemu duga (AI) ingin tahu apa kelebihan anda dan apa yang masih perlu anda perbaiki.",
-    "ko": "면접관(AI)이 당신이 잘하는 것과 아직 개선해야 할 점을 알고 싶어 합니다."
+    "ko": "면접관(AI)이 당신이 잘하는 것과 아직 개선해야 할 점을 알고 싶어 합니다.",
+    "ru": "Интервьюер (AI) хочет узнать, что у вас хорошо получается и что вам ещё нужно улучшить.",
+    "bn": "সাক্ষাৎকারগ্রহণকারী (AI) জানতে চান আপনি কোন বিষয়ে দক্ষ এবং কোথায় এখনও উন্নতি করা দরকার।",
+    "ur": "انٹرویو لینے والا (AI) جاننا چاہتا ہے کہ آپ کس چیز میں اچھے ہیں اور آپ کو ابھی کس چیز میں بہتری لانی ہے۔",
+    "zh-CN": "面试官（AI）想知道你擅长什么，以及你还需要改进什么。",
+    "ja": "面接官（AI）は、あなたの得意なことと、まだ改善が必要なことを知りたがっています。"
   },
   "mission": {
     "native": "Give one strength with an example and one weakness you are working on.",
@@ -60,7 +70,12 @@
       "vi": "Nêu một điểm mạnh kèm ví dụ và một điểm yếu bạn đang khắc phục.",
       "id": "Sebutkan satu kelebihan beserta contohnya dan satu kekurangan yang sedang kamu perbaiki.",
       "ms": "Nyatakan satu kekuatan beserta contoh dan satu kelemahan yang sedang anda perbaiki.",
-      "ko": "강점 하나를 예시와 함께 말하고, 고쳐 나가고 있는 약점 하나를 말하세요."
+      "ko": "강점 하나를 예시와 함께 말하고, 고쳐 나가고 있는 약점 하나를 말하세요.",
+      "ru": "Назовите одну сильную сторону с примером и одну слабую, над которой вы работаете.",
+      "bn": "একটি উদাহরণসহ একটি শক্তি এবং একটি দুর্বলতা বলুন যা নিয়ে আপনি কাজ করছেন।",
+      "ur": "ایک مثال کے ساتھ ایک خوبی اور ایک کمزوری بتائیں جس پر آپ کام کر رہے ہیں۔",
+      "zh-CN": "举例说明一个优点，并说出一个你正在改进的缺点。",
+      "ja": "長所を例を挙げて1つ、改善中の短所を1つ伝えましょう。"
     },
     "practice": "Dé una fortaleza con un ejemplo y una debilidad que está mejorando.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nêu một điểm mạnh của bạn",
           "id": "Sebutkan salah satu kelebihanmu",
           "ms": "Nyatakan satu kekuatan anda",
-          "ko": "자신의 강점을 하나 말하세요"
+          "ko": "자신의 강점을 하나 말하세요",
+          "ru": "Назовите одну из своих сильных сторон",
+          "bn": "আপনার একটি শক্তির কথা বলুন",
+          "ur": "اپنی ایک خوبی بتائیں",
+          "zh-CN": "说出你的一个优点",
+          "ja": "長所を1つ挙げましょう"
         },
         "practice": "Nombre una de sus fortalezas",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Đưa ra ví dụ cho điểm mạnh đó",
           "id": "Berikan contoh dari kelebihan itu",
           "ms": "Beri contoh kekuatan itu",
-          "ko": "그 강점의 예를 들어 보세요"
+          "ko": "그 강점의 예를 들어 보세요",
+          "ru": "Приведите пример этой сильной стороны",
+          "bn": "সেই শক্তির একটি উদাহরণ দিন",
+          "ur": "اس خوبی کی ایک مثال دیں",
+          "zh-CN": "举例说明这个优点",
+          "ja": "その長所の例を挙げましょう"
         },
         "practice": "Dé un ejemplo de esa fortaleza",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói về một điểm yếu bạn đang cải thiện",
           "id": "Ceritakan kekurangan yang sedang kamu perbaiki",
           "ms": "Ceritakan satu kelemahan yang sedang anda perbaiki",
-          "ko": "개선하고 있는 약점에 대해 말하세요"
+          "ko": "개선하고 있는 약점에 대해 말하세요",
+          "ru": "Расскажите о слабой стороне, над которой вы работаете",
+          "bn": "যে দুর্বলতা আপনি কাটিয়ে উঠছেন তা নিয়ে বলুন",
+          "ur": "اس کمزوری کے بارے میں بات کریں جسے آپ بہتر بنا رہے ہیں",
+          "zh-CN": "谈谈你正在改进的一个缺点",
+          "ja": "改善中の短所について話しましょう"
         },
         "practice": "Hable de una debilidad que está mejorando",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
         "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
         "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
-        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요.",
+        "ru": "Спасибо, что приняли меня. Я очень рада быть здесь.",
+        "bn": "আমাকে স্বাগত জানানোর জন্য ধন্যবাদ। এখানে আসতে পেরে আমি সত্যিই উচ্ছ্বসিত।",
+        "ur": "مجھے خوش آمدید کہنے کا شکریہ۔ میں یہاں آ کر واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "谢谢您的欢迎。能来这里我真的很兴奋。",
+        "ja": "迎えていただきありがとうございます。ここに来られて本当にわくわくしています。"
       },
       "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
         "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
         "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
-        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요.",
+        "ru": "У меня три года опыта в обслуживании клиентов.",
+        "bn": "গ্রাহকসেবায় আমার তিন বছরের অভিজ্ঞতা আছে।",
+        "ur": "مجھے کسٹمر سروس میں تین سال کا تجربہ ہے۔",
+        "zh-CN": "我有三年的客户服务经验。",
+        "ja": "カスタマーサービスで3年の経験があります。"
       },
       "practice": "Tengo tres años de experiencia en atención al cliente.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
         "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
         "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
-        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요.",
+        "ru": "Одна из моих сильных сторон — умение хорошо работать в команде.",
+        "bn": "আমার একটি শক্তির দিক হলো দলের সাথে ভালোভাবে কাজ করা।",
+        "ur": "میری ایک خوبی یہ ہے کہ میں ٹیم میں اچھا کام کرتا ہوں۔",
+        "zh-CN": "我的优势之一是善于团队合作。",
+        "ja": "私の強みの一つは、チームでうまく働けることです。"
       },
       "practice": "Una de mis fortalezas es trabajar bien en equipo.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
         "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
         "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
-        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?",
+        "ru": "Не могли бы вы рассказать подробнее об этой должности?",
+        "bn": "এই পদটি সম্পর্কে আরও কিছু বলবেন কি?",
+        "ur": "کیا آپ مجھے اس عہدے کے بارے میں مزید بتا سکتے ہیں؟",
+        "zh-CN": "您能再多介绍一下这个职位吗？",
+        "ja": "この職務についてもう少し詳しく教えていただけますか？"
       },
       "practice": "¿Podría contarme más sobre el puesto?",
       "practice_translations": {

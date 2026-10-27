@@ -18,7 +18,12 @@
     "vi": "Tại quầy thuốc",
     "id": "Di Konter Apotek",
     "ms": "Di Kaunter Farmasi",
-    "ko": "약국 카운터에서"
+    "ko": "약국 카운터에서",
+    "ru": "В аптеке",
+    "bn": "ফার্মেসির কাউন্টারে",
+    "ur": "فارمیسی کاؤنٹر پر",
+    "zh-CN": "在药房柜台",
+    "ja": "薬局のカウンターで"
   },
   "character": "fox",
   "scenario": "The doctor gave your child a prescription, and now the pharmacist (AI) is explaining how to give the medicine.",
@@ -39,7 +44,12 @@
     "vi": "Bác sĩ đã kê đơn cho con bạn, và giờ dược sĩ (AI) đang hướng dẫn cách cho con uống thuốc.",
     "id": "Dokter memberi resep untuk anakmu, dan sekarang apoteker (AI) menjelaskan cara memberikan obatnya.",
     "ms": "Doktor telah memberikan preskripsi kepada anak anda, dan kini ahli farmasi (AI) sedang menerangkan cara memberikan ubat itu.",
-    "ko": "의사가 아이에게 처방전을 써 주었고, 이제 약사(AI)가 약 먹이는 방법을 설명하고 있어요."
+    "ko": "의사가 아이에게 처방전을 써 주었고, 이제 약사(AI)가 약 먹이는 방법을 설명하고 있어요.",
+    "ru": "Врач выписал вашему ребёнку рецепт, и теперь фармацевт (AI) объясняет, как давать лекарство.",
+    "bn": "ডাক্তার আপনার সন্তানের জন্য প্রেসক্রিপশন দিয়েছেন, আর এখন ফার্মাসিস্ট (AI) ওষুধ কীভাবে খাওয়াতে হবে তা বুঝিয়ে দিচ্ছেন।",
+    "ur": "ڈاکٹر نے آپ کے بچے کے لیے نسخہ لکھا ہے، اور اب فارماسسٹ (AI) بتا رہا ہے کہ دوا کیسے دینی ہے۔",
+    "zh-CN": "医生给你的孩子开了处方，现在药剂师（AI）正在讲解如何给孩子服药。",
+    "ja": "医師がお子さんに処方箋を出しました。今、薬剤師（AI）が薬の飲ませ方を説明しています。"
   },
   "mission": {
     "native": "Make sure you understand how and when to give your child the medicine.",
@@ -60,7 +70,12 @@
       "vi": "Đảm bảo bạn hiểu cách cho con uống thuốc và uống vào lúc nào.",
       "id": "Pastikan kamu paham bagaimana dan kapan memberikan obat itu kepada anakmu.",
       "ms": "Pastikan anda faham bagaimana dan bila untuk memberikan ubat kepada anak anda.",
-      "ko": "아이에게 약을 어떻게, 언제 먹여야 하는지 확실히 이해하세요."
+      "ko": "아이에게 약을 어떻게, 언제 먹여야 하는지 확실히 이해하세요.",
+      "ru": "Убедитесь, что вы поняли, как и когда давать ребёнку лекарство.",
+      "bn": "সন্তানকে কীভাবে ও কখন ওষুধ খাওয়াবেন তা ভালোভাবে বুঝে নিন।",
+      "ur": "یقینی بنائیں کہ آپ سمجھ گئے ہیں کہ بچے کو دوا کیسے اور کب دینی ہے۔",
+      "zh-CN": "确保你明白该如何、何时给孩子服药。",
+      "ja": "お子さんに薬をどのように、いつ飲ませるかをしっかり理解しましょう。"
     },
     "practice": "Asegúrese de entender cómo y cuándo darle la medicina a su hijo.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Đưa đơn thuốc và cho biết tuổi của con",
           "id": "Serahkan resep dan sebutkan umur anakmu",
           "ms": "Serahkan preskripsi dan beritahu umur anak anda",
-          "ko": "처방전을 내고 아이의 나이를 말하세요"
+          "ko": "처방전을 내고 아이의 나이를 말하세요",
+          "ru": "Отдайте рецепт и назовите возраст ребёнка",
+          "bn": "প্রেসক্রিপশন দিন এবং সন্তানের বয়স জানান",
+          "ur": "نسخہ دیں اور بچے کی عمر بتائیں",
+          "zh-CN": "递交处方并说明孩子的年龄",
+          "ja": "処方箋を渡し、お子さんの年齢を伝える"
         },
         "practice": "Entregue la receta y diga la edad de su hijo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi uống thuốc bao nhiêu lần",
           "id": "Tanyakan seberapa sering obatnya diberikan",
           "ms": "Tanya berapa kerap ubat perlu diberikan",
-          "ko": "약을 얼마나 자주 먹여야 하는지 물어보세요"
+          "ko": "약을 얼마나 자주 먹여야 하는지 물어보세요",
+          "ru": "Спросите, как часто давать лекарство",
+          "bn": "কতবার ওষুধ দিতে হবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ دوا کتنی بار دینی ہے",
+          "zh-CN": "询问多久服一次药",
+          "ja": "薬を飲ませる頻度を尋ねる"
         },
         "practice": "Pregunte cada cuánto tiempo debe darle la medicina",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi có cần uống thuốc cùng bữa ăn không",
           "id": "Tanyakan apakah obatnya diminum bersama makanan",
           "ms": "Tanya sama ada ubat perlu diambil bersama makanan",
-          "ko": "음식과 함께 먹여야 하는지 물어보세요"
+          "ko": "음식과 함께 먹여야 하는지 물어보세요",
+          "ru": "Спросите, нужно ли принимать его во время еды",
+          "bn": "খাবারের সাথে খেতে হবে কি না জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا اسے کھانے کے ساتھ لینا چاہیے",
+          "zh-CN": "询问是否需要随餐服用",
+          "ja": "食事と一緒に飲むべきか尋ねる"
         },
         "practice": "Pregunte si debe tomarse con comida",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi phải làm gì nếu có tác dụng phụ",
           "id": "Tanyakan apa yang harus dilakukan jika ada efek samping",
           "ms": "Tanya apa yang perlu dilakukan jika ada kesan sampingan",
-          "ko": "부작용이 생기면 어떻게 해야 하는지 물어보세요"
+          "ko": "부작용이 생기면 어떻게 해야 하는지 물어보세요",
+          "ru": "Спросите, что делать при побочных эффектах",
+          "bn": "পার্শ্বপ্রতিক্রিয়া হলে কী করতে হবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ مضر اثرات ہوں تو کیا کرنا ہے",
+          "zh-CN": "询问出现副作用时该怎么办",
+          "ja": "副作用が出たらどうすればよいか尋ねる"
         },
         "practice": "Pregunte qué hacer si hay efectos secundarios",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Đơn thuốc đây ạ. Con trai tôi sáu tuổi.",
         "id": "Ini resepnya. Anak saya berumur enam tahun.",
         "ms": "Ini preskripsinya. Anak lelaki saya berumur enam tahun.",
-        "ko": "여기 처방전이요. 아들은 여섯 살이에요."
+        "ko": "여기 처방전이요. 아들은 여섯 살이에요.",
+        "ru": "Вот рецепт. Моему сыну шесть лет.",
+        "bn": "এই যে প্রেসক্রিপশন। আমার ছেলের বয়স ছয় বছর।",
+        "ur": "یہ رہا نسخہ۔ میرا بیٹا چھ سال کا ہے۔",
+        "zh-CN": "这是处方。我儿子六岁。",
+        "ja": "こちらが処方箋です。息子は6歳です。"
       },
       "practice": "Aquí está la receta. Mi hijo tiene seis años.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Một ngày cháu nên uống mấy lần ạ?",
         "id": "Berapa kali sehari dia harus meminumnya?",
         "ms": "Berapa kali sehari dia perlu makan ubat ini?",
-        "ko": "하루에 몇 번 먹여야 하나요?"
+        "ko": "하루에 몇 번 먹여야 하나요?",
+        "ru": "Сколько раз в день ему его принимать?",
+        "bn": "দিনে কতবার ও এটা খাবে?",
+        "ur": "اسے دن میں کتنی بار لینی چاہیے؟",
+        "zh-CN": "他一天应该吃几次？",
+        "ja": "1日に何回飲ませればいいですか？"
       },
       "practice": "¿Cuántas veces al día debe tomarla?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Cháu nên uống trước hay sau bữa ăn ạ?",
         "id": "Diminum sebelum atau sesudah makan?",
         "ms": "Perlu diambil sebelum atau selepas makan?",
-        "ko": "식전에 먹여야 하나요, 식후에 먹여야 하나요?"
+        "ko": "식전에 먹여야 하나요, 식후에 먹여야 하나요?",
+        "ru": "Ему принимать его до или после еды?",
+        "bn": "ও কি এটা খাবারের আগে খাবে না পরে?",
+        "ur": "کیا اسے کھانے سے پہلے لینی چاہیے یا بعد میں؟",
+        "zh-CN": "他应该饭前吃还是饭后吃？",
+        "ja": "食前と食後、どちらに飲ませればいいですか？"
       },
       "practice": "¿Debe tomarla antes o después de las comidas?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Nếu cháu thấy khó chịu sau khi uống thì tôi nên làm gì?",
         "id": "Apa yang harus saya lakukan kalau dia merasa tidak enak setelah meminumnya?",
         "ms": "Apa yang perlu saya buat kalau dia rasa tidak sihat selepas makan ubat?",
-        "ko": "약을 먹고 아이가 속이 안 좋으면 어떻게 해야 하나요?"
+        "ko": "약을 먹고 아이가 속이 안 좋으면 어떻게 해야 하나요?",
+        "ru": "Что делать, если ему станет плохо после приёма?",
+        "bn": "খাওয়ার পর ওর খারাপ লাগলে আমি কী করব?",
+        "ur": "اگر لینے کے بعد اس کی طبیعت خراب ہو تو مجھے کیا کرنا چاہیے؟",
+        "zh-CN": "如果他吃完后不舒服，我该怎么办？",
+        "ja": "飲んだ後に気分が悪くなったら、どうすればいいですか？"
       },
       "practice": "¿Qué debo hacer si se siente mal después de tomarla?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Anh/chị ghi lại giúp tôi được không ạ?",
         "id": "Bisa tolong dituliskan untuk saya?",
         "ms": "Boleh tolong tuliskan untuk saya?",
-        "ko": "그거 좀 적어 주시겠어요?"
+        "ko": "그거 좀 적어 주시겠어요?",
+        "ru": "Не могли бы вы мне это записать?",
+        "bn": "দয়া করে এটা আমাকে লিখে দিতে পারবেন?",
+        "ur": "کیا آپ براہِ کرم یہ میرے لیے لکھ دیں گے؟",
+        "zh-CN": "请问能帮我写下来吗？",
+        "ja": "それを書いていただけますか？"
       },
       "practice": "¿Me lo podría escribir, por favor?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Chia việc làm slide",
     "id": "Membagi Tugas Slide",
     "ms": "Membahagikan Slaid",
-    "ko": "발표 자료 나누기"
+    "ko": "발표 자료 나누기",
+    "ru": "Делим слайды",
+    "bn": "স্লাইড ভাগাভাগি",
+    "ur": "سلائیڈز کی تقسیم",
+    "zh-CN": "分工做幻灯片",
+    "ja": "スライドの分担"
   },
   "character": "fox",
   "scenario": "You and a coworker (AI) must prepare the slides for Friday's team meeting. You need to decide who does what.",
@@ -39,7 +44,12 @@
     "vi": "Bạn và một đồng nghiệp (AI) phải chuẩn bị slide cho buổi họp nhóm thứ Sáu. Hai bạn cần quyết định ai làm phần nào.",
     "id": "Kamu dan seorang rekan kerja (AI) harus menyiapkan slide untuk rapat tim hari Jumat. Kalian perlu memutuskan siapa mengerjakan apa.",
     "ms": "Anda dan seorang rakan sekerja (AI) perlu menyediakan slaid untuk mesyuarat pasukan hari Jumaat. Anda perlu tentukan siapa buat apa.",
-    "ko": "당신과 동료(AI)는 금요일 팀 회의용 발표 자료를 준비해야 해요. 누가 무엇을 할지 정해야 합니다."
+    "ko": "당신과 동료(AI)는 금요일 팀 회의용 발표 자료를 준비해야 해요. 누가 무엇을 할지 정해야 합니다.",
+    "ru": "Вам с коллегой (AI) нужно подготовить слайды к пятничному собранию команды. Решите, кто что делает.",
+    "bn": "আপনি ও একজন সহকর্মী (AI) শুক্রবারের টিম মিটিংয়ের স্লাইড তৈরি করবেন। কে কী করবে তা ঠিক করতে হবে।",
+    "ur": "آپ اور ایک ساتھی (AI) کو جمعہ کی ٹیم میٹنگ کے لیے سلائیڈز تیار کرنی ہیں۔ آپ کو طے کرنا ہے کہ کون کیا کرے گا۔",
+    "zh-CN": "你和一位同事（AI）要为周五的团队会议准备幻灯片。你们需要决定谁负责什么。",
+    "ja": "あなたと同僚（AI）は金曜日のチーム会議用のスライドを準備しなければなりません。誰が何を担当するか決めましょう。"
   },
   "mission": {
     "native": "Agree with your coworker on how to split the presentation work.",
@@ -60,7 +70,12 @@
       "vi": "Thống nhất với đồng nghiệp cách chia phần chuẩn bị bài thuyết trình.",
       "id": "Sepakati dengan rekan kerjamu cara membagi pekerjaan presentasi.",
       "ms": "Setuju dengan rakan sekerja anda tentang cara membahagikan kerja pembentangan.",
-      "ko": "발표 자료 작업을 어떻게 나눌지 동료와 합의하세요."
+      "ko": "발표 자료 작업을 어떻게 나눌지 동료와 합의하세요.",
+      "ru": "Договоритесь с коллегой, как разделить работу над презентацией.",
+      "bn": "প্রেজেন্টেশনের কাজ কীভাবে ভাগ করবেন, সহকর্মীর সঙ্গে একমত হন।",
+      "ur": "اپنے ساتھی کے ساتھ طے کریں کہ پریزنٹیشن کا کام کیسے تقسیم کریں۔",
+      "zh-CN": "与同事商定如何分配演示文稿的工作。",
+      "ja": "プレゼン資料の作業分担について同僚と合意しましょう。"
     },
     "practice": "Acuerde con su compañero cómo dividir el trabajo de la presentación.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Đề xuất phần bạn sẽ làm",
           "id": "Usulkan bagian mana yang akan kamu kerjakan",
           "ms": "Cadangkan bahagian yang akan anda buat",
-          "ko": "자신이 맡을 부분을 제안하세요"
+          "ko": "자신이 맡을 부분을 제안하세요",
+          "ru": "Предложите, какую часть возьмёте вы",
+          "bn": "আপনি কোন অংশ করবেন তা প্রস্তাব করুন",
+          "ur": "تجویز کریں کہ آپ کون سا حصہ کریں گے",
+          "zh-CN": "提出你负责哪一部分",
+          "ja": "自分が担当する部分を提案しましょう"
         },
         "practice": "Sugiera qué parte hará usted",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi đồng nghiệp muốn làm phần nào",
           "id": "Tanyakan bagian mana yang disukai rekan kerjamu",
           "ms": "Tanya bahagian mana yang rakan sekerja anda lebih suka",
-          "ko": "동료가 어떤 부분을 원하는지 물어보세요"
+          "ko": "동료가 어떤 부분을 원하는지 물어보세요",
+          "ru": "Спросите, какую часть предпочитает коллега",
+          "bn": "সহকর্মী কোন অংশ পছন্দ করেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ آپ کا ساتھی کون سا حصہ پسند کرتا ہے",
+          "zh-CN": "询问同事想做哪一部分",
+          "ja": "同僚がどの部分を希望するか尋ねましょう"
         },
         "practice": "Pregunte qué parte prefiere su compañero",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Thống nhất ngày chia sẻ bản nháp",
           "id": "Sepakati hari untuk berbagi draf",
           "ms": "Setuju tentang hari untuk berkongsi draf",
-          "ko": "초안을 공유할 날짜를 정하세요"
+          "ko": "초안을 공유할 날짜를 정하세요",
+          "ru": "Договоритесь о дне обмена черновиками",
+          "bn": "খসড়া শেয়ার করার দিন ঠিক করুন",
+          "ur": "ڈرافٹس شیئر کرنے کا دن طے کریں",
+          "zh-CN": "约定交换草稿的日期",
+          "ja": "下書きを共有する日を決めましょう"
         },
         "practice": "Acuerden un día para compartir los borradores",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Mình lo phần biểu đồ nhé, nếu bạn thấy ổn.",
         "id": "Saya bisa mengurus grafiknya, kalau kamu tidak keberatan.",
         "ms": "Saya boleh uruskan carta, kalau anda tak kisah.",
-        "ko": "괜찮으시면 제가 차트를 맡을게요."
+        "ko": "괜찮으시면 제가 차트를 맡을게요.",
+        "ru": "Я могу взять на себя графики, если тебе так удобно.",
+        "bn": "তোমার আপত্তি না থাকলে আমি চার্টগুলো করতে পারি।",
+        "ur": "اگر تمہیں ٹھیک لگے تو میں چارٹس سنبھال سکتا ہوں۔",
+        "zh-CN": "如果你觉得可以，图表我来负责。",
+        "ja": "よければ、グラフは私が担当するよ。"
       },
       "practice": "Yo puedo encargarme de los gráficos, si te parece bien.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Bạn muốn làm phần nào?",
         "id": "Kamu mau mengerjakan bagian yang mana?",
         "ms": "Bahagian mana yang anda mahu buat?",
-        "ko": "어떤 부분을 맡고 싶으세요?"
+        "ko": "어떤 부분을 맡고 싶으세요?",
+        "ru": "Над какой частью ты хотел бы поработать?",
+        "bn": "তুমি কোন অংশে কাজ করতে চাও?",
+        "ur": "تم کون سے حصے پر کام کرنا چاہو گے؟",
+        "zh-CN": "你想负责哪一部分？",
+        "ja": "どの部分をやりたい？"
       },
       "practice": "¿Qué parte te gustaría hacer?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Chiều thứ Tư mình gửi bản nháp cho nhau nhé.",
         "id": "Ayo kita saling berbagi draf hari Rabu sore.",
         "ms": "Jom kita kongsi draf pada petang Rabu.",
-        "ko": "수요일 오후에 초안을 공유해요."
+        "ko": "수요일 오후에 초안을 공유해요.",
+        "ru": "Давай обменяемся черновиками в среду после обеда.",
+        "bn": "চলো বুধবার বিকেলে খসড়াগুলো শেয়ার করি।",
+        "ur": "چلو بدھ کی دوپہر اپنے ڈرافٹس شیئر کرتے ہیں۔",
+        "zh-CN": "我们周三下午交换一下草稿吧。",
+        "ja": "水曜日の午後に下書きを共有しよう。"
       },
       "practice": "Compartamos los borradores el miércoles por la tarde.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Nghe ổn đấy. Cần giúp gì thì cứ nói mình nhé.",
         "id": "Oke. Kabari saya kalau butuh bantuan.",
         "ms": "Baiklah. Beritahu saya kalau anda perlukan bantuan.",
-        "ko": "좋아요. 도움이 필요하면 말해 주세요."
+        "ko": "좋아요. 도움이 필요하면 말해 주세요.",
+        "ru": "Отлично. Скажи, если понадобится помощь.",
+        "bn": "ঠিক আছে। কোনো সাহায্য লাগলে জানিও।",
+        "ur": "ٹھیک ہے۔ کوئی مدد چاہیے ہو تو بتانا۔",
+        "zh-CN": "好的。需要帮忙就跟我说。",
+        "ja": "いいね。手伝いが必要なら言ってね。"
       },
       "practice": "Me parece bien. Avísame si necesitas ayuda.",
       "practice_translations": {

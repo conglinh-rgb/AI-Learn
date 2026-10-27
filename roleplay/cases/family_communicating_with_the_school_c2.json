@@ -18,7 +18,12 @@
     "vi": "Buổi họp phụ huynh",
     "id": "Pertemuan Orang Tua dan Guru",
     "ms": "Perjumpaan Ibu Bapa dan Guru",
-    "ko": "학부모 상담"
+    "ko": "학부모 상담",
+    "ru": "Родительское собрание",
+    "bn": "অভিভাবক-শিক্ষক সভা",
+    "ur": "والدین اور استاد کی ملاقات",
+    "zh-CN": "家长会",
+    "ja": "保護者面談"
   },
   "character": "fox",
   "scenario": "You meet your child's teacher (AI) to talk about your child's progress, because their math grades have been going down.",
@@ -39,7 +44,12 @@
     "vi": "Bạn gặp giáo viên (AI) của con để trao đổi về tình hình học tập, vì điểm toán của con đang đi xuống.",
     "id": "Kamu menemui guru anakmu (AI) untuk membahas perkembangannya, karena nilai matematikanya terus turun.",
     "ms": "Anda berjumpa guru anak anda (AI) untuk berbincang tentang kemajuan anak anda, kerana markah matematiknya semakin menurun.",
-    "ko": "아이의 수학 성적이 계속 떨어지고 있어서, 아이의 학업 상황에 대해 이야기하려고 담임 선생님(AI)을 만나요."
+    "ko": "아이의 수학 성적이 계속 떨어지고 있어서, 아이의 학업 상황에 대해 이야기하려고 담임 선생님(AI)을 만나요.",
+    "ru": "Вы встречаетесь с учителем (AI) вашего ребёнка, чтобы обсудить его успехи, потому что оценки по математике снижаются.",
+    "bn": "আপনার সন্তানের অগ্রগতি নিয়ে কথা বলতে আপনি তার শিক্ষকের (AI) সঙ্গে দেখা করছেন, কারণ তার গণিতের নম্বর কমে যাচ্ছে।",
+    "ur": "آپ اپنے بچے کی پیش رفت پر بات کرنے کے لیے اس کے استاد (AI) سے ملتے ہیں، کیونکہ ریاضی کے نمبر کم ہوتے جا رہے ہیں۔",
+    "zh-CN": "孩子的数学成绩一直在下滑，你去见孩子的老师（AI），谈谈孩子的学习情况。",
+    "ja": "子どもの算数の成績が下がってきているため、担任の先生（AI）と会って子どもの様子について話します。"
   },
   "mission": {
     "native": "Learn how your child is doing and agree on a way to help at home.",
@@ -60,7 +70,12 @@
       "vi": "Tìm hiểu tình hình học tập của con và thống nhất cách hỗ trợ con ở nhà.",
       "id": "Cari tahu perkembangan anakmu dan sepakati cara membantunya di rumah.",
       "ms": "Ketahui prestasi anak anda dan setuju dengan cara untuk membantu di rumah.",
-      "ko": "아이가 어떻게 지내는지 알아보고 집에서 도울 방법을 함께 정하세요."
+      "ko": "아이가 어떻게 지내는지 알아보고 집에서 도울 방법을 함께 정하세요.",
+      "ru": "Узнайте, как дела у ребёнка, и договоритесь, как помогать ему дома.",
+      "bn": "আপনার সন্তান কেমন করছে জেনে নিন এবং বাড়িতে সাহায্যের একটি উপায়ে একমত হন।",
+      "ur": "جانیں کہ آپ کا بچہ کیسا کر رہا ہے اور گھر پر مدد کے طریقے پر اتفاق کریں۔",
+      "zh-CN": "了解孩子的情况，并商定在家帮助孩子的方法。",
+      "ja": "子どもの様子を聞き、家庭でのサポート方法を決めましょう。"
     },
     "practice": "Entérese de cómo va su hijo y acuerden una forma de ayudarle en casa.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi con học trên lớp thế nào",
           "id": "Tanyakan bagaimana anakmu di kelas",
           "ms": "Tanya bagaimana prestasi anak anda di dalam kelas",
-          "ko": "아이가 수업 시간에 어떤지 물어보세요"
+          "ko": "아이가 수업 시간에 어떤지 물어보세요",
+          "ru": "Спросите, как ребёнок успевает на уроках",
+          "bn": "ক্লাসে আপনার সন্তান কেমন করছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ آپ کا بچہ کلاس میں کیسا کر رہا ہے",
+          "zh-CN": "询问孩子在课堂上的表现",
+          "ja": "授業での子どもの様子を聞きましょう"
         },
         "practice": "Pregunte cómo va su hijo en clase",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi vì sao điểm toán đi xuống",
           "id": "Tanyakan kenapa nilai matematikanya turun",
           "ms": "Tanya mengapa markah matematik menurun",
-          "ko": "수학 성적이 왜 떨어졌는지 물어보세요"
+          "ko": "수학 성적이 왜 떨어졌는지 물어보세요",
+          "ru": "Спросите, почему снизились оценки по математике",
+          "bn": "গণিতের নম্বর কেন কমেছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ ریاضی کے نمبر کیوں کم ہوئے",
+          "zh-CN": "询问数学成绩为什么下降",
+          "ja": "算数の成績が下がった理由を聞きましょう"
         },
         "practice": "Pregunte por qué bajaron las notas de matemáticas",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi bạn có thể giúp con ở nhà bằng cách nào",
           "id": "Tanyakan apa yang bisa kamu lakukan di rumah",
           "ms": "Tanya apa yang anda boleh lakukan untuk membantu di rumah",
-          "ko": "집에서 무엇을 도와줄 수 있는지 물어보세요"
+          "ko": "집에서 무엇을 도와줄 수 있는지 물어보세요",
+          "ru": "Спросите, чем вы можете помочь дома",
+          "bn": "বাড়িতে সাহায্য করতে আপনি কী করতে পারেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ آپ گھر پر مدد کے لیے کیا کر سکتے ہیں",
+          "zh-CN": "询问你在家能做些什么来帮忙",
+          "ja": "家庭でできることを聞きましょう"
         },
         "practice": "Pregunte qué puede hacer para ayudar en casa",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Thống nhất khi nào trao đổi lại",
           "id": "Sepakati kapan akan membahasnya lagi",
           "ms": "Setuju bila untuk berbincang semula",
-          "ko": "언제 다시 이야기할지 정하세요"
+          "ko": "언제 다시 이야기할지 정하세요",
+          "ru": "Договоритесь, когда снова обсудить ситуацию",
+          "bn": "আবার কবে কথা বলবেন তা ঠিক করুন",
+          "ur": "طے کریں کہ دوبارہ کب بات کریں گے",
+          "zh-CN": "商定下次沟通的时间",
+          "ja": "次に話し合う時期を決めましょう"
         },
         "practice": "Acuerden cuándo volver a hablar",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Cảm ơn thầy/cô đã dành thời gian gặp tôi.",
         "id": "Terima kasih sudah mau bertemu dengan saya.",
         "ms": "Terima kasih kerana sudi berjumpa saya.",
-        "ko": "시간 내 주셔서 감사합니다."
+        "ko": "시간 내 주셔서 감사합니다.",
+        "ru": "Спасибо, что нашли время встретиться со мной.",
+        "bn": "আমার সঙ্গে দেখা করার জন্য ধন্যবাদ।",
+        "ur": "مجھ سے ملنے کا شکریہ۔",
+        "zh-CN": "谢谢您抽空和我见面。",
+        "ja": "お時間をいただきありがとうございます。"
       },
       "practice": "Gracias por reunirse conmigo.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Cháu nhà tôi học trên lớp thế nào ạ?",
         "id": "Bagaimana perkembangan putri saya di kelas?",
         "ms": "Bagaimana prestasi anak perempuan saya di dalam kelas?",
-        "ko": "우리 딸이 수업 시간에 어떤가요?"
+        "ko": "우리 딸이 수업 시간에 어떤가요?",
+        "ru": "Как моя дочь успевает на уроках?",
+        "bn": "ক্লাসে আমার মেয়ে কেমন করছে?",
+        "ur": "میری بیٹی کلاس میں کیسا کر رہی ہے؟",
+        "zh-CN": "我女儿在课堂上表现怎么样？",
+        "ja": "娘は授業ではどんな様子ですか？"
       },
       "practice": "¿Cómo va mi hija en clase?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Tôi thấy điểm toán của cháu dạo này đi xuống.",
         "id": "Saya perhatikan nilai matematikanya turun.",
         "ms": "Saya perasan markah matematiknya menurun.",
-        "ko": "딸의 수학 성적이 떨어진 걸 알게 됐어요."
+        "ko": "딸의 수학 성적이 떨어진 걸 알게 됐어요.",
+        "ru": "Я заметила, что её оценки по математике снизились.",
+        "bn": "আমি লক্ষ করেছি ওর গণিতের নম্বর কমে গেছে।",
+        "ur": "میں نے دیکھا ہے کہ اس کے ریاضی کے نمبر کم ہو گئے ہیں۔",
+        "zh-CN": "我注意到她的数学成绩下降了。",
+        "ja": "算数の成績が下がっているのに気づきました。"
       },
       "practice": "Noté que sus notas de matemáticas han bajado.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Ở nhà chúng tôi có thể làm gì để giúp cháu ạ?",
         "id": "Apa yang bisa kami lakukan di rumah untuk membantunya?",
         "ms": "Apa yang kami boleh lakukan di rumah untuk membantunya?",
-        "ko": "집에서 아이를 도우려면 뭘 하면 될까요?"
+        "ko": "집에서 아이를 도우려면 뭘 하면 될까요?",
+        "ru": "Что мы можем сделать дома, чтобы ей помочь?",
+        "bn": "ওকে সাহায্য করতে আমরা বাড়িতে কী করতে পারি?",
+        "ur": "ہم گھر پر اس کی مدد کے لیے کیا کر سکتے ہیں؟",
+        "zh-CN": "我们在家能做些什么来帮助她？",
+        "ja": "家ではどんなサポートができますか？"
       },
       "practice": "¿Qué podemos hacer en casa para ayudarla?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Một tháng nữa mình trao đổi lại được không ạ?",
         "id": "Bisakah kita bicara lagi sebulan lagi?",
         "ms": "Boleh kita berbincang lagi dalam sebulan?",
-        "ko": "한 달 후에 다시 이야기 나눌 수 있을까요?"
+        "ko": "한 달 후에 다시 이야기 나눌 수 있을까요?",
+        "ru": "Можем ли мы снова поговорить через месяц?",
+        "bn": "এক মাস পরে কি আমরা আবার কথা বলতে পারি?",
+        "ur": "کیا ہم ایک مہینے بعد دوبارہ بات کر سکتے ہیں؟",
+        "zh-CN": "我们一个月后可以再谈一次吗？",
+        "ja": "1か月後にまたお話しできますか？"
       },
       "practice": "¿Podríamos volver a hablar en un mes?",
       "practice_translations": {

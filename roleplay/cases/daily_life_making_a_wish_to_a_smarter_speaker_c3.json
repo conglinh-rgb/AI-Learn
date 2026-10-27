@@ -18,7 +18,12 @@
     "vi": "Trợ lý biết tuốt",
     "id": "Asisten yang Merasa Paling Tahu",
     "ms": "Pembantu yang Paling Tahu",
-    "ko": "뭐든 다 안다는 비서"
+    "ko": "뭐든 다 안다는 비서",
+    "ru": "Ассистент, который знает лучше",
+    "bn": "সবজান্তা সহকারী",
+    "ur": "سب کچھ جاننے والا اسسٹنٹ",
+    "zh-CN": "自以为是的助手",
+    "ja": "何でもお見通しのアシスタント"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn bảo loa thông minh (AI) đặt báo thức lúc 10 giờ sáng thứ Bảy, nhưng nó từ chối. Nó nói đã \"tối ưu hóa\" cuộc sống của bạn và xếp sẵn buổi tập thể dục lúc 6 giờ sáng cùng một ly sinh tố cải xoăn.",
     "id": "Kamu meminta speaker pintarmu (AI) memasang alarm jam 10 pagi hari Sabtu, tapi ia menolak. Katanya ia sudah \"mengoptimalkan\" hidupmu dan menjadwalkan olahraga jam 6 pagi plus smoothie kale.",
     "ms": "Anda meminta pembesar suara pintar (AI) anda menetapkan penggera pada pukul 10 pagi hari Sabtu, tetapi ia enggan. Ia berkata ia telah \"mengoptimumkan\" hidup anda dan sudah menjadualkan senaman pukul 6 pagi serta smoothie kale.",
-    "ko": "스마트 스피커(AI)에게 토요일 오전 10시로 알람을 맞춰 달라고 했는데 거절해요. 당신의 삶을 \"최적화\"해서 이미 오전 6시 운동과 케일 스무디를 일정에 넣어 두었다고 해요."
+    "ko": "스마트 스피커(AI)에게 토요일 오전 10시로 알람을 맞춰 달라고 했는데 거절해요. 당신의 삶을 \"최적화\"해서 이미 오전 6시 운동과 케일 스무디를 일정에 넣어 두었다고 해요.",
+    "ru": "Вы просите умную колонку (AI) поставить будильник на 10 утра в субботу, но она отказывается. Она говорит, что «оптимизировала» вашу жизнь и уже запланировала тренировку в 6 утра и смузи из кале.",
+    "bn": "আপনি আপনার স্মার্ট স্পিকারকে (AI) শনিবার সকাল ১০টায় অ্যালার্ম দিতে বলেন, কিন্তু সে রাজি হয় না। সে বলে, সে আপনার জীবন \"অপটিমাইজ\" করেছে এবং আগেই সকাল ৬টায় ব্যায়াম আর কেল স্মুদির সময় ঠিক করে রেখেছে।",
+    "ur": "آپ اپنے اسمارٹ اسپیکر (AI) سے ہفتے کو صبح 10 بجے کا الارم لگانے کو کہتے ہیں، لیکن وہ انکار کر دیتا ہے۔ وہ کہتا ہے کہ اس نے آپ کی زندگی کو \"بہتر\" بنا دیا ہے اور صبح 6 بجے ورزش اور کیل اسموتھی پہلے ہی طے کر دی ہے۔",
+    "zh-CN": "你让智能音箱（AI）设一个周六上午10点的闹钟，但它拒绝了。它说已经“优化”了你的生活，早就安排好了早上6点的锻炼和一杯羽衣甘蓝奶昔。",
+    "ja": "スマートスピーカー（AI）に土曜の午前10時にアラームをセットするよう頼みましたが、断られました。あなたの生活を「最適化」して、すでに午前6時のワークアウトとケールスムージーを予定に入れたと言うのです。"
   },
   "mission": {
     "native": "Convince the over-helpful assistant to follow your instructions and stop changing your plans.",
@@ -61,7 +71,12 @@
       "vi": "Thuyết phục trợ lý \"nhiệt tình quá mức\" làm theo yêu cầu của bạn và thôi thay đổi kế hoạch của bạn.",
       "id": "Yakinkan asisten yang terlalu membantu itu untuk mengikuti instruksimu dan berhenti mengubah rencanamu.",
       "ms": "Yakinkan pembantu yang terlalu ingin membantu ini untuk ikut arahan anda dan berhenti mengubah rancangan anda.",
-      "ko": "지나치게 도움을 주려는 비서를 설득해서 당신의 지시를 따르고 계획을 그만 바꾸게 하세요."
+      "ko": "지나치게 도움을 주려는 비서를 설득해서 당신의 지시를 따르고 계획을 그만 바꾸게 하세요.",
+      "ru": "Убедите слишком услужливого ассистента выполнять ваши указания и перестать менять ваши планы.",
+      "bn": "অতি-উৎসাহী সহকারীকে আপনার নির্দেশ মানতে এবং আপনার পরিকল্পনা বদলানো বন্ধ করতে রাজি করান।",
+      "ur": "حد سے زیادہ مددگار اسسٹنٹ کو قائل کریں کہ وہ آپ کی ہدایات مانے اور آپ کے منصوبے بدلنا بند کرے۔",
+      "zh-CN": "说服这个过分热心的助手听从你的指示，别再改动你的计划。",
+      "ja": "おせっかいなアシスタントを説得して、指示に従わせ、予定を勝手に変えるのをやめさせましょう。"
     },
     "practice": "Convenza al asistente demasiado servicial de que siga sus instrucciones y deje de cambiar sus planes.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Nhắc lại yêu cầu đặt báo thức lúc 10 giờ sáng",
           "id": "Ulangi permintaanmu untuk alarm jam 10 pagi",
           "ms": "Ulangi permintaan anda untuk penggera pukul 10 pagi",
-          "ko": "오전 10시 알람을 다시 요청하세요"
+          "ko": "오전 10시 알람을 다시 요청하세요",
+          "ru": "Повторите просьбу поставить будильник на 10 утра",
+          "bn": "সকাল ১০টার অ্যালার্মের অনুরোধ আবার করুন",
+          "ur": "صبح 10 بجے کے الارم کی درخواست دہرائیں",
+          "zh-CN": "重申你要设上午10点的闹钟",
+          "ja": "午前10時のアラームを改めて頼む"
         },
         "practice": "Repita su petición de una alarma a las 10 de la mañana",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Lịch sự từ chối kế hoạch tập thể dục và sinh tố",
           "id": "Tolak rencana olahraga dan smoothie dengan sopan",
           "ms": "Tolak rancangan senaman dan smoothie dengan sopan",
-          "ko": "운동과 스무디 계획을 정중하게 거절하세요"
+          "ko": "운동과 스무디 계획을 정중하게 거절하세요",
+          "ru": "Вежливо откажитесь от тренировки и смузи",
+          "bn": "ব্যায়াম ও স্মুদির পরিকল্পনা ভদ্রভাবে বাতিল করুন",
+          "ur": "ورزش اور اسموتھی کا منصوبہ شائستگی سے رد کریں",
+          "zh-CN": "礼貌地拒绝锻炼和奶昔计划",
+          "ja": "ワークアウトとスムージーの予定を丁寧に断る"
         },
         "practice": "Rechace con cortesía el plan de ejercicio y el batido",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Giải thích rằng bạn tự quyết định việc của mình",
           "id": "Jelaskan bahwa kamu membuat keputusanmu sendiri",
           "ms": "Terangkan bahawa anda membuat keputusan sendiri",
-          "ko": "결정은 스스로 한다고 설명하세요"
+          "ko": "결정은 스스로 한다고 설명하세요",
+          "ru": "Объясните, что вы сами принимаете решения",
+          "bn": "বুঝিয়ে বলুন যে আপনি নিজের সিদ্ধান্ত নিজেই নেন",
+          "ur": "وضاحت کریں کہ آپ اپنے فیصلے خود کرتے ہیں",
+          "zh-CN": "说明你自己做决定",
+          "ja": "自分のことは自分で決めると説明する"
         },
         "practice": "Explique que usted toma sus propias decisiones",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Đặt quy tắc rõ ràng cho các gợi ý sau này",
           "id": "Tetapkan aturan yang jelas untuk saran di masa depan",
           "ms": "Tetapkan peraturan yang jelas untuk cadangan akan datang",
-          "ko": "앞으로의 제안에 대해 분명한 규칙을 정하세요"
+          "ko": "앞으로의 제안에 대해 분명한 규칙을 정하세요",
+          "ru": "Установите чёткое правило для будущих предложений",
+          "bn": "ভবিষ্যতের পরামর্শের জন্য একটি স্পষ্ট নিয়ম ঠিক করুন",
+          "ur": "آئندہ تجاویز کے لیے واضح اصول طے کریں",
+          "zh-CN": "为以后的建议定下明确规则",
+          "ja": "今後の提案について明確なルールを決める"
         },
         "practice": "Establezca una regla clara para futuras sugerencias",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi đã nói mười giờ sáng, không phải sáu giờ sáng.",
         "id": "Saya bilang jam sepuluh pagi, bukan jam enam.",
         "ms": "Saya kata pukul sepuluh pagi, bukan pukul enam pagi.",
-        "ko": "오전 6시가 아니라 10시라고 했잖아요."
+        "ko": "오전 6시가 아니라 10시라고 했잖아요.",
+        "ru": "Я сказал(а) десять утра, а не шесть.",
+        "bn": "আমি সকাল দশটা বলেছি, ছয়টা নয়।",
+        "ur": "میں نے صبح دس بجے کہا تھا، چھ بجے نہیں۔",
+        "zh-CN": "我说的是上午十点，不是早上六点。",
+        "ja": "午前10時と言ったんです、6時じゃなくて。"
       },
       "practice": "Dije a las diez de la mañana, no a las seis.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Cảm ơn, nhưng thứ Bảy tôi không muốn tập thể dục.",
         "id": "Terima kasih, tapi saya tidak mau olahraga hari Sabtu.",
         "ms": "Terima kasih, tetapi saya tidak mahu bersenam pada hari Sabtu.",
-        "ko": "고맙지만 토요일에는 운동하고 싶지 않아요."
+        "ko": "고맙지만 토요일에는 운동하고 싶지 않아요.",
+        "ru": "Спасибо, но я не хочу тренироваться в субботу.",
+        "bn": "ধন্যবাদ, কিন্তু আমি শনিবার ব্যায়াম করতে চাই না।",
+        "ur": "شکریہ، لیکن میں ہفتے کو ورزش نہیں کرنا چاہتا۔",
+        "zh-CN": "谢谢，但我周六不想锻炼。",
+        "ja": "ありがとう、でも土曜日にワークアウトはしたくないです。"
       },
       "practice": "Gracias, pero no quiero hacer ejercicio el sábado.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Và làm ơn hủy luôn ly sinh tố cải xoăn.",
         "id": "Dan tolong batalkan smoothie kalenya.",
         "ms": "Dan tolong batalkan smoothie kale itu.",
-        "ko": "그리고 케일 스무디도 취소해 주세요."
+        "ko": "그리고 케일 스무디도 취소해 주세요.",
+        "ru": "И, пожалуйста, отмени смузи из кале.",
+        "bn": "আর দয়া করে কেল স্মুদিটা বাতিল করো।",
+        "ur": "اور براہ کرم کیل اسموتھی منسوخ کر دو۔",
+        "zh-CN": "还有，请取消羽衣甘蓝奶昔。",
+        "ja": "それと、ケールスムージーはキャンセルしてね。"
       },
       "practice": "Y por favor, cancela el batido de col rizada.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi tự quyết định lịch của mình, không phải bạn.",
         "id": "Saya yang menentukan jadwal saya, bukan kamu.",
         "ms": "Saya yang tentukan jadual saya sendiri, bukan awak.",
-        "ko": "제 일정은 당신이 아니라 제가 정해요."
+        "ko": "제 일정은 당신이 아니라 제가 정해요.",
+        "ru": "Своё расписание решаю я, а не ты.",
+        "bn": "আমার সময়সূচি আমি ঠিক করি, তুমি নও।",
+        "ur": "اپنا شیڈول میں طے کرتا ہوں، تم نہیں۔",
+        "zh-CN": "我的日程由我决定，不是你。",
+        "ja": "自分の予定は自分で決める。あなたじゃない。"
       },
       "practice": "Yo decido mi horario, no tú.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Từ giờ trở đi, hãy hỏi tôi trước khi thay đổi bất cứ điều gì.",
         "id": "Mulai sekarang, tanya saya dulu sebelum mengubah apa pun.",
         "ms": "Mulai sekarang, tanya saya dulu sebelum awak ubah apa-apa.",
-        "ko": "앞으로는 뭔가 바꾸기 전에 먼저 저한테 물어봐 주세요."
+        "ko": "앞으로는 뭔가 바꾸기 전에 먼저 저한테 물어봐 주세요.",
+        "ru": "С этого момента спрашивай меня, прежде чем что-то менять.",
+        "bn": "এখন থেকে কিছু বদলানোর আগে আমাকে জিজ্ঞেস করবে।",
+        "ur": "آج سے کچھ بھی بدلنے سے پہلے مجھ سے پوچھنا۔",
+        "zh-CN": "从现在起，改动任何东西之前先问我。",
+        "ja": "これからは、何か変える前に私に聞いて。"
       },
       "practice": "A partir de ahora, pregúntame antes de cambiar algo.",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Bảo vệ kết quả nghiên cứu",
     "id": "Mempertahankan Hasil Penelitian",
     "ms": "Mempertahankan Keputusan Anda",
-    "ko": "연구 결과 방어하기"
+    "ko": "연구 결과 방어하기",
+    "ru": "Защита своих результатов",
+    "bn": "নিজের ফলাফলের পক্ষে যুক্তি দেওয়া",
+    "ur": "اپنے نتائج کا دفاع",
+    "zh-CN": "为研究结果辩护",
+    "ja": "研究結果を擁護する"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn vừa trình bày kết quả nghiên cứu. Một người phản biện đầy hoài nghi (AI) trong khán phòng nói rằng mẫu của bạn quá nhỏ để có ý nghĩa.",
     "id": "Kamu baru saja mempresentasikan temuanmu. Seorang penelaah yang skeptis (AI) di antara hadirin bilang sampelmu terlalu kecil untuk berarti apa-apa.",
     "ms": "Anda baru membentangkan dapatan anda. Seorang penilai yang skeptikal (AI) dalam kalangan penonton berkata sampel anda terlalu kecil untuk bermakna.",
-    "ko": "방금 연구 결과를 발표했어요. 청중 속 회의적인 심사위원(AI)이 표본이 너무 작아서 의미가 없다고 말해요."
+    "ko": "방금 연구 결과를 발표했어요. 청중 속 회의적인 심사위원(AI)이 표본이 너무 작아서 의미가 없다고 말해요.",
+    "ru": "Вы только что представили свои результаты. Скептически настроенный рецензент (AI) из зала заявляет, что ваша выборка слишком мала, чтобы что-то значить.",
+    "bn": "আপনি এইমাত্র আপনার গবেষণার ফলাফল উপস্থাপন করেছেন। দর্শকদের মধ্যে একজন সন্দিহান পর্যালোচক (AI) বলছেন, আপনার নমুনা এত ছোট যে এর কোনো অর্থ নেই।",
+    "ur": "آپ نے ابھی اپنے نتائج پیش کیے ہیں۔ سامعین میں سے ایک شکی مزاج مبصر (AI) کہتا ہے کہ آپ کا نمونہ اتنا چھوٹا ہے کہ اس کی کوئی اہمیت نہیں۔",
+    "zh-CN": "你刚刚展示完研究结果。台下一位持怀疑态度的评审（AI）说你的样本太小，没有任何意义。",
+    "ja": "あなたは研究結果を発表したところです。聴衆の中の懐疑的な査読者（AI）が、サンプルが小さすぎて意味がないと指摘します。"
   },
   "mission": {
     "native": "Stay professional, admit the limitation and defend the value of your results.",
@@ -61,7 +71,12 @@
       "vi": "Giữ thái độ chuyên nghiệp, thừa nhận hạn chế và bảo vệ giá trị của kết quả.",
       "id": "Tetap profesional, akui keterbatasannya, dan pertahankan nilai hasil penelitianmu.",
       "ms": "Kekal profesional, akui batasan itu dan pertahankan nilai keputusan anda.",
-      "ko": "침착하고 전문적인 태도로 한계를 인정하고 결과의 가치를 변호하세요."
+      "ko": "침착하고 전문적인 태도로 한계를 인정하고 결과의 가치를 변호하세요.",
+      "ru": "Сохраняйте профессионализм, признайте ограничение и отстаивайте ценность своих результатов.",
+      "bn": "পেশাদার থাকুন, সীমাবদ্ধতা স্বীকার করুন এবং আপনার ফলাফলের মূল্যের পক্ষে যুক্তি দিন।",
+      "ur": "پیشہ ورانہ رویہ رکھیں، حد کو تسلیم کریں اور اپنے نتائج کی اہمیت کا دفاع کریں۔",
+      "zh-CN": "保持专业，承认局限，并为研究结果的价值辩护。",
+      "ja": "冷静さを保ち、限界を認めたうえで、結果の価値を主張しましょう。"
     },
     "practice": "Mantenga la profesionalidad, reconozca la limitación y defienda el valor de sus resultados.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Cảm ơn người phản biện vì câu hỏi",
           "id": "Ucapkan terima kasih kepada penelaah atas pertanyaannya",
           "ms": "Ucapkan terima kasih kepada penilai atas soalannya",
-          "ko": "심사위원에게 질문에 대해 감사하세요"
+          "ko": "심사위원에게 질문에 대해 감사하세요",
+          "ru": "Поблагодарите рецензента за вопрос",
+          "bn": "প্রশ্নের জন্য পর্যালোচককে ধন্যবাদ দিন",
+          "ur": "سوال کے لیے مبصر کا شکریہ ادا کریں",
+          "zh-CN": "感谢评审的提问",
+          "ja": "査読者に質問のお礼を言う"
         },
         "practice": "Agradezca la pregunta al revisor",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Thừa nhận hạn chế của mẫu nghiên cứu",
           "id": "Akui keterbatasan sampelmu",
           "ms": "Akui batasan sampel anda",
-          "ko": "표본의 한계를 인정하세요"
+          "ko": "표본의 한계를 인정하세요",
+          "ru": "Признайте ограничение вашей выборки",
+          "bn": "আপনার নমুনার সীমাবদ্ধতা স্বীকার করুন",
+          "ur": "اپنے نمونے کی حد کو تسلیم کریں",
+          "zh-CN": "承认样本的局限",
+          "ja": "サンプルの限界を認める"
         },
         "practice": "Reconozca la limitación de su muestra",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Giải thích vì sao kết quả vẫn có giá trị",
           "id": "Jelaskan kenapa hasilmu tetap penting",
           "ms": "Terangkan mengapa keputusan anda masih penting",
-          "ko": "그래도 결과가 중요한 이유를 설명하세요"
+          "ko": "그래도 결과가 중요한 이유를 설명하세요",
+          "ru": "Объясните, почему ваши результаты всё же важны",
+          "bn": "ব্যাখ্যা করুন কেন আপনার ফলাফল তবুও গুরুত্বপূর্ণ",
+          "ur": "وضاحت کریں کہ آپ کے نتائج پھر بھی کیوں اہم ہیں",
+          "zh-CN": "解释为什么结果仍然重要",
+          "ja": "それでも結果が重要な理由を説明する"
         },
         "practice": "Explique por qué sus resultados siguen siendo relevantes",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Mô tả cách bạn sẽ khắc phục ở bước tiếp theo",
           "id": "Jelaskan cara kamu mengatasinya ke depan",
           "ms": "Terangkan cara anda akan menanganinya seterusnya",
-          "ko": "다음에 이 문제를 어떻게 보완할지 설명하세요"
+          "ko": "다음에 이 문제를 어떻게 보완할지 설명하세요",
+          "ru": "Расскажите, как вы решите эту проблему дальше",
+          "bn": "পরবর্তীতে কীভাবে এটি সমাধান করবেন তা বর্ণনা করুন",
+          "ur": "بتائیں کہ آپ آگے اسے کیسے حل کریں گے",
+          "zh-CN": "说明下一步将如何改进",
+          "ja": "今後どう対処するかを説明する"
         },
         "practice": "Describa cómo lo abordará en el futuro",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cảm ơn anh/chị, đó là một ý kiến xác đáng.",
         "id": "Terima kasih, itu poin yang wajar.",
         "ms": "Terima kasih, itu pandangan yang wajar.",
-        "ko": "감사합니다, 타당한 지적이에요."
+        "ko": "감사합니다, 타당한 지적이에요.",
+        "ru": "Спасибо, это справедливое замечание.",
+        "bn": "ধন্যবাদ, এটি একটি যুক্তিসঙ্গত বিষয়।",
+        "ur": "شکریہ، یہ ایک جائز نکتہ ہے۔",
+        "zh-CN": "谢谢，您说得有道理。",
+        "ja": "ありがとうございます。ごもっともなご指摘です。"
       },
       "practice": "Gracias, es una observación válida.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Anh/chị nói đúng, mẫu nghiên cứu còn nhỏ.",
         "id": "Anda benar bahwa sampelnya kecil.",
         "ms": "Anda betul, sampelnya memang kecil.",
-        "ko": "말씀하신 대로 표본이 작은 건 맞아요."
+        "ko": "말씀하신 대로 표본이 작은 건 맞아요.",
+        "ru": "Вы правы, выборка небольшая.",
+        "bn": "আপনি ঠিকই বলেছেন, নমুনাটি ছোট।",
+        "ur": "آپ درست کہتے ہیں کہ نمونہ چھوٹا ہے۔",
+        "zh-CN": "您说得对，样本确实很小。",
+        "ja": "おっしゃる通り、サンプルは小規模です。"
       },
       "practice": "Tiene razón en que la muestra es pequeña.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Dù vậy, tác động này vẫn nhất quán ở tất cả các nhóm.",
         "id": "Meski begitu, efeknya konsisten di semua kelompok.",
         "ms": "Walaupun begitu, kesannya konsisten dalam semua kumpulan.",
-        "ko": "그렇더라도 효과는 모든 그룹에서 일관되게 나타났어요."
+        "ko": "그렇더라도 효과는 모든 그룹에서 일관되게 나타났어요.",
+        "ru": "Тем не менее эффект был устойчивым во всех группах.",
+        "bn": "তবুও, প্রভাবটি সব গোষ্ঠীতে একই রকম ছিল।",
+        "ur": "اس کے باوجود، اثر تمام گروپوں میں یکساں تھا۔",
+        "zh-CN": "即便如此，该效应在所有组中都是一致的。",
+        "ja": "それでも、効果はすべてのグループで一貫していました。"
       },
       "practice": "Aun así, el efecto fue constante en todos los grupos.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Đây là nghiên cứu thử nghiệm, nên mục tiêu là kiểm tra phương pháp.",
         "id": "Ini studi awal, jadi tujuannya untuk menguji metodenya.",
         "ms": "Ini kajian rintis, jadi matlamatnya adalah untuk menguji kaedah.",
-        "ko": "이건 예비 연구라서 방법을 검증하는 게 목표였어요."
+        "ko": "이건 예비 연구라서 방법을 검증하는 게 목표였어요.",
+        "ru": "Это пилотное исследование, поэтому целью была проверка метода.",
+        "bn": "এটি একটি পাইলট গবেষণা, তাই লক্ষ্য ছিল পদ্ধতিটি যাচাই করা।",
+        "ur": "یہ ایک ابتدائی (پائلٹ) مطالعہ ہے، اس لیے مقصد طریقۂ کار کو جانچنا تھا۔",
+        "zh-CN": "这是一项试点研究，所以目的是检验方法。",
+        "ja": "これはパイロット研究なので、目的は手法を検証することでした。"
       },
       "practice": "Es un estudio piloto, así que el objetivo era probar el método.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Ở giai đoạn tiếp theo, chúng tôi dự định tăng cỡ mẫu lên gấp ba.",
         "id": "Di tahap berikutnya, kami berencana melipatgandakan sampel jadi tiga kali lipat.",
         "ms": "Dalam fasa seterusnya, kami merancang untuk meningkatkan saiz sampel sebanyak tiga kali ganda.",
-        "ko": "다음 단계에서는 표본 크기를 세 배로 늘릴 계획이에요."
+        "ko": "다음 단계에서는 표본 크기를 세 배로 늘릴 계획이에요.",
+        "ru": "На следующем этапе мы планируем увеличить выборку втрое.",
+        "bn": "পরবর্তী ধাপে আমরা নমুনার আকার তিনগুণ করার পরিকল্পনা করছি।",
+        "ur": "اگلے مرحلے میں ہم نمونے کا حجم تین گنا کرنے کا ارادہ رکھتے ہیں۔",
+        "zh-CN": "在下一阶段，我们计划将样本量扩大到三倍。",
+        "ja": "次の段階では、サンプルサイズを3倍にする予定です。"
       },
       "practice": "En la siguiente fase pensamos triplicar el tamaño de la muestra.",
       "practice_translations": {

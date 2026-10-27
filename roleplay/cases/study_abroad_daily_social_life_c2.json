@@ -18,7 +18,12 @@
     "vi": "Tham gia câu lạc bộ sinh viên",
     "id": "Bergabung dengan Klub Mahasiswa",
     "ms": "Menyertai Kelab Pelajar",
-    "ko": "학생 동아리 가입하기"
+    "ko": "학생 동아리 가입하기",
+    "ru": "Вступление в студенческий клуб",
+    "bn": "ছাত্র ক্লাবে যোগদান",
+    "ur": "اسٹوڈنٹ کلب میں شمولیت",
+    "zh-CN": "加入学生社团",
+    "ja": "学生サークルに入る"
   },
   "character": "fox",
   "scenario": "At the club fair, a member of the hiking club (AI) invites you to their table.",
@@ -39,7 +44,12 @@
     "vi": "Tại ngày hội câu lạc bộ, một thành viên của câu lạc bộ leo núi (AI) mời bạn ghé qua bàn của họ.",
     "id": "Di pameran klub, seorang anggota klub pendaki (AI) mengajakmu mampir ke mejanya.",
     "ms": "Di pameran kelab, seorang ahli kelab mendaki (AI) mengajak anda ke meja mereka.",
-    "ko": "동아리 박람회에서 등산 동아리 회원(AI)이 자기네 부스로 오라고 권합니다."
+    "ko": "동아리 박람회에서 등산 동아리 회원(AI)이 자기네 부스로 오라고 권합니다.",
+    "ru": "На ярмарке клубов участник клуба походов (AI) приглашает вас к своему столу.",
+    "bn": "ক্লাব মেলায় হাইকিং ক্লাবের একজন সদস্য (AI) আপনাকে তাদের টেবিলে আমন্ত্রণ জানান।",
+    "ur": "کلب میلے میں ہائیکنگ کلب کا ایک رکن (AI) آپ کو اپنی میز پر بلاتا ہے۔",
+    "zh-CN": "在社团招新会上，徒步社的一名成员（AI）邀请你到他们的摊位看看。",
+    "ja": "サークル勧誘フェアで、ハイキングサークルのメンバー（AI）があなたをブースに誘います。"
   },
   "mission": {
     "native": "Learn about the club and sign up for its next activity.",
@@ -60,7 +70,12 @@
       "vi": "Tìm hiểu về câu lạc bộ và đăng ký hoạt động tiếp theo.",
       "id": "Pelajari tentang klub itu dan daftar untuk kegiatan berikutnya.",
       "ms": "Ketahui tentang kelab itu dan daftar untuk aktiviti seterusnya.",
-      "ko": "동아리에 대해 알아보고 다음 활동에 신청하세요."
+      "ko": "동아리에 대해 알아보고 다음 활동에 신청하세요.",
+      "ru": "Узнайте о клубе и запишитесь на его следующее мероприятие.",
+      "bn": "ক্লাব সম্পর্কে জানুন এবং এর পরবর্তী কার্যক্রমে নাম লেখান।",
+      "ur": "کلب کے بارے میں جانیں اور اس کی اگلی سرگرمی کے لیے نام لکھوائیں۔",
+      "zh-CN": "了解社团情况，并报名参加下一次活动。",
+      "ja": "サークルについて知り、次の活動に申し込みましょう。"
     },
     "practice": "Infórmese sobre el club e inscríbase en su próxima actividad.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi câu lạc bộ hoạt động gì",
           "id": "Tanyakan apa saja kegiatan klubnya",
           "ms": "Tanya apa yang kelab itu lakukan",
-          "ko": "동아리에서 무엇을 하는지 물어보세요"
+          "ko": "동아리에서 무엇을 하는지 물어보세요",
+          "ru": "Спросите, чем занимается клуб",
+          "bn": "ক্লাবটি কী করে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کلب کیا کرتا ہے",
+          "zh-CN": "询问社团做什么",
+          "ja": "サークルの活動内容を聞く"
         },
         "practice": "Pregunte qué hace el club",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi các thành viên gặp nhau bao lâu một lần",
           "id": "Tanyakan seberapa sering anggotanya berkumpul",
           "ms": "Tanya berapa kerap ahli berjumpa",
-          "ko": "회원들이 얼마나 자주 모이는지 물어보세요"
+          "ko": "회원들이 얼마나 자주 모이는지 물어보세요",
+          "ru": "Спросите, как часто встречаются участники",
+          "bn": "সদস্যরা কত ঘন ঘন দেখা করেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ اراکین کتنی بار ملتے ہیں",
+          "zh-CN": "询问成员多久聚一次",
+          "ja": "メンバーがどのくらいの頻度で集まるか聞く"
         },
         "practice": "Pregunte con qué frecuencia se reúnen los miembros",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi có phí thành viên không",
           "id": "Tanyakan apakah ada iuran anggota",
           "ms": "Tanya sama ada ada yuran keahlian",
-          "ko": "회비가 있는지 물어보세요"
+          "ko": "회비가 있는지 물어보세요",
+          "ru": "Спросите, есть ли членский взнос",
+          "bn": "সদস্য ফি আছে কিনা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا رکنیت فیس ہے",
+          "zh-CN": "询问是否需要交会费",
+          "ja": "会費があるか聞く"
         },
         "practice": "Pregunte si hay que pagar una cuota",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Đăng ký sự kiện tiếp theo",
           "id": "Daftar untuk acara berikutnya",
           "ms": "Daftar untuk acara seterusnya",
-          "ko": "다음 행사에 신청하세요"
+          "ko": "다음 행사에 신청하세요",
+          "ru": "Запишитесь на следующее мероприятие",
+          "bn": "পরবর্তী ইভেন্টে নাম লেখান",
+          "ur": "اگلے ایونٹ کے لیے نام لکھوائیں",
+          "zh-CN": "报名参加下一次活动",
+          "ja": "次のイベントに申し込む"
         },
         "practice": "Inscríbase en la próxima actividad",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Chào bạn! Câu lạc bộ của bạn có những hoạt động gì vậy?",
         "id": "Hai! Klub kalian kegiatannya apa saja?",
         "ms": "Hai! Apa jenis aktiviti yang kelab awak buat?",
-        "ko": "안녕하세요! 동아리에서 어떤 활동을 해요?"
+        "ko": "안녕하세요! 동아리에서 어떤 활동을 해요?",
+        "ru": "Привет! Чем занимается ваш клуб?",
+        "bn": "হাই! তোমাদের ক্লাব কী ধরনের কার্যক্রম করে?",
+        "ur": "ہائے! آپ کا کلب کس قسم کی سرگرمیاں کرتا ہے؟",
+        "zh-CN": "你好！你们社团都有什么活动？",
+        "ja": "こんにちは！このサークルではどんな活動をしているんですか？"
       },
       "practice": "¡Hola! ¿Qué tipo de actividades hace su club?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Các bạn gặp nhau bao lâu một lần?",
         "id": "Seberapa sering kalian berkumpul?",
         "ms": "Berapa kerap kamu berjumpa?",
-        "ko": "얼마나 자주 모여요?"
+        "ko": "얼마나 자주 모여요?",
+        "ru": "Как часто вы встречаетесь?",
+        "bn": "তোমরা কত ঘন ঘন দেখা করো?",
+        "ur": "آپ لوگ کتنی بار ملتے ہیں؟",
+        "zh-CN": "你们多久聚一次？",
+        "ja": "どのくらいの頻度で集まるんですか？"
       },
       "practice": "¿Cada cuánto se reúnen?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Mình có phải đóng phí thành viên không?",
         "id": "Apakah saya perlu membayar iuran anggota?",
         "ms": "Adakah saya perlu bayar yuran keahlian?",
-        "ko": "회비를 내야 하나요?"
+        "ko": "회비를 내야 하나요?",
+        "ru": "Нужно ли платить членский взнос?",
+        "bn": "আমাকে কি সদস্য ফি দিতে হবে?",
+        "ur": "کیا مجھے رکنیت فیس دینی ہوگی؟",
+        "zh-CN": "我需要交会费吗？",
+        "ja": "会費は払う必要がありますか？"
       },
       "practice": "¿Tengo que pagar alguna cuota?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Mình chưa leo núi bao giờ. Vậy có sao không?",
         "id": "Saya belum pernah mendaki. Tidak apa-apa?",
         "ms": "Saya tak pernah mendaki sebelum ini. Tak apa ke?",
-        "ko": "등산을 한 번도 안 해 봤는데 괜찮아요?"
+        "ko": "등산을 한 번도 안 해 봤는데 괜찮아요?",
+        "ru": "Я никогда не ходил в походы. Это ничего?",
+        "bn": "আমি আগে কখনো হাইকিং করিনি। তাতে কি সমস্যা হবে?",
+        "ur": "میں نے پہلے کبھی ہائیکنگ نہیں کی۔ کیا یہ ٹھیک ہے؟",
+        "zh-CN": "我从没徒步过，没关系吗？",
+        "ja": "ハイキングは初めてなんですが、大丈夫ですか？"
       },
       "practice": "Nunca he hecho senderismo. ¿Hay algún problema?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Chuyến đi tới cho mình tham gia với nhé!",
         "id": "Ikutkan saya di perjalanan berikutnya!",
         "ms": "Kira saya sekali untuk trip seterusnya!",
-        "ko": "다음 산행에 저도 끼워 주세요!"
+        "ko": "다음 산행에 저도 끼워 주세요!",
+        "ru": "В следующий поход я с вами!",
+        "bn": "পরের ট্রিপে আমাকে রেখো!",
+        "ur": "اگلے ٹرپ میں مجھے بھی شامل سمجھیں!",
+        "zh-CN": "下次出行算我一个！",
+        "ja": "次の山行、私も参加します！"
       },
       "practice": "¡Cuenten conmigo para la próxima salida!",
       "practice_translations": {

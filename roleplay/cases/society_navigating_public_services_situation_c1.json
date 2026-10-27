@@ -18,7 +18,12 @@
     "vi": "Làm thẻ thư viện",
     "id": "Membuat Kartu Perpustakaan",
     "ms": "Membuat Kad Perpustakaan",
-    "ko": "도서관 카드 만들기"
+    "ko": "도서관 카드 만들기",
+    "ru": "Оформление читательского билета",
+    "bn": "লাইব্রেরি কার্ড করা",
+    "ur": "لائبریری کارڈ بنوانا",
+    "zh-CN": "办理借书证",
+    "ja": "図書館カードを作る"
   },
   "character": "fox",
   "scenario": "You want to borrow books from the public library. The librarian (AI) is waiting at the front desk.",
@@ -39,7 +44,12 @@
     "vi": "Bạn muốn mượn sách ở thư viện công cộng. Thủ thư (AI) đang chờ ở quầy lễ tân.",
     "id": "Kamu ingin meminjam buku dari perpustakaan umum. Pustakawan (AI) menunggu di meja depan.",
     "ms": "Anda ingin meminjam buku dari perpustakaan awam. Pustakawan (AI) sedang menunggu di kaunter hadapan.",
-    "ko": "공공 도서관에서 책을 빌리고 싶습니다. 사서(AI)가 안내 데스크에서 기다리고 있습니다."
+    "ko": "공공 도서관에서 책을 빌리고 싶습니다. 사서(AI)가 안내 데스크에서 기다리고 있습니다.",
+    "ru": "Вы хотите брать книги в публичной библиотеке. Библиотекарь (AI) ждёт у стойки.",
+    "bn": "আপনি পাবলিক লাইব্রেরি থেকে বই ধার নিতে চান। গ্রন্থাগারিক (AI) সামনের ডেস্কে অপেক্ষা করছেন।",
+    "ur": "آپ پبلک لائبریری سے کتابیں ادھار لینا چاہتے ہیں۔ لائبریرین (AI) سامنے کاؤنٹر پر انتظار کر رہا ہے۔",
+    "zh-CN": "你想在公共图书馆借书。图书管理员（AI）正在前台等候。",
+    "ja": "公立図書館で本を借りたいと思っています。司書（AI）が受付で待っています。"
   },
   "mission": {
     "native": "Ask for a library card and find out how borrowing works.",
@@ -60,7 +70,12 @@
       "vi": "Xin làm thẻ thư viện và tìm hiểu cách mượn sách.",
       "id": "Minta kartu perpustakaan dan cari tahu cara meminjam buku.",
       "ms": "Minta kad perpustakaan dan ketahui cara peminjaman berfungsi.",
-      "ko": "도서관 카드를 신청하고 대출 방법을 알아보세요."
+      "ko": "도서관 카드를 신청하고 대출 방법을 알아보세요.",
+      "ru": "Попросите читательский билет и узнайте, как брать книги.",
+      "bn": "একটি লাইব্রেরি কার্ড চান এবং বই ধার নেওয়ার নিয়ম জেনে নিন।",
+      "ur": "لائبریری کارڈ کی درخواست کریں اور معلوم کریں کہ کتابیں ادھار لینے کا طریقہ کیا ہے۔",
+      "zh-CN": "申请借书证，并了解借阅方式。",
+      "ja": "図書館カードを申し込み、本の借り方を確認しましょう。"
     },
     "practice": "Pida un carné de biblioteca y averigüe cómo funcionan los préstamos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói rằng bạn muốn làm thẻ thư viện",
           "id": "Katakan bahwa kamu ingin membuat kartu perpustakaan",
           "ms": "Katakan anda mahu kad perpustakaan",
-          "ko": "도서관 카드를 만들고 싶다고 말하세요"
+          "ko": "도서관 카드를 만들고 싶다고 말하세요",
+          "ru": "Скажите, что хотите получить читательский билет",
+          "bn": "বলুন যে আপনি একটি লাইব্রেরি কার্ড চান",
+          "ur": "کہیں کہ آپ لائبریری کارڈ بنوانا چاہتے ہیں",
+          "zh-CN": "说你想办一张借书证",
+          "ja": "図書館カードを作りたいと伝えましょう"
         },
         "practice": "Diga que quiere un carné de biblioteca",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi cần những giấy tờ gì",
           "id": "Tanyakan dokumen apa yang dibutuhkan",
           "ms": "Tanya dokumen apa yang anda perlukan",
-          "ko": "어떤 서류가 필요한지 물어보세요"
+          "ko": "어떤 서류가 필요한지 물어보세요",
+          "ru": "Спросите, какие нужны документы",
+          "bn": "জিজ্ঞেস করুন কী কী কাগজপত্র লাগবে",
+          "ur": "پوچھیں کہ کون سے کاغذات درکار ہیں",
+          "zh-CN": "询问需要哪些证件",
+          "ja": "必要な書類を尋ねる"
         },
         "practice": "Pregunte qué documentos necesita",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi được mượn bao nhiêu cuốn sách",
           "id": "Tanyakan berapa buku yang boleh dipinjam",
           "ms": "Tanya berapa banyak buku yang boleh dipinjam",
-          "ko": "책을 몇 권까지 빌릴 수 있는지 물어보세요"
+          "ko": "책을 몇 권까지 빌릴 수 있는지 물어보세요",
+          "ru": "Спросите, сколько книг можно взять",
+          "bn": "জিজ্ঞেস করুন কয়টি বই ধার নিতে পারবেন",
+          "ur": "پوچھیں کہ آپ کتنی کتابیں ادھار لے سکتے ہیں",
+          "zh-CN": "询问一次可以借几本书",
+          "ja": "何冊借りられるか尋ねましょう"
         },
         "practice": "Pregunte cuántos libros puede pedir prestados",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi muốn làm thẻ thư viện.",
         "id": "Halo, saya ingin membuat kartu perpustakaan.",
         "ms": "Hai, saya ingin membuat kad perpustakaan.",
-        "ko": "안녕하세요, 도서관 카드를 만들고 싶어요."
+        "ko": "안녕하세요, 도서관 카드를 만들고 싶어요.",
+        "ru": "Здравствуйте, я хотел бы получить читательский билет.",
+        "bn": "হ্যালো, আমি একটি লাইব্রেরি কার্ড করতে চাই।",
+        "ur": "السلام علیکم، میں لائبریری کارڈ بنوانا چاہتا ہوں۔",
+        "zh-CN": "你好，我想办一张借书证。",
+        "ja": "こんにちは、図書館カードを作りたいのですが。"
       },
       "practice": "Hola, me gustaría sacar un carné de biblioteca.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có cần giấy xác nhận địa chỉ không?",
         "id": "Apakah saya perlu bukti alamat?",
         "ms": "Adakah saya perlu bukti alamat?",
-        "ko": "주소 증명이 필요한가요?"
+        "ko": "주소 증명이 필요한가요?",
+        "ru": "Нужно ли подтверждение адреса?",
+        "bn": "ঠিকানার প্রমাণ কি লাগবে?",
+        "ur": "کیا مجھے پتے کا ثبوت چاہیے؟",
+        "zh-CN": "需要地址证明吗？",
+        "ja": "住所の証明書は必要ですか？"
       },
       "practice": "¿Necesito un comprobante de domicilio?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tôi được giữ sách trong bao lâu?",
         "id": "Berapa lama saya boleh meminjam bukunya?",
         "ms": "Berapa lama saya boleh simpan buku itu?",
-        "ko": "책은 얼마 동안 빌릴 수 있어요?"
+        "ko": "책은 얼마 동안 빌릴 수 있어요?",
+        "ru": "На какой срок можно брать книги?",
+        "bn": "বইগুলো কতদিন রাখতে পারব?",
+        "ur": "میں کتابیں کتنے عرصے تک رکھ سکتا ہوں؟",
+        "zh-CN": "书可以借多久？",
+        "ja": "本はどのくらいの期間借りられますか？"
       },
       "practice": "¿Por cuánto tiempo puedo tener los libros?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Có mất phí không?",
         "id": "Apakah ada biayanya?",
         "ms": "Adakah ada bayaran?",
-        "ko": "요금이 있나요?"
+        "ko": "요금이 있나요?",
+        "ru": "Это платно?",
+        "bn": "কোনো ফি আছে কি?",
+        "ur": "کیا کوئی فیس ہے؟",
+        "zh-CN": "要收费吗？",
+        "ja": "料金はかかりますか？"
       },
       "practice": "¿Tiene algún costo?",
       "practice_translations": {

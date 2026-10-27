@@ -18,7 +18,12 @@
     "vi": "Một đơn hàng trật lất",
     "id": "Pesanan yang Meleset",
     "ms": "Pesanan yang Tersasar",
-    "ko": "빗나간 주문"
+    "ko": "빗나간 주문",
+    "ru": "Заказ мимо цели",
+    "bn": "লক্ষ্যভ্রষ্ট একটি অর্ডার",
+    "ur": "نشانے سے چوکا ہوا آرڈر",
+    "zh-CN": "完全不对的订单",
+    "ja": "的外れの注文"
   },
   "character": "fox",
   "scenario": "Your pizza arrives, but it has every topping you asked them to leave out. The driver (AI) insists it is exactly what you ordered.",
@@ -39,7 +44,12 @@
     "vi": "Pizza của bạn đến nơi, nhưng lại có đủ mọi loại topping mà bạn đã dặn bỏ ra. Tài xế (AI) khăng khăng đó đúng là món bạn đã gọi.",
     "id": "Piza pesananmu datang, tapi isinya semua topping yang kamu minta dihilangkan. Kurir (AI) bersikeras itu persis yang kamu pesan.",
     "ms": "Piza anda sampai, tetapi ada semua topping yang anda minta dikeluarkan. Pemandu (AI) bertegas bahawa itulah betul-betul pesanan anda.",
-    "ko": "피자가 도착했는데, 빼 달라고 한 토핑이 전부 올라가 있어요. 배달 기사(AI)는 주문하신 그대로라고 우겨요."
+    "ko": "피자가 도착했는데, 빼 달라고 한 토핑이 전부 올라가 있어요. 배달 기사(AI)는 주문하신 그대로라고 우겨요.",
+    "ru": "Вам привезли пиццу, но на ней все начинки, которые вы просили не добавлять. Курьер (AI) настаивает, что это именно ваш заказ.",
+    "bn": "আপনার পিৎজা এসেছে, কিন্তু যে টপিংগুলো বাদ দিতে বলেছিলেন সবই তাতে আছে। ড্রাইভার (AI) জোর দিয়ে বলছেন এটাই ঠিক আপনার অর্ডার।",
+    "ur": "آپ کا پیزا آ گیا ہے، لیکن اس پر وہ سب ٹاپنگز ہیں جو آپ نے نکالنے کو کہی تھیں۔ ڈرائیور (AI) اصرار کرتا ہے کہ یہ بالکل وہی ہے جو آپ نے آرڈر کیا۔",
+    "zh-CN": "你的披萨送到了，可上面恰恰是你要求去掉的所有配料。外卖员（AI）却坚称这正是你点的。",
+    "ja": "ピザが届きましたが、抜いてほしいと頼んだトッピングが全部のっています。配達員（AI）は注文どおりだと言い張ります。"
   },
   "mission": {
     "native": "Politely prove the order is wrong and ask for a replacement.",
@@ -60,7 +70,12 @@
       "vi": "Lịch sự chứng minh đơn hàng bị sai và yêu cầu đổi món.",
       "id": "Buktikan dengan sopan bahwa pesanannya salah dan minta penggantinya.",
       "ms": "Buktikan dengan sopan bahawa pesanan itu salah dan minta gantian.",
-      "ko": "주문이 잘못됐다는 걸 정중하게 증명하고 교환을 요청하세요."
+      "ko": "주문이 잘못됐다는 걸 정중하게 증명하고 교환을 요청하세요.",
+      "ru": "Вежливо докажите, что заказ неверный, и попросите замену.",
+      "bn": "ভদ্রভাবে প্রমাণ করুন অর্ডারটি ভুল এবং বদলে দিতে বলুন।",
+      "ur": "شائستگی سے ثابت کریں کہ آرڈر غلط ہے اور متبادل مانگیں۔",
+      "zh-CN": "礼貌地证明订单有误，并要求更换。",
+      "ja": "注文が間違っていることを丁寧に示し、作り直しを頼みましょう。"
     },
     "practice": "Demuestre con cortesía que el pedido está mal y pida uno nuevo.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chỉ ra chỗ sai của chiếc pizza",
           "id": "Tunjukkan apa yang salah dengan pizanya",
           "ms": "Tunjukkan apa yang salah dengan piza itu",
-          "ko": "피자의 무엇이 잘못됐는지 말하세요"
+          "ko": "피자의 무엇이 잘못됐는지 말하세요",
+          "ru": "Укажите, что не так с пиццей",
+          "bn": "পিৎজায় কী ভুল আছে তা দেখিয়ে দিন",
+          "ur": "بتائیں کہ پیزا میں کیا غلط ہے",
+          "zh-CN": "指出披萨哪里不对",
+          "ja": "ピザのどこが違うか指摘する"
         },
         "practice": "Señale qué está mal en la pizza",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Cho xem nội dung đơn hàng của bạn",
           "id": "Tunjukkan isi pesananmu",
           "ms": "Tunjukkan apa yang tertulis dalam pesanan anda",
-          "ko": "주문 내역에 뭐라고 쓰여 있는지 보여 주세요"
+          "ko": "주문 내역에 뭐라고 쓰여 있는지 보여 주세요",
+          "ru": "Покажите, что было указано в заказе",
+          "bn": "আপনার অর্ডারে কী লেখা ছিল তা দেখান",
+          "ur": "دکھائیں کہ آپ کے آرڈر میں کیا لکھا تھا",
+          "zh-CN": "出示你的订单内容",
+          "ja": "注文内容を見せる"
         },
         "practice": "Muestre lo que decía su pedido",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Yêu cầu đổi món khác",
           "id": "Minta piza pengganti",
           "ms": "Minta gantian",
-          "ko": "교환해 달라고 요청하세요"
+          "ko": "교환해 달라고 요청하세요",
+          "ru": "Попросите замену",
+          "bn": "বদলে দিতে বলুন",
+          "ur": "متبادل مانگیں",
+          "zh-CN": "要求更换",
+          "ja": "交換を頼む"
         },
         "practice": "Pida un reemplazo",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Xin lỗi, hình như đơn hàng của tôi bị nhầm rồi.",
         "id": "Permisi, sepertinya ada kesalahan dengan pesanan saya.",
         "ms": "Maaf, saya rasa ada kesilapan dengan pesanan saya.",
-        "ko": "저기요, 제 주문에 착오가 있는 것 같아요."
+        "ko": "저기요, 제 주문에 착오가 있는 것 같아요.",
+        "ru": "Извините, кажется, с моим заказом произошла ошибка.",
+        "bn": "মাফ করবেন, মনে হচ্ছে আমার অর্ডারে একটা ভুল হয়েছে।",
+        "ur": "معاف کیجیے، لگتا ہے میرے آرڈر میں کوئی غلطی ہو گئی ہے۔",
+        "zh-CN": "不好意思，我的订单好像弄错了。",
+        "ja": "すみません、注文に間違いがあるようです。"
       },
       "practice": "Disculpe, creo que hay un error con mi pedido.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi gọi salad, chứ đâu phải tiệc đồ nướng.",
         "id": "Saya pesan salad, bukan pesta barbeku.",
         "ms": "Saya pesan salad, bukan hidangan barbeku.",
-        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요."
+        "ko": "저는 바비큐 세트가 아니라 샐러드를 주문했어요.",
+        "ru": "Я заказывал салат, а не пир с барбекю.",
+        "bn": "আমি সালাদ অর্ডার করেছিলাম, বারবিকিউ ভোজ নয়।",
+        "ur": "میں نے سلاد منگوایا تھا، باربی کیو کی دعوت نہیں۔",
+        "zh-CN": "我点的是沙拉，不是烧烤大餐。",
+        "ja": "頼んだのはサラダで、バーベキューのごちそうではありません。"
       },
       "practice": "Pedí una ensalada, no una fiesta de barbacoa.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Anh/chị kiểm tra giúp tôi tên trên hóa đơn được không?",
         "id": "Bisa tolong cek nama di struknya?",
         "ms": "Boleh tolong semak nama pada resit?",
-        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?"
+        "ko": "영수증에 있는 이름 좀 확인해 주시겠어요?",
+        "ru": "Не могли бы вы проверить имя на чеке?",
+        "bn": "দয়া করে রসিদে নামটা একটু দেখবেন?",
+        "ur": "کیا آپ براہ کرم رسید پر نام چیک کر سکتے ہیں؟",
+        "zh-CN": "麻烦您核对一下收据上的名字好吗？",
+        "ja": "レシートの名前を確認していただけますか？"
       },
       "practice": "¿Podría revisar el nombre en el recibo, por favor?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Có lẽ có một người khác trùng tên với tôi.",
         "id": "Mungkin ada orang lain dengan nama yang sama.",
         "ms": "Mungkin ada orang lain dengan nama yang sama.",
-        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?"
+        "ko": "혹시 같은 이름을 가진 사람이 또 있는 것 아닐까요?",
+        "ru": "Может быть, есть другой человек с таким же именем.",
+        "bn": "হয়তো একই নামের আরেকজন আছেন।",
+        "ur": "شاید اسی نام کا کوئی اور شخص ہو۔",
+        "zh-CN": "也许有另一个同名的人。",
+        "ja": "もしかしたら同じ名前の人がいるのかもしれません。"
       },
       "practice": "Quizás hay otra persona con el mismo nombre.",
       "practice_translations": {

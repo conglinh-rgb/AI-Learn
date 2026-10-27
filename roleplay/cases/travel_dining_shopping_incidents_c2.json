@@ -18,7 +18,12 @@
     "vi": "Mặc cả ở chợ đường phố",
     "id": "Menawar di Pasar Jalanan",
     "ms": "Tawar-menawar di Pasar Jalanan",
-    "ko": "길거리 시장에서 흥정하기"
+    "ko": "길거리 시장에서 흥정하기",
+    "ru": "Торг на уличном рынке",
+    "bn": "রাস্তার বাজারে দরদাম",
+    "ur": "بازار میں مول تول",
+    "zh-CN": "在街头市场讨价还价",
+    "ja": "露店市場で値切る"
   },
   "character": "fox",
   "scenario": "At a busy street market you find a handmade bag you love. The vendor (AI) quotes you a high price.",
@@ -39,7 +44,12 @@
     "vi": "Tại một khu chợ đường phố đông đúc, bạn thấy một chiếc túi thủ công rất ưng ý. Người bán (AI) báo cho bạn một giá cao.",
     "id": "Di pasar jalanan yang ramai, kamu menemukan tas buatan tangan yang kamu suka. Penjualnya (AI) menyebut harga yang tinggi.",
     "ms": "Di sebuah pasar jalanan yang sibuk, anda menjumpai beg buatan tangan yang anda suka. Penjual (AI) meletakkan harga yang tinggi.",
-    "ko": "북적이는 길거리 시장에서 마음에 쏙 드는 수제 가방을 발견했습니다. 상인(AI)이 비싼 가격을 부릅니다."
+    "ko": "북적이는 길거리 시장에서 마음에 쏙 드는 수제 가방을 발견했습니다. 상인(AI)이 비싼 가격을 부릅니다.",
+    "ru": "На оживлённом уличном рынке вы находите сумку ручной работы, которая вам очень нравится. Продавец (AI) называет высокую цену.",
+    "bn": "এক ব্যস্ত রাস্তার বাজারে আপনি একটি হাতে তৈরি ব্যাগ পেলেন যা আপনার খুব পছন্দ। বিক্রেতা (AI) আপনাকে একটি বেশি দাম বলছেন।",
+    "ur": "ایک مصروف بازار میں آپ کو ایک ہاتھ سے بنا بیگ ملتا ہے جو آپ کو بہت پسند ہے۔ دکاندار (AI) آپ کو زیادہ قیمت بتاتا ہے۔",
+    "zh-CN": "在熙熙攘攘的街头市场，你看中了一个手工包。摊主（AI）给你开了个高价。",
+    "ja": "にぎやかな露店市場で、とても気に入った手作りのバッグを見つけました。店主（AI）は高い値段を言ってきます。"
   },
   "mission": {
     "native": "Ask about the bag, bargain for a better price and make the purchase.",
@@ -60,7 +70,12 @@
       "vi": "Hỏi về chiếc túi, mặc cả để được giá tốt hơn và mua hàng.",
       "id": "Tanyakan tentang tasnya, tawar harga yang lebih baik, dan beli tasnya.",
       "ms": "Tanya tentang beg itu, tawar harga yang lebih baik dan buat pembelian.",
-      "ko": "가방에 대해 물어보고, 더 싼 가격으로 흥정해서 구입하세요."
+      "ko": "가방에 대해 물어보고, 더 싼 가격으로 흥정해서 구입하세요.",
+      "ru": "Спросите о сумке, поторгуйтесь, чтобы снизить цену, и сделайте покупку.",
+      "bn": "ব্যাগটি সম্পর্কে জিজ্ঞেস করুন, ভালো দামের জন্য দরদাম করুন এবং কিনে ফেলুন।",
+      "ur": "بیگ کے بارے میں پوچھیں، بہتر قیمت کے لیے مول تول کریں اور خریداری کریں۔",
+      "zh-CN": "询问这个包的情况，讨价还价争取更优惠的价格，然后完成购买。",
+      "ja": "バッグについて尋ね、値引き交渉をして購入しましょう。"
     },
     "practice": "Pregunte por el bolso, regatee un mejor precio y haga la compra.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi chiếc túi giá bao nhiêu",
           "id": "Tanyakan harga tasnya",
           "ms": "Tanya berapa harga beg itu",
-          "ko": "가방이 얼마인지 물어보세요"
+          "ko": "가방이 얼마인지 물어보세요",
+          "ru": "Спросите, сколько стоит сумка",
+          "bn": "ব্যাগটির দাম কত জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ بیگ کتنے کا ہے",
+          "zh-CN": "询问这个包多少钱",
+          "ja": "バッグの値段を尋ねる"
         },
         "practice": "Pregunte cuánto cuesta el bolso",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Trả một mức giá thấp hơn",
           "id": "Tawarkan harga yang lebih rendah",
           "ms": "Tawarkan harga yang lebih rendah",
-          "ko": "더 낮은 가격을 제시하세요"
+          "ko": "더 낮은 가격을 제시하세요",
+          "ru": "Предложите более низкую цену",
+          "bn": "কম দাম প্রস্তাব করুন",
+          "ur": "کم قیمت کی پیشکش کریں",
+          "zh-CN": "提出更低的价格",
+          "ja": "もっと安い値段を提示する"
         },
         "practice": "Ofrezca un precio más bajo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Đồng ý hoặc đưa ra giá cuối cùng",
           "id": "Terima harganya atau beri tawaran terakhir",
           "ms": "Terima atau buat tawaran akhir",
-          "ko": "가격을 받아들이거나 마지막 가격을 제시하세요"
+          "ko": "가격을 받아들이거나 마지막 가격을 제시하세요",
+          "ru": "Согласитесь или сделайте последнее предложение",
+          "bn": "রাজি হন বা শেষ দাম প্রস্তাব করুন",
+          "ur": "مان جائیں یا آخری پیشکش کریں",
+          "zh-CN": "接受或给出最终报价",
+          "ja": "承諾するか、最終的な値段を提示する"
         },
         "practice": "Acepte o haga una última oferta",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi có nhận thanh toán bằng thẻ không",
           "id": "Tanyakan apakah bisa bayar pakai kartu",
           "ms": "Tanya sama ada mereka terima kad",
-          "ko": "카드 결제가 되는지 물어보세요"
+          "ko": "카드 결제가 되는지 물어보세요",
+          "ru": "Спросите, принимают ли карты",
+          "bn": "কার্ড নেওয়া হয় কিনা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا وہ کارڈ لیتے ہیں",
+          "zh-CN": "询问是否可以刷卡",
+          "ja": "カードが使えるか尋ねる"
         },
         "practice": "Pregunte si aceptan tarjeta",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Chiếc túi này bao nhiêu tiền vậy?",
         "id": "Tas ini harganya berapa?",
         "ms": "Berapa harga beg ini?",
-        "ko": "이 가방 얼마예요?"
+        "ko": "이 가방 얼마예요?",
+        "ru": "Сколько стоит эта сумка?",
+        "bn": "এই ব্যাগটার দাম কত?",
+        "ur": "یہ بیگ کتنے کا ہے؟",
+        "zh-CN": "这个包多少钱？",
+        "ja": "このバッグはいくらですか？"
       },
       "practice": "¿Cuánto cuesta este bolso?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Giá này hơi đắt với tôi.",
         "id": "Itu agak mahal untuk saya.",
         "ms": "Mahal sikit untuk saya.",
-        "ko": "저한테는 좀 비싸네요."
+        "ko": "저한테는 좀 비싸네요.",
+        "ru": "Для меня это немного дороговато.",
+        "bn": "আমার জন্য একটু বেশি দামি।",
+        "ur": "یہ میرے لیے تھوڑا مہنگا ہے۔",
+        "zh-CN": "这对我来说有点贵。",
+        "ja": "私にはちょっと高いですね。"
       },
       "practice": "Es un poco caro para mí.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Hai mươi được không?",
         "id": "Boleh dua puluh saja?",
         "ms": "Boleh dua puluh?",
-        "ko": "20에 주시면 안 될까요?"
+        "ko": "20에 주시면 안 될까요?",
+        "ru": "Отдадите за двадцать?",
+        "bn": "বিশে দেবেন?",
+        "ur": "کیا بیس میں دے دیں گے؟",
+        "zh-CN": "二十卖不卖？",
+        "ja": "20でどうですか？"
       },
       "practice": "¿Me lo deja en veinte?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Được rồi, chốt nhé!",
         "id": "Oke, sepakat!",
         "ms": "Okey, jadi!",
-        "ko": "좋아요, 그렇게 해요!"
+        "ko": "좋아요, 그렇게 해요!",
+        "ru": "Хорошо, договорились!",
+        "bn": "ঠিক আছে, ডিল!",
+        "ur": "ٹھیک ہے، سودا پکا!",
+        "zh-CN": "好，成交！",
+        "ja": "わかりました、それで決まり！"
       },
       "practice": "¡Está bien, trato hecho!",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Tôi trả bằng thẻ được không?",
         "id": "Bisa bayar pakai kartu?",
         "ms": "Boleh saya bayar guna kad?",
-        "ko": "카드로 계산해도 돼요?"
+        "ko": "카드로 계산해도 돼요?",
+        "ru": "Можно оплатить картой?",
+        "bn": "কার্ডে দিতে পারি?",
+        "ur": "کیا میں کارڈ سے ادائیگی کر سکتا ہوں؟",
+        "zh-CN": "可以刷卡吗？",
+        "ja": "カードで払えますか？"
       },
       "practice": "¿Puedo pagar con tarjeta?",
       "practice_translations": {

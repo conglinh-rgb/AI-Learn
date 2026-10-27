@@ -18,7 +18,12 @@
     "vi": "Đặt chuyến đi chơi cuối tuần",
     "id": "Memesan Liburan Akhir Pekan",
     "ms": "Menempah Percutian Hujung Minggu",
-    "ko": "주말여행 예약하기"
+    "ko": "주말여행 예약하기",
+    "ru": "Бронирование поездки на выходные",
+    "bn": "সপ্তাহান্তের ভ্রমণ বুক করা",
+    "ur": "ویک اینڈ ٹرپ کی بکنگ",
+    "zh-CN": "预订周末短途游",
+    "ja": "週末旅行の予約"
   },
   "character": "fox",
   "scenario": "You call a travel agency to plan a short weekend trip. The travel agent (AI) answers the phone.",
@@ -39,7 +44,12 @@
     "vi": "Bạn gọi đến một công ty du lịch để lên kế hoạch cho chuyến đi ngắn cuối tuần. Nhân viên tư vấn du lịch (AI) nghe máy.",
     "id": "Kamu menelepon agen perjalanan untuk merencanakan liburan singkat akhir pekan. Agen perjalanan (AI) mengangkat telepon.",
     "ms": "Anda menelefon agensi pelancongan untuk merancang perjalanan hujung minggu yang singkat. Ejen pelancongan (AI) menjawab telefon.",
-    "ko": "짧은 주말여행을 계획하려고 여행사에 전화합니다. 여행사 직원(AI)이 전화를 받습니다."
+    "ko": "짧은 주말여행을 계획하려고 여행사에 전화합니다. 여행사 직원(AI)이 전화를 받습니다.",
+    "ru": "Вы звоните в турагентство, чтобы спланировать короткую поездку на выходные. Турагент (AI) отвечает на звонок.",
+    "bn": "সপ্তাহান্তের একটি ছোট ভ্রমণের পরিকল্পনা করতে আপনি একটি ট্রাভেল এজেন্সিতে ফোন করেন। ট্রাভেল এজেন্ট (AI) ফোন ধরেন।",
+    "ur": "آپ ویک اینڈ کے ایک مختصر سفر کی منصوبہ بندی کے لیے ٹریول ایجنسی کو فون کرتے ہیں۔ ٹریول ایجنٹ (AI) فون اٹھاتا ہے۔",
+    "zh-CN": "你打电话给一家旅行社，计划一次周末短途旅行。旅行顾问（AI）接起了电话。",
+    "ja": "週末の小旅行を計画するため、旅行会社に電話します。旅行代理店のスタッフ（AI）が電話に出ます。"
   },
   "mission": {
     "native": "Tell the agent where and when you want to go, and ask about the price.",
@@ -60,7 +70,12 @@
       "vi": "Cho nhân viên biết bạn muốn đi đâu, khi nào và hỏi giá.",
       "id": "Beri tahu agen ke mana dan kapan kamu ingin pergi, lalu tanyakan harganya.",
       "ms": "Beritahu ejen ke mana dan bila anda mahu pergi, dan tanya tentang harga.",
-      "ko": "어디로, 언제 가고 싶은지 직원에게 말하고 가격을 물어보세요."
+      "ko": "어디로, 언제 가고 싶은지 직원에게 말하고 가격을 물어보세요.",
+      "ru": "Скажите агенту, куда и когда вы хотите поехать, и спросите о цене.",
+      "bn": "এজেন্টকে বলুন আপনি কোথায় ও কখন যেতে চান, এবং দাম জিজ্ঞেস করুন।",
+      "ur": "ایجنٹ کو بتائیں کہ آپ کہاں اور کب جانا چاہتے ہیں، اور قیمت کے بارے میں پوچھیں۔",
+      "zh-CN": "告诉旅行顾问你想去哪里、什么时候去，并询问价格。",
+      "ja": "行き先と日程を伝え、料金について尋ねましょう。"
     },
     "practice": "Dígale al agente adónde y cuándo quiere ir, y pregunte por el precio.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói nơi bạn muốn đến",
           "id": "Sebutkan ke mana kamu ingin bepergian",
           "ms": "Katakan ke mana anda mahu melancong",
-          "ko": "가고 싶은 여행지를 말하세요"
+          "ko": "가고 싶은 여행지를 말하세요",
+          "ru": "Скажите, куда вы хотите поехать",
+          "bn": "আপনি কোথায় যেতে চান বলুন",
+          "ur": "بتائیں کہ آپ کہاں سفر کرنا چاہتے ہیں",
+          "zh-CN": "说出你想去的地方",
+          "ja": "行きたい場所を伝える"
         },
         "practice": "Diga adónde quiere viajar",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói ngày đi của bạn",
           "id": "Sebutkan tanggal perjalananmu",
           "ms": "Beritahu tarikh perjalanan anda",
-          "ko": "여행 날짜를 말하세요"
+          "ko": "여행 날짜를 말하세요",
+          "ru": "Назовите даты поездки",
+          "bn": "আপনার ভ্রমণের তারিখ বলুন",
+          "ur": "اپنے سفر کی تاریخیں بتائیں",
+          "zh-CN": "说出你的出行日期",
+          "ja": "旅行の日程を伝える"
         },
         "practice": "Diga las fechas de su viaje",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi chuyến đi giá bao nhiêu",
           "id": "Tanyakan biaya perjalanannya",
           "ms": "Tanya berapa kos perjalanan itu",
-          "ko": "여행 비용이 얼마인지 물어보세요"
+          "ko": "여행 비용이 얼마인지 물어보세요",
+          "ru": "Спросите, сколько стоит поездка",
+          "bn": "ভ্রমণের খরচ কত জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ سفر کتنے کا ہے",
+          "zh-CN": "询问旅行费用是多少",
+          "ja": "旅行の料金を尋ねましょう"
         },
         "practice": "Pregunte cuánto cuesta el viaje",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Tôi muốn đặt một chuyến đi biển.",
         "id": "Saya ingin memesan perjalanan ke pantai.",
         "ms": "Saya ingin menempah perjalanan ke pantai.",
-        "ko": "바닷가로 가는 여행을 예약하고 싶어요."
+        "ko": "바닷가로 가는 여행을 예약하고 싶어요.",
+        "ru": "Я хотел бы забронировать поездку на побережье.",
+        "bn": "আমি সমুদ্র উপকূলে একটি ভ্রমণ বুক করতে চাই।",
+        "ur": "میں ساحل کا ایک سفر بُک کرنا چاہوں گا۔",
+        "zh-CN": "我想预订一次去海边的旅行。",
+        "ja": "海辺への旅行を予約したいのですが。"
       },
       "practice": "Quisiera reservar un viaje a la costa.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Chúng tôi muốn đi vào thứ Sáu và về vào Chủ nhật.",
         "id": "Kami ingin berangkat hari Jumat dan pulang hari Minggu.",
         "ms": "Kami mahu bertolak pada hari Jumaat dan pulang pada hari Ahad.",
-        "ko": "금요일에 출발해서 일요일에 돌아오고 싶어요."
+        "ko": "금요일에 출발해서 일요일에 돌아오고 싶어요.",
+        "ru": "Мы хотим уехать в пятницу и вернуться в воскресенье.",
+        "bn": "আমরা শুক্রবার যেতে এবং রবিবার ফিরে আসতে চাই।",
+        "ur": "ہم جمعہ کو جانا اور اتوار کو واپس آنا چاہتے ہیں۔",
+        "zh-CN": "我们想周五出发，周日回来。",
+        "ja": "金曜日に出発して日曜日に戻りたいです。"
       },
       "practice": "Queremos salir el viernes y volver el domingo.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tổng cộng hết bao nhiêu tiền ạ?",
         "id": "Totalnya jadi berapa?",
         "ms": "Berapa jumlah keseluruhannya?",
-        "ko": "전부 해서 얼마예요?"
+        "ko": "전부 해서 얼마예요?",
+        "ru": "Сколько это будет стоить в целом?",
+        "bn": "সব মিলিয়ে কত হবে?",
+        "ur": "کل ملا کر کتنا ہوگا؟",
+        "zh-CN": "总共多少钱？",
+        "ja": "合計でいくらになりますか？"
       },
       "practice": "¿Cuánto sería en total?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Có bao gồm khách sạn không?",
         "id": "Apakah sudah termasuk hotel?",
         "ms": "Adakah hotel disertakan?",
-        "ko": "호텔도 포함되어 있나요?"
+        "ko": "호텔도 포함되어 있나요?",
+        "ru": "Отель включён?",
+        "bn": "হোটেল কি অন্তর্ভুক্ত?",
+        "ur": "کیا ہوٹل شامل ہے؟",
+        "zh-CN": "包含酒店吗？",
+        "ja": "ホテルは含まれていますか？"
       },
       "practice": "¿El hotel está incluido?",
       "practice_translations": {

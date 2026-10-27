@@ -18,7 +18,12 @@
     "vi": "Những luật bất thành văn ở văn phòng",
     "id": "Aturan Tak Tertulis di Kantor",
     "ms": "Peraturan Pejabat yang Tidak Tertulis",
-    "ko": "사무실의 불문율"
+    "ko": "사무실의 불문율",
+    "ru": "Неписаные правила офиса",
+    "bn": "অফিসের অলিখিত নিয়ম",
+    "ur": "دفتر کے غیر تحریری اصول",
+    "zh-CN": "办公室潜规则",
+    "ja": "職場の暗黙のルール"
   },
   "character": "fox",
   "scenario": "It's your first week at a new job. You ask your supervisor (AI) about how things usually work in the office.",
@@ -39,7 +44,12 @@
     "vi": "Đây là tuần đầu tiên của bạn ở công việc mới. Bạn hỏi cấp trên (AI) về cách mọi thứ thường vận hành ở văn phòng.",
     "id": "Ini minggu pertamamu di pekerjaan baru. Kamu bertanya kepada atasanmu (AI) tentang cara kerja yang biasa di kantor.",
     "ms": "Ini minggu pertama anda di tempat kerja baharu. Anda bertanya kepada penyelia anda (AI) tentang cara biasa urusan di pejabat.",
-    "ko": "새 직장에서의 첫 주예요. 상사(AI)에게 사무실에서 보통 일이 어떻게 돌아가는지 물어봅니다."
+    "ko": "새 직장에서의 첫 주예요. 상사(AI)에게 사무실에서 보통 일이 어떻게 돌아가는지 물어봅니다.",
+    "ru": "Это ваша первая неделя на новой работе. Вы спрашиваете своего руководителя (AI), как обычно всё устроено в офисе.",
+    "bn": "নতুন চাকরিতে এটা আপনার প্রথম সপ্তাহ। অফিসে সাধারণত কীভাবে সবকিছু চলে, তা আপনি আপনার সুপারভাইজারকে (AI) জিজ্ঞেস করছেন।",
+    "ur": "نئی نوکری میں یہ آپ کا پہلا ہفتہ ہے۔ آپ اپنے سپروائزر (AI) سے پوچھتے ہیں کہ دفتر میں عام طور پر کام کیسے چلتا ہے۔",
+    "zh-CN": "这是你新工作的第一周。你向主管（AI）询问办公室里通常是怎么运作的。",
+    "ja": "新しい職場での最初の週です。オフィスでの普段の仕事の流れについて、上司（AI）に質問します。"
   },
   "mission": {
     "native": "Ask your supervisor about breaks, dress code and taking days off.",
@@ -60,7 +70,12 @@
       "vi": "Hỏi cấp trên về giờ nghỉ, quy định trang phục và việc xin nghỉ phép.",
       "id": "Tanyakan kepada atasanmu soal jam istirahat, aturan berpakaian, dan cara mengambil cuti.",
       "ms": "Tanya penyelia anda tentang waktu rehat, kod pakaian dan cara mengambil cuti.",
-      "ko": "상사에게 휴식 시간, 복장 규정, 휴가 내는 방법에 대해 물어보세요."
+      "ko": "상사에게 휴식 시간, 복장 규정, 휴가 내는 방법에 대해 물어보세요.",
+      "ru": "Спросите руководителя о перерывах, дресс-коде и выходных днях.",
+      "bn": "বিরতি, পোশাকবিধি ও ছুটি নেওয়া সম্পর্কে সুপারভাইজারকে জিজ্ঞেস করুন।",
+      "ur": "اپنے سپروائزر سے وقفوں، لباس کے ضابطے اور چھٹی لینے کے بارے میں پوچھیں۔",
+      "zh-CN": "向主管询问休息时间、着装要求和请假事宜。",
+      "ja": "休憩、服装規定、休暇の取り方について上司に聞きましょう。"
     },
     "practice": "Pregunte a su supervisor sobre los descansos, la vestimenta y cómo pedir días libres.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi giờ nghỉ trưa kéo dài bao lâu",
           "id": "Tanyakan berapa lama istirahat makan siang",
           "ms": "Tanya berapa lama waktu rehat makan tengah hari",
-          "ko": "점심시간이 얼마나 되는지 물어보세요"
+          "ko": "점심시간이 얼마나 되는지 물어보세요",
+          "ru": "Спросите, сколько длится обеденный перерыв",
+          "bn": "দুপুরের খাবারের বিরতি কতক্ষণ, তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ دوپہر کے کھانے کا وقفہ کتنا لمبا ہے",
+          "zh-CN": "询问午休时间有多长",
+          "ja": "昼休みの長さを聞く"
         },
         "practice": "Pregunte cuánto dura la hora del almuerzo",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi mọi người thường mặc gì đi làm",
           "id": "Tanyakan apa yang biasa dipakai orang ke kantor",
           "ms": "Tanya apa yang biasa dipakai ke tempat kerja",
-          "ko": "사람들이 보통 무엇을 입고 출근하는지 물어보세요"
+          "ko": "사람들이 보통 무엇을 입고 출근하는지 물어보세요",
+          "ru": "Спросите, в чём обычно ходят на работу",
+          "bn": "লোকজন সাধারণত কাজে কী পরে আসে, তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ لوگ عام طور پر کام پر کیا پہنتے ہیں",
+          "zh-CN": "询问大家上班通常穿什么",
+          "ja": "普段どんな服装で出勤するか聞く"
         },
         "practice": "Pregunte qué ropa suele usar la gente en el trabajo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi cách xin nghỉ một ngày",
           "id": "Tanyakan cara mengajukan cuti",
           "ms": "Tanya cara memohon cuti sehari",
-          "ko": "하루 휴가를 어떻게 신청하는지 물어보세요"
+          "ko": "하루 휴가를 어떻게 신청하는지 물어보세요",
+          "ru": "Спросите, как взять выходной",
+          "bn": "কীভাবে একদিনের ছুটির আবেদন করতে হয়, তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ ایک دن کی چھٹی کیسے لی جاتی ہے",
+          "zh-CN": "询问如何请一天假",
+          "ja": "休暇の申請方法を聞く"
         },
         "practice": "Pregunte cómo pedir un día libre",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Mình được nghỉ trưa bao lâu ạ?",
         "id": "Berapa lama waktu istirahat makan siang kita?",
         "ms": "Berapa lama kita ada untuk makan tengah hari?",
-        "ko": "점심시간은 얼마나 되나요?"
+        "ko": "점심시간은 얼마나 되나요?",
+        "ru": "Сколько у нас времени на обед?",
+        "bn": "দুপুরের খাবারের জন্য আমরা কতক্ষণ সময় পাই?",
+        "ur": "ہمارے پاس دوپہر کے کھانے کے لیے کتنا وقت ہوتا ہے؟",
+        "zh-CN": "我们午休有多长时间？",
+        "ja": "お昼休みはどのくらいありますか？"
       },
       "practice": "¿Cuánto tiempo tenemos para almorzar?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Thứ Sáu mặc quần jeans có được không ạ?",
         "id": "Apakah boleh pakai jeans di hari Jumat?",
         "ms": "Boleh pakai seluar jean pada hari Jumaat?",
-        "ko": "금요일에는 청바지를 입어도 괜찮나요?"
+        "ko": "금요일에는 청바지를 입어도 괜찮나요?",
+        "ru": "По пятницам можно ходить в джинсах?",
+        "bn": "শুক্রবারে জিন্স পরা কি ঠিক আছে?",
+        "ur": "کیا جمعہ کو جینز پہننا ٹھیک ہے؟",
+        "zh-CN": "周五可以穿牛仔裤吗？",
+        "ja": "金曜日はジーンズでも大丈夫ですか？"
       },
       "practice": "¿Está bien usar jeans los viernes?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Nếu cần nghỉ một ngày thì tôi nên báo với ai ạ?",
         "id": "Kalau saya perlu cuti, saya harus bicara dengan siapa?",
         "ms": "Dengan siapa saya perlu berbincang jika saya mahu ambil cuti sehari?",
-        "ko": "하루 쉬어야 하면 누구한테 말해야 하나요?"
+        "ko": "하루 쉬어야 하면 누구한테 말해야 하나요?",
+        "ru": "К кому обратиться, если мне нужен выходной?",
+        "bn": "ছুটির দরকার হলে আমি কার সঙ্গে কথা বলব?",
+        "ur": "اگر مجھے چھٹی چاہیے تو مجھے کس سے بات کرنی چاہیے؟",
+        "zh-CN": "如果我需要请一天假，应该找谁？",
+        "ja": "休みが必要なときは誰に相談すればいいですか？"
       },
       "practice": "¿Con quién debo hablar si necesito un día libre?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Cảm ơn anh/chị, biết vậy thật sự rất hữu ích.",
         "id": "Terima kasih, itu sangat membantu.",
         "ms": "Terima kasih, maklumat itu sangat membantu.",
-        "ko": "감사해요, 알아 두면 정말 도움이 되겠어요."
+        "ko": "감사해요, 알아 두면 정말 도움이 되겠어요.",
+        "ru": "Спасибо, это очень полезно знать.",
+        "bn": "ধন্যবাদ, এটা জানা সত্যিই খুব কাজের।",
+        "ur": "شکریہ، یہ جاننا واقعی بہت مفید ہے۔",
+        "zh-CN": "谢谢，知道这些真的很有帮助。",
+        "ja": "ありがとうございます、とても参考になります。"
       },
       "practice": "Gracias, es muy útil saberlo.",
       "practice_translations": {

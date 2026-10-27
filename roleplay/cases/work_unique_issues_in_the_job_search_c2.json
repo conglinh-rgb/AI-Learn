@@ -18,7 +18,12 @@
     "vi": "Giải thích khoảng trống trong sự nghiệp",
     "id": "Menjelaskan Jeda Karier",
     "ms": "Menerangkan Jurang Kerjaya",
-    "ko": "경력 공백 설명하기"
+    "ko": "경력 공백 설명하기",
+    "ru": "Объясняем перерыв в карьере",
+    "bn": "ক্যারিয়ারের বিরতি ব্যাখ্যা করা",
+    "ur": "کیریئر کے وقفے کی وضاحت",
+    "zh-CN": "解释职业空白期",
+    "ja": "ブランクの説明"
   },
   "character": "fox",
   "scenario": "The interviewer (AI) notices a one-year gap in your resume and asks what you were doing during that time.",
@@ -39,7 +44,12 @@
     "vi": "Người phỏng vấn (AI) để ý thấy CV của bạn có một khoảng trống một năm và hỏi bạn đã làm gì trong thời gian đó.",
     "id": "Pewawancara (AI) melihat ada jeda satu tahun di CV-mu dan bertanya apa yang kamu lakukan selama itu.",
     "ms": "Penemu duga (AI) perasan jurang setahun dalam resume anda dan bertanya apa yang anda lakukan dalam tempoh itu.",
-    "ko": "면접관(AI)이 이력서에서 1년의 공백을 발견하고 그동안 무엇을 했는지 물어봅니다."
+    "ko": "면접관(AI)이 이력서에서 1년의 공백을 발견하고 그동안 무엇을 했는지 물어봅니다.",
+    "ru": "Интервьюер (AI) замечает в вашем резюме перерыв в один год и спрашивает, чем вы занимались в это время.",
+    "bn": "ইন্টারভিউয়ার (AI) আপনার রিজিউমেতে এক বছরের বিরতি লক্ষ্য করেন এবং জিজ্ঞাসা করেন ওই সময়ে আপনি কী করছিলেন।",
+    "ur": "انٹرویو لینے والا (AI) آپ کے ریزیومے میں ایک سال کا وقفہ دیکھتا ہے اور پوچھتا ہے کہ اس دوران آپ کیا کر رہے تھے۔",
+    "zh-CN": "面试官（AI）注意到你的简历中有一年的空白期，问你那段时间在做什么。",
+    "ja": "面接官（AI）があなたの履歴書に1年間のブランクがあることに気づき、その間何をしていたか尋ねます。"
   },
   "mission": {
     "native": "Explain your career gap briefly and show that you are ready to work again.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích ngắn gọn về khoảng trống sự nghiệp và cho thấy bạn đã sẵn sàng đi làm lại.",
       "id": "Jelaskan jeda kariermu secara singkat dan tunjukkan bahwa kamu siap bekerja lagi.",
       "ms": "Terangkan jurang kerjaya anda secara ringkas dan tunjukkan bahawa anda bersedia untuk bekerja semula.",
-      "ko": "경력 공백을 간단히 설명하고 다시 일할 준비가 되었다는 것을 보여 주세요."
+      "ko": "경력 공백을 간단히 설명하고 다시 일할 준비가 되었다는 것을 보여 주세요.",
+      "ru": "Кратко объясните перерыв в карьере и покажите, что готовы снова работать.",
+      "bn": "আপনার ক্যারিয়ারের বিরতি সংক্ষেপে ব্যাখ্যা করুন এবং দেখান যে আপনি আবার কাজ করতে প্রস্তুত।",
+      "ur": "اپنے کیریئر کے وقفے کی مختصر وضاحت کریں اور دکھائیں کہ آپ دوبارہ کام کے لیے تیار ہیں۔",
+      "zh-CN": "简要解释你的职业空白期，并表明你已准备好重新工作。",
+      "ja": "ブランクについて簡潔に説明し、再び働く準備ができていることを示しましょう。"
     },
     "practice": "Explique brevemente la pausa en su carrera y muestre que ya puede volver a trabajar.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giải thích ngắn gọn vì sao bạn tạm nghỉ",
           "id": "Jelaskan singkat kenapa kamu rehat",
           "ms": "Terangkan secara ringkas mengapa anda berehat daripada kerja",
-          "ko": "일을 쉬었던 이유를 간단히 설명하세요"
+          "ko": "일을 쉬었던 이유를 간단히 설명하세요",
+          "ru": "Кратко объясните, почему вы взяли перерыв",
+          "bn": "কেন বিরতি নিয়েছিলেন তা সংক্ষেপে ব্যাখ্যা করুন",
+          "ur": "مختصراً بتائیں کہ آپ نے وقفہ کیوں لیا",
+          "zh-CN": "简要说明你为什么休息了一段时间",
+          "ja": "休んだ理由を簡潔に説明しましょう"
         },
         "practice": "Explique brevemente por qué se tomó un tiempo libre",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nhắc đến một việc bạn đã làm trong thời gian đó",
           "id": "Sebutkan sesuatu yang kamu lakukan selama itu",
           "ms": "Sebut sesuatu yang anda lakukan dalam tempoh itu",
-          "ko": "그 기간에 한 일을 하나 말하세요"
+          "ko": "그 기간에 한 일을 하나 말하세요",
+          "ru": "Расскажите о том, чем вы занимались в это время",
+          "bn": "ওই সময়ে আপনি করেছেন এমন কিছু উল্লেখ করুন",
+          "ur": "اس دوران کیے گئے کسی کام کا ذکر کریں",
+          "zh-CN": "提一件你在那段时间做过的事",
+          "ja": "その間にしたことを一つ挙げましょう"
         },
         "practice": "Mencione algo que hizo durante ese tiempo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói vì sao bạn đã sẵn sàng quay lại",
           "id": "Katakan kenapa kamu siap kembali bekerja",
           "ms": "Nyatakan mengapa anda bersedia untuk kembali",
-          "ko": "다시 일할 준비가 된 이유를 말하세요"
+          "ko": "다시 일할 준비가 된 이유를 말하세요",
+          "ru": "Скажите, почему вы готовы вернуться",
+          "bn": "কেন আপনি ফিরে আসতে প্রস্তুত তা বলুন",
+          "ur": "بتائیں کہ آپ واپسی کے لیے کیوں تیار ہیں",
+          "zh-CN": "说明你为什么已准备好回归",
+          "ja": "復帰の準備ができている理由を伝えましょう"
         },
         "practice": "Diga por qué ya puede volver al trabajo",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Tôi đã nghỉ một năm để chăm sóc người nhà.",
         "id": "Saya rehat setahun untuk merawat anggota keluarga.",
         "ms": "Saya berehat setahun untuk menjaga ahli keluarga.",
-        "ko": "가족을 돌보느라 1년 동안 일을 쉬었어요."
+        "ko": "가족을 돌보느라 1년 동안 일을 쉬었어요.",
+        "ru": "Я взял год перерыва, чтобы ухаживать за родственником.",
+        "bn": "পরিবারের একজন সদস্যের যত্ন নিতে আমি এক বছর বিরতি নিয়েছিলাম।",
+        "ur": "میں نے خاندان کے ایک فرد کی دیکھ بھال کے لیے ایک سال کی چھٹی لی تھی۔",
+        "zh-CN": "我休息了一年，照顾一位家人。",
+        "ja": "家族の介護のために1年間休職しました。"
       },
       "practice": "Me tomé un año para cuidar a un familiar.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Trong thời gian đó, tôi cũng học một khóa kế toán trực tuyến.",
         "id": "Selama itu, saya juga mengikuti kursus akuntansi online.",
         "ms": "Dalam tempoh itu, saya juga mengikuti kursus perakaunan dalam talian.",
-        "ko": "그동안 온라인으로 회계 강좌도 들었어요."
+        "ko": "그동안 온라인으로 회계 강좌도 들었어요.",
+        "ru": "В это время я также прошёл онлайн-курс по бухгалтерскому учёту.",
+        "bn": "ওই সময়ে আমি অ্যাকাউন্টিংয়ের একটি অনলাইন কোর্সও করেছিলাম।",
+        "ur": "اس دوران میں نے اکاؤنٹنگ کا ایک آن لائن کورس بھی کیا۔",
+        "zh-CN": "在那段时间里，我还上了一门会计网课。",
+        "ja": "その間、会計のオンライン講座も受講しました。"
       },
       "practice": "Durante ese tiempo, también hice un curso en línea de contabilidad.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Chuyện đó giờ đã ổn rồi, và tôi sẵn sàng tập trung cho sự nghiệp.",
         "id": "Situasi itu sekarang sudah selesai, dan saya siap fokus pada karier saya.",
         "ms": "Keadaan itu sudah selesai sekarang, dan saya bersedia untuk fokus pada kerjaya saya.",
-        "ko": "그 일은 이제 해결됐고, 제 경력에 집중할 준비가 됐어요."
+        "ko": "그 일은 이제 해결됐고, 제 경력에 집중할 준비가 됐어요.",
+        "ru": "Сейчас эта ситуация решена, и я готов сосредоточиться на карьере.",
+        "bn": "সেই পরিস্থিতি এখন মিটে গেছে, এবং আমি আমার ক্যারিয়ারে মনোযোগ দিতে প্রস্তুত।",
+        "ur": "وہ صورتحال اب حل ہو چکی ہے، اور میں اپنے کیریئر پر توجہ دینے کے لیے تیار ہوں۔",
+        "zh-CN": "那件事现在已经解决了，我准备好专注于我的职业了。",
+        "ja": "その状況は今は解決しており、キャリアに集中する準備ができています。"
       },
       "practice": "Esa situación ya está resuelta y estoy listo para concentrarme en mi carrera.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Tôi nghĩ trải nghiệm đó giúp tôi ngăn nắp hơn.",
         "id": "Menurut saya pengalaman itu membuat saya lebih teratur.",
         "ms": "Saya rasa pengalaman itu menjadikan saya lebih teratur.",
-        "ko": "그 경험 덕분에 더 체계적인 사람이 된 것 같아요."
+        "ko": "그 경험 덕분에 더 체계적인 사람이 된 것 같아요.",
+        "ru": "Думаю, этот опыт сделал меня более организованным.",
+        "bn": "আমার মনে হয় সেই অভিজ্ঞতা আমাকে আরও গোছানো করে তুলেছে।",
+        "ur": "میرے خیال میں اس تجربے نے مجھے زیادہ منظم بنا دیا۔",
+        "zh-CN": "我觉得那段经历让我变得更有条理了。",
+        "ja": "その経験で、より計画的に動けるようになったと思います。"
       },
       "practice": "Creo que esa experiencia me hizo más organizado.",
       "practice_translations": {

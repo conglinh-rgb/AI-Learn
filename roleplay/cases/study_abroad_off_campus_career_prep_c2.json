@@ -18,7 +18,12 @@
     "vi": "Ghé trung tâm hướng nghiệp",
     "id": "Berkunjung ke Pusat Karier",
     "ms": "Lawatan ke Pusat Kerjaya",
-    "ko": "취업 지원 센터 방문"
+    "ko": "취업 지원 센터 방문",
+    "ru": "Визит в центр карьеры",
+    "bn": "ক্যারিয়ার সেন্টারে যাওয়া",
+    "ur": "کیریئر سینٹر کا دورہ",
+    "zh-CN": "走访就业指导中心",
+    "ja": "キャリアセンターを訪問"
   },
   "character": "fox",
   "scenario": "You are looking for an internship. A career advisor (AI) at the campus career center has your CV in hand.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang tìm chỗ thực tập. Một chuyên viên tư vấn hướng nghiệp (AI) ở trung tâm hướng nghiệp của trường đang cầm CV của bạn.",
     "id": "Kamu sedang mencari magang. Seorang konselor karier (AI) di pusat karier kampus sedang memegang CV-mu.",
     "ms": "Anda sedang mencari latihan industri. Seorang penasihat kerjaya (AI) di pusat kerjaya kampus sedang memegang CV anda.",
-    "ko": "인턴십을 찾고 있습니다. 캠퍼스 취업 지원 센터의 진로 상담사(AI)가 당신의 이력서를 들고 있습니다."
+    "ko": "인턴십을 찾고 있습니다. 캠퍼스 취업 지원 센터의 진로 상담사(AI)가 당신의 이력서를 들고 있습니다.",
+    "ru": "Вы ищете стажировку. У карьерного консультанта (AI) в центре карьеры кампуса в руках ваше резюме.",
+    "bn": "আপনি একটি ইন্টার্নশিপ খুঁজছেন। ক্যাম্পাসের ক্যারিয়ার সেন্টারের একজন ক্যারিয়ার উপদেষ্টার (AI) হাতে আপনার সিভি।",
+    "ur": "آپ انٹرن شپ تلاش کر رہے ہیں۔ کیمپس کیریئر سینٹر کے ایک کیریئر ایڈوائزر (AI) کے ہاتھ میں آپ کا سی وی ہے۔",
+    "zh-CN": "你正在找实习。校园就业指导中心的一位职业顾问（AI）手里拿着你的简历。",
+    "ja": "あなたはインターンシップを探しています。キャンパスのキャリアセンターのキャリアアドバイザー（AI）があなたの履歴書を手にしています。"
   },
   "mission": {
     "native": "Get feedback on your CV and advice on how to find an internship.",
@@ -60,7 +70,12 @@
       "vi": "Nhận góp ý về CV và lời khuyên về cách tìm chỗ thực tập.",
       "id": "Minta masukan untuk CV-mu dan saran cara mencari magang.",
       "ms": "Dapatkan maklum balas tentang CV anda dan nasihat untuk mencari latihan industri.",
-      "ko": "이력서에 대한 피드백과 인턴십을 찾는 방법에 대한 조언을 받으세요."
+      "ko": "이력서에 대한 피드백과 인턴십을 찾는 방법에 대한 조언을 받으세요.",
+      "ru": "Получите отзыв о своём резюме и советы о том, как найти стажировку.",
+      "bn": "আপনার সিভি নিয়ে মতামত এবং ইন্টার্নশিপ খোঁজার পরামর্শ নিন।",
+      "ur": "اپنے سی وی پر رائے اور انٹرن شپ تلاش کرنے کے بارے میں مشورہ حاصل کریں۔",
+      "zh-CN": "获取关于简历的反馈以及寻找实习的建议。",
+      "ja": "履歴書へのフィードバックと、インターンシップの探し方についてアドバイスをもらいましょう。"
     },
     "practice": "Obtenga comentarios sobre su currículum y consejos para encontrar una pasantía.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói bạn muốn thực tập ở lĩnh vực nào",
           "id": "Sebutkan magang seperti apa yang kamu inginkan",
           "ms": "Katakan jenis latihan industri yang anda mahu",
-          "ko": "원하는 인턴십 분야를 말하세요"
+          "ko": "원하는 인턴십 분야를 말하세요",
+          "ru": "Скажите, какую стажировку вы ищете",
+          "bn": "আপনি কী ধরনের ইন্টার্নশিপ চান তা বলুন",
+          "ur": "بتائیں کہ آپ کس قسم کی انٹرن شپ چاہتے ہیں",
+          "zh-CN": "说明你想要什么样的实习",
+          "ja": "希望するインターンシップの種類を伝えましょう"
         },
         "practice": "Diga qué tipo de pasantía busca",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Xin góp ý về CV của bạn",
           "id": "Minta masukan untuk CV-mu",
           "ms": "Minta maklum balas tentang CV anda",
-          "ko": "이력서에 대한 피드백을 요청하세요"
+          "ko": "이력서에 대한 피드백을 요청하세요",
+          "ru": "Попросите отзыв о своём резюме",
+          "bn": "আপনার সিভি নিয়ে মতামত চান",
+          "ur": "اپنے سی وی پر رائے مانگیں",
+          "zh-CN": "请对方对你的简历提出意见",
+          "ja": "履歴書へのフィードバックを求めましょう"
         },
         "practice": "Pida comentarios sobre su currículum",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi cách chuẩn bị cho phỏng vấn",
           "id": "Tanyakan cara mempersiapkan wawancara",
           "ms": "Tanya cara bersedia untuk temu duga",
-          "ko": "면접 준비 방법을 물어보세요"
+          "ko": "면접 준비 방법을 물어보세요",
+          "ru": "Спросите, как подготовиться к собеседованиям",
+          "bn": "ইন্টারভিউয়ের জন্য কীভাবে প্রস্তুতি নেবেন তা জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ انٹرویوز کی تیاری کیسے کریں",
+          "zh-CN": "询问如何准备面试",
+          "ja": "面接の準備の仕方を尋ねましょう"
         },
         "practice": "Pregunte cómo prepararse para las entrevistas",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Đặt lịch hẹn tiếp theo",
           "id": "Buat janji temu lanjutan",
           "ms": "Tempah temu janji susulan",
-          "ko": "다음 상담 예약을 잡으세요"
+          "ko": "다음 상담 예약을 잡으세요",
+          "ru": "Запишитесь на повторную встречу",
+          "bn": "পরবর্তী অ্যাপয়েন্টমেন্ট বুক করুন",
+          "ur": "اگلی ملاقات کا وقت طے کریں",
+          "zh-CN": "预约下一次面谈",
+          "ja": "次回の予約を取りましょう"
         },
         "practice": "Agende una cita de seguimiento",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tôi đang tìm chỗ thực tập mùa hè về marketing.",
         "id": "Saya sedang mencari magang musim panas di bidang pemasaran.",
         "ms": "Saya sedang mencari latihan industri musim panas dalam bidang pemasaran.",
-        "ko": "마케팅 분야 여름 인턴십을 찾고 있어요."
+        "ko": "마케팅 분야 여름 인턴십을 찾고 있어요.",
+        "ru": "Я ищу летнюю стажировку в маркетинге.",
+        "bn": "আমি মার্কেটিংয়ে একটি গ্রীষ্মকালীন ইন্টার্নশিপ খুঁজছি।",
+        "ur": "میں مارکیٹنگ میں گرمیوں کی انٹرن شپ تلاش کر رہا ہوں۔",
+        "zh-CN": "我在找一份市场营销方面的暑期实习。",
+        "ja": "マーケティングの夏季インターンシップを探しています。"
       },
       "practice": "Busco una pasantía de verano en marketing.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Anh/chị xem giúp tôi CV được không?",
         "id": "Bisa tolong lihat CV saya?",
         "ms": "Boleh tolong tengok CV saya?",
-        "ko": "제 이력서 좀 봐 주실 수 있을까요?"
+        "ko": "제 이력서 좀 봐 주실 수 있을까요?",
+        "ru": "Не могли бы вы посмотреть моё резюме?",
+        "bn": "আপনি কি আমার সিভিটা একটু দেখে দিতে পারবেন?",
+        "ur": "کیا آپ میرا سی وی دیکھ سکتے ہیں؟",
+        "zh-CN": "您能帮我看看我的简历吗？",
+        "ja": "私の履歴書を見ていただけますか？"
       },
       "practice": "¿Podría revisar mi currículum?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Tôi có nên thêm hoặc bỏ bớt gì không?",
         "id": "Apakah ada yang perlu saya tambahkan atau hapus?",
         "ms": "Ada apa-apa yang patut saya tambah atau buang?",
-        "ko": "더 넣거나 빼야 할 부분이 있을까요?"
+        "ko": "더 넣거나 빼야 할 부분이 있을까요?",
+        "ru": "Мне стоит что-нибудь добавить или убрать?",
+        "bn": "আমার কি কিছু যোগ বা বাদ দেওয়া উচিত?",
+        "ur": "کیا مجھے کچھ شامل کرنا یا ہٹانا چاہیے؟",
+        "zh-CN": "有什么我应该添加或删除的吗？",
+        "ja": "追加したり削ったりしたほうがいいところはありますか？"
       },
       "practice": "¿Hay algo que deba agregar o quitar?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Làm sao để chuẩn bị phỏng vấn bằng ngoại ngữ?",
         "id": "Bagaimana saya bisa bersiap untuk wawancara dalam bahasa kedua?",
         "ms": "Bagaimana saya boleh bersedia untuk temu duga dalam bahasa kedua?",
-        "ko": "외국어로 보는 면접은 어떻게 준비하면 될까요?"
+        "ko": "외국어로 보는 면접은 어떻게 준비하면 될까요?",
+        "ru": "Как мне подготовиться к собеседованиям на иностранном языке?",
+        "bn": "দ্বিতীয় ভাষায় ইন্টারভিউয়ের জন্য কীভাবে প্রস্তুতি নিতে পারি?",
+        "ur": "میں دوسری زبان میں انٹرویوز کی تیاری کیسے کر سکتا ہوں؟",
+        "zh-CN": "我该如何准备用外语进行的面试？",
+        "ja": "外国語での面接にはどう準備すればいいですか？"
       },
       "practice": "¿Cómo puedo prepararme para entrevistas en otro idioma?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Tuần sau tôi quay lại để anh/chị xem phần đã sửa được không?",
         "id": "Boleh saya kembali minggu depan untuk memeriksa perubahannya?",
         "ms": "Boleh saya datang lagi minggu depan untuk semak perubahan saya?",
-        "ko": "다음 주에 수정한 걸 확인받으러 다시 와도 될까요?"
+        "ko": "다음 주에 수정한 걸 확인받으러 다시 와도 될까요?",
+        "ru": "Можно я приду на следующей неделе, чтобы проверить мои исправления?",
+        "bn": "আমার পরিবর্তনগুলো দেখাতে আমি কি আগামী সপ্তাহে আবার আসতে পারি?",
+        "ur": "کیا میں اگلے ہفتے اپنی تبدیلیاں چیک کروانے کے لیے دوبارہ آ سکتا ہوں؟",
+        "zh-CN": "我下周能再来一趟，请您看看我修改的内容吗？",
+        "ja": "来週、修正した部分を確認しにまた来てもいいですか？"
       },
       "practice": "¿Puedo volver la próxima semana para revisar los cambios?",
       "practice_translations": {

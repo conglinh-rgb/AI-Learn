@@ -18,7 +18,12 @@
     "vi": "Đề xuất dự án chung",
     "id": "Mengusulkan Proyek Bersama",
     "ms": "Mencadangkan Projek Bersama",
-    "ko": "공동 프로젝트 제안하기"
+    "ko": "공동 프로젝트 제안하기",
+    "ru": "Предложение совместного проекта",
+    "bn": "যৌথ প্রকল্পের প্রস্তাব",
+    "ur": "مشترکہ منصوبے کی تجویز",
+    "zh-CN": "提议合作项目",
+    "ja": "共同プロジェクトを提案する"
   },
   "character": "fox",
   "scenario": "You call a researcher (AI) you met at a workshop last month. Their work is close to yours.",
@@ -39,7 +44,12 @@
     "vi": "Bạn gọi cho một nhà nghiên cứu (AI) mà bạn đã gặp tại một hội thảo tháng trước. Lĩnh vực của họ rất gần với bạn.",
     "id": "Kamu menelepon seorang peneliti (AI) yang kamu temui di sebuah lokakarya bulan lalu. Bidang kerjanya dekat dengan bidangmu.",
     "ms": "Anda menelefon seorang penyelidik (AI) yang anda jumpa di sebuah bengkel bulan lepas. Kerja mereka hampir sama dengan kerja anda.",
-    "ko": "지난달 워크숍에서 만난 연구자(AI)에게 전화해요. 그 사람의 연구가 당신의 연구와 비슷해요."
+    "ko": "지난달 워크숍에서 만난 연구자(AI)에게 전화해요. 그 사람의 연구가 당신의 연구와 비슷해요.",
+    "ru": "Вы звоните исследователю (AI), с которым познакомились на семинаре в прошлом месяце. Его работа близка к вашей.",
+    "bn": "আপনি গত মাসে একটি ওয়ার্কশপে পরিচয় হওয়া একজন গবেষককে (AI) ফোন করছেন। তাঁর কাজ আপনার কাজের কাছাকাছি।",
+    "ur": "آپ ایک محقق (AI) کو کال کرتے ہیں جن سے آپ پچھلے مہینے ایک ورکشاپ میں ملے تھے۔ ان کا کام آپ کے کام سے ملتا جلتا ہے۔",
+    "zh-CN": "你给上个月在研讨会上认识的一位研究者（AI）打电话。对方的研究与你的很接近。",
+    "ja": "先月のワークショップで知り合った研究者（AI）に電話します。相手の研究はあなたの研究と近い分野です。"
   },
   "mission": {
     "native": "Propose working on a paper together and plan a first step.",
@@ -60,7 +70,12 @@
       "vi": "Đề xuất cùng viết một bài báo và lên kế hoạch cho bước đầu tiên.",
       "id": "Usulkan untuk menulis makalah bersama dan rencanakan langkah pertama.",
       "ms": "Cadangkan untuk menulis kertas kerja bersama dan rancang langkah pertama.",
-      "ko": "함께 논문을 쓰자고 제안하고 첫 단계를 계획하세요."
+      "ko": "함께 논문을 쓰자고 제안하고 첫 단계를 계획하세요.",
+      "ru": "Предложите вместе написать статью и спланируйте первый шаг.",
+      "bn": "একসাথে একটি গবেষণাপত্র লেখার প্রস্তাব দিন এবং প্রথম পদক্ষেপ পরিকল্পনা করুন।",
+      "ur": "مل کر ایک مقالہ لکھنے کی تجویز دیں اور پہلا قدم طے کریں۔",
+      "zh-CN": "提议合写一篇论文，并计划第一步。",
+      "ja": "共同で論文を書くことを提案し、最初のステップを計画しましょう。"
     },
     "practice": "Proponga escribir un artículo juntos y planee un primer paso.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nhắc nhà nghiên cứu nhớ lại nơi hai người gặp nhau",
           "id": "Ingatkan peneliti itu di mana kalian bertemu",
           "ms": "Ingatkan penyelidik itu di mana anda berjumpa",
-          "ko": "어디서 만났는지 상기시켜 드리세요"
+          "ko": "어디서 만났는지 상기시켜 드리세요",
+          "ru": "Напомните, где вы познакомились",
+          "bn": "গবেষককে মনে করিয়ে দিন কোথায় আপনাদের দেখা হয়েছিল",
+          "ur": "محقق کو یاد دلائیں کہ آپ کہاں ملے تھے",
+          "zh-CN": "提醒对方你们在哪里认识的",
+          "ja": "どこで会ったかを思い出してもらう"
         },
         "practice": "Recuérdele al investigador dónde se conocieron",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Đề xuất cùng viết một bài báo",
           "id": "Usulkan untuk menulis makalah bersama",
           "ms": "Cadangkan untuk menulis kertas kerja bersama",
-          "ko": "함께 논문을 쓰자고 제안하세요"
+          "ko": "함께 논문을 쓰자고 제안하세요",
+          "ru": "Предложите вместе написать статью",
+          "bn": "একসাথে একটি গবেষণাপত্র লেখার প্রস্তাব দিন",
+          "ur": "مل کر مقالہ لکھنے کی تجویز دیں",
+          "zh-CN": "提议合写一篇论文",
+          "ja": "共同で論文を書くことを提案する"
         },
         "practice": "Proponga escribir un artículo juntos",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Giải thích mỗi người sẽ đóng góp phần gì",
           "id": "Jelaskan kontribusi masing-masing",
           "ms": "Terangkan sumbangan setiap seorang daripada anda",
-          "ko": "각자 무엇을 맡을지 설명하세요"
+          "ko": "각자 무엇을 맡을지 설명하세요",
+          "ru": "Объясните, что внесёт каждый из вас",
+          "bn": "ব্যাখ্যা করুন আপনারা প্রত্যেকে কী অবদান রাখবেন",
+          "ur": "وضاحت کریں کہ ہر ایک کیا حصہ ڈالے گا",
+          "zh-CN": "说明双方各自负责的部分",
+          "ja": "それぞれが何を担当するか説明する"
         },
         "practice": "Explique qué aportaría cada uno",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Đề nghị một cuộc gọi video đầu tiên",
           "id": "Usulkan panggilan video pertama",
           "ms": "Cadangkan panggilan video pertama",
-          "ko": "첫 화상 통화를 제안하세요"
+          "ko": "첫 화상 통화를 제안하세요",
+          "ru": "Предложите первый видеозвонок",
+          "bn": "প্রথম ভিডিও কলের প্রস্তাব দিন",
+          "ur": "پہلی ویڈیو کال کی تجویز دیں",
+          "zh-CN": "提议第一次视频通话",
+          "ja": "最初のビデオ通話を提案する"
         },
         "practice": "Proponga una primera videollamada",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Mình đã gặp nhau ở hội thảo tháng trước, anh/chị còn nhớ không?",
         "id": "Kita bertemu di lokakarya bulan lalu, ingat?",
         "ms": "Kita berjumpa di bengkel bulan lepas, ingat tak?",
-        "ko": "지난달 워크숍에서 만났었는데, 기억하세요?"
+        "ko": "지난달 워크숍에서 만났었는데, 기억하세요?",
+        "ru": "Мы познакомились на семинаре в прошлом месяце, помните?",
+        "bn": "গত মাসে ওয়ার্কশপে আমাদের দেখা হয়েছিল, মনে আছে?",
+        "ur": "ہم پچھلے مہینے ورکشاپ میں ملے تھے، یاد ہے؟",
+        "zh-CN": "我们上个月在研讨会上见过，还记得吗？",
+        "ja": "先月のワークショップでお会いしましたよね、覚えていますか？"
       },
       "practice": "Nos conocimos en el taller el mes pasado, ¿se acuerda?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Tôi nghĩ dự án của chúng ta thực sự có thể bổ trợ cho nhau.",
         "id": "Menurut saya proyek kita bisa saling melengkapi.",
         "ms": "Saya rasa projek kita benar-benar boleh saling melengkapi.",
-        "ko": "우리 프로젝트가 서로 정말 잘 보완될 것 같아요."
+        "ko": "우리 프로젝트가 서로 정말 잘 보완될 것 같아요.",
+        "ru": "Думаю, наши проекты могли бы отлично дополнить друг друга.",
+        "bn": "আমার মনে হয় আমাদের প্রকল্পগুলো সত্যিই একে অপরের পরিপূরক হতে পারে।",
+        "ur": "میرے خیال میں ہمارے منصوبے واقعی ایک دوسرے کی تکمیل کر سکتے ہیں۔",
+        "zh-CN": "我觉得我们的项目真的可以互补。",
+        "ja": "私たちのプロジェクトはお互いをうまく補い合えると思います。"
       },
       "practice": "Creo que nuestros proyectos podrían complementarse muy bien.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Anh/chị có muốn cùng viết một bài báo không?",
         "id": "Apakah Anda tertarik menulis makalah bersama?",
         "ms": "Anda berminat untuk menulis kertas kerja bersama?",
-        "ko": "함께 논문을 써 보실 생각 있으세요?"
+        "ko": "함께 논문을 써 보실 생각 있으세요?",
+        "ru": "Вам было бы интересно написать статью вместе?",
+        "bn": "আপনি কি একসাথে একটি গবেষণাপত্র লিখতে আগ্রহী হবেন?",
+        "ur": "کیا آپ مل کر مقالہ لکھنے میں دلچسپی رکھیں گے؟",
+        "zh-CN": "您有兴趣一起写一篇论文吗？",
+        "ja": "一緒に論文を書くことに興味はありますか？"
       },
       "practice": "¿Le interesaría escribir un artículo juntos?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi có thể lo phần dữ liệu, còn anh/chị phụ trách phần lý thuyết.",
         "id": "Saya bisa mengurus datanya, dan Anda bisa memimpin bagian teorinya.",
         "ms": "Saya boleh uruskan data, dan anda boleh mengetuai bahagian teori.",
-        "ko": "제가 데이터를 맡고, 이론은 선생님이 이끌어 주시면 돼요."
+        "ko": "제가 데이터를 맡고, 이론은 선생님이 이끌어 주시면 돼요.",
+        "ru": "Я мог бы заняться данными, а вы — теорией.",
+        "bn": "আমি ডেটার দিকটা সামলাতে পারি, আর আপনি তত্ত্বের দিকটা নেতৃত্ব দিতে পারেন।",
+        "ur": "میں ڈیٹا سنبھال سکتا ہوں، اور آپ نظریاتی حصے کی قیادت کر سکتے ہیں۔",
+        "zh-CN": "我可以负责数据，您来主导理论部分。",
+        "ja": "私がデータを担当し、あなたが理論を主導するのはどうでしょう。"
       },
       "practice": "Yo podría encargarme de los datos y usted de la parte teórica.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Tuần sau anh/chị có rảnh để gọi video không?",
         "id": "Apakah Anda ada waktu untuk panggilan video minggu depan?",
         "ms": "Anda lapang untuk panggilan video minggu depan?",
-        "ko": "다음 주에 화상 통화 가능하세요?"
+        "ko": "다음 주에 화상 통화 가능하세요?",
+        "ru": "Вы свободны для видеозвонка на следующей неделе?",
+        "bn": "আগামী সপ্তাহে কি ভিডিও কলের জন্য আপনার সময় হবে?",
+        "ur": "کیا آپ اگلے ہفتے ویڈیو کال کے لیے فارغ ہیں؟",
+        "zh-CN": "您下周有空视频通话吗？",
+        "ja": "来週、ビデオ通話のお時間はありますか？"
       },
       "practice": "¿Tiene tiempo para una videollamada la próxima semana?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Hỏi lại khi mãi không có tin",
     "id": "Menindaklanjuti Setelah Tak Ada Kabar",
     "ms": "Susulan Selepas Senyap",
-    "ko": "연락이 없을 때 확인하기"
+    "ko": "연락이 없을 때 확인하기",
+    "ru": "Напоминание после молчания",
+    "bn": "সাড়া না পেয়ে খোঁজ নেওয়া",
+    "ur": "خاموشی کے بعد رابطہ",
+    "zh-CN": "久无音讯后的跟进",
+    "ja": "連絡がないときのフォローアップ"
   },
   "character": "fox",
   "scenario": "You had an interview two weeks ago and never heard back. You call the recruiter (AI) to follow up.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đã phỏng vấn hai tuần trước mà vẫn chưa nhận được phản hồi. Bạn gọi cho nhà tuyển dụng (AI) để hỏi lại.",
     "id": "Kamu wawancara dua minggu lalu dan belum pernah mendapat kabar. Kamu menelepon perekrut (AI) untuk menindaklanjutinya.",
     "ms": "Anda menghadiri temu duga dua minggu lalu dan tidak menerima sebarang maklum balas. Anda menelefon perekrut (AI) untuk membuat susulan.",
-    "ko": "2주 전에 면접을 봤는데 아직 연락이 없어요. 채용 담당자(AI)에게 전화해서 확인합니다."
+    "ko": "2주 전에 면접을 봤는데 아직 연락이 없어요. 채용 담당자(AI)에게 전화해서 확인합니다.",
+    "ru": "Две недели назад у вас было собеседование, но ответа так и не было. Вы звоните рекрутеру (AI), чтобы узнать новости.",
+    "bn": "দুই সপ্তাহ আগে আপনার ইন্টারভিউ হয়েছিল, কিন্তু কোনো সাড়া পাননি। খোঁজ নিতে আপনি রিক্রুটারকে (AI) ফোন করছেন।",
+    "ur": "دو ہفتے پہلے آپ کا انٹرویو ہوا تھا اور کوئی جواب نہیں آیا۔ آپ معلومات کے لیے ریکروٹر (AI) کو فون کرتے ہیں۔",
+    "zh-CN": "你两周前参加了面试，却一直没有回音。你打电话给招聘人员（AI）跟进。",
+    "ja": "2週間前に面接を受けましたが、まだ連絡がありません。採用担当者（AI）に電話して確認します。"
   },
   "mission": {
     "native": "Politely remind the recruiter who you are and ask about the status of your application.",
@@ -60,7 +70,12 @@
       "vi": "Lịch sự nhắc nhà tuyển dụng bạn là ai và hỏi về tình trạng hồ sơ ứng tuyển.",
       "id": "Ingatkan perekrut dengan sopan siapa dirimu dan tanyakan status lamaranmu.",
       "ms": "Ingatkan perekrut dengan sopan siapa anda dan tanya status permohonan anda.",
-      "ko": "채용 담당자에게 정중하게 자신을 다시 소개하고 지원 결과가 어떻게 되었는지 물어보세요."
+      "ko": "채용 담당자에게 정중하게 자신을 다시 소개하고 지원 결과가 어떻게 되었는지 물어보세요.",
+      "ru": "Вежливо напомните рекрутеру, кто вы, и спросите о статусе вашей заявки.",
+      "bn": "বিনয়ের সঙ্গে রিক্রুটারকে মনে করিয়ে দিন আপনি কে, এবং আপনার আবেদনের অবস্থা জিজ্ঞেস করুন।",
+      "ur": "شائستگی سے ریکروٹر کو یاد دلائیں کہ آپ کون ہیں اور اپنی درخواست کی صورتحال کے بارے میں پوچھیں۔",
+      "zh-CN": "礼貌地提醒招聘人员你是谁，并询问申请的进展。",
+      "ja": "自分が誰かを丁寧に伝え、応募の状況を尋ねましょう。"
     },
     "practice": "Recuérdele con cortesía al reclutador quién es usted y pregunte por el estado de su solicitud.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói tên bạn và vị trí bạn đã ứng tuyển",
           "id": "Sebutkan namamu dan posisi yang kamu lamar",
           "ms": "Nyatakan nama anda dan jawatan yang anda mohon",
-          "ko": "이름과 지원한 직무를 말하세요"
+          "ko": "이름과 지원한 직무를 말하세요",
+          "ru": "Назовите своё имя и должность, на которую вы подавали заявку",
+          "bn": "আপনার নাম এবং যে পদে আবেদন করেছেন তা বলুন",
+          "ur": "اپنا نام اور وہ عہدہ بتائیں جس کے لیے آپ نے درخواست دی تھی",
+          "zh-CN": "说出你的名字和你申请的职位",
+          "ja": "自分の名前と応募した職種を伝えましょう"
         },
         "practice": "Diga su nombre y el puesto al que se postuló",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nhắc thời điểm bạn phỏng vấn",
           "id": "Sebutkan kapan kamu diwawancarai",
           "ms": "Sebut bila anda ditemu duga",
-          "ko": "언제 면접을 봤는지 말하세요"
+          "ko": "언제 면접을 봤는지 말하세요",
+          "ru": "Укажите, когда у вас было собеседование",
+          "bn": "কবে ইন্টারভিউ দিয়েছিলেন তা উল্লেখ করুন",
+          "ur": "بتائیں کہ آپ کا انٹرویو کب ہوا تھا",
+          "zh-CN": "提一下你是什么时候面试的",
+          "ja": "面接を受けた時期を伝えましょう"
         },
         "practice": "Mencione cuándo tuvo la entrevista",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi khi nào họ dự kiến đưa ra quyết định",
           "id": "Tanyakan kapan mereka akan memutuskan",
           "ms": "Tanya bila mereka dijangka membuat keputusan",
-          "ko": "언제쯤 결정될지 물어보세요"
+          "ko": "언제쯤 결정될지 물어보세요",
+          "ru": "Спросите, когда они планируют принять решение",
+          "bn": "জিজ্ঞাসা করুন তারা কবে সিদ্ধান্ত নেবেন বলে আশা করছেন",
+          "ur": "پوچھیں کہ وہ کب تک فیصلہ کرنے کی توقع رکھتے ہیں",
+          "zh-CN": "询问他们预计何时做出决定",
+          "ja": "いつ頃決定する予定か尋ねましょう"
         },
         "practice": "Pregunte cuándo esperan tomar una decisión",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi gọi về vị trí trợ lý bán hàng mà tôi đã phỏng vấn.",
         "id": "Halo, saya menelepon soal posisi asisten penjualan yang saya ikuti wawancaranya.",
         "ms": "Hai, saya menelefon tentang jawatan pembantu jualan yang saya ditemu duga.",
-        "ko": "안녕하세요, 판매 보조 직무 면접을 본 사람인데요, 그 건으로 전화드렸어요."
+        "ko": "안녕하세요, 판매 보조 직무 면접을 본 사람인데요, 그 건으로 전화드렸어요.",
+        "ru": "Здравствуйте, я звоню по поводу должности помощника по продажам, на которую проходил собеседование.",
+        "bn": "হ্যালো, আমি সেলস অ্যাসিস্ট্যান্ট পদের ব্যাপারে ফোন করছি, যার জন্য আমি ইন্টারভিউ দিয়েছিলাম।",
+        "ur": "ہیلو، میں سیلز اسسٹنٹ کے اس عہدے کے بارے میں فون کر رہا ہوں جس کا میں نے انٹرویو دیا تھا۔",
+        "zh-CN": "您好，我打电话是想询问我面试过的销售助理职位。",
+        "ja": "こんにちは、面接を受けた販売アシスタントの職についてお電話しました。"
       },
       "practice": "Hola, llamo por el puesto de asistente de ventas para el que tuve una entrevista.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi phỏng vấn cách đây hai tuần, vào một ngày thứ Ba.",
         "id": "Wawancara saya dua minggu lalu, hari Selasa.",
         "ms": "Temu duga saya dua minggu lalu, pada hari Selasa.",
-        "ko": "2주 전 화요일에 면접을 봤어요."
+        "ko": "2주 전 화요일에 면접을 봤어요.",
+        "ru": "Моё собеседование было две недели назад, во вторник.",
+        "bn": "আমার ইন্টারভিউ দুই সপ্তাহ আগে, এক মঙ্গলবারে হয়েছিল।",
+        "ur": "میرا انٹرویو دو ہفتے پہلے، منگل کے دن ہوا تھا۔",
+        "zh-CN": "我的面试是在两周前的一个星期二。",
+        "ja": "面接は2週間前の火曜日でした。"
       },
       "practice": "Mi entrevista fue hace dos semanas, un martes.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Tôi vẫn rất quan tâm đến công việc này.",
         "id": "Saya masih sangat tertarik dengan pekerjaan ini.",
         "ms": "Saya masih sangat berminat dengan kerja itu.",
-        "ko": "저는 아직도 이 일에 관심이 많아요."
+        "ko": "저는 아직도 이 일에 관심이 많아요.",
+        "ru": "Я по-прежнему очень заинтересован в этой работе.",
+        "bn": "আমি এখনও এই চাকরিতে খুবই আগ্রহী।",
+        "ur": "مجھے اب بھی اس نوکری میں بہت دلچسپی ہے۔",
+        "zh-CN": "我对这份工作仍然很感兴趣。",
+        "ja": "今もこの仕事にとても興味があります。"
       },
       "practice": "Sigo muy interesado en el puesto.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có biết khi nào sẽ có quyết định không?",
         "id": "Apakah Anda tahu kapan keputusannya akan dibuat?",
         "ms": "Adakah anda tahu bila keputusan akan dibuat?",
-        "ko": "언제쯤 결정이 나는지 아세요?"
+        "ko": "언제쯤 결정이 나는지 아세요?",
+        "ru": "Вы не знаете, когда примете решение?",
+        "bn": "আপনি কি জানেন কবে সিদ্ধান্ত নেবেন?",
+        "ur": "کیا آپ جانتے ہیں کہ آپ کب فیصلہ کریں گے؟",
+        "zh-CN": "请问您知道什么时候会做出决定吗？",
+        "ja": "いつ頃決定されるかご存じですか？"
       },
       "practice": "¿Sabe cuándo van a tomar una decisión?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Tìm hiểu về bảo hiểm y tế",
     "id": "Memahami Asuransi Kesehatan",
     "ms": "Memahami Insurans Kesihatan",
-    "ko": "건강 보험 이해하기"
+    "ko": "건강 보험 이해하기",
+    "ru": "Разбираемся в медицинской страховке",
+    "bn": "স্বাস্থ্যবিমা বোঝা",
+    "ur": "ہیلتھ انشورنس کو سمجھنا",
+    "zh-CN": "了解医疗保险",
+    "ja": "健康保険を理解する"
   },
   "character": "fox",
   "scenario": "During onboarding, the benefits specialist (AI) explains the company's health insurance plans, and some of the words are new to you.",
@@ -39,7 +44,12 @@
     "vi": "Trong buổi hội nhập, chuyên viên phúc lợi (AI) giải thích các gói bảo hiểm y tế của công ty, và có vài từ bạn chưa từng nghe.",
     "id": "Saat orientasi karyawan baru, staf tunjangan (AI) menjelaskan paket asuransi kesehatan perusahaan, dan beberapa istilahnya masih asing bagimu.",
     "ms": "Semasa sesi orientasi, pegawai faedah pekerja (AI) menerangkan pelan insurans kesihatan syarikat, dan ada perkataan yang baharu bagi anda.",
-    "ko": "입사 교육 중에 복리후생 담당자(AI)가 회사의 건강 보험 플랜을 설명하는데, 처음 듣는 단어가 있어요."
+    "ko": "입사 교육 중에 복리후생 담당자(AI)가 회사의 건강 보험 플랜을 설명하는데, 처음 듣는 단어가 있어요.",
+    "ru": "Во время адаптации специалист по льготам (AI) рассказывает о планах медицинского страхования компании, и некоторые слова вам незнакомы.",
+    "bn": "অনবোর্ডিংয়ের সময় বেনিফিট বিশেষজ্ঞ (AI) কোম্পানির স্বাস্থ্যবিমা পরিকল্পনাগুলো ব্যাখ্যা করছেন, আর কিছু শব্দ আপনার কাছে নতুন।",
+    "ur": "آن بورڈنگ کے دوران بینیفٹس اسپیشلسٹ (AI) کمپنی کے ہیلتھ انشورنس پلانز سمجھا رہا ہے، اور کچھ الفاظ آپ کے لیے نئے ہیں۔",
+    "zh-CN": "入职培训期间，福利专员（AI）向你介绍公司的医疗保险方案，其中有些词你没听过。",
+    "ja": "入社手続き中、福利厚生担当者（AI）が会社の健康保険プランを説明していますが、知らない言葉もあります。"
   },
   "mission": {
     "native": "Ask the questions you need to understand the health plan and choose one.",
@@ -60,7 +70,12 @@
       "vi": "Đặt những câu hỏi cần thiết để hiểu gói bảo hiểm y tế và chọn một gói.",
       "id": "Ajukan pertanyaan yang kamu perlukan untuk memahami paket asuransinya dan pilih salah satu.",
       "ms": "Tanya soalan yang perlu untuk memahami pelan kesihatan dan pilih satu.",
-      "ko": "건강 보험 플랜을 이해하는 데 필요한 질문을 하고 하나를 고르세요."
+      "ko": "건강 보험 플랜을 이해하는 데 필요한 질문을 하고 하나를 고르세요.",
+      "ru": "Задайте нужные вопросы, чтобы разобраться в страховке и выбрать план.",
+      "bn": "স্বাস্থ্য পরিকল্পনা বুঝে একটি বেছে নিতে প্রয়োজনীয় প্রশ্নগুলো করুন।",
+      "ur": "ہیلتھ پلان سمجھنے اور ایک منتخب کرنے کے لیے ضروری سوالات پوچھیں۔",
+      "zh-CN": "提出必要的问题，弄懂医疗保险方案并选择一个。",
+      "ja": "健康保険プランを理解して選ぶために必要な質問をしましょう。"
     },
     "practice": "Haga las preguntas necesarias para entender el plan de salud y elegir uno.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi mức khấu trừ nghĩa là gì",
           "id": "Tanyakan apa arti deductible",
           "ms": "Tanya apa maksud deduktibel",
-          "ko": "공제액이 무슨 뜻인지 물어보세요"
+          "ko": "공제액이 무슨 뜻인지 물어보세요",
+          "ru": "Спросите, что такое франшиза",
+          "bn": "ডিডাক্টিবল মানে কী জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ ڈیڈکٹیبل کا کیا مطلب ہے",
+          "zh-CN": "询问免赔额是什么意思",
+          "ja": "免責額の意味を尋ねましょう"
         },
         "practice": "Pregunte qué significa el deducible",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi bị trừ bao nhiêu vào lương",
           "id": "Tanyakan berapa yang dipotong dari gajimu",
           "ms": "Tanya berapa yang dipotong daripada gaji anda",
-          "ko": "급여에서 얼마가 빠져나가는지 물어보세요"
+          "ko": "급여에서 얼마가 빠져나가는지 물어보세요",
+          "ru": "Спросите, сколько будут вычитать из зарплаты",
+          "bn": "বেতন থেকে কত টাকা কাটা হবে জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ تنخواہ سے کتنا کٹے گا",
+          "zh-CN": "询问每次从工资中扣多少",
+          "ja": "給与からいくら天引きされるか尋ねましょう"
         },
         "practice": "Pregunte cuánto se descuenta de su sueldo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi khi nào bảo hiểm bắt đầu có hiệu lực",
           "id": "Tanyakan kapan pertanggungannya mulai berlaku",
           "ms": "Tanya bila perlindungan anda bermula",
-          "ko": "보장이 언제 시작되는지 물어보세요"
+          "ko": "보장이 언제 시작되는지 물어보세요",
+          "ru": "Спросите, когда начнёт действовать страховка",
+          "bn": "বিমা কবে থেকে কার্যকর হবে জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ آپ کی کوریج کب شروع ہوگی",
+          "zh-CN": "询问保险何时开始生效",
+          "ja": "保険の適用開始日を尋ねましょう"
         },
         "practice": "Pregunte cuándo empieza su cobertura",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi có thể thêm người nhà vào không",
           "id": "Tanyakan apakah kamu bisa menambahkan anggota keluarga",
           "ms": "Tanya sama ada anda boleh menambah ahli keluarga",
-          "ko": "가족을 추가할 수 있는지 물어보세요"
+          "ko": "가족을 추가할 수 있는지 물어보세요",
+          "ru": "Спросите, можно ли добавить члена семьи",
+          "bn": "পরিবারের কোনো সদস্যকে যোগ করা যায় কি না জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کیا آپ خاندان کے کسی فرد کو شامل کر سکتے ہیں",
+          "zh-CN": "询问能否添加家庭成员",
+          "ja": "家族を加入させられるか尋ねましょう"
         },
         "practice": "Pregunte si puede agregar a un familiar",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Xin lỗi, chính xác thì mức khấu trừ là gì vậy?",
         "id": "Maaf, sebenarnya deductible itu apa?",
         "ms": "Maaf, apa sebenarnya deduktibel?",
-        "ko": "죄송하지만, 공제액이 정확히 뭐예요?"
+        "ko": "죄송하지만, 공제액이 정확히 뭐예요?",
+        "ru": "Извините, а что такое франшиза?",
+        "bn": "দুঃখিত, ডিডাক্টিবল আসলে কী?",
+        "ur": "معاف کیجیے، ڈیڈکٹیبل دراصل کیا ہوتا ہے؟",
+        "zh-CN": "不好意思，免赔额具体是指什么？",
+        "ja": "すみません、免責額とは具体的に何ですか？"
       },
       "practice": "Disculpe, ¿qué es exactamente el deducible?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Mỗi kỳ lương sẽ bị trừ bao nhiêu ạ?",
         "id": "Berapa yang akan dipotong dari setiap gaji?",
         "ms": "Berapa banyak yang akan dipotong daripada setiap gaji?",
-        "ko": "급여에서 매번 얼마씩 빠져나가나요?"
+        "ko": "급여에서 매번 얼마씩 빠져나가나요?",
+        "ru": "Сколько будут удерживать из каждой зарплаты?",
+        "bn": "প্রতিটি বেতন থেকে কত কাটা হবে?",
+        "ur": "ہر تنخواہ سے کتنا کاٹا جائے گا؟",
+        "zh-CN": "每次发工资会扣多少？",
+        "ja": "毎回の給料からいくら引かれますか？"
       },
       "practice": "¿Cuánto me descontarían de cada pago?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Bảo hiểm có hiệu lực từ ngày đầu tiên đi làm không ạ?",
         "id": "Apakah pertanggungannya mulai berlaku di hari pertama saya?",
         "ms": "Adakah perlindungan bermula pada hari pertama saya?",
-        "ko": "보장은 첫 출근일부터 시작되나요?"
+        "ko": "보장은 첫 출근일부터 시작되나요?",
+        "ru": "Страховка начинает действовать с первого рабочего дня?",
+        "bn": "কভারেজ কি আমার প্রথম দিন থেকেই শুরু হবে?",
+        "ur": "کیا کوریج میرے پہلے دن سے شروع ہو جائے گی؟",
+        "zh-CN": "保险从我入职第一天就开始生效吗？",
+        "ja": "保険は初日から適用されますか？"
       },
       "practice": "¿La cobertura empieza desde mi primer día?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi có thể thêm vợ/chồng vào gói bảo hiểm không?",
         "id": "Bisakah saya menambahkan pasangan saya ke paketnya?",
         "ms": "Boleh saya tambah pasangan saya ke dalam pelan ini?",
-        "ko": "배우자를 플랜에 추가할 수 있나요?"
+        "ko": "배우자를 플랜에 추가할 수 있나요?",
+        "ru": "Могу ли я включить в страховку супруга?",
+        "bn": "আমি কি আমার স্বামী/স্ত্রীকে প্ল্যানে যোগ করতে পারি?",
+        "ur": "کیا میں اپنے شریکِ حیات کو پلان میں شامل کر سکتا ہوں؟",
+        "zh-CN": "我可以把配偶加入保险计划吗？",
+        "ja": "配偶者をプランに加えられますか？"
       },
       "practice": "¿Puedo agregar a mi cónyuge al plan?",
       "practice_translations": {

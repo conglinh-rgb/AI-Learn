@@ -18,7 +18,12 @@
     "vi": "Chuẩn bị giấy tờ",
     "id": "Menyiapkan Dokumenmu",
     "ms": "Menyediakan Dokumen Anda",
-    "ko": "서류 준비하기"
+    "ko": "서류 준비하기",
+    "ru": "Собираем документы",
+    "bn": "কাগজপত্র গুছিয়ে নেওয়া",
+    "ur": "کاغذات تیار کرنا",
+    "zh-CN": "准备材料",
+    "ja": "書類をそろえる"
   },
   "character": "fox",
   "scenario": "The immigration lawyer (AI) gives you a list of documents to bring for your application, but you are not sure about some of them.",
@@ -39,7 +44,12 @@
     "vi": "Luật sư di trú (AI) đưa bạn danh sách giấy tờ cần mang cho hồ sơ, nhưng có vài loại bạn chưa chắc lắm.",
     "id": "Pengacara imigrasi (AI) memberimu daftar dokumen yang harus dibawa untuk permohonanmu, tapi kamu ragu soal beberapa di antaranya.",
     "ms": "Peguam imigresen (AI) memberi anda senarai dokumen untuk dibawa bagi permohonan anda, tetapi anda kurang pasti tentang sebahagian daripadanya.",
-    "ko": "이민 변호사(AI)가 신청에 필요한 서류 목록을 주었는데, 그중 몇 가지는 잘 모르겠습니다."
+    "ko": "이민 변호사(AI)가 신청에 필요한 서류 목록을 주었는데, 그중 몇 가지는 잘 모르겠습니다.",
+    "ru": "Иммиграционный юрист (AI) даёт вам список документов для заявления, но насчёт некоторых вы не уверены.",
+    "bn": "অভিবাসন আইনজীবী (AI) আপনার আবেদনের জন্য আনতে হবে এমন কাগজপত্রের একটি তালিকা দেন, কিন্তু কয়েকটি নিয়ে আপনি নিশ্চিত নন।",
+    "ur": "امیگریشن وکیل (AI) آپ کو درخواست کے لیے لانے والے کاغذات کی فہرست دیتا ہے، لیکن کچھ کے بارے میں آپ کو یقین نہیں۔",
+    "zh-CN": "移民律师（AI）给了你一份申请所需材料的清单，但其中有些你不太确定。",
+    "ja": "移民弁護士（AI）から申請に必要な書類のリストを渡されましたが、いくつかよくわからないものがあります。"
   },
   "mission": {
     "native": "Clear up your doubts about the documents and confirm when you will bring them.",
@@ -60,7 +70,12 @@
       "vi": "Giải đáp thắc mắc về giấy tờ và xác nhận khi nào bạn sẽ mang đến.",
       "id": "Hilangkan keraguanmu soal dokumen dan konfirmasi kapan kamu akan membawanya.",
       "ms": "Jelaskan keraguan anda tentang dokumen dan sahkan bila anda akan membawanya.",
-      "ko": "서류에 대한 궁금한 점을 해결하고 언제 가져올지 확정하세요."
+      "ko": "서류에 대한 궁금한 점을 해결하고 언제 가져올지 확정하세요.",
+      "ru": "Проясните свои вопросы по документам и подтвердите, когда вы их принесёте.",
+      "bn": "কাগজপত্র নিয়ে আপনার সন্দেহ দূর করুন এবং কবে আনবেন তা নিশ্চিত করুন।",
+      "ur": "کاغذات کے بارے میں اپنے شکوک دور کریں اور تصدیق کریں کہ آپ انہیں کب لائیں گے۔",
+      "zh-CN": "弄清你对材料的疑问，并确认何时带来。",
+      "ja": "書類についての疑問を解消し、いつ持参するか確認しましょう。"
     },
     "practice": "Aclare sus dudas sobre los documentos y confirme cuándo los va a traer.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi cần mang những giấy tờ nào",
           "id": "Tanyakan dokumen apa saja yang harus dibawa",
           "ms": "Tanya dokumen mana yang perlu dibawa",
-          "ko": "어떤 서류를 가져와야 하는지 물어보세요"
+          "ko": "어떤 서류를 가져와야 하는지 물어보세요",
+          "ru": "Спросите, какие документы нужно принести",
+          "bn": "কোন কোন কাগজপত্র আনতে হবে জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کون سے کاغذات لانے ہیں",
+          "zh-CN": "询问需要带哪些材料",
+          "ja": "どの書類を持参すべきか尋ねる"
         },
         "practice": "Pregunte qué documentos necesita traer",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi phải làm gì nếu thiếu một loại giấy tờ",
           "id": "Tanyakan apa yang harus dilakukan jika ada yang hilang",
           "ms": "Tanya apa perlu dibuat jika satu dokumen tiada",
-          "ko": "서류 하나가 없으면 어떻게 해야 하는지 물어보세요"
+          "ko": "서류 하나가 없으면 어떻게 해야 하는지 물어보세요",
+          "ru": "Спросите, что делать, если какого-то не хватает",
+          "bn": "কোনোটি না থাকলে কী করবেন জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ اگر کوئی کاغذ نہ ہو تو کیا کریں",
+          "zh-CN": "询问缺少某份材料该怎么办",
+          "ja": "足りない書類がある場合の対処を尋ねる"
         },
         "practice": "Pregunte qué hacer si le falta uno",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi giấy tờ có cần dịch không",
           "id": "Tanyakan apakah dokumen perlu diterjemahkan",
           "ms": "Tanya sama ada dokumen perlu diterjemahkan",
-          "ko": "서류를 번역해야 하는지 물어보세요"
+          "ko": "서류를 번역해야 하는지 물어보세요",
+          "ru": "Спросите, нужен ли перевод документов",
+          "bn": "কাগজপত্র অনুবাদ করতে হবে কিনা জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کیا کاغذات کا ترجمہ ضروری ہے",
+          "zh-CN": "询问材料是否需要翻译",
+          "ja": "書類の翻訳が必要か尋ねる"
         },
         "practice": "Pregunte si los documentos necesitan traducción",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Xác nhận ngày mang giấy tờ đến",
           "id": "Konfirmasi tanggal untuk membawanya",
           "ms": "Sahkan tarikh untuk membawanya",
-          "ko": "서류를 가져올 날짜를 확인하세요"
+          "ko": "서류를 가져올 날짜를 확인하세요",
+          "ru": "Подтвердите дату, когда вы их принесёте",
+          "bn": "কাগজপত্র আনার তারিখ নিশ্চিত করুন",
+          "ur": "کاغذات لانے کی تاریخ کی تصدیق کریں",
+          "zh-CN": "确认带材料的日期",
+          "ja": "持参する日を確認する"
         },
         "practice": "Confirme la fecha para traerlos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Luật sư xem qua danh sách giấy tờ cùng tôi được không?",
         "id": "Bisakah kita periksa daftar dokumennya bersama?",
         "ms": "Boleh anda semak senarai dokumen ini bersama saya?",
-        "ko": "서류 목록을 저와 같이 한번 봐 주실 수 있어요?"
+        "ko": "서류 목록을 저와 같이 한번 봐 주실 수 있어요?",
+        "ru": "Не могли бы вы пройтись со мной по списку документов?",
+        "bn": "আপনি কি আমার সাথে কাগজপত্রের তালিকাটা একবার দেখে নিতে পারবেন?",
+        "ur": "کیا آپ میرے ساتھ کاغذات کی فہرست دیکھ سکتے ہیں؟",
+        "zh-CN": "您能和我一起过一遍材料清单吗？",
+        "ja": "書類のリストを一緒に確認していただけますか？"
       },
       "practice": "¿Podría revisar conmigo la lista de documentos?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Tôi không tìm thấy bản gốc giấy khai sinh. Tôi phải làm sao?",
         "id": "Saya tidak bisa menemukan akta kelahiran asli saya. Apa yang bisa saya lakukan?",
         "ms": "Saya tidak jumpa sijil kelahiran asal saya. Apa yang boleh saya buat?",
-        "ko": "출생증명서 원본을 못 찾겠어요. 어떻게 하면 될까요?"
+        "ko": "출생증명서 원본을 못 찾겠어요. 어떻게 하면 될까요?",
+        "ru": "Я не могу найти оригинал свидетельства о рождении. Что мне делать?",
+        "bn": "আমি আমার জন্মসনদের মূল কপি খুঁজে পাচ্ছি না। আমি কী করতে পারি?",
+        "ur": "مجھے اپنا اصل پیدائشی سرٹیفکیٹ نہیں مل رہا۔ میں کیا کروں؟",
+        "zh-CN": "我找不到出生证明原件了。我该怎么办？",
+        "ja": "出生証明書の原本が見つかりません。どうすればいいですか？"
       },
       "practice": "No encuentro mi acta de nacimiento original. ¿Qué puedo hacer?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Giấy tờ của tôi có cần dịch sang tiếng Anh không?",
         "id": "Apakah dokumen saya perlu diterjemahkan ke bahasa Inggris?",
         "ms": "Adakah dokumen saya perlu diterjemahkan ke bahasa Inggeris?",
-        "ko": "제 서류를 영어로 번역해야 하나요?"
+        "ko": "제 서류를 영어로 번역해야 하나요?",
+        "ru": "Нужно ли переводить мои документы на английский?",
+        "bn": "আমার কাগজপত্র কি ইংরেজিতে অনুবাদ করতে হবে?",
+        "ur": "کیا میرے کاغذات کا انگریزی میں ترجمہ ضروری ہے؟",
+        "zh-CN": "我的材料需要翻译成英文吗？",
+        "ja": "書類は英語に翻訳する必要がありますか？"
       },
       "practice": "¿Mis documentos tienen que estar traducidos al inglés?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi nên mang bản sao hay bản gốc?",
         "id": "Saya bawa fotokopi atau yang asli?",
         "ms": "Patutkah saya bawa salinan atau dokumen asal?",
-        "ko": "사본을 가져와야 하나요, 원본을 가져와야 하나요?"
+        "ko": "사본을 가져와야 하나요, 원본을 가져와야 하나요?",
+        "ru": "Мне принести копии или оригиналы?",
+        "bn": "আমি কি কপি আনব, নাকি মূল কাগজ?",
+        "ur": "کیا میں کاپیاں لاؤں یا اصل؟",
+        "zh-CN": "我应该带复印件还是原件？",
+        "ja": "コピーと原本、どちらを持参すればいいですか？"
       },
       "practice": "¿Debo traer copias o los originales?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Thứ Hai tuần sau tôi có thể mang đủ mọi thứ đến.",
         "id": "Saya bisa membawa semuanya Senin depan.",
         "ms": "Saya boleh bawa semuanya Isnin depan.",
-        "ko": "다음 주 월요일에 전부 가져올 수 있어요."
+        "ko": "다음 주 월요일에 전부 가져올 수 있어요.",
+        "ru": "Я могу принести всё в следующий понедельник.",
+        "bn": "আমি আগামী সোমবার সবকিছু আনতে পারব।",
+        "ur": "میں اگلے پیر کو سب کچھ لا سکتا ہوں۔",
+        "zh-CN": "我下周一可以把所有材料带来。",
+        "ja": "来週の月曜日にすべて持ってこられます。"
       },
       "practice": "Puedo traer todo el próximo lunes.",
       "practice_translations": {

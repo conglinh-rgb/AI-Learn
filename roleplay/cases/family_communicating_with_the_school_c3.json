@@ -18,7 +18,12 @@
     "vi": "Rắc rối giờ ra chơi",
     "id": "Masalah Saat Jam Istirahat",
     "ms": "Masalah Semasa Waktu Rehat",
-    "ko": "쉬는 시간에 생긴 문제"
+    "ko": "쉬는 시간에 생긴 문제",
+    "ru": "Проблема на перемене",
+    "bn": "টিফিনের সময়ের সমস্যা",
+    "ur": "وقفے کے دوران ایک مسئلہ",
+    "zh-CN": "课间的麻烦",
+    "ja": "休み時間のトラブル"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Con bạn kể rằng có một bạn khác cứ lấy đồ ăn trưa của con vào giờ ra chơi. Hiệu trưởng (AI) cho rằng đó \"chỉ là chuyện trẻ con\".",
     "id": "Anakmu bilang ada murid lain yang terus mengambil bekalnya saat jam istirahat. Kepala sekolah (AI) menganggapnya \"cuma kenakalan anak-anak\".",
     "ms": "Anak anda berkata seorang murid lain asyik mengambil bekal makanannya semasa waktu rehat. Guru besar (AI) menganggap itu \"biasalah budak-budak.\"",
-    "ko": "아이가 쉬는 시간마다 다른 학생이 자기 도시락을 가져간다고 해요. 교장 선생님(AI)은 \"애들이 다 그렇죠\"라고 생각해요."
+    "ko": "아이가 쉬는 시간마다 다른 학생이 자기 도시락을 가져간다고 해요. 교장 선생님(AI)은 \"애들이 다 그렇죠\"라고 생각해요.",
+    "ru": "Ваш ребёнок говорит, что другой ученик постоянно отбирает у него обед на перемене. Директор (AI) считает, что это «обычные детские дела».",
+    "bn": "আপনার সন্তান বলছে, টিফিনের সময় আরেকজন ছাত্র বারবার তার খাবার নিয়ে নেয়। প্রধান শিক্ষক (AI) মনে করেন এটা \"বাচ্চাদের স্বাভাবিক ব্যাপার\"।",
+    "ur": "آپ کا بچہ بتاتا ہے کہ ایک اور طالب علم وقفے میں بار بار اس کا لنچ لے لیتا ہے۔ پرنسپل (AI) سمجھتے ہیں کہ یہ \"بس بچوں کی باتیں ہیں\"۔",
+    "zh-CN": "孩子说另一个学生课间总是拿走他的午饭。校长（AI）却认为这\"只是小孩子闹着玩\"。",
+    "ja": "子どもが、休み時間にほかの子に何度もお弁当を取られると言っています。校長（AI）は「子ども同士のよくあること」だと考えています。"
   },
   "mission": {
     "native": "Explain the problem firmly and get the school to take clear action.",
@@ -61,7 +71,12 @@
       "vi": "Kiên quyết giải thích vấn đề và yêu cầu nhà trường có hành động rõ ràng.",
       "id": "Jelaskan masalahnya dengan tegas dan buat sekolah mengambil tindakan yang jelas.",
       "ms": "Terangkan masalah itu dengan tegas dan pastikan sekolah mengambil tindakan yang jelas.",
-      "ko": "문제를 단호하게 설명하고 학교가 분명한 조치를 취하게 하세요."
+      "ko": "문제를 단호하게 설명하고 학교가 분명한 조치를 취하게 하세요.",
+      "ru": "Твёрдо объясните проблему и добейтесь от школы конкретных мер.",
+      "bn": "দৃঢ়ভাবে সমস্যাটি ব্যাখ্যা করুন এবং স্কুলকে স্পষ্ট পদক্ষেপ নিতে রাজি করান।",
+      "ur": "مسئلہ مضبوطی سے بیان کریں اور اسکول سے واضح کارروائی کروائیں۔",
+      "zh-CN": "坚定地说明问题，让学校采取明确的措施。",
+      "ja": "問題をはっきり伝え、学校に具体的な対応を約束させましょう。"
     },
     "practice": "Explique el problema con firmeza y consiga que la escuela tome medidas claras.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Mô tả những gì đang xảy ra với con bạn",
           "id": "Ceritakan apa yang dialami anakmu",
           "ms": "Ceritakan apa yang telah berlaku kepada anak anda",
-          "ko": "아이에게 어떤 일이 있었는지 설명하세요"
+          "ko": "아이에게 어떤 일이 있었는지 설명하세요",
+          "ru": "Опишите, что происходит с вашим ребёнком",
+          "bn": "আপনার সন্তানের সাথে কী ঘটছে তা বর্ণনা করুন",
+          "ur": "بتائیں کہ آپ کے بچے کے ساتھ کیا ہو رہا ہے",
+          "zh-CN": "描述孩子最近遇到的情况",
+          "ja": "お子さんに起きていることを説明しましょう"
         },
         "practice": "Describa lo que le ha estado pasando a su hijo",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích việc này ảnh hưởng đến con thế nào",
           "id": "Jelaskan dampaknya bagi anakmu",
           "ms": "Terangkan bagaimana ia menjejaskan anak anda",
-          "ko": "그 일이 아이에게 어떤 영향을 주는지 설명하세요"
+          "ko": "그 일이 아이에게 어떤 영향을 주는지 설명하세요",
+          "ru": "Объясните, как это влияет на ребёнка",
+          "bn": "এটি আপনার সন্তানের উপর কীভাবে প্রভাব ফেলছে তা ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ اس کا آپ کے بچے پر کیا اثر ہو رہا ہے",
+          "zh-CN": "说明这对孩子有什么影响",
+          "ja": "お子さんへの影響を説明しましょう"
         },
         "practice": "Explique cómo le afecta a su hijo",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Bình tĩnh đáp lại khi hiệu trưởng xem nhẹ vấn đề",
           "id": "Tanggapi dengan tenang saat kepala sekolah menganggapnya sepele",
           "ms": "Balas dengan tenang apabila guru besar memperkecilkannya",
-          "ko": "교장 선생님이 대수롭지 않게 여기면 침착하게 대응하세요"
+          "ko": "교장 선생님이 대수롭지 않게 여기면 침착하게 대응하세요",
+          "ru": "Спокойно ответьте, когда директор преуменьшает проблему",
+          "bn": "প্রধান শিক্ষক বিষয়টিকে হালকাভাবে নিলে শান্তভাবে উত্তর দিন",
+          "ur": "جب پرنسپل معاملے کو معمولی سمجھیں تو تحمل سے جواب دیں",
+          "zh-CN": "校长轻描淡写时，冷静回应",
+          "ja": "校長が問題を軽く扱ったら、落ち着いて応じましょう"
         },
         "practice": "Responda con calma cuando el director le quite importancia",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Yêu cầu một kế hoạch cụ thể và ngày trao đổi lại",
           "id": "Minta rencana yang jelas dan tanggal untuk membahasnya lagi",
           "ms": "Minta pelan yang khusus dan tarikh susulan",
-          "ko": "구체적인 계획과 후속 면담 날짜를 요청하세요"
+          "ko": "구체적인 계획과 후속 면담 날짜를 요청하세요",
+          "ru": "Попросите конкретный план и дату следующей встречи",
+          "bn": "একটি নির্দিষ্ট পরিকল্পনা ও পরবর্তী আলোচনার তারিখ চান",
+          "ur": "ایک واضح منصوبہ اور اگلی ملاقات کی تاریخ مانگیں",
+          "zh-CN": "要求具体的方案和后续沟通日期",
+          "ja": "具体的な対応策と次回の話し合いの日程を求めましょう"
         },
         "practice": "Pida un plan concreto y una fecha de seguimiento",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Tôi đến đây vì có chuyện nghiêm trọng đang xảy ra vào giờ ra chơi.",
         "id": "Saya datang karena ada hal serius yang terjadi saat jam istirahat.",
         "ms": "Saya datang kerana ada perkara serius yang berlaku semasa waktu rehat.",
-        "ko": "쉬는 시간에 일어나고 있는 심각한 일 때문에 왔습니다."
+        "ko": "쉬는 시간에 일어나고 있는 심각한 일 때문에 왔습니다.",
+        "ru": "Я пришла из-за серьёзной проблемы, которая происходит на перемене.",
+        "bn": "টিফিনের বিরতিতে গুরুতর একটা ঘটনা ঘটছে, সেজন্যই আমি এসেছি।",
+        "ur": "میں اس لیے آئی ہوں کہ بریک کے وقت کچھ سنجیدہ معاملہ ہو رہا ہے۔",
+        "zh-CN": "我来是因为课间休息时发生了一件严重的事。",
+        "ja": "休み時間に起きている深刻な問題のことで伺いました。"
       },
       "practice": "Vengo por algo serio que está pasando en el recreo.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tuần này, gần như ngày nào cũng có một bạn lấy mất đồ ăn trưa của con trai tôi.",
         "id": "Minggu ini hampir setiap hari ada murid lain yang mengambil bekal anak saya.",
         "ms": "Seorang murid lain mengambil bekal makanan anak saya hampir setiap hari minggu ini.",
-        "ko": "이번 주에 거의 매일 다른 학생이 제 아들 도시락을 가져갔어요."
+        "ko": "이번 주에 거의 매일 다른 학생이 제 아들 도시락을 가져갔어요.",
+        "ru": "Другой ученик почти каждый день на этой неделе забирал у моего сына обед.",
+        "bn": "এই সপ্তাহে প্রায় প্রতিদিনই আরেকজন ছাত্র আমার ছেলের দুপুরের খাবার নিয়ে নিয়েছে।",
+        "ur": "اس ہفتے تقریباً ہر روز ایک اور طالب علم نے میرے بیٹے کا لنچ لے لیا ہے۔",
+        "zh-CN": "这周几乎每天都有一个同学拿走我儿子的午饭。",
+        "ja": "今週はほぼ毎日、ほかの子に息子のお弁当を取られています。"
       },
       "practice": "Otro alumno le ha quitado el almuerzo a mi hijo casi todos los días esta semana.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Buổi chiều cháu bị đói và không muốn đến trường nữa.",
         "id": "Dia kelaparan di siang hari dan tidak mau sekolah.",
         "ms": "Dia lapar pada waktu petang dan tidak mahu ke sekolah.",
-        "ko": "아이가 오후만 되면 배고파하고, 학교에 오기 싫어해요."
+        "ko": "아이가 오후만 되면 배고파하고, 학교에 오기 싫어해요.",
+        "ru": "Днём он голодный и не хочет ходить в школу.",
+        "bn": "বিকেলে ও ক্ষুধার্ত থাকে আর স্কুলে আসতে চায় না।",
+        "ur": "دوپہر کو اسے بھوک لگتی ہے اور وہ اسکول نہیں آنا چاہتا۔",
+        "zh-CN": "他下午会饿，而且不想来上学了。",
+        "ja": "午後はお腹を空かせていて、学校に来たがりません。"
       },
       "practice": "Tiene hambre en la tarde y no quiere venir a la escuela.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Tôi hiểu, nhưng chuyện này không chỉ là chuyện trẻ con.",
         "id": "Saya mengerti, tapi ini lebih dari sekadar kenakalan anak-anak.",
         "ms": "Saya faham, tetapi ini lebih daripada perangai biasa budak-budak.",
-        "ko": "이해는 하지만, 이건 애들이 다 그런 수준이 아니에요."
+        "ko": "이해는 하지만, 이건 애들이 다 그런 수준이 아니에요.",
+        "ru": "Я понимаю, но это не просто детские шалости.",
+        "bn": "বুঝতে পারছি, কিন্তু এটা শুধু বাচ্চাদের দুষ্টুমি নয়।",
+        "ur": "میں سمجھتی ہوں، لیکن یہ صرف بچوں کی شرارت نہیں ہے۔",
+        "zh-CN": "我理解，但这不只是孩子间的小打小闹。",
+        "ja": "わかりますが、これは子ども同士のよくあることでは済みません。"
       },
       "practice": "Lo entiendo, pero esto es más que cosas de niños.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Cụ thể nhà trường sẽ làm gì, và khi nào chúng ta có thể trao đổi lại?",
         "id": "Apa tepatnya yang akan dilakukan sekolah, dan kapan kita bisa bicara lagi?",
         "ms": "Apa sebenarnya yang sekolah akan lakukan, dan bila kita boleh berbincang lagi?",
-        "ko": "학교에서 구체적으로 어떻게 하실 건지, 그리고 언제 다시 이야기할 수 있을까요?"
+        "ko": "학교에서 구체적으로 어떻게 하실 건지, 그리고 언제 다시 이야기할 수 있을까요?",
+        "ru": "Что именно сделает школа и когда мы сможем снова поговорить?",
+        "bn": "স্কুল ঠিক কী করবে, আর আমরা আবার কবে কথা বলতে পারি?",
+        "ur": "اسکول بالکل کیا کرے گا، اور ہم دوبارہ کب بات کر سکتے ہیں؟",
+        "zh-CN": "学校具体会怎么做？我们什么时候可以再谈？",
+        "ja": "学校は具体的に何をしてくださるのですか？次はいつお話しできますか？"
       },
       "practice": "¿Qué va a hacer exactamente la escuela y cuándo podemos volver a hablar?",
       "practice_translations": {

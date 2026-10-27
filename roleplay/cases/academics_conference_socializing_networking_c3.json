@@ -18,7 +18,12 @@
     "vi": "Bắt kịp diễn giả chính",
     "id": "Mencegat Pembicara Utama",
     "ms": "Menahan Penceramah Utama",
-    "ko": "기조연설자 붙잡기"
+    "ko": "기조연설자 붙잡기",
+    "ru": "Поймать основного докладчика",
+    "bn": "মূল বক্তাকে ধরে ফেলা",
+    "ur": "کلیدی مقرر سے ملاقات",
+    "zh-CN": "抓住主旨演讲人",
+    "ja": "基調講演者をつかまえる"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Diễn giả chính (AI) vừa nói xong và sắp rời đi. Họ có vẻ bận và đang vội.",
     "id": "Pembicara utama (AI) baru saja selesai dan hendak pergi. Mereka tampak sibuk dan terburu-buru.",
     "ms": "Penceramah utama (AI) baru selesai dan hendak beredar. Mereka nampak sibuk dan tergesa-gesa.",
-    "ko": "기조연설자(AI)가 방금 연설을 마치고 떠나려고 해요. 바쁘고 서두르는 것 같아요."
+    "ko": "기조연설자(AI)가 방금 연설을 마치고 떠나려고 해요. 바쁘고 서두르는 것 같아요.",
+    "ru": "Основной докладчик (AI) только что закончил выступление и собирается уходить. Похоже, он занят и спешит.",
+    "bn": "মূল বক্তা (AI) সবেমাত্র বক্তব্য শেষ করে চলে যাচ্ছেন। তাঁকে ব্যস্ত ও তাড়াহুড়োয় মনে হচ্ছে।",
+    "ur": "کلیدی مقرر (AI) ابھی خطاب ختم کر کے جانے والے ہیں۔ وہ مصروف اور جلدی میں لگتے ہیں۔",
+    "zh-CN": "主旨演讲人（AI）刚刚讲完，正准备离开。对方看起来很忙，行色匆匆。",
+    "ja": "基調講演者（AI）が講演を終え、会場を出ようとしています。忙しそうで急いでいる様子です。"
   },
   "mission": {
     "native": "Make a strong impression in under a minute and get their contact details.",
@@ -61,7 +71,12 @@
       "vi": "Gây ấn tượng mạnh trong chưa đầy một phút và xin thông tin liên lạc của họ.",
       "id": "Berikan kesan yang kuat dalam waktu kurang dari semenit dan dapatkan kontak mereka.",
       "ms": "Tinggalkan kesan yang kuat dalam masa kurang seminit dan dapatkan maklumat hubungan mereka.",
-      "ko": "1분 안에 강한 인상을 남기고 연락처를 받으세요."
+      "ko": "1분 안에 강한 인상을 남기고 연락처를 받으세요.",
+      "ru": "Произведите сильное впечатление меньше чем за минуту и получите контактные данные.",
+      "bn": "এক মিনিটের কম সময়ে জোরালো ছাপ ফেলুন এবং তাঁর যোগাযোগের তথ্য নিন।",
+      "ur": "ایک منٹ سے کم میں مضبوط تاثر چھوڑیں اور ان کی رابطے کی تفصیلات حاصل کریں۔",
+      "zh-CN": "在一分钟内留下深刻印象，并拿到对方的联系方式。",
+      "ja": "1分以内に強い印象を残し、連絡先を手に入れましょう。"
     },
     "practice": "Cause una buena impresión en menos de un minuto y consiga sus datos de contacto.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Lịch sự xin một phút thời gian của họ",
           "id": "Minta waktu mereka sebentar dengan sopan",
           "ms": "Minta seminit masa mereka dengan sopan",
-          "ko": "정중하게 1분만 시간을 내 달라고 부탁하세요"
+          "ko": "정중하게 1분만 시간을 내 달라고 부탁하세요",
+          "ru": "Вежливо попросите минуту времени",
+          "bn": "বিনয়ের সঙ্গে এক মিনিট সময় চান",
+          "ur": "شائستگی سے ایک منٹ کا وقت مانگیں",
+          "zh-CN": "礼貌地请对方给您一分钟",
+          "ja": "丁寧に1分だけ時間をもらいましょう"
         },
         "practice": "Pida con cortesía un minuto de su tiempo",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giới thiệu nghiên cứu của bạn trong hai câu",
           "id": "Jelaskan penelitianmu dalam dua kalimat",
           "ms": "Terangkan penyelidikan anda dalam dua ayat",
-          "ko": "두 문장으로 자신의 연구를 소개하세요"
+          "ko": "두 문장으로 자신의 연구를 소개하세요",
+          "ru": "Представьте своё исследование в двух предложениях",
+          "bn": "দুই বাক্যে আপনার গবেষণা তুলে ধরুন",
+          "ur": "اپنی تحقیق دو جملوں میں پیش کریں",
+          "zh-CN": "用两句话介绍您的研究",
+          "ja": "自分の研究を2文で紹介しましょう"
         },
         "practice": "Presente su investigación en dos frases",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Liên hệ nghiên cứu của bạn với bài nói của họ",
           "id": "Kaitkan pekerjaanmu dengan materi utama mereka",
           "ms": "Kaitkan kerja anda dengan ucaptama mereka",
-          "ko": "자신의 연구를 기조연설 내용과 연결하세요"
+          "ko": "자신의 연구를 기조연설 내용과 연결하세요",
+          "ru": "Свяжите свою работу с его докладом",
+          "bn": "আপনার কাজকে তাঁর মূল বক্তব্যের সঙ্গে যুক্ত করুন",
+          "ur": "اپنے کام کو ان کے کلیدی خطاب سے جوڑیں",
+          "zh-CN": "将您的研究与对方的主旨演讲联系起来",
+          "ja": "自分の研究を基調講演の内容と結びつけましょう"
         },
         "practice": "Relacione su trabajo con la conferencia magistral",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Xin email hoặc danh thiếp của họ",
           "id": "Minta email atau kartu nama mereka",
           "ms": "Minta e-mel atau kad nama mereka",
-          "ko": "이메일이나 명함을 부탁하세요"
+          "ko": "이메일이나 명함을 부탁하세요",
+          "ru": "Попросите электронную почту или визитку",
+          "bn": "তাঁর ইমেইল বা ভিজিটিং কার্ড চান",
+          "ur": "ان کا ای میل یا بزنس کارڈ مانگیں",
+          "zh-CN": "索要对方的邮箱或名片",
+          "ja": "メールアドレスか名刺をお願いしましょう"
         },
         "practice": "Pida su correo o su tarjeta de presentación",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Xin lỗi, tôi biết anh/chị đang bận. Cho tôi xin đúng một phút thôi được không ạ?",
         "id": "Permisi, saya tahu Anda sibuk. Boleh minta waktu satu menit saja?",
         "ms": "Maaf, saya tahu anda sibuk. Boleh beri saya seminit sahaja?",
-        "ko": "실례합니다, 바쁘신 줄 알지만 1분만 시간 내주실 수 있을까요?"
+        "ko": "실례합니다, 바쁘신 줄 알지만 1분만 시간 내주실 수 있을까요?",
+        "ru": "Извините, я знаю, что вы заняты. Можно всего одну минуту?",
+        "bn": "মাফ করবেন, জানি আপনি ব্যস্ত। আমাকে কি মাত্র এক মিনিট দিতে পারবেন?",
+        "ur": "معاف کیجیے، میں جانتا ہوں آپ مصروف ہیں۔ کیا مجھے صرف ایک منٹ مل سکتا ہے؟",
+        "zh-CN": "打扰一下，我知道您很忙。能给我一分钟吗？",
+        "ja": "すみません、お忙しいところ恐縮ですが、1分だけよろしいでしょうか？"
       },
       "practice": "Disculpe, sé que tiene prisa. ¿Me regala solo un minuto?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Bài nói của anh/chị rất gần với nghiên cứu của tôi.",
         "id": "Presentasi Anda sangat berkaitan dengan penelitian saya.",
         "ms": "Ceramah anda sangat berkait dengan penyelidikan saya sendiri.",
-        "ko": "발표 내용이 제 연구와 정말 많이 맞닿아 있었어요."
+        "ko": "발표 내용이 제 연구와 정말 많이 맞닿아 있었어요.",
+        "ru": "Ваш доклад оказался очень близок к моему исследованию.",
+        "bn": "আপনার বক্তব্য আমার নিজের গবেষণার সঙ্গে খুব মিলে গেছে।",
+        "ur": "آپ کی گفتگو میری اپنی تحقیق سے بہت جڑی ہوئی تھی۔",
+        "zh-CN": "您的演讲和我自己的研究非常相关。",
+        "ja": "ご講演は私自身の研究と深くつながっていました。"
       },
       "practice": "Su conferencia tiene mucho que ver con mi propia investigación.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Nói ngắn gọn, tôi nghiên cứu cách mọi người học bằng ứng dụng di động.",
         "id": "Singkatnya, saya meneliti cara orang belajar lewat aplikasi seluler.",
         "ms": "Ringkasnya, saya mengkaji cara orang belajar menggunakan aplikasi mudah alih.",
-        "ko": "간단히 말하면, 저는 사람들이 모바일 앱으로 어떻게 배우는지 연구해요."
+        "ko": "간단히 말하면, 저는 사람들이 모바일 앱으로 어떻게 배우는지 연구해요.",
+        "ru": "Если кратко, я изучаю, как люди учатся с помощью мобильных приложений.",
+        "bn": "সংক্ষেপে, আমি গবেষণা করি মানুষ কীভাবে মোবাইল অ্যাপের মাধ্যমে শেখে।",
+        "ur": "مختصراً، میں یہ مطالعہ کرتا ہوں کہ لوگ موبائل ایپس سے کیسے سیکھتے ہیں۔",
+        "zh-CN": "简单来说，我研究人们如何通过手机应用学习。",
+        "ja": "簡単に言うと、人々がモバイルアプリでどう学ぶかを研究しています。"
       },
       "practice": "En resumen, estudio cómo aprenden las personas con aplicaciones móviles.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Ý của anh/chị về động lực trùng khớp với những gì tôi phát hiện ra.",
         "id": "Poin Anda tentang motivasi sejalan dengan temuan saya.",
         "ms": "Pandangan anda tentang motivasi sepadan dengan dapatan saya.",
-        "ko": "동기에 관한 말씀이 제 연구 결과와 일치해요."
+        "ko": "동기에 관한 말씀이 제 연구 결과와 일치해요.",
+        "ru": "Ваша мысль о мотивации совпадает с моими результатами.",
+        "bn": "অনুপ্রেরণা নিয়ে আপনার বক্তব্য আমার ফলাফলের সঙ্গে মিলে যায়।",
+        "ur": "حوصلہ افزائی کے بارے میں آپ کا نکتہ میرے نتائج سے میل کھاتا ہے۔",
+        "zh-CN": "您关于动机的观点与我的发现一致。",
+        "ja": "モチベーションについてのご指摘は、私の研究結果と一致しています。"
       },
       "practice": "Lo que dijo sobre la motivación coincide con lo que encontré.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Tôi có thể gửi email cho anh/chị được không ạ?",
         "id": "Apakah boleh saya mengirim email kepada Anda?",
         "ms": "Bolehkah saya menghantar e-mel kepada anda?",
-        "ko": "이메일 드려도 괜찮을까요?"
+        "ko": "이메일 드려도 괜찮을까요?",
+        "ru": "Ничего, если я напишу вам на почту?",
+        "bn": "আমি যদি আপনাকে ইমেইল করি, তাতে কি আপত্তি আছে?",
+        "ur": "اگر میں آپ کو ای میل کروں تو کیا ٹھیک رہے گا؟",
+        "zh-CN": "我可以给您发邮件吗？",
+        "ja": "メールをお送りしてもよろしいでしょうか？"
       },
       "practice": "¿Le molestaría si le escribo por correo?",
       "practice_translations": {

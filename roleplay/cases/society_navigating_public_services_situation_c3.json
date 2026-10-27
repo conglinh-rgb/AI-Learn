@@ -18,7 +18,12 @@
     "vi": "Bị từ chối tại phòng cấp bằng lái",
     "id": "Ditolak di Kantor SIM",
     "ms": "Ditolak di Pejabat Lesen",
-    "ko": "면허 사무소에서 거절당하다"
+    "ko": "면허 사무소에서 거절당하다",
+    "ru": "Отказ в ГИБДД",
+    "bn": "লাইসেন্স অফিস থেকে ফিরিয়ে দেওয়া",
+    "ur": "لائسنس آفس سے واپس لوٹا دیا گیا",
+    "zh-CN": "在驾照办理处被拒",
+    "ja": "免許センターで門前払い"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Sau một tiếng chờ ở phòng cấp bằng lái xe, nhân viên (AI) nói hồ sơ của bạn chưa đầy đủ và bạn phải quay lại hôm khác.",
     "id": "Setelah menunggu satu jam di kantor SIM, petugas (AI) bilang berkasmu belum lengkap dan kamu harus kembali di lain hari.",
     "ms": "Selepas menunggu sejam di pejabat lesen memandu, kerani (AI) berkata dokumen anda tidak lengkap dan anda perlu datang semula pada hari lain.",
-    "ko": "운전면허 사무소에서 한 시간을 기다렸는데, 직원(AI)이 서류가 불완전하니 다른 날 다시 오라고 합니다."
+    "ko": "운전면허 사무소에서 한 시간을 기다렸는데, 직원(AI)이 서류가 불완전하니 다른 날 다시 오라고 합니다.",
+    "ru": "Прождав час в отделе выдачи водительских прав, вы слышите от сотрудника (AI), что ваши документы неполные и нужно прийти в другой день.",
+    "bn": "ড্রাইভিং লাইসেন্স অফিসে এক ঘণ্টা অপেক্ষার পর কর্মী (AI) বলেন আপনার কাগজপত্র অসম্পূর্ণ এবং আপনাকে অন্য দিন আসতে হবে।",
+    "ur": "ڈرائیونگ لائسنس آفس میں ایک گھنٹہ انتظار کے بعد کلرک (AI) کہتا ہے کہ آپ کے کاغذات نامکمل ہیں اور آپ کو کسی اور دن آنا ہوگا۔",
+    "zh-CN": "在驾照办理处等了一个小时后，工作人员（AI）说你的材料不全，必须改天再来。",
+    "ja": "運転免許センターで1時間待った後、職員（AI）から書類が不足しているので別の日に出直すよう言われます。"
   },
   "mission": {
     "native": "Find out exactly what is missing, push back politely and try to solve the problem today.",
@@ -61,7 +71,12 @@
       "vi": "Tìm hiểu chính xác còn thiếu gì, lịch sự phản đối và cố gắng giải quyết ngay trong hôm nay.",
       "id": "Cari tahu apa tepatnya yang kurang, sanggah dengan sopan, dan coba selesaikan masalahnya hari ini.",
       "ms": "Ketahui apa sebenarnya yang tiada, bantah dengan sopan dan cuba selesaikan masalah itu hari ini.",
-      "ko": "정확히 무엇이 빠졌는지 알아내고, 정중하게 이의를 제기하며 오늘 문제를 해결해 보세요."
+      "ko": "정확히 무엇이 빠졌는지 알아내고, 정중하게 이의를 제기하며 오늘 문제를 해결해 보세요.",
+      "ru": "Выясните, чего именно не хватает, вежливо возразите и постарайтесь решить проблему сегодня.",
+      "bn": "ঠিক কী কম আছে তা জেনে নিন, ভদ্রভাবে আপত্তি জানান এবং আজই সমস্যার সমাধান করার চেষ্টা করুন।",
+      "ur": "معلوم کریں کہ بالکل کیا کمی ہے، شائستگی سے اعتراض کریں اور آج ہی مسئلہ حل کرنے کی کوشش کریں۔",
+      "zh-CN": "弄清楚具体缺少什么，礼貌地据理力争，并设法在今天解决问题。",
+      "ja": "何が足りないのか正確に確認し、丁寧に食い下がって、今日中に問題を解決しようとしましょう。"
     },
     "practice": "Averigüe qué falta exactamente, insista con cortesía e intente resolver el problema hoy.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Hỏi chính xác còn thiếu gì",
           "id": "Tanyakan apa tepatnya yang kurang",
           "ms": "Tanya apa sebenarnya yang tiada",
-          "ko": "정확히 무엇이 빠졌는지 물어보세요"
+          "ko": "정확히 무엇이 빠졌는지 물어보세요",
+          "ru": "Спросите, чего именно не хватает",
+          "bn": "জিজ্ঞেস করুন ঠিক কী কম আছে",
+          "ur": "پوچھیں کہ بالکل کیا کمی ہے",
+          "zh-CN": "询问具体缺少什么",
+          "ja": "具体的に何が足りないか尋ねましょう"
         },
         "practice": "Pregunte qué falta exactamente",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Giải thích rằng bạn đã mang đủ giấy tờ theo yêu cầu",
           "id": "Jelaskan bahwa kamu sudah membawa dokumen yang diminta",
           "ms": "Terangkan bahawa anda telah membawa dokumen yang diperlukan",
-          "ko": "필요한 서류를 가져왔다고 설명하세요"
+          "ko": "필요한 서류를 가져왔다고 설명하세요",
+          "ru": "Объясните, что вы принесли необходимые документы",
+          "bn": "ব্যাখ্যা করুন যে আপনি প্রয়োজনীয় কাগজপত্র নিয়ে এসেছেন",
+          "ur": "وضاحت کریں کہ آپ مطلوبہ دستاویزات لے کر آئے ہیں",
+          "zh-CN": "说明你已带齐所需文件",
+          "ja": "必要な書類を持ってきたと説明しましょう"
         },
         "practice": "Explique que trajo los documentos requeridos",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Hỏi có cách nào khác để chứng minh không",
           "id": "Tanyakan apakah ada cara lain untuk membuktikannya",
           "ms": "Tanya sama ada ada cara lain untuk membuktikannya",
-          "ko": "다른 방법으로 증명할 수 있는지 물어보세요"
+          "ko": "다른 방법으로 증명할 수 있는지 물어보세요",
+          "ru": "Спросите, есть ли другой способ это подтвердить",
+          "bn": "জিজ্ঞেস করুন এটি প্রমাণ করার অন্য কোনো উপায় আছে কি না",
+          "ur": "پوچھیں کہ کیا اسے ثابت کرنے کا کوئی اور طریقہ ہے",
+          "zh-CN": "询问是否有其他证明方式",
+          "ja": "他に証明する方法があるか尋ねましょう"
         },
         "practice": "Pregunte si hay otra forma de comprobarlo",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Hỏi cách hoàn tất thủ tục ngay hôm nay",
           "id": "Tanyakan cara menyelesaikan prosesnya hari ini",
           "ms": "Tanya cara menyelesaikan proses ini hari ini",
-          "ko": "오늘 절차를 마칠 방법을 물어보세요"
+          "ko": "오늘 절차를 마칠 방법을 물어보세요",
+          "ru": "Спросите, как завершить оформление сегодня",
+          "bn": "জিজ্ঞেস করুন কীভাবে আজই প্রক্রিয়াটি শেষ করা যায়",
+          "ur": "پوچھیں کہ آج ہی یہ کارروائی کیسے مکمل کی جائے",
+          "zh-CN": "询问如何今天办完手续",
+          "ja": "今日中に手続きを終える方法を尋ねましょう"
         },
         "practice": "Pregunte cómo terminar el trámite hoy",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Anh/chị có thể cho tôi biết chính xác còn thiếu gì không?",
         "id": "Bisa beri tahu saya apa tepatnya yang kurang?",
         "ms": "Boleh anda beritahu saya apa sebenarnya yang tiada?",
-        "ko": "정확히 뭐가 빠졌는지 알려 주실 수 있어요?"
+        "ko": "정확히 뭐가 빠졌는지 알려 주실 수 있어요?",
+        "ru": "Не могли бы вы сказать, чего именно не хватает?",
+        "bn": "আপনি কি আমাকে ঠিক বলতে পারবেন কী কম আছে?",
+        "ur": "کیا آپ مجھے بالکل بتا سکتے ہیں کہ کیا کمی ہے؟",
+        "zh-CN": "您能具体告诉我缺少什么吗？",
+        "ja": "具体的に何が足りないか教えていただけますか？"
       },
       "practice": "¿Podría decirme exactamente qué falta?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Trang web ghi là chỉ cần những giấy tờ này là đủ.",
         "id": "Di situs web tertulis dokumen ini sudah cukup.",
         "ms": "Laman web mengatakan dokumen ini sudah cukup.",
-        "ko": "웹사이트에는 이 서류면 충분하다고 되어 있었어요."
+        "ko": "웹사이트에는 이 서류면 충분하다고 되어 있었어요.",
+        "ru": "На сайте было написано, что этих документов достаточно.",
+        "bn": "ওয়েবসাইটে লেখা ছিল এই কাগজপত্রই যথেষ্ট।",
+        "ur": "ویب سائٹ پر لکھا تھا کہ یہ دستاویزات کافی ہیں۔",
+        "zh-CN": "网站上说这些文件就够了。",
+        "ja": "ウェブサイトにはこれらの書類で十分だと書いてありました。"
       },
       "practice": "En la página web decía que estos documentos eran suficientes.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi có bản điện tử trên điện thoại.",
         "id": "Saya punya salinan digitalnya di ponsel.",
         "ms": "Saya ada salinan digital dalam telefon saya.",
-        "ko": "휴대폰에 디지털 사본이 있어요."
+        "ko": "휴대폰에 디지털 사본이 있어요.",
+        "ru": "У меня есть электронная копия в телефоне.",
+        "bn": "আমার ফোনে একটি ডিজিটাল কপি আছে।",
+        "ur": "میرے فون میں ایک ڈیجیٹل کاپی ہے۔",
+        "zh-CN": "我手机里有电子版。",
+        "ja": "スマホにデジタルコピーがあります。"
       },
       "practice": "Tengo una copia digital en mi teléfono.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Có cách nào để làm xong ngay hôm nay không?",
         "id": "Apakah ada cara untuk menyelesaikannya hari ini?",
         "ms": "Adakah cara untuk menyelesaikannya hari ini?",
-        "ko": "오늘 이걸 끝낼 방법이 없을까요?"
+        "ko": "오늘 이걸 끝낼 방법이 없을까요?",
+        "ru": "Можно ли как-то закончить это сегодня?",
+        "bn": "আজই এটা শেষ করার কোনো উপায় আছে কি?",
+        "ur": "کیا آج ہی یہ مکمل کرنے کا کوئی طریقہ ہے؟",
+        "zh-CN": "有没有办法今天办完？",
+        "ja": "今日中に終わらせる方法はありますか？"
       },
       "practice": "¿Hay alguna forma de terminar esto hoy?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Cho tôi nói chuyện với quản lý được không?",
         "id": "Boleh saya bicara dengan atasan Anda?",
         "ms": "Boleh saya bercakap dengan penyelia?",
-        "ko": "책임자분과 이야기할 수 있을까요?"
+        "ko": "책임자분과 이야기할 수 있을까요?",
+        "ru": "Могу я поговорить с руководителем, пожалуйста?",
+        "bn": "আমি কি দয়া করে একজন সুপারভাইজারের সঙ্গে কথা বলতে পারি?",
+        "ur": "کیا میں براہ کرم کسی سپروائزر سے بات کر سکتا ہوں؟",
+        "zh-CN": "请问我可以和主管谈谈吗？",
+        "ja": "責任者の方とお話しできますか？"
       },
       "practice": "¿Podría hablar con un supervisor, por favor?",
       "practice_translations": {

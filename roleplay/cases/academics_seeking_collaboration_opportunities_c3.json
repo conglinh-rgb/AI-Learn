@@ -18,7 +18,12 @@
     "vi": "Thương lượng thứ tự tác giả",
     "id": "Menegosiasikan Urutan Penulis",
     "ms": "Merundingkan Kepengarangan",
-    "ko": "저자 순서 협상하기"
+    "ko": "저자 순서 협상하기",
+    "ru": "Обсуждение авторства",
+    "bn": "লেখকস্বত্ব নিয়ে আলোচনা",
+    "ur": "مصنفین کی ترتیب پر گفت و شنید",
+    "zh-CN": "协商作者署名",
+    "ja": "著者順の交渉"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Người cộng tác (AI) muốn đứng tên tác giả chính trong bài báo chung, dù bạn là người làm phần lớn việc phân tích.",
     "id": "Kolaboratormu (AI) ingin menjadi penulis pertama di makalah bersama kalian, padahal sebagian besar analisis kamu yang mengerjakan.",
     "ms": "Rakan kolaborasi anda (AI) mahu menjadi pengarang pertama kertas kerja bersama anda, walaupun anda yang membuat kebanyakan analisis.",
-    "ko": "분석은 대부분 당신이 했는데, 공동 연구자(AI)가 공동 논문의 제1저자가 되고 싶어 해요."
+    "ko": "분석은 대부분 당신이 했는데, 공동 연구자(AI)가 공동 논문의 제1저자가 되고 싶어 해요.",
+    "ru": "Ваш соавтор (AI) хочет быть первым автором совместной статьи, хотя большую часть анализа сделали вы.",
+    "bn": "আপনার সহযোগী (AI) যৌথ গবেষণাপত্রে প্রথম লেখক হতে চান, যদিও বিশ্লেষণের বেশিরভাগ কাজ আপনি করেছেন।",
+    "ur": "آپ کا شریکِ کار (AI) مشترکہ مقالے کا پہلا مصنف بننا چاہتا ہے، حالانکہ زیادہ تر تجزیہ آپ نے کیا ہے۔",
+    "zh-CN": "你的合作者（AI）想在你们的合著论文中担任第一作者，尽管大部分分析是你完成的。",
+    "ja": "共同研究者（AI）が共著論文の筆頭著者になりたがっていますが、分析の大部分を行ったのはあなたです。"
   },
   "mission": {
     "native": "Make the case for your contribution and agree on a fair author order.",
@@ -61,7 +71,12 @@
       "vi": "Nêu rõ đóng góp của bạn và thống nhất thứ tự tác giả công bằng.",
       "id": "Tunjukkan kontribusimu dan sepakati urutan penulis yang adil.",
       "ms": "Pertahankan sumbangan anda dan setuju tentang susunan pengarang yang adil.",
-      "ko": "자신의 기여를 주장하고 공정한 저자 순서에 합의하세요."
+      "ko": "자신의 기여를 주장하고 공정한 저자 순서에 합의하세요.",
+      "ru": "Обоснуйте свой вклад и договоритесь о справедливом порядке авторов.",
+      "bn": "আপনার অবদানের পক্ষে যুক্তি দিন এবং ন্যায্য লেখকক্রমে একমত হন।",
+      "ur": "اپنے حصے کی اہمیت واضح کریں اور مصنفین کی منصفانہ ترتیب پر اتفاق کریں۔",
+      "zh-CN": "阐明你的贡献，并商定公平的作者顺序。",
+      "ja": "自分の貢献を主張し、公平な著者順について合意しましょう。"
     },
     "practice": "Defienda su aporte y acuerden un orden de autores justo.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Nêu vấn đề thứ tự tác giả",
           "id": "Angkat soal urutan penulis",
           "ms": "Bangkitkan soal susunan pengarang",
-          "ko": "저자 순서 문제를 꺼내세요"
+          "ko": "저자 순서 문제를 꺼내세요",
+          "ru": "Поднимите вопрос о порядке авторов",
+          "bn": "লেখকক্রমের প্রসঙ্গ তুলুন",
+          "ur": "مصنفین کی ترتیب کا معاملہ اٹھائیں",
+          "zh-CN": "提出作者顺序的问题",
+          "ja": "著者順の話を切り出す"
         },
         "practice": "Plantee el tema del orden de autores",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Mô tả đóng góp của bạn cho bài báo",
           "id": "Jelaskan kontribusimu pada makalah",
           "ms": "Terangkan sumbangan anda kepada kertas kerja",
-          "ko": "논문에 대한 자신의 기여를 설명하세요"
+          "ko": "논문에 대한 자신의 기여를 설명하세요",
+          "ru": "Опишите свой вклад в статью",
+          "bn": "প্রবন্ধে আপনার অবদান বর্ণনা করুন",
+          "ur": "مقالے میں اپنا حصہ بیان کریں",
+          "zh-CN": "描述你对论文的贡献",
+          "ja": "論文へのあなたの貢献を説明しましょう"
         },
         "practice": "Describa su aporte al artículo",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đề xuất một thứ tự tác giả công bằng",
           "id": "Usulkan urutan penulis yang adil",
           "ms": "Cadangkan susunan pengarang yang adil",
-          "ko": "공정한 저자 순서를 제안하세요"
+          "ko": "공정한 저자 순서를 제안하세요",
+          "ru": "Предложите справедливый порядок авторов",
+          "bn": "লেখকদের একটি ন্যায্য ক্রম প্রস্তাব করুন",
+          "ur": "مصنفین کی منصفانہ ترتیب تجویز کریں",
+          "zh-CN": "提出公平的作者排序",
+          "ja": "公平な著者順を提案しましょう"
         },
         "practice": "Proponga un orden de autores justo",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất thứ tự tác giả cuối cùng",
           "id": "Sepakati urutan penulis akhir",
           "ms": "Setuju tentang susunan pengarang muktamad",
-          "ko": "최종 저자 순서에 합의하세요"
+          "ko": "최종 저자 순서에 합의하세요",
+          "ru": "Договоритесь об окончательном порядке авторов",
+          "bn": "লেখকদের চূড়ান্ত ক্রম নিয়ে একমত হন",
+          "ur": "مصنفین کی حتمی ترتیب پر اتفاق کریں",
+          "zh-CN": "商定最终的作者排序",
+          "ja": "最終的な著者順に合意しましょう"
         },
         "practice": "Acuerden el orden final de autores",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Trước khi nộp bài, mình bàn về thứ tự tác giả được không?",
         "id": "Sebelum kita kirim, bisakah kita bicara soal urutan penulis?",
         "ms": "Sebelum kita hantar, boleh kita bincang tentang susunan pengarang?",
-        "ko": "투고하기 전에 저자 순서에 대해 이야기할 수 있을까요?"
+        "ko": "투고하기 전에 저자 순서에 대해 이야기할 수 있을까요?",
+        "ru": "Прежде чем отправлять, можем обсудить порядок авторов?",
+        "bn": "জমা দেওয়ার আগে, আমরা কি লেখকদের ক্রম নিয়ে কথা বলতে পারি?",
+        "ur": "جمع کرانے سے پہلے، کیا ہم مصنفین کی ترتیب پر بات کر سکتے ہیں؟",
+        "zh-CN": "投稿之前，我们能谈谈作者排序吗？",
+        "ja": "投稿する前に、著者順について話し合えますか？"
       },
       "practice": "Antes de enviarlo, ¿podemos hablar del orden de autores?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi đã làm phần lớn việc phân tích và viết phần kết quả.",
         "id": "Saya yang mengerjakan sebagian besar analisis dan menulis bagian hasil.",
         "ms": "Saya yang membuat kebanyakan analisis dan menulis bahagian keputusan.",
-        "ko": "분석은 대부분 제가 했고 결과 부분도 제가 썼어요."
+        "ko": "분석은 대부분 제가 했고 결과 부분도 제가 썼어요.",
+        "ru": "Я провёл бо́льшую часть анализа и написал раздел с результатами.",
+        "bn": "আমি বেশিরভাগ বিশ্লেষণ করেছি এবং ফলাফল অংশটি লিখেছি।",
+        "ur": "میں نے زیادہ تر تجزیہ کیا اور نتائج والا حصہ لکھا۔",
+        "zh-CN": "大部分分析是我做的，结果部分也是我写的。",
+        "ja": "分析の大部分は私が行い、結果のセクションも書きました。"
       },
       "practice": "Yo hice la mayor parte del análisis y escribí la sección de resultados.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Tôi rất trân trọng ý tưởng và sự hướng dẫn của anh/chị.",
         "id": "Saya sangat menghargai ide dan bimbingan Anda.",
         "ms": "Saya sangat menghargai idea dan bimbingan anda.",
-        "ko": "선생님의 아이디어와 지도를 정말 소중하게 생각해요."
+        "ko": "선생님의 아이디어와 지도를 정말 소중하게 생각해요.",
+        "ru": "Я очень ценю ваши идеи и ваше руководство.",
+        "bn": "আমি আপনার ধারণা ও দিকনির্দেশনাকে সত্যিই মূল্য দিই।",
+        "ur": "میں آپ کے خیالات اور رہنمائی کی واقعی بہت قدر کرتا ہوں۔",
+        "zh-CN": "我非常重视您的想法和指导。",
+        "ja": "あなたのアイデアとご指導には本当に感謝しています。"
       },
       "practice": "Valoro mucho sus ideas y su orientación.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Hay là tôi đứng tên tác giả chính, còn anh/chị là tác giả liên hệ?",
         "id": "Bagaimana kalau saya penulis pertama dan Anda penulis korespondensi?",
         "ms": "Bagaimana kalau saya jadi pengarang pertama dan anda pengarang koresponden?",
-        "ko": "제가 제1저자를 하고 선생님이 교신저자를 맡으시면 어떨까요?"
+        "ko": "제가 제1저자를 하고 선생님이 교신저자를 맡으시면 어떨까요?",
+        "ru": "Что, если я буду первым автором, а вы — автором для переписки?",
+        "bn": "যদি আমি প্রথম লেখক হই আর আপনি করেসপন্ডিং লেখক হন?",
+        "ur": "اگر میں پہلا مصنف ہوں اور آپ رابطہ کار مصنف ہوں تو کیسا رہے گا؟",
+        "zh-CN": "我做第一作者，您做通讯作者，怎么样？",
+        "ja": "私が筆頭著者で、あなたが責任著者というのはどうでしょう？"
       },
       "practice": "¿Qué le parece si yo soy primer autor y usted el autor de correspondencia?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Ở bài báo sau, mình có thể đổi thứ tự.",
         "id": "Di makalah berikutnya, kita bisa menukar urutannya.",
         "ms": "Untuk kertas kerja seterusnya, kita boleh tukar susunannya.",
-        "ko": "다음 논문에서는 순서를 바꿀 수도 있어요."
+        "ko": "다음 논문에서는 순서를 바꿀 수도 있어요.",
+        "ru": "В следующей статье мы могли бы поменяться местами.",
+        "bn": "পরের প্রবন্ধে আমরা ক্রমটা বদলে নিতে পারি।",
+        "ur": "اگلے مقالے میں ہم ترتیب بدل سکتے ہیں۔",
+        "zh-CN": "下一篇论文我们可以调换顺序。",
+        "ja": "次の論文では順番を入れ替えられますよ。"
       },
       "practice": "En el próximo artículo podríamos invertir el orden.",
       "practice_translations": {

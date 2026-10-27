@@ -18,7 +18,12 @@
     "vi": "Khoan, mình từng gặp nhau rồi à?",
     "id": "Tunggu, Kita Pernah Bertemu?",
     "ms": "Eh, Kita Pernah Jumpa?",
-    "ko": "잠깐, 우리 만난 적 있죠?"
+    "ko": "잠깐, 우리 만난 적 있죠?",
+    "ru": "Погоди, мы уже встречались?",
+    "bn": "দাঁড়াও, আমাদের আগে দেখা হয়েছে?",
+    "ur": "رکو، کیا ہم پہلے مل چکے ہیں؟",
+    "zh-CN": "等等，我们见过？",
+    "ja": "待って、前に会ったことある？"
   },
   "character": "fox",
   "scenario": "Halfway through dinner, you realize your blind date (AI) is the person who stole your parking spot this morning, and they recognize you too.",
@@ -39,7 +44,12 @@
     "vi": "Bữa tối đang diễn ra thì bạn nhận ra người hẹn hò giấu mặt (AI) chính là người đã giành chỗ đậu xe của bạn sáng nay, và họ cũng nhận ra bạn.",
     "id": "Di tengah makan malam, kamu sadar teman kencan butamu (AI) adalah orang yang merebut tempat parkirmu tadi pagi, dan dia juga mengenalimu.",
     "ms": "Separuh jalan makan malam, anda sedar pasangan janji temu buta anda (AI) ialah orang yang mencuri tempat letak kereta anda pagi tadi, dan dia juga mengenali anda.",
-    "ko": "저녁 식사 도중, 소개팅 상대(AI)가 오늘 아침 당신의 주차 자리를 가로챈 사람이라는 걸 깨달아요. 상대도 당신을 알아봐요."
+    "ko": "저녁 식사 도중, 소개팅 상대(AI)가 오늘 아침 당신의 주차 자리를 가로챈 사람이라는 걸 깨달아요. 상대도 당신을 알아봐요.",
+    "ru": "В разгар ужина вы понимаете, что ваше свидание вслепую (AI) — это тот самый человек, который утром занял ваше парковочное место, и он вас тоже узнаёт.",
+    "bn": "ডিনারের মাঝপথে আপনি বুঝতে পারেন যে আপনার ব্লাইন্ড ডেট (AI) সেই ব্যক্তি যিনি আজ সকালে আপনার পার্কিংয়ের জায়গা নিয়ে নিয়েছিলেন, আর তিনিও আপনাকে চিনে ফেলেন।",
+    "ur": "ڈنر کے دوران آپ کو احساس ہوتا ہے کہ آپ کی بلائنڈ ڈیٹ (AI) وہی شخص ہے جس نے آج صبح آپ کی پارکنگ کی جگہ لے لی تھی، اور وہ بھی آپ کو پہچان لیتے ہیں۔",
+    "zh-CN": "晚餐吃到一半，你发现你的相亲对象（AI）就是今天早上抢了你车位的人，而对方也认出了你。",
+    "ja": "ディナーの途中で、ブラインドデートの相手（AI）が今朝あなたの駐車スペースを横取りした人だと気づきます。相手もあなたに気づいたようです。"
   },
   "mission": {
     "native": "Turn the awkward coincidence into a laugh and keep the date going.",
@@ -60,7 +70,12 @@
       "vi": "Biến sự trùng hợp khó xử thành tiếng cười và tiếp tục buổi hẹn.",
       "id": "Ubah kebetulan yang canggung ini jadi bahan tawa dan lanjutkan kencannya.",
       "ms": "Jadikan kebetulan yang janggal itu bahan ketawa dan teruskan janji temu.",
-      "ko": "어색한 우연을 웃음으로 바꾸고 데이트를 이어 가세요."
+      "ko": "어색한 우연을 웃음으로 바꾸고 데이트를 이어 가세요.",
+      "ru": "Превратите неловкое совпадение в шутку и продолжите свидание.",
+      "bn": "বিব্রতকর কাকতালীয় ঘটনাটিকে হাসির বিষয়ে পরিণত করুন এবং ডেট চালিয়ে যান।",
+      "ur": "اس عجیب اتفاق کو ہنسی میں بدلیں اور ڈیٹ جاری رکھیں۔",
+      "zh-CN": "把这个尴尬的巧合变成笑料，让约会继续下去。",
+      "ja": "気まずい偶然を笑いに変えて、デートを続けましょう。"
     },
     "practice": "Convierta la incómoda coincidencia en una risa y siga con la cita.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nhắc rằng hai người đã từng gặp nhau",
           "id": "Sebutkan bahwa kalian pernah bertemu",
           "ms": "Sebut bahawa anda pernah berjumpa sebelum ini",
-          "ko": "전에 만난 적이 있다고 말하세요"
+          "ko": "전에 만난 적이 있다고 말하세요",
+          "ru": "Скажите, что вы уже встречались",
+          "bn": "উল্লেখ করুন যে আপনাদের আগে দেখা হয়েছে",
+          "ur": "بتائیں کہ آپ پہلے مل چکے ہیں",
+          "zh-CN": "提到你们之前见过",
+          "ja": "以前会ったことがあると伝えましょう"
         },
         "practice": "Mencione que ya se conocían",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Kể lại chuyện xảy ra sáng nay",
           "id": "Ceritakan apa yang terjadi tadi pagi",
           "ms": "Ceritakan apa yang berlaku pagi tadi",
-          "ko": "오늘 아침에 있었던 일을 이야기하세요"
+          "ko": "오늘 아침에 있었던 일을 이야기하세요",
+          "ru": "Опишите, что произошло сегодня утром",
+          "bn": "আজ সকালে কী ঘটেছিল তা বর্ণনা করুন",
+          "ur": "بیان کریں کہ آج صبح کیا ہوا تھا",
+          "zh-CN": "描述今天早上发生的事",
+          "ja": "今朝何があったか説明しましょう"
         },
         "practice": "Describa lo que pasó esta mañana",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Pha trò để không khí bớt căng thẳng",
           "id": "Buat lelucon untuk mencairkan suasana",
           "ms": "Buat jenaka untuk meredakan suasana",
-          "ko": "농담으로 분위기를 풀어 보세요"
+          "ko": "농담으로 분위기를 풀어 보세요",
+          "ru": "Пошутите, чтобы разрядить обстановку",
+          "bn": "পরিবেশ হালকা করতে একটা মজা করুন",
+          "ur": "ماحول ہلکا کرنے کے لیے کوئی مذاق کریں",
+          "zh-CN": "开个玩笑缓和气氛",
+          "ja": "冗談を言って場を和ませましょう"
         },
         "practice": "Haga una broma para relajar el ambiente",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Gợi ý cùng gọi món tráng miệng",
           "id": "Usulkan untuk memesan hidangan penutup bersama",
           "ms": "Cadangkan pesan pencuci mulut bersama",
-          "ko": "디저트를 같이 주문하자고 제안하세요"
+          "ko": "디저트를 같이 주문하자고 제안하세요",
+          "ru": "Предложите вместе заказать десерт",
+          "bn": "একসাথে ডেজার্ট অর্ডার করার প্রস্তাব দিন",
+          "ur": "مل کر میٹھا منگوانے کی تجویز دیں",
+          "zh-CN": "提议一起点份甜点",
+          "ja": "一緒にデザートを頼もうと提案しましょう"
         },
         "practice": "Sugiera pedir un postre juntos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Khoan đã... hình như mình từng gặp nhau rồi thì phải?",
         "id": "Tunggu sebentar... bukankah kita pernah bertemu?",
         "ms": "Sekejap... kita pernah jumpa sebelum ini, kan?",
-        "ko": "잠깐만요... 우리 전에 만난 적 있지 않아요?"
+        "ko": "잠깐만요... 우리 전에 만난 적 있지 않아요?",
+        "ru": "Секундочку... мы ведь уже встречались?",
+        "bn": "এক সেকেন্ড... আমাদের কি আগে দেখা হয়নি?",
+        "ur": "ایک سیکنڈ... کیا ہم پہلے نہیں مل چکے؟",
+        "zh-CN": "等一下……我们是不是见过？",
+        "ja": "ちょっと待って…前に会ったことない？"
       },
       "practice": "Espera un momento... ¿no nos conocemos ya?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Sáng nay bạn giành chỗ đậu xe của mình!",
         "id": "Kamu yang mengambil tempat parkir saya tadi pagi!",
         "ms": "Awak ambil tempat letak kereta saya pagi tadi!",
-        "ko": "오늘 아침에 제 주차 자리를 가져가셨잖아요!"
+        "ko": "오늘 아침에 제 주차 자리를 가져가셨잖아요!",
+        "ru": "Это ты утром занял моё парковочное место!",
+        "bn": "তুমি আজ সকালে আমার পার্কিংয়ের জায়গা নিয়ে নিয়েছিলে!",
+        "ur": "تم نے آج صبح میری پارکنگ کی جگہ لے لی تھی!",
+        "zh-CN": "今天早上就是你抢了我的车位！",
+        "ja": "今朝、私の駐車スペースを取ったでしょ！"
       },
       "practice": "¡Esta mañana me quitaste el lugar de estacionamiento!",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Mình tức đến mức bấm còi suốt cả phút.",
         "id": "Saya kesal sekali sampai membunyikan klakson satu menit penuh.",
         "ms": "Saya marah sangat sampai saya hon selama seminit penuh.",
-        "ko": "너무 화가 나서 1분 내내 경적을 울렸어요."
+        "ko": "너무 화가 나서 1분 내내 경적을 울렸어요.",
+        "ru": "Я так разозлился, что сигналил целую минуту.",
+        "bn": "আমি এত রেগে গিয়েছিলাম যে পুরো এক মিনিট হর্ন বাজিয়েছি।",
+        "ur": "مجھے اتنا غصہ آیا کہ میں نے پورا ایک منٹ ہارن بجایا۔",
+        "zh-CN": "我气坏了，按了整整一分钟喇叭。",
+        "ja": "腹が立って、まるまる1分間クラクションを鳴らしたよ。"
       },
       "practice": "Estaba tan enojado que toqué la bocina un minuto entero.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Thôi, giờ bạn nợ mình một món tráng miệng đấy.",
         "id": "Nah, sekarang kamu berutang hidangan penutup ke saya.",
         "ms": "Jadi, sekarang awak berhutang pencuci mulut dengan saya.",
-        "ko": "그럼 이제 저한테 디저트 사셔야겠네요."
+        "ko": "그럼 이제 저한테 디저트 사셔야겠네요.",
+        "ru": "Ну, теперь с тебя десерт.",
+        "bn": "আচ্ছা, এখন তুমি আমাকে একটা ডেজার্ট খাওয়াবে।",
+        "ur": "خیر، اب تم پر میرا ایک ڈیزرٹ ادھار ہے۔",
+        "zh-CN": "好吧，现在你欠我一份甜点。",
+        "ja": "じゃあ、デザートおごってね。"
       },
       "practice": "Bueno, ahora me debes el postre.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Mình gọi món gì ngọt ăn chung nhé?",
         "id": "Bagaimana kalau kita berbagi sesuatu yang manis?",
         "ms": "Nak kongsi sesuatu yang manis?",
-        "ko": "달달한 거 하나 같이 먹을까요?"
+        "ko": "달달한 거 하나 같이 먹을까요?",
+        "ru": "Возьмём что-нибудь сладкое на двоих?",
+        "bn": "আমরা কি মিষ্টি কিছু ভাগ করে খাব?",
+        "ur": "کیا ہم کوئی میٹھی چیز مل کر کھائیں؟",
+        "zh-CN": "我们一起点个甜点吧？",
+        "ja": "甘いものをシェアしない？"
       },
       "practice": "¿Compartimos algo dulce?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Phản biện một nhận định",
     "id": "Mempertanyakan Sebuah Klaim",
     "ms": "Mempersoalkan Satu Dakwaan",
-    "ko": "주장에 이의 제기하기"
+    "ko": "주장에 이의 제기하기",
+    "ru": "Оспаривание утверждения",
+    "bn": "একটি দাবিকে প্রশ্ন করা",
+    "ur": "کسی دعوے کو چیلنج کرنا",
+    "zh-CN": "质疑一个观点",
+    "ja": "主張に異議を唱える"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Trong một buổi seminar, một học giả thỉnh giảng (AI) đưa ra một nhận định mạnh mà bạn cho rằng dữ liệu không ủng hộ.",
     "id": "Dalam seminar, seorang akademisi tamu (AI) membuat klaim tegas yang menurutmu tidak didukung data.",
     "ms": "Dalam satu seminar, seorang sarjana pelawat (AI) membuat dakwaan yang kuat yang anda rasa tidak disokong oleh data.",
-    "ko": "세미나에서 방문 학자(AI)가 강한 주장을 펼치는데, 당신은 데이터가 그 주장을 뒷받침하지 않는다고 생각해요."
+    "ko": "세미나에서 방문 학자(AI)가 강한 주장을 펼치는데, 당신은 데이터가 그 주장을 뒷받침하지 않는다고 생각해요.",
+    "ru": "На семинаре приглашённый учёный (AI) делает смелое утверждение, которое, по-вашему, не подтверждается данными.",
+    "bn": "একটি সেমিনারে একজন অতিথি গবেষক (AI) একটি জোরালো দাবি করেন, যা আপনার মতে তথ্য দ্বারা সমর্থিত নয়।",
+    "ur": "ایک سیمینار میں ایک مہمان اسکالر (AI) ایک زوردار دعویٰ کرتے ہیں جس کی آپ کے خیال میں ڈیٹا تائید نہیں کرتا۔",
+    "zh-CN": "在一次研讨会上，一位访问学者（AI）提出了一个强烈的观点，而你认为数据并不支持它。",
+    "ja": "セミナーで客員研究者（AI）が、データに裏付けられていないとあなたが考える強い主張をします。"
   },
   "mission": {
     "native": "Respectfully question the claim and defend your point of view with evidence.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự đặt câu hỏi về nhận định đó và bảo vệ quan điểm của bạn bằng bằng chứng.",
       "id": "Pertanyakan klaim itu dengan sopan dan pertahankan pendapatmu dengan bukti.",
       "ms": "Persoalkan dakwaan itu dengan hormat dan pertahankan pandangan anda dengan bukti.",
-      "ko": "정중하게 그 주장에 의문을 제기하고 근거를 들어 자신의 관점을 옹호하세요."
+      "ko": "정중하게 그 주장에 의문을 제기하고 근거를 들어 자신의 관점을 옹호하세요.",
+      "ru": "Вежливо оспорьте утверждение и отстаивайте свою точку зрения с опорой на факты.",
+      "bn": "সম্মানের সঙ্গে দাবিটিকে প্রশ্ন করুন এবং প্রমাণ দিয়ে নিজের দৃষ্টিভঙ্গি তুলে ধরুন।",
+      "ur": "احترام کے ساتھ دعوے پر سوال اٹھائیں اور شواہد کے ساتھ اپنے نقطۂ نظر کا دفاع کریں۔",
+      "zh-CN": "礼貌地质疑该观点，并用证据捍卫你的立场。",
+      "ja": "敬意を持って主張に疑問を呈し、根拠を示して自分の見解を主張しましょう。"
     },
     "practice": "Cuestione la afirmación con respeto y defienda su punto de vista con pruebas.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Ghi nhận một điểm mạnh trong lập luận của họ",
           "id": "Akui satu kekuatan argumen mereka",
           "ms": "Akui satu kekuatan hujah mereka",
-          "ko": "상대 주장의 강점을 인정하세요"
+          "ko": "상대 주장의 강점을 인정하세요",
+          "ru": "Признайте сильную сторону их аргументации",
+          "bn": "তাদের যুক্তির একটি শক্তিশালী দিক স্বীকার করুন",
+          "ur": "ان کی دلیل کی ایک خوبی کا اعتراف کریں",
+          "zh-CN": "肯定对方论点的一个优点",
+          "ja": "相手の議論の長所を認める"
         },
         "practice": "Reconozca un punto fuerte de su argumento",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nói rõ bạn nghi ngờ nhận định nào",
           "id": "Sebutkan klaim yang kamu pertanyakan",
           "ms": "Nyatakan dakwaan yang anda persoalkan",
-          "ko": "어떤 주장에 의문이 있는지 말하세요"
+          "ko": "어떤 주장에 의문이 있는지 말하세요",
+          "ru": "Скажите, какое утверждение вызывает у вас сомнения",
+          "bn": "কোন দাবিটি নিয়ে আপনার সন্দেহ, তা বলুন",
+          "ur": "بتائیں کہ آپ کس دعوے پر سوال اٹھاتے ہیں",
+          "zh-CN": "说明你质疑的是哪个观点",
+          "ja": "どの主張に疑問があるかを述べましょう"
         },
         "practice": "Indique qué afirmación pone en duda",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Đưa ra bằng chứng ủng hộ quan điểm của bạn",
           "id": "Berikan bukti yang mendukung pendapatmu",
           "ms": "Berikan bukti yang menyokong pandangan anda",
-          "ko": "자신의 관점을 뒷받침하는 근거를 제시하세요"
+          "ko": "자신의 관점을 뒷받침하는 근거를 제시하세요",
+          "ru": "Приведите доказательства в поддержку своей позиции",
+          "bn": "আপনার মতের পক্ষে প্রমাণ দিন",
+          "ur": "اپنے مؤقف کی تائید میں ثبوت دیں",
+          "zh-CN": "提供支持你观点的证据",
+          "ja": "自分の見解を裏付ける根拠を示しましょう"
         },
         "practice": "Dé pruebas que respalden su postura",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Hỏi họ sẽ trả lời phản biện của bạn thế nào",
           "id": "Tanyakan bagaimana mereka menjawab keberatanmu",
           "ms": "Tanya bagaimana mereka akan menjawab bantahan anda",
-          "ko": "당신의 반론에 어떻게 답할지 물어보세요"
+          "ko": "당신의 반론에 어떻게 답할지 물어보세요",
+          "ru": "Спросите, как собеседник ответил бы на ваше возражение",
+          "bn": "জিজ্ঞেস করুন তাঁরা আপনার আপত্তির কী উত্তর দেবেন",
+          "ur": "پوچھیں کہ وہ آپ کے اعتراض کا کیا جواب دیں گے",
+          "zh-CN": "询问对方会如何回应你的异议",
+          "ja": "あなたの反論にどう答えるか尋ねましょう"
         },
         "practice": "Pregunte cómo respondería a su objeción",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Nhìn chung tôi thấy lập luận của anh/chị rất thuyết phục.",
         "id": "Secara keseluruhan, argumen Anda sangat meyakinkan.",
         "ms": "Secara keseluruhan, saya dapati hujah anda sangat meyakinkan.",
-        "ko": "전반적으로 주장이 아주 설득력 있었어요."
+        "ko": "전반적으로 주장이 아주 설득력 있었어요.",
+        "ru": "В целом ваша аргументация показалась мне очень убедительной.",
+        "bn": "সব মিলিয়ে আপনার যুক্তি আমার কাছে খুবই বিশ্বাসযোগ্য মনে হয়েছে।",
+        "ur": "مجموعی طور پر مجھے آپ کی دلیل بہت قائل کن لگی۔",
+        "zh-CN": "总体来说，我觉得你的论证很有说服力。",
+        "ja": "全体として、あなたの主張はとても説得力があると思いました。"
       },
       "practice": "En general, su argumento me pareció muy convincente.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tuy nhiên, tôi không chắc dữ liệu ủng hộ điểm cuối cùng đó.",
         "id": "Namun, saya tidak yakin datanya mendukung poin terakhir itu.",
         "ms": "Namun, saya tidak pasti data menyokong perkara terakhir itu.",
-        "ko": "하지만 데이터가 마지막 논점을 뒷받침하는지는 잘 모르겠어요."
+        "ko": "하지만 데이터가 마지막 논점을 뒷받침하는지는 잘 모르겠어요.",
+        "ru": "Однако я не уверен, что данные подтверждают последний пункт.",
+        "bn": "তবে, আমি নিশ্চিত নই যে তথ্য-উপাত্ত শেষ বিষয়টি সমর্থন করে।",
+        "ur": "تاہم، مجھے یقین نہیں کہ اعداد و شمار اس آخری نکتے کی تائید کرتے ہیں۔",
+        "zh-CN": "不过，我不确定数据能支持最后那一点。",
+        "ja": "ただ、データが最後の点を裏付けているかは分かりません。"
       },
       "practice": "Sin embargo, no estoy seguro de que los datos respalden ese último punto.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Các nghiên cứu khác lại cho thấy tác động ngược lại.",
         "id": "Penelitian lain justru menemukan efek sebaliknya.",
         "ms": "Kajian lain mendapati kesan yang sebaliknya.",
-        "ko": "다른 연구들에서는 정반대의 효과가 나타났어요."
+        "ko": "다른 연구들에서는 정반대의 효과가 나타났어요.",
+        "ru": "Другие исследования выявили обратный эффект.",
+        "bn": "অন্যান্য গবেষণায় বিপরীত প্রভাব পাওয়া গেছে।",
+        "ur": "دوسری تحقیقات میں اس کے برعکس اثر پایا گیا ہے۔",
+        "zh-CN": "其他研究发现了相反的效果。",
+        "ja": "他の研究では逆の効果が見られています。"
       },
       "practice": "Otros estudios han encontrado el efecto contrario.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Liệu kết quả này có thể do một yếu tố khác gây ra không?",
         "id": "Mungkinkah hasil itu dijelaskan oleh faktor lain?",
         "ms": "Mungkinkah keputusan itu dijelaskan oleh faktor lain?",
-        "ko": "그 결과가 다른 요인으로 설명될 수도 있지 않을까요?"
+        "ko": "그 결과가 다른 요인으로 설명될 수도 있지 않을까요?",
+        "ru": "Может ли результат объясняться другим фактором?",
+        "bn": "ফলাফলটি কি অন্য কোনো কারণ দিয়ে ব্যাখ্যা করা যায়?",
+        "ur": "کیا اس نتیجے کی وضاحت کسی اور عنصر سے ہو سکتی ہے؟",
+        "zh-CN": "这个结果会不会是其他因素造成的？",
+        "ja": "その結果は別の要因で説明できるのではないでしょうか？"
       },
       "practice": "¿Podría explicarse el resultado por otro factor?",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Anh/chị sẽ trả lời mối lo ngại đó như thế nào?",
         "id": "Bagaimana tanggapan Anda terhadap kekhawatiran itu?",
         "ms": "Bagaimana anda akan menjawab kebimbangan itu?",
-        "ko": "그런 우려에는 어떻게 답하시겠어요?"
+        "ko": "그런 우려에는 어떻게 답하시겠어요?",
+        "ru": "Как бы вы ответили на это возражение?",
+        "bn": "এই উদ্বেগের আপনি কী উত্তর দেবেন?",
+        "ur": "آپ اس تشویش کا کیا جواب دیں گے؟",
+        "zh-CN": "你会如何回应这个疑虑？",
+        "ja": "その懸念にはどうお答えになりますか？"
       },
       "practice": "¿Cómo respondería a esa inquietud?",
       "practice_translations": {

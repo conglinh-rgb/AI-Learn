@@ -18,7 +18,12 @@
     "vi": "Bàn chuyện lương",
     "id": "Membahas Gaji",
     "ms": "Berbincang Tentang Gaji",
-    "ko": "연봉 이야기하기"
+    "ko": "연봉 이야기하기",
+    "ru": "Разговор о зарплате",
+    "bn": "বেতন নিয়ে আলোচনা",
+    "ur": "تنخواہ کی بات",
+    "zh-CN": "谈薪资",
+    "ja": "給与について話す"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Bạn đã nhận được lời mời làm việc! Quản lý (AI) đề xuất mức lương hơi thấp hơn bạn mong đợi.",
     "id": "Kamu mendapat tawarannya! Manajer (AI) mengusulkan gaji yang sedikit lebih rendah dari harapanmu.",
     "ms": "Anda mendapat tawaran kerja! Pengurus (AI) mencadangkan gaji yang sedikit lebih rendah daripada jangkaan anda.",
-    "ko": "합격 제안을 받았어요! 그런데 매니저(AI)가 기대보다 조금 낮은 연봉을 제시합니다."
+    "ko": "합격 제안을 받았어요! 그런데 매니저(AI)가 기대보다 조금 낮은 연봉을 제시합니다.",
+    "ru": "Вам сделали предложение! Менеджер (AI) предлагает зарплату немного ниже, чем вы ожидали.",
+    "bn": "আপনি চাকরির প্রস্তাব পেয়েছেন! ম্যানেজার (AI) আপনার প্রত্যাশার চেয়ে একটু কম বেতন প্রস্তাব করছেন।",
+    "ur": "آپ کو آفر مل گئی! مینیجر (AI) آپ کی توقع سے تھوڑی کم تنخواہ کی پیشکش کرتا ہے۔",
+    "zh-CN": "你拿到录用通知了！经理（AI）提出的薪资比你预期的略低。",
+    "ja": "内定をもらいました！マネージャー（AI）が提示した給与は、期待より少し低めです。"
   },
   "mission": {
     "native": "Negotiate politely and reach a salary you are happy with.",
@@ -61,7 +71,12 @@
       "vi": "Lịch sự thương lượng và đạt được mức lương bạn hài lòng.",
       "id": "Bernegosiasilah dengan sopan dan capai gaji yang membuatmu puas.",
       "ms": "Berunding dengan sopan dan capai gaji yang anda puas hati.",
-      "ko": "정중하게 협상해서 만족할 만한 연봉으로 합의하세요."
+      "ko": "정중하게 협상해서 만족할 만한 연봉으로 합의하세요.",
+      "ru": "Вежливо договоритесь о зарплате, которая вас устроит.",
+      "bn": "ভদ্রভাবে দর কষাকষি করে সন্তোষজনক বেতনে পৌঁছান।",
+      "ur": "شائستگی سے بات چیت کریں اور ایسی تنخواہ طے کریں جس سے آپ مطمئن ہوں۔",
+      "zh-CN": "礼貌地谈判，争取到你满意的薪资。",
+      "ja": "丁寧に交渉して、納得できる給与で合意しましょう。"
     },
     "practice": "Negocie con cortesía y consiga un salario con el que esté contenta.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Cảm ơn họ vì lời mời làm việc",
           "id": "Ucapkan terima kasih atas tawarannya",
           "ms": "Ucapkan terima kasih atas tawaran itu",
-          "ko": "제안해 주셔서 감사하다고 말하세요"
+          "ko": "제안해 주셔서 감사하다고 말하세요",
+          "ru": "Поблагодарите за предложение",
+          "bn": "প্রস্তাবের জন্য ধন্যবাদ দিন",
+          "ur": "آفر کے لیے شکریہ ادا کریں",
+          "zh-CN": "感谢对方的录用",
+          "ja": "オファーへのお礼を伝えましょう"
         },
         "practice": "Agradezca la oferta",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nói mức lương bạn mong muốn",
           "id": "Sebutkan gaji yang kamu harapkan",
           "ms": "Nyatakan gaji yang anda jangkakan",
-          "ko": "기대했던 연봉을 말하세요"
+          "ko": "기대했던 연봉을 말하세요",
+          "ru": "Назовите ожидаемую зарплату",
+          "bn": "আপনার প্রত্যাশিত বেতন বলুন",
+          "ur": "اپنی متوقع تنخواہ بتائیں",
+          "zh-CN": "说出你期望的薪资",
+          "ja": "希望していた給与額を伝えましょう"
         },
         "practice": "Diga el salario que esperaba",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Giải thích vì sao bạn xứng đáng với mức đó",
           "id": "Jelaskan kenapa kamu layak mendapatkannya",
           "ms": "Terangkan mengapa anda layak mendapatnya",
-          "ko": "그 연봉을 받아야 하는 이유를 설명하세요"
+          "ko": "그 연봉을 받아야 하는 이유를 설명하세요",
+          "ru": "Объясните, почему вы этого заслуживаете",
+          "bn": "কেন আপনি এর যোগ্য তা ব্যাখ্যা করুন",
+          "ur": "وضاحت کریں کہ آپ اس کے حقدار کیوں ہیں",
+          "zh-CN": "解释你为什么值得这个薪资",
+          "ja": "それに見合う理由を説明しましょう"
         },
         "practice": "Explique por qué lo merece",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Thống nhất lời đề nghị cuối cùng",
           "id": "Sepakati tawaran akhirnya",
           "ms": "Setuju dengan tawaran akhir",
-          "ko": "최종 제안에 합의하세요"
+          "ko": "최종 제안에 합의하세요",
+          "ru": "Согласуйте окончательное предложение",
+          "bn": "চূড়ান্ত প্রস্তাবে একমত হন",
+          "ur": "حتمی پیشکش پر اتفاق کریں",
+          "zh-CN": "就最终方案达成一致",
+          "ja": "最終条件に合意しましょう"
         },
         "practice": "Acuerden la oferta final",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
         "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
         "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
-        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요.",
+        "ru": "Спасибо, что приняли меня. Я очень рада быть здесь.",
+        "bn": "আমাকে স্বাগত জানানোর জন্য ধন্যবাদ। এখানে আসতে পেরে আমি সত্যিই উচ্ছ্বসিত।",
+        "ur": "مجھے خوش آمدید کہنے کا شکریہ۔ میں یہاں آ کر واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "谢谢您的欢迎。能来这里我真的很兴奋。",
+        "ja": "迎えていただきありがとうございます。ここに来られて本当にわくわくしています。"
       },
       "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
         "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
         "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
-        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요.",
+        "ru": "У меня три года опыта в обслуживании клиентов.",
+        "bn": "গ্রাহকসেবায় আমার তিন বছরের অভিজ্ঞতা আছে।",
+        "ur": "مجھے کسٹمر سروس میں تین سال کا تجربہ ہے۔",
+        "zh-CN": "我有三年的客户服务经验。",
+        "ja": "カスタマーサービスで3年の経験があります。"
       },
       "practice": "Tengo tres años de experiencia en atención al cliente.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
         "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
         "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
-        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요.",
+        "ru": "Одна из моих сильных сторон — умение хорошо работать в команде.",
+        "bn": "আমার একটি শক্তির দিক হলো দলের সাথে ভালোভাবে কাজ করা।",
+        "ur": "میری ایک خوبی یہ ہے کہ میں ٹیم میں اچھا کام کرتا ہوں۔",
+        "zh-CN": "我的优势之一是善于团队合作。",
+        "ja": "私の強みの一つは、チームでうまく働けることです。"
       },
       "practice": "Una de mis fortalezas es trabajar bien en equipo.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
         "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
         "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
-        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?",
+        "ru": "Не могли бы вы рассказать подробнее об этой должности?",
+        "bn": "এই পদটি সম্পর্কে আরও কিছু বলবেন কি?",
+        "ur": "کیا آپ مجھے اس عہدے کے بارے میں مزید بتا سکتے ہیں؟",
+        "zh-CN": "您能再多介绍一下这个职位吗？",
+        "ja": "この職務についてもう少し詳しく教えていただけますか？"
       },
       "practice": "¿Podría contarme más sobre el puesto?",
       "practice_translations": {

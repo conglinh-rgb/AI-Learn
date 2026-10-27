@@ -18,7 +18,12 @@
     "vi": "Trò chuyện trong bữa tối hội nghị",
     "id": "Obrolan Saat Makan Malam Konferensi",
     "ms": "Berbual Semasa Makan Malam Persidangan",
-    "ko": "학회 만찬에서의 대화"
+    "ko": "학회 만찬에서의 대화",
+    "ru": "Беседа на ужине конференции",
+    "bn": "সম্মেলনের নৈশভোজে আলাপ",
+    "ur": "کانفرنس ڈنر پر گفتگو",
+    "zh-CN": "会议晚宴交谈",
+    "ja": "学会ディナーでの会話"
   },
   "character": "fox",
   "scenario": "At the conference dinner, you sit next to a senior researcher (AI) from another country.",
@@ -39,7 +44,12 @@
     "vi": "Tại bữa tối của hội nghị, bạn ngồi cạnh một nhà nghiên cứu kỳ cựu (AI) đến từ nước khác.",
     "id": "Di makan malam konferensi, kamu duduk di sebelah seorang peneliti senior (AI) dari negara lain.",
     "ms": "Semasa makan malam persidangan, anda duduk di sebelah seorang penyelidik kanan (AI) dari negara lain.",
-    "ko": "학회 만찬에서 다른 나라에서 온 선임 연구원(AI) 옆에 앉게 됐어요."
+    "ko": "학회 만찬에서 다른 나라에서 온 선임 연구원(AI) 옆에 앉게 됐어요.",
+    "ru": "На ужине конференции вы сидите рядом с опытным исследователем (AI) из другой страны.",
+    "bn": "সম্মেলনের নৈশভোজে আপনি অন্য দেশের একজন অভিজ্ঞ গবেষকের (AI) পাশে বসেছেন।",
+    "ur": "کانفرنس ڈنر پر آپ کسی دوسرے ملک کے ایک سینئر محقق (AI) کے ساتھ بیٹھے ہیں۔",
+    "zh-CN": "在会议晚宴上，你坐在一位来自其他国家的资深研究者（AI）旁边。",
+    "ja": "学会のディナーで、海外から来たベテラン研究者（AI）の隣に座っています。"
   },
   "mission": {
     "native": "Make small talk, share your research and set up a way to stay in touch.",
@@ -60,7 +70,12 @@
       "vi": "Trò chuyện xã giao, chia sẻ về nghiên cứu của bạn và tìm cách giữ liên lạc.",
       "id": "Berbasa-basi, ceritakan penelitianmu, dan atur cara untuk tetap berhubungan.",
       "ms": "Berbual santai, kongsi penyelidikan anda dan cari cara untuk terus berhubung.",
-      "ko": "가볍게 대화를 나누고, 자신의 연구를 소개하고, 계속 연락할 방법을 정하세요."
+      "ko": "가볍게 대화를 나누고, 자신의 연구를 소개하고, 계속 연락할 방법을 정하세요.",
+      "ru": "Поддержите светскую беседу, расскажите о своём исследовании и договоритесь оставаться на связи.",
+      "bn": "হালকা আলাপ করুন, আপনার গবেষণার কথা বলুন এবং যোগাযোগ রাখার ব্যবস্থা করুন।",
+      "ur": "ہلکی پھلکی بات چیت کریں، اپنی تحقیق کے بارے میں بتائیں اور رابطے میں رہنے کا طریقہ طے کریں۔",
+      "zh-CN": "闲聊几句，介绍你的研究，并约好保持联系。",
+      "ja": "雑談をしながら自分の研究を紹介し、連絡を取り合う方法を決めましょう。"
     },
     "practice": "Converse de forma casual, comparta su investigación y quede en mantenerse en contacto.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Mở đầu câu chuyện về hội nghị",
           "id": "Mulai obrolan tentang konferensi",
           "ms": "Mulakan perbualan tentang persidangan",
-          "ko": "학회에 대한 이야기로 대화를 시작하세요"
+          "ko": "학회에 대한 이야기로 대화를 시작하세요",
+          "ru": "Начните разговор о конференции",
+          "bn": "সম্মেলন নিয়ে আলাপ শুরু করুন",
+          "ur": "کانفرنس کے بارے میں بات چیت شروع کریں",
+          "zh-CN": "以会议为话题开启对话",
+          "ja": "学会について話を切り出す"
         },
         "practice": "Inicie una conversación sobre el congreso",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Mô tả ngắn gọn nghiên cứu của bạn",
           "id": "Jelaskan penelitianmu secara singkat",
           "ms": "Terangkan penyelidikan anda secara ringkas",
-          "ko": "자신의 연구를 간단히 설명하세요"
+          "ko": "자신의 연구를 간단히 설명하세요",
+          "ru": "Кратко опишите своё исследование",
+          "bn": "সংক্ষেপে আপনার গবেষণা বর্ণনা করুন",
+          "ur": "اپنی تحقیق مختصراً بیان کریں",
+          "zh-CN": "简要介绍你的研究",
+          "ja": "自分の研究を簡単に説明する"
         },
         "practice": "Describa brevemente su investigación",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về công việc của nhà nghiên cứu",
           "id": "Tanyakan tentang pekerjaan sang peneliti",
           "ms": "Tanya tentang kerja penyelidik itu",
-          "ko": "연구원의 연구에 대해 물어보세요"
+          "ko": "연구원의 연구에 대해 물어보세요",
+          "ru": "Расспросите исследователя о его работе",
+          "bn": "গবেষকের কাজ সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "محقق سے ان کے کام کے بارے میں پوچھیں",
+          "zh-CN": "询问对方的研究工作",
+          "ja": "相手の研究について尋ねる"
         },
         "practice": "Pregunte por el trabajo del investigador",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Đề nghị giữ liên lạc",
           "id": "Minta untuk tetap berhubungan",
           "ms": "Minta untuk terus berhubung",
-          "ko": "계속 연락하자고 제안하세요"
+          "ko": "계속 연락하자고 제안하세요",
+          "ru": "Попросите оставаться на связи",
+          "bn": "যোগাযোগ রাখার অনুরোধ করুন",
+          "ur": "رابطے میں رہنے کی درخواست کریں",
+          "zh-CN": "提出保持联系",
+          "ja": "今後も連絡を取り合いたいと伝えましょう"
         },
         "practice": "Pida mantenerse en contacto",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Đến giờ anh/chị thấy hội nghị thế nào?",
         "id": "Bagaimana kesan Anda tentang konferensi ini sejauh ini?",
         "ms": "Setakat ini, apa pendapat anda tentang persidangan ini?",
-        "ko": "지금까지 학회는 어떠세요?"
+        "ko": "지금까지 학회는 어떠세요?",
+        "ru": "Как вам пока конференция?",
+        "bn": "এখন পর্যন্ত সম্মেলনটি কেমন লাগছে?",
+        "ur": "اب تک کانفرنس آپ کو کیسی لگ رہی ہے؟",
+        "zh-CN": "到目前为止，您觉得这次会议怎么样？",
+        "ja": "ここまでの学会はいかがですか？"
       },
       "practice": "¿Qué le ha parecido el congreso hasta ahora?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Nghiên cứu của tôi tìm hiểu cách các thành phố thích ứng với nắng nóng.",
         "id": "Penelitian saya membahas bagaimana kota beradaptasi dengan gelombang panas.",
         "ms": "Penyelidikan saya mengkaji cara bandar menyesuaikan diri dengan gelombang haba.",
-        "ko": "제 연구는 도시가 폭염에 어떻게 적응하는지 살펴봐요."
+        "ko": "제 연구는 도시가 폭염에 어떻게 적응하는지 살펴봐요.",
+        "ru": "Моё исследование посвящено тому, как города адаптируются к аномальной жаре.",
+        "bn": "আমার গবেষণা দেখে শহরগুলো কীভাবে তাপপ্রবাহের সঙ্গে খাপ খায়।",
+        "ur": "میری تحقیق اس بارے میں ہے کہ شہر ہیٹ ویو کے مطابق خود کو کیسے ڈھالتے ہیں۔",
+        "zh-CN": "我的研究关注城市如何适应热浪。",
+        "ja": "私の研究は、都市が熱波にどう適応するかを調べています。"
       },
       "practice": "Mi investigación estudia cómo las ciudades se adaptan a las olas de calor.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Nghe thú vị quá. Sao anh/chị lại theo lĩnh vực đó?",
         "id": "Kedengarannya menarik sekali. Bagaimana Anda bisa terjun ke bidang itu?",
         "ms": "Menariknya. Bagaimana anda mula terlibat dalam bidang itu?",
-        "ko": "정말 흥미롭네요. 그 분야는 어떻게 시작하게 되셨어요?"
+        "ko": "정말 흥미롭네요. 그 분야는 어떻게 시작하게 되셨어요?",
+        "ru": "Звучит потрясающе. Как вы пришли в эту область?",
+        "bn": "শুনতে দারুণ লাগছে। আপনি এই ক্ষেত্রে কীভাবে এলেন?",
+        "ur": "یہ بہت دلچسپ لگتا ہے۔ آپ اس شعبے میں کیسے آئے؟",
+        "zh-CN": "听起来很有意思。您是怎么进入这个领域的？",
+        "ja": "とても興味深いですね。どうしてその分野に進まれたのですか？"
       },
       "practice": "Suena fascinante. ¿Cómo llegó a ese campo?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi rất muốn đọc bài báo mới nhất của anh/chị.",
         "id": "Saya ingin sekali membaca makalah terbaru Anda.",
         "ms": "Saya teringin membaca kertas kerja terbaharu anda.",
-        "ko": "최근 논문을 꼭 읽어 보고 싶어요."
+        "ko": "최근 논문을 꼭 읽어 보고 싶어요.",
+        "ru": "Я бы с удовольствием прочитал вашу последнюю статью.",
+        "bn": "আপনার সর্বশেষ গবেষণাপত্রটি পড়তে খুব চাই।",
+        "ur": "میں آپ کا تازہ ترین مقالہ ضرور پڑھنا چاہوں گا۔",
+        "zh-CN": "我很想读读您最新的论文。",
+        "ja": "最新の論文をぜひ読ませていただきたいです。"
       },
       "practice": "Me encantaría leer su último artículo.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Sau hội nghị mình liên lạc qua email được không ạ?",
         "id": "Bisakah kita berhubungan lewat email setelah konferensi?",
         "ms": "Boleh kita berhubung melalui e-mel selepas persidangan?",
-        "ko": "학회 끝나고 이메일로 연락드려도 될까요?"
+        "ko": "학회 끝나고 이메일로 연락드려도 될까요?",
+        "ru": "Можем ли мы связаться по электронной почте после конференции?",
+        "bn": "সম্মেলনের পরে কি আমরা ইমেইলে যোগাযোগ রাখতে পারি?",
+        "ur": "کیا کانفرنس کے بعد ہم ای میل کے ذریعے رابطے میں رہ سکتے ہیں؟",
+        "zh-CN": "会议结束后我们可以通过邮件联系吗？",
+        "ja": "学会の後、メールでご連絡してもよろしいですか？"
       },
       "practice": "¿Podríamos seguir en contacto por correo después del congreso?",
       "practice_translations": {

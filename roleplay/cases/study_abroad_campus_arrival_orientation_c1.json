@@ -18,7 +18,12 @@
     "vi": "Nhận phòng ký túc xá",
     "id": "Check-in di Asrama",
     "ms": "Mendaftar Masuk di Asrama",
-    "ko": "기숙사 체크인"
+    "ko": "기숙사 체크인",
+    "ru": "Заселение в общежитие",
+    "bn": "ছাত্রাবাসে চেক-ইন",
+    "ur": "ہاسٹل میں چیک اِن",
+    "zh-CN": "宿舍入住登记",
+    "ja": "寮へのチェックイン"
   },
   "character": "fox",
   "scenario": "You just arrived on campus with your suitcase. The residence hall receptionist (AI) greets you at the front desk.",
@@ -39,7 +44,12 @@
     "vi": "Bạn vừa đến trường với chiếc vali. Nhân viên lễ tân ký túc xá (AI) chào bạn tại quầy.",
     "id": "Kamu baru tiba di kampus dengan kopermu. Resepsionis asrama (AI) menyambutmu di meja depan.",
     "ms": "Anda baru tiba di kampus dengan beg pakaian anda. Penyambut tetamu asrama (AI) menyapa anda di kaunter hadapan.",
-    "ko": "여행 가방을 들고 막 캠퍼스에 도착했습니다. 기숙사 안내 데스크 직원(AI)이 당신을 맞이합니다."
+    "ko": "여행 가방을 들고 막 캠퍼스에 도착했습니다. 기숙사 안내 데스크 직원(AI)이 당신을 맞이합니다.",
+    "ru": "Вы только что приехали в кампус с чемоданом. Администратор общежития (AI) приветствует вас за стойкой.",
+    "bn": "আপনি সবেমাত্র স্যুটকেস নিয়ে ক্যাম্পাসে পৌঁছেছেন। ছাত্রাবাসের রিসেপশনিস্ট (AI) ফ্রন্ট ডেস্কে আপনাকে স্বাগত জানান।",
+    "ur": "آپ ابھی اپنے سوٹ کیس کے ساتھ کیمپس پہنچے ہیں۔ ہاسٹل کا ریسپشنسٹ (AI) فرنٹ ڈیسک پر آپ کا استقبال کرتا ہے۔",
+    "zh-CN": "你刚拖着行李箱到达校园。宿舍前台接待员（AI）在服务台迎接你。",
+    "ja": "スーツケースを持ってキャンパスに到着したところです。寮の受付係（AI）がフロントで出迎えます。"
   },
   "mission": {
     "native": "Check in, get your room key and ask how to connect to the Wi-Fi.",
@@ -60,7 +70,12 @@
       "vi": "Làm thủ tục nhận phòng, lấy chìa khóa và hỏi cách kết nối Wi-Fi.",
       "id": "Lakukan check-in, ambil kunci kamarmu, dan tanyakan cara tersambung ke Wi-Fi.",
       "ms": "Daftar masuk, dapatkan kunci bilik anda dan tanya cara menyambung ke Wi-Fi.",
-      "ko": "체크인하고, 방 열쇠를 받고, 와이파이 연결 방법을 물어보세요."
+      "ko": "체크인하고, 방 열쇠를 받고, 와이파이 연결 방법을 물어보세요.",
+      "ru": "Заселитесь, получите ключ от комнаты и спросите, как подключиться к Wi-Fi.",
+      "bn": "চেক-ইন করুন, রুমের চাবি নিন এবং Wi-Fi-তে কীভাবে সংযোগ করবেন তা জিজ্ঞেস করুন।",
+      "ur": "چیک اِن کریں، کمرے کی چابی لیں اور پوچھیں کہ Wi-Fi سے کیسے جڑیں۔",
+      "zh-CN": "办理入住，领取房间钥匙，并询问如何连接 Wi-Fi。",
+      "ja": "チェックインして部屋の鍵を受け取り、Wi-Fiへの接続方法を尋ねましょう。"
     },
     "practice": "Regístrese, obtenga la llave de su habitación y pregunte cómo conectarse al wifi.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói tên và cho biết bạn vừa đến",
           "id": "Sebutkan namamu dan katakan bahwa kamu baru tiba",
           "ms": "Berikan nama anda dan katakan anda baru tiba",
-          "ko": "이름을 말하고 방금 도착했다고 말하세요"
+          "ko": "이름을 말하고 방금 도착했다고 말하세요",
+          "ru": "Назовите своё имя и скажите, что вы только что приехали",
+          "bn": "আপনার নাম বলুন এবং জানান যে আপনি এইমাত্র পৌঁছেছেন",
+          "ur": "اپنا نام بتائیں اور کہیں کہ آپ ابھی پہنچے ہیں",
+          "zh-CN": "说出你的名字，并说明你刚到",
+          "ja": "名前を伝え、今着いたところだと言いましょう"
         },
         "practice": "Dé su nombre y diga que acaba de llegar",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Xin chìa khóa phòng",
           "id": "Minta kunci kamarmu",
           "ms": "Minta kunci bilik anda",
-          "ko": "방 열쇠를 달라고 하세요"
+          "ko": "방 열쇠를 달라고 하세요",
+          "ru": "Попросите ключ от комнаты",
+          "bn": "আপনার রুমের চাবি চান",
+          "ur": "اپنے کمرے کی چابی مانگیں",
+          "zh-CN": "索要房间钥匙",
+          "ja": "部屋の鍵をもらいましょう"
         },
         "practice": "Pida la llave de su habitación",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi cách kết nối Wi-Fi",
           "id": "Tanyakan cara tersambung ke Wi-Fi",
           "ms": "Tanya cara menyambung ke Wi-Fi",
-          "ko": "와이파이 연결 방법을 물어보세요"
+          "ko": "와이파이 연결 방법을 물어보세요",
+          "ru": "Спросите, как подключиться к Wi-Fi",
+          "bn": "Wi-Fi-এ কীভাবে কানেক্ট করবেন জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ Wi-Fi سے کیسے جڑیں",
+          "zh-CN": "询问如何连接 Wi-Fi",
+          "ja": "Wi-Fiへの接続方法を聞きましょう"
         },
         "practice": "Pregunte cómo conectarse al wifi",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, tôi là sinh viên quốc tế mới. Tôi đến để nhận phòng.",
         "id": "Halo, saya mahasiswa internasional baru. Saya mau check-in.",
         "ms": "Hai, saya pelajar antarabangsa baharu. Saya datang untuk mendaftar masuk.",
-        "ko": "안녕하세요, 새로 온 유학생이에요. 체크인하러 왔어요."
+        "ko": "안녕하세요, 새로 온 유학생이에요. 체크인하러 왔어요.",
+        "ru": "Здравствуйте, я новый иностранный студент. Я хочу заселиться.",
+        "bn": "হাই, আমি একজন নতুন আন্তর্জাতিক শিক্ষার্থী। আমি চেক ইন করতে এসেছি।",
+        "ur": "ہیلو، میں ایک نیا بین الاقوامی طالب علم ہوں۔ میں چیک اِن کرنے آیا ہوں۔",
+        "zh-CN": "你好，我是新来的国际学生。我来办理入住。",
+        "ja": "こんにちは、新しく来た留学生です。チェックインをお願いします。"
       },
       "practice": "Hola, soy estudiante internacional de nuevo ingreso. Vengo a registrarme.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Cho tôi xin chìa khóa phòng được không?",
         "id": "Boleh saya minta kunci kamar saya?",
         "ms": "Boleh saya dapatkan kunci bilik saya?",
-        "ko": "방 열쇠를 받을 수 있을까요?"
+        "ko": "방 열쇠를 받을 수 있을까요?",
+        "ru": "Можно мне ключ от комнаты, пожалуйста?",
+        "bn": "আমার রুমের চাবিটা কি পেতে পারি, প্লিজ?",
+        "ur": "کیا مجھے میرے کمرے کی چابی مل سکتی ہے، پلیز؟",
+        "zh-CN": "请问可以给我房间钥匙吗？",
+        "ja": "部屋の鍵をいただけますか？"
       },
       "practice": "¿Me podría dar la llave de mi habitación, por favor?",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Mật khẩu Wi-Fi là gì vậy?",
         "id": "Apa kata sandi Wi-Fi-nya?",
         "ms": "Apakah kata laluan Wi-Fi?",
-        "ko": "와이파이 비밀번호가 뭐예요?"
+        "ko": "와이파이 비밀번호가 뭐예요?",
+        "ru": "Какой пароль от Wi-Fi?",
+        "bn": "Wi-Fi-এর পাসওয়ার্ড কী?",
+        "ur": "Wi-Fi کا پاس ورڈ کیا ہے؟",
+        "zh-CN": "Wi-Fi 密码是什么？",
+        "ja": "Wi-Fiのパスワードは何ですか？"
       },
       "practice": "¿Cuál es la contraseña del wifi?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Phòng giặt đồ ở đâu ạ?",
         "id": "Di mana ruang cuci?",
         "ms": "Di manakah bilik dobi?",
-        "ko": "세탁실은 어디에 있어요?"
+        "ko": "세탁실은 어디에 있어요?",
+        "ru": "Где прачечная?",
+        "bn": "লন্ড্রি রুমটা কোথায়?",
+        "ur": "لانڈری روم کہاں ہے؟",
+        "zh-CN": "洗衣房在哪里？",
+        "ja": "ランドリールームはどこですか？"
       },
       "practice": "¿Dónde está la lavandería?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Cảm ơn anh/chị rất nhiều vì đã giúp đỡ.",
         "id": "Terima kasih banyak atas bantuannya.",
         "ms": "Terima kasih banyak atas bantuan anda.",
-        "ko": "도와주셔서 정말 감사해요."
+        "ko": "도와주셔서 정말 감사해요.",
+        "ru": "Большое спасибо за помощь.",
+        "bn": "আপনার সাহায্যের জন্য অনেক ধন্যবাদ।",
+        "ur": "آپ کی مدد کا بہت شکریہ۔",
+        "zh-CN": "非常感谢你的帮助。",
+        "ja": "助けていただき、本当にありがとうございます。"
       },
       "practice": "Muchas gracias por su ayuda.",
       "practice_translations": {

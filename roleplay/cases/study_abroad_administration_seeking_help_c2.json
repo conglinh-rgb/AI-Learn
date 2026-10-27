@@ -18,7 +18,12 @@
     "vi": "Đổi môn học",
     "id": "Mengganti Mata Kuliah",
     "ms": "Menukar Kursus",
-    "ko": "수강 과목 변경하기"
+    "ko": "수강 과목 변경하기",
+    "ru": "Смена курса",
+    "bn": "কোর্স পরিবর্তন",
+    "ur": "کورس تبدیل کرنا",
+    "zh-CN": "更换课程",
+    "ja": "履修科目の変更"
   },
   "character": "fox",
   "scenario": "Two of your classes are at the same time. Your academic advisor (AI) meets you to fix your schedule.",
@@ -39,7 +44,12 @@
     "vi": "Hai môn học của bạn trùng giờ. Cố vấn học tập (AI) gặp bạn để sắp xếp lại thời khóa biểu.",
     "id": "Dua kelasmu jadwalnya bentrok. Penasihat akademikmu (AI) menemuimu untuk memperbaiki jadwalmu.",
     "ms": "Dua kelas anda bertembung pada masa yang sama. Penasihat akademik anda (AI) berjumpa dengan anda untuk membetulkan jadual anda.",
-    "ko": "수업 두 개의 시간이 겹칩니다. 지도 교수(AI)가 시간표를 조정하기 위해 당신을 만납니다."
+    "ko": "수업 두 개의 시간이 겹칩니다. 지도 교수(AI)가 시간표를 조정하기 위해 당신을 만납니다.",
+    "ru": "Два ваших занятия проходят в одно и то же время. Ваш академический консультант (AI) встречается с вами, чтобы исправить расписание.",
+    "bn": "আপনার দুটি ক্লাস একই সময়ে। আপনার একাডেমিক উপদেষ্টা (AI) আপনার রুটিন ঠিক করতে আপনার সাথে দেখা করছেন।",
+    "ur": "آپ کی دو کلاسیں ایک ہی وقت پر ہیں۔ آپ کے تعلیمی مشیر (AI) آپ کا شیڈول ٹھیک کرنے کے لیے آپ سے مل رہے ہیں۔",
+    "zh-CN": "你有两门课时间冲突。你的学业导师（AI）约你见面调整课表。",
+    "ja": "授業が2つ同じ時間に重なっています。学業アドバイザー（AI）が時間割の調整のために面談してくれます。"
   },
   "mission": {
     "native": "Explain the conflict and find a course that fits your schedule.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích việc trùng lịch và tìm một môn học phù hợp với thời khóa biểu.",
       "id": "Jelaskan jadwal yang bentrok dan temukan mata kuliah yang cocok dengan jadwalmu.",
       "ms": "Terangkan pertembungan jadual itu dan cari kursus yang sesuai dengan jadual anda.",
-      "ko": "시간이 겹치는 문제를 설명하고 시간표에 맞는 과목을 찾으세요."
+      "ko": "시간이 겹치는 문제를 설명하고 시간표에 맞는 과목을 찾으세요.",
+      "ru": "Объясните накладку и найдите курс, который подходит под ваше расписание.",
+      "bn": "সময়ের সংঘাতটি ব্যাখ্যা করুন এবং আপনার রুটিনের সাথে মেলে এমন একটি কোর্স খুঁজুন।",
+      "ur": "ٹکراؤ کی وضاحت کریں اور ایسا کورس تلاش کریں جو آپ کے شیڈول میں فٹ ہو۔",
+      "zh-CN": "说明时间冲突，并找一门适合你课表的课程。",
+      "ja": "重なりを説明し、時間割に合う科目を見つけましょう。"
     },
     "practice": "Explique el conflicto y encuentre un curso que se adapte a su horario.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giải thích việc trùng lịch học",
           "id": "Jelaskan jadwal yang bentrok",
           "ms": "Terangkan pertembungan jadual",
-          "ko": "시간표가 겹치는 문제를 설명하세요"
+          "ko": "시간표가 겹치는 문제를 설명하세요",
+          "ru": "Объясните накладку в расписании",
+          "bn": "রুটিনের সংঘাতটি ব্যাখ্যা করুন",
+          "ur": "شیڈول کے ٹکراؤ کی وضاحت کریں",
+          "zh-CN": "说明课表冲突",
+          "ja": "時間割の重なりを説明する"
         },
         "practice": "Explique el conflicto de horario",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi môn nào có thể thay thế",
           "id": "Tanyakan mata kuliah apa yang bisa menggantikannya",
           "ms": "Tanya kursus mana yang boleh menggantikannya",
-          "ko": "대신 들을 수 있는 과목을 물어보세요"
+          "ko": "대신 들을 수 있는 과목을 물어보세요",
+          "ru": "Спросите, каким курсом его можно заменить",
+          "bn": "কোন কোর্স দিয়ে এটি বদলানো যায় জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کون سا کورس اس کی جگہ لے سکتا ہے",
+          "zh-CN": "询问可以用哪门课程替换",
+          "ja": "代わりになる科目を尋ねる"
         },
         "practice": "Pregunte qué curso podría reemplazarlo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi hạn chót đổi môn học",
           "id": "Tanyakan batas waktu mengganti mata kuliah",
           "ms": "Tanya tentang tarikh akhir menukar kursus",
-          "ko": "수강 변경 마감일을 물어보세요"
+          "ko": "수강 변경 마감일을 물어보세요",
+          "ru": "Спросите о сроке смены курсов",
+          "bn": "কোর্স পরিবর্তনের শেষ তারিখ জিজ্ঞাসা করুন",
+          "ur": "کورس تبدیل کرنے کی آخری تاریخ کے بارے میں پوچھیں",
+          "zh-CN": "询问更换课程的截止日期",
+          "ja": "科目変更の締め切りを尋ねる"
         },
         "practice": "Pregunte por la fecha límite para cambiar de curso",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Xác nhận các bước tiếp theo",
           "id": "Konfirmasi langkah selanjutnya",
           "ms": "Sahkan langkah seterusnya",
-          "ko": "다음 절차를 확인하세요"
+          "ko": "다음 절차를 확인하세요",
+          "ru": "Уточните дальнейшие шаги",
+          "bn": "পরবর্তী ধাপগুলো নিশ্চিত করুন",
+          "ur": "اگلے اقدامات کی تصدیق کریں",
+          "zh-CN": "确认后续步骤",
+          "ja": "次の手順を確認する"
         },
         "practice": "Confirme los próximos pasos",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Thứ Ba có hai môn của em bị trùng giờ.",
         "id": "Dua kelas saya di hari Selasa jamnya sama.",
         "ms": "Dua kelas saya bertembung pada masa yang sama setiap hari Selasa.",
-        "ko": "화요일마다 수업 두 개가 시간이 겹쳐요."
+        "ko": "화요일마다 수업 두 개가 시간이 겹쳐요.",
+        "ru": "По вторникам у меня два занятия в одно и то же время.",
+        "bn": "মঙ্গলবারে আমার দুটো ক্লাস একই সময়ে পড়েছে।",
+        "ur": "منگل کو میری دو کلاسیں ایک ہی وقت پر ہیں۔",
+        "zh-CN": "我周二有两门课时间冲突。",
+        "ja": "火曜日に2つの授業が同じ時間に重なっています。"
       },
       "practice": "Dos de mis clases coinciden los martes a la misma hora.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Có môn nào khác có cùng số tín chỉ không ạ?",
         "id": "Apakah ada mata kuliah lain dengan jumlah SKS yang sama?",
         "ms": "Adakah kursus lain yang memberikan jumlah kredit yang sama?",
-        "ko": "같은 학점을 받을 수 있는 다른 과목이 있나요?"
+        "ko": "같은 학점을 받을 수 있는 다른 과목이 있나요?",
+        "ru": "Есть ли другой курс с таким же количеством кредитов?",
+        "bn": "একই ক্রেডিট দেয় এমন অন্য কোনো কোর্স আছে কি?",
+        "ur": "کیا کوئی اور کورس ہے جس کے اتنے ہی کریڈٹس ہوں؟",
+        "zh-CN": "有没有其他学分相同的课程？",
+        "ja": "同じ単位がもらえる別の授業はありますか？"
       },
       "practice": "¿Hay otro curso que dé los mismos créditos?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Hạn chót để thêm hoặc hủy môn là khi nào ạ?",
         "id": "Kapan batas waktu menambah atau membatalkan mata kuliah?",
         "ms": "Bilakah tarikh akhir untuk menambah atau menggugurkan kursus?",
-        "ko": "수강 신청 변경이나 철회 마감일이 언제예요?"
+        "ko": "수강 신청 변경이나 철회 마감일이 언제예요?",
+        "ru": "До какого числа можно добавить курс или отказаться от него?",
+        "bn": "কোর্স যোগ বা বাদ দেওয়ার শেষ তারিখ কবে?",
+        "ur": "کورس شامل کرنے یا چھوڑنے کی آخری تاریخ کیا ہے؟",
+        "zh-CN": "加课或退课的截止日期是什么时候？",
+        "ja": "履修の追加・取り消しの締め切りはいつですか？"
       },
       "practice": "¿Cuál es la fecha límite para inscribir o dar de baja un curso?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Em có cần chữ ký của giảng viên không ạ?",
         "id": "Apakah saya perlu tanda tangan dosen?",
         "ms": "Adakah saya perlukan tandatangan pensyarah?",
-        "ko": "교수님 서명이 필요한가요?"
+        "ko": "교수님 서명이 필요한가요?",
+        "ru": "Мне нужна подпись преподавателя?",
+        "bn": "আমার কি অধ্যাপকের স্বাক্ষর লাগবে?",
+        "ur": "کیا مجھے پروفیسر کے دستخط چاہییں؟",
+        "zh-CN": "我需要教授签字吗？",
+        "ja": "教授のサインは必要ですか？"
       },
       "practice": "¿Necesito la firma del profesor?",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Vậy em xác nhận lại nhé, em điền mẫu đơn này rồi nộp lại đúng không ạ?",
         "id": "Jadi, untuk memastikan, saya isi formulir ini lalu mengembalikannya?",
         "ms": "Jadi, untuk kepastian, saya isi borang ini dan bawa semula ke sini?",
-        "ko": "그러니까 확인하자면, 이 양식을 작성해서 다시 가져오면 되는 거죠?"
+        "ko": "그러니까 확인하자면, 이 양식을 작성해서 다시 가져오면 되는 거죠?",
+        "ru": "Значит, уточню: я заполняю эту форму и приношу её обратно?",
+        "bn": "তাহলে নিশ্চিত হয়ে নিই, আমি এই ফর্মটা পূরণ করে ফেরত নিয়ে আসব?",
+        "ur": "تو تصدیق کے لیے، میں یہ فارم بھر کر واپس لے آؤں؟",
+        "zh-CN": "那我确认一下，我填好这张表再交回来，对吗？",
+        "ja": "確認ですが、この用紙に記入して持ってくればいいですか？"
       },
       "practice": "Entonces, para confirmar, ¿lleno este formulario y lo traigo de vuelta?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Hãy giới thiệu về bản thân bạn",
     "id": "Ceritakan tentang Dirimu",
     "ms": "Ceritakan Tentang Diri Anda",
-    "ko": "자기소개를 해 보세요"
+    "ko": "자기소개를 해 보세요",
+    "ru": "Расскажите о себе",
+    "bn": "আপনার সম্পর্কে বলুন",
+    "ur": "اپنے بارے میں بتائیں",
+    "zh-CN": "请介绍一下你自己",
+    "ja": "自己紹介をしてください"
   },
   "character": "fox",
   "scenario": "You are at the first interview for a job you really want. The hiring manager (AI) starts with the classic question.",
@@ -39,7 +44,12 @@
     "vi": "Bạn đang ở vòng phỏng vấn đầu tiên cho công việc bạn rất muốn. Người phụ trách tuyển dụng (AI) mở đầu bằng câu hỏi kinh điển.",
     "id": "Kamu sedang menjalani wawancara pertama untuk pekerjaan yang sangat kamu inginkan. Manajer perekrutan (AI) memulai dengan pertanyaan klasik.",
     "ms": "Anda berada di temu duga pertama untuk kerja yang sangat anda idamkan. Pengurus pengambilan (AI) bermula dengan soalan klasik.",
-    "ko": "정말 원하는 회사의 1차 면접 자리입니다. 채용 담당자(AI)가 전형적인 질문으로 시작합니다."
+    "ko": "정말 원하는 회사의 1차 면접 자리입니다. 채용 담당자(AI)가 전형적인 질문으로 시작합니다.",
+    "ru": "Вы на первом собеседовании на работу, которую очень хотите получить. Менеджер по найму (AI) начинает с классического вопроса.",
+    "bn": "আপনি খুব চান এমন একটি চাকরির প্রথম ইন্টারভিউতে আছেন। নিয়োগ ব্যবস্থাপক (AI) চিরাচরিত প্রশ্ন দিয়ে শুরু করেন।",
+    "ur": "آپ ایک ایسی نوکری کے پہلے انٹرویو میں ہیں جو آپ واقعی چاہتے ہیں۔ ہائرنگ مینیجر (AI) روایتی سوال سے آغاز کرتا ہے۔",
+    "zh-CN": "你正在参加一份心仪工作的初次面试。招聘经理（AI）以经典问题开场。",
+    "ja": "どうしても就きたい仕事の一次面接です。採用担当者（AI）は定番の質問から始めます。"
   },
   "mission": {
     "native": "Introduce yourself clearly and connect your experience to the job.",
@@ -60,7 +70,12 @@
       "vi": "Giới thiệu bản thân rõ ràng và liên hệ kinh nghiệm của bạn với công việc.",
       "id": "Perkenalkan dirimu dengan jelas dan kaitkan pengalamanmu dengan pekerjaannya.",
       "ms": "Perkenalkan diri dengan jelas dan kaitkan pengalaman anda dengan kerja itu.",
-      "ko": "자신을 분명하게 소개하고 경력을 이 직무와 연결해서 말하세요."
+      "ko": "자신을 분명하게 소개하고 경력을 이 직무와 연결해서 말하세요.",
+      "ru": "Чётко представьтесь и свяжите свой опыт с вакансией.",
+      "bn": "স্পষ্টভাবে নিজের পরিচয় দিন এবং আপনার অভিজ্ঞতাকে চাকরির সাথে যুক্ত করুন।",
+      "ur": "واضح طور پر اپنا تعارف کرائیں اور اپنے تجربے کو نوکری سے جوڑیں۔",
+      "zh-CN": "清楚地介绍自己，并把你的经验与这份工作联系起来。",
+      "ja": "はっきりと自己紹介し、自分の経験を仕事に結びつけましょう。"
     },
     "practice": "Preséntese con claridad y relacione su experiencia con el puesto.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chào và cảm ơn người phỏng vấn",
           "id": "Sapa pewawancara dan ucapkan terima kasih",
           "ms": "Sapa penemu duga dan ucapkan terima kasih",
-          "ko": "면접관에게 인사하고 감사하다고 말하세요"
+          "ko": "면접관에게 인사하고 감사하다고 말하세요",
+          "ru": "Поприветствуйте интервьюера и поблагодарите его",
+          "bn": "সাক্ষাৎকারগ্রহীতাকে শুভেচ্ছা জানান ও ধন্যবাদ দিন",
+          "ur": "انٹرویو لینے والے کو سلام کریں اور شکریہ ادا کریں",
+          "zh-CN": "问候面试官并表示感谢",
+          "ja": "面接官に挨拶してお礼を言う"
         },
         "practice": "Salude al entrevistador y dele las gracias",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói về kinh nghiệm của bạn",
           "id": "Ceritakan pengalamanmu",
           "ms": "Ceritakan tentang pengalaman anda",
-          "ko": "경력에 대해 이야기하세요"
+          "ko": "경력에 대해 이야기하세요",
+          "ru": "Расскажите о своём опыте",
+          "bn": "আপনার অভিজ্ঞতা সম্পর্কে বলুন",
+          "ur": "اپنے تجربے کے بارے میں بتائیں",
+          "zh-CN": "谈谈你的经验",
+          "ja": "自分の経験について話す"
         },
         "practice": "Hable de su experiencia",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói vì sao bạn muốn làm công việc này",
           "id": "Katakan kenapa kamu menginginkan pekerjaan ini",
           "ms": "Katakan mengapa anda mahu kerja ini",
-          "ko": "이 일을 하고 싶은 이유를 말하세요"
+          "ko": "이 일을 하고 싶은 이유를 말하세요",
+          "ru": "Скажите, почему вы хотите эту работу",
+          "bn": "কেন এই চাকরিটি চান তা বলুন",
+          "ur": "بتائیں کہ آپ یہ نوکری کیوں چاہتے ہیں",
+          "zh-CN": "说明你为什么想要这份工作",
+          "ja": "この仕事を希望する理由を伝える"
         },
         "practice": "Diga por qué quiere este trabajo",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Cảm ơn anh/chị đã mời tôi đến. Tôi thực sự rất hào hứng.",
         "id": "Terima kasih atas kesempatannya. Saya sangat senang berada di sini.",
         "ms": "Terima kasih kerana menjemput saya. Saya sangat teruja berada di sini.",
-        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요."
+        "ko": "불러 주셔서 감사해요. 이 자리에 오게 되어 정말 기뻐요.",
+        "ru": "Спасибо, что приняли меня. Я очень рада быть здесь.",
+        "bn": "আমাকে স্বাগত জানানোর জন্য ধন্যবাদ। এখানে আসতে পেরে আমি সত্যিই উচ্ছ্বসিত।",
+        "ur": "مجھے خوش آمدید کہنے کا شکریہ۔ میں یہاں آ کر واقعی بہت پرجوش ہوں۔",
+        "zh-CN": "谢谢您的欢迎。能来这里我真的很兴奋。",
+        "ja": "迎えていただきありがとうございます。ここに来られて本当にわくわくしています。"
       },
       "practice": "Gracias por recibirme. Estoy muy emocionada de estar aquí.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Tôi có ba năm kinh nghiệm chăm sóc khách hàng.",
         "id": "Saya punya pengalaman tiga tahun di bidang layanan pelanggan.",
         "ms": "Saya mempunyai pengalaman tiga tahun dalam khidmat pelanggan.",
-        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요."
+        "ko": "저는 고객 서비스 분야에서 3년 동안 일했어요.",
+        "ru": "У меня три года опыта в обслуживании клиентов.",
+        "bn": "গ্রাহকসেবায় আমার তিন বছরের অভিজ্ঞতা আছে।",
+        "ur": "مجھے کسٹمر سروس میں تین سال کا تجربہ ہے۔",
+        "zh-CN": "我有三年的客户服务经验。",
+        "ja": "カスタマーサービスで3年の経験があります。"
       },
       "practice": "Tengo tres años de experiencia en atención al cliente.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Một trong những điểm mạnh của tôi là làm việc nhóm tốt.",
         "id": "Salah satu kelebihan saya adalah bisa bekerja sama dengan baik dalam tim.",
         "ms": "Salah satu kekuatan saya ialah bekerja dengan baik dalam pasukan.",
-        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요."
+        "ko": "제 강점 중 하나는 팀원들과 잘 협력하는 거예요.",
+        "ru": "Одна из моих сильных сторон — умение хорошо работать в команде.",
+        "bn": "আমার একটি শক্তির দিক হলো দলের সাথে ভালোভাবে কাজ করা।",
+        "ur": "میری ایک خوبی یہ ہے کہ میں ٹیم میں اچھا کام کرتا ہوں۔",
+        "zh-CN": "我的优势之一是善于团队合作。",
+        "ja": "私の強みの一つは、チームでうまく働けることです。"
       },
       "practice": "Una de mis fortalezas es trabajar bien en equipo.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị có thể cho tôi biết thêm về vị trí này không?",
         "id": "Bisa ceritakan lebih banyak tentang posisi ini?",
         "ms": "Boleh terangkan lebih lanjut tentang jawatan ini?",
-        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?"
+        "ko": "이 직무에 대해 좀 더 자세히 설명해 주실 수 있나요?",
+        "ru": "Не могли бы вы рассказать подробнее об этой должности?",
+        "bn": "এই পদটি সম্পর্কে আরও কিছু বলবেন কি?",
+        "ur": "کیا آپ مجھے اس عہدے کے بارے میں مزید بتا سکتے ہیں؟",
+        "zh-CN": "您能再多介绍一下这个职位吗？",
+        "ja": "この職務についてもう少し詳しく教えていただけますか？"
       },
       "practice": "¿Podría contarme más sobre el puesto?",
       "practice_translations": {

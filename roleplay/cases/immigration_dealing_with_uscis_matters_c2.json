@@ -18,7 +18,12 @@
     "vi": "Hỏi về hồ sơ bị chậm",
     "id": "Menanyakan Kasus yang Tertunda",
     "ms": "Menyemak Kes yang Tertangguh",
-    "ko": "지연된 사건 확인하기"
+    "ko": "지연된 사건 확인하기",
+    "ru": "Запрос о задержке рассмотрения дела",
+    "bn": "বিলম্বিত কেস সম্পর্কে খোঁজ নেওয়া",
+    "ur": "تاخیر کا شکار کیس کے بارے میں معلومات لینا",
+    "zh-CN": "询问延误的案件",
+    "ja": "遅れている案件の問い合わせ"
   },
   "character": "fox",
   "scenario": "Your case has been pending much longer than the usual processing time. You call the contact center, and an agent (AI) takes your call.",
@@ -39,7 +44,12 @@
     "vi": "Hồ sơ của bạn đã chờ xử lý lâu hơn nhiều so với thời gian thông thường. Bạn gọi đến trung tâm liên lạc và một nhân viên (AI) nhận cuộc gọi.",
     "id": "Kasusmu sudah tertunda jauh lebih lama dari waktu proses biasanya. Kamu menelepon pusat layanan, dan seorang petugas (AI) menerima teleponmu.",
     "ms": "Kes anda telah tertangguh jauh lebih lama daripada tempoh pemprosesan biasa. Anda menelefon pusat panggilan, dan seorang ejen (AI) menjawab panggilan anda.",
-    "ko": "당신의 사건이 일반 처리 기간보다 훨씬 오래 계류 중입니다. 고객센터에 전화하자 상담원(AI)이 전화를 받습니다."
+    "ko": "당신의 사건이 일반 처리 기간보다 훨씬 오래 계류 중입니다. 고객센터에 전화하자 상담원(AI)이 전화를 받습니다.",
+    "ru": "Ваше дело рассматривается гораздо дольше обычного срока. Вы звоните в контактный центр, и на звонок отвечает оператор (AI).",
+    "bn": "আপনার কেস স্বাভাবিক প্রক্রিয়াকরণ সময়ের চেয়ে অনেক বেশি সময় ধরে অপেক্ষমাণ। আপনি কন্টাক্ট সেন্টারে ফোন করেন, এবং একজন এজেন্ট (AI) আপনার কল ধরেন।",
+    "ur": "آپ کا کیس معمول کے پروسیسنگ وقت سے کہیں زیادہ عرصے سے زیرِ التوا ہے۔ آپ رابطہ مرکز کو کال کرتے ہیں، اور ایک ایجنٹ (AI) آپ کی کال سنتا ہے۔",
+    "zh-CN": "你的案件待处理时间已远超正常处理时间。你致电联络中心，一位客服人员（AI）接听了你的电话。",
+    "ja": "あなたの案件は通常の処理期間よりはるかに長く保留されています。コンタクトセンターに電話すると、担当者（AI）が応対します。"
   },
   "mission": {
     "native": "Explain that your case is delayed and find out how to request a review.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích rằng hồ sơ của bạn bị chậm và tìm hiểu cách yêu cầu xem xét.",
       "id": "Jelaskan bahwa kasusmu tertunda dan cari tahu cara mengajukan peninjauan.",
       "ms": "Terangkan bahawa kes anda tertangguh dan ketahui cara memohon semakan.",
-      "ko": "사건이 지연되고 있다고 설명하고 검토를 요청하는 방법을 알아보세요."
+      "ko": "사건이 지연되고 있다고 설명하고 검토를 요청하는 방법을 알아보세요.",
+      "ru": "Объясните, что ваше дело задерживается, и узнайте, как запросить проверку.",
+      "bn": "ব্যাখ্যা করুন যে আপনার কেস বিলম্বিত হয়েছে এবং কীভাবে পর্যালোচনার অনুরোধ করবেন তা জেনে নিন।",
+      "ur": "وضاحت کریں کہ آپ کا کیس تاخیر کا شکار ہے اور معلوم کریں کہ جائزے کی درخواست کیسے کی جائے۔",
+      "zh-CN": "说明你的案件被延误，并了解如何申请审查。",
+      "ja": "案件が遅れていることを説明し、審査を依頼する方法を確認しましょう。"
     },
     "practice": "Explique que su caso está retrasado y averigüe cómo solicitar una revisión.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói bạn gọi về một hồ sơ bị chậm",
           "id": "Katakan bahwa kamu menelepon soal kasus yang tertunda",
           "ms": "Katakan anda menelefon tentang kes yang tertangguh",
-          "ko": "지연된 사건 때문에 전화했다고 말하세요"
+          "ko": "지연된 사건 때문에 전화했다고 말하세요",
+          "ru": "Скажите, что звоните по поводу задержки дела",
+          "bn": "বলুন যে আপনি একটি বিলম্বিত কেস নিয়ে ফোন করছেন",
+          "ur": "بتائیں کہ آپ تاخیر والے کیس کے بارے میں کال کر رہے ہیں",
+          "zh-CN": "说明你是为一个延误的案件来电",
+          "ja": "遅れている案件について電話していると伝える"
         },
         "practice": "Diga que llama por un caso retrasado",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Cung cấp số biên nhận",
           "id": "Sebutkan nomor tanda terimamu",
           "ms": "Berikan nombor resit anda",
-          "ko": "접수 번호를 알려 주세요"
+          "ko": "접수 번호를 알려 주세요",
+          "ru": "Назовите номер квитанции",
+          "bn": "আপনার রসিদ নম্বর দিন",
+          "ur": "اپنا رسید نمبر بتائیں",
+          "zh-CN": "提供你的回执编号",
+          "ja": "受付番号を伝える"
         },
         "practice": "Dé su número de recibo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nói hồ sơ đã chờ xử lý bao lâu",
           "id": "Sebutkan sudah berapa lama kasusnya tertunda",
           "ms": "Katakan berapa lama kes itu telah tertangguh",
-          "ko": "사건이 얼마나 오래 계류 중인지 말하세요"
+          "ko": "사건이 얼마나 오래 계류 중인지 말하세요",
+          "ru": "Скажите, как долго рассматривается дело",
+          "bn": "বলুন কেসটি কতদিন ধরে অপেক্ষমাণ",
+          "ur": "بتائیں کہ کیس کتنے عرصے سے زیرِ التوا ہے",
+          "zh-CN": "说明案件已待处理多久",
+          "ja": "案件がどのくらい保留されているか伝える"
         },
         "practice": "Diga cuánto tiempo lleva pendiente el caso",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi cách gửi yêu cầu tra hỏi hồ sơ",
           "id": "Tanyakan cara mengajukan pertanyaan resmi tentang kasusmu",
           "ms": "Tanya cara membuat pertanyaan tentang kes",
-          "ko": "사건 문의를 요청하는 방법을 물어보세요"
+          "ko": "사건 문의를 요청하는 방법을 물어보세요",
+          "ru": "Спросите, как подать запрос по делу",
+          "bn": "কেস সম্পর্কে অনুসন্ধানের অনুরোধ কীভাবে করবেন জিজ্ঞাসা করুন",
+          "ur": "پوچھیں کہ کیس کے بارے میں استفسار کی درخواست کیسے دی جائے",
+          "zh-CN": "询问如何提交案件查询",
+          "ja": "案件の問い合わせ方法を尋ねる"
         },
         "practice": "Pregunte cómo solicitar una consulta sobre el caso",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tôi gọi vì hồ sơ của tôi đang bị chậm hơn bình thường.",
         "id": "Saya menelepon karena kasus saya memakan waktu lebih lama dari biasanya.",
         "ms": "Saya menelefon kerana kes saya mengambil masa lebih lama daripada biasa.",
-        "ko": "제 사건이 평소보다 오래 걸려서 전화드렸어요."
+        "ko": "제 사건이 평소보다 오래 걸려서 전화드렸어요.",
+        "ru": "Я звоню, потому что моё дело рассматривается дольше обычного.",
+        "bn": "আমি ফোন করছি কারণ আমার কেসে স্বাভাবিকের চেয়ে বেশি সময় লাগছে।",
+        "ur": "میں اس لیے کال کر رہا ہوں کیونکہ میرے کیس میں معمول سے زیادہ وقت لگ رہا ہے۔",
+        "zh-CN": "我打电话是因为我的案件处理时间比正常要长。",
+        "ja": "案件の処理が通常より長くかかっているのでお電話しました。"
       },
       "practice": "Llamo porque mi caso está tardando más de lo normal.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Vâng, đây là số biên nhận của tôi.",
         "id": "Tentu, ini nomor tanda terima saya.",
         "ms": "Sudah tentu, ini nombor resit saya.",
-        "ko": "네, 여기 제 접수 번호예요."
+        "ko": "네, 여기 제 접수 번호예요.",
+        "ru": "Конечно, вот мой номер квитанции.",
+        "bn": "অবশ্যই, এই যে আমার রসিদ নম্বর।",
+        "ur": "جی ضرور، یہ رہا میرا رسید نمبر۔",
+        "zh-CN": "当然，这是我的回执编号。",
+        "ja": "もちろんです、こちらが私の受付番号です。"
       },
       "practice": "Claro, aquí tiene mi número de recibo.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Tôi đã nộp đơn cách đây mười một tháng.",
         "id": "Saya mengajukan permohonan sebelas bulan yang lalu.",
         "ms": "Saya menghantar permohonan saya sebelas bulan yang lalu.",
-        "ko": "11개월 전에 신청서를 제출했어요."
+        "ko": "11개월 전에 신청서를 제출했어요.",
+        "ru": "Я подал заявление одиннадцать месяцев назад.",
+        "bn": "আমি এগারো মাস আগে আবেদন জমা দিয়েছি।",
+        "ur": "میں نے گیارہ مہینے پہلے درخواست جمع کرائی تھی۔",
+        "zh-CN": "我十一个月前提交了申请。",
+        "ja": "11か月前に申請しました。"
       },
       "practice": "Presenté mi solicitud hace once meses.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Có cách nào để gửi yêu cầu tra hỏi về hồ sơ của tôi không?",
         "id": "Apakah ada cara untuk mengajukan pertanyaan resmi tentang kasus saya?",
         "ms": "Adakah cara untuk menghantar pertanyaan tentang kes saya?",
-        "ko": "제 사건에 대해 문의를 넣을 방법이 있을까요?"
+        "ko": "제 사건에 대해 문의를 넣을 방법이 있을까요?",
+        "ru": "Можно ли подать запрос по моему делу?",
+        "bn": "আমার কেস সম্পর্কে অনুসন্ধান জমা দেওয়ার কোনো উপায় আছে কি?",
+        "ur": "کیا میرے کیس کے بارے میں استفسار جمع کرانے کا کوئی طریقہ ہے؟",
+        "zh-CN": "有没有办法就我的案件提交查询？",
+        "ja": "私の案件について問い合わせを提出する方法はありますか？"
       },
       "practice": "¿Hay alguna manera de presentar una consulta sobre mi caso?",
       "practice_translations": {

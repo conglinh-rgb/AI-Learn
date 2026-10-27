@@ -18,7 +18,12 @@
     "vi": "Ngày đầu tiên đi học",
     "id": "Hari Pertama Kuliah",
     "ms": "Hari Pertama Kelas",
-    "ko": "첫 수업 날"
+    "ko": "첫 수업 날",
+    "ru": "Первый день занятий",
+    "bn": "ক্লাসের প্রথম দিন",
+    "ur": "کلاس کا پہلا دن",
+    "zh-CN": "开学第一课",
+    "ja": "授業初日"
   },
   "character": "fox",
   "scenario": "Your first lecture has just ended. Your professor (AI) is packing up at the front of the room.",
@@ -39,7 +44,12 @@
     "vi": "Buổi học đầu tiên của bạn vừa kết thúc. Giáo sư (AI) đang thu dọn đồ ở đầu lớp.",
     "id": "Kuliah pertamamu baru saja selesai. Profesormu (AI) sedang membereskan barang di depan kelas.",
     "ms": "Kuliah pertama anda baru tamat. Profesor anda (AI) sedang mengemas barang di hadapan bilik.",
-    "ko": "첫 강의가 방금 끝났어요. 교수님(AI)이 강의실 앞에서 짐을 챙기고 계세요."
+    "ko": "첫 강의가 방금 끝났어요. 교수님(AI)이 강의실 앞에서 짐을 챙기고 계세요.",
+    "ru": "Ваша первая лекция только что закончилась. Ваш преподаватель (AI) собирает вещи у доски.",
+    "bn": "আপনার প্রথম লেকচার এইমাত্র শেষ হয়েছে। আপনার অধ্যাপক (AI) ঘরের সামনে জিনিসপত্র গোছাচ্ছেন।",
+    "ur": "آپ کا پہلا لیکچر ابھی ختم ہوا ہے۔ آپ کے پروفیسر (AI) کمرے کے سامنے اپنا سامان سمیٹ رہے ہیں۔",
+    "zh-CN": "你的第一堂课刚刚结束。你的教授（AI）正在教室前面收拾东西。",
+    "ja": "最初の講義が終わったところです。教授（AI）が教室の前で片付けをしています。"
   },
   "mission": {
     "native": "Introduce yourself and find out where the syllabus and office hours are.",
@@ -60,7 +70,12 @@
       "vi": "Giới thiệu bản thân và hỏi xem đề cương môn học và giờ tiếp sinh viên ở đâu.",
       "id": "Perkenalkan diri dan cari tahu di mana silabus dan kapan jam konsultasinya.",
       "ms": "Perkenalkan diri anda dan ketahui di mana sukatan pelajaran dan bila waktu konsultasi.",
-      "ko": "자기소개를 하고 강의계획서와 면담 시간을 알아보세요."
+      "ko": "자기소개를 하고 강의계획서와 면담 시간을 알아보세요.",
+      "ru": "Представьтесь и узнайте, где найти программу курса и когда приёмные часы.",
+      "bn": "নিজের পরিচয় দিন এবং সিলেবাস কোথায় পাওয়া যাবে ও অফিস আওয়ার কখন তা জেনে নিন।",
+      "ur": "اپنا تعارف کروائیں اور معلوم کریں کہ نصاب کہاں ملے گا اور آفس آورز کب ہیں۔",
+      "zh-CN": "做个自我介绍，并了解课程大纲在哪里以及答疑时间。",
+      "ja": "自己紹介をして、シラバスの場所とオフィスアワーを確認しましょう。"
     },
     "practice": "Preséntese y averigüe dónde están el programa del curso y el horario de atención.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Giới thiệu bản thân với giáo sư",
           "id": "Perkenalkan dirimu kepada profesor",
           "ms": "Perkenalkan diri anda kepada profesor",
-          "ko": "교수님께 자기소개를 하세요"
+          "ko": "교수님께 자기소개를 하세요",
+          "ru": "Представьтесь преподавателю",
+          "bn": "অধ্যাপকের কাছে নিজের পরিচয় দিন",
+          "ur": "پروفیسر سے اپنا تعارف کروائیں",
+          "zh-CN": "向教授做自我介绍",
+          "ja": "教授に自己紹介しましょう"
         },
         "practice": "Preséntese al profesor",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi nơi tìm đề cương môn học",
           "id": "Tanyakan di mana bisa menemukan silabus",
           "ms": "Tanya di mana boleh dapatkan sukatan pelajaran",
-          "ko": "강의계획서를 어디서 볼 수 있는지 물어보세요"
+          "ko": "강의계획서를 어디서 볼 수 있는지 물어보세요",
+          "ru": "Спросите, где найти программу курса",
+          "bn": "সিলেবাস কোথায় পাওয়া যাবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ نصاب کہاں ملے گا",
+          "zh-CN": "询问在哪里找到课程大纲",
+          "ja": "シラバスの場所を尋ねましょう"
         },
         "practice": "Pregunte dónde encontrar el programa del curso",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về giờ tiếp sinh viên",
           "id": "Tanyakan tentang jam konsultasi",
           "ms": "Tanya tentang waktu konsultasi",
-          "ko": "면담 시간에 대해 물어보세요"
+          "ko": "면담 시간에 대해 물어보세요",
+          "ru": "Спросите о приёмных часах",
+          "bn": "অফিস আওয়ার সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "آفس آورز کے بارے میں پوچھیں",
+          "zh-CN": "询问答疑时间",
+          "ja": "オフィスアワーについて尋ねましょう"
         },
         "practice": "Pregunte por el horario de atención",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Thầy/cô ơi, cho em hỏi chút ạ. Em là sinh viên trao đổi mới.",
         "id": "Permisi, Profesor. Saya mahasiswa pertukaran yang baru.",
         "ms": "Maaf, profesor. Saya pelajar pertukaran baharu.",
-        "ko": "실례합니다, 교수님. 저는 새로 온 교환학생이에요."
+        "ko": "실례합니다, 교수님. 저는 새로 온 교환학생이에요.",
+        "ru": "Извините, профессор. Я новый студент по обмену.",
+        "bn": "মাফ করবেন, স্যার। আমি একজন নতুন এক্সচেঞ্জ শিক্ষার্থী।",
+        "ur": "معاف کیجیے، پروفیسر صاحب۔ میں نیا ایکسچینج طالب علم ہوں۔",
+        "zh-CN": "打扰一下，教授。我是新来的交换生。",
+        "ja": "すみません、先生。新しく来た交換留学生です。"
       },
       "practice": "Disculpe, profesor. Soy estudiante de intercambio y acabo de llegar.",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Em rất thích bài giảng hôm nay.",
         "id": "Saya sangat menikmati kuliah hari ini.",
         "ms": "Saya sangat seronok dengan kuliah hari ini.",
-        "ko": "오늘 강의 정말 재미있었어요."
+        "ko": "오늘 강의 정말 재미있었어요.",
+        "ru": "Мне очень понравилась сегодняшняя лекция.",
+        "bn": "আজকের লেকচারটা আমার খুব ভালো লেগেছে।",
+        "ur": "مجھے آج کا لیکچر بہت اچھا لگا۔",
+        "zh-CN": "我很喜欢今天的课。",
+        "ja": "今日の講義はとても楽しかったです。"
       },
       "practice": "Me gustó mucho la clase de hoy.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Em có thể tìm đề cương môn học ở đâu ạ?",
         "id": "Di mana saya bisa menemukan silabusnya?",
         "ms": "Di mana saya boleh dapatkan sukatan pelajaran?",
-        "ko": "강의계획서는 어디서 볼 수 있어요?"
+        "ko": "강의계획서는 어디서 볼 수 있어요?",
+        "ru": "Где можно найти программу курса?",
+        "bn": "সিলেবাস কোথায় পাব?",
+        "ur": "مجھے نصاب کہاں ملے گا؟",
+        "zh-CN": "请问在哪里可以找到课程大纲？",
+        "ja": "シラバスはどこで見られますか？"
       },
       "practice": "¿Dónde puedo encontrar el programa del curso?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Giờ tiếp sinh viên của thầy/cô là khi nào ạ?",
         "id": "Kapan jam konsultasi Anda?",
         "ms": "Bila waktu konsultasi profesor?",
-        "ko": "면담 시간은 언제예요?"
+        "ko": "면담 시간은 언제예요?",
+        "ru": "Когда у вас приёмные часы?",
+        "bn": "আপনার অফিস আওয়ার কখন?",
+        "ur": "آپ کے آفس آورز کب ہیں؟",
+        "zh-CN": "您的答疑时间是什么时候？",
+        "ja": "オフィスアワーはいつですか？"
       },
       "practice": "¿Cuál es su horario de atención?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Em cảm ơn thầy/cô, hẹn gặp lại tuần sau ạ.",
         "id": "Terima kasih, sampai jumpa minggu depan.",
         "ms": "Terima kasih, jumpa minggu depan.",
-        "ko": "감사합니다, 다음 주에 뵙겠습니다."
+        "ko": "감사합니다, 다음 주에 뵙겠습니다.",
+        "ru": "Спасибо, до следующей недели.",
+        "bn": "ধন্যবাদ, আগামী সপ্তাহে দেখা হবে।",
+        "ur": "شکریہ، اگلے ہفتے ملتے ہیں۔",
+        "zh-CN": "谢谢，下周见。",
+        "ja": "ありがとうございました。また来週。"
       },
       "practice": "Gracias, nos vemos la próxima semana.",
       "practice_translations": {

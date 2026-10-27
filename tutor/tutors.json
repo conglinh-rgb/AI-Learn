@@ -5,6 +5,7 @@
       "name": "Milo",
       "tagline": "Makes practice fun",
       "tagline_translations": {
+        "en": "Makes practice fun",
         "es": "Hace que practicar sea divertido",
         "fr": "Rend la pratique amusante",
         "de": "Macht das Üben zum Spaß",
@@ -20,7 +21,12 @@
         "vi": "Biến việc luyện tập thành niềm vui",
         "id": "Bikin latihan jadi seru",
         "ms": "Menjadikan latihan menyeronokkan",
-        "ko": "연습을 즐겁게 만들어 줘요"
+        "ko": "연습을 즐겁게 만들어 줘요",
+        "ru": "Делает практику увлекательной",
+        "bn": "অনুশীলনকে মজাদার করে তোলে",
+        "ur": "مشق کو مزے دار بناتا ہے",
+        "zh-CN": "让练习变得有趣",
+        "ja": "練習を楽しくしてくれる"
       },
       "portrait": "file:///android_asset/tutor/milo.webp",
       "video": "file:///android_asset/tutor/milo.mp4",
@@ -54,6 +60,7 @@
       "name": "Grace",
       "tagline": "Here to help you speak",
       "tagline_translations": {
+        "en": "Here to help you speak",
         "es": "Aquí para ayudarte a hablar",
         "fr": "Là pour vous aider à parler",
         "de": "Hilft dir beim Sprechen",
@@ -69,7 +76,12 @@
         "vi": "Luôn sẵn sàng giúp bạn nói",
         "id": "Siap membantu Anda berbicara",
         "ms": "Sedia membantu anda bertutur",
-        "ko": "말하기를 도와드려요"
+        "ko": "말하기를 도와드려요",
+        "ru": "Поможет тебе заговорить",
+        "bn": "তোমাকে কথা বলতে সাহায্য করতে প্রস্তুত",
+        "ur": "بولنے میں آپ کی مدد کے لیے حاضر",
+        "zh-CN": "随时帮你开口说",
+        "ja": "あなたのスピーキングをサポート"
       },
       "portrait": "file:///android_asset/tutor/grace.webp",
       "video": "file:///android_asset/tutor/grace.mp4",
@@ -103,6 +115,7 @@
       "name": "Ryan",
       "tagline": "Friendly & patient",
       "tagline_translations": {
+        "en": "Friendly & patient",
         "es": "Amable y paciente",
         "fr": "Sympathique et patient",
         "de": "Freundlich und geduldig",
@@ -118,7 +131,12 @@
         "vi": "Thân thiện và kiên nhẫn",
         "id": "Ramah dan sabar",
         "ms": "Mesra dan sabar",
-        "ko": "친근하고 인내심 있어요"
+        "ko": "친근하고 인내심 있어요",
+        "ru": "Дружелюбный и терпеливый",
+        "bn": "বন্ধুসুলভ ও ধৈর্যশীল",
+        "ur": "دوستانہ اور صابر",
+        "zh-CN": "友好又耐心",
+        "ja": "フレンドリーで辛抱強い"
       },
       "portrait": "file:///android_asset/tutor/ryan.webp",
       "video": "file:///android_asset/tutor/ryan.mp4",
@@ -152,6 +170,7 @@
       "name": "Walter",
       "tagline": "Calm and encouraging",
       "tagline_translations": {
+        "en": "Calm and encouraging",
         "es": "Tranquilo y alentador",
         "fr": "Calme et encourageant",
         "de": "Ruhig und ermutigend",
@@ -167,7 +186,12 @@
         "vi": "Điềm tĩnh và luôn động viên",
         "id": "Tenang dan menyemangati",
         "ms": "Tenang dan memberi semangat",
-        "ko": "차분하고 용기를 북돋아 줘요"
+        "ko": "차분하고 용기를 북돋아 줘요",
+        "ru": "Спокойный и ободряющий",
+        "bn": "শান্ত ও উৎসাহদায়ী",
+        "ur": "پُرسکون اور حوصلہ افزا",
+        "zh-CN": "沉稳且善于鼓励",
+        "ja": "落ち着いていて励まし上手"
       },
       "portrait": "file:///android_asset/tutor/walter.webp",
       "video": "file:///android_asset/tutor/walter.mp4",
@@ -201,6 +225,7 @@
       "name": "Ivy",
       "tagline": "Warm and patient",
       "tagline_translations": {
+        "en": "Warm and patient",
         "es": "Cálida y paciente",
         "fr": "Chaleureuse et patiente",
         "de": "Herzlich und geduldig",
@@ -216,7 +241,12 @@
         "vi": "Ấm áp và kiên nhẫn",
         "id": "Hangat dan sabar",
         "ms": "Penyayang dan penyabar",
-        "ko": "따뜻하고 인내심 있어요"
+        "ko": "따뜻하고 인내심 있어요",
+        "ru": "Душевная и терпеливая",
+        "bn": "আন্তরিক ও ধৈর্যশীল",
+        "ur": "گرمجوش اور صابر",
+        "zh-CN": "温暖又耐心",
+        "ja": "温かくて辛抱強い"
       },
       "portrait": "file:///android_asset/tutor/ivy.webp",
       "video": "file:///android_asset/tutor/ivy.mp4",
@@ -250,6 +280,7 @@
       "name": "Edward",
       "tagline": "Clear and steady",
       "tagline_translations": {
+        "en": "Clear and steady",
         "es": "Claro y constante",
         "fr": "Clair et posé",
         "de": "Klar und besonnen",
@@ -265,7 +296,12 @@
         "vi": "Rõ ràng và điềm đạm",
         "id": "Jelas dan tenang",
         "ms": "Jelas dan tenang",
-        "ko": "또박또박하고 안정적이에요"
+        "ko": "또박또박하고 안정적이에요",
+        "ru": "Чёткий и уравновешенный",
+        "bn": "স্পষ্ট ও স্থির",
+        "ur": "واضح اور متوازن",
+        "zh-CN": "清晰而沉稳",
+        "ja": "明快で落ち着いている"
       },
       "portrait": "file:///android_asset/tutor/edward.webp",
       "video": "file:///android_asset/tutor/edward.mp4",
@@ -299,6 +335,7 @@
       "name": "Sophia",
       "tagline": "Kind and supportive",
       "tagline_translations": {
+        "en": "Kind and supportive",
         "es": "Cariñosa y comprensiva",
         "fr": "Bienveillante et encourageante",
         "de": "Liebevoll und unterstützend",
@@ -314,7 +351,12 @@
         "vi": "Tốt bụng và luôn hỗ trợ",
         "id": "Baik hati dan suportif",
         "ms": "Baik hati dan suka membantu",
-        "ko": "다정하고 든든해요"
+        "ko": "다정하고 든든해요",
+        "ru": "Добрая и заботливая",
+        "bn": "দয়ালু ও সহায়ক",
+        "ur": "مہربان اور مددگار",
+        "zh-CN": "善良又贴心",
+        "ja": "優しくて頼りになる"
       },
       "portrait": "file:///android_asset/tutor/sophia.webp",
       "video": "file:///android_asset/tutor/sophia.mp4",

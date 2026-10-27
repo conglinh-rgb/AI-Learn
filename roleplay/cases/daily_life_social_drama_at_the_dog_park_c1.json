@@ -18,7 +18,12 @@
     "vi": "Chó nhà ai lấy mất bóng của tôi?",
     "id": "Anjing Siapa yang Mengambil Bolaku?",
     "ms": "Anjing Siapa Ambil Bola Saya?",
-    "ko": "누구네 개가 내 공을 가져갔지?"
+    "ko": "누구네 개가 내 공을 가져갔지?",
+    "ru": "Чья собака утащила мой мяч?",
+    "bn": "কার কুকুর আমার বল নিয়ে গেল?",
+    "ur": "کس کے کتے نے میری گیند لے لی؟",
+    "zh-CN": "谁家的狗叼走了我的球？",
+    "ja": "ボールを取ったのはどの子？"
   },
   "character": "fox",
   "scenario": "At the dog park, another dog runs off with your dog's favorite ball. Its owner (AI) is standing nearby, looking at their phone.",
@@ -39,7 +44,12 @@
     "vi": "Ở công viên chó, một con chó khác chạy mất với quả bóng yêu thích của chó nhà bạn. Chủ của nó (AI) đang đứng gần đó, mải nhìn điện thoại.",
     "id": "Di taman anjing, seekor anjing lain kabur membawa bola kesayangan anjingmu. Pemiliknya (AI) berdiri di dekat situ sambil melihat ponselnya.",
     "ms": "Di taman anjing, seekor anjing lain lari membawa bola kegemaran anjing anda. Tuannya (AI) berdiri berdekatan sambil melihat telefon.",
-    "ko": "반려견 공원에서 다른 개가 당신 개가 제일 좋아하는 공을 물고 달아났어요. 그 개의 주인(AI)은 근처에 서서 휴대폰을 보고 있어요."
+    "ko": "반려견 공원에서 다른 개가 당신 개가 제일 좋아하는 공을 물고 달아났어요. 그 개의 주인(AI)은 근처에 서서 휴대폰을 보고 있어요.",
+    "ru": "В собачьем парке другая собака убегает с любимым мячом вашей собаки. Её хозяин (AI) стоит рядом и смотрит в телефон.",
+    "bn": "ডগ পার্কে অন্য একটি কুকুর আপনার কুকুরের প্রিয় বল নিয়ে দৌড়ে চলে যায়। তার মালিক (AI) কাছেই দাঁড়িয়ে ফোন দেখছেন।",
+    "ur": "ڈاگ پارک میں ایک اور کتا آپ کے کتے کی پسندیدہ گیند لے کر بھاگ جاتا ہے۔ اس کا مالک (AI) قریب کھڑا فون دیکھ رہا ہے۔",
+    "zh-CN": "在狗狗公园里，另一只狗叼着你家狗最爱的球跑了。它的主人（AI）就站在附近看手机。",
+    "ja": "ドッグパークで、別の犬があなたの犬のお気に入りのボールをくわえて走り去りました。その飼い主（AI）は近くでスマホを見ています。"
   },
   "mission": {
     "native": "Politely get the ball back with the help of the other dog's owner.",
@@ -60,7 +70,12 @@
       "vi": "Lịch sự lấy lại quả bóng với sự giúp đỡ của chủ con chó kia.",
       "id": "Dapatkan kembali bolanya dengan sopan dengan bantuan pemilik anjing itu.",
       "ms": "Dapatkan semula bola itu dengan sopan dengan bantuan tuan anjing tersebut.",
-      "ko": "상대 개 주인의 도움을 받아 정중하게 공을 돌려받으세요."
+      "ko": "상대 개 주인의 도움을 받아 정중하게 공을 돌려받으세요.",
+      "ru": "Вежливо верните мяч с помощью хозяина другой собаки.",
+      "bn": "অন্য কুকুরের মালিকের সাহায্যে ভদ্রভাবে বলটি ফেরত নিন।",
+      "ur": "دوسرے کتے کے مالک کی مدد سے شائستگی سے گیند واپس لیں۔",
+      "zh-CN": "在另一只狗主人的帮助下，礼貌地把球要回来。",
+      "ja": "相手の飼い主に協力してもらい、丁寧にボールを取り戻しましょう。"
     },
     "practice": "Recupere la pelota con cortesía con ayuda del dueño del otro perro.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chào chủ của con chó kia",
           "id": "Sapa pemilik anjing itu",
           "ms": "Tegur tuan anjing yang satu lagi",
-          "ko": "상대 개 주인에게 인사하세요"
+          "ko": "상대 개 주인에게 인사하세요",
+          "ru": "Поздоровайтесь с хозяином другой собаки",
+          "bn": "অন্য কুকুরের মালিককে শুভেচ্ছা জানান",
+          "ur": "دوسرے کتے کے مالک کو سلام کریں",
+          "zh-CN": "和另一只狗的主人打招呼",
+          "ja": "相手の飼い主にあいさつしましょう"
         },
         "practice": "Salude al dueño del otro perro",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích rằng chó của họ đã lấy bóng của chó nhà bạn",
           "id": "Jelaskan bahwa anjingnya mengambil bola anjingmu",
           "ms": "Terangkan bahawa anjingnya mengambil bola anjing anda",
-          "ko": "그 사람의 개가 당신 개의 공을 가져갔다고 설명하세요"
+          "ko": "그 사람의 개가 당신 개의 공을 가져갔다고 설명하세요",
+          "ru": "Объясните, что их собака взяла мяч вашей собаки",
+          "bn": "ব্যাখ্যা করুন যে তাঁর কুকুর আপনার কুকুরের বল নিয়েছে",
+          "ur": "وضاحت کریں کہ ان کے کتے نے آپ کے کتے کی گیند لے لی ہے",
+          "zh-CN": "说明对方的狗拿走了你家狗的球",
+          "ja": "相手の犬があなたの犬のボールを取ったことを説明しましょう"
         },
         "practice": "Explique que su perro se llevó la pelota de su perro",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhờ người chủ giúp lấy lại quả bóng",
           "id": "Minta pemiliknya membantu mengambil bola itu kembali",
           "ms": "Minta tuan anjing itu membantu mendapatkan semula bola",
-          "ko": "공을 되찾도록 도와 달라고 부탁하세요"
+          "ko": "공을 되찾도록 도와 달라고 부탁하세요",
+          "ru": "Попросите хозяина помочь вернуть мяч",
+          "bn": "বলটি ফেরত পেতে মালিকের সাহায্য চান",
+          "ur": "مالک سے گیند واپس لینے میں مدد مانگیں",
+          "zh-CN": "请主人帮忙把球拿回来",
+          "ja": "ボールを取り戻すのを手伝ってもらうよう頼みましょう"
         },
         "practice": "Pida al dueño que ayude a recuperar la pelota",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị! Con chó đằng kia là của anh/chị phải không?",
         "id": "Halo! Itu anjing Anda di sana?",
         "ms": "Hai! Itu anjing awak di sana?",
-        "ko": "안녕하세요! 저기 있는 개가 그쪽 개인가요?"
+        "ko": "안녕하세요! 저기 있는 개가 그쪽 개인가요?",
+        "ru": "Здравствуйте! Это ваша собака вон там?",
+        "bn": "হাই! ওইখানের কুকুরটা কি আপনার?",
+        "ur": "ہیلو! کیا وہ وہاں آپ کا کتا ہے؟",
+        "zh-CN": "你好！那边那只狗是你的吗？",
+        "ja": "こんにちは！あそこの犬はあなたの犬ですか？"
       },
       "practice": "¡Hola! ¿Ese perro de allá es suyo?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Hình như chó của anh/chị lấy bóng của chó nhà tôi rồi.",
         "id": "Sepertinya anjing Anda mengambil bola anjing saya.",
         "ms": "Saya rasa anjing awak ambil bola anjing saya.",
-        "ko": "그쪽 개가 우리 개 공을 가져간 것 같아요."
+        "ko": "그쪽 개가 우리 개 공을 가져간 것 같아요.",
+        "ru": "Кажется, ваша собака взяла мяч моей собаки.",
+        "bn": "মনে হয় আপনার কুকুর আমার কুকুরের বলটা নিয়ে গেছে।",
+        "ur": "میرا خیال ہے آپ کے کتے نے میرے کتے کی گیند لے لی ہے۔",
+        "zh-CN": "你的狗好像拿走了我家狗的球。",
+        "ja": "あなたの犬がうちの犬のボールを取ったみたいなんです。"
       },
       "practice": "Creo que su perro se llevó la pelota de mi perro.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Đó là món đồ chơi nó thích nhất.",
         "id": "Itu mainan kesayangannya.",
         "ms": "Itu mainan kegemarannya.",
-        "ko": "그게 우리 개가 제일 좋아하는 장난감이에요."
+        "ko": "그게 우리 개가 제일 좋아하는 장난감이에요.",
+        "ru": "Это его любимая игрушка.",
+        "bn": "ওটা ওর সবচেয়ে প্রিয় খেলনা।",
+        "ur": "یہ اس کا پسندیدہ کھلونا ہے۔",
+        "zh-CN": "那是它最喜欢的玩具。",
+        "ja": "あの子のお気に入りのおもちゃなんです。"
       },
       "practice": "Es su juguete favorito.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Anh/chị giúp tôi lấy lại được không?",
         "id": "Bisa tolong bantu saya mengambilnya kembali?",
         "ms": "Boleh tolong saya dapatkannya semula?",
-        "ko": "공 좀 되찾게 도와주시겠어요?"
+        "ko": "공 좀 되찾게 도와주시겠어요?",
+        "ru": "Не могли бы вы помочь мне его вернуть?",
+        "bn": "আপনি কি দয়া করে ওটা ফেরত পেতে আমাকে সাহায্য করবেন?",
+        "ur": "کیا آپ اسے واپس لینے میں میری مدد کر سکتے ہیں، پلیز؟",
+        "zh-CN": "能请你帮我拿回来吗？",
+        "ja": "取り戻すのを手伝っていただけますか？"
       },
       "practice": "¿Me podría ayudar a recuperarla, por favor?",
       "practice_translations": {

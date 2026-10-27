@@ -18,7 +18,12 @@
     "vi": "Chậm tiến độ",
     "id": "Terlambat dari Jadwal",
     "ms": "Ketinggalan Jadual",
-    "ko": "일정이 밀렸어요"
+    "ko": "일정이 밀렸어요",
+    "ru": "Отставание от графика",
+    "bn": "সময়সূচির চেয়ে পিছিয়ে",
+    "ur": "شیڈول سے پیچھے",
+    "zh-CN": "进度落后",
+    "ja": "スケジュールの遅れ"
   },
   "character": "fox",
   "scenario": "Your project is two days behind. Before an important client call, your manager (AI) asks you for a status update.",
@@ -39,7 +44,12 @@
     "vi": "Dự án của bạn đang chậm hai ngày. Trước một cuộc gọi quan trọng với khách hàng, quản lý (AI) hỏi bạn về tình hình.",
     "id": "Proyekmu terlambat dua hari. Sebelum telepon penting dengan klien, manajermu (AI) meminta kabar terbaru.",
     "ms": "Projek anda lewat dua hari. Sebelum panggilan penting dengan pelanggan, pengurus anda (AI) meminta kemas kini status.",
-    "ko": "프로젝트가 이틀 늦어졌어요. 중요한 고객 통화를 앞두고 매니저(AI)가 진행 상황을 물어봅니다."
+    "ko": "프로젝트가 이틀 늦어졌어요. 중요한 고객 통화를 앞두고 매니저(AI)가 진행 상황을 물어봅니다.",
+    "ru": "Ваш проект отстаёт на два дня. Перед важным звонком с клиентом ваш руководитель (AI) просит вас рассказать о текущем положении дел.",
+    "bn": "আপনার প্রজেক্ট দুই দিন পিছিয়ে আছে। একটি গুরুত্বপূর্ণ ক্লায়েন্ট কলের আগে আপনার ম্যানেজার (AI) আপনার কাছে কাজের অগ্রগতি জানতে চান।",
+    "ur": "آپ کا پروجیکٹ دو دن پیچھے ہے۔ ایک اہم کلائنٹ کال سے پہلے آپ کا مینیجر (AI) آپ سے صورتحال کی تازہ معلومات مانگتا ہے۔",
+    "zh-CN": "你的项目落后了两天。在一次重要的客户通话之前，你的经理（AI）向你询问最新进展。",
+    "ja": "あなたのプロジェクトは2日遅れています。重要な顧客との電話の前に、上司（AI）が進捗状況を尋ねてきます。"
   },
   "mission": {
     "native": "Explain the delay honestly and give your manager a realistic new plan.",
@@ -60,7 +70,12 @@
       "vi": "Thành thật giải thích lý do chậm trễ và đưa ra kế hoạch mới sát thực tế.",
       "id": "Jelaskan keterlambatannya dengan jujur dan berikan rencana baru yang realistis kepada manajermu.",
       "ms": "Terangkan kelewatan dengan jujur dan beri pengurus anda pelan baharu yang realistik.",
-      "ko": "지연된 이유를 솔직하게 설명하고 매니저에게 현실적인 새 계획을 제시하세요."
+      "ko": "지연된 이유를 솔직하게 설명하고 매니저에게 현실적인 새 계획을 제시하세요.",
+      "ru": "Честно объясните причину задержки и предложите руководителю реалистичный новый план.",
+      "bn": "সততার সাথে দেরির কারণ ব্যাখ্যা করুন এবং ম্যানেজারকে একটি বাস্তবসম্মত নতুন পরিকল্পনা দিন।",
+      "ur": "تاخیر کی ایمانداری سے وضاحت کریں اور اپنے مینیجر کو ایک حقیقت پسندانہ نیا منصوبہ دیں۔",
+      "zh-CN": "如实解释延误原因，并向经理提出切实可行的新计划。",
+      "ja": "遅れの理由を正直に説明し、上司に現実的な新しい計画を伝えましょう。"
     },
     "practice": "Explique el retraso con honestidad y dé a su gerente un nuevo plan realista.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Thừa nhận dự án đang chậm tiến độ",
           "id": "Akui bahwa proyeknya terlambat dari jadwal",
           "ms": "Akui bahawa projek ketinggalan jadual",
-          "ko": "프로젝트가 일정보다 늦어졌다고 인정하세요"
+          "ko": "프로젝트가 일정보다 늦어졌다고 인정하세요",
+          "ru": "Признайте, что проект отстаёт от графика",
+          "bn": "স্বীকার করুন যে প্রজেক্ট সময়সূচির চেয়ে পিছিয়ে",
+          "ur": "تسلیم کریں کہ پروجیکٹ شیڈول سے پیچھے ہے",
+          "zh-CN": "承认项目进度落后",
+          "ja": "プロジェクトが遅れていることを認める"
         },
         "practice": "Admita que el proyecto está atrasado",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Giải thích lý do chậm trễ",
           "id": "Jelaskan alasan keterlambatannya",
           "ms": "Terangkan sebab kelewatan",
-          "ko": "지연된 이유를 설명하세요"
+          "ko": "지연된 이유를 설명하세요",
+          "ru": "Объясните причину задержки",
+          "bn": "দেরির কারণ ব্যাখ্যা করুন",
+          "ur": "تاخیر کی وجہ بتائیں",
+          "zh-CN": "解释延误的原因",
+          "ja": "遅れの理由を説明する"
         },
         "practice": "Explique el motivo del retraso",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Đưa ra ngày hoàn thành mới sát thực tế",
           "id": "Sebutkan tanggal selesai baru yang realistis",
           "ms": "Beri tarikh siap baharu yang realistik",
-          "ko": "현실적인 새 완료 날짜를 말하세요"
+          "ko": "현실적인 새 완료 날짜를 말하세요",
+          "ru": "Назовите реалистичный новый срок завершения",
+          "bn": "একটি বাস্তবসম্মত নতুন সমাপ্তির তারিখ দিন",
+          "ur": "تکمیل کی ایک حقیقت پسندانہ نئی تاریخ بتائیں",
+          "zh-CN": "给出切实可行的新完成日期",
+          "ja": "現実的な新しい完了日を伝える"
         },
         "practice": "Dé una nueva fecha de entrega realista",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Nói bạn sẽ bắt kịp tiến độ thế nào",
           "id": "Jelaskan bagaimana kamu akan mengejar ketertinggalan",
           "ms": "Nyatakan cara anda akan mengejar semula",
-          "ko": "어떻게 따라잡을지 말하세요"
+          "ko": "어떻게 따라잡을지 말하세요",
+          "ru": "Скажите, как вы наверстаете отставание",
+          "bn": "বলুন আপনি কীভাবে পিছিয়ে পড়া কাজ পূরণ করবেন",
+          "ur": "بتائیں کہ آپ تاخیر کیسے پوری کریں گے",
+          "zh-CN": "说明你将如何赶上进度",
+          "ja": "どのように遅れを取り戻すかを伝える"
         },
         "practice": "Diga cómo se va a poner al día",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tôi phải thành thật: chúng ta đang chậm khoảng hai ngày.",
         "id": "Saya harus jujur: kita terlambat sekitar dua hari.",
         "ms": "Saya perlu berterus terang: kita lewat kira-kira dua hari.",
-        "ko": "솔직히 말씀드리면, 이틀 정도 늦어졌어요."
+        "ko": "솔직히 말씀드리면, 이틀 정도 늦어졌어요.",
+        "ru": "Скажу честно: мы отстаём примерно на два дня.",
+        "bn": "সত্যি বলতে, আমরা প্রায় দুই দিন পিছিয়ে আছি।",
+        "ur": "سچ کہوں تو ہم تقریباً دو دن پیچھے ہیں۔",
+        "zh-CN": "老实说，我们落后了大约两天。",
+        "ja": "正直に申し上げると、約2日遅れています。"
       },
       "practice": "Tengo que ser honesto: vamos unos dos días atrasados.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Việc chậm trễ là do chúng tôi phải chờ dữ liệu từ khách hàng.",
         "id": "Keterlambatannya terjadi karena kita menunggu data dari klien.",
         "ms": "Kelewatan berlaku kerana kami menunggu data daripada pelanggan.",
-        "ko": "고객 데이터를 기다리느라 늦어졌어요."
+        "ko": "고객 데이터를 기다리느라 늦어졌어요.",
+        "ru": "Задержка произошла, потому что мы ждали данные от клиента.",
+        "bn": "দেরি হয়েছে কারণ আমরা ক্লায়েন্টের ডেটার জন্য অপেক্ষা করছিলাম।",
+        "ur": "تاخیر اس لیے ہوئی کہ ہم کلائنٹ کے ڈیٹا کا انتظار کر رہے تھے۔",
+        "zh-CN": "延误是因为我们一直在等客户的数据。",
+        "ja": "遅れの原因は、クライアントからのデータを待っていたことです。"
       },
       "practice": "El retraso se debió a que estábamos esperando los datos del cliente.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Muộn nhất là thứ Năm tôi sẽ hoàn thành.",
         "id": "Saya bisa menyelesaikannya paling lambat hari Kamis.",
         "ms": "Saya boleh siapkannya paling lewat pada hari Khamis.",
-        "ko": "늦어도 목요일까지는 준비할 수 있어요."
+        "ko": "늦어도 목요일까지는 준비할 수 있어요.",
+        "ru": "Я смогу всё подготовить самое позднее к четвергу.",
+        "bn": "আমি সর্বোচ্চ বৃহস্পতিবারের মধ্যে এটা তৈরি করে দিতে পারব।",
+        "ur": "میں اسے زیادہ سے زیادہ جمعرات تک تیار کر سکتا ہوں۔",
+        "zh-CN": "我最晚周四就能完成。",
+        "ja": "遅くとも木曜日までには仕上げられます。"
       },
       "practice": "Puedo tenerlo listo a más tardar el jueves.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi sẽ tập trung vào các tính năng chính để bắt kịp tiến độ.",
         "id": "Saya akan fokus pada fitur utama untuk mengejar ketertinggalan.",
         "ms": "Saya akan fokus pada ciri utama untuk mengejar semula.",
-        "ko": "따라잡기 위해 주요 기능에 집중할게요."
+        "ko": "따라잡기 위해 주요 기능에 집중할게요.",
+        "ru": "Чтобы наверстать, я сосредоточусь на основных функциях.",
+        "bn": "পিছিয়ে পড়া পূরণ করতে আমি মূল ফিচারগুলোর উপর মনোযোগ দেব।",
+        "ur": "تاخیر پوری کرنے کے لیے میں اہم فیچرز پر توجہ دوں گا۔",
+        "zh-CN": "我会集中精力做主要功能，把进度赶上来。",
+        "ja": "遅れを取り戻すため、主要な機能に集中します。"
       },
       "practice": "Me voy a concentrar en las funciones principales para ponerme al día.",
       "practice_translations": {

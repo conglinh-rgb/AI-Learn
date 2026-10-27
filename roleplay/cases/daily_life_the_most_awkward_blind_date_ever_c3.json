@@ -18,7 +18,12 @@
     "vi": "Người hẹn hò cứ nói mãi về người yêu cũ",
     "id": "Teman Kencan yang Terus Membahas Mantannya",
     "ms": "Teman Janji Temu yang Asyik Bercerita Tentang Bekas Kekasih",
-    "ko": "전 애인 이야기만 하는 소개팅 상대"
+    "ko": "전 애인 이야기만 하는 소개팅 상대",
+    "ru": "Свидание с человеком, который только и говорит о бывших",
+    "bn": "যে ডেট শুধু প্রাক্তনের কথাই বলে",
+    "ur": "وہ ڈیٹ جو اپنے سابق کے بارے میں بات کرنا بند نہیں کرتی",
+    "zh-CN": "三句不离前任的约会对象",
+    "ja": "元恋人の話ばかりするデート相手"
   },
   "character": "fox",
   "premium": true,
@@ -40,7 +45,12 @@
     "vi": "Người hẹn hò giấu mặt (AI) cứ nói mãi về người yêu cũ, và giờ còn bắt đầu so sánh mọi điều bạn nói với người đó.",
     "id": "Teman kencan butamu (AI) tidak berhenti membicarakan mantannya, dan sekarang dia mulai membandingkan semua ucapanmu dengan mantannya.",
     "ms": "Pasangan janji temu buta anda (AI) tidak berhenti bercakap tentang bekas kekasihnya, dan dia baru mula membandingkan setiap kata-kata anda dengan bekas kekasihnya.",
-    "ko": "소개팅 상대(AI)가 전 애인 이야기를 멈추지 못하고, 이제는 당신이 하는 말마다 전 애인과 비교하기 시작했어요."
+    "ko": "소개팅 상대(AI)가 전 애인 이야기를 멈추지 못하고, 이제는 당신이 하는 말마다 전 애인과 비교하기 시작했어요.",
+    "ru": "Ваш партнёр по свиданию вслепую (AI) только и говорит о бывшем, а теперь ещё и сравнивает с ним всё, что вы говорите.",
+    "bn": "আপনার ব্লাইন্ড ডেট (AI) প্রাক্তনের কথা বলা থামাতেই পারছে না, আর এখন আপনার প্রতিটি কথার সঙ্গে তার তুলনা করা শুরু করেছে।",
+    "ur": "آپ کی بلائنڈ ڈیٹ (AI) اپنے سابق کے بارے میں بات کرنا بند نہیں کر رہی، اور اب آپ کی ہر بات کا موازنہ اس سے کرنے لگی ہے۔",
+    "zh-CN": "你的相亲对象（AI）一直在聊前任，现在还开始拿你说的每句话和前任作比较。",
+    "ja": "ブラインドデートの相手（AI）は元恋人の話ばかりで、今ではあなたの言うことすべてを元恋人と比べ始めました。"
   },
   "mission": {
     "native": "Tactfully change the subject, set a kind boundary, and decide how the evening ends.",
@@ -61,7 +71,12 @@
       "vi": "Khéo léo đổi chủ đề, đặt ra giới hạn một cách tế nhị và quyết định buổi tối sẽ kết thúc thế nào.",
       "id": "Alihkan topik dengan bijak, tetapkan batasan dengan ramah, dan putuskan bagaimana malam ini berakhir.",
       "ms": "Tukar topik dengan bijak, tetapkan batasan dengan baik, dan tentukan bagaimana malam itu berakhir.",
-      "ko": "재치 있게 화제를 바꾸고, 부드럽게 선을 그은 뒤, 오늘 저녁을 어떻게 마무리할지 정하세요."
+      "ko": "재치 있게 화제를 바꾸고, 부드럽게 선을 그은 뒤, 오늘 저녁을 어떻게 마무리할지 정하세요.",
+      "ru": "Тактично смените тему, мягко обозначьте границы и решите, чем закончится вечер.",
+      "bn": "কৌশলে প্রসঙ্গ বদলান, সদয়ভাবে সীমা টানুন এবং সন্ধ্যাটা কীভাবে শেষ হবে তা ঠিক করুন।",
+      "ur": "سلیقے سے موضوع بدلیں، نرمی سے حد مقرر کریں اور فیصلہ کریں کہ شام کیسے ختم ہو۔",
+      "zh-CN": "得体地转移话题，友善地划清界限，并决定今晚如何收场。",
+      "ja": "上手に話題を変え、やんわりと線を引き、夜の締めくくり方を決めましょう。"
     },
     "practice": "Cambie de tema con tacto, ponga un límite amable y decida cómo termina la noche.",
     "practice_translations": {
@@ -93,7 +108,12 @@
           "vi": "Lịch sự chuyển chủ đề khỏi người yêu cũ",
           "id": "Alihkan topik dari sang mantan dengan sopan",
           "ms": "Tukar topik daripada bekas kekasih dengan sopan",
-          "ko": "전 애인 이야기에서 정중하게 화제를 돌리세요"
+          "ko": "전 애인 이야기에서 정중하게 화제를 돌리세요",
+          "ru": "Вежливо уведите разговор от бывшего",
+          "bn": "ভদ্রভাবে প্রাক্তনের প্রসঙ্গ থেকে কথা ঘুরিয়ে দিন",
+          "ur": "شائستگی سے بات کو سابق سے ہٹا دیں",
+          "zh-CN": "礼貌地把话题从前任身上引开",
+          "ja": "元恋人の話から丁寧に話題をそらしましょう"
         },
         "practice": "Cambie de tema con cortesía para dejar de hablar de la expareja",
         "practice_translations": {
@@ -125,7 +145,12 @@
           "vi": "Nhẹ nhàng nói rằng việc so sánh khiến bạn không thoải mái",
           "id": "Katakan dengan ramah bahwa perbandingan itu membuatmu tidak nyaman",
           "ms": "Katakan dengan baik bahawa perbandingan itu membuat anda tidak selesa",
-          "ko": "비교당하는 게 불편하다고 부드럽게 말하세요"
+          "ko": "비교당하는 게 불편하다고 부드럽게 말하세요",
+          "ru": "Мягко скажите, что сравнения вам неприятны",
+          "bn": "সদয়ভাবে বলুন যে তুলনাগুলো আপনাকে অস্বস্তিতে ফেলছে",
+          "ur": "نرمی سے بتائیں کہ موازنے آپ کو بے چین کرتے ہیں",
+          "zh-CN": "友善地说明这些比较让你不舒服",
+          "ja": "比べられると居心地が悪いと優しく伝えましょう"
         },
         "practice": "Diga con amabilidad que las comparaciones le incomodan",
         "practice_translations": {
@@ -157,7 +182,12 @@
           "vi": "Chia sẻ một điều thú vị về bản thân",
           "id": "Ceritakan hal menarik tentang dirimu",
           "ms": "Kongsikan sesuatu yang menarik tentang diri anda",
-          "ko": "자신에 대한 흥미로운 이야기를 하나 하세요"
+          "ko": "자신에 대한 흥미로운 이야기를 하나 하세요",
+          "ru": "Расскажите что-нибудь интересное о себе",
+          "bn": "নিজের সম্পর্কে মজার কিছু বলুন",
+          "ur": "اپنے بارے میں کوئی دلچسپ بات بتائیں",
+          "zh-CN": "分享一件关于自己的趣事",
+          "ja": "自分について面白いことを話しましょう"
         },
         "practice": "Cuente algo interesante sobre usted",
         "practice_translations": {
@@ -189,7 +219,12 @@
           "vi": "Kết thúc buổi hẹn lịch sự hoặc cho thêm một cơ hội",
           "id": "Akhiri kencan dengan sopan atau beri kesempatan kedua",
           "ms": "Tamatkan janji temu dengan sopan atau beri peluang kedua",
-          "ko": "데이트를 정중하게 끝내거나 한 번 더 기회를 주세요"
+          "ko": "데이트를 정중하게 끝내거나 한 번 더 기회를 주세요",
+          "ru": "Вежливо завершите свидание или дайте второй шанс",
+          "bn": "ভদ্রভাবে ডেট শেষ করুন বা আরেকটা সুযোগ দিন",
+          "ur": "شائستگی سے ڈیٹ ختم کریں یا دوسرا موقع دیں",
+          "zh-CN": "礼貌地结束约会，或再给一次机会",
+          "ja": "丁寧にデートを終えるか、もう一度チャンスをあげましょう"
         },
         "practice": "Termine la cita con cortesía u ofrezca otra oportunidad",
         "practice_translations": {
@@ -221,7 +256,12 @@
         "vi": "Nghe có vẻ nhiều chuyện quá. Mình nói chuyện khác được không?",
         "id": "Kedengarannya berat. Bisa kita bicara hal lain?",
         "ms": "Nampaknya banyak yang awak lalui. Boleh kita cakap tentang benda lain?",
-        "ko": "많은 일이 있었네요. 우리 다른 얘기 할까요?"
+        "ko": "많은 일이 있었네요. 우리 다른 얘기 할까요?",
+        "ru": "Похоже, тебе многое пришлось пережить. Может, поговорим о чём-нибудь другом?",
+        "bn": "শুনে মনে হচ্ছে অনেক কিছু হয়েছে। আমরা কি অন্য কিছু নিয়ে কথা বলতে পারি?",
+        "ur": "لگتا ہے بہت کچھ ہوا ہے۔ کیا ہم کسی اور چیز کے بارے میں بات کر سکتے ہیں؟",
+        "zh-CN": "听起来经历了不少。我们聊点别的好吗？",
+        "ja": "いろいろあったんだね。別の話をしない？"
       },
       "practice": "Parece que fue mucho. ¿Podemos hablar de otra cosa?",
       "practice_translations": {
@@ -250,7 +290,12 @@
         "vi": "Nói thật, việc so sánh làm mình hơi khó chịu.",
         "id": "Jujur saja, perbandingan itu membuat saya agak tidak nyaman.",
         "ms": "Terus terang, perbandingan itu buat saya rasa kurang selesa.",
-        "ko": "솔직히 말하면, 비교당하니까 좀 불편해요."
+        "ko": "솔직히 말하면, 비교당하니까 좀 불편해요.",
+        "ru": "Честно говоря, мне немного неприятны эти сравнения.",
+        "bn": "সত্যি বলতে, তুলনাগুলো আমাকে একটু অস্বস্তিতে ফেলছে।",
+        "ur": "سچ کہوں تو یہ موازنے مجھے تھوڑا بے چین کرتے ہیں۔",
+        "zh-CN": "说实话，这些比较让我有点不舒服。",
+        "ja": "正直に言うと、比べられるのはちょっと居心地が悪いな。"
       },
       "practice": "Para ser sincero, las comparaciones me incomodan un poco.",
       "practice_translations": {
@@ -279,7 +324,12 @@
         "vi": "Mình muốn tìm hiểu bạn, chứ không phải người yêu cũ của bạn.",
         "id": "Saya ingin mengenal kamu, bukan mantanmu.",
         "ms": "Saya mahu mengenali awak, bukan bekas kekasih awak.",
-        "ko": "저는 전 애인 말고 당신을 알고 싶어요."
+        "ko": "저는 전 애인 말고 당신을 알고 싶어요.",
+        "ru": "Я бы хотел узнать тебя, а не твоего бывшего.",
+        "bn": "আমি তোমাকে জানতে চাই, তোমার প্রাক্তনকে নয়।",
+        "ur": "میں تمہیں جاننا چاہوں گا، تمہارے سابق کو نہیں۔",
+        "zh-CN": "我想了解的是你，而不是你的前任。",
+        "ja": "知りたいのはあなたのことで、元恋人のことじゃないよ。"
       },
       "practice": "Me encantaría conocerte a ti, no a tu ex.",
       "practice_translations": {
@@ -308,7 +358,12 @@
         "vi": "Một điều thú vị về mình là mình chơi trống.",
         "id": "Satu hal seru tentang saya: saya main drum.",
         "ms": "Satu perkara menarik tentang saya ialah saya bermain dram.",
-        "ko": "저에 대한 재미있는 사실은 제가 드럼을 친다는 거예요."
+        "ko": "저에 대한 재미있는 사실은 제가 드럼을 친다는 거예요.",
+        "ru": "Забавный факт обо мне: я играю на барабанах.",
+        "bn": "আমার সম্পর্কে একটা মজার কথা হলো, আমি ড্রাম বাজাই।",
+        "ur": "میرے بارے میں ایک مزے کی بات یہ ہے کہ میں ڈرم بجاتا ہوں۔",
+        "zh-CN": "关于我有件趣事：我会打鼓。",
+        "ja": "ちょっと面白いことに、私はドラムを叩くんだ。"
       },
       "practice": "Algo divertido de mí es que toco la batería.",
       "practice_translations": {
@@ -337,7 +392,12 @@
         "vi": "Rất vui được gặp bạn, nhưng chắc mình về trước đây.",
         "id": "Senang bertemu denganmu, tapi sepertinya saya pulang saja.",
         "ms": "Gembira dapat berjumpa awak, tetapi saya rasa saya nak balik dulu.",
-        "ko": "만나서 반가웠어요. 그런데 저는 이만 집에 가 볼게요."
+        "ko": "만나서 반가웠어요. 그런데 저는 이만 집에 가 볼게요.",
+        "ru": "Было приятно познакомиться, но я, пожалуй, пойду домой.",
+        "bn": "তোমার সঙ্গে দেখা হয়ে ভালো লাগল, তবে আমার মনে হয় এবার বাড়ি যাব।",
+        "ur": "تم سے مل کر اچھا لگا، لیکن میرا خیال ہے اب میں گھر جاؤں گا۔",
+        "zh-CN": "很高兴认识你，不过我想我该回家了。",
+        "ja": "会えてよかったけど、そろそろ帰ろうと思う。"
       },
       "practice": "Fue un gusto conocerte, pero creo que me voy a casa.",
       "practice_translations": {

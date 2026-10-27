@@ -18,7 +18,12 @@
     "vi": "Gặp gia đình của bạn thân",
     "id": "Bertemu Keluarga Teman",
     "ms": "Berjumpa Keluarga Kawan",
-    "ko": "친구 가족과의 만남"
+    "ko": "친구 가족과의 만남",
+    "ru": "Знакомство с семьёй друга",
+    "bn": "বন্ধুর পরিবারের সাথে পরিচয়",
+    "ur": "دوست کے گھر والوں سے ملاقات",
+    "zh-CN": "见朋友的家人",
+    "ja": "友達の家族に会う"
   },
   "character": "fox",
   "scenario": "At a family celebration, your friend's grandmother (AI) greets you. She is curious about you and where you come from.",
@@ -39,7 +44,12 @@
     "vi": "Tại một buổi họp mặt gia đình, bà của bạn bạn (AI) chào bạn. Bà tò mò muốn biết về bạn và nơi bạn đến.",
     "id": "Di sebuah acara keluarga, nenek temanmu (AI) menyapamu. Dia penasaran tentang dirimu dan dari mana asalmu.",
     "ms": "Di sebuah majlis keluarga, nenek kawan anda (AI) menyapa anda. Dia ingin tahu tentang diri anda dan dari mana anda berasal.",
-    "ko": "가족 행사에서 친구의 할머니(AI)가 당신을 반겨 줍니다. 할머니는 당신이 어떤 사람이고 어디에서 왔는지 궁금해합니다."
+    "ko": "가족 행사에서 친구의 할머니(AI)가 당신을 반겨 줍니다. 할머니는 당신이 어떤 사람이고 어디에서 왔는지 궁금해합니다.",
+    "ru": "На семейном празднике вас приветствует бабушка вашего друга (AI). Ей интересно узнать о вас и о том, откуда вы.",
+    "bn": "একটি পারিবারিক অনুষ্ঠানে আপনার বন্ধুর দাদি (AI) আপনাকে স্বাগত জানান। তিনি আপনার সম্পর্কে এবং আপনি কোথা থেকে এসেছেন তা জানতে আগ্রহী।",
+    "ur": "ایک خاندانی تقریب میں آپ کے دوست کی دادی (AI) آپ کا استقبال کرتی ہیں۔ وہ آپ کے بارے میں اور آپ کہاں سے ہیں، یہ جاننے کی شوقین ہیں۔",
+    "zh-CN": "在一次家庭聚会上，朋友的奶奶（AI）向你打招呼。她对你和你来自哪里很好奇。",
+    "ja": "家族のお祝いの席で、友達のおばあさん（AI）があなたを迎えてくれました。あなたのことや出身地に興味津々です。"
   },
   "mission": {
     "native": "Introduce yourself respectfully, answer her questions and ask about a family tradition.",
@@ -60,7 +70,12 @@
       "vi": "Lễ phép giới thiệu bản thân, trả lời câu hỏi của bà và hỏi về một truyền thống gia đình.",
       "id": "Perkenalkan dirimu dengan sopan, jawab pertanyaannya, dan tanyakan tentang tradisi keluarga.",
       "ms": "Perkenalkan diri dengan hormat, jawab soalannya dan tanya tentang satu tradisi keluarga.",
-      "ko": "예의 바르게 자기소개를 하고, 할머니의 질문에 답한 뒤 가족 전통에 대해 물어보세요."
+      "ko": "예의 바르게 자기소개를 하고, 할머니의 질문에 답한 뒤 가족 전통에 대해 물어보세요.",
+      "ru": "Вежливо представьтесь, ответьте на её вопросы и спросите о семейной традиции.",
+      "bn": "সম্মানের সাথে নিজের পরিচয় দিন, তাঁর প্রশ্নের উত্তর দিন এবং একটি পারিবারিক ঐতিহ্য সম্পর্কে জিজ্ঞেস করুন।",
+      "ur": "احترام سے اپنا تعارف کروائیں، ان کے سوالوں کے جواب دیں اور کسی خاندانی روایت کے بارے میں پوچھیں۔",
+      "zh-CN": "礼貌地做自我介绍，回答她的问题，并问一问家里的传统。",
+      "ja": "礼儀正しく自己紹介をし、質問に答えて、家族の伝統について尋ねましょう。"
     },
     "practice": "Preséntese con respeto, responda a sus preguntas y pregunte por una tradición familiar.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Lễ phép giới thiệu bản thân",
           "id": "Perkenalkan dirimu dengan sopan",
           "ms": "Perkenalkan diri anda dengan hormat",
-          "ko": "예의 바르게 자기소개를 하세요"
+          "ko": "예의 바르게 자기소개를 하세요",
+          "ru": "Вежливо представьтесь",
+          "bn": "সম্মানের সাথে নিজের পরিচয় দিন",
+          "ur": "احترام سے اپنا تعارف کروائیں",
+          "zh-CN": "礼貌地做自我介绍",
+          "ja": "礼儀正しく自己紹介する"
         },
         "practice": "Preséntese con respeto",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói bạn đến từ đâu",
           "id": "Sebutkan dari mana asalmu",
           "ms": "Katakan dari mana anda berasal",
-          "ko": "어디에서 왔는지 말하세요"
+          "ko": "어디에서 왔는지 말하세요",
+          "ru": "Скажите, откуда вы",
+          "bn": "আপনি কোথা থেকে এসেছেন বলুন",
+          "ur": "بتائیں کہ آپ کہاں سے ہیں",
+          "zh-CN": "说出你来自哪里",
+          "ja": "出身地を言う"
         },
         "practice": "Diga de dónde es",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi về một truyền thống gia đình",
           "id": "Tanyakan tentang tradisi keluarga",
           "ms": "Tanya tentang satu tradisi keluarga",
-          "ko": "가족 전통에 대해 물어보세요"
+          "ko": "가족 전통에 대해 물어보세요",
+          "ru": "Спросите о семейной традиции",
+          "bn": "একটি পারিবারিক ঐতিহ্য সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "کسی خاندانی روایت کے بارے میں پوچھیں",
+          "zh-CN": "询问一个家庭传统",
+          "ja": "家族の伝統について尋ねる"
         },
         "practice": "Pregunte por una tradición familiar",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Cảm ơn bà vì đã đón tiếp nồng hậu",
           "id": "Ucapkan terima kasih atas sambutan hangatnya",
           "ms": "Ucapkan terima kasih atas sambutan mesranya",
-          "ko": "따뜻하게 맞아 주셔서 감사하다고 말하세요"
+          "ko": "따뜻하게 맞아 주셔서 감사하다고 말하세요",
+          "ru": "Поблагодарите её за тёплый приём",
+          "bn": "উষ্ণ অভ্যর্থনার জন্য তাঁকে ধন্যবাদ দিন",
+          "ur": "گرمجوشی سے استقبال پر ان کا شکریہ ادا کریں",
+          "zh-CN": "感谢她的热情款待",
+          "ja": "温かい歓迎に感謝を伝えましょう"
         },
         "practice": "Agradézcale la cálida bienvenida",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Cháu rất vui được gặp bà ạ.",
         "id": "Senang sekali bertemu dengan Ibu.",
         "ms": "Gembira dapat berjumpa dengan puan.",
-        "ko": "만나 뵙게 되어 반갑습니다."
+        "ko": "만나 뵙게 되어 반갑습니다.",
+        "ru": "Очень приятно познакомиться с вами.",
+        "bn": "আপনার সঙ্গে পরিচিত হয়ে খুব ভালো লাগল, ম্যাম।",
+        "ur": "آپ سے مل کر بہت خوشی ہوئی، محترمہ۔",
+        "zh-CN": "很高兴认识您，阿姨。",
+        "ja": "お会いできて光栄です。"
       },
       "practice": "Es un placer conocerla, señora.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Cháu đến từ một thị trấn nhỏ ven biển ạ.",
         "id": "Saya berasal dari kota kecil di tepi laut.",
         "ms": "Saya berasal dari sebuah pekan kecil di tepi laut.",
-        "ko": "저는 바닷가의 작은 마을에서 왔어요."
+        "ko": "저는 바닷가의 작은 마을에서 왔어요.",
+        "ru": "Я из маленького городка у моря.",
+        "bn": "আমি সমুদ্রের ধারের একটি ছোট শহর থেকে এসেছি।",
+        "ur": "میں سمندر کنارے ایک چھوٹے سے قصبے سے ہوں۔",
+        "zh-CN": "我来自海边的一个小镇。",
+        "ja": "海辺の小さな町の出身です。"
       },
       "practice": "Vengo de un pueblo pequeño junto al mar.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Ngày này gia đình mình thường tổ chức thế nào ạ?",
         "id": "Biasanya hari ini dirayakan dengan cara apa?",
         "ms": "Biasanya bagaimana keluarga puan meraikan hari ini?",
-        "ko": "이날은 보통 어떻게 보내세요?"
+        "ko": "이날은 보통 어떻게 보내세요?",
+        "ru": "Как вы обычно отмечаете этот день?",
+        "bn": "আপনারা সাধারণত এই দিনটি কীভাবে উদযাপন করেন?",
+        "ur": "آپ لوگ یہ دن عام طور پر کیسے مناتے ہیں؟",
+        "zh-CN": "你们通常怎么庆祝这一天？",
+        "ja": "この日はいつもどのようにお祝いするんですか？"
       },
       "practice": "¿Cómo suelen celebrar este día?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Cháu cảm ơn bà đã cho cháu cảm giác như ở nhà ạ.",
         "id": "Terima kasih sudah membuat saya merasa seperti di rumah sendiri.",
         "ms": "Terima kasih kerana membuat saya berasa seperti di rumah sendiri.",
-        "ko": "편하게 대해 주셔서 감사해요."
+        "ko": "편하게 대해 주셔서 감사해요.",
+        "ru": "Спасибо, что я чувствую себя у вас как дома.",
+        "bn": "আমাকে নিজের বাড়ির মতো অনুভব করানোর জন্য ধন্যবাদ।",
+        "ur": "مجھے گھر جیسا محسوس کروانے کا شکریہ۔",
+        "zh-CN": "谢谢您让我有宾至如归的感觉。",
+        "ja": "くつろがせていただき、ありがとうございます。"
       },
       "practice": "Gracias por hacerme sentir como en casa.",
       "practice_translations": {

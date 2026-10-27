@@ -18,7 +18,12 @@
     "vi": "Tiếng sét ái tình lúc ngửi nhau",
     "id": "Cinta pada Endusan Pertama",
     "ms": "Cinta pada Hiduan Pertama",
-    "ko": "첫 냄새에 반하다"
+    "ko": "첫 냄새에 반하다",
+    "ru": "Любовь с первого нюха",
+    "bn": "প্রথম শোঁকাতেই প্রেম",
+    "ur": "پہلی سونگھ میں محبت",
+    "zh-CN": "一嗅钟情",
+    "ja": "ひと嗅ぎぼれ"
   },
   "character": "fox",
   "scenario": "Your dog won't stop following another dog around the park, and its owner (AI) is starting to look a little annoyed.",
@@ -39,7 +44,12 @@
     "vi": "Chó nhà bạn cứ bám theo một con chó khác khắp công viên, và chủ của nó (AI) bắt đầu có vẻ hơi khó chịu.",
     "id": "Anjingmu terus membuntuti anjing lain keliling taman, dan pemiliknya (AI) mulai terlihat agak kesal.",
     "ms": "Anjing anda tidak berhenti mengekori seekor anjing lain di sekeliling taman, dan tuannya (AI) mula kelihatan agak jengkel.",
-    "ko": "당신의 개가 공원에서 다른 개를 계속 졸졸 따라다니고, 그 개의 주인(AI)은 조금 짜증 난 표정이에요."
+    "ko": "당신의 개가 공원에서 다른 개를 계속 졸졸 따라다니고, 그 개의 주인(AI)은 조금 짜증 난 표정이에요.",
+    "ru": "Ваша собака не отходит от другой собаки по всему парку, и её хозяин (AI) начинает выглядеть слегка раздражённым.",
+    "bn": "আপনার কুকুর পার্কজুড়ে অন্য একটি কুকুরের পিছু ছাড়ছে না, আর তার মালিক (AI) একটু বিরক্ত হতে শুরু করেছেন।",
+    "ur": "آپ کا کتا پورے پارک میں ایک اور کتے کا پیچھا نہیں چھوڑ رہا، اور اس کا مالک (AI) کچھ ناراض نظر آنے لگا ہے۔",
+    "zh-CN": "你家的狗在公园里一直跟着另一只狗，对方的主人（AI）开始显得有点不耐烦了。",
+    "ja": "あなたの犬が公園中で別の犬についてまわって離れず、その飼い主（AI）が少しイライラし始めています。"
   },
   "mission": {
     "native": "Apologize, make friendly small talk, and suggest a playdate for the dogs.",
@@ -60,7 +70,12 @@
       "vi": "Xin lỗi, trò chuyện xã giao thân thiện và rủ hai bé chó hẹn đi chơi cùng nhau.",
       "id": "Minta maaf, ajak ngobrol santai, dan usulkan agar anjing-anjing kalian main bersama.",
       "ms": "Minta maaf, berbual mesra, dan cadangkan anjing-anjing itu bermain bersama.",
-      "ko": "사과하고, 가볍고 다정하게 대화를 나눈 뒤, 개들끼리 놀 약속을 제안하세요."
+      "ko": "사과하고, 가볍고 다정하게 대화를 나눈 뒤, 개들끼리 놀 약속을 제안하세요.",
+      "ru": "Извинитесь, поддержите дружескую беседу и предложите собакам встретиться поиграть.",
+      "bn": "ক্ষমা চান, বন্ধুত্বপূর্ণ আলাপ করুন এবং কুকুরদের একসাথে খেলার প্রস্তাব দিন।",
+      "ur": "معذرت کریں، دوستانہ گپ شپ کریں اور کتوں کے ساتھ کھیلنے کی ملاقات کی تجویز دیں۔",
+      "zh-CN": "道个歉，友好地聊几句，并提议让两只狗约着一起玩。",
+      "ja": "謝って、気さくに雑談し、犬同士で遊ぶ約束を提案しましょう。"
     },
     "practice": "Discúlpese, converse de forma amable y sugiera que los perros jueguen juntos.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Xin lỗi vì hành vi của chó nhà bạn",
           "id": "Minta maaf atas tingkah anjingmu",
           "ms": "Minta maaf atas kelakuan anjing anda",
-          "ko": "개의 행동에 대해 사과하세요"
+          "ko": "개의 행동에 대해 사과하세요",
+          "ru": "Извинитесь за поведение своей собаки",
+          "bn": "আপনার কুকুরের আচরণের জন্য দুঃখ প্রকাশ করুন",
+          "ur": "اپنے کتے کے رویے پر معذرت کریں",
+          "zh-CN": "为你家狗狗的行为道歉",
+          "ja": "自分の犬の行動を謝りましょう"
         },
         "practice": "Discúlpese por el comportamiento de su perro",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi tên và tuổi của con chó kia",
           "id": "Tanyakan nama dan umur anjing itu",
           "ms": "Tanya nama dan umur anjing itu",
-          "ko": "상대 개의 이름과 나이를 물어보세요"
+          "ko": "상대 개의 이름과 나이를 물어보세요",
+          "ru": "Спросите, как зовут другую собаку и сколько ей лет",
+          "bn": "অন্য কুকুরটির নাম ও বয়স জিজ্ঞেস করুন",
+          "ur": "دوسرے کتے کا نام اور عمر پوچھیں",
+          "zh-CN": "询问对方狗狗的名字和年龄",
+          "ja": "相手の犬の名前と年齢を聞きましょう"
         },
         "practice": "Pregunte el nombre y la edad del otro perro",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Khen con chó kia một câu",
           "id": "Katakan sesuatu yang baik tentang anjing itu",
           "ms": "Katakan sesuatu yang baik tentang anjing itu",
-          "ko": "상대 개를 칭찬하세요"
+          "ko": "상대 개를 칭찬하세요",
+          "ru": "Скажите что-нибудь приятное о другой собаке",
+          "bn": "অন্য কুকুরটি সম্পর্কে ভালো কিছু বলুন",
+          "ur": "دوسرے کتے کے بارے میں کچھ اچھا کہیں",
+          "zh-CN": "夸一夸对方的狗狗",
+          "ja": "相手の犬をほめましょう"
         },
         "practice": "Diga algo amable sobre el otro perro",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Gợi ý để hai bé chơi cùng nhau vào hôm khác",
           "id": "Usulkan agar anjing-anjing kalian main bersama di lain hari",
           "ms": "Cadangkan anjing-anjing itu bermain bersama pada hari lain",
-          "ko": "다른 날 개들끼리 같이 놀자고 제안하세요"
+          "ko": "다른 날 개들끼리 같이 놀자고 제안하세요",
+          "ru": "Предложите собакам поиграть вместе в другой день",
+          "bn": "অন্য কোনো দিন কুকুরদের একসাথে খেলার প্রস্তাব দিন",
+          "ur": "تجویز دیں کہ کتے کسی اور دن ساتھ کھیلیں",
+          "zh-CN": "提议改天让两只狗狗一起玩",
+          "ja": "別の日に犬同士で遊ばせようと提案しましょう"
         },
         "practice": "Sugiera que los perros jueguen juntos otro día",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Xin lỗi nhé, bình thường nó không như thế này đâu.",
         "id": "Maaf sekali, biasanya dia tidak begini.",
         "ms": "Saya minta maaf sangat, biasanya dia tidak begini.",
-        "ko": "정말 죄송해요, 평소에는 안 이러는데요."
+        "ko": "정말 죄송해요, 평소에는 안 이러는데요.",
+        "ru": "Простите, пожалуйста, обычно он так себя не ведёт.",
+        "bn": "আমি খুবই দুঃখিত, ও সাধারণত এমন করে না।",
+        "ur": "مجھے بہت افسوس ہے، وہ عام طور پر ایسا نہیں کرتا۔",
+        "zh-CN": "真不好意思，它平时不这样的。",
+        "ja": "本当にすみません、普段はこんな子じゃないんです。"
       },
       "practice": "Lo siento mucho, normalmente no es así.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Bé tên gì vậy? Bé mấy tuổi rồi?",
         "id": "Siapa namanya? Umurnya berapa?",
         "ms": "Siapa namanya? Berapa umurnya?",
-        "ko": "이름이 뭐예요? 몇 살이에요?"
+        "ko": "이름이 뭐예요? 몇 살이에요?",
+        "ru": "Как её зовут? Сколько ей лет?",
+        "bn": "ওর নাম কী? ওর বয়স কত?",
+        "ur": "اس کا نام کیا ہے؟ اس کی عمر کتنی ہے؟",
+        "zh-CN": "它叫什么名字？几岁了？",
+        "ja": "お名前は？何歳ですか？"
       },
       "practice": "¿Cómo se llama? ¿Cuántos años tiene?",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Bé xinh quá, lại còn ngoan nữa.",
         "id": "Dia cantik sekali, dan sangat jinak.",
         "ms": "Dia cantik, dan sangat berkelakuan baik.",
-        "ko": "정말 예쁘고 얌전하네요."
+        "ko": "정말 예쁘고 얌전하네요.",
+        "ru": "Она красавица и так хорошо воспитана.",
+        "bn": "ও খুব সুন্দর, আর কী শান্তশিষ্ট!",
+        "ur": "وہ بہت خوبصورت ہے، اور بہت تمیز والی بھی۔",
+        "zh-CN": "它好漂亮，而且好乖。",
+        "ja": "きれいな子ですね、それにとてもお行儀がいい。"
       },
       "practice": "Es preciosa, y se porta muy bien.",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Hình như chó nhà tôi hơi \"cảm nắng\" bé nhà anh/chị rồi.",
         "id": "Sepertinya anjing saya naksir anjing Anda.",
         "ms": "Saya rasa anjing saya sudah terpikat dengan anjing awak.",
-        "ko": "우리 개가 그쪽 개한테 반한 것 같아요."
+        "ko": "우리 개가 그쪽 개한테 반한 것 같아요.",
+        "ru": "Кажется, мой пёс немного влюбился в вашу.",
+        "bn": "মনে হচ্ছে আমার কুকুরটা আপনারটার প্রেমে একটু পড়েছে।",
+        "ur": "لگتا ہے میرا کتا آپ کی کتیا کو تھوڑا پسند کرنے لگا ہے۔",
+        "zh-CN": "我觉得我家狗狗有点喜欢上你家的了。",
+        "ja": "うちの子、お宅の子にちょっと惚れちゃったみたいです。"
       },
       "practice": "Creo que a mi perro le gusta un poquito la suya.",
       "practice_translations": {
@@ -336,7 +391,12 @@
         "vi": "Hay cuối tuần sau cho hai bé chơi cùng nhau nhé?",
         "id": "Mungkin mereka bisa main bersama akhir pekan depan?",
         "ms": "Mungkin mereka boleh bermain bersama hujung minggu depan?",
-        "ko": "다음 주말에 같이 놀게 하면 어때요?"
+        "ko": "다음 주말에 같이 놀게 하면 어때요?",
+        "ru": "Может, они поиграют вместе в следующие выходные?",
+        "bn": "পরের সপ্তাহান্তে ওরা কি একসাথে খেলতে পারে?",
+        "ur": "شاید اگلے ویک اینڈ وہ ساتھ کھیل سکیں؟",
+        "zh-CN": "要不下周末让它们一起玩？",
+        "ja": "来週末、一緒に遊ばせませんか？"
       },
       "practice": "¿Tal vez podrían jugar juntos el próximo fin de semana?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Gọi món ở nhà hàng địa phương",
     "id": "Memesan di Restoran Lokal",
     "ms": "Memesan di Restoran Tempatan",
-    "ko": "현지 식당에서 주문하기"
+    "ko": "현지 식당에서 주문하기",
+    "ru": "Заказ в местном ресторане",
+    "bn": "স্থানীয় রেস্তোরাঁয় অর্ডার দেওয়া",
+    "ur": "مقامی ریستوران میں آرڈر دینا",
+    "zh-CN": "在本地餐馆点餐",
+    "ja": "地元のレストランで注文する"
   },
   "character": "fox",
   "scenario": "You sit down at a small local restaurant. The waiter (AI) brings the menu and asks what you would like.",
@@ -39,7 +44,12 @@
     "vi": "Bạn ngồi vào bàn tại một nhà hàng địa phương nhỏ. Nhân viên phục vụ (AI) mang thực đơn đến và hỏi bạn muốn dùng gì.",
     "id": "Kamu duduk di sebuah restoran lokal kecil. Pelayan (AI) membawakan menu dan menanyakan pesananmu.",
     "ms": "Anda duduk di sebuah restoran tempatan yang kecil. Pelayan (AI) membawa menu dan bertanya apa yang anda mahu.",
-    "ko": "작은 현지 식당에 자리를 잡았습니다. 종업원(AI)이 메뉴판을 가져와 무엇을 드시겠냐고 묻습니다."
+    "ko": "작은 현지 식당에 자리를 잡았습니다. 종업원(AI)이 메뉴판을 가져와 무엇을 드시겠냐고 묻습니다.",
+    "ru": "Вы садитесь за столик в небольшом местном ресторане. Официант (AI) приносит меню и спрашивает, что вы будете заказывать.",
+    "bn": "আপনি একটি ছোট স্থানীয় রেস্তোরাঁয় বসেছেন। ওয়েটার (AI) মেনু এনে জিজ্ঞেস করছেন আপনি কী নেবেন।",
+    "ur": "آپ ایک چھوٹے مقامی ریستوران میں بیٹھتے ہیں۔ ویٹر (AI) مینو لاتا ہے اور پوچھتا ہے کہ آپ کیا لیں گے۔",
+    "zh-CN": "你在一家本地小餐馆坐下。服务员（AI）拿来菜单，问你想点什么。",
+    "ja": "あなたは地元の小さなレストランの席に着きました。ウェイター（AI）がメニューを持ってきて、注文を尋ねます。"
   },
   "mission": {
     "native": "Ask for a recommendation, then order a meal and a drink.",
@@ -60,7 +70,12 @@
       "vi": "Nhờ gợi ý món, rồi gọi một món ăn và một đồ uống.",
       "id": "Minta rekomendasi, lalu pesan makanan dan minuman.",
       "ms": "Minta cadangan, kemudian pesan hidangan dan minuman.",
-      "ko": "추천을 부탁한 다음 식사와 음료를 주문하세요."
+      "ko": "추천을 부탁한 다음 식사와 음료를 주문하세요.",
+      "ru": "Попросите что-нибудь посоветовать, затем закажите блюдо и напиток.",
+      "bn": "একটি সুপারিশ চান, তারপর একটি খাবার ও একটি পানীয় অর্ডার করুন।",
+      "ur": "مشورہ مانگیں، پھر ایک کھانا اور ایک مشروب آرڈر کریں۔",
+      "zh-CN": "请对方推荐，然后点一份餐和一杯饮料。",
+      "ja": "おすすめを聞いてから、料理と飲み物を注文しましょう。"
     },
     "practice": "Pida una recomendación y luego ordene un plato y una bebida.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nhờ gợi ý món",
           "id": "Minta rekomendasi",
           "ms": "Minta cadangan",
-          "ko": "추천 메뉴를 물어보세요"
+          "ko": "추천 메뉴를 물어보세요",
+          "ru": "Попросите что-нибудь посоветовать",
+          "bn": "একটি সুপারিশ চান",
+          "ur": "مشورہ مانگیں",
+          "zh-CN": "请对方推荐",
+          "ja": "おすすめを聞きましょう"
         },
         "practice": "Pida una recomendación",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Gọi một món chính",
           "id": "Pesan hidangan utama",
           "ms": "Pesan hidangan utama",
-          "ko": "메인 요리를 주문하세요"
+          "ko": "메인 요리를 주문하세요",
+          "ru": "Закажите основное блюдо",
+          "bn": "একটি প্রধান খাবার অর্ডার করুন",
+          "ur": "ایک مین ڈش آرڈر کریں",
+          "zh-CN": "点一道主菜",
+          "ja": "メイン料理を注文しましょう"
         },
         "practice": "Ordene un plato principal",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Gọi một đồ uống",
           "id": "Pesan minuman",
           "ms": "Pesan minuman",
-          "ko": "음료를 주문하세요"
+          "ko": "음료를 주문하세요",
+          "ru": "Закажите напиток",
+          "bn": "একটি পানীয় অর্ডার করুন",
+          "ur": "ایک مشروب آرڈر کریں",
+          "zh-CN": "点一杯饮料",
+          "ja": "飲み物を注文しましょう"
         },
         "practice": "Ordene una bebida",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Anh/chị gợi ý món gì ạ?",
         "id": "Apa yang Anda rekomendasikan?",
         "ms": "Apa yang awak cadangkan?",
-        "ko": "뭘 추천해 주시겠어요?"
+        "ko": "뭘 추천해 주시겠어요?",
+        "ru": "Что вы посоветуете?",
+        "bn": "আপনি কী সুপারিশ করবেন?",
+        "ur": "آپ کیا تجویز کریں گے؟",
+        "zh-CN": "您有什么推荐的吗？",
+        "ja": "おすすめは何ですか？"
       },
       "practice": "¿Qué me recomienda?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Cho tôi món gà nhé.",
         "id": "Saya pesan ayamnya, ya.",
         "ms": "Saya nak ayam, ya.",
-        "ko": "치킨으로 주세요."
+        "ko": "치킨으로 주세요.",
+        "ru": "Мне курицу, пожалуйста.",
+        "bn": "আমি চিকেনটা নেব, প্লিজ।",
+        "ur": "میں چکن لوں گا، پلیز۔",
+        "zh-CN": "我要鸡肉，谢谢。",
+        "ja": "チキンをお願いします。"
       },
       "practice": "Voy a pedir el pollo, por favor.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Cho tôi xin một cốc nước được không?",
         "id": "Boleh minta segelas air putih?",
         "ms": "Boleh saya dapat segelas air?",
-        "ko": "물 한 잔 주시겠어요?"
+        "ko": "물 한 잔 주시겠어요?",
+        "ru": "Можно мне стакан воды?",
+        "bn": "আমাকে এক গ্লাস পানি দিতে পারবেন?",
+        "ur": "کیا مجھے ایک گلاس پانی مل سکتا ہے؟",
+        "zh-CN": "可以给我一杯水吗？",
+        "ja": "お水を一杯いただけますか？"
       },
       "practice": "¿Me trae un vaso de agua, por favor?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Cho chúng tôi xin hóa đơn nhé.",
         "id": "Boleh minta tagihannya?",
         "ms": "Boleh kami dapatkan bil?",
-        "ko": "계산서 좀 주시겠어요?"
+        "ko": "계산서 좀 주시겠어요?",
+        "ru": "Принесите, пожалуйста, счёт.",
+        "bn": "আমাদের বিলটা দিতে পারবেন, প্লিজ?",
+        "ur": "کیا ہمیں بل مل سکتا ہے، پلیز؟",
+        "zh-CN": "请给我们结账好吗？",
+        "ja": "お会計をお願いできますか？"
       },
       "practice": "¿Nos trae la cuenta, por favor?",
       "practice_translations": {

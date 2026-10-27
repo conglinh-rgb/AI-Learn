@@ -18,7 +18,12 @@
     "vi": "Bí ẩn \"Giấc mơ rừng trăng\"",
     "id": "Misteri Moonlight Forest Dream",
     "ms": "Misteri Moonlight Forest Dream",
-    "ko": "문라이트 포레스트 드림의 미스터리"
+    "ko": "문라이트 포레스트 드림의 미스터리",
+    "ru": "Загадка «Сна лунного леса»",
+    "bn": "\"মুনলাইট ফরেস্ট ড্রিম\"-এর রহস্য",
+    "ur": "\"مون لائٹ فاریسٹ ڈریم\" کا معمہ",
+    "zh-CN": "“月光森林之梦”之谜",
+    "ja": "「ムーンライト・フォレスト・ドリーム」の謎"
   },
   "character": "fox",
   "scenario": "Every drink on the menu has a strange name like \"Moonlight Forest Dream,\" and the barista (AI) expects you to know what they are.",
@@ -39,7 +44,12 @@
     "vi": "Mọi đồ uống trong thực đơn đều có tên kỳ lạ như \"Giấc mơ rừng trăng\", và nhân viên pha chế (AI) nghĩ rằng bạn phải biết chúng là gì.",
     "id": "Setiap minuman di menu punya nama aneh seperti \"Moonlight Forest Dream\", dan barista (AI) mengira kamu tahu semuanya.",
     "ms": "Setiap minuman dalam menu mempunyai nama pelik seperti \"Moonlight Forest Dream\", dan barista (AI) menyangka anda tahu apa semuanya.",
-    "ko": "메뉴에 있는 음료마다 \"문라이트 포레스트 드림\" 같은 이상한 이름이 붙어 있는데, 바리스타(AI)는 당신이 다 알 거라고 생각해요."
+    "ko": "메뉴에 있는 음료마다 \"문라이트 포레스트 드림\" 같은 이상한 이름이 붙어 있는데, 바리스타(AI)는 당신이 다 알 거라고 생각해요.",
+    "ru": "У каждого напитка в меню странное название вроде «Сон лунного леса», а бариста (AI) ожидает, что вы знаете, что это такое.",
+    "bn": "মেনুর প্রতিটি পানীয়ের নাম অদ্ভুত, যেমন \"মুনলাইট ফরেস্ট ড্রিম\", আর বারিস্তা (AI) আশা করেন আপনি জানেন এগুলো কী।",
+    "ur": "مینو پر ہر مشروب کا نام عجیب ہے، جیسے \"مون لائٹ فاریسٹ ڈریم\"، اور باریسٹا (AI) توقع کرتا ہے کہ آپ جانتے ہوں یہ کیا ہیں۔",
+    "zh-CN": "菜单上每款饮品都有奇怪的名字，比如“月光森林之梦”，而咖啡师（AI）以为你知道它们是什么。",
+    "ja": "メニューのドリンクはどれも「ムーンライト・フォレスト・ドリーム」のような不思議な名前で、バリスタ（AI）はあなたが中身を知っているものと思っています。"
   },
   "mission": {
     "native": "Find out what is in a drink and order one that fits your taste.",
@@ -60,7 +70,12 @@
       "vi": "Tìm hiểu thành phần của một đồ uống và gọi món hợp khẩu vị của bạn.",
       "id": "Cari tahu isi sebuah minuman dan pesan yang sesuai seleramu.",
       "ms": "Ketahui apa kandungan sesuatu minuman dan pesan satu yang sesuai dengan citarasa anda.",
-      "ko": "음료에 무엇이 들어가는지 알아보고 입맛에 맞는 음료를 주문하세요."
+      "ko": "음료에 무엇이 들어가는지 알아보고 입맛에 맞는 음료를 주문하세요.",
+      "ru": "Узнайте, из чего состоит напиток, и закажите тот, что вам по вкусу.",
+      "bn": "একটি পানীয়ে কী আছে জেনে নিন এবং আপনার রুচিমতো একটি অর্ডার করুন।",
+      "ur": "معلوم کریں کہ مشروب میں کیا ہے اور اپنی پسند کا ایک آرڈر کریں۔",
+      "zh-CN": "弄清饮品里有什么，并点一杯合你口味的。",
+      "ja": "ドリンクの中身を確かめて、好みに合うものを注文しましょう。"
     },
     "practice": "Averigüe qué lleva una bebida y pida una que vaya con su gusto.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Hỏi thành phần của một loại đồ uống",
           "id": "Tanyakan isi salah satu minuman",
           "ms": "Tanya apa kandungan salah satu minuman",
-          "ko": "음료 하나에 무엇이 들어가는지 물어보세요"
+          "ko": "음료 하나에 무엇이 들어가는지 물어보세요",
+          "ru": "Спросите, что входит в один из напитков",
+          "bn": "একটি পানীয়ে কী আছে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ کسی ایک مشروب میں کیا ہے",
+          "zh-CN": "询问其中一款饮品的成分",
+          "ja": "ドリンクの一つに何が入っているか尋ねる"
         },
         "practice": "Pregunte qué lleva una de las bebidas",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Nói vị bạn thích hoặc không thích",
           "id": "Sebutkan rasa yang kamu suka atau tidak suka",
           "ms": "Katakan perisa yang anda suka atau tidak suka",
-          "ko": "좋아하는 맛이나 싫어하는 맛을 말하세요"
+          "ko": "좋아하는 맛이나 싫어하는 맛을 말하세요",
+          "ru": "Скажите, какие вкусы вам нравятся или не нравятся",
+          "bn": "কোন স্বাদ পছন্দ বা অপছন্দ তা বলুন",
+          "ur": "بتائیں کہ آپ کو کون سے ذائقے پسند یا ناپسند ہیں",
+          "zh-CN": "说出你喜欢或不喜欢的口味",
+          "ja": "好きな味・苦手な味を伝える"
         },
         "practice": "Diga qué sabores le gustan o no le gustan",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Nhờ nhân viên pha chế gợi ý",
           "id": "Minta rekomendasi dari barista",
           "ms": "Minta cadangan daripada barista",
-          "ko": "바리스타에게 추천해 달라고 하세요"
+          "ko": "바리스타에게 추천해 달라고 하세요",
+          "ru": "Попросите баристу что-нибудь посоветовать",
+          "bn": "বারিস্তার কাছে পরামর্শ চান",
+          "ur": "باریسٹا سے مشورہ مانگیں",
+          "zh-CN": "请咖啡师推荐",
+          "ja": "バリスタにおすすめを聞く"
         },
         "practice": "Pida una recomendación al barista",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Gọi đồ uống kèm một thay đổi",
           "id": "Pesan minuman dengan satu perubahan",
           "ms": "Pesan minuman itu dengan satu perubahan",
-          "ko": "한 가지를 바꿔서 음료를 주문하세요"
+          "ko": "한 가지를 바꿔서 음료를 주문하세요",
+          "ru": "Закажите напиток с одним изменением",
+          "bn": "একটি পরিবর্তনসহ পানীয়টি অর্ডার করুন",
+          "ur": "ایک تبدیلی کے ساتھ مشروب آرڈر کریں",
+          "zh-CN": "点这款饮品并做一处调整",
+          "ja": "一つ変更してドリンクを注文する"
         },
         "practice": "Pida la bebida con un cambio",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Xin lỗi, chính xác thì \"Giấc mơ rừng trăng\" có gì trong đó vậy?",
         "id": "Maaf, sebenarnya Moonlight Forest Dream itu isinya apa?",
         "ms": "Maaf, apa sebenarnya kandungan Moonlight Forest Dream?",
-        "ko": "죄송한데, 문라이트 포레스트 드림에는 정확히 뭐가 들어가요?"
+        "ko": "죄송한데, 문라이트 포레스트 드림에는 정확히 뭐가 들어가요?",
+        "ru": "Простите, а что именно входит в «Сон лунного леса»?",
+        "bn": "মাফ করবেন, \"মুনলাইট ফরেস্ট ড্রিম\"-এ ঠিক কী আছে?",
+        "ur": "معاف کیجیے، \"مون لائٹ فاریسٹ ڈریم\" میں بالکل کیا ہے؟",
+        "zh-CN": "不好意思，“月光森林之梦”里到底有什么？",
+        "ja": "すみません、「ムーンライト・フォレスト・ドリーム」には具体的に何が入っていますか？"
       },
       "practice": "Perdón, ¿qué lleva exactamente el Sueño del Bosque Lunar?",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Tôi thích đồ uống ngọt, nhưng không thích bạc hà.",
         "id": "Saya suka minuman manis, tapi tidak suka mint.",
         "ms": "Saya suka minuman manis, tetapi saya tidak suka pudina.",
-        "ko": "단 음료는 좋아하는데 민트는 안 좋아해요."
+        "ko": "단 음료는 좋아하는데 민트는 안 좋아해요.",
+        "ru": "Я люблю сладкие напитки, но не люблю мяту.",
+        "bn": "আমি মিষ্টি পানীয় পছন্দ করি, কিন্তু পুদিনা পছন্দ করি না।",
+        "ur": "مجھے میٹھے مشروبات پسند ہیں، لیکن پودینہ پسند نہیں۔",
+        "zh-CN": "我喜欢甜的饮品，但不喜欢薄荷。",
+        "ja": "甘いドリンクは好きですが、ミントは苦手です。"
       },
       "practice": "Me gustan las bebidas dulces, pero no me gusta la menta.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Bạn gợi ý món nào cho tôi?",
         "id": "Apa yang Anda rekomendasikan untuk saya?",
         "ms": "Apa yang awak cadangkan untuk saya?",
-        "ko": "저한테 뭘 추천해 주시겠어요?"
+        "ko": "저한테 뭘 추천해 주시겠어요?",
+        "ru": "Что бы вы мне посоветовали?",
+        "bn": "আপনি আমাকে কী পরামর্শ দেবেন?",
+        "ur": "آپ میرے لیے کیا تجویز کریں گے؟",
+        "zh-CN": "你会给我推荐什么？",
+        "ja": "何かおすすめはありますか？"
       },
       "practice": "¿Qué me recomienda?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Cho tôi đổi sang sữa yến mạch được không?",
         "id": "Boleh pakai susu oat saja?",
         "ms": "Boleh saya dapatkannya dengan susu oat?",
-        "ko": "대신 귀리 우유로 바꿔 주실 수 있어요?"
+        "ko": "대신 귀리 우유로 바꿔 주실 수 있어요?",
+        "ru": "А можно вместо этого на овсяном молоке?",
+        "bn": "এর বদলে ওট মিল্ক দিয়ে দিতে পারবেন?",
+        "ur": "کیا اس کے بجائے اوٹ ملک کے ساتھ مل سکتا ہے؟",
+        "zh-CN": "可以换成燕麦奶吗？",
+        "ja": "代わりにオーツミルクにできますか？"
       },
       "practice": "¿Me la puede preparar con leche de avena?",
       "practice_translations": {

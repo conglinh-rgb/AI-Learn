@@ -18,7 +18,12 @@
     "vi": "Mở nhạc đi... Không phải bài đó!",
     "id": "Putar Musik... Bukan Itu!",
     "ms": "Mainkan Muzik... Bukan Yang Itu!",
-    "ko": "음악 좀 틀어 줘... 그거 말고!"
+    "ko": "음악 좀 틀어 줘... 그거 말고!",
+    "ru": "Включи музыку... Только не эту!",
+    "bn": "একটু গান চালাও... ওটা না!",
+    "ur": "کچھ موسیقی لگاؤ... وہ نہیں!",
+    "zh-CN": "放点音乐……不是这个！",
+    "ja": "音楽をかけて…それじゃない！"
   },
   "character": "fox",
   "scenario": "You ask your smart speaker (AI) to play some relaxing music, but it starts blasting heavy metal at full volume.",
@@ -39,7 +44,12 @@
     "vi": "Bạn bảo loa thông minh (AI) mở nhạc thư giãn, nhưng nó lại bật heavy metal hết cỡ.",
     "id": "Kamu meminta speaker pintarmu (AI) memutar musik yang menenangkan, tapi ia malah memutar heavy metal dengan volume penuh.",
     "ms": "Anda meminta pembesar suara pintar (AI) anda memainkan muzik yang menenangkan, tetapi ia mula memainkan muzik heavy metal pada volum maksimum.",
-    "ko": "스마트 스피커(AI)에게 편안한 음악을 틀어 달라고 했는데, 최대 볼륨으로 헤비메탈을 쾅쾅 틀기 시작해요."
+    "ko": "스마트 스피커(AI)에게 편안한 음악을 틀어 달라고 했는데, 최대 볼륨으로 헤비메탈을 쾅쾅 틀기 시작해요.",
+    "ru": "Вы просите умную колонку (AI) включить расслабляющую музыку, а она на полную громкость врубает хеви-метал.",
+    "bn": "আপনি আপনার স্মার্ট স্পিকারকে (AI) আরামদায়ক গান চালাতে বললেন, কিন্তু সেটি পুরো ভলিউমে হেভি মেটাল বাজাতে শুরু করল।",
+    "ur": "آپ اپنے اسمارٹ اسپیکر (AI) سے پرسکون موسیقی لگانے کو کہتے ہیں، لیکن وہ پوری آواز میں ہیوی میٹل بجانے لگتا ہے۔",
+    "zh-CN": "你让智能音箱（AI）放点舒缓的音乐，它却开始以最大音量狂放重金属。",
+    "ja": "スマートスピーカー（AI）にリラックスできる音楽をお願いしたのに、最大音量でヘビーメタルが流れ始めました。"
   },
   "mission": {
     "native": "Get the speaker to play the music you want at a normal volume.",
@@ -60,7 +70,12 @@
       "vi": "Khiến chiếc loa phát đúng nhạc bạn muốn với âm lượng bình thường.",
       "id": "Buat speaker memutar musik yang kamu mau dengan volume normal.",
       "ms": "Buat pembesar suara memainkan muzik yang anda mahu pada volum biasa.",
-      "ko": "스피커가 원하는 음악을 적당한 볼륨으로 틀게 하세요."
+      "ko": "스피커가 원하는 음악을 적당한 볼륨으로 틀게 하세요.",
+      "ru": "Добейтесь, чтобы колонка играла нужную вам музыку с нормальной громкостью.",
+      "bn": "স্পিকারকে দিয়ে আপনার পছন্দের গান স্বাভাবিক ভলিউমে চালান।",
+      "ur": "اسپیکر سے اپنی پسند کی موسیقی عام آواز میں بجوائیں۔",
+      "zh-CN": "让音箱以正常音量播放你想听的音乐。",
+      "ja": "スピーカーに聴きたい音楽を普通の音量で流してもらいましょう。"
     },
     "practice": "Consiga que el altavoz ponga la música que quiere a un volumen normal.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Bảo loa dừng nhạc",
           "id": "Suruh speaker menghentikan musiknya",
           "ms": "Suruh pembesar suara hentikan muzik",
-          "ko": "스피커에게 음악을 끄라고 말하세요"
+          "ko": "스피커에게 음악을 끄라고 말하세요",
+          "ru": "Скажите колонке остановить музыку",
+          "bn": "স্পিকারকে গান বন্ধ করতে বলুন",
+          "ur": "اسپیکر سے موسیقی بند کرنے کو کہیں",
+          "zh-CN": "让音箱停止播放音乐",
+          "ja": "スピーカーに音楽を止めるよう言う"
         },
         "practice": "Diga al altavoz que pare la música",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Yêu cầu mở nhạc thư giãn thay vào đó",
           "id": "Minta musik yang menenangkan sebagai gantinya",
           "ms": "Minta muzik yang menenangkan sebagai ganti",
-          "ko": "대신 편안한 음악을 틀어 달라고 하세요"
+          "ko": "대신 편안한 음악을 틀어 달라고 하세요",
+          "ru": "Попросите вместо этого расслабляющую музыку",
+          "bn": "বদলে আরামদায়ক গান চান",
+          "ur": "اس کے بجائے پرسکون موسیقی مانگیں",
+          "zh-CN": "改为要求播放舒缓的音乐",
+          "ja": "代わりにリラックスできる音楽を頼む"
         },
         "practice": "Pida música relajante en su lugar",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Bảo loa giảm âm lượng",
           "id": "Minta ia mengecilkan volume",
           "ms": "Minta ia perlahankan volum",
-          "ko": "볼륨을 줄여 달라고 하세요"
+          "ko": "볼륨을 줄여 달라고 하세요",
+          "ru": "Попросите убавить громкость",
+          "bn": "ভলিউম কমাতে বলুন",
+          "ur": "آواز کم کرنے کو کہیں",
+          "zh-CN": "让它调低音量",
+          "ja": "音量を下げるよう頼む"
         },
         "practice": "Pídale que baje el volumen",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Dừng lại! Tắt nhạc đi!",
         "id": "Berhenti! Tolong hentikan musiknya!",
         "ms": "Berhenti! Tolong hentikan muzik ini!",
-        "ko": "그만! 음악 좀 꺼 줘요!"
+        "ko": "그만! 음악 좀 꺼 줘요!",
+        "ru": "Стоп! Выключи музыку, пожалуйста!",
+        "bn": "থামো! গানটা বন্ধ করো, প্লিজ!",
+        "ur": "رکو! براہ کرم موسیقی بند کرو!",
+        "zh-CN": "停！请把音乐停掉！",
+        "ja": "ストップ！音楽を止めて！"
       },
       "practice": "¡Para! ¡Para la música, por favor!",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Đó không phải thứ tôi yêu cầu.",
         "id": "Bukan itu yang saya minta.",
         "ms": "Itu bukan yang saya minta.",
-        "ko": "그건 제가 부탁한 게 아니에요."
+        "ko": "그건 제가 부탁한 게 아니에요.",
+        "ru": "Я просил не это.",
+        "bn": "আমি তো এটা চাইনি।",
+        "ur": "میں نے یہ نہیں مانگا تھا۔",
+        "zh-CN": "这不是我要的。",
+        "ja": "それは頼んだものじゃないよ。"
       },
       "practice": "Eso no es lo que pedí.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Mở nhạc piano nhẹ nhàng đi.",
         "id": "Putar musik piano yang tenang saja.",
         "ms": "Mainkan muzik piano yang tenang sebagai ganti.",
-        "ko": "대신 잔잔한 피아노 음악을 틀어 줘요."
+        "ko": "대신 잔잔한 피아노 음악을 틀어 줘요.",
+        "ru": "Лучше включи спокойную фортепианную музыку.",
+        "bn": "বরং শান্ত পিয়ানোর গান চালাও।",
+        "ur": "اس کے بجائے پرسکون پیانو موسیقی لگاؤ۔",
+        "zh-CN": "换成舒缓的钢琴曲吧。",
+        "ja": "代わりに落ち着いたピアノ曲をかけて。"
       },
       "practice": "Mejor pon música tranquila de piano.",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Giảm âm lượng xuống mức ba.",
         "id": "Kecilkan volumenya ke tiga.",
         "ms": "Perlahankan volum ke tiga.",
-        "ko": "볼륨을 3으로 줄여 줘요."
+        "ko": "볼륨을 3으로 줄여 줘요.",
+        "ru": "Убавь громкость до трёх.",
+        "bn": "ভলিউম তিনে নামাও।",
+        "ur": "آواز تین پر کر دو۔",
+        "zh-CN": "把音量调到三。",
+        "ja": "音量を3まで下げて。"
       },
       "practice": "Baja el volumen a tres.",
       "practice_translations": {

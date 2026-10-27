@@ -18,7 +18,12 @@
     "vi": "Gửi bưu kiện ra nước ngoài",
     "id": "Mengirim Paket ke Luar Negeri",
     "ms": "Menghantar Bungkusan ke Luar Negara",
-    "ko": "해외로 소포 보내기"
+    "ko": "해외로 소포 보내기",
+    "ru": "Отправка посылки за границу",
+    "bn": "বিদেশে পার্সেল পাঠানো",
+    "ur": "بیرونِ ملک پارسل بھیجنا",
+    "zh-CN": "寄包裹到国外",
+    "ja": "海外に小包を送る"
   },
   "character": "fox",
   "scenario": "You need to send a package to a friend in another country. The post office clerk (AI) asks what you want to send.",
@@ -39,7 +44,12 @@
     "vi": "Bạn cần gửi một bưu kiện cho người bạn ở nước khác. Nhân viên bưu điện (AI) hỏi bạn muốn gửi gì.",
     "id": "Kamu perlu mengirim paket ke teman di negara lain. Petugas kantor pos (AI) bertanya apa yang ingin kamu kirim.",
     "ms": "Anda perlu menghantar bungkusan kepada kawan di negara lain. Kerani pejabat pos (AI) bertanya apa yang ingin anda hantar.",
-    "ko": "다른 나라에 사는 친구에게 소포를 보내야 합니다. 우체국 직원(AI)이 무엇을 보내고 싶은지 묻습니다."
+    "ko": "다른 나라에 사는 친구에게 소포를 보내야 합니다. 우체국 직원(AI)이 무엇을 보내고 싶은지 묻습니다.",
+    "ru": "Вам нужно отправить посылку другу в другую страну. Сотрудник почты (AI) спрашивает, что вы хотите отправить.",
+    "bn": "আপনাকে অন্য দেশে এক বন্ধুর কাছে একটি পার্সেল পাঠাতে হবে। ডাকঘরের কর্মী (AI) জিজ্ঞেস করেন আপনি কী পাঠাতে চান।",
+    "ur": "آپ کو دوسرے ملک میں ایک دوست کو پارسل بھیجنا ہے۔ ڈاک خانے کا کلرک (AI) پوچھتا ہے کہ آپ کیا بھیجنا چاہتے ہیں۔",
+    "zh-CN": "你需要给另一个国家的朋友寄一个包裹。邮局职员（AI）问你要寄什么。",
+    "ja": "外国にいる友人に小包を送る必要があります。郵便局員（AI）が何を送りたいか尋ねます。"
   },
   "mission": {
     "native": "Describe your package, choose a shipping option and ask when it will arrive.",
@@ -60,7 +70,12 @@
       "vi": "Mô tả bưu kiện, chọn hình thức gửi và hỏi khi nào hàng đến nơi.",
       "id": "Jelaskan isi paketmu, pilih jenis pengiriman, dan tanyakan kapan paketnya sampai.",
       "ms": "Terangkan bungkusan anda, pilih kaedah penghantaran dan tanya bila ia akan sampai.",
-      "ko": "소포 내용을 설명하고, 배송 방법을 고른 뒤 언제 도착하는지 물어보세요."
+      "ko": "소포 내용을 설명하고, 배송 방법을 고른 뒤 언제 도착하는지 물어보세요.",
+      "ru": "Опишите посылку, выберите способ доставки и спросите, когда она придёт.",
+      "bn": "আপনার পার্সেলের বর্ণনা দিন, একটি পাঠানোর পদ্ধতি বেছে নিন এবং কবে পৌঁছাবে জিজ্ঞেস করুন।",
+      "ur": "اپنے پارسل کی وضاحت کریں، بھیجنے کا طریقہ منتخب کریں اور پوچھیں کہ یہ کب پہنچے گا۔",
+      "zh-CN": "描述你的包裹，选择一种寄送方式，并询问何时送达。",
+      "ja": "小包の中身を説明し、発送方法を選んで、いつ届くか尋ねましょう。"
     },
     "practice": "Describa su paquete, elija una opción de envío y pregunte cuándo llegará.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói trong bưu kiện có gì",
           "id": "Sebutkan isi paketnya",
           "ms": "Katakan apa yang ada di dalam bungkusan",
-          "ko": "소포 안에 무엇이 들어 있는지 말하세요"
+          "ko": "소포 안에 무엇이 들어 있는지 말하세요",
+          "ru": "Скажите, что внутри посылки",
+          "bn": "পার্সেলের ভেতরে কী আছে বলুন",
+          "ur": "بتائیں کہ پارسل میں کیا ہے",
+          "zh-CN": "说明包裹里装了什么",
+          "ja": "小包の中身を伝えましょう"
         },
         "practice": "Diga qué hay dentro del paquete",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi về các hình thức gửi hàng",
           "id": "Tanyakan pilihan pengirimannya",
           "ms": "Tanya tentang pilihan penghantaran",
-          "ko": "배송 방법에 대해 물어보세요"
+          "ko": "배송 방법에 대해 물어보세요",
+          "ru": "Спросите о способах доставки",
+          "bn": "পাঠানোর পদ্ধতিগুলো সম্পর্কে জিজ্ঞেস করুন",
+          "ur": "بھیجنے کے طریقوں کے بارے میں پوچھیں",
+          "zh-CN": "询问有哪些寄送方式",
+          "ja": "発送方法について尋ねましょう"
         },
         "practice": "Pregunte por las opciones de envío",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Chọn hình thức bạn muốn",
           "id": "Pilih jenis pengiriman yang kamu mau",
           "ms": "Pilih pilihan yang anda mahu",
-          "ko": "원하는 배송 방법을 고르세요"
+          "ko": "원하는 배송 방법을 고르세요",
+          "ru": "Выберите нужный вариант",
+          "bn": "আপনার পছন্দের পদ্ধতি বেছে নিন",
+          "ur": "اپنی پسند کا طریقہ منتخب کریں",
+          "zh-CN": "选择你想要的方式",
+          "ja": "希望する方法を選びましょう"
         },
         "practice": "Elija la opción que quiere",
         "practice_translations": {
@@ -188,7 +218,12 @@
           "vi": "Hỏi khi nào hàng đến nơi",
           "id": "Tanyakan kapan paketnya sampai",
           "ms": "Tanya bila ia akan sampai",
-          "ko": "언제 도착하는지 물어보세요"
+          "ko": "언제 도착하는지 물어보세요",
+          "ru": "Спросите, когда она придёт",
+          "bn": "কবে পৌঁছাবে জিজ্ঞেস করুন",
+          "ur": "پوچھیں کہ یہ کب پہنچے گا",
+          "zh-CN": "询问何时送达",
+          "ja": "いつ届くか尋ねましょう"
         },
         "practice": "Pregunte cuándo llegará",
         "practice_translations": {
@@ -220,7 +255,12 @@
         "vi": "Tôi muốn gửi bưu kiện này ra nước ngoài.",
         "id": "Saya ingin mengirim paket ini ke luar negeri.",
         "ms": "Saya ingin menghantar bungkusan ini ke luar negara.",
-        "ko": "이 소포를 해외로 보내고 싶어요."
+        "ko": "이 소포를 해외로 보내고 싶어요.",
+        "ru": "Я хотел бы отправить эту посылку за границу.",
+        "bn": "আমি এই পার্সেলটি বিদেশে পাঠাতে চাই।",
+        "ur": "میں یہ پارسل بیرونِ ملک بھیجنا چاہتا ہوں۔",
+        "zh-CN": "我想把这个包裹寄到国外。",
+        "ja": "この小包を海外に送りたいのですが。"
       },
       "practice": "Quisiera enviar este paquete al extranjero.",
       "practice_translations": {
@@ -249,7 +289,12 @@
         "vi": "Chỉ có vài cuốn sách và một chiếc áo len thôi.",
         "id": "Isinya cuma beberapa buku dan sebuah sweter.",
         "ms": "Isinya cuma beberapa buku dan sehelai baju sejuk.",
-        "ko": "책 몇 권이랑 스웨터 하나예요."
+        "ko": "책 몇 권이랑 스웨터 하나예요.",
+        "ru": "Там просто несколько книг и свитер.",
+        "bn": "শুধু কয়েকটি বই আর একটি সোয়েটার।",
+        "ur": "بس کچھ کتابیں اور ایک سویٹر ہے۔",
+        "zh-CN": "只是几本书和一件毛衣。",
+        "ja": "本が何冊かとセーターが一枚だけです。"
       },
       "practice": "Son solo unos libros y un suéter.",
       "practice_translations": {
@@ -278,7 +323,12 @@
         "vi": "Hình thức nào rẻ nhất vậy?",
         "id": "Pilihan mana yang paling murah?",
         "ms": "Pilihan mana yang paling murah?",
-        "ko": "제일 싼 방법이 뭐예요?"
+        "ko": "제일 싼 방법이 뭐예요?",
+        "ru": "Какой вариант самый дешёвый?",
+        "bn": "সবচেয়ে সস্তা পদ্ধতি কোনটি?",
+        "ur": "سب سے سستا طریقہ کون سا ہے؟",
+        "zh-CN": "最便宜的方式是哪种？",
+        "ja": "一番安い方法はどれですか？"
       },
       "practice": "¿Cuál es la opción más barata?",
       "practice_translations": {
@@ -307,7 +357,12 @@
         "vi": "Tôi có theo dõi được bưu kiện không?",
         "id": "Apakah paketnya bisa dilacak?",
         "ms": "Bolehkah saya jejak bungkusan ini?",
-        "ko": "소포 배송 조회가 되나요?"
+        "ko": "소포 배송 조회가 되나요?",
+        "ru": "Можно отследить посылку?",
+        "bn": "আমি কি পার্সেলটি ট্র্যাক করতে পারব?",
+        "ur": "کیا میں پارسل کو ٹریک کر سکتا ہوں؟",
+        "zh-CN": "我可以追踪包裹吗？",
+        "ja": "小包を追跡できますか？"
       },
       "practice": "¿Puedo rastrear el paquete?",
       "practice_translations": {

@@ -18,7 +18,12 @@
     "vi": "Gặp trợ giảng giờ tiếp sinh viên",
     "id": "Datang ke Jam Konsultasi",
     "ms": "Berjumpa Semasa Waktu Konsultasi",
-    "ko": "면담 시간 찾아가기"
+    "ko": "면담 시간 찾아가기",
+    "ru": "Консультация у преподавателя",
+    "bn": "অফিস আওয়ারে দেখা করা",
+    "ur": "آفس آورز میں ملاقات",
+    "zh-CN": "答疑时间拜访",
+    "ja": "オフィスアワーに訪問"
   },
   "character": "fox",
   "scenario": "You did not understand a concept from class, so you visit your teaching assistant (AI) during office hours.",
@@ -39,7 +44,12 @@
     "vi": "Bạn chưa hiểu một khái niệm trên lớp nên đến gặp trợ giảng (AI) trong giờ tiếp sinh viên.",
     "id": "Kamu belum paham satu konsep dari kelas, jadi kamu menemui asisten dosen (AI) saat jam konsultasi.",
     "ms": "Anda tidak faham satu konsep dalam kelas, jadi anda berjumpa pembantu pengajar anda (AI) semasa waktu konsultasi.",
-    "ko": "수업에서 배운 개념을 이해하지 못해서, 면담 시간에 조교(AI)를 찾아갔어요."
+    "ko": "수업에서 배운 개념을 이해하지 못해서, 면담 시간에 조교(AI)를 찾아갔어요.",
+    "ru": "Вы не поняли тему с занятия и идёте на консультацию к ассистенту преподавателя (AI).",
+    "bn": "ক্লাসের একটি ধারণা আপনি বোঝেননি, তাই অফিস আওয়ারে আপনার টিচিং অ্যাসিস্ট্যান্টের (AI) সাথে দেখা করছেন।",
+    "ur": "آپ کو کلاس کا ایک تصور سمجھ نہیں آیا، اس لیے آپ آفس آورز میں اپنے ٹیچنگ اسسٹنٹ (AI) سے ملنے جاتے ہیں۔",
+    "zh-CN": "你没听懂课上的一个概念，于是在答疑时间去找助教（AI）。",
+    "ja": "授業で理解できない概念があったので、オフィスアワーにティーチングアシスタント（AI）を訪ねます。"
   },
   "mission": {
     "native": "Explain what confused you and get help understanding it.",
@@ -60,7 +70,12 @@
       "vi": "Giải thích chỗ bạn chưa hiểu và nhờ giúp đỡ để hiểu rõ hơn.",
       "id": "Jelaskan bagian yang membingungkan dan minta bantuan untuk memahaminya.",
       "ms": "Terangkan apa yang mengelirukan anda dan dapatkan bantuan untuk memahaminya.",
-      "ko": "무엇이 헷갈렸는지 설명하고 이해하도록 도움을 받으세요."
+      "ko": "무엇이 헷갈렸는지 설명하고 이해하도록 도움을 받으세요.",
+      "ru": "Объясните, что вам непонятно, и получите помощь.",
+      "bn": "কী নিয়ে বিভ্রান্ত হয়েছেন তা ব্যাখ্যা করুন এবং বুঝতে সাহায্য নিন।",
+      "ur": "بتائیں کہ آپ کو کیا الجھن ہوئی اور اسے سمجھنے میں مدد لیں۔",
+      "zh-CN": "说明你哪里不懂，并寻求帮助以理解。",
+      "ja": "わからなかった点を説明し、理解できるよう助けてもらいましょう。"
     },
     "practice": "Explique qué no entendió y consiga ayuda para comprenderlo.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Nói chủ đề nào khiến bạn bối rối",
           "id": "Sebutkan topik yang membuatmu bingung",
           "ms": "Nyatakan topik yang mengelirukan anda",
-          "ko": "어떤 주제가 헷갈렸는지 말하세요"
+          "ko": "어떤 주제가 헷갈렸는지 말하세요",
+          "ru": "Скажите, какая тема вам непонятна",
+          "bn": "কোন বিষয়টি বুঝতে পারেননি বলুন",
+          "ur": "بتائیں کہ کون سا موضوع سمجھ نہیں آیا",
+          "zh-CN": "说出哪个主题让你困惑",
+          "ja": "どのテーマがわからなかったか伝える"
         },
         "practice": "Diga qué tema no entendió",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Xin một ví dụ đơn giản",
           "id": "Minta contoh yang sederhana",
           "ms": "Minta satu contoh yang mudah",
-          "ko": "간단한 예를 들어 달라고 부탁하세요"
+          "ko": "간단한 예를 들어 달라고 부탁하세요",
+          "ru": "Попросите простой пример",
+          "bn": "একটি সহজ উদাহরণ চান",
+          "ur": "ایک آسان مثال مانگیں",
+          "zh-CN": "请求一个简单的例子",
+          "ja": "簡単な例を頼む"
         },
         "practice": "Pida un ejemplo sencillo",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Xin thêm tài liệu đọc về chủ đề này",
           "id": "Minta bacaan tambahan tentang topik itu",
           "ms": "Minta bahan bacaan tambahan tentang topik itu",
-          "ko": "그 주제에 관한 추가 읽기 자료를 물어보세요"
+          "ko": "그 주제에 관한 추가 읽기 자료를 물어보세요",
+          "ru": "Попросите дополнительную литературу по теме",
+          "bn": "বিষয়টি নিয়ে অতিরিক্ত পড়ার উপকরণ চান",
+          "ur": "اس موضوع پر اضافی مطالعہ کا مواد مانگیں",
+          "zh-CN": "索要该主题的拓展阅读材料",
+          "ja": "そのテーマの参考文献を尋ねる"
         },
         "practice": "Pida lecturas adicionales sobre el tema",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào anh/chị, anh/chị có vài phút giúp em không ạ?",
         "id": "Halo, apa Anda punya waktu beberapa menit untuk membantu saya?",
         "ms": "Hai, boleh luangkan beberapa minit untuk bantu saya?",
-        "ko": "안녕하세요, 잠깐 시간 좀 내주실 수 있으세요?"
+        "ko": "안녕하세요, 잠깐 시간 좀 내주실 수 있으세요?",
+        "ru": "Здравствуйте, у вас есть пара минут, чтобы мне помочь?",
+        "bn": "হ্যালো, আমাকে সাহায্য করার জন্য আপনার কি কয়েক মিনিট সময় হবে?",
+        "ur": "السلام علیکم، کیا آپ کے پاس میری مدد کے لیے چند منٹ ہیں؟",
+        "zh-CN": "您好，您有几分钟时间帮帮我吗？",
+        "ja": "すみません、少しお時間いただけますか？"
       },
       "practice": "Hola, ¿tiene unos minutos para ayudarme?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Em chưa hiểu lắm phần về cung và cầu.",
         "id": "Saya kurang paham bagian tentang penawaran dan permintaan.",
         "ms": "Saya kurang faham bahagian tentang penawaran dan permintaan.",
-        "ko": "수요와 공급 부분을 잘 이해하지 못했어요."
+        "ko": "수요와 공급 부분을 잘 이해하지 못했어요.",
+        "ru": "Я не совсем понял часть про спрос и предложение.",
+        "bn": "চাহিদা ও যোগানের অংশটা আমি ঠিক বুঝতে পারিনি।",
+        "ur": "مجھے رسد اور طلب والا حصہ ٹھیک سے سمجھ نہیں آیا۔",
+        "zh-CN": "关于供给和需求的那部分我没太听懂。",
+        "ja": "需要と供給のところがよく分かりませんでした。"
       },
       "practice": "No entendí bien la parte de la oferta y la demanda.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Anh/chị có thể cho em một ví dụ đơn giản không?",
         "id": "Bisa berikan saya contoh yang sederhana?",
         "ms": "Boleh berikan saya satu contoh yang mudah?",
-        "ko": "간단한 예를 하나 들어 주실 수 있어요?"
+        "ko": "간단한 예를 하나 들어 주실 수 있어요?",
+        "ru": "Не могли бы вы привести простой пример?",
+        "bn": "আপনি কি একটা সহজ উদাহরণ দিতে পারবেন?",
+        "ur": "کیا آپ مجھے ایک آسان مثال دے سکتے ہیں؟",
+        "zh-CN": "您能给我举个简单的例子吗？",
+        "ja": "簡単な例を挙げていただけますか？"
       },
       "practice": "¿Me podría dar un ejemplo sencillo?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "À, giờ thì em hiểu rồi. Cảm ơn anh/chị!",
         "id": "Oh, sekarang saya paham. Terima kasih!",
         "ms": "Oh, sekarang baru saya faham. Terima kasih!",
-        "ko": "아, 이제 이해가 돼요. 감사합니다!"
+        "ko": "아, 이제 이해가 돼요. 감사합니다!",
+        "ru": "А, теперь понятно. Спасибо!",
+        "bn": "ও, এখন বুঝতে পারছি। ধন্যবাদ!",
+        "ur": "اوہ، اب سمجھ آ گیا۔ شکریہ!",
+        "zh-CN": "哦，现在明白了。谢谢您！",
+        "ja": "ああ、やっと分かりました。ありがとうございます！"
       },
       "practice": "¡Ah, ahora sí tiene sentido! ¡Gracias!",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Có tài liệu nào khác em có thể đọc thêm về phần này không ạ?",
         "id": "Apa ada bacaan lain tentang ini yang bisa saya pelajari?",
         "ms": "Ada bahan lain yang boleh saya baca tentang perkara ini?",
-        "ko": "이것에 대해 더 읽어 볼 만한 자료가 있을까요?"
+        "ko": "이것에 대해 더 읽어 볼 만한 자료가 있을까요?",
+        "ru": "Что ещё я мог бы почитать по этой теме?",
+        "bn": "এ বিষয়ে আমি আর কিছু পড়তে পারি কি?",
+        "ur": "کیا اس بارے میں کچھ اور ہے جو میں پڑھ سکوں؟",
+        "zh-CN": "关于这个还有其他可以阅读的资料吗？",
+        "ja": "これについて他に読めるものはありますか？"
       },
       "practice": "¿Hay algo más que pueda leer sobre esto?",
       "practice_translations": {

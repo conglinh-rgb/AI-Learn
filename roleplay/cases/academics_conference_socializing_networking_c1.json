@@ -18,7 +18,12 @@
     "vi": "Trò chuyện giờ giải lao",
     "id": "Ngobrol Saat Rehat Kopi",
     "ms": "Sembang Waktu Rehat Kopi",
-    "ko": "커피 브레이크 수다"
+    "ko": "커피 브레이크 수다",
+    "ru": "Разговор в кофе-брейк",
+    "bn": "কফি বিরতির আড্ডা",
+    "ur": "کافی بریک کی گپ شپ",
+    "zh-CN": "茶歇闲聊",
+    "ja": "コーヒーブレイクの雑談"
   },
   "character": "fox",
   "scenario": "It is the coffee break at an academic conference. Another attendee (AI) is standing next to you.",
@@ -39,7 +44,12 @@
     "vi": "Đang là giờ nghỉ uống cà phê tại một hội nghị học thuật. Một người tham dự khác (AI) đang đứng cạnh bạn.",
     "id": "Sedang rehat kopi di sebuah konferensi akademik. Seorang peserta lain (AI) berdiri di sebelahmu.",
     "ms": "Sekarang waktu rehat kopi di sebuah persidangan akademik. Seorang peserta lain (AI) berdiri di sebelah anda.",
-    "ko": "학회의 커피 브레이크 시간이에요. 다른 참석자(AI)가 옆에 서 있어요."
+    "ko": "학회의 커피 브레이크 시간이에요. 다른 참석자(AI)가 옆에 서 있어요.",
+    "ru": "Кофе-брейк на научной конференции. Рядом с вами стоит другой участник (AI).",
+    "bn": "একটি একাডেমিক সম্মেলনে কফি বিরতি চলছে। আরেকজন অংশগ্রহণকারী (AI) আপনার পাশে দাঁড়িয়ে আছেন।",
+    "ur": "ایک علمی کانفرنس میں کافی بریک ہے۔ ایک اور شرکت کنندہ (AI) آپ کے پاس کھڑا ہے۔",
+    "zh-CN": "学术会议茶歇时间，另一位参会者（AI）站在你旁边。",
+    "ja": "学会のコーヒーブレイク中です。別の参加者（AI）があなたの隣に立っています。"
   },
   "mission": {
     "native": "Start a friendly chat and find out what the other attendee works on.",
@@ -60,7 +70,12 @@
       "vi": "Bắt đầu một cuộc trò chuyện thân thiện và tìm hiểu người đó đang nghiên cứu gì.",
       "id": "Mulai obrolan yang ramah dan cari tahu apa yang sedang ditelitinya.",
       "ms": "Mulakan sembang mesra dan ketahui bidang kerja peserta itu.",
-      "ko": "친근하게 대화를 시작하고 상대 참석자가 어떤 연구를 하는지 알아보세요."
+      "ko": "친근하게 대화를 시작하고 상대 참석자가 어떤 연구를 하는지 알아보세요.",
+      "ru": "Начните дружескую беседу и узнайте, чем занимается собеседник.",
+      "bn": "বন্ধুত্বপূর্ণ আলাপ শুরু করুন এবং জেনে নিন অন্য অংশগ্রহণকারী কী নিয়ে কাজ করছেন।",
+      "ur": "دوستانہ گفتگو شروع کریں اور معلوم کریں کہ دوسرا شرکت کنندہ کس چیز پر کام کر رہا ہے۔",
+      "zh-CN": "开始一场友好的交谈，了解对方在做什么研究。",
+      "ja": "気軽に話しかけて、相手がどんな研究をしているか聞き出しましょう。"
     },
     "practice": "Inicie una charla amable y averigüe en qué trabaja la otra persona.",
     "practice_translations": {
@@ -92,7 +107,12 @@
           "vi": "Chào hỏi và giới thiệu bản thân",
           "id": "Sapa peserta itu dan perkenalkan dirimu",
           "ms": "Tegur peserta itu dan perkenalkan diri anda",
-          "ko": "참석자에게 인사하고 자기소개를 하세요"
+          "ko": "참석자에게 인사하고 자기소개를 하세요",
+          "ru": "Поздоровайтесь и представьтесь",
+          "bn": "অংশগ্রহণকারীকে শুভেচ্ছা জানান এবং নিজের পরিচয় দিন",
+          "ur": "شرکت کنندہ کو سلام کریں اور اپنا تعارف کروائیں",
+          "zh-CN": "向对方打招呼并自我介绍",
+          "ja": "あいさつして自己紹介する"
         },
         "practice": "Salude a la otra persona y preséntese",
         "practice_translations": {
@@ -124,7 +144,12 @@
           "vi": "Hỏi họ đang nghiên cứu gì",
           "id": "Tanyakan apa yang sedang mereka teliti",
           "ms": "Tanya apa yang sedang mereka kaji",
-          "ko": "무엇을 연구하는지 물어보세요"
+          "ko": "무엇을 연구하는지 물어보세요",
+          "ru": "Спросите, что он исследует",
+          "bn": "জিজ্ঞেস করুন তিনি কী নিয়ে গবেষণা করছেন",
+          "ur": "پوچھیں کہ وہ کس موضوع پر تحقیق کر رہے ہیں",
+          "zh-CN": "询问对方在研究什么",
+          "ja": "何を研究しているか尋ねる"
         },
         "practice": "Pregunte qué está investigando",
         "practice_translations": {
@@ -156,7 +181,12 @@
           "vi": "Hỏi họ thích bài nói nào nhất",
           "id": "Tanyakan presentasi mana yang paling mereka sukai",
           "ms": "Tanya ceramah mana yang paling mereka suka",
-          "ko": "어떤 발표가 가장 좋았는지 물어보세요"
+          "ko": "어떤 발표가 가장 좋았는지 물어보세요",
+          "ru": "Спросите, какой доклад понравился ему больше всего",
+          "bn": "জিজ্ঞেস করুন কোন বক্তৃতাটি তাঁর সবচেয়ে ভালো লেগেছে",
+          "ur": "پوچھیں کہ انہیں کون سی تقریر سب سے زیادہ پسند آئی",
+          "zh-CN": "询问对方最喜欢哪场报告",
+          "ja": "一番よかった発表を尋ねる"
         },
         "practice": "Pregunte qué ponencia le gustó más",
         "practice_translations": {
@@ -188,7 +218,12 @@
         "vi": "Chào bạn, đây là lần đầu bạn dự hội nghị này à?",
         "id": "Halo, apa ini pertama kalinya Anda ikut konferensi ini?",
         "ms": "Hai, ini kali pertama anda di persidangan ini?",
-        "ko": "안녕하세요, 이 학회는 처음 오셨어요?"
+        "ko": "안녕하세요, 이 학회는 처음 오셨어요?",
+        "ru": "Здравствуйте, вы впервые на этой конференции?",
+        "bn": "হাই, এটাই কি এই সম্মেলনে আপনার প্রথমবার?",
+        "ur": "ہیلو، کیا آپ پہلی بار اس کانفرنس میں آئے ہیں؟",
+        "zh-CN": "你好，这是你第一次参加这个会议吗？",
+        "ja": "こんにちは、この学会は初めてですか？"
       },
       "practice": "Hola, ¿es la primera vez que viene a este congreso?",
       "practice_translations": {
@@ -217,7 +252,12 @@
         "vi": "Mình là học viên cao học ngành khoa học môi trường.",
         "id": "Saya mahasiswa S2 ilmu lingkungan.",
         "ms": "Saya pelajar sarjana dalam bidang sains alam sekitar.",
-        "ko": "저는 환경과학 석사 과정 학생이에요."
+        "ko": "저는 환경과학 석사 과정 학생이에요.",
+        "ru": "Я магистрант, изучаю экологию.",
+        "bn": "আমি পরিবেশ বিজ্ঞানে মাস্টার্সের ছাত্র।",
+        "ur": "میں ماحولیاتی سائنس میں ماسٹرز کا طالب علم ہوں۔",
+        "zh-CN": "我是环境科学专业的硕士生。",
+        "ja": "環境科学専攻の修士課程の学生です。"
       },
       "practice": "Soy estudiante de maestría en ciencias ambientales.",
       "practice_translations": {
@@ -246,7 +286,12 @@
         "vi": "Hiện giờ bạn đang nghiên cứu gì vậy?",
         "id": "Anda sedang mengerjakan apa saat ini?",
         "ms": "Apa yang sedang anda usahakan sekarang?",
-        "ko": "요즘 어떤 연구를 하고 계세요?"
+        "ko": "요즘 어떤 연구를 하고 계세요?",
+        "ru": "Над чем вы сейчас работаете?",
+        "bn": "আপনি এখন কী নিয়ে কাজ করছেন?",
+        "ur": "آپ آج کل کس چیز پر کام کر رہے ہیں؟",
+        "zh-CN": "你目前在做什么研究？",
+        "ja": "今はどんな研究をされていますか？"
       },
       "practice": "¿En qué está trabajando actualmente?",
       "practice_translations": {
@@ -275,7 +320,12 @@
         "vi": "Sáng nay bạn thích bài nói nào nhất?",
         "id": "Presentasi mana yang paling Anda nikmati pagi ini?",
         "ms": "Ceramah mana yang paling anda suka pagi tadi?",
-        "ko": "오늘 아침 발표 중에 어떤 게 제일 좋았어요?"
+        "ko": "오늘 아침 발표 중에 어떤 게 제일 좋았어요?",
+        "ru": "Какой доклад сегодня утром понравился вам больше всего?",
+        "bn": "আজ সকালে কোন বক্তৃতাটি আপনার সবচেয়ে ভালো লেগেছে?",
+        "ur": "آج صبح آپ کو کون سی تقریر سب سے زیادہ پسند آئی؟",
+        "zh-CN": "今天上午你最喜欢哪场报告？",
+        "ja": "今朝の発表で一番よかったのはどれですか？"
       },
       "practice": "¿Qué ponencia le gustó más esta mañana?",
       "practice_translations": {
@@ -304,7 +354,12 @@
         "vi": "Cà phê ở đây ngon bất ngờ luôn!",
         "id": "Kopinya ternyata enak juga, ya!",
         "ms": "Kopi di sini sedap sangat, tak sangka!",
-        "ko": "여기 커피가 의외로 맛있네요!"
+        "ko": "여기 커피가 의외로 맛있네요!",
+        "ru": "Кофе здесь на удивление хороший!",
+        "bn": "এখানকার কফিটা আশ্চর্যরকম ভালো!",
+        "ur": "یہاں کی کافی حیرت انگیز طور پر اچھی ہے!",
+        "zh-CN": "这里的咖啡出乎意料地好喝！",
+        "ja": "ここのコーヒー、意外とおいしいですね！"
       },
       "practice": "¡El café aquí está sorprendentemente bueno!",
       "practice_translations": {
